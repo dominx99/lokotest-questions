@@ -1,0 +1,41 @@
+{
+  "instruction": "Ir-1",
+  "total_questions": 215,
+  "summary": {
+    "ok": 108,
+    "errors": 59,
+    "warnings": 44,
+    "unverifiable": 4
+  },
+  "delete": {
+    "count": 45,
+    "reason_categories": {
+      "wrong_instruction": "Q5(Ir-9), Q69(Ie-1), Q89(Ie-8), Q90(Ie-8), Q104(Ie-8), Q109(Ie-8), Q115(Ie-1), Q205(Ie-1), Q210(Ie-1)",
+      "wrong_section": "Q98, Q130, Q148, Q159, Q213 (§9 wrong topic), Q23, Q37, Q169, Q183 (ANP not in §41), Q121, Q123, Q127 (§17 ust.7 not exist)",
+      "unsupported_by_text": "Q6, Q93, Q126, Q128, Q129, Q131, Q135, Q137, Q138, Q143, Q147, Q150, Q153, Q164, Q166, Q172, Q175, Q180, Q182, Q185, Q189, Q195, Q204, Q208, Q215"
+    },
+    "questions": [5,6,23,37,69,89,90,93,98,104,109,115,121,123,126,127,128,129,130,131,135,137,138,143,147,148,150,153,159,164,166,169,172,175,180,182,183,185,189,195,204,205,208,210,213,215]
+  },
+  "fix": {
+    "count": 18,
+    "changes": [
+      {"q": 10, "action": "fix_distractor", "detail": "Answer A is 'co' (broken data)"},
+      {"q": 59, "action": "fix_question", "detail": "minimalna -> maksymalna"},
+      {"q": 68, "action": "fix_question", "detail": "jazda manewrowa -> pociąg roboczy"},
+      {"q": 110, "action": "fix_explanation", "detail": "ust. 12 -> ust. 10"},
+      {"q": 118, "action": "fix_explanation", "detail": "ust. 3 -> ust. 1"},
+      {"q": 134, "action": "fix_correct", "detail": "correct A -> C (semafor wjazdowy)"},
+      {"q": 139, "action": "fix_explanation", "detail": "ust. 11 -> ust. 27"},
+      {"q": 140, "action": "fix_explanation", "detail": "ust. 4 -> ust. 3 pkt 1"},
+      {"q": 141, "action": "fix_explanation", "detail": "ust. 1 -> ust. 6"},
+      {"q": 144, "action": "fix_question_and_explanation", "detail": "próba pełna -> próba szczegółowa, ust. 2 -> ust. 1"},
+      {"q": 149, "action": "fix_question_and_explanation", "detail": "drużyny trakcyjnej -> kabiny sterowniczej, ust. 5 -> ust. 3 pkt 2"},
+      {"q": 165, "action": "fix_explanation", "detail": "ust. 1 -> ust. 2"},
+      {"q": 173, "action": "fix_explanation", "detail": "ust. 3 pkt 2 -> ust. 3 pkt 1"},
+      {"q": 179, "action": "fix_explanation", "detail": "ust. 1 -> ust. 7"},
+      {"q": 187, "action": "fix_explanation", "detail": "ust. 2 -> ust. 4"},
+      {"q": 193, "action": "fix_explanation", "detail": "ust. 2 -> ust. 6"},
+      {"q": 194, "action": "fix_explanation", "detail": "ust. 2 -> ust. 4"}
+    ]
+  }
+}
