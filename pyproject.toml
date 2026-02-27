@@ -1,0 +1,9 @@
+[project]
+name = "questions"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.14"
+dependencies = [
+    "openpyxl>=3.1.5",
+    "pymupdf4llm>=0.3.4",
+]
