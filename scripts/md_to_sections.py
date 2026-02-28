@@ -22,7 +22,7 @@ def parse_sections(md_text: str) -> list[dict]:
     # Collect all § marker positions
     section_starts: list[tuple[int, str]] = []  # (line_index, section_id)
     for i, line in enumerate(lines):
-        m = re.match(r"^\*\*§\s+(\d+\w?)\*\*\s*$", line.strip())
+        m = re.match(r"^\*\*§\s+(\d+\w?)\.?\*\*\s*(?:\*\*\[.*?\]\*\*\s*)?$", line.strip())
         if m:
             section_starts.append((i, f"§ {m.group(1)}"))
 
@@ -37,7 +37,7 @@ def parse_sections(md_text: str) -> list[dict]:
     for idx, (start_line, section_id) in enumerate(section_starts):
         # Look backwards from this § to find the most recent chapter heading
         for j in range(start_line - 1, -1, -1):
-            cm = re.match(r"^\*\*Rozdział\s+\d+[a-z]?\.\*\*\s*$", lines[j].strip())
+            cm = re.match(r"^\*\*Rozdział\s+(?:\d+[a-z]?\.?|[IVXLCDM]+)\*\*\s*$", lines[j].strip())
             if cm:
                 # Chapter title is on the next non-empty line
                 chapter_line = lines[j].strip().strip("*")
@@ -56,7 +56,9 @@ def parse_sections(md_text: str) -> list[dict]:
         for j in range(start_line + 1, min(start_line + 5, len(lines))):
             stripped = lines[j].strip()
             if stripped.startswith("**") and stripped.endswith("**"):
-                title = stripped.strip("*").strip()
+                # Extract first bold segment only (avoid footnote refs like **[2)]** )
+                title_m = re.match(r"^\*\*(.+?)\*\*", stripped)
+                title = title_m.group(1).strip() if title_m else stripped.strip("*").strip()
                 title_end = j + 1
                 break
 

@@ -42,14 +42,14 @@ Wynik: lista "zadań agenckich", każde z jednym `section_ref` i listą max 8 py
 mkdir -p /tmp/verify-{instruction}
 ```
 
-### 4. Odpal agentów równolegle (batche po max 7)
+### 4. Odpal WSZYSTKICH agentów naraz
 
-Uruchom agentów w **batchach po max 7** (nie wszystkie naraz!). Każdy agent:
+Uruchom **wszystkich** agentów w jednym wywołaniu (jednym message z wieloma tool calls). Claude Code sam zakolejkuje ich do swojego wewnętrznego limitu równoległości. Każdy agent:
 - model: **sonnet** (szybszy, mniejsze zużycie kontekstu)
 - subagent_type: **general-purpose**
 - run_in_background: **true**
 
-Po każdym batchu poczekaj na zakończenie wszystkich agentów z batcha, potem uruchom kolejny.
+Po odpaleniu wszystkich, czekaj na ich zakończenie (notyfikacje przychodzą automatycznie).
 
 #### Prompt dla agenta
 
