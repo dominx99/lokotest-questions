@@ -1,0 +1,1689 @@
+{
+  "instruction": "Ir-1",
+  "timestamp": "2026-02-28T09:46:55.546910",
+  "summary": {
+    "total": 155,
+    "ok": 89,
+    "fix": 66,
+    "delete": 0
+  },
+  "results": [
+    {
+      "uuid": "5c982342-d32d-45d2-9932-12d50c1e96d7",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "125ab5d1-93b7-4232-a282-a5f3faddbb11",
+      "status": "OK",
+      "problems": [
+        "Zgodnie z § 32 ust. 1 pkt 3: „prędkość jazdy nie może przekraczać 40 km/h\". Odpowiedź C jest prawidłowa.",
+        "Pytanie jest jednoznaczne, precyzyjne i poprawne językowo.",
+        "Dystraktory są wiarygodne ale niepoprawne.",
+        "Referencja prawidłowa (dokładniej: § 32 ust. 1 pkt 3, ale ust. 1 jest akceptowalne)."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "296b6af4-8046-4f25-9ad6-997c0bdec3bc",
+      "status": "OK",
+      "problems": [
+        "Dystraktory B, C, D sa wiarygodne, ale wyraznie niepoprawne w tym kontekscie.",
+        "Referencja jest prawidlowa."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "1616327e-2ff0-4c34-8a55-1be8724b0af0",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "f5a301b1-1736-4579-8b64-06b44d5c0537",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "0aeb40ea-888e-4aa8-8029-9ad1d0fac18f",
+      "status": "OK",
+      "problems": [
+        "Dystraktory A (dysponujacy), B (odcinkowy), C (pomocniczy) — wszystkie trzy sa wymienione w § 7 ust. 4, wiec sa faktycznie istniejacymi rodzajami. Wiarygodne dystraktory.",
+        "Pytanie jednoznaczne, poprawne jezykowo.",
+        "Referencja prawidlowa."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "e2bbb13c-85a8-4722-a000-755c25fcdcdc",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "34e55423-a637-48c1-917e-ff0430372b97",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "f1d2c0ea-05a0-4626-b611-519e858e0737",
+      "status": "OK",
+      "problems": [
+        "Dystraktor A (dwa: glowne i boczne) — pomija tory specjalnego przeznaczenia. Dystraktor C (cztery) — dodaje nieistniejacy podzial. Dystraktor D (piec) — rowniez niepoprawny. Wszystkie sa wiarygodne, ale bledne.",
+        "Pytanie jednoznaczne, poprawne jezykowo.",
+        "Referencja prawidlowa."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "6f8905d8-6cd0-4d7b-a0ab-a64434f25232",
+      "status": "OK",
+      "problems": [
+        "Drobna uwaga: instrukcja podaje rowniez alternatywe \"albo na wczesniejsze polecenie dyzurnego ruchu\", ale w kontekscie pytania jednokrotnego wyboru odpowiedz B jest najlepsza z dostepnych opcji i wynika wprost z tekstu. Akceptowalne."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "5fe4b393-3b5a-407f-ad9f-d02ca780db1c",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "4eed61ca-2b03-4dae-8887-addd251897e4",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "53288eea-434c-4114-b351-7f1821084354",
+      "status": "FIX",
+      "problems": [
+        "Treść ust. 4 brzmi: \"Prędkość jazdy pociągu z podwójną trakcją nie może przekraczać prędkości konstrukcyjnej **żadnej z obu lokomotyw**.\" To oznacza, że prędkość jest ograniczona do prędkości konstrukcyjnej tej lokomotywy, która ma niższą prędkość konstrukcyjną — czyli de facto wolniejszej z nich. Odpowiedź B jest merytorycznie poprawna w skutku, ale sformułowanie \"wolniejszej z lokomotyw\" jest uproszczeniem. Przepis mówi \"żadnej z obu lokomotyw\", co oznacza, że nie może przekraczać prędkości konstrukcyjnej **ani jednej, ani drugiej**. Logicznie to daje ten sam efekt (ograniczenie do niższej z dwóch), więc odpowiedź B jest poprawna. Pytanie akceptowalne."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "46ea224e-14bc-4b85-9905-e3a63af20561",
+      "status": "FIX",
+      "problems": [
+        "Pytanie jest niejednoznaczne i nielogiczne. Pyta \"Czy przystanek osobowy **może znajdować się** na szlaku jednotorowym bez blokady liniowej?\", a poprawna odpowiedz C mowi \"Tak, i można tam zmienić kierunek jazdy pociągów pasażerskich\". Problem w tym, ze pytanie dotyczy **mozliwosci istnienia** przystanku na takim szlaku, a odpowiedz C dodaje informację o zmianie kierunku jazdy, ktora nie wynika z pytania.",
+        "Paragraf 3 ust. 14 mowi: \"Przystanek osobowy to miejsce na szlaku, urządzone do wsiadania i wysiadania podróżnych, w którym rozkładowo zatrzymują się pociągi pasażerskie. Na przystankach osobowych położonych na szlakach jednotorowych nie wyposażonych w urządzenia blokady liniowej, wewnętrzny rozkład jazdy może przewidywać zmianę kierunku jazdy pociągów pasażerskich.\"",
+        "Instrukcja nie mowi, ze przystanek \"moze sie znajdować\" — ona po prostu definiuje przystanek jako miejsce na szlaku i dodaje zasadę o zmianie kierunku. Pytanie sugeruje, ze istnienie przystanku na takim szlaku jest watpliwe, a tak nie jest.",
+        "Dystraktor A (\"Tak, ale tylko gdy nie zatrzymują się pociągi\") jest absurdalny — przystanek z definicji sluzy do zatrzymywania pociagów.",
+        "Odpowiedz C jest merytorycznie poprawna wzgledem instrukcji, ale pytanie jest zle sformulowane — laczy dwa rozne zagadnienia (istnienie przystanku i zmiana kierunku jazdy)."
+      ],
+      "changes": {
+        "question": "Co może przewidywać wewnętrzny rozkład jazdy na przystanku osobowym położonym na szlaku jednotorowym bez blokady liniowej?",
+        "answers": {
+          "A": "Zmianę kierunku jazdy pociągów pasażerskich",
+          "B": "Krzyżowanie pociągów towarowych",
+          "C": "Wyprzedzanie pociągów",
+          "D": "Zmianę składu pociągu"
+        },
+        "correct": "A"
+      }
+    },
+    {
+      "uuid": "61b4fcd9-eef1-4314-b3f8-14635213af12",
+      "status": "FIX",
+      "problems": [
+        "Treść § 9 ust. 1 brzmi: \"Pociąg jest to skład wagonów **lub innych pojazdów kolejowych** sprzęgniętych z czynnym pojazdem trakcyjnym albo pojazd trakcyjny – osygnalizowany i przygotowany do jazdy lub znajdujący się w drodze.\"",
+        "Pytanie pomija istotny fragment \"lub innych pojazdów kolejowych\" — w instrukcji nie mówi się tylko o \"składzie wagonów\", lecz o \"składzie wagonów lub innych pojazdów kolejowych\". To uproszczenie w treści pytania, choć nie zmienia poprawności odpowiedzi A.",
+        "Odpowiedź A brzmi \"Sam pojazd trakcyjny osygnalizowany i przygotowany do jazdy\". Instrukcja mówi: \"pojazd trakcyjny – osygnalizowany i przygotowany do jazdy **lub znajdujący się w drodze**\". Odpowiedź A pomija warunek alternatywny \"lub znajdujący się w drodze\", ale jako dokończenie zdania jest nadal poprawna — jest to jeden z wariantów definicji.",
+        "Słowo \"Sam\" w odpowiedzi A nie pojawia się w instrukcji. Instrukcja mówi \"albo pojazd trakcyjny\", nie \"sam pojazd trakcyjny\". Jest to drobna nieścisłość, ale nie zmienia sensu.",
+        "Dystraktory B, C, D są poprawnie nieprawidłowe."
+      ],
+      "changes": {
+        "question": "Pociąg to skład wagonów lub innych pojazdów kolejowych sprzęgniętych z czynnym pojazdem trakcyjnym albo:",
+        "answers": {
+          "A": "Pojazd trakcyjny osygnalizowany i przygotowany do jazdy lub znajdujący się w drodze"
+        }
+      }
+    },
+    {
+      "uuid": "d7c78ffa-d339-4182-afa3-c01d9567cd33",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "027bcc74-121d-45c6-9b17-ac8f5391a571",
+      "status": "FIX",
+      "problems": [
+        "Pytanie brzmi \"jak czesto nalezy umozliwiac przejazd\", a odpowiedz \"Co 10 minut\" sugeruje, ze manewry nalezy przerywac dokladnie co 10 minut. Tymczasem instrukcja mowi: \"przerywajac manewry w odstepach **nie dluzszych niz 10 minut**\". Oznacza to, ze 10 minut to gorny limit, a nie dokladna czestotliwosc. Odpowiedz \"Co 10 minut\" jest zatem uproszczeniem, ale w kontekscie quizu z zamknietymi odpowiedziami jest akceptowalna -- zadna inna odpowiedz nie jest bardziej poprawna.",
+        "Pytanie jest zbiezne tematycznie z Q47 i Q122 (trzy pytania o to samo). To redundancja, ale nie jest to blad merytoryczny.",
+        "Sformulowanie \"przy dluzszych manewrach\" jest drobnym uproszczeniem -- instrukcja mowi \"w razie dluzszego manewrowania\". Roznica jest minimalna."
+      ],
+      "changes": {
+        "question": "W jakich maksymalnych odstepach czasu nalezy przerywac manewry przez przejazd kolejowo-drogowy, aby umozliwic przejazd pojazdom drogowym?",
+        "answers": {
+          "B": "Nie dluzszych niz 10 minut"
+        }
+      }
+    },
+    {
+      "uuid": "70d3840f-d513-4259-bbdb-5711913cc14a",
+      "status": "FIX",
+      "problems": [
+        "Paragraf 3 ust. 9 pkt 2 lit. a) i b) mowi o odleglosci 100 m przed najblizszym rozjazdem lub krzyzowaniem — ale dotyczy to **konkretnych sytuacji wyjatkowych na liniach dwutorowych**, gdy tory szlakowe sa oddalone od siebie lub gdy najblizszy rozjazd znajduje sie blizej szlaku niz rozjazd w sąsiednim torze osłaniany semaforem wjazdowym. To nie jest ogolna reguła \"gdy semafora brak\".",
+        "Pytanie jest zle sformulowane — mowi \"przed każdym rozjazdem bez semafora\", sugerujac ogolną regulę, a w rzeczywistosci jest to wyjątek dotyczacy specyficznych sytuacji na liniach dwutorowych.",
+        "Pytanie jest redundantne jezykowo: \"bez semafora\" i \"gdy semafora brak\" to to samo — podwojne sformulowanie.",
+        "Odpowiedz 100 m jest prawidlowa numerycznie, ale kontekst pytania jest mylący."
+      ],
+      "changes": {
+        "question": "W jakiej odległości przed najbliższym rozjazdem znajduje się granica między torem szlakowym a posterunkiem zapowiadawczym, gdy przy danym torze na linii dwutorowej nie ma semafora wjazdowego?",
+        "explanation": "Ir-1 § 3 ust. 9 pkt 2 lit. a)"
+      }
+    },
+    {
+      "uuid": "47d001a3-6fb0-438c-8f3b-d448cec041a0",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedz B jest uproszczeniem definicji z § 2 ust. 6, ale nie jest blędna co do zasady. Paragraf 2 ust. 6 definiuje odstęp jako \"część toru szlakowego między\" czterema wariantami: (1) posterunkiem zapowiadawczym a najbliższym posterunkiem odstępowym/bocznicowym lub semaforem odstępowym, (2) dwoma kolejnymi posterunkami odstępowymi/bocznicowymi, (3) posterunkiem odstępowym i bocznicowym, (4) dwoma kolejnymi semaforami odstępowymi. Odpowiedz B mowi o \"sąsiednich posterunkach odstępowych lub semaforach odstępowych\", co obejmuje warianty (2) i (4), ale pomija warianty (1) i (3). Jest to niepelna definicja, ale z podanych odpowiedzi jest najblizszą prawidlowej.",
+        "Dystraktory A, C, D sa wyraznie bledne i latwe do odrzucenia.",
+        "Odpowiedz B mogłaby byc precyzyjniejsza, ale w kontekscie testu wielokrotnego wyboru jest akceptowalna jako najlepsza z podanych."
+      ],
+      "changes": {
+        "answers": {
+          "B": "Część toru szlakowego między sąsiednimi posterunkami następczymi lub semaforami odstępowymi blokady samoczynnej"
+        }
+      }
+    },
+    {
+      "uuid": "b3361841-e3c6-42a7-8e99-6dd916de8e94",
+      "status": "FIX",
+      "problems": [
+        "Pytanie jest nieprecyzyjne i moze byc mylace. Paragraf 5 ust. 9 mowi: *\"W razie zauważenia nieprawidłowości w działaniu zwrotnicy lub uszkodzenia rozjazdu, należy o tym powiadomić pracownika wyznaczonego do obsługi zwrotnicy, który zgłasza to dyżurnemu ruchu dysponującemu i wpisuje uszkodzenie do dziennika oględzin rozjazdów.\"* Zatem schemat jest dwuetapowy: (1) kazdy kto zauwazy nieprawidlowosc powiadamia pracownika obslugujacego zwrotnice, (2) ten pracownik zglasza to dyzurnemu ruchu dysponujacemu. Pytanie brzmi \"Kto odpowiada za zglaszanie nieprawidlowosci\" — to jest niejednoznaczne, bo \"zglaszanie\" moze oznaczac zarowno pierwsze zauważenie i powiadomienie (wtedy odpowiedz to \"kazdy kto zauwazy\"), jak i formalne zgloszenie dyzurnemu ruchu (wtedy odpowiedz to pracownik obslugujacy zwrotnice).",
+        "Odpowiedz C jest poprawna w kontekscie formalnego zglaszania dyzurnemu ruchu, ale pytanie powinno byc precyzyjniejsze.",
+        "Gramatycznie: \"zwrotnicy\" w pytaniu vs \"zwrotnice\" w odpowiedzi C — drobna niespojonosc (liczba pojedyncza vs mnoga), ale dopuszczalna."
+      ],
+      "changes": {
+        "question": "Kto zgłasza dyżurnemu ruchu dysponującemu nieprawidłowości w działaniu zwrotnicy?"
+      }
+    },
+    {
+      "uuid": "9c583e7f-8716-458f-b1bf-2c6a3c3a9a24",
+      "status": "OK",
+      "problems": [
+        "Dystraktory sa wiarygodne: A (droznik przejazdowy — istnieje w ust. 10, ale ma inne zadanie), C (posterunek odstepowy — istnieje w instrukcji, ale nie w tym kontekscie), D (posterunek bocznicowy — brzmi wiarygodnie, ale nie jest poprawny).",
+        "Pytanie jest jednoznaczne, precyzyjne, gramatycznie poprawne.",
+        "Referencja prawidlowa."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "916d46a9-1410-498a-8b2c-1676489d07e1",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "940e53b9-0f00-4c62-bdbf-80c19457f1e3",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "d99160f5-f1f1-46fb-b22d-2c66a57b3d47",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "e42c5bf9-fb55-4555-91c6-061e2df9d46b",
+      "status": "OK",
+      "problems": [
+        "Dystraktory sa wiarygodne ale bledne.",
+        "Referencja prawidlowa."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "d9b2118f-e4a2-42f3-913a-1a75c60a165d",
+      "status": "OK",
+      "problems": [
+        "Dystraktory: B (dyspozytor liniowy) — dyspozytor organizuje i kieruje ruchem (§ 7 ust. 2), ale nie prowadzi go bezposrednio na posterunku, C (nastawniczy wykonawczy) — bierze udzial w przygotowywaniu drog przebiegow, ale nie prowadzi ruchu, D (maszynista) — prowadzi pojazd, nie ruch na posterunku. Wiarygodne dystraktory.",
+        "Pytanie jednoznaczne, poprawne jezykowo.",
+        "Referencja prawidlowa."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "123052cc-67d9-4001-8c89-3e2edadb3671",
+      "status": "FIX",
+      "problems": [
+        "Pytanie zaweza podmiot do \"dyzurnego ruchu\", podczas gdy paragraf 6 ust. 5 mowi ogolnie o kazdym *\"pracowniku\"*: *\"pracownik otrzymujący to polecenie obowiązany jest odmówić jego wykonania podając przyczynę\"*. Przepis nie jest skierowany wylacznie do dyzurnego ruchu, lecz do kazdego pracownika. To ograniczenie w pytaniu jest nieprecyzyjne — sugeruje, ze obowiazek odmowy dotyczy tylko dyzurnego ruchu, co jest sprzeczne z ogolnoscia przepisu.",
+        "Odpowiedz B jest merytorycznie poprawna co do warunku (zagrozenie bezpieczenstwa ruchu), ale pytanie blednie zaweza podmiot.",
+        "Warto zauwazyc, ze pytanie Q103 (ponizej) poprawnie ujmuje ten sam przepis jako dotyczacy \"kazdego pracownika\". Istnieje ryzyko kolizji miedzy tymi dwoma pytaniami.",
+        "Dystraktory sa wiarygodne."
+      ],
+      "changes": {
+        "question": "W jakiej sytuacji pracownik związany z prowadzeniem ruchu jest zobowiązany odmówić wykonania polecenia?"
+      }
+    },
+    {
+      "uuid": "67db0d36-92ee-47cc-90c3-3c77b252e190",
+      "status": "OK",
+      "problems": [
+        "Dystraktory: A (zeberko ochronne) — jest torem specjalnego przeznaczenia, wiec poprawnie bledna odpowiedz. B (tor wyciagowy) — jest torem specjalnego przeznaczenia. D (tor bocznicowy) — jest torem specjalnego przeznaczenia. Wszystkie dystraktory sa trafne.",
+        "Pytanie jednoznaczne, poprawne jezykowo.",
+        "Referencja prawidlowa."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "1b012b65-3764-466f-a19b-76152679a4a6",
+      "status": "OK",
+      "problems": [
+        "Dystraktory sa wiarygodne: A (Tor 0) — nie istnieje taka numeracja, C (Tor 2) — to tor lewy, D (Tor A) — literowe oznaczenie nie stosuje sie do torow szlakowych.",
+        "Pytanie jednoznaczne, poprawne jezykowo.",
+        "Referencja prawidlowa."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "64ebdd50-173a-475a-9de4-af7e989d5d6e",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "a24fd765-c1d1-4fc5-91e1-de295aba3b33",
+      "status": "OK",
+      "problems": [
+        "Zgodnie z § 32 ust. 2 pkt 1: „jeżeli samoczynny semafor odstępowy nie wskazuje sygnału zezwalającego na jazdę, wówczas pociąg po zatrzymaniu może minąć ten semafor\". Odpowiedź B jest prawidłowa i dobrze oddaje sens przepisu.",
+        "Pytanie jest jednoznaczne i poprawne.",
+        "Dystraktory są wiarygodne ale niepoprawne."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "7d6703dc-a41a-4f05-a1e7-efb8eac2efb1",
+      "status": "FIX",
+      "problems": [
+        "**Niedokladna referencja.** Paragraf 14 ust. 2 mowi ogolnie: \"Przygotowanie pociagu do jazdy nalezy do obowiazkow przewoznika kolejowego.\" Nie mowi konkretnie o probie hamulca. Proba hamulca jest wymieniona w ust. 3 pkt 3 jako jeden z elementow zakresu przygotowania pociagu. Zatem odpowiedz B jest poprawna (bo calosciowe przygotowanie, w tym proba hamulca, to obowiazek przewoznika), ale pytanie sugeruje, ze istnieje oddzielny przepis o odpowiedzialnosci za probe hamulca -- a takiego nie ma wprost.",
+        "Pytanie jest poprawne merytorycznie, poniewaz z ust. 2 wynika, ze calosciowe przygotowanie (w tym proba hamulca z ust. 3 pkt 3) to obowiazek przewoznika.",
+        "Dystraktory sa wiarygodne (dyżurny ruchu, kierownik pociagu, maszynista)."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 14 ust. 2 w zw. z ust. 3 pkt 3"
+      }
+    },
+    {
+      "uuid": "8bbcd3f5-61f8-44af-a511-0ce5bec62410",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "f0d17e6a-22dc-47ac-8a5b-a73df2ef8c99",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "b83962c5-dbed-42f8-accd-1bc8ab32584e",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "044b2793-4a7a-40c4-aa34-f8e0e1917c23",
+      "status": "FIX",
+      "problems": [
+        "**Odpowiedz B jest bledna w szczegolach.** Paragraf 12 ust. 4 mowi, ze na szlaku jednotorowym wyjazd wymaga zezwolenia dyzurnego ruchu przekazanego **rozkazem pisemnym** -- ale instrukcja NIE precyzuje, ze jest to rozkaz pisemny \"S\". Instrukcja mowi jedynie o \"rozkazie pisemnym z okresleniem numeru ",
+        "Pytanie mowi o \"wyjazdzie poza ostatni rozjazd\", co jest uproszczeniem -- instrukcja mowi o wyjazdzie \"poza wskaznik oznaczajacy granice przetaczania, a gdzie wskaznika takiego nie ma -- poza ostatni rozjazd\". Pytanie pomija pierwsza czesc (wskaznik granicy przetaczania), ale jako uproszczenie jest "
+      ],
+      "changes": {
+        "answers": {
+          "B": "Rozkazu pisemnego od dyzurnego ruchu"
+        }
+      }
+    },
+    {
+      "uuid": "fec49c60-3509-40a1-b281-812c49310a1a",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "6c44d2e3-e151-4915-9d53-b3199d0f3afc",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "fa004092-0525-4848-9fbf-fa534fac7b7d",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "b4a75338-57a8-42d3-b9f4-3219dc7c21f5",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "87b261a8-0a1d-4f51-a893-6a67a11d17ff",
+      "status": "FIX",
+      "problems": [
+        "**Blad gramatyczny w odpowiedzi C.** Powinno byc \"w wewnętrznym rozkładzie jazdy\" (miejscownik), a jest \"w wewnętrznym rozkładem jazdy\" (narzednik). Instrukcja w ust. 3 pkt 1 mowi: \"zestawienie zgodne z parametrami okreslonymi w wewnetrznym rozkladzie jazdy pociagow\". Slowo \"rozkladem\" jest niepoprawna forma gramatyczna w tym kontekscie.",
+        "Odpowiedz A (\"Tylko wykonanie proby hamulca\") jest poprawnie skonstruowanym dystraktorem -- proba hamulca jest jednym z elementow, ale nie jedynym, wiec slowo \"tylko\" czyni ja bledna.",
+        "Odpowiedz B (\"Wylacznie osygnalizowanie pociagu\") -- analogicznie, \"wylacznie\" czyni ja bledna.",
+        "Odpowiedz D (\"Sprawdzenie rozkazu pisemnego S\") -- nie wystepuje w ust. 3, wiec jest bledna.",
+        "Referencja prawidlowa."
+      ],
+      "changes": {
+        "answers": {
+          "C": "Zestawienie składu zgodnie z parametrami określonymi w wewnętrznym rozkładzie jazdy"
+        }
+      }
+    },
+    {
+      "uuid": "fae2ca3c-f6b9-4a48-ba5d-e315362c0cac",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "aa3a50df-3036-44d6-845a-25649185c4ae",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedz B jest poprawna merytorycznie, ale **upraszcza tresc przepisu**. Paragraf 14 ust. 1 mowi: \"na stacjach posrednich, na ktorych zachodzi taka potrzeba (ust. 3) lub przy zmianie druzyny trakcyjnej.\" Odpowiedz B pomija warunek \"przy zmianie druzyny trakcyjnej\", ktory jest alternatywna przeslanka do przygotowania pociagu na stacji posredniej. Jest to istotne pominienie, poniewaz zmiana druzyny trakcyjnej to odrebna sytuacja od \"zachodzenia potrzeby\" z ust. 3.",
+        "W kontekscie quizu z zamknietymi odpowiedziami, odpowiedz B jest nadal \"najlepsza\" sposrod dostepnych opcji, wiec pytanie dziala poprawnie.",
+        "Dystraktory sa dobrze skonstruowane i jednoznacznie bledne."
+      ],
+      "changes": {
+        "answers": {
+          "B": "Na stacjach pośrednich, gdy zachodzi taka potrzeba lub przy zmianie drużyny trakcyjnej"
+        }
+      }
+    },
+    {
+      "uuid": "ec37a3de-d7ec-4371-99c2-e5411200e62b",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "e512fd40-d449-497f-8a4a-5c89824ad3fd",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "47ce64c8-bd4e-440b-9984-6df276f679ff",
+      "status": "FIX",
+      "problems": [
+        "Treść § 9 ust. 3 pkt 1 brzmi: \"pociągi utrzymaniowo-naprawcze (ratunkowe, inspekcyjne, diagnostyczne) – przeznaczone do usuwania skutków wypadków kolejowych, diagnostyki, inspekcji linii\". Pociągi utrzymaniowo-naprawcze są przeznaczone nie tylko do \"usuwania skutków wypadków kolejowych\", ale też do \"diagnostyki, inspekcji linii\". Odpowiedź B podaje tylko jeden z celów, co jest technicznie poprawne (pytanie brzmi \"przeznaczone do:\", a odpowiedź podaje jeden z celów), ale może być mylące.",
+        "Większy problem: pytanie mówi ogólnie o \"pociągach utrzymaniowo-naprawczych\", a odpowiedź B (\"Usuwania skutków wypadków kolejowych\") odpowiada konkretnie pociągom ratunkowym. To uproszczenie mogłoby sugerować, że wszystkie pociągi utrzymaniowo-naprawcze służą wyłącznie do usuwania skutków wypadków.",
+        "Ponadto instrukcja mówi, że pociągi uruchamia się \"Dla potrzeb wewnętrznych PKP Polskie Linie Kolejowe S.A.\", a nie że \"PKP PLK S.A. może uruchamiać\" — to drobna różnica stylistyczna, ale sens jest zachowany.",
+        "Dystraktory (przewóz pasażerów dalekobieżnych, transport kontenerów, regularna obsługa bocznic) są poprawnie nieprawidłowe i wiarygodne."
+      ],
+      "changes": {
+        "question": "Pociągi utrzymaniowo-naprawcze uruchamiane przez PKP PLK S.A. przeznaczone są między innymi do:",
+        "answers": {
+          "B": "Usuwania skutków wypadków kolejowych, diagnostyki i inspekcji linii"
+        }
+      }
+    },
+    {
+      "uuid": "042e84d8-dfcd-4bcb-9aeb-2b0ace3e5671",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "d3757a89-7570-414f-bd98-c3488cb7ca5d",
+      "status": "FIX",
+      "problems": [
+        "**Blad merytoryczny w tresci pytania.** Pytanie mowi o \"przerwach na otwarcie przejazdu\", co sugeruje, ze to same przerwy (w ktorych ruch drogowy jest dopuszczony) nie moga byc dluzsze niz 10 minut. Tymczasem instrukcja mowi odwrotnie: to **odstepu miedzy przerwami** (czyli ciaglosc manewerow) nie moga byc dluzsze niz 10 minut. Innymi slowy, manewry nalezy przerywac co najwyzej 10 minut -- co oznacza, ze manewry (a nie przerwy) nie moga trwac dluzej niz 10 minut bez przerwy.",
+        "Pytanie jest odwrocone logicznie: powinno mowic o odstepach miedzy przerwami dla ruchu drogowego, a nie o dlugosci samych przerw."
+      ],
+      "changes": {
+        "question": "W razie dłuższego manewrowania przez przejazd kolejowo-drogowy, odstępy między przerwami umożliwiającymi przejazd pojazdom drogowym nie mogą być dłuższe niż:",
+        "correct": "B",
+        "explanation": "Ir-1 § 13 ust. 2"
+      }
+    },
+    {
+      "uuid": "b222dbe1-7e38-440a-abca-bf9b34e76e85",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "2c40d55d-1c95-48b3-97b6-3c31229fd94f",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "ab54c3b4-b4e4-4ad7-95c8-d366f03ee9a0",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "56c66a31-a633-4abe-abd2-ef6fa647c2d0",
+      "status": "FIX",
+      "problems": [
+        "Poprawna odpowiedź (20 km/h) jest zgodna z treścią paragrafu. Zgodnie z § 31 ust. 36 pkt 1: maszynista obowiązany jest „ograniczyć prędkość czoła pociągów na całej szerokości przejazdu kolejowo-drogowego i przejść wyposażonych w półsamoczynne lub samoczynne systemy przejazdowe do 20 km/h\". Odpowiedź C = 20 km/h jest prawidlowa.",
+        "Pytanie mówi o „przejazdach z SSP\" — w instrukcji mowa jest o przejazdach/przejściach wyposażonych w „półsamoczynne lub samoczynne systemy przejazdowe\". Skrót „SSP\" nie pojawia się w treści paragrafu. Zalecam doprecyzowanie albo użycie pełnej nazwy, albo dodanie obu skrótów (SSP — samoczynne systemy przejazdowe i PSP — półsamoczynne). Instrukcja odnosi się do obu typów (półsamoczynnych i samoczynnych), a pytanie wspomina tylko o SSP (samoczynnych), co zawęża zakres niezgodnie z przepisem.",
+        "Referencja mówi „ust. 36 pkt 1\" — numer jest poprawny, choć formatowanie jest prawidłowe."
+      ],
+      "changes": {
+        "question": "Jeśli maszynista stwierdzi brak łączności radiotelefonicznej na odcinku zdalnego prowadzenia ruchu, prędkość przez przejazdy z samoczynnym lub półsamoczynnym systemem przejazdowym ogranicza się do:"
+      }
+    },
+    {
+      "uuid": "6be209a0-5587-49e0-a03f-7fe2ab63a1d3",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "73de73ca-bbea-49cc-b4d5-764135dd0094",
+      "status": "FIX",
+      "problems": [
+        "Pytanie jest nieprecyzyjne i mylące. Sygnał Pc 6 nie oznacza, że maszynista powinien \"zatrzymać pociąg w miejscu, gdzie stoi maszynista unieruchomionego składu\". Zgodnie z § 64 ust. 26, maszynista po zauważeniu sygnału Pc 6 powinien **zatrzymać pociąg** (swój), uzyskać informację o przyczynie zatrzymania, a następnie **jechać dalej obok tego pociągu z prędkością nie większą niż 20 km/h aż do miejsca znajdowania się maszynisty unieruchomionego pociągu lub przeszkody**. Zatem sygnał Pc 6 nie nakazuje zatrzymania w miejscu maszynisty unieruchomionego składu — nakazuje najpierw zatrzymanie (w swoim bieżącym miejscu), a potem powolną jazdę do tego miejsca.",
+        "Sformułowanie pytania sugeruje, że sygnał wskazuje na konieczność zatrzymania dokładnie tam, gdzie stoi maszynista unieruchomionego składu, co jest uproszczeniem i może prowadzić do błędnej interpretacji przepisu.",
+        "Poprawna odpowiedź (Pc 6) jest technicznie trafna — to jedyny z wymienionych sygnałów opisany w tym ustępie — ale treść pytania powinna być dokładniejsza."
+      ],
+      "changes": {
+        "question": "Który sygnał na czole innego pociągu informuje maszynistę o konieczności zatrzymania się i zachowania szczególnej ostrożności przy dalszej jeździe obok tego pociągu?"
+      }
+    },
+    {
+      "uuid": "89d79d16-e4df-4796-b4be-7cc670e4c1c1",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedz poprawna (C: 20 km/h) jest zgodna z treścią paragrafu. Zgodnie z § 70 ust. 2: \"nie przekraczając prędkości 30 km/h, a **20 km/h** przez przejazdy kolejowo-drogowe i przejścia, które nie są obsługiwane lub nie zabezpieczone w inny sposób.\" Odpowiedz 20 km/h jest prawidlowa.",
+        "Jednak wartosci dystraktrow sa zbyt bliskie sobie i za male (10, 15, 25 km/h) -- brak wartosci 30 km/h, ktora jest ogolna predkoscia cofania i moglabyc dobrym dystraktorem. Wartosc 15 km/h nie ma zadnego uzasadnienia w instrukcji i jest niepotrzebna.",
+        "Pytanie jest poprawne merytorycznie, ale mozna poprawic dystraktory."
+      ],
+      "changes": {
+        "answers": {
+          "A": "30 km/h",
+          "B": "5 km/h"
+        }
+      }
+    },
+    {
+      "uuid": "adaef145-9ae1-40ad-a4e3-508b2639d58a",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "f70b43d2-0e42-4b6e-bf5b-a79145ca43a6",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "0f7899ab-540c-4ad7-8c75-67ece29c0f37",
+      "status": "OK",
+      "problems": [
+        "Drobna roznica: instrukcja mowi \"pracownika przewoznika kolejowego\", a odpowiedz mowi \"pracownika przewoznika\" (bez slowa \"kolejowego\"). W kontekscie quizu kolejowego jest to oczywiste i akceptowalne, ale dla pelnej dokladnosci mozna dodac slowo \"kolejowego\".",
+        "Dystraktory sa wiarygodne i jednoznacznie niepoprawne. Referencja prawidlowa."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "a6b87f5e-f438-4b07-95e5-391117a03b8d",
+      "status": "OK",
+      "problems": [
+        "Odpowiedzi A (ogledizny techniczne -- pkt 2), B (zestawienie skladu -- pkt 1), C (proba hamulca -- pkt 3) sa elementami zakresu z ust. 3, wiec sa bledne jako odpowiedzi na pytanie \"ktore NIE jest elementem\".",
+        "Pytanie poprawne jezykowo, jednoznaczne. Referencja prawidlowa."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "911f536c-b31d-4f97-b521-3ac5b0429301",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "4c8a127f-7000-4e41-bf88-cce88f75eda7",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "88d93b24-84e2-4a23-8b49-8d2df20d2627",
+      "status": "OK",
+      "problems": [
+        "Pytanie jest jednoznaczne i precyzyjne.",
+        "Dystraktory (50 km/h, 80 km/h, 10 km/h) sa wiarygodne i faktycznie niepoprawne."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "a6f3d311-b055-4a15-b5a0-41b6b8bb852b",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedz B (10 km/h) jest **czesciowo poprawna, ale nieprecyzyjna**. Zgodnie z § 76 ust. 4 pkt 2: \"prędkość wjazdu pociągu powinna wynosić **5-10 km/h**\". Instrukcja podaje zakres 5-10 km/h, a nie jednoznacznie 10 km/h. Pytanie mowi o \"maksymalnej dopuszczalnej predkosci\", wiec 10 km/h jako gorny zakres jest akceptowalne, ale nalezy to doprecyzowac.",
+        "Dystraktor C: 5 km/h jest problemem -- wartosc 5 km/h jest dolna granica zakresu 5-10 km/h, wiec technicznie jest **rowniez poprawna** jako predkosc wjazdu. To moze wprowadzac w blad."
+      ],
+      "changes": {
+        "question": "Jaka jest dopuszczalna prędkość wjazdu pociągu na stację z zagrzanym czopem osi zestawu kołowego?",
+        "answers": {
+          "C": "15 km/h"
+        }
+      }
+    },
+    {
+      "uuid": "7af766de-08ca-46e6-b78f-8941451c15c9",
+      "status": "FIX",
+      "problems": [
+        "**Odpowiedz 10 km/h jest poprawna tylko w jednym konkretnym scenariuszu (ust. 24 pkt 2c i 4d), ale nie we wszystkich przypadkach wylaczenia SSP.** Tresc par. 84 ust. 24 rozroznia kilka sytuacji:",
+        "**pkt 1)** -- gdy NIE MA mozliwosci dezaktywacji SSP: predkosc ograniczona do **20 km/h** (nie 10 km/h).",
+        "**pkt 2c)** -- gdy jest mozliwosc dezaktywacji osobno dla kazdego toru: predkosc pociagu roboczego ograniczona do **10 km/h**.",
+        "**pkt 3)** -- gdy dezaktywacja bez identyfikacji toru: **20 km/h**.",
+        "**pkt 4d)** -- przejazd pociagu roboczego po dezaktywacji tylko na torze zamknietym: **10 km/h**.",
+        "**Pytanie jest zbyt ogolne** -- mowi o \"wylaczeniu SSP\" bez sprecyzowania, ktory wariant dezaktywacji jest na mysli. W zaleznosci od scenariusza, poprawna odpowiedz to 10 km/h LUB 20 km/h. Pytanie jest wieloznaczne.",
+        "**Referencja \"ust. 24 pkt 4\" jest czesciowo poprawna** -- pkt 4d) rzeczywiscie podaje 10 km/h, ale dotyczy specyficznego scenariusza (dezaktywacja czujnikow jedynie na torze zamknietym i koniecznosc aktywowania ich przed przejazdem). Pytanie sugeruje ogolny przypadek."
+      ],
+      "changes": {
+        "question": "Jaka jest maksymalna dopuszczalna predkosc pociagu roboczego na calej szerokosci przejazdu kolejowo-drogowego, gdy dezaktywowano urzadzenia SSP jedynie na torze zamknietym?"
+      }
+    },
+    {
+      "uuid": "6fa4b7d2-373d-4a44-be67-35d1ec54a9d8",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź C (20 km/h) jest **poprawna** -- paragraf 38 ust. 1 stanowi: \"wprowadzić go do stacji z prędkością do 20 km/h\". Referencja jest prawidłowa.",
+        "**Problem z dystraktorem A (30 km/h)**: Wartość 30 km/h nie pojawia się w kontekście tego paragrafu i jest wiarygodna jako dystraktor -- to jest w porządku.",
+        "**Problem z dystraktorem B (80 km/h)**: Wartość 80 km/h jest zbyt odległa i mało wiarygodna w kontekście jazdy na tor boczny, co czyni pytanie zbyt łatwym.",
+        "**Problem z dystraktorem D (60 km/h)**: Podobnie, 60 km/h jest zbyt odległa.",
+        "Sugeruję zastąpienie dystraktora B na bardziej wiarygodną wartość, np. 40 km/h lub 15 km/h."
+      ],
+      "changes": {
+        "answers": {
+          "B": "40 km/h"
+        }
+      }
+    },
+    {
+      "uuid": "431f4a1c-351a-49b6-bcca-640cd7d890ef",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź C (20 km/h) jest **poprawna** -- paragraf 38 ust. 9 pkt 2 stanowi: \"konieczności ostrożnej jazdy z prędkością do 20 km/h\".",
+        "**Problem z dystraktorem A (160 km/h)**: Wartość 160 km/h jest absurdalnie wysoka w kontekście jazdy na tor częściowo zajęty. Żaden maszynista nie pomyli prawidłowej odpowiedzi z 160 km/h. To czyni pytanie trywialnym.",
+        "**Problem z dystraktorem D (120 km/h)**: Tak samo -- 120 km/h jest zbyt odległa od realistycznych wartości w tym kontekście.",
+        "**Duplikacja tematyczna z Q32**: Pytanie Q65 dotyczy praktycznie tego samego zagadnienia co Q32 (prędkość na tor częściowo zajęty). Różnią się jedynie sformułowaniem pytania. Warto rozważyć usunięcie jednego z nich lub zróżnicowanie treści.",
+        "Referencja powinna być bardziej precyzyjna: \"Ir-1 § 38 ust. 9 pkt 2\"."
+      ],
+      "changes": {
+        "answers": {
+          "A": "40 km/h",
+          "D": "30 km/h"
+        },
+        "explanation": "Ir-1 § 38 ust. 9 pkt 2"
+      }
+    },
+    {
+      "uuid": "e6f5148f-57bd-436c-b7c7-970d781c9f41",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedz poprawna (C: 20 km/h) jest zgodna z trescia paragrafu -- identycznie jak Q54.",
+        "**Pytanie Q66 jest duplikatem pytania Q54** -- oba pytaja o to samo (maksymalna predkosc cofania przez przejazdy nieobslugiwane) i oba maja poprawna odpowiedz 20 km/h z tego samego ustępu. Roznia sie jedynie sformulowaniem i dystraktarami.",
+        "Dystraktor B: 120 km/h jest absurdalnie wysoki i nieprawdopodobny w kontekscie cofania pociagu -- latwy do odrzucenia."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "1e1b7fd6-7493-48cc-ae66-3f534340c56f",
+      "status": "OK",
+      "problems": [
+        "Pytanie jest jasne i jednoznaczne.",
+        "Dystraktory (60, 80, 100 km/h) są wiarygodne — to wartości spotykane w innych przepisach — ale jednocześnie wyraźnie niepoprawne w tym kontekście.",
+        "Drobna uwaga: sygnał Pc 6 nie jest \"podawany\" w kierunku maszynisty — jest on wyświetlany na czole unieruchomionego pociągu. Sformułowanie \"po podaniu sygnału Pc 6\" jest lekkim uproszczeniem, ale mieści się w dopuszczalnej konwencji pytań quizowych."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "bad58539-50b9-4fdd-bf09-daff1a5b55b6",
+      "status": "OK",
+      "problems": [
+        "Pytanie jest jednoznaczne i precyzyjne.",
+        "Dystraktory (30, 120, 60 km/h) sa wiarygodne; 120 km/h jest moze nieco absurdalny, ale pozostale sa dobre."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "6b8f73b3-74a2-4b63-8305-1d2dce06e201",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedz D (20 km/h) jest zgodna z trescia paragrafu. Zgodnie z § 76 ust. 8: \"następnie ze względu na powstałe wytarcie obręczy kół jechać z prędkością najwyżej **20 km/h** do najbliższej stacji.\"",
+        "Jednak **sformulowanie pytania jest nieprecyzyjne i mylace**. Paragraf 76 ust. 8 mowi o sytuacji, gdy w jadacym pociagu w stanie odhamowanym wagon hamuje tak silnie, ze koła ślizgają się po szynie. Nalezy wowczas zatrzymac pociag, **wylaczyc i wyluzowac** hamulce, a nastepnie jechac 20 km/h. Pytanie mowi \"po odhamowaniu\", co jest poprawne, ale fraza \"hamowanie ślizgowe\" moze byc mylaca -- to nie jest standardowy termin z instrukcji. Instrukcja mowi o sytuacji, gdy \"wagon hamuje tak silnie, że jego koła ślizgają się po szynie\".",
+        "Dystraktor A: 5 km/h i C: 160 km/h sa skrajne i latwe do odrzucenia."
+      ],
+      "changes": {
+        "question": "Jaka jest maksymalna dopuszczalna prędkość jazdy do najbliższej stacji po wyłączeniu hamulców wagonu, którego koła ślizgały się po szynie?",
+        "answers": {
+          "A": "10 km/h",
+          "C": "30 km/h"
+        }
+      }
+    },
+    {
+      "uuid": "4b38f474-03b9-461b-ab31-5727212ec7c2",
+      "status": "OK",
+      "problems": [
+        "Odpowiedz B (20 km/h) jest zgodna z trescia paragrafu. Zgodnie z § 76 ust. 10: \"polecając zmniejszenie prędkości jazdy do **20 km/h**\".",
+        "Pytanie jest poprawne merytorycznie.",
+        "Sformulowanie \"w wagonie poprzedzającym\" jest lekko niejasne (instrukcja mowi o \"braku zderzaka przy wagonie w pociągu\", nie specyfikuje \"poprzedzającym\"), ale kontekst jest wystarczajaco zrozumialy.",
+        "Dystraktory (160, 100, 80 km/h) sa wiarygodne, choc dwa z nich (100, 80) to standardowe predkosci eksploatacyjne."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "ea5fb0a1-c1c4-474b-9fd2-c35711e2ffc5",
+      "status": "OK",
+      "problems": [
+        "Odpowiedz C (20 km/h) jest zgodna z trescia paragrafu. Zgodnie z § 77 ust. 2: \"polecając zmniejszanie prędkości jazdy do **20 km/h** i zachowanie ostrożności.\"",
+        "Sformulowanie \"wyjeździe na tor sąsiedni\" odpowiada tresci § 77 ust. 2, ktory mowi o torach sasiednich: \"Tory sąsiadujące z torem, po którym przejechał pociąg bez sygnału końca pociągu należy uważać za zagrożone\".",
+        "Pytanie jest poprawne merytorycznie i jednoznaczne.",
+        "Dystraktory (40, 5, 50 km/h) sa wiarygodne."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "f1fec981-ea6a-4e7b-acb0-d4c023b6bd0d",
+      "status": "OK",
+      "problems": [
+        "Pytanie jest jednoznaczne i precyzyjne.",
+        "Bledne odpowiedzi (120, 60, 30 km/h) sa wiarygodne jako dystraktory.",
+        "Referencja poprawna."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "66070ae6-fdd2-4740-8997-2b574432780e",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "c5154d1a-1f36-4fe4-8b95-085f78993e43",
+      "status": "FIX",
+      "problems": [
+        "**Pytanie łączy dwa różne zagadnienia w jedno.** Paragraf 67 ust. 8 pkt 2 mówi o prędkości pociągu pchanego: \"pchać pociąg z prędkością nieprzekraczającą 30 km/h, a do 20 km/h przez przejazdy kolejowo-drogowe i przejścia, które nie są obsługiwane lub nie są zabezpieczone w inny sposób.\" Oznacza to, że **30 km/h** to ogólna prędkość pociągu pchanego, a nie specjalnie prędkość \"przy zabezpieczonych przejazdach\". Przez zabezpieczone przejazdy pociąg pchany może jechać do 30 km/h (bo to limit ogólny), natomiast przez niezabezpieczone — do 20 km/h.",
+        "Dodanie \"cofającego się\" i podwójna referencja (§ 67 ust. 8 pkt 2 / § 70 ust. 2) sugeruje, że pytanie miało dotyczyć zarówno pchania, jak i cofania. Nie mam dostępu do § 70, więc nie mogę zweryfikować drugiej referencji.",
+        "Pytanie w obecnym brzmieniu jest niejednoznaczne — sformułowanie \"przy zabezpieczonych przejazdach\" sugeruje, że istnieje specjalny limit dla zabezpieczonych przejazdów, podczas gdy 30 km/h to ogólny limit dla pociągu pchanego (niezależnie od przejazdów)."
+      ],
+      "changes": {
+        "question": "Jaka jest maksymalna dopuszczalna prędkość dla pociągu pchanego?",
+        "explanation": "Ir-1 § 67 ust. 8 pkt 2"
+      }
+    },
+    {
+      "uuid": "ac3ee5c1-d943-4834-bad2-a542b46f6aac",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "e6b72b4b-62d2-4157-9ab6-43cc4cfdcbb9",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedz D (30 km/h) jest zgodna z trescia paragrafu. Zgodnie z § 76 ust. 2: \"po wstawieniu ich na tor, należy dowieźć je do najbliższej stacji, dostosowując prędkość jazdy do wskazówek rewidenta taboru kolejowego, przy czym prędkość ta nie może być większa niż **30 km/h**.\"",
+        "Jednak pytanie pomija wazny szczegol -- § 76 ust. 2 wyraznie mowi, ze predkosc nalezy dostosowac do **wskazowek rewidenta taboru kolejowego**, a 30 km/h to jedynie gorny limit. Pytanie sugeruje, ze 30 km/h jest standardowa predkoscia, podczas gdy rewident moze nakazac jazde wolniejsza.",
+        "Poza tym pytanie jest poprawne merytorycznie.",
+        "Dystraktory sa dobre (20, 60, 40 km/h)."
+      ],
+      "changes": {
+        "question": "Jaka jest maksymalna dopuszczalna prędkość podczas jazdy do stacji z wagonami wstawionymi na tor po wykolejeniu, jeżeli rewident taboru nie wskaże inaczej?"
+      }
+    },
+    {
+      "uuid": "f9552968-3950-4fbc-b704-f9e6cdb3fa26",
+      "status": "FIX",
+      "problems": [
+        "**Paragraf 28 ust. 16 nie zawiera żadnej informacji o prędkości 40 km/h ani o powtarzaczu zajętości toru.** Ustęp 16 dotyczy wyłącznie przypadków, w których należy stosować lub wprowadzać telefoniczne zapowiadanie pociągów na szlaku z blokadą półsamoczynną. Wymienia sytuacje takie jak zamknięcie toru, wyprawienie pociągu po torze lewym, jazda do kilometra itp.",
+        "**W całym paragrafie 28 nie ma wzmianki o prędkości 40 km/h ani o powtarzaczu zajętości toru.** Temat ten prawdopodobnie pochodzi z innego paragrafu instrukcji (np. z przepisów dotyczących blokady samoczynnej -- par. 29, lub z przepisów o urządzeniach kontroli niezajętości -- par. 63).",
+        "**Pytanie nie ma oparcia w podanej referencji** -- jest to poważny błąd."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "bee52553-2332-4e5b-84d9-6e9533bc9984",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "0ccdc7d7-e13c-4857-8e90-cdb55c3c2609",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "033e053f-6478-43b0-8e20-9d67c7dbc127",
+      "status": "OK",
+      "problems": [
+        "Pytanie odnosi się do samoczynnego semafora odstępowego wskazującego sygnał \"Stój\", białe światło, sygnał wątpliwy lub nieoświetlonego — sformułowanie \"od semafora wskazującego «Stój» lub przy zgaszonym semaforze\" jest pewnym uproszczeniem (pomija białe światło i sygnał wątpliwy), ale poprawnie oddaje sens przepisu i nie prowadzi do niejednoznaczności.",
+        "Dystraktory (10, 20, 30 km/h) są wiarygodne i faktycznie niepoprawne.",
+        "Referencja do § 64 ust. 11 jest prawidłowa."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "a97a0ab1-f43b-416d-8ef5-a79eaf288ee7",
+      "status": "FIX",
+      "problems": [
+        "Zgodnie z § 32 ust. 2 pkt 2: „gdy maszynista po usłyszeniu sygnału «ALARM» otrzymanego środkami radiołączności nie otrzymał wyjaśnienia przyczyny jego nadania – po zatrzymaniu i stwierdzeniu, że nie ma widocznych przeszkód do jazdy, pociąg może jechać dalej do najbliższego posterunku ruchu z prędkością nieprzekraczającą 40 km/h\". Odpowiedź D = 40 km/h jest prawidłowa.",
+        "Pytanie jest nieco nieprecyzyjne w sformułowaniu. Przepis mówi o sytuacji, gdy maszynista NIE otrzymał wyjaśnienia przyczyny, a pytanie mówi „do czasu wyjaśnienia przyczyny\", co sugeruje, że wyjaśnienie jeszcze może nadejść. W rzeczywistości przepis dotyczy sytuacji, gdy wyjaśnienie nie zostało otrzymane i pociąg jedzie do najbliższego posterunku ruchu. Sugeruję doprecyzowanie.",
+        "Referencja powinna być § 32 ust. 2 pkt 2 (a nie sam ust. 2)."
+      ],
+      "changes": {
+        "question": "Jaka jest maksymalna dopuszczalna prędkość jazdy do najbliższego posterunku ruchu, gdy maszynista po usłyszeniu sygnału ALARM nie otrzymał wyjaśnienia przyczyny jego nadania?",
+        "explanation": "Ir-1 § 32 ust. 2 pkt 2"
+      }
+    },
+    {
+      "uuid": "64f59ec5-5f83-4957-9a2e-4be694da46fa",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "11fe00cd-f690-4515-aba1-b191bd0b0c3d",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "d81819a9-186c-444c-9c1c-ce2f83666c5f",
+      "status": "FIX",
+      "problems": [
+        "Ust. 8 mówi jedynie, że prowadzenie pociągu niewyposażonego w ERTMS/ETCS \"nie może odbywać się z prędkością przekraczającą 160 km/h\". Przepis nie rozróżnia linii o dopuszczalnej prędkości powyżej 160 km/h — ograniczenie do 160 km/h obowiązuje zawsze. Pytanie dodaje warunek (\"na linii o dopuszczalnej prędkości powyżej 160 km/h\"), który nie zmienia odpowiedzi, ale wprowadza niepotrzebne zawężenie kontekstu. Odpowiedź C (160 km/h) jest merytorycznie poprawna. Pytanie jest akceptowalne, choć sformułowanie mogłoby być prostsze."
+      ],
+      "changes": {
+        "question": "Jaka jest maksymalna dopuszczalna prędkość dla pociągu bez urządzeń ERTMS/ETCS?"
+      }
+    },
+    {
+      "uuid": "f30e6878-fe1a-460c-86a1-643f78d09d1d",
+      "status": "OK",
+      "problems": [
+        "Pytanie jest tematycznie blizniacze z Q4 (to samo zagadnienie), co stanowi redundancje w banku pytan, ale nie jest bledem merytorycznym.",
+        "Dystraktory (40, 120, 50 km/h) sa wiarygodne. Referencja prawidlowa."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "33cc47d3-bbcc-4b66-818b-22084e771db1",
+      "status": "OK",
+      "problems": [
+        "Zgodnie z § 32 ust. 1 pkt 3: „prędkość jazdy nie może przekraczać 40 km/h\". Odpowiedź B jest prawidłowa.",
+        "Pytanie jest jednoznaczne, precyzyjne i poprawne językowo.",
+        "Referencja jest dokładna i prawidłowa.",
+        "Dystraktory wiarygodne ale niepoprawne."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "b01ff4ae-12c0-4587-812a-1b04cbbc8d2f",
+      "status": "OK",
+      "problems": [
+        "Zgodnie z § 32 ust. 2 pkt 1: ciężki pociąg towarowy „może przejechać bez zatrzymania ze zmniejszoną prędkością do 20 km/h obok semafora odstępowego, na którym umieszczono wskaźnik W22\". Odpowiedź A = 20 km/h jest prawidłowa.",
+        "Pytanie jest jednoznaczne i poprawne.",
+        "Referencja mogłaby być bardziej precyzyjna (§ 32 ust. 2 pkt 1), ale ust. 2 jest akceptowalne.",
+        "Dystraktory wiarygodne ale niepoprawne."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "37e2ed9c-785f-412f-93a6-740e85c029aa",
+      "status": "OK",
+      "problems": [
+        "Pytanie jest jasne i jednoznaczne.",
+        "Dystraktory (30, 40, 100 km/h) są wiarygodne — 30 km/h to ogólny limit pociągu pchanego, co jest dobrym dystraktorem.",
+        "Referencja jest poprawna."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "db5bb80d-5a5b-4935-a1cb-6de18cdfccfd",
+      "status": "FIX",
+      "problems": [
+        "**Identyczny problem jak Q63** -- pytanie jest zbyt ogolne. \"Wylaczona SSP\" moze oznaczac rozne scenariusze opisane w ust. 24. W pkt 1) i 3) predkosc wynosi 20 km/h, a w pkt 2c) i 4d) wynosi 10 km/h.",
+        "**Pytanie jest de facto duplikatem Q63** -- oba pytania dotycza tego samego zagadnienia (predkosc pociagu roboczego przez przejazd z wylaczona SSP), z ta sama odpowiedzia i ta sama referencja. To stanowi niepotrzebne powtorzenie w quizie."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "4b8a6634-48f2-47a9-891f-bbd3b58a350f",
+      "status": "FIX",
+      "problems": [
+        "Pytanie jest mylące i nieprecyzyjne. Paragraf § 55 ust. 10 nie zawiera żadnego odniesienia do \"części szlaku (do 1 km)\". Przepis mówi ogólnie o prędkości na zamkniętym i zajętym torze szlakowym (30 km/h) oraz o tym, że na zamkniętym torze niezajętym i bez przeszkód może obowiązywać prędkość dozwolona dla danego pociągu. Warunek \"na części szlaku (do 1 km)\" nie pojawia się nigdzie w § 55. Pytanie wprowadza fikcyjne kryterium, które nie wynika z treści instrukcji.",
+        "Jeśli pytanie miało dotyczyć prędkości na zajętym torze zamkniętym, to dodanie warunku \"(do 1 km)\" jest niepotrzebne i dezinformujące.",
+        "Odpowiedź 30 km/h jest poprawna jedynie dla toru zamkniętego i zajętego/z przeszkodą, ale warunek \"do 1 km\" nie ma uzasadnienia w przepisie."
+      ],
+      "changes": {
+        "question": "Jaka jest maksymalna dopuszczalna prędkość jazdy pociągu na zamkniętym i zajętym torze szlakowym?"
+      }
+    },
+    {
+      "uuid": "a484283d-7750-4aa4-b342-6b34cb016af6",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedz C (20 km/h) jest zgodna z trescia paragrafu. Zgodnie z § 76 ust. 6: \"Prędkość jazdy pociągu do najbliższej stacji nie powinna być większa niż **20 km/h**.\"",
+        "**Pytanie Q91 jest duplikatem pytania Q68** -- oba dotycza predkosci jazdy do stacji z wagonem z plaskimi miejscami na obreczach kol (§ 76 ust. 6), oba maja poprawna odpowiedz 20 km/h.",
+        "Sformulowanie \"z płaską obręczą\" jest uproszczeniem -- instrukcja mowi o \"płaskich miejscach na obręczach kół\" lub \"nalepach\". \"Płaska obręcz\" moze sugerowac, ze cala obrecz jest plaska, co jest bledne."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "3737ba66-4a00-4fc5-a61d-13ef6a2f3ff5",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedz C (20 km/h) jest zgodna z trescia paragrafu (§ 76 ust. 8: \"jechać z prędkością najwyżej **20 km/h** do najbliższej stacji\").",
+        "**Pytanie Q92 jest duplikatem pytania Q69** -- oba dotycza § 76 ust. 8 i predkosci 20 km/h po hamowaniu slizgowym.",
+        "**Sformulowanie pytania jest BLEDNE i MYLACE**. \"Pociąg w stanie odhamowanym\" oznacza pociag, ktory NIE jest zahamowany -- to normalny stan jazdy. Pytanie sugeruje, ze istnieje specjalne ograniczenie predkosci dla pociagu w stanie odhamowanym, co jest nonsensem. W rzeczywistosci § 76 ust. 8 dotyczy sytuacji, gdy w jadacym pociagu w stanie odhamowanym **jeden z wagonow hamuje slizgowo**, co wymaga zatrzymania, wylaczenia hamulcow i dalszej jazdy z predkoscia 20 km/h z powodu wytarcia obreczy kol.",
+        "Bez kontekstu hamowania slizgowego pytanie jest niezrozumiale i bledne."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "1fc326d7-b5ba-40f2-abd4-c8b790eb8405",
+      "status": "OK",
+      "problems": [
+        "Pytanie jest wystarczajaco precyzyjne.",
+        "Bledne odpowiedzi (80, 100, 30 km/h) sa wiarygodne jako dystraktory.",
+        "Referencja poprawna."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "d83ab80c-1d23-4820-863d-c38e7dfd305c",
+      "status": "FIX",
+      "problems": [
+        "**Błąd merytoryczny w treści pytania.** \"Podwójna trakcja (lokomotywa ciągnąca i popychająca)\" to nie to samo co \"pociąg popychany\". Paragraf 66 dotyczy **pociągu popychanego** — czyli pociągu, któremu dodaje się lokomotywę popychającą (popychacz). Termin \"podwójna trakcja\" w kolejnictwie oznacza zazwyczaj prowadzenie pociągu przez dwie lokomotywy ciągnące (obie na czole), a nie układ ciągnąca + popychająca. Pytanie może wprowadzać w błąd osoby znające terminologię kolejową.",
+        "Zgodnie z § 66 ust. 3: \"Prędkość pociągów popychanych nie może przekraczać 60 km/h\". Odpowiedź 60 km/h jest poprawna w odniesieniu do pociągów popychanych.",
+        "Referencja \"§ 66 ust. 3\" jest poprawna."
+      ],
+      "changes": {
+        "question": "Jaka jest maksymalna dopuszczalna prędkość dla pociągu popychanego?"
+      }
+    },
+    {
+      "uuid": "66000b6d-bb9b-42ec-b8c3-4dc99ff5a520",
+      "status": "FIX",
+      "problems": [
+        "Paragraf § 57 ust. 34 stanowi: \"Prędkość jazdy pociągów w obrębie zamkniętych i wyłączonych z udziału w prowadzeniu ruchu posterunków następczych należy ograniczyć do 40 km/h (nie dotyczy posterunków odstępowych), a przez przejazdy kolejowo-drogowe i przejścia, których nie można zawiadomić o jeździe pociągu do 20 km/h.\"",
+        "Prędkość 20 km/h w ust. 34 dotyczy przejazdów kolejowo-drogowych i przejść, których nie można zawiadomić o jeździe pociągu -- nie dotyczy sytuacji \"bez potwierdzenia, że dróżnik przejazdowy otrzymał zawiadomienie\". To są dwie różne sytuacje: (1) nie można zawiadomić o jeździe vs (2) brak potwierdzenia otrzymania zawiadomienia.",
+        "Pytanie nieprecyzyjnie opisuje sytuację z ust. 34. Powinno mówić o przejeżdżaniu przez przejazdy/przejścia, których nie można zawiadomić o jeździe pociągu, w kontekście zamkniętych posterunków następczych."
+      ],
+      "changes": {
+        "question": "Jaka jest maksymalna dopuszczalna prędkość przez przejazdy kolejowo-drogowe i przejścia, których nie można zawiadomić o jeździe pociągu, w obrębie zamkniętych posterunków następczych?"
+      }
+    },
+    {
+      "uuid": "ea3bc5be-e9e4-4fde-aa93-fec89261170b",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "81ef35cf-85d4-458d-a4b7-5e0aa64ba4f7",
+      "status": "FIX",
+      "problems": [
+        "Paragraf § 55 ust. 10 mówi o prędkości na \"zamkniętym i zajętym torze szlakowym, lub na którym znajduje się przeszkoda do jazdy\" -- limit wynosi 30 km/h. Pojęcie \"strefa robót\" nie jest wprost użyte w ust. 10. Strefa robót implikuje, że tor jest zajęty lub znajduje się na nim przeszkoda, więc odpowiedź 30 km/h jest merytorycznie prawidłowa, ale sformułowanie pytania używa terminu nieobecnego w referencji.",
+        "Warto doprecyzować pytanie, aby bliżej odpowiadało językowi instrukcji."
+      ],
+      "changes": {
+        "question": "Jaka jest maksymalna dopuszczalna prędkość jazdy pociągu na zamkniętym torze szlakowym, na którym znajduje się przeszkoda do jazdy?"
+      }
+    },
+    {
+      "uuid": "4b9a31e6-3cea-4680-ba15-b4af8ae64cc9",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "cf6a1c45-2c83-4ba6-874f-8b85e63c93df",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "6980973b-8502-4bfe-8bd7-23997bd4a19b",
+      "status": "FIX",
+      "problems": [
+        "Ust. 8 mówi o pociągu **niewyposażonym** w urządzenia ERTMS/ETCS, a nie o pociągu z **wyłączonym** systemem. To istotna różnica — pociąg wyposażony w system, ale z wyłączonym ERTMS/ETCS, to inna sytuacja niż pociąg w ogóle niewyposażony. Paragraf 63 ust. 8 nie reguluje wprost sytuacji wyłączenia systemu. Pytanie błędnie przypisuje ograniczenie 160 km/h do sytuacji \"wyłączenia\" ERTMS/ETCS, podczas gdy przepis dotyczy \"braku wyposażenia\" w te urządzenia. Ponadto odpowiedź D (160 km/h) jako \"maksymalna dopuszczalna prędkość\" może być myląca — to jest górny limit, który i tak nie musi być osiągany."
+      ],
+      "changes": {
+        "question": "Jaka jest maksymalna dopuszczalna prędkość prowadzenia pociągu niewyposażonego w urządzenia pokładowe systemu ERTMS/ETCS?"
+      }
+    },
+    {
+      "uuid": "52bf8010-f5f2-49c6-b377-2efda2a25a56",
+      "status": "FIX",
+      "problems": [
+        "**Blad gramatyczny w pytaniu**: \"Kogo wchodzi w sklad\" -- powinno byc \"Kto wchodzi w sklad\" (forma mianownika, nie dopelniacza).",
+        "**Odpowiedz A jest nieprecyzyjna/bledna**: Paragraf 15 ust. 1 mowi: \"Obsadę pociągu stanowi drużyna pociągowa, w skład której wchodzi drużyna trakcyjna oraz drużyna konduktorska lub tylko drużyna trakcyjna.\" Instrukcja nie uzywa pojecia \"pomocnik maszynisty\" -- mowi o druzynie trakcyjnej i konduktor",
+        "**Pytanie dotyczy druzyny pociagowej, nie trakcyjnej** -- a w sklad druzyny pociagowej wchodzi druzyna trakcyjna i konduktorska. Zaden z dystraktorow nie pasuje do prawidlowej odpowiedzi z instrukcji."
+      ],
+      "changes": {
+        "question": "Kto wchodzi w skład drużyny trakcyjnej?",
+        "correct": "A",
+        "explanation": "Ir-1 § 15 ust. 2a"
+      }
+    },
+    {
+      "uuid": "0592b208-2d7d-47da-a580-eefa8390c0de",
+      "status": "OK",
+      "problems": [
+        "Zgodnie z § 32 ust. 2 pkt 2: „po zatrzymaniu i stwierdzeniu, że nie ma widocznych przeszkód do jazdy, pociąg może jechać dalej do najbliższego posterunku ruchu z prędkością nieprzekraczającą 40 km/h\". Odpowiedź C jest poprawna — zatrzymanie, a następnie jazda na widoczność do najbliższego posterunku.",
+        "Pytanie jest jednoznaczne, precyzyjne i poprawne językowo.",
+        "Referencja jest prawidłowa.",
+        "Dystraktory wiarygodne ale niepoprawne."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "a256820a-ed5f-49f2-904a-7b71d5802e9a",
+      "status": "OK",
+      "problems": [
+        "Dystraktory B, C, D zawezaja obowiazek do jednej osoby, co jest bledne wzgledem przepisu. Wiarygodne dystraktory.",
+        "Pytanie poprawne jezykowo.",
+        "Referencja prawidlowa."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "95277899-5c3a-493a-ad00-f24c4eec52c3",
+      "status": "FIX",
+      "problems": [
+        "Paragraf § 55 ust. 1 mówi, że \"Pociągi wyprawiane po torze zamkniętym, należy zapowiadać telefonicznie w sposób ustalony dla szlaków jednotorowych.\" Przepis ten nie wskazuje wprost, kto \"wprowadza\" telefoniczne zapowiadanie. Określa jedynie sposób zapowiadania (jak dla szlaków jednotorowych) i udział posterunków odstępowych.",
+        "Sformułowanie \"dyżurny ruchu zarządzający tym torem\" nie pojawia się w § 55 ust. 1.",
+        "Pytanie jest niejednoznaczne -- § 55 ust. 1 nie odpowiada wprost na pytanie \"kto wprowadza\" telefoniczne zapowiadanie. Zamknięcie toru (i wynikające z niego zapowiadanie) zarządza dyżurny ruchu, ale to wynika raczej z innych przepisów (§ 54) niż z § 55 ust. 1.",
+        "Referencja jest nieprecyzyjna."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 55 ust. 1 w powiązaniu z § 54"
+      }
+    },
+    {
+      "uuid": "62796780-2b4a-4368-9ef4-c9a1e6a9b807",
+      "status": "OK",
+      "problems": [
+        "Pytanie jest jasne, jednoznaczne i poprawne językowo.",
+        "Dystraktory (A, C, D) są wiarygodne, ale faktycznie niepoprawne.",
+        "Drobna uwaga: ust. 25 precyzuje, że odwołanie następuje dopiero po spełnieniu warunków z ust. 24, ale to nie wpływa na poprawność odpowiedzi B."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "cd5dc1e5-359e-46a6-96ac-51db8e1fab46",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "2c3e6503-e732-475e-8dc1-97ddd73484f2",
+      "status": "FIX",
+      "problems": [
+        "Pytanie uzywa slowa **\"wskaźnik\"**, a prawidlowa odpowiedz to **\"semafor wjazdowy\"**. Semafor nie jest wskaznikiem — to dwa rozne urządzenia sygnałowe. Pytanie jest mylące, bo sugeruje, ze szukamy wskaznika, a odpowiedzia jest semafor.",
+        "Paragraf 3 ust. 9 pkt 2 mowi: \"na liniach dwutorowych – miejsce znajdowania się semafora wjazdowego i linia prostopadła do osi torów, w miejscu ustawienia tego semafora\". Granicą jest **miejsce znajdowania się semafora wjazdowego**, a nie sam semafor jako \"wskaznik\".",
+        "Dystraktor B (\"Wskaźnik W 4\") moze byc mylący, bo pytanie pyta o \"wskaznik\", co sugeruje, ze odpowiedzia powinna byc wlasnie wskaznik.",
+        "Pytanie powinno pytac o **granicę**, a nie o \"wskaznik\"."
+      ],
+      "changes": {
+        "question": "Co stanowi granicę między szlakiem a posterunkiem zapowiadawczym na linii dwutorowej?",
+        "answers": {
+          "A": "Semafor wyjazdowy",
+          "B": "Wskaźnik W 4",
+          "C": "Miejsce znajdowania się semafora wjazdowego",
+          "D": "Znacznik kilometracyjny"
+        },
+        "correct": "C",
+        "explanation": "Ir-1 § 3 ust. 9 pkt 2"
+      }
+    },
+    {
+      "uuid": "c8c2b888-11f4-484a-b084-f0565c11bc24",
+      "status": "FIX",
+      "problems": [
+        "**Pytanie zaweza do lokomotywy elektrycznej, ale par. 15 ust. 3 nie rozroznia typow pojazdow trakcyjnych** -- mowi ogolnie o jednoosobowej obsludze trakcyjnej w pociagach na liniach z predkoscia nieprzekraczajaca 160 km/h (nie 120 km/h), pod warunkiem wyposazenia w urzadzenia kontrolujace czujnosc m",
+        "**Prog predkosci jest bledny**: instrukcja mowi o 160 km/h, nie 120 km/h. Pytanie sugeruje, ze granica jednoosobowej obsady to 120 km/h, co jest niezgodne z trescia paragrafu.",
+        "**Odpowiedz \"1 osoba\" jest poprawna co do zasady**, ale warunki sa inne niz podane w pytaniu."
+      ],
+      "changes": {
+        "question": "Minimalna obsada trakcyjna pociągu kursującego z prędkością nieprzekraczającą 160 km/h, wyposażonego w urządzenia kontrolujące czujność maszynisty oraz radiołączność pociągową, to:",
+        "correct": "A",
+        "explanation": "Ir-1 § 15 ust. 3 pkt 1"
+      }
+    },
+    {
+      "uuid": "c26376e1-d839-4fed-a10f-d2720bcabe22",
+      "status": "FIX",
+      "problems": [
+        "**Treść pytania nie odpowiada dokładnie treści ust. 27.** Paragraf 28 ust. 27 mówi o sytuacji przerwy w łączności telefonicznej przy prawidłowym działaniu blokady półsamoczynnej. W takim przypadku blokada liniowa jest nadal podstawą prowadzenia ruchu, a informację o numerze pociągu należy przekazać za pomocą urządzeń radiołączności. Radiołączność jest tu środkiem zastępczym do przekazania informacji o numerze pociągu, a nie \"rezerwowym środkiem przy braku telefonicznej zapowiedzi\" jako takiej.",
+        "**Sformulowanie \"przy braku telefonicznej zapowiedzi\" jest nieścisłe.** Ust. 27 dotyczy przerwy w łączności telefonicznej, a nie braku zapowiadania. To istotna różnica -- zapowiadanie telefoniczne to procedura, a przerwa w łączności to awaria techniczna.",
+        "**Odpowiedź A (radiołączność) jest merytorycznie poprawna** w kontekście ust. 27 -- radiołączność jest środkiem zastępczym do przekazania informacji. Jednak pytanie sugeruje szerszą rolę radiołączności niż wynika z przepisu.",
+        "Warto też odnotować, że par. 23 ust. 1 mówi ogólnie o stosowaniu \"urządzeń radiołączności\" w szczególnych przypadkach."
+      ],
+      "changes": {
+        "question": "Jaki środek łączności stosuje się do przekazania informacji o numerze pociągu w razie przerwy w łączności telefonicznej przy prawidłowym działaniu blokady półsamoczynnej?"
+      }
+    },
+    {
+      "uuid": "835c48f6-1609-4c2f-bffd-9a06dbf94456",
+      "status": "FIX",
+      "problems": [
+        "**Pytanie upraszcza i znieksztalca tresc instrukcji**. Par. 18 ust. 3 pkt 1 mowi o sytuacji, gdy \"nastąpiło zamknięcie lub otwarcie, nawet częściowe lub chwilowe, przewodu głównego hamulca\" -- w tym o dolaczeniu pojazdow kolejowych. Faktycznie, w przypadku dolaczenia pojazdow wykonuje sie probe upro",
+        "**Jesli dolaczone pojazdy stanowia wiecej niz 50% skladu** -- wymagana jest proba szczegolowa (par. 18 ust. 2 pkt 4). Pytanie nie precyzuje tego warunku, co moze prowadzic do niejednoznacznosci.",
+        "**Termin \"wagon\" powinien byc \"pojazd kolejowy\"** -- instrukcja uzywa terminu \"pojazd kolejowy\", nie \"wagon\"."
+      ],
+      "changes": {
+        "question": "Jaką próbę hamulca należy wykonać po dołączeniu pojazdu kolejowego do pociągu, jeżeli dołączone pojazdy nie stanowią więcej niż 50% składu?",
+        "correct": "A",
+        "explanation": "Ir-1 § 18 ust. 3 pkt 1"
+      }
+    },
+    {
+      "uuid": "af9d2503-d5d6-46d0-8fac-946a58c4b627",
+      "status": "FIX",
+      "problems": [
+        "**Pytanie mowi o \"maksymalnej dlugosci\", ale par. 19 ust. 6 mowi o \"dopuszczalnych dlugosciach\"** -- roznica jest subtelna, ale pojecie \"dopuszczalna\" jest precyzyjniejsze i zgodne z instrukcja.",
+        "**Odpowiedz A jest poprawna**: par. 19 ust. 6 mowi wprost: \"Dopuszczalne długości pociągów podaje się w dodatkach do rozkładu jazdy.\"",
+        "**Drobna nieadekwatnosc**: pytanie mowi o \"skladzie pociagu\", a instrukcja mowi o \"pociagach\" -- ale to nie jest istotny blad."
+      ],
+      "changes": {
+        "question": "Dopuszczalne długości pociągów podaje się w:",
+        "explanation": "Ir-1 § 19 ust. 6"
+      }
+    },
+    {
+      "uuid": "56e83bbb-17c1-4faa-80c0-1596cf6669ac",
+      "status": "FIX",
+      "problems": [
+        "**Odpowiedz A jest nieprecyzyjna**: par. 20 ust. 1 mowi: \"Rzeczywista masa hamująca jest sumą mas hamujących wszystkich pojazdów kolejowych z czynnymi hamulcami znajdujących się w pociągu.\" Odpowiedz A pomija kluczowe zastrzezenie \"z czynnymi hamulcami\" -- nie wszystkich pojazdow, a tylko tych z czy",
+        "**Odpowiedz A uzywa \"wartosci hamujacych\"**, a instrukcja mowi o \"masach hamujacych\" -- to inne sformulowanie."
+      ],
+      "changes": {
+        "correct": "A",
+        "explanation": "Ir-1 § 20 ust. 1"
+      }
+    },
+    {
+      "uuid": "6649a2f1-f2b7-47b5-b3f2-c2f87dc7768e",
+      "status": "FIX",
+      "problems": [
+        "**Odpowiedz jest niepelna/uproszczona**: Par. 18 ust. 1 mowi, ze dzialanie hamulca sprawdzane jest \"przez rewidentów taboru kolejowego, a gdy ich nie ma -- przez kierownika pociągu lub przez innych pracowników przewoźnika kolejowego, przy współdziałaniu drużyny trakcyjnej lub samego maszynisty\". Zat",
+        "**Pytanie mowi o \"probie szczegolowej\", ale par. 18 ust. 1 mowi ogolnie o sprawdzeniu dzialania hamulca** (zarowno proby szczegolowej, jak i uproszczonej). Nie jest to wiec specyficzne dla proby szczegolowej.",
+        "**Mimo to odpowiedz B jest najlepsza z podanych** -- rewident taboru jest wymieniony jako pierwszy i glowny odpowiedzialny. Dystraktory sa wiarygodne."
+      ],
+      "changes": {
+        "question": "Kto w pierwszej kolejności sprawdza działanie hamulca pociągu?",
+        "correct": "B",
+        "explanation": "Ir-1 § 18 ust. 1"
+      }
+    },
+    {
+      "uuid": "016cd2df-64b3-4b38-a1b8-33c4321d8c6b",
+      "status": "FIX",
+      "problems": [
+        "**Niedokładna referencja i niedopasowanie pytania do treści paragrafu.** Paragraf 23 ust. 1 mówi jedynie o tym, kiedy stosuje się zapowiadanie telefoniczne (na liniach bez blokady liniowej oraz na liniach z blokadą, gdy nie jest ona podstawą prowadzenia ruchu). Nie mówi wprost o \"godzinie i numerze pociągu\" jako wymienianych informacjach.",
+        "**Treść paragrafu nie potwierdza jednoznacznie odpowiedzi A.** Informacje wymieniane przy zapowiadaniu wynikają z kilku ustępów rozproszonych po paragrafach 23-26. Paragraf 23 ust. 8 mówi o podawaniu numeru pociągu, a godzina pojawia się we wzorach telefonogramów (np. w paragrafie 26 -- potwierdzenie przyjazdu). Natomiast sam ust. 1 tego nie precyzuje.",
+        "**Pytanie jest niejasne.** Sformulowanie \"jazda na telefoniczne żądanie\" nie jest terminem wprost użytym w instrukcji. Instrukcja mówi o \"telefonicznym żądaniu pozwolenia na wyprawienie pociągu\" (par. 23 ust. 2 pkt 1, par. 23 ust. 3). Wymieniane informacje w ramach tego żądania to treść telefonogramu zapowiadawczego (numer pociągu, pytanie \"czy droga wolna\" itp.), a nie stricte \"godzina i numer pociągu\".",
+        "**Odpowiedź A jest uproszczeniem**, ale w kontekście wzorów telefonogramów (np. z par. 23 ust. 9 -- przykłady) wymienia się numer pociągu i godzinę (np. \"Pociąg 772 przyjechał o 20:43\"). Można to uznać za akceptowalne, ale referencja do ust. 1 jest błędna."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 23 ust. 8-9 — przy zapowiadaniu pociągów podaje się ich numer; we wzorach telefonogramów podaje się godzinę i numer pociągu"
+      }
+    },
+    {
+      "uuid": "bab4e6aa-bc9e-41e8-9420-2a60d96cb88c",
+      "status": "OK",
+      "problems": [
+        "Zgodnie z § 33 ust. 1: „Na szlaku, na którym jeden pojazd trakcyjny obsługuje wszystkie pociągi, a urządzeń blokady liniowej nie ma lub są, lecz ich się nie obsługuje – ruch pociągów może odbywać się bez zapowiadania\". Odpowiedź A jest prawidłowa.",
+        "Pytanie jest jednoznaczne i poprawne.",
+        "Referencja jest prawidłowa i precyzyjna.",
+        "Dystraktory wiarygodne ale niepoprawne (B mówi o blokadzie „półsamoczynnej\", C o braku urządzeń srk ogólnie, D o zawieszeniu ruchu — wszystkie fałszywe)."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "1d7895e2-2170-4329-8938-797a0d417efb",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "2973daa0-49b7-492a-a974-2cf1cfe3de0e",
+      "status": "FIX",
+      "problems": [
+        "**Odpowiedz merytoryczna jest poprawna.** W tresci par. 84 ust. 24 (w tabeli rozkazu pisemnego, instrukcja 21.25) znajduje sie jednoznaczna wzmianka: \"zezwolenia na jazde manewrowa taboru w kierunku szlaku poza ustalona **wskaznikiem W5 granice przetaczania**\". Rowniez par. 12 ust. 4 mowi o \"wskazni",
+        "**Brak section_ref i explanation -- nalezy uzupelnic.** Pytanie mozna oprzec na par. 84 (tabela rozkazu pisemnego, instrukcja 21.25) lub lepiej na innej instrukcji (np. Ie-4 -- instrukcja o sygnalizacji). Jednakze w kontekscie instrukcji Ir-1, najlepsza dostepna referencja to par. 84 (tabela rozkazu",
+        "**Pytanie nie jest scisle zwiazane z par. 84** tematycznie (par. 84 dotyczy zabezpieczenia ruchu na przejazdach, nie wskaznikow per se). Nalezy rozwazyc, czy pytanie powinno miec section_ref do par. 12 (ktory dotyczy manewerow i wyjazdu poza granice przetaczania).",
+        "**Dystraktory wymagaja weryfikacji**: W 4, W 6, W 27 -- sa to rzeczywiste numery wskaznikow kolejowych, wiec dystraktory sa wiarygodne."
+      ],
+      "changes": {
+        "section_ref": "par. 12",
+        "explanation": "Ir-1 par. 12 ust. 4 -- wskaznik W5 oznacza granice przetaczania; rowniez Ir-1 par. 84 instrukcja rozkazu pisemnego 21.25"
+      }
+    },
+    {
+      "uuid": "8bd5e70d-4680-48d7-83e0-e0d7324610b1",
+      "status": "OK",
+      "problems": [
+        "Dystraktory (10, 5, 30 km/h) są wiarygodne. Referencja poprawna (choć mogłaby być bardziej precyzyjna: \"§ 38 ust. 9 pkt 2\" lub \"§ 38 ust. 10\"). Pytanie jednoznaczne i poprawne językowo."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "43c149fb-8ee7-40ec-b2e2-769c7a2c283f",
+      "status": "FIX",
+      "problems": [
+        "**Błędna referencja**: Paragraf 41 ust. 5 dotyczy sprawdzenia prawidłowego nastawienia zwrotnic i wykolejnic -- nie dotyczy minięcia semafora wyjazdowego na sygnał \"Stój\". Treść ust. 5 mówi o procedurach sprawdzania zwrotnic i wykolejnic w przydzielonych okręgach.",
+        "Tematyka pytania (jazda na sygnał zastępczy lub rozkaz pisemny mimo sygnału \"Stój\") wynika raczej z **§ 41 ust. 7** (który w treści sekcji jest oznaczony numerem 7 i mówi o położeniu zwrotnic i wykolejnic przy jeździe \"na sygnał zastępczy lub rozkaz pisemny\"), ale pełne przepisy o wyprawianiu pociągów na rozkaz pisemny przy semaforze wyjazdowym zawarte są w dalszych paragrafach instrukcji (np. § 44 lub § 58), nie w § 41.",
+        "Sam paragraf § 41 dotyczy \"Sprawdzania i zgłaszania gotowości drogi przebiegu pociągu\", a nie warunków minięcia semafora wyjazdowego. Pytanie jest merytorycznie poprawne (odpowiedź A jest prawidłowa), ale referencja jest **nieprawidłowa**.",
+        "Ponadto pytanie mówi o \"semaforze wyjazdowym\", ale § 41 nie reguluje wprost tej kwestii. Właściwa referencja powinna wskazywać na paragraf dotyczący wyprawiania pociągów (np. § 44 lub § 58)."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 44",
+        "section_ref": "§ 44"
+      }
+    },
+    {
+      "uuid": "2b56be71-e895-483e-a61f-cfc362b5189c",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "0bc5ad1b-9757-4096-8ef7-0d624fe83922",
+      "status": "OK",
+      "problems": [
+        "Drobna uwaga: instrukcja mowi tez \"lub innego uprawnionego pracownika\", ale kierownik pociagu roboczego jest wskazany jako glowna osoba podajaca ten sygnal, wiec odpowiedz jest poprawna.",
+        "Bledne odpowiedzi (Dyzurny ruchu, Maszynista, Droznik przejazdowy) sa wiarygodne jako dystraktory.",
+        "Referencja poprawna."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "46d89771-08b2-43e1-8657-496a3e09f768",
+      "status": "OK",
+      "problems": [
+        "Te same uwagi co przy Q16 -- sformulowanie \"co 10 minut\" jest uproszczeniem wzgledem \"w odstepach nie dluzszych niz 10 minut\", ale w kontekscie quizu z zamknietymi odpowiedziami jest akceptowalne.",
+        "Pytanie jest redundantne z Q16 i Q47 (trzy pytania o ten sam przepis). Warto rozwazyc usuniecie jednego z nich, ale to kwestia redakcyjna, nie merytoryczna.",
+        "Pytanie jest poprawne jezykowo, jednoznaczne, dystraktory wiarygodne. Referencja prawidlowa."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "87fbba67-476c-4bda-9863-eaa9cd91940b",
+      "status": "OK",
+      "problems": [
+        "Zgodnie z § 32 ust. 2 pkt 3: „prędkość jazdy na widoczność nie może przekraczać 40 km/h i obowiązuje do czasu minięcia przez czoło pociągu semafora wskazującego sygnał zezwalający na jazdę\". Odpowiedź A jest prawidłowa.",
+        "Pytanie jest jednoznaczne i poprawne.",
+        "Referencja jest prawidłowa i precyzyjna.",
+        "Dystraktory wiarygodne ale niepoprawne."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "e8692483-786e-43ce-93ea-78e2d52ef780",
+      "status": "OK",
+      "problems": [
+        "Paragraf 3 ust. 9 pkt 1: \"na liniach jednotorowych – semafor wjazdowy tego posterunku\". Odpowiedz A jest prawidlowa.",
+        "Drobna uwaga: pytanie mowi \"między torami stacyjnymi a szlakiem\", a instrukcja mowi \"między szlakiem a posterunkiem zapowiadawczym\" — ale posterunek zapowiadawczy obejmuje tory stacyjne, wiec jest to rownowazne sformulowanie.",
+        "Dystraktory sa wiarygodne i bledne.",
+        "Referencja prawidlowa."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "822cfeb1-7a36-465a-9330-ebdaacc28275",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedz D jest **czesciowo poprawna, ale wymaga doprecyzowania**. Zgodnie z § 77 ust. 2: \"nie wolno uczynić niczego, co umożliwiłoby wyprawienie innego pociągu na tor, po którym przejechał pociąg bez sygnału końca pociągu.\" Zakaz dotyczy konkretnie **tego samego toru**, nie kazdego pociagu. Odpowiedz \"Nie wyprawiać kolejnego pociągu\" jest zbyt ogolna -- sugeruje, ze nie mozna wyprawic zadnego pociagu na zaden tor.",
+        "Dystraktor A (\"Wydać rozkaz pisemny maszyście\") jest **rowniez czesciowo poprawny** -- zgodnie z § 77 ust. 2, na tory sasiednie mozna wyprawic pociag wlasnie po wydaniu rozkazu pisemnego z poleceniem zmniejszenia predkosci do 20 km/h. To czyni pytanie niejednoznacznym.",
+        "Dystraktor B (\"Wyślij patrol torowy\") -- forma rozkazujaca \"Wyślij\" jest niespojna z reszta odpowiedzi i brzmi nienaturalnie."
+      ],
+      "changes": {
+        "question": "W razie braku sygnału końca pociągu, jakie działania musi podjąć dyżurny ruchu w odniesieniu do toru, po którym przejechał pociąg bez sygnału końca?",
+        "answers": {
+          "D": "Nie wyprawiać kolejnego pociągu na ten tor",
+          "A": "Zawiadomić maszynistę o braku sygnału"
+        }
+      }
+    },
+    {
+      "uuid": "ddf80771-5b35-4702-8446-88eb75dc6a0d",
+      "status": "FIX",
+      "problems": [
+        "Problem z trescia pytania. Paragraf 5 ust. 3 wymienia tor wyciagowy jako tor specjalnego przeznaczenia, ale nie podaje definicji opisowej torow specjalnego przeznaczenia (nie mowi, ze tor wyciagowy sluzy \"do zmiany czola pociagu lub wyciagania skladu\"). To jest wiedza ogolna/potoczna o torze wyciagowym, ale nie wynika wprost z tekstu paragrafu 5 ust. 3. W paragrafie 5 ust. 3 tor wyciagowy jest jedynie wymieniony na liscie torow specjalnego przeznaczenia bez podania jego definicji.",
+        "Mimo to odpowiedz A jest merytorycznie poprawna — tor wyciagowy rzeczywiscie sluzy do tego celu i jest powszechnie tak rozumiany w terminologii kolejowej.",
+        "Dystraktory sa wiarygodne: B (tor glowny zasadniczy) — sluzy do jazd pociagowych, C (tor boczny) — ogolna kategoria, D (tor ochronny) — sluzy do ochrony, nie do wyciagania.",
+        "Pytanie poprawne jezykowo."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 5 ust. 3 (tor wyciągowy jest torem specjalnego przeznaczenia; definicja funkcji toru wyciągowego wynika z ogólnej terminologii kolejowej)"
+      }
+    },
+    {
+      "uuid": "ea30ca3d-0814-4fc6-8cea-0a9a4b1cfbb5",
+      "status": "FIX",
+      "problems": [
+        "Problem z precyzja terminologiczna. Paragraf 5 ust. 3 mowi o *\"żeberka ochronne\"* jako torach specjalnego przeznaczenia, ale nie nazywa ich \"torami ochronnymi\". Zeberko ochronne jest torem specjalnego przeznaczenia, a nie \"torem ochronnym\" — pojecie \"tor ochronny\" nie wystepuje w tym paragrafie. Pytanie wprowadza termin nieuzywany w zrodle i moze byc mylace.",
+        "Jesli intencja pytania jest taka, ze zeberko (ochronne) pelni funkcje ochronna, to odpowiedz jest merytorycznie poprawna, ale terminologia w pytaniu powinna byc dokladniejsza.",
+        "Dystraktory: B (tor glowny dodatkowy) — to tor glowny, C (tor zasadniczy) — to tor glowny zasadniczy, D (tor bocznicowy) — to tor specjalnego przeznaczenia, ale nie pelniacyfunkcji ochronnej. Wiarygodne dystraktory."
+      ],
+      "changes": {
+        "question": "Który z poniższych torów specjalnego przeznaczenia pełni funkcję ochronną?"
+      }
+    },
+    {
+      "uuid": "2d98dd30-3ca5-46d5-98f7-1b80fce6da2d",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "f992c5d3-6989-49e3-a82e-5278e0c0bee5",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "5dbd22a4-36ad-408f-bed1-b1b047028b5b",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "33ec192c-1054-47eb-8ef8-714b743e5816",
+      "status": "OK",
+      "problems": [
+        "Zgodnie z § 32 ust. 2 pkt 1: ciężki pociąg towarowy „może przejechać bez zatrzymania ze zmniejszoną prędkością do 20 km/h obok semafora odstępowego, na którym umieszczono wskaźnik W22\". Odpowiedź A jest prawidłowa.",
+        "Drobna uwaga stylistyczna: w pytaniu jest „semafora odstępowej\" — powinno być „semafora odstępowego\" (rodzaj męski). Jest to literówka w końcówce przymiotnika.",
+        "Referencja mogłaby być bardziej precyzyjna (§ 32 ust. 2 pkt 1).",
+        "Mimo literówki, pytanie jest zrozumiałe i jednoznaczne."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "14128d46-499f-4ab3-b471-0c1611558e4a",
+      "status": "OK",
+      "problems": [
+        "Zgodnie z § 32 ust. 1 pkt 2: „maszynista powinien tak regulować prędkość jazdy, aby w przypadku zauważenia przeszkody do kontynuowania jazdy mógł zatrzymać pociąg przed przeszkodą lub przed sygnałem «Stój»\". Odpowiedź A jest prawidłowa.",
+        "Pytanie jest jednoznaczne, precyzyjne i poprawne językowo.",
+        "Referencja jest prawidłowa i precyzyjna.",
+        "Dystraktory wiarygodne ale niepoprawne."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "91fc5dd2-4371-452f-ac2f-d142f9c10e4d",
+      "status": "OK",
+      "problems": [
+        "Pytanie jest jasne i jednoznaczne.",
+        "Dystraktory są wiarygodne -- \"wieloodstępowa blokada liniowa\" to blokada samoczynna (par. 29), \"ERTMS\" i \"blokada stacyjna\" to inne pojęcia."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "6cdea651-6982-4ce4-88ef-e004d408fe69",
+      "status": "FIX",
+      "problems": [
+        "**Paragraf 15 ust. 7 nie mowi o \"rodzaju i dlugosci skladu\"**. Mowi: \"Szczegółowe warunki dotyczące obsady pociągu określa przewoźnik kolejowy w przepisach wewnętrznych.\" Nie ma w nim wzmianki o \"rodzaju i dlugosci skladu\". Pytanie dodaje informacje, ktore nie wynikaja z tego ustępu.",
+        "**Odpowiedz A jest zasadniczo prawidlowa** -- przewoznik kolejowy okresla warunki obsady -- ale tresc pytania nadinterpretuje zawartosc ust. 7."
+      ],
+      "changes": {
+        "question": "Kto określa szczegółowe warunki dotyczące obsady pociągu?",
+        "correct": "A",
+        "explanation": "Ir-1 § 15 ust. 7"
+      }
+    },
+    {
+      "uuid": "a43e63aa-fa7a-48f7-9931-47660070b0c1",
+      "status": "OK",
+      "problems": [
+        "Zgodnie z § 32 ust. 2 pkt 1: mowa jest o „semaforze odstępowym, na którym umieszczono wskaźnik W22\" w kontekście samoczynnego semafora odstępowego. Odpowiedź A jest prawidłowa.",
+        "Pytanie jest jednoznaczne i poprawne.",
+        "Referencja mogłaby być bardziej precyzyjna (§ 32 ust. 2 pkt 1).",
+        "Dystraktory wiarygodne ale niepoprawne."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "4b760874-dbf9-4be0-97e5-bbbe98ee8740",
+      "status": "FIX",
+      "problems": [
+        "**Odpowiedź A jest niepełna/nieścisła.** Paragraf 28 ust. 25 podaje pełny wzór telefonogramu nr 17: \"O godz. min. odwołuję telefoniczne zapowiadanie pociągów po torze numer nr od nazwa posterunku do nazwa posterunku\". Telefonogram zawiera zatem: godzinę i minutę, numer toru, nazwy posterunków (od-do). Odpowiedź \"godzinę i minutę odwołania\" jest tylko częścią treści telefonogramu.",
+        "**Pytanie jest akceptowalne**, bo spośród podanych opcji (A, B, C, D) odpowiedź A jest najbliższa prawdy -- telefonogram faktycznie zawiera godzinę i minutę. Jednak przy bardziej rygorystycznym podejściu można argumentować, że telefonogram zawiera również numer toru i nazwy posterunków.",
+        "Dystraktory B, C, D są prawidłowo niepoprawne."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "b3f93dba-befd-4c5e-8e15-bc258653702f",
+      "status": "FIX",
+      "problems": [
+        "Paragraf 2 ust. 4 mowi: \"Odcinek jest to część linii kolejowej zawarta między sąsiednimi stacjami węzłowymi albo między punktem początkowym lub końcowym linii kolejowej i najbliższą stacją węzłową.\" Prawidlowy termin to **\"odcinek\"** (nie \"odcinek linii\"). Instrukcja uzywa terminu \"odcinek\". Odpowiedz A brzmi \"Odcinek linii\", co nie jest dokladnym terminem z instrukcji.",
+        "Pytanie mowi o \"dwiema stacjami węzłowymi\", a definicja mowi o \"sąsiednimi stacjami węzłowymi\" — pytanie pomija warunek sąsiedztwa, co jest istotne (nie kazde dwie stacje węzłowe tworzą odcinek, tylko sąsiednie).",
+        "Odpowiedz A powinna brzmiec \"Odcinek\" (bez slowa \"linii\"), zgodnie z § 2 ust. 4."
+      ],
+      "changes": {
+        "question": "Jak nazywa się część linii kolejowej zawarta między sąsiednimi stacjami węzłowymi?",
+        "answers": {
+          "A": "Odcinek"
+        }
+      }
+    },
+    {
+      "uuid": "329d3373-4c8f-48a8-baf9-8fc2f81d2024",
+      "status": "FIX",
+      "problems": [
+        "Nigdzie w tekscie paragrafu 14 nie pojawia sie oznaczenie \"Ie-1\". Odpowiedz A moze byc poprawna w szerszym kontekscie (Ie-1 to rzeczywiscie Instrukcja sygnalizacji PKP), ale **nie wynika to bezposrednio z tekstu paragrafu 14**. Pytanie wykracza poza zakres przywolanych przepisow.",
+        "Ponadto pytanie mowi o \"skladzie pociagu pasazerskiego\", podczas gdy paragraf 14 mowi ogolnie o pociagach, nie wylacznie pasazerskich. To zbedne zawezenie.",
+        "Referencja \"ust. 3 pkt 4\" jest niewystarczajaca -- pkt 4 mowi tylko \"przepisowe osygnalizowanie pociagu\", nie wskazuje Ie-1."
+      ],
+      "changes": {
+        "question": "Pociąg przygotowany do jazdy, w którym nie stwierdzono nieprawidłowości i w którym próba hamulców potwierdziła prawidłowość ich działania, należy osygnalizować zgodnie z:",
+        "answers": {
+          "A": "Instrukcją sygnalizacji"
+        },
+        "explanation": "Ir-1 § 14 ust. 5"
+      }
+    },
+    {
+      "uuid": "cba90af4-ecaf-4f7b-8139-158ef75e9216",
+      "status": "FIX",
+      "problems": [
+        "Paragraf 3 ust. 9 pkt 2 mowi: \"na liniach dwutorowych – **miejsce znajdowania się semafora wjazdowego** i linia prostopadła do osi torów, w miejscu ustawienia tego semafora\". Na linii dwutorowej granicą nie jest sam semafor wjazdowy, ale **miejsce znajdowania się** semafora wjazdowego i linia prostopadla. To wazne rozroznienie — na linii jednotorowej granica to semafor wjazdowy (§ 3 ust. 9 pkt 1), a na dwutorowej to miejsce/linia prostopadla przy semaforze.",
+        "Odpowiedz B (\"Semafor wjazdowy\") jest wiec nieprecyzyjna dla linii dwutorowej. Na linii dwutorowej moze byc tylko jeden semafor wjazdowy, a granica obejmuje linie prostopadla do osi **obu** torow.",
+        "Ponadto § 3 ust. 9 pkt 2 przewiduje liczne wyjatki (lit. a, b, c), co czyni to pytanie nadmiernie uproszczonym.",
+        "To pytanie jest tematycznie bardzo bliskie Q6 i Q107 — mozliwy nadmiar pytan o to samo zagadnienie."
+      ],
+      "changes": {
+        "answers": {
+          "B": "Miejsce znajdowania się semafora wjazdowego i linia prostopadła do osi torów"
+        }
+      }
+    },
+    {
+      "uuid": "d9c9ecc2-b674-447f-911b-df2d854a15e6",
+      "status": "FIX",
+      "problems": [
+        "Paragraf 2 ust. 6 pkt 4 mowi: \"dwoma kolejnymi semaforami odstępowymi blokady wieloodstępowej (samoczynnej) dla tego samego kierunku jazdy przy danym torze.\" Odpowiedz A mowi o \"samoczynnymi semaforami odstępowymi\", co jest pewnym uproszczeniem, ale oddaje sens. Slowo \"samoczynne\" odpowiada \"blokady samoczynnej\". Odpowiedz uzywana terminu \"odcinek szlaku\" zamiast \"czesc toru szlakowego\" — to drobna nieścislosc, ale akceptowalna.",
+        "Pytanie dodaje kontekst \"(w kontekście SBL)\" co dobrze zawęza zakres do wariantu 4 z § 2 ust. 6.",
+        "Odpowiedz B (\"Odcinek linii między dwiema stacjami węzłowymi\") to definicja odcinka z § 2 ust. 4 — dobry dystraktor.",
+        "Dystraktory C i D sa wyraznie niepoprawne.",
+        "Drobny problem: odpowiedz A pomija \"dla tego samego kierunku jazdy przy danym torze\" oraz \"kolejnymi\" (nie dowolnymi dwoma, a kolejnymi). Ale w kontekscie testu wielokrotnego wyboru jest to najlepsza odpowiedz."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Część toru szlakowego między dwoma kolejnymi semaforami odstępowymi blokady samoczynnej"
+        }
+      }
+    },
+    {
+      "uuid": "a72bf759-9111-4edd-89e3-65a0cbbe44d6",
+      "status": "FIX",
+      "problems": [
+        "Paragraf 2 ust. 4 definiuje **\"odcinek\"** (nie \"odcinek linii\") jako \"część linii kolejowej zawarta między sąsiednimi stacjami węzłowymi albo między punktem początkowym lub końcowym linii kolejowej i najbliższą stacją węzłową.\" Pytanie uzywa terminu \"odcinek linii\", ktory nie wystepuje w instrukcji — instrukcja mowi o \"odcinku\".",
+        "Odpowiedz A pomija warunek sąsiedztwa (\"sąsiednimi stacjami\") i pomija drugi wariant definicji (miedzy punktem poczatkowym/koncowym a najblizszą stacją węzłową).",
+        "Odpowiedz A uzywa \"część linii\" zamiast \"część linii kolejowej\" — drobna nieścislosc.",
+        "To pytanie jest bliźniaczo podobne do Q137 — oba pytaja o to samo pojęcie i maja te samą poprawną odpowiedz. Jedno z nich powinno zostac usuniete jako duplikat."
+      ],
+      "changes": {
+        "question": "Co w Ir-1 oznacza „odcinek",
+        "answers": {
+          "A": "Część linii kolejowej zawarta między sąsiednimi stacjami węzłowymi"
+        }
+      }
+    },
+    {
+      "uuid": "97966c56-76a0-4c16-84a9-f90e17855e15",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź jest merytorycznie poprawna — § 9 ust. 3 pkt 1 wymienia pociągi diagnostyczne jako podtyp pociągów utrzymaniowo-naprawczych: \"pociągi utrzymaniowo-naprawcze (ratunkowe, inspekcyjne, diagnostyczne)\".",
+        "Referencja wskazuje \"Ir-1 § 9 ust. 3\", ale powinna być bardziej precyzyjna: \"Ir-1 § 9 ust. 3 pkt 1\", ponieważ ust. 3 zawiera też pkt 2 (pociągi robocze)."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 9 ust. 3 pkt 1"
+      }
+    },
+    {
+      "uuid": "09e38101-50c1-458b-959c-da7753d683d1",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź jest merytorycznie poprawna — § 9 ust. 3 pkt 1 wymienia pociągi inspekcyjne jako podtyp pociągów utrzymaniowo-naprawczych: \"pociągi utrzymaniowo-naprawcze (ratunkowe, inspekcyjne, diagnostyczne)\".",
+        "Referencja wskazuje \"Ir-1 § 9 ust. 3\", ale powinna być bardziej precyzyjna: \"Ir-1 § 9 ust. 3 pkt 1\", analogicznie jak w Q130."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 9 ust. 3 pkt 1"
+      }
+    },
+    {
+      "uuid": "1648831d-0720-4e93-865f-8152c06c0a2c",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "77f98f99-bf2d-4ad7-b099-0475c0b04b66",
+      "status": "FIX",
+      "problems": [
+        "**Referencja ust. 22-23 nie istnieje w podanym kontekście jako spójna regulacja o warunkach wyprawienia po torze lewym.** Ust. 22 mówi o informowaniu nastawniczego o przybyciu pociągu podczas telefonicznego zapowiadania. Ust. 23 mówi o stosowaniu środków pomocniczych według par. 50. Żaden z nich nie formułuje wprost warunku \"telefoniczne pozwolenie i sygnał zezwalający na semaforze\" dla jazdy po torze lewym.",
+        "**Kwestia jazdy po torze lewym** jest regulowana w ust. 16 pkt 1 lit. c, który mówi, że w razie wyprawienia pociągu po torze lewym szlaku dwutorowego (gdy oba tory czynne, a blokada nie jest przystosowana do ruchu dwukierunkowego) stosuje się telefoniczne zapowiadanie pociągów bez osobnego wprowadzania telefonogramem. Nie ma tu mowy o \"sygnale zezwalającym na semaforze\" jako warunku.",
+        "**Pytanie miesza pojęcia.** \"Linia z blokadą dwukierunkową\" sugeruje blokadę przystosowaną do ruchu dwukierunkowego, a ust. 16 pkt 1 lit. c dotyczy właśnie sytuacji, gdy blokada NIE jest przystosowana do takiego ruchu.",
+        "Odpowiedź A jest więc wątpliwa merytorycznie w kontekście podanej referencji."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "5bcd6c98-5501-4bf7-8497-a3f12eee29a7",
+      "status": "FIX",
+      "problems": [
+        "**Nieprawidłowa referencja do § 41 ust. 7**: Ustęp 7 paragrafu 41 (w treści sekcji) dotyczy zgłaszania położenia zwrotnic i wykolejnic przy przygotowaniu drogi przebiegu, a nie wyprawiania pociągu na rozkaz pisemny \"S\". Paragraf 41 jako całość dotyczy sprawdzania i zgłaszania gotowości drogi przebiegu.",
+        "Referencja do § 58 jest prawdopodobnie właściwa (paragraf ten dotyczy rozkazu pisemnego), ale nie mam dostępu do jego treści, aby to potwierdzić.",
+        "Odpowiedź A brzmi wiarygodnie i jest merytorycznie poprawna w kontekście ogólnej wiedzy o procedurach PKP, ale nie wynika bezpośrednio z treści § 41.",
+        "Dystraktory B, C, D są dobrze skonstruowane -- jasno niepoprawne, ale wiarygodne."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 58",
+        "section_ref": "§ 58"
+      }
+    },
+    {
+      "uuid": "2b379f76-8c9d-4e94-b47a-2d2285dca1eb",
+      "status": "OK",
+      "problems": [
+        "Paragraf 3 ust. 14 akapit 2 mowi: \"Na przystankach osobowych położonych na szlakach jednotorowych nie wyposażonych w urządzenia blokady liniowej, wewnętrzny rozkład jazdy może przewidywać zmianę kierunku jazdy pociągów pasażerskich.\" Odpowiedz A jest prawidlowa.",
+        "Drobna uwaga: odpowiedz A mowi \"instrukcja dopuszcza taką zmianę\", a dokladniej to \"wewnętrzny rozkład jazdy może przewidywać\" taka zmiane. Ale sens jest ten sam — instrukcja to dopuszcza.",
+        "To pytanie jest tematycznie identyczne z Q13 — oba dotycza § 3 ust. 14 i zmiany kierunku jazdy na przystanku osobowym. Q147 jest lepiej sformulowane niz Q13. Jeden z nich powinien zostac usuniety."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "b486e11e-dac1-4e2f-b50e-ce1235ffa5ed",
+      "status": "OK",
+      "problems": [
+        "Paragraf 3 ust. 9 pkt 1: \"na liniach jednotorowych – semafor wjazdowy tego posterunku\". Odpowiedz A jest prawidlowa.",
+        "Pytanie uzywa \"granicę stacji\" zamiast \"granicę między szlakiem a posterunkiem zapowiadawczym\" — ale stacja jest posterunkiem zapowiadawczym (§ 3 ust. 4-5), wiec jest to rownowazne.",
+        "To pytanie jest tematycznie bliskie Q6 i Q124. Trzy pytania o semafor wjazdowy jako granicę na linii jednotorowej to duzo — ale kazde jest sformulowane nieco inaczej, wiec mozna je zachowac jako warianty.",
+        "Dystraktory sa wiarygodne i bledne."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "204d2568-d3bf-484d-b34d-57a8845ecc36",
+      "status": "OK",
+      "problems": [
+        "Brak istotnych problemów"
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "2ee2e008-c5ad-4673-ae3b-4f5c27866fe6",
+      "status": "FIX",
+      "problems": [
+        "Te same uwagi co przy Q14. Odpowiedź A pomija alternatywny warunek \"lub znajdujący się w drodze\". Słowo \"Sam\" nie pojawia się w instrukcji.",
+        "Ponadto pytanie jest bardzo podobne do Q14 — obie dotyczą definicji pociągu z § 9 ust. 1 i mają identyczną poprawną odpowiedź (A) o tej samej treści. Dystraktory B, C, D w Q150 są niemal identyczne jak w Q14 (B: \"Co najmniej dwa wagony bez lokomotywy\" vs Q14-B identyczny; C: \"Lokomotywa manewrowa z jednym wagonem roboczym – tylko na terenie lokomotywowni\" vs Q14-C: \"Lokomotywa manewrowa z jednym wagonem roboczym\"; D: \"Wyłącznie zespół trakcyjny z pasażerami\" vs Q14-D: \"Tylko zespół trakcyjny z pasażerami\").",
+        "Mamy zatem dwa niemal identyczne pytania (Q14 i Q150), co jest problemem — duplikacja pytań w quizie.",
+        "Słowo \"zestaw\" w treści pytania jest nieco mylące — pytanie pyta o \"zestaw\", a odpowiedź to pojedynczy pojazd trakcyjny. Lepsze byłoby sformułowanie \"Która z poniższych sytuacji spełnia definicję pociągu w Ir-1?\" lub \"Co może stanowić pociąg według Ir-1?\"."
+      ],
+      "changes": {
+        "question": "Co może stanowić pociąg według Ir-1?",
+        "answers": {
+          "A": "Pojazd trakcyjny osygnalizowany i przygotowany do jazdy lub znajdujący się w drodze"
+        }
+      }
+    },
+    {
+      "uuid": "1f6062c3-1def-4c3f-b21c-bbf1a3c811ff",
+      "status": "FIX",
+      "problems": [
+        "**Pytanie Q151 jest niemal identyczne z Q134** -- oba pytaja o to samo (kto ustala obsade pociagu pasazerskiego). Jest to duplikat.",
+        "**Referencja \"par. 15 ust. 1-2\" jest nieprawidlowa**: ust. 1 mowi o skladzie druzyny pociagowej (druzyna trakcyjna + konduktorska), ust. 2 mowi o liczebnosci druzyny trakcyjnej. Zaden z nich nie mowi, ze to przewoznik kolejowy ustala obsade w zaleznosci od rodzaju/dlugosci skladu. Wlasciwy jest racz",
+        "**Doprecyzowanie \"(liczbe i rodzaj personelu)\" nie wynika z tresci par. 15 ust. 1-2**.",
+        "**Jako duplikat Q134 -- jedno z tych pytan powinno zostac usuniete.**"
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 15 ust. 7",
+        "question": "Kto określa szczegółowe warunki dotyczące obsady pociągu?"
+      }
+    },
+    {
+      "uuid": "63c091e6-5f0a-4730-b4ea-28a03727527e",
+      "status": "FIX",
+      "problems": [
+        "**Odpowiedź A jest merytorycznie poprawna**, ale zbyt ogólna. Paragraf 28 ust. 20 precyzuje: \"Zapowiadanie telefoniczne wprowadza dyżurny ruchu tego posterunku zapowiadawczego, na którym zaistniała przyczyna wymagająca wprowadzenia takiego zapowiadania.\" Dalej ust. 20 precyzuje szczególne przypadki (posterunek odstępowy/bocznicowy).",
+        "**Referencja jest zbyt ogólna** -- powinna wskazywać konkretnie ust. 20.",
+        "**Pytanie jest poprawne i jednoznaczne.** Dystraktory są wiarygodne ale niepoprawne."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 28 ust. 20 — zapowiadanie telefoniczne wprowadza dyżurny ruchu posterunku zapowiadawczego, na którym zaistniała przyczyna"
+      }
+    },
+    {
+      "uuid": "1c185648-f85a-4d0e-8318-4860f195b9d7",
+      "status": "OK",
+      "problems": [
+        "Zgodnie z § 31 ust. 2: „Ruch pociągów na odcinku zpr prowadzi dyżurny ruchu odcinkowy z nastawni zdalnego sterowania.\" Odpowiedź A jest poprawna co do meritum. W instrukcji mowa jest o „dyżurnym ruchu odcinkowym z nastawni zdalnego sterowania\", natomiast odpowiedź mówi o „dyżurnym ruchu w ośrodku zdalnego sterowania (LCS)\". Różnica terminologiczna jest niewielka i nie zmienia sensu; „LCS\" to popularny skrót na „Lokalne Centrum Sterowania\" używany w praktyce kolejowej. Pytanie i odpowiedź są merytorycznie poprawne.",
+        "Referencja mogłaby być precyzyjniejsza (§ 31 ust. 2), ale wskazanie samego paragrafu jest akceptowalne.",
+        "Dystraktory (B, C, D) są wiarygodne ale jednoznacznie niepoprawne."
+      ],
+      "changes": null
+    },
+    {
+      "uuid": "94fac49a-c940-4c54-b0ee-9eb1ab78139a",
+      "status": "FIX",
+      "problems": [
+        "**Duplikacja z Q0.** Pytanie Q154 jest praktycznie identyczne z pytaniem Q0 (5c982342-d32d-45d2-9932-12d50c1e96d7): \"Kto -- zgodnie z Ir-1 -- moze wydac zgode na prowadzenie manewrow na torach glownych?\". Oba pytania odwoluja sie do tego samego ustazu (§ 12 ust. 1), maja te sama poprawna odpowiedz (",
+        "Merytorycznie pytanie jest poprawne -- paragraf 12 ust. 1 potwierdza, ze to dyzurny ruchu dysponujacy zezwala na manewry na torach glownych."
+      ],
+      "changes": null
+    }
+  ]
+}
