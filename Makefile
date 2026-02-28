@@ -1,4 +1,4 @@
-.PHONY: pdfs-to-markdowns pdf-to-markdown clean-markdowns sections section xlsx-to-json
+.PHONY: pdfs-to-markdowns pdf-to-markdown clean-markdowns sections section xlsx-to-json view
 
 INSTRUCTIONS_DIR := instructions
 
@@ -32,3 +32,14 @@ ifdef ONLY
 else
 	uv run python scripts/xlsx_to_json.py --instructions-dir $(INSTRUCTIONS_DIR)
 endif
+
+# Open verification viewer in browser
+# Usage: make view              (defaults to Ir-1)
+#        make view ONLY=Ir-1
+ONLY ?= Ir-1
+view:
+	@python3 -m http.server 8080 -d . &
+	@sleep 0.3
+	@xdg-open "http://localhost:8080/viewer/?name=$(ONLY)" 2>/dev/null || open "http://localhost:8080/viewer/?name=$(ONLY)" 2>/dev/null || echo "Open http://localhost:8080/viewer/?name=$(ONLY)"
+	@echo "Server running on http://localhost:8080 — Ctrl+C to stop"
+	@wait

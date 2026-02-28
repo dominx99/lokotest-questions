@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Weryfikacja pytań</title>
+<style>
+  :root {
+    --bg: #0d1117;
+    --surface: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --text-muted: #8b949e;
+    --green: #3fb950;
+    --green-bg: #12261e;
+    --red: #f85149;
+    --red-bg: #2d1214;
+    --yellow: #d29922;
+    --yellow-bg: #2d2a14;
+    --blue: #58a6ff;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.5;
+    padding: 24px;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+    margin-bottom: 8px;
+  }
+
+  .summary {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 24px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .summary .badge {
+    padding: 4px 12px;
+    border-radius: 16px;
+    font-size: 0.85rem;
+    font-weight: 600;
+  }
+
+  .badge-ok { background: var(--green-bg); color: var(--green); }
+  .badge-fix { background: var(--yellow-bg); color: var(--yellow); }
+  .badge-delete { background: var(--red-bg); color: var(--red); }
+  .badge-total { background: var(--surface); color: var(--text-muted); border: 1px solid var(--border); }
+
+  .filters {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 24px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .filters label {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-right: 4px;
+  }
+
+  .filters button {
+    padding: 4px 12px;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text-muted);
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: all 0.15s;
+  }
+
+  .filters button.active {
+    border-color: var(--blue);
+    color: var(--blue);
+    background: #0d2240;
+  }
+
+  .filters button:hover { border-color: var(--text-muted); }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    margin-bottom: 16px;
+    overflow: hidden;
+  }
+
+  .card.status-fix { border-left: 3px solid var(--yellow); }
+  .card.status-delete { border-left: 3px solid var(--red); }
+  .card.status-ok { border-left: 3px solid var(--green); }
+
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 16px;
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+    user-select: none;
+  }
+
+  .card-header:hover { background: rgba(255,255,255,0.03); }
+
+  .card-header .left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex: 1;
+    min-width: 0;
+  }
+
+  .card-header .idx {
+    color: var(--text-muted);
+    font-size: 0.8rem;
+    font-variant-numeric: tabular-nums;
+    flex-shrink: 0;
+  }
+
+  .card-header .status-tag {
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 4px;
+    flex-shrink: 0;
+  }
+
+  .status-tag.fix { background: var(--yellow-bg); color: var(--yellow); }
+  .status-tag.delete { background: var(--red-bg); color: var(--red); }
+  .status-tag.ok { background: var(--green-bg); color: var(--green); }
+
+  .card-header .question-preview {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 0.9rem;
+    flex: 1;
+    min-width: 0;
+  }
+
+  .card-header .section-ref {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    flex-shrink: 0;
+    margin-left: 8px;
+  }
+
+  .card-header .chevron {
+    color: var(--text-muted);
+    flex-shrink: 0;
+    margin-left: 8px;
+    transition: transform 0.2s;
+  }
+
+  .card.open .chevron { transform: rotate(90deg); }
+
+  .card-body {
+    display: none;
+    padding: 16px;
+  }
+
+  .card.open .card-body { display: block; }
+
+  .uuid {
+    font-family: monospace;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-bottom: 12px;
+  }
+
+  .question-block { margin-bottom: 16px; }
+
+  .question-block h3 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-muted);
+    margin-bottom: 6px;
+  }
+
+  .question-text {
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 8px;
+  }
+
+  .answers-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px 16px;
+  }
+
+  .answer-item {
+    font-size: 0.9rem;
+    padding: 4px 8px;
+    border-radius: 4px;
+  }
+
+  .answer-item.correct {
+    background: var(--green-bg);
+    color: var(--green);
+    font-weight: 600;
+  }
+
+  .answer-letter {
+    font-weight: 700;
+    margin-right: 4px;
+  }
+
+  .explanation {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-top: 6px;
+  }
+
+  .problems { margin-bottom: 16px; }
+
+  .problems h3 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--red);
+    margin-bottom: 6px;
+  }
+
+  .problems ul { list-style: none; padding: 0; }
+
+  .problems li {
+    font-size: 0.85rem;
+    padding: 6px 10px;
+    background: var(--red-bg);
+    border-radius: 4px;
+    margin-bottom: 4px;
+    border-left: 2px solid var(--red);
+  }
+
+  .changes-section { margin-top: 16px; }
+
+  .changes-section h3 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--yellow);
+    margin-bottom: 8px;
+  }
+
+  .diff-block {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin-bottom: 12px;
+  }
+
+  @media (max-width: 768px) {
+    .diff-block { grid-template-columns: 1fr; }
+    .answers-grid { grid-template-columns: 1fr; }
+  }
+
+  .diff-side {
+    padding: 10px 12px;
+    border-radius: 6px;
+    font-size: 0.9rem;
+  }
+
+  .diff-side.old {
+    background: var(--red-bg);
+    border: 1px solid #5c2020;
+  }
+
+  .diff-side.new {
+    background: var(--green-bg);
+    border: 1px solid #1a4028;
+  }
+
+  .diff-label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 4px;
+    font-weight: 700;
+  }
+
+  .diff-side.old .diff-label { color: var(--red); }
+  .diff-side.new .diff-label { color: var(--green); }
+
+  .diff-field {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-bottom: 6px;
+    font-weight: 600;
+  }
+
+  .no-results {
+    text-align: center;
+    color: var(--text-muted);
+    padding: 48px;
+    font-size: 1rem;
+  }
+
+  .error-box {
+    text-align: center;
+    color: var(--red);
+    padding: 48px;
+    font-size: 1rem;
+  }
+
+  .error-box code {
+    display: block;
+    margin-top: 8px;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+  }
+</style>
+</head>
+<body>
+
+<h1>Weryfikacja pytań — <span id="instruction-name">...</span></h1>
+
+<div class="summary" id="summary"></div>
+
+<div class="filters">
+  <label>Filtruj:</label>
+  <button class="active" data-filter="all">Wszystkie</button>
+  <button data-filter="fix">FIX</button>
+  <button data-filter="delete">DELETE</button>
+  <button data-filter="ok">OK</button>
+</div>
+
+<div id="cards"></div>
+
+<script>
+const params = new URLSearchParams(location.search);
+const name = params.get('name');
+
+if (!name) {
+  document.getElementById('cards').innerHTML =
+    '<div class="error-box">Brak parametru <code>?name=Ir-1</code> w URL.</div>';
+} else {
+  loadData(name);
+}
+
+let verificationData = null;
+let questionsMap = {};
+let activeFilter = 'all';
+
+async function loadData(name) {
+  const base = `../instructions/${name}`;
+  const verificationPath = `${base}/${name}-verification.json`;
+  const questionsPath = `${base}/${name}-pytania.json`;
+
+  try {
+    const [vRes, qRes] = await Promise.all([
+      fetch(verificationPath),
+      fetch(questionsPath),
+    ]);
+
+    if (!vRes.ok) throw new Error(`Nie znaleziono ${verificationPath} (${vRes.status})`);
+    if (!qRes.ok) throw new Error(`Nie znaleziono ${questionsPath} (${qRes.status})`);
+
+    verificationData = await vRes.json();
+    const questionsData = await qRes.json();
+
+    questionsData.questions.forEach(q => {
+      questionsMap[q.uuid] = q;
+    });
+
+    document.getElementById('instruction-name').textContent = verificationData.instruction;
+    document.title = `Weryfikacja — ${verificationData.instruction}`;
+    renderSummary();
+    renderCards();
+    setupFilters();
+  } catch (err) {
+    document.getElementById('cards').innerHTML =
+      `<div class="error-box">Nie udalo sie zaladowac plikow JSON.<code>${escHtml(err.message)}</code></div>`;
+  }
+}
+
+function renderSummary() {
+  const s = verificationData.summary;
+  document.getElementById('summary').innerHTML = `
+    <span class="badge badge-total">Razem: ${s.total}</span>
+    <span class="badge badge-ok">OK: ${s.ok}</span>
+    <span class="badge badge-fix">FIX: ${s.fix}</span>
+    <span class="badge badge-delete">DELETE: ${s.delete}</span>
+  `;
+}
+
+function renderCards() {
+  const container = document.getElementById('cards');
+  container.innerHTML = '';
+
+  const filtered = verificationData.results.filter(r => {
+    if (activeFilter === 'all') return true;
+    return r.status.toLowerCase() === activeFilter;
+  });
+
+  if (filtered.length === 0) {
+    container.innerHTML = '<div class="no-results">Brak wynikow dla wybranego filtra.</div>';
+    return;
+  }
+
+  filtered.forEach((result) => {
+    const question = questionsMap[result.uuid];
+    if (!question) return;
+
+    const statusLower = result.status.toLowerCase();
+    const card = document.createElement('div');
+    card.className = `card status-${statusLower}`;
+
+    const globalIdx = verificationData.results.indexOf(result) + 1;
+
+    card.innerHTML = `
+      <div class="card-header" onclick="toggleCard(this)">
+        <div class="left">
+          <span class="idx">#${globalIdx}</span>
+          <span class="status-tag ${statusLower}">${result.status}</span>
+          <span class="question-preview">${escHtml(question.question)}</span>
+        </div>
+        <span class="section-ref">${escHtml(question.section_ref || '')}</span>
+        <span class="chevron">&#9654;</span>
+      </div>
+      <div class="card-body">
+        <div class="uuid">UUID: ${result.uuid}</div>
+        ${renderOriginalQuestion(question)}
+        ${renderProblems(result.problems)}
+        ${renderChanges(result.changes, question)}
+      </div>
+    `;
+
+    container.appendChild(card);
+  });
+}
+
+function renderOriginalQuestion(q) {
+  const correct = q.correct;
+  const answersHtml = Object.entries(q.answers).map(([letter, text]) => {
+    const cls = letter === correct ? 'answer-item correct' : 'answer-item';
+    return `<div class="${cls}"><span class="answer-letter">${letter}.</span> ${escHtml(text)}</div>`;
+  }).join('');
+
+  return `
+    <div class="question-block">
+      <h3>Pytanie oryginalne</h3>
+      <div class="question-text">${escHtml(q.question)}</div>
+      <div class="answers-grid">${answersHtml}</div>
+      <div class="explanation">Poprawna: <strong>${correct}</strong> &mdash; ${escHtml(q.explanation)}</div>
+    </div>
+  `;
+}
+
+function renderProblems(problems) {
+  if (!problems || problems.length === 0) return '';
+  const items = problems.map(p => `<li>${escHtml(p)}</li>`).join('');
+  return `
+    <div class="problems">
+      <h3>Problemy</h3>
+      <ul>${items}</ul>
+    </div>
+  `;
+}
+
+function renderChanges(changes, originalQuestion) {
+  if (!changes || Object.keys(changes).length === 0) return '';
+
+  let html = '<div class="changes-section"><h3>Sugerowane zmiany</h3>';
+
+  if (changes.question) {
+    html += diffBlock('Pytanie', originalQuestion.question, changes.question);
+  }
+
+  if (changes.answers) {
+    Object.entries(changes.answers).forEach(([letter, newText]) => {
+      const oldText = originalQuestion.answers[letter] || '(brak)';
+      html += diffBlock(`Odpowiedz ${letter}`, oldText, newText);
+    });
+  }
+
+  if (changes.correct) {
+    html += diffBlock('Poprawna odpowiedz', originalQuestion.correct, changes.correct);
+  }
+
+  if (changes.explanation) {
+    html += diffBlock('Explanation', originalQuestion.explanation, changes.explanation);
+  }
+
+  html += '</div>';
+  return html;
+}
+
+function diffBlock(label, oldVal, newVal) {
+  return `
+    <div class="diff-field">${escHtml(label)}</div>
+    <div class="diff-block">
+      <div class="diff-side old">
+        <div class="diff-label">Przed</div>
+        ${escHtml(oldVal)}
+      </div>
+      <div class="diff-side new">
+        <div class="diff-label">Po</div>
+        ${escHtml(newVal)}
+      </div>
+    </div>
+  `;
+}
+
+function toggleCard(headerEl) {
+  headerEl.closest('.card').classList.toggle('open');
+}
+
+function setupFilters() {
+  document.querySelectorAll('.filters button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.filters button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeFilter = btn.dataset.filter;
+      renderCards();
+    });
+  });
+}
+
+function escHtml(str) {
+  if (!str) return '';
+  return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+</script>
+</body>
+</html>

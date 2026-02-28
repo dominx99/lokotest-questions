@@ -26,3 +26,9 @@ Makefile targety: `pdfs-to-markdowns`, `sections`, `xlsx-to-json` (każdy przyjm
 ## Weryfikacja pytań
 
 Weryfikacja pytań: `/verify-questions {name}`
+
+Podgląd wyników weryfikacji: `make view ONLY=Ir-1`
+
+## Zasady
+
+- Do usuwania plików używaj `trash` zamiast `rm`.

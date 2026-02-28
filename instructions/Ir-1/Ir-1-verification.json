@@ -1,0 +1,1109 @@
+{
+  "instruction": "Ir-1",
+  "timestamp": "2026-02-28T13:41:14.558948",
+  "summary": {
+    "total": 149,
+    "ok": 102,
+    "fix": 42,
+    "delete": 5
+  },
+  "results": [
+    {
+      "uuid": "47d001a3-6fb0-438c-8f3b-d448cec041a0",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź B używa nieprawidłowej terminologii 'posterunki następcze' zamiast prawidłowej z § 2 ust. 6 — definicja odstępu obejmuje posterunki zapowiadawcze, odstępowe, bocznicowe lub semafory blokady wieloodstępowej"
+      ],
+      "changes": {
+        "answers": {
+          "A": "Część linii między dwiema stacjami węzłowymi",
+          "B": "Część toru szlakowego między sąsiednimi posterunkami zapowiadawczymi a posterunkami odstępowymi lub semaforami blokady samoczynnej",
+          "C": "Każdy tor główny dodatkowy na stacji",
+          "D": "Fragment bocznicy od wjazdu do pierwszego rozjazdu"
+        }
+      }
+    },
+    {
+      "uuid": "b3f93dba-befd-4c5e-8e15-bc258653702f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d9c9ecc2-b674-447f-911b-df2d854a15e6",
+      "status": "FIX",
+      "problems": [
+        "Explanation ma niedozwolony format z podwójną referencją 'Ir-1 § 2 ust. 6 / Ir-1 § 28 ust. 1' — dozwolona jest tylko pojedyncza referencja"
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 2 ust. 6"
+      }
+    },
+    {
+      "uuid": "a72bf759-9111-4edd-89e3-65a0cbbe44d6",
+      "status": "FIX",
+      "problems": [
+        "Pytanie ma obciętą treść — brak znaku zapytania na końcu, brak domknięcia cudzysłowu"
+      ],
+      "changes": {
+        "question": "Co w Ir-1 oznacza „odcinek”?"
+      }
+    },
+    {
+      "uuid": "296b6af4-8046-4f25-9ad6-997c0bdec3bc",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "1616327e-2ff0-4c34-8a55-1be8724b0af0",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e2bbb13c-85a8-4722-a000-755c25fcdcdc",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4eed61ca-2b03-4dae-8887-addd251897e4",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "46ea224e-14bc-4b85-9905-e3a63af20561",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "70d3840f-d513-4259-bbdb-5711913cc14a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e42c5bf9-fb55-4555-91c6-061e2df9d46b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "2c3e6503-e732-475e-8dc1-97ddd73484f2",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e8692483-786e-43ce-93ea-78e2d52ef780",
+      "status": "FIX",
+      "problems": [
+        "Pytanie mówi o granicy 'między torami stacyjnymi a szlakiem jednotorowym' — instrukcja definiuje granicę między szlakiem a posterunkiem zapowiadawczym, nie 'torami stacyjnymi'. Sformułowanie nieprecyzyjne."
+      ],
+      "changes": {
+        "question": "Który semafor określa granicę między posterunkiem zapowiadawczym a szlakiem na linii jednotorowej?"
+      }
+    },
+    {
+      "uuid": "cba90af4-ecaf-4f7b-8139-158ef75e9216",
+      "status": "FIX",
+      "problems": [
+        "Pytanie mówi o granicy 'między torami stacyjnymi a szlakiem na linii dwutorowej' — instrukcja definiuje granicę między szlakiem a posterunkiem zapowiadawczym, nie 'torami stacyjnymi'. Sformułowanie nieprecyzyjne."
+      ],
+      "changes": {
+        "question": "Co stanowi granicę między posterunkiem zapowiadawczym a szlakiem na linii dwutorowej?"
+      }
+    },
+    {
+      "uuid": "2b379f76-8c9d-4e94-b47a-2d2285dca1eb",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b486e11e-dac1-4e2f-b50e-ce1235ffa5ed",
+      "status": "FIX",
+      "problems": [
+        "Pytanie jest merytorycznym duplikatem pytania e8692483 — oba dotyczą granicy na linii jednotorowej i mają tę samą odpowiedź (semafor wjazdowy) z tego samego przepisu (§ 3 ust. 9 pkt 1).",
+        "Pytanie mówi o 'granicy stacji' — instrukcja nie mówi o 'granicy stacji', lecz o granicy między szlakiem a posterunkiem zapowiadawczym."
+      ],
+      "changes": {
+        "question": "Co wyznacza granicę między szlakiem a posterunkiem zapowiadawczym na linii jednotorowej?"
+      }
+    },
+    {
+      "uuid": "9c583e7f-8716-458f-b1bf-2c6a3c3a9a24",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f1d2c0ea-05a0-4626-b611-519e858e0737",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b3361841-e3c6-42a7-8e99-6dd916de8e94",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "67db0d36-92ee-47cc-90c3-3c77b252e190",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "1b012b65-3764-466f-a19b-76152679a4a6",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "ddf80771-5b35-4702-8446-88eb75dc6a0d",
+      "status": "FIX",
+      "problems": [
+        "Explanation zawiera niedozwolony tekst opisowy w nawiasach: '(tor wyciągowy jest torem specjalnego przeznaczenia; definicja funkcji toru wyciągowego wynika z ogólnej terminologii kolejowej)' — dozwolona jest wyłącznie czysta referencja."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 5 ust. 3"
+      }
+    },
+    {
+      "uuid": "ea30ca3d-0814-4fc6-8cea-0a9a4b1cfbb5",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź A używa skróconej formy 'Żeberko' zamiast pełnej nazwy 'Żeberko ochronne' z instrukcji."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Żeberko ochronne",
+          "B": "Tor główny dodatkowy",
+          "C": "Tor zasadniczy",
+          "D": "Tor bocznicowy"
+        }
+      }
+    },
+    {
+      "uuid": "123052cc-67d9-4001-8c89-3e2edadb3671",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a256820a-ed5f-49f2-904a-7b71d5802e9a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "0aeb40ea-888e-4aa8-8029-9ad1d0fac18f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d9b2118f-e4a2-42f3-913a-1a75c60a165d",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5fe4b393-3b5a-407f-ad9f-d02ca780db1c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "916d46a9-1410-498a-8b2c-1676489d07e1",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "ec37a3de-d7ec-4371-99c2-e5411200e62b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e512fd40-d449-497f-8a4a-5c89824ad3fd",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "042e84d8-dfcd-4bcb-9aeb-2b0ace3e5671",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "911f536c-b31d-4f97-b521-3ac5b0429301",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "cd5dc1e5-359e-46a6-96ac-51db8e1fab46",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "61b4fcd9-eef1-4314-b3f8-14635213af12",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "47ce64c8-bd4e-440b-9984-6df276f679ff",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5dbd22a4-36ad-408f-bed1-b1b047028b5b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "97966c56-76a0-4c16-84a9-f90e17855e15",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "09e38101-50c1-458b-959c-da7753d683d1",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "2ee2e008-c5ad-4673-ae3b-4f5c27866fe6",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d7c78ffa-d339-4182-afa3-c01d9567cd33",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "f0d17e6a-22dc-47ac-8a5b-a73df2ef8c99",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "b83962c5-dbed-42f8-accd-1bc8ab32584e",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź C zawiera nieprecyzyjne sformułowanie 'uprawnionego kierownika manewrów', podczas gdy §11 ust. 3 mówi o 'uprawnionego pracownika (kierownika manewrów)' — pominięto słowo 'pracownika', co zmienia znaczenie."
+      ],
+      "changes": {
+        "answers": {
+          "C": "Uprawnionego pracownika (kierownika manewrów)"
+        }
+      }
+    },
+    {
+      "uuid": "adaef145-9ae1-40ad-a4e3-508b2639d58a",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "5c982342-d32d-45d2-9932-12d50c1e96d7",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "6f8905d8-6cd0-4d7b-a0ab-a64434f25232",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "044b2793-4a7a-40c4-aa34-f8e0e1917c23",
+      "status": "FIX",
+      "problems": [
+        "Literówka w odpowiedzi B: 'dyzurnego' powinno być 'dyżurnego'."
+      ],
+      "changes": {
+        "answers": {
+          "B": "Rozkazu pisemnego od dyżurnego ruchu"
+        }
+      }
+    },
+    {
+      "uuid": "b222dbe1-7e38-440a-abca-bf9b34e76e85",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "2c40d55d-1c95-48b3-97b6-3c31229fd94f",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "6be209a0-5587-49e0-a03f-7fe2ab63a1d3",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "f70b43d2-0e42-4b6e-bf5b-a79145ca43a6",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "4c8a127f-7000-4e41-bf88-cce88f75eda7",
+      "status": "FIX",
+      "problems": [
+        "Treść pytania zawiera błędne sformułowanie 'bez semafora' — §12 ust. 4 mówi o wskaźniku oznaczającym granicę przetaczania, nie o semaforze. Pytanie powinno brzmieć 'poza wskaźnik granicy przetaczania, gdy takiego wskaźnika nie ma (poza ostatni rozjazd)'."
+      ],
+      "changes": {
+        "question": "Wyjazd manewrów poza wskaźnik granicy przetaczania (lub poza ostatni rozjazd, gdy wskaźnika nie ma) może odbyć się:"
+      }
+    },
+    {
+      "uuid": "2973daa0-49b7-492a-a974-2cf1cfe3de0e",
+      "status": "FIX",
+      "problems": [
+        "Explanation używa 'par.' zamiast '§'",
+        "Explanation zawiera tekst opisowy po myślnikach ('-- wskaznik W5 oznacza granice przetaczania') — niedozwolone",
+        "Explanation zawiera komentarz z dodatkowym odwołaniem ('rowniez Ir-1 par. 84 instrukcja rozkazu pisemnego 21.25') — niedozwolone",
+        "§ 12 ust. 4 opisuje jedynie pojęcie granicy przetaczania, nie podaje oznaczenia W 5; właściwe odwołanie to § 84"
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 84"
+      }
+    },
+    {
+      "uuid": "2d98dd30-3ca5-46d5-98f7-1b80fce6da2d",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "f5a301b1-1736-4579-8b64-06b44d5c0537",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "027bcc74-121d-45c6-9b17-ac8f5391a571",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "d99160f5-f1f1-46fb-b22d-2c66a57b3d47",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "d3757a89-7570-414f-bd98-c3488cb7ca5d",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "0f7899ab-540c-4ad7-8c75-67ece29c0f37",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "f30e6878-fe1a-460c-86a1-643f78d09d1d",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "46d89771-08b2-43e1-8657-496a3e09f768",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź A brzmi 'Co 10 minut', co sugeruje dokładnie co 10 minut, podczas gdy § 13 ust. 2 mówi 'w odstępach nie dłuższych niż 10 minut' – oznacza to, że przerwy mogą być częstsze. Sformułowanie odpowiedzi A jest nieprecyzyjne i nie oddaje dokładnie wymogu instrukcji."
+      ],
+      "changes": {
+        "answers": {
+          "A": "W odstępach nie dłuższych niż 10 minut"
+        }
+      }
+    },
+    {
+      "uuid": "7d6703dc-a41a-4f05-a1e7-efb8eac2efb1",
+      "status": "FIX",
+      "problems": [
+        "Explanation zawiera niedozwolone wyrażenie 'w zw. z' — format musi być pojedynczą referencją bez spójników łączących ustępy"
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 14 ust. 2"
+      }
+    },
+    {
+      "uuid": "87b261a8-0a1d-4f51-a893-6a67a11d17ff",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "fae2ca3c-f6b9-4a48-ba5d-e315362c0cac",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "aa3a50df-3036-44d6-845a-25649185c4ae",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "a6b87f5e-f438-4b07-95e5-391117a03b8d",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "329d3373-4c8f-48a8-baf9-8fc2f81d2024",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "11fe00cd-f690-4515-aba1-b191bd0b0c3d",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "52bf8010-f5f2-49c6-b377-2efda2a25a56",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź A mówi 'Maszynistę i pomocnika maszynisty', ale § 15 ust. 2a nie używa terminu 'pomocnik maszynisty'. Zgodnie z treścią, dwuosobowa drużyna trakcyjna składa się z 'dwóch maszynistów albo maszynista i pracownik posiadający licencję maszynisty będący w trakcie szkolenia'. Termin 'pomocnik maszynisty' jest błędny i nieobecny w tej instrukcji.",
+        "Pytanie w formie ogólnej ('Kto wchodzi w skład drużyny trakcyjnej?') może sugerować skład jednostkowy, podczas gdy § 15 ust. 2 wskazuje, że drużyna może być jedno- lub dwuosobowa. Pytanie powinno precyzować 'dwuosobowej drużyny trakcyjnej'."
+      ],
+      "changes": {
+        "question": "Kto może wchodzić w skład dwuosobowej drużyny trakcyjnej?",
+        "answers": {
+          "A": "Dwóch maszynistów albo maszynista i pracownik posiadający licencję maszynisty",
+          "B": "Cały personel techniczny stacji",
+          "C": "Nastawniczego wykonawczego",
+          "D": "Dyżurnego ruchu"
+        },
+        "explanation": "Ir-1 § 15 ust. 2a"
+      }
+    },
+    {
+      "uuid": "c8c2b888-11f4-484a-b084-f0565c11bc24",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "6cdea651-6982-4ce4-88ef-e004d408fe69",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "1f6062c3-1def-4c3f-b21c-bbf1a3c811ff",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania 6cdea651-6982-4ce4-88ef-e004d408fe69 — identyczne pytanie, odpowiedzi, poprawna odpowiedź i explanation."
+      ],
+      "changes": {}
+    },
+    {
+      "uuid": "0ccdc7d7-e13c-4857-8e90-cdb55c3c2609",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "835c48f6-1609-4c2f-bffd-9a06dbf94456",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "6649a2f1-f2b7-47b5-b3f2-c2f87dc7768e",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "1d7895e2-2170-4329-8938-797a0d417efb",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "af9d2503-d5d6-46d0-8fac-946a58c4b627",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "56e83bbb-17c1-4faa-80c0-1596cf6669ac",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "016cd2df-64b3-4b38-a1b8-33c4321d8c6b",
+      "status": "FIX",
+      "problems": [
+        "Pytanie odwołuje się do jazdy 'na telefoniczne żądanie', ale §23 nie zawiera takiego pojęcia — paragraf dotyczy ogólnych zasad zapowiadania pociągów",
+        "Odpowiedź A 'Godzina i numer pociągu' jest tylko częściowo uzasadniona: §23 ust. 8 mówi wyłącznie o numerze pociągu; godzina wynika z wzorów telefonogramów w przykładach, nie z treści ust. 8-9 explicite",
+        "Explanation zawiera zakres ustępów 'ust. 8-9' — niedozwolony format; należy wskazać konkretny ustęp",
+        "Explanation zawiera tekst opisowy po myślniku — niedozwolony format"
+      ],
+      "changes": {
+        "question": "Co podaje się przy zapowiadaniu pociągów zgodnie z zasadami telefonicznego zapowiadania?",
+        "answers": {
+          "A": "Numer pociągu",
+          "B": "Tylko sygnał gotowości",
+          "C": "Wyłącznie liczbę wagonów",
+          "D": "Kolor lokomotywy"
+        },
+        "correct": "A",
+        "explanation": "Ir-1 § 23 ust. 8"
+      }
+    },
+    {
+      "uuid": "f9552968-3950-4fbc-b704-f9e6cdb3fa26",
+      "status": "DELETE",
+      "problems": [
+        "Treść § 28 nie zawiera żadnej wzmianki o maksymalnej prędkości 40 km/h dla pierwszego pociągu w kontekście powtarzacza zajętości toru. Ust. 16 pkt 2 lit. j wspomina jedynie o konieczności wprowadzenia telefonicznego zapowiadania, gdy urządzenia kontroli niezajętości wskazują zajętość pomimo przybycia pociągu — bez określania prędkości. Limit 40 km/h pochodzi z innego paragrafu (np. § 63) i nie wynika z treści § 28.",
+        "Pytanie i poprawna odpowiedź (B: 40 km/h) są nieweryfikowalne na podstawie § 28."
+      ],
+      "changes": {}
+    },
+    {
+      "uuid": "62796780-2b4a-4368-9ef4-c9a1e6a9b807",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "c26376e1-d839-4fed-a10f-d2720bcabe22",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "91fc5dd2-4371-452f-ac2f-d142f9c10e4d",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "4b760874-dbf9-4be0-97e5-bbbe98ee8740",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "63c091e6-5f0a-4730-b4ea-28a03727527e",
+      "status": "FIX",
+      "problems": [
+        "Explanation zawiera tekst opisowy po myślniku ('— zapowiadanie telefoniczne wprowadza dyżurny ruchu posterunku zapowiadawczego, na którym zaistniała przyczyna'), co jest niedozwolone. Dozwolona jest wyłącznie czysta referencja."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 28 ust. 20"
+      }
+    },
+    {
+      "uuid": "56c66a31-a633-4abe-abd2-ef6fa647c2d0",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "1c185648-f85a-4d0e-8318-4860f195b9d7",
+      "status": "FIX",
+      "problems": [
+        "Explanation nie wskazuje konkretnego ustępu — należy dodać ust. 2"
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 31 ust. 2"
+      }
+    },
+    {
+      "uuid": "125ab5d1-93b7-4232-a282-a5f3faddbb11",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "a24fd765-c1d1-4fc5-91e1-de295aba3b33",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź B brzmi 'Nie wskazuje sygnału zezwalającego po zatrzymaniu pociągu' — sformułowanie jest mylące: w treści paragrafu to semafor nie wskazuje sygnału (co powoduje zatrzymanie pociągu), a nie 'po zatrzymaniu pociągu'. Kolejność zdarzeń w dystraktorze jest odwrócona względem treści §32 ust. 2 pkt 1."
+      ],
+      "changes": {
+        "answers": {
+          "B": "Nie wskazuje sygnału zezwalającego na jazdę"
+        }
+      }
+    },
+    {
+      "uuid": "a97a0ab1-f43b-416d-8ef5-a79eaf288ee7",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "33cc47d3-bbcc-4b66-818b-22084e771db1",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "b01ff4ae-12c0-4587-812a-1b04cbbc8d2f",
+      "status": "FIX",
+      "problems": [
+        "Explanation wskazuje 'Ir-1 § 32 ust. 2' bez numeru punktu. Regulacja dotycząca ciężkiego pociągu towarowego i wskaźnika W22 znajduje się w § 32 ust. 2 pkt 1."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 32 ust. 2 pkt 1"
+      }
+    },
+    {
+      "uuid": "0592b208-2d7d-47da-a580-eefa8390c0de",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "87fbba67-476c-4bda-9863-eaa9cd91940b",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "33ec192c-1054-47eb-8ef8-714b743e5816",
+      "status": "FIX",
+      "problems": [
+        "Explanation wskazuje 'Ir-1 § 32 ust. 2' bez numeru punktu. Regulacja dotycząca ciężkiego pociągu towarowego i wskaźnika W22 znajduje się w § 32 ust. 2 pkt 1."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 32 ust. 2 pkt 1"
+      }
+    },
+    {
+      "uuid": "14128d46-499f-4ab3-b471-0c1611558e4a",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "a43e63aa-fa7a-48f7-9931-47660070b0c1",
+      "status": "FIX",
+      "problems": [
+        "Explanation zbyt ogólne: wskazuje 'Ir-1 § 32 ust. 2', ale odpowiedni fragment to § 32 ust. 2 pkt 1."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 32 ust. 2 pkt 1"
+      }
+    },
+    {
+      "uuid": "bab4e6aa-bc9e-41e8-9420-2a60d96cb88c",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "8bbcd3f5-61f8-44af-a511-0ce5bec62410",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "6fa4b7d2-373d-4a44-be67-35d1ec54a9d8",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "431f4a1c-351a-49b6-bcca-640cd7d890ef",
+      "status": "DELETE",
+      "problems": [
+        "Pytanie jest duplikatem pytania 8bbcd3f5: obie pozycje pytają o maksymalną prędkość przy przyjęciu/wjeździe na tor częściowo zajęty, mają tę samą odpowiedź (20 km/h) i ten sam explanation (§ 38 ust. 9 pkt 2). Różnica w sformułowaniu ('przyjęciu' vs 'wjeździe') jest zbyt drobna, aby uzasadnić dwa oddzielne pytania."
+      ],
+      "changes": {}
+    },
+    {
+      "uuid": "8bd5e70d-4680-48d7-83e0-e0d7324610b1",
+      "status": "FIX",
+      "problems": [
+        "Explanation zbyt ogólne: wskazuje 'Ir-1 § 38 ust. 9', ale konkretna wartość prędkości 20 km/h dla toru zakończonego kozłem oporowym wynika z § 38 ust. 9 pkt 2."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 38 ust. 9 pkt 2"
+      }
+    },
+    {
+      "uuid": "43c149fb-8ee7-40ec-b2e2-769c7a2c283f",
+      "status": "FIX",
+      "problems": [
+        "Explanation zbyt ogólne: 'Ir-1 § 44' bez wskazania ustępu. Zasada jazdy na sygnał zastępczy lub rozkaz pisemny w przypadku braku możliwości podania sygnału zezwalającego wynika z § 44 ust. 1."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 44 ust. 1"
+      }
+    },
+    {
+      "uuid": "66070ae6-fdd2-4740-8997-2b574432780e",
+      "status": "FIX",
+      "problems": [
+        "Pytanie pyta o jazdę 'na którym znajdują się inne pojazdy', co odpowiada 'zajętemu torowi szlakowym' z ust. 10. Jednak treść paragrafu mówi o 'zamkniętym i zajętym torze szlakowym' lub torze 'na którym znajduje się przeszkoda do jazdy' — nie o 'innych pojazdach' wprost. Pytanie jest mniej precyzyjne niż treść przepisu, ale merytorycznie poprawne. Wymagana korekta: pytanie powinno precyzyjniej odwzorowywać brzmienie przepisu.",
+        "Pytanie jest redundantne z uuid 4b8a6634 i 81ef35cf — wszystkie trzy pytają o tę samą prędkość 30 km/h z ust. 10, różniąc się jedynie sformułowaniem."
+      ],
+      "changes": {
+        "question": "Jaka jest maksymalna dopuszczalna prędkość jazdy pociągu na zamkniętym torze szlakowym, na którym znajdują się pociągi robocze?"
+      }
+    },
+    {
+      "uuid": "4b8a6634-48f2-47a9-891f-bbd3b58a350f",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "81ef35cf-85d4-458d-a4b7-5e0aa64ba4f7",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "95277899-5c3a-493a-ad00-f24c4eec52c3",
+      "status": "FIX",
+      "problems": [
+        "Explanation zawiera niedozwolony format 'w powiązaniu z' — niedopuszczalne według zasad weryfikacji.",
+        "§ 55 ust. 1 nie wskazuje wprost, kto 'wprowadza' telefoniczne zapowiadanie pociągów na torze zamkniętym — przepis opisuje jedynie sposób zapowiadania. Odpowiedź odwołuje się do §54, którego treść nie jest przedmiotem weryfikacji, ale sama odpowiedź B jest prawdopodobna (dyżurny ruchu zarządza torem zamkniętym). Explanation należy uprościć do samego §55 ust. 1 lub usunąć odwołanie do §54."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 55 ust. 1"
+      }
+    },
+    {
+      "uuid": "2b56be71-e895-483e-a61f-cfc362b5189c",
+      "status": "FIX",
+      "problems": [
+        "Treść pytania zawiera cytat 'pociąg po zamkniętym torze numer ...' — §55 ust. 3 mówi o dodawaniu słów 'po zamkniętym torze numer nr' po numerze pociągu, a nie 'pociąg po zamkniętym torze numer ...'. Słowo 'pociąg' nie jest częścią cytowanego zapisu z przepisu."
+      ],
+      "changes": {
+        "question": "Zapis 'po zamkniętym torze numer ...' należy umieścić w telefonogramach zapowiadawczych:"
+      }
+    },
+    {
+      "uuid": "ac3ee5c1-d943-4834-bad2-a542b46f6aac",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "bee52553-2332-4e5b-84d9-6e9533bc9984",
+      "status": "FIX",
+      "problems": [
+        "Pytanie dotyczy prędkości przez rozjazdy na szlaku w kierunku zwrotnym (ust. 56 – przypadek E: prowizoryczny posterunek odstępowy/odgałęźny), a nie ogólnie na szlaku. Treść powinna precyzować kontekst prowizorycznego posterunku, by pytanie nie sugerowało ogólnej zasady dla całej sieci."
+      ],
+      "changes": {
+        "question": "Jaka jest maksymalna dopuszczalna prędkość pociągów przejeżdżających przez rozjazd prowizorycznego posterunku w kierunku zwrotnym?",
+        "explanation": "Ir-1 § 57 ust. 56"
+      }
+    },
+    {
+      "uuid": "64f59ec5-5f83-4957-9a2e-4be694da46fa",
+      "status": "FIX",
+      "problems": [
+        "Pytanie jest mylące – ust. 23 nie wprowadza bezwzględnego ograniczenia prędkości po każdym otwarciu posterunku. Ograniczenie do 50 km/h dotyczy wyłącznie wyjątkowego przypadku, gdy nie można dokonać sprawdzenia rozjazdów ('jeżeli wyjątkowo nie można dokonać powyższych sprawdzeń'). Ponadto ograniczenie odnosi się tylko do 'okręgu zwrotnicowego, w którym nie dokonano sprawdzenia', a nie do całej drogi. Pytanie powinno precyzować ten wyjątkowy przypadek."
+      ],
+      "changes": {
+        "question": "Do jakiej prędkości należy ograniczyć pierwszy pociąg w okręgu zwrotnicowym, jeżeli wyjątkowo nie można dokonać sprawdzenia rozjazdów przed otwarciem posterunku następczego?",
+        "explanation": "Ir-1 § 57 ust. 23"
+      }
+    },
+    {
+      "uuid": "66000b6d-bb9b-42ec-b8c3-4dc99ff5a520",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "ea3bc5be-e9e4-4fde-aa93-fec89261170b",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "4b9a31e6-3cea-4680-ba15-b4af8ae64cc9",
+      "status": "FIX",
+      "problems": [
+        "Pytanie jest duplikatem pytania ac3ee5c1-d943-4834-bad2-a542b46f6aac – oba dotyczą tej samej prędkości (30 km/h) pociągu ratunkowego na odcinku z zamkniętymi posterunkami, z powołaniem na ten sam ustęp (ust. 45). Różnica między 'wjeżdżającego na odcinek' i 'na odcinku' jest pozorna i nie wynika z treści przepisu. Zalecane usunięcie jednego z pytań lub przeformułowanie tak, by pytały o różne aspekty."
+      ],
+      "changes": {
+        "question": "Jakie warunki muszą być spełnione, aby uruchomić pociąg ratunkowy na odcinku z zamkniętymi posterunkami ruchu i wstrzymanym ruchem?"
+      }
+    },
+    {
+      "uuid": "5bcd6c98-5501-4bf7-8497-a3f12eee29a7",
+      "status": "DELETE",
+      "problems": [
+        "Pytanie pyta o 'rozkaz pisemny S przy sprawnej blokadzie stacyjnej' — taka terminologia (formularz 'S', 'sprawna blokada stacyjna') nie występuje w §58. §58 opisuje ogólnie rodzaje rozkazów pisemnych, zasady ich sporządzania i przekazywania, nie zawiera przepisów dotyczących wyprawiania pociągów na rozkaz 'S' w kontekście blokady stacyjnej sprawnej bądź niesprawnej.",
+        "Odpowiedź A ('Gdy nie można podać sygnału zezwalającego mimo przygotowanej drogi przebiegu') nie wynika wprost z §58 — zbliżona sytuacja opisana jest w §58 ust. 7 pkt 2, ale bez sformułowania 'przy sprawnej blokadzie stacyjnej'. Zagadnienie wyprawiania pociągu gdy semafor wyjazdowy nie daje sygnału zezwalającego opisane jest m.in. w §29 ust. 5 pkt 1.",
+        "Explanation wskazuje jedynie 'Ir-1 § 58' bez wskazania konkretnego ustępu i punktu. Żaden ustęp §58 nie mówi o 'rozkazie S przy sprawnej blokadzie stacyjnej'.",
+        "Pytanie myli pojęcia: §58 definiuje rozkazy pisemne jako kategorię ogólną, natomiast konkretne przypadki ich zastosowania (w tym przy niesprawnych urządzeniach srk lub semaforach) opisane są w innych paragrafach (np. §29, §57). Pytanie jest merytorycznie błędne w odniesieniu do §58."
+      ],
+      "changes": {}
+    },
+    {
+      "uuid": "34e55423-a637-48c1-917e-ff0430372b97",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "53288eea-434c-4114-b351-7f1821084354",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "940e53b9-0f00-4c62-bdbf-80c19457f1e3",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "64ebdd50-173a-475a-9de4-af7e989d5d6e",
+      "status": "FIX",
+      "problems": [
+        "Explanation 'Ir-1 § 63 pkt 2' nie wskazuje poprawnie ustępu i tabeli; właściwe odesłanie to § 63 ust. 5 tabela poz. 2). Tabela odwołuje się do wjazdu na stację pociągu z zagrzanym czopem, a wymagana forma to 'tabela poz. X)'."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 63 ust. 5 tabela poz. 2)"
+      }
+    },
+    {
+      "uuid": "fec49c60-3509-40a1-b281-812c49310a1a",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "6c44d2e3-e151-4915-9d53-b3199d0f3afc",
+      "status": "FIX",
+      "problems": [
+        "Explanation 'Ir-1 § 63' jest zbyt ogólne — brak wskazania ustępu i pozycji tabeli. Ograniczenie 30 km/h jest w § 63 ust. 5 tabela poz. 27)."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 63 ust. 5 tabela poz. 27)"
+      }
+    },
+    {
+      "uuid": "fa004092-0525-4848-9fbf-fa534fac7b7d",
+      "status": "FIX",
+      "problems": [
+        "Explanation 'Ir-1 § 63' jest zbyt ogólne — brak wskazania ustępu i pozycji tabeli. Ograniczenie 30 km/h dla pchanego/cofanego pociągu na szlaku z przejazdami obsługiwanymi lub zabezpieczonymi jest w § 63 ust. 5 tabela poz. 28)."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 63 ust. 5 tabela poz. 28)"
+      }
+    },
+    {
+      "uuid": "b4a75338-57a8-42d3-b9f4-3219dc7c21f5",
+      "status": "FIX",
+      "problems": [
+        "Explanation 'Ir-1 § 63' jest zbyt ogólne — brak wskazania ustępu i pozycji tabeli. Ograniczenie 40 km/h dla jazdy bez znajomości obsługiwanych odcinków linii jest w § 63 ust. 5 tabela poz. 33)."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 63 ust. 5 tabela poz. 33)"
+      }
+    },
+    {
+      "uuid": "ab54c3b4-b4e4-4ad7-95c8-d366f03ee9a0",
+      "status": "FIX",
+      "problems": [
+        "Explanation zbyt ogólne — brak wskazania pozycji tabeli. Powinno wskazywać tabelę poz. 30."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 63 ust. 5 tabela poz. 30"
+      }
+    },
+    {
+      "uuid": "d81819a9-186c-444c-9c1c-ce2f83666c5f",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "cf6a1c45-2c83-4ba6-874f-8b85e63c93df",
+      "status": "FIX",
+      "problems": [
+        "Explanation zawiera nawiasy — niedozwolony format. Należy użyć formatu 'tabela poz. X' bez nawiasów."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 63 ust. 5 tabela poz. 31"
+      }
+    },
+    {
+      "uuid": "6980973b-8502-4bfe-8bd7-23997bd4a19b",
+      "status": "DELETE",
+      "problems": [
+        "Pytanie jest duplikatem pytania d81819a9 — identyczna treść merytoryczna (prędkość pociągu bez ERTMS/ETCS), ta sama odpowiedź poprawna (D/C = 160 km/h) i ten sam paragraf źródłowy (§ 63 ust. 8). Należy usunąć jedno z dwóch."
+      ],
+      "changes": {}
+    },
+    {
+      "uuid": "f992c5d3-6989-49e3-a82e-5278e0c0bee5",
+      "status": "FIX",
+      "problems": [
+        "Pytanie zawiera błąd językowy: 'Kto ustala...' sugeruje podmiot osobowy (kto), tymczasem odpowiedź dotyczy miejsc/elementów infrastruktury (semafor, ostatni rozjazd). Należy zmienić sformułowanie na 'Co wyznacza...' lub 'Czym określa się...'."
+      ],
+      "changes": {
+        "question": "Co wyznacza początek i koniec ograniczenia prędkości w okręgu nastawczym?"
+      }
+    },
+    {
+      "uuid": "1648831d-0720-4e93-865f-8152c06c0a2c",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "204d2568-d3bf-484d-b34d-57a8845ecc36",
+      "status": "FIX",
+      "problems": [
+        "Explanation zawiera nawiasy — niedozwolony format. Należy użyć formatu 'tabela poz. X' bez nawiasów."
+      ],
+      "changes": {
+        "explanation": "Ir-1 § 63 ust. 5 tabela poz. 42"
+      }
+    },
+    {
+      "uuid": "73de73ca-bbea-49cc-b4d5-764135dd0094",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "1e1b7fd6-7493-48cc-ae66-3f534340c56f",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "033e053f-6478-43b0-8e20-9d67c7dbc127",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "d83ab80c-1d23-4820-863d-c38e7dfd305c",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "c5154d1a-1f36-4fe4-8b95-085f78993e43",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "37e2ed9c-785f-412f-93a6-740e85c029aa",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "89d79d16-e4df-4796-b4be-7cc670e4c1c1",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "88d93b24-84e2-4a23-8b49-8d2df20d2627",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "a6f3d311-b055-4a15-b5a0-41b6b8bb852b",
+      "status": "FIX",
+      "problems": [
+        "Paragraf §76 ust. 4 podaje zakres prędkości wjazdu 5-10 km/h. Odpowiedź B (10 km/h) wskazuje jedynie górną granicę zakresu, podczas gdy prawidłowe brzmienie to '5-10 km/h'. Pytanie powinno uwzględniać pełny zakres lub wyraźnie pytać o maksymalną prędkość wjazdu."
+      ],
+      "changes": {
+        "question": "Jaka jest maksymalna dopuszczalna prędkość wjazdu pociągu na stację z zagrzanym czopem osi zestawu kołowego?",
+        "answers": {
+          "A": "80 km/h",
+          "B": "10 km/h",
+          "C": "15 km/h",
+          "D": "20 km/h"
+        },
+        "correct": "B",
+        "explanation": "Ir-1 § 76 ust. 4 pkt 2"
+      }
+    },
+    {
+      "uuid": "bad58539-50b9-4fdd-bf09-daff1a5b55b6",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "6b8f73b3-74a2-4b63-8305-1d2dce06e201",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "4b38f474-03b9-461b-ab31-5727212ec7c2",
+      "status": "FIX",
+      "problems": [
+        "Sformułowanie 'wagonie poprzedzającym' jest nieprecyzyjne — §76 ust. 10 mówi o 'braku zderzaka przy wagonie w pociągu' (nie konkretnie poprzedzającym). Prędkość 20 km/h jest prawidłowa."
+      ],
+      "changes": {
+        "question": "Jaka jest maksymalna dopuszczalna prędkość jazdy po wydaniu przez dyżurnego ruchu polecenia pisemnego w związku ze stwierdzeniem braku zderzaka przy wagonie w pociągu?"
+      }
+    },
+    {
+      "uuid": "e6b72b4b-62d2-4157-9ab6-43cc4cfdcbb9",
+      "status": "FIX",
+      "problems": [
+        "Pytanie zawiera sformułowanie 'jeżeli rewident taboru nie wskaże inaczej', co jest mylące. Według §76 ust. 2 prędkość 30 km/h jest bezwzględnym limitem maksymalnym ('prędkość ta nie może być większa niż 30 km/h') — rewident może wskazać niższą prędkość, ale nie wyższą. Poprawna odpowiedź D (30 km/h) jest właściwa co do wartości."
+      ],
+      "changes": {
+        "question": "Jaka jest maksymalna dopuszczalna prędkość jazdy do najbliższej stacji z wagonami wstawionymi na tor po wykolejeniu, gdy nie można ich dokładnie zbadać na szlaku?"
+      }
+    },
+    {
+      "uuid": "ea5fb0a1-c1c4-474b-9fd2-c35711e2ffc5",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "822cfeb1-7a36-465a-9330-ebdaacc28275",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "7af766de-08ca-46e6-b78f-8941451c15c9",
+      "status": "FIX",
+      "problems": [
+        "Brak polskich znaków diakrytycznych w treści pytania: 'predkosc' zamiast 'prędkość', 'calej szerokosci' zamiast 'całej szerokości', 'dezaktywowano' — poprawne, 'zamknietym' zamiast 'zamkniętym'."
+      ],
+      "changes": {
+        "question": "Jaka jest maksymalna dopuszczalna prędkość pociągu roboczego na całej szerokości przejazdu kolejowo-drogowego, gdy dezaktywowano urządzenia SSP jedynie na torze zamkniętym?"
+      }
+    },
+    {
+      "uuid": "f1fec981-ea6a-4e7b-acb0-d4c023b6bd0d",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "1fc326d7-b5ba-40f2-abd4-c8b790eb8405",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    },
+    {
+      "uuid": "0bc5ad1b-9757-4096-8ef7-0d624fe83922",
+      "status": "OK",
+      "problems": [],
+      "changes": {}
+    }
+  ]
+}
