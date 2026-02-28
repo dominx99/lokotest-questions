@@ -5,7 +5,8 @@
       "Bash(python3:*)",
       "Bash(make pdfs-to-markdowns:*)",
       "Bash(uv run:*)",
-      "Bash(.venv/bin/python:*)"
+      "Bash(.venv/bin/python:*)",
+      "Write(/tmp/*)"
     ]
   }
 }

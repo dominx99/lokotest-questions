@@ -63,7 +63,7 @@
         "D": "1000 m"
       },
       "correct": "C",
-      "explanation": "Ir-9 § 6 ust. 6 / Ir-1 § ? ust. 6",
+      "explanation": "Ir-1 § 11 ust. 6",
       "section_ref": "§ 6"
     },
     {
@@ -380,7 +380,7 @@
     },
     {
       "uuid": "123052cc-67d9-4001-8c89-3e2edadb3671",
-      "question": "W jakiej sytuacji dyżurny ruchu jest zobowiązany odmówić wykonania polecenia?",
+      "question": "W jakiej sytuacji pracownik jest zobowiązany odmówić wykonania polecenia?",
       "answers": {
         "A": "Gdy ma wątpliwości co do ekonomiczności",
         "B": "Jeśli wykonanie stwarza zagrożenie bezpieczeństwa ruchu",
