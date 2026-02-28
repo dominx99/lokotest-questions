@@ -35,10 +35,18 @@
     margin-bottom: 8px;
   }
 
-  .summary {
+  .toolbar {
     display: flex;
     gap: 16px;
     margin-bottom: 24px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .summary {
+    display: flex;
+    gap: 16px;
     flex-wrap: wrap;
     align-items: center;
   }
@@ -54,6 +62,44 @@
   .badge-fix { background: var(--yellow-bg); color: var(--yellow); }
   .badge-delete { background: var(--red-bg); color: var(--red); }
   .badge-total { background: var(--surface); color: var(--text-muted); border: 1px solid var(--border); }
+
+  .btn {
+    padding: 6px 16px;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text-muted);
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: all 0.15s;
+  }
+
+  .btn:hover { border-color: var(--text-muted); }
+  .btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+  .btn-apply {
+    border-color: var(--green);
+    color: var(--green);
+    background: var(--green-bg);
+  }
+
+  .btn-apply:hover:not(:disabled) { background: #1a4028; }
+
+  .btn-apply-all {
+    border-color: var(--blue);
+    color: var(--blue);
+    background: #0d2240;
+  }
+
+  .btn-apply-all:hover:not(:disabled) { background: #163d6f; }
+
+  .btn-delete {
+    border-color: var(--red);
+    color: var(--red);
+    background: var(--red-bg);
+  }
+
+  .btn-delete:hover:not(:disabled) { background: #4a1c1e; }
 
   .filters {
     display: flex;
@@ -94,6 +140,12 @@
     border-radius: 8px;
     margin-bottom: 16px;
     overflow: hidden;
+    transition: opacity 0.3s, transform 0.3s;
+  }
+
+  .card.removing {
+    opacity: 0;
+    transform: translateX(40px);
   }
 
   .card.status-fix { border-left: 3px solid var(--yellow); }
@@ -189,8 +241,8 @@
   }
 
   .question-text {
-    font-size: 1rem;
-    font-weight: 500;
+    font-size: 1.1rem;
+    font-weight: 700;
     margin-bottom: 8px;
   }
 
@@ -252,6 +304,14 @@
     letter-spacing: 0.05em;
     color: var(--yellow);
     margin-bottom: 8px;
+  }
+
+  .card-actions {
+    margin-top: 16px;
+    padding-top: 12px;
+    border-top: 1px solid var(--border);
+    display: flex;
+    gap: 8px;
   }
 
   .diff-block {
@@ -326,7 +386,10 @@
 
 <h1>Weryfikacja pytań — <span id="instruction-name">...</span></h1>
 
-<div class="summary" id="summary"></div>
+<div class="toolbar">
+  <div class="summary" id="summary"></div>
+  <button class="btn btn-apply-all" id="apply-all-btn" onclick="applyAll()">Aplikuj wszystkie FIX/DELETE</button>
+</div>
 
 <div class="filters">
   <label>Filtruj:</label>
@@ -353,7 +416,7 @@ let verificationData = null;
 let questionsMap = {};
 let activeFilter = 'all';
 
-async function loadData(name) {
+async function loadData() {
   const base = `../instructions/${name}`;
   const verificationPath = `${base}/${name}-verification.json`;
   const questionsPath = `${base}/${name}-pytania.json`;
@@ -370,6 +433,7 @@ async function loadData(name) {
     verificationData = await vRes.json();
     const questionsData = await qRes.json();
 
+    questionsMap = {};
     questionsData.questions.forEach(q => {
       questionsMap[q.uuid] = q;
     });
@@ -387,12 +451,14 @@ async function loadData(name) {
 
 function renderSummary() {
   const s = verificationData.summary;
+  const hasFixes = s.fix > 0 || s.delete > 0;
   document.getElementById('summary').innerHTML = `
     <span class="badge badge-total">Razem: ${s.total}</span>
     <span class="badge badge-ok">OK: ${s.ok}</span>
     <span class="badge badge-fix">FIX: ${s.fix}</span>
     <span class="badge badge-delete">DELETE: ${s.delete}</span>
   `;
+  document.getElementById('apply-all-btn').style.display = hasFixes ? '' : 'none';
 }
 
 function renderCards() {
@@ -416,8 +482,10 @@ function renderCards() {
     const statusLower = result.status.toLowerCase();
     const card = document.createElement('div');
     card.className = `card status-${statusLower}`;
+    card.id = `card-${result.uuid}`;
 
     const globalIdx = verificationData.results.indexOf(result) + 1;
+    const isActionable = statusLower === 'fix' || statusLower === 'delete';
 
     card.innerHTML = `
       <div class="card-header" onclick="toggleCard(this)">
@@ -434,6 +502,7 @@ function renderCards() {
         ${renderOriginalQuestion(question)}
         ${renderProblems(result.problems)}
         ${renderChanges(result.changes, question)}
+        ${isActionable ? renderActions(result) : ''}
       </div>
     `;
 
@@ -481,7 +550,9 @@ function renderChanges(changes, originalQuestion) {
   if (changes.answers) {
     Object.entries(changes.answers).forEach(([letter, newText]) => {
       const oldText = originalQuestion.answers[letter] || '(brak)';
-      html += diffBlock(`Odpowiedz ${letter}`, oldText, newText);
+      if (oldText !== newText) {
+        html += diffBlock(`Odpowiedz ${letter}`, oldText, newText);
+      }
     });
   }
 
@@ -495,6 +566,17 @@ function renderChanges(changes, originalQuestion) {
 
   html += '</div>';
   return html;
+}
+
+function renderActions(result) {
+  const btnLabel = result.status === 'DELETE' ? 'Usun pytanie' : 'Aplikuj zmiany';
+  const btnClass = result.status === 'DELETE' ? 'btn btn-delete' : 'btn btn-apply';
+  return `
+    <div class="card-actions">
+      <button class="${btnClass}" onclick="event.stopPropagation(); applyOne('${result.uuid}', this)">${btnLabel}</button>
+      <button class="btn" onclick="event.stopPropagation(); dismissOne('${result.uuid}', this)">Ignoruj</button>
+    </div>
+  `;
 }
 
 function diffBlock(label, oldVal, newVal) {
@@ -511,6 +593,117 @@ function diffBlock(label, oldVal, newVal) {
       </div>
     </div>
   `;
+}
+
+async function applyOne(uuid, btnEl) {
+  btnEl.disabled = true;
+  btnEl.textContent = 'Aplikowanie...';
+
+  try {
+    const res = await fetch('/api/apply', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ name, uuid }),
+    });
+    const data = await res.json();
+
+    if (!res.ok) {
+      alert(`Blad: ${data.error}`);
+      btnEl.disabled = false;
+      btnEl.textContent = 'Aplikuj zmiany';
+      return;
+    }
+
+    const card = document.getElementById(`card-${uuid}`);
+    if (card) {
+      card.classList.add('removing');
+      setTimeout(() => {
+        verificationData.results = verificationData.results.filter(r => r.uuid !== uuid);
+        verificationData.summary = recalcSummaryLocal();
+        renderSummary();
+        renderCards();
+      }, 300);
+    }
+  } catch (err) {
+    alert(`Blad sieci: ${err.message}`);
+    btnEl.disabled = false;
+  }
+}
+
+async function dismissOne(uuid, btnEl) {
+  btnEl.disabled = true;
+  btnEl.textContent = 'Usuwanie...';
+
+  try {
+    const res = await fetch('/api/dismiss', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ name, uuid }),
+    });
+    const data = await res.json();
+
+    if (!res.ok) {
+      alert(`Blad: ${data.error}`);
+      btnEl.disabled = false;
+      btnEl.textContent = 'Ignoruj';
+      return;
+    }
+
+    const card = document.getElementById(`card-${uuid}`);
+    if (card) {
+      card.classList.add('removing');
+      setTimeout(() => {
+        verificationData.results = verificationData.results.filter(r => r.uuid !== uuid);
+        verificationData.summary = recalcSummaryLocal();
+        renderSummary();
+        renderCards();
+      }, 300);
+    }
+  } catch (err) {
+    alert(`Blad sieci: ${err.message}`);
+    btnEl.disabled = false;
+  }
+}
+
+async function applyAll() {
+  const btn = document.getElementById('apply-all-btn');
+  const count = verificationData.summary.fix + verificationData.summary.delete;
+  if (!confirm(`Aplikowac ${count} zmian (FIX + DELETE)?`)) return;
+
+  btn.disabled = true;
+  btn.textContent = 'Aplikowanie...';
+
+  try {
+    const res = await fetch('/api/apply-all', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ name }),
+    });
+    const data = await res.json();
+
+    if (!res.ok) {
+      alert(`Blad: ${data.error}`);
+      btn.disabled = false;
+      btn.textContent = 'Aplikuj wszystkie FIX/DELETE';
+      return;
+    }
+
+    await loadData();
+  } catch (err) {
+    alert(`Blad sieci: ${err.message}`);
+    btn.disabled = false;
+    btn.textContent = 'Aplikuj wszystkie FIX/DELETE';
+  }
+}
+
+function recalcSummaryLocal() {
+  const results = verificationData.results;
+  return {
+    total: results.length,
+    ok: results.filter(r => r.status === 'OK').length,
+    fix: results.filter(r => r.status === 'FIX').length,
+    delete: results.filter(r => r.status === 'DELETE').length,
+  };
 }
 
 function toggleCard(headerEl) {

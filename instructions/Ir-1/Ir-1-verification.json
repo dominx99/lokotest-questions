@@ -2,9 +2,9 @@
   "instruction": "Ir-1",
   "timestamp": "2026-02-28T13:41:14.558948",
   "summary": {
-    "total": 149,
+    "total": 148,
     "ok": 102,
-    "fix": 42,
+    "fix": 41,
     "delete": 5
   },
   "results": [
@@ -36,16 +36,6 @@
       ],
       "changes": {
         "explanation": "Ir-1 § 2 ust. 6"
-      }
-    },
-    {
-      "uuid": "a72bf759-9111-4edd-89e3-65a0cbbe44d6",
-      "status": "FIX",
-      "problems": [
-        "Pytanie ma obciętą treść — brak znaku zapytania na końcu, brak domknięcia cudzysłowu"
-      ],
-      "changes": {
-        "question": "Co w Ir-1 oznacza „odcinek”?"
       }
     },
     {

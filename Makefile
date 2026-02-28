@@ -1,4 +1,4 @@
-.PHONY: pdfs-to-markdowns pdf-to-markdown clean-markdowns sections section xlsx-to-json view
+.PHONY: pdfs-to-markdowns pdf-to-markdown clean-markdowns sections section xlsx-to-json view apply-verification
 
 INSTRUCTIONS_DIR := instructions
 
@@ -38,8 +38,12 @@ endif
 #        make view ONLY=Ir-1
 ONLY ?= Ir-1
 view:
-	@python3 -m http.server 8080 -d . &
-	@sleep 0.3
-	@xdg-open "http://localhost:8080/viewer/?name=$(ONLY)" 2>/dev/null || open "http://localhost:8080/viewer/?name=$(ONLY)" 2>/dev/null || echo "Open http://localhost:8080/viewer/?name=$(ONLY)"
-	@echo "Server running on http://localhost:8080 — Ctrl+C to stop"
-	@wait
+	@fuser -k 8080/tcp 2>/dev/null || true
+	@xdg-open "http://localhost:8080/viewer/?name=$(ONLY)" 2>/dev/null || open "http://localhost:8080/viewer/?name=$(ONLY)" 2>/dev/null || true
+	uv run python scripts/serve_viewer.py 8080
+
+# Apply all verification fixes from CLI
+# Usage: make apply-verification              (defaults to Ir-1)
+#        make apply-verification ONLY=Ir-1
+apply-verification:
+	uv run python scripts/apply_verification.py $(ONLY)
