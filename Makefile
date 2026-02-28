@@ -14,7 +14,7 @@ pdf-to-markdown:
 clean-markdowns:
 	find $(INSTRUCTIONS_DIR) -name "*.md" -delete
 
-# Split markdowns into sections JSON
+# Split markdowns into per-section .md files
 # Usage: make sections              (all instructions)
 #        make section ONLY=Ir-1     (single instruction)
 sections:

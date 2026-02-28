@@ -6,7 +6,10 @@
 instructions/{name}/
 ├── {name}.pdf                 # źródłowy PDF instrukcji
 ├── {name}.md                  # markdown (make pdfs-to-markdowns)
-├── {name}-sections.json       # paragrafy (make sections)
+├── sections/                  # paragrafy (make sections)
+│   ├── §1.md
+│   ├── §2.md
+│   └── ...
 ├── {name}-pytania.xlsx        # pytania źródłowe
 └── {name}-pytania.json        # pytania JSON (make xlsx-to-json)
 ```
@@ -14,7 +17,7 @@ instructions/{name}/
 ## Pipeline
 
 ```
-PDF → Markdown → sections.json
+PDF → Markdown → sections/*.md
 XLSX → pytania.json
 ```
 
@@ -22,4 +25,4 @@ Makefile targety: `pdfs-to-markdowns`, `sections`, `xlsx-to-json` (każdy przyjm
 
 ## Weryfikacja pytań
 
-Gdy użytkownik prosi o weryfikację pytań dla instrukcji — wczytaj prompt z `prompts/verify-questions.md` i postępuj według opisanej tam procedury.
+Weryfikacja pytań: `/verify-questions {name}`

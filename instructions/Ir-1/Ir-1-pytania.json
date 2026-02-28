@@ -110,11 +110,11 @@
       "question": "Na ile głównych rodzajów Ir‑1 dzieli tory stacyjne?",
       "answers": {
         "A": "Na dwa: główne i boczne",
-        "B": "Na trzy: główne zasadnicze, główne dodatkowe, boczne",
+        "B": "Na trzy: główne, specjalnego przeznaczenia i boczne",
         "C": "Na cztery: zasadnicze, dodatkowe, specjalnego przeznaczenia, boczne",
         "D": "Na pięć — zależnie od wielkości stacji"
       },
-      "correct": "C",
+      "correct": "B",
       "explanation": "Ir-1 § 5 ust. 3",
       "section_ref": "§ 5"
     },
@@ -1180,9 +1180,9 @@
         "C": "20 km/h",
         "D": "60 km/h"
       },
-      "correct": "C",
-      "explanation": "Ir-1 § 57 ust. 45",
-      "section_ref": "§ 57"
+      "correct": "B",
+      "explanation": "Ir-1 § 55 ust. 10",
+      "section_ref": "§ 55"
     },
     {
       "uuid": "a484283d-7750-4aa4-b342-6b34cb016af6",
@@ -1263,19 +1263,6 @@
       "section_ref": "§ 57"
     },
     {
-      "uuid": "5f4485aa-6642-4c4a-b922-b6c2a9962d8f",
-      "question": "Jaka jest maksymalna dopuszczalna prędkość przy jeździe po torze lewym na linii z ruchem dwukierunkowym (blokada dwukierunkowa)?",
-      "answers": {
-        "A": "5 km/h",
-        "B": "40 km/h",
-        "C": "80 km/h",
-        "D": "30 km/h"
-      },
-      "correct": "B",
-      "explanation": "Ir-1 § 28 ust. 18",
-      "section_ref": "§ 28"
-    },
-    {
       "uuid": "81ef35cf-85d4-458d-a4b7-5e0aa64ba4f7",
       "question": "Jaka jest maksymalna dopuszczalna prędkość podczas jazdy po torze zamkniętym w strefie robót?",
       "answers": {
@@ -1299,32 +1286,6 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 57 ust. 45",
-      "section_ref": "§ 57"
-    },
-    {
-      "uuid": "9f491295-ebee-423d-b99e-ba91a5f9475e",
-      "question": "Jaka jest maksymalna dopuszczalna prędkość przy jeździe po torze w kierunku przeciwnym do zasadniczego (telefoniczne zapowiadanie)?",
-      "answers": {
-        "A": "160 km/h",
-        "B": "50 km/h",
-        "C": "40 km/h",
-        "D": "30 km/h"
-      },
-      "correct": "C",
-      "explanation": "Ir-1 § 28 ust. 23",
-      "section_ref": "§ 28"
-    },
-    {
-      "uuid": "e6f360fa-ba13-4b28-a98d-7e268d43edb7",
-      "question": "Jaka jest maksymalna dopuszczalna prędkość dla pociągu roboczego wyprawionego na część szlaku bez blokady liniowej?",
-      "answers": {
-        "A": "5 km/h",
-        "B": "80 km/h",
-        "C": "20 km/h",
-        "D": "10 km/h"
-      },
-      "correct": "C",
-      "explanation": "Ir-1 § 57 ust. 10",
       "section_ref": "§ 57"
     },
     {
@@ -1352,32 +1313,6 @@
       "correct": "D",
       "explanation": "Ir-1 § 63 ust. 8",
       "section_ref": "§ 63"
-    },
-    {
-      "uuid": "0ec85025-9c7a-423d-8aa7-423a15da1d8d",
-      "question": "Jaka jest maksymalna dopuszczalna prędkość podczas jazdy w kierunku przeciwnym na torze z blokadą wieloodstępową?",
-      "answers": {
-        "A": "120 km/h",
-        "B": "10 km/h",
-        "C": "40 km/h",
-        "D": "50 km/h"
-      },
-      "correct": "C",
-      "explanation": "Ir-1 § 28 ust. 22",
-      "section_ref": "§ 28"
-    },
-    {
-      "uuid": "d8b33c38-71a5-4e4d-921e-a68527ae5aeb",
-      "question": "Linia kolejowa, na której przy normalnym ruchu w jednym kierunku wykorzystuje się tylko jeden tor, to:",
-      "answers": {
-        "A": "Linia jednotorowa",
-        "B": "Linia dwutorowa",
-        "C": "Szlak boczny",
-        "D": "Odstęp jednokierunkowy"
-      },
-      "correct": "A",
-      "explanation": "Ir-1 § 2 ust. 1",
-      "section_ref": "§ 2"
     },
     {
       "uuid": "52bf8010-f5f2-49c6-b377-2efda2a25a56",
@@ -1458,19 +1393,6 @@
       "section_ref": "§ 8"
     },
     {
-      "uuid": "cfb94108-7b70-4e5c-9c34-4d0ea9079c95",
-      "question": "Jakiej prędkości nie wolno przekraczać przy popychaniu pociągu przez zwrotnice mechaniczne?",
-      "answers": {
-        "A": "40 km/h",
-        "B": "50 km/h",
-        "C": "60 km/h",
-        "D": "80 km/h"
-      },
-      "correct": "B",
-      "explanation": "(brak źródła)",
-      "section_ref": null
-    },
-    {
       "uuid": "2c3e6503-e732-475e-8dc1-97ddd73484f2",
       "question": "Wskaźnik między szlakiem a posterunkiem zapowiadawczym na linii dwutorowej to:",
       "answers": {
@@ -1526,7 +1448,7 @@
       "uuid": "af9d2503-d5d6-46d0-8fac-946a58c4b627",
       "question": "Maksymalna długość składu pociągu jest określona w:",
       "answers": {
-        "A": "Wewnętrznym rozkładzie jazdy",
+        "A": "Dodatkach do rozkładu jazdy",
         "B": "Instrukcji Ir‑3",
         "C": "Regulaminie technicznym stacji",
         "D": "Tablicy sygnałowej"
@@ -1591,7 +1513,7 @@
       "uuid": "1d7895e2-2170-4329-8938-797a0d417efb",
       "question": "Kiedy wykonuje się próbę uproszczoną hamulców?",
       "answers": {
-        "A": "Po zmianie drużyny trakcyjnej",
+        "A": "Po zmianie kabiny sterowniczej",
         "B": "Przed każdą zmianą kierunku jazdy",
         "C": "Co 24 h",
         "D": "Tylko na polecenie dyspozytora"
@@ -1612,32 +1534,6 @@
       "correct": "A",
       "explanation": "(wskaźnik W5 - brak źródła)",
       "section_ref": null
-    },
-    {
-      "uuid": "f09b3a2a-090f-4183-a6e6-eea65068c587",
-      "question": "Przy zmianie kierunku jazdy pociągu pasażerskiego na przystanku osobowym wymagane jest:",
-      "answers": {
-        "A": "Wystawienie rozkazu pisemnego",
-        "B": "Sprawdzenie składu przez kierownika",
-        "C": "Odłączenie lokomotywy",
-        "D": "Nic szczególnego – jest to dozwolone"
-      },
-      "correct": "D",
-      "explanation": "Ir-1 § 3 ust. 14",
-      "section_ref": "§ 3"
-    },
-    {
-      "uuid": "6abb09f4-8aca-4c92-9a2b-513cbc1f02fa",
-      "question": "Czy można wyprawić pociąg bez sygnału zezwalającego na semaforze, jeśli blokada stacyjna działa prawidłowo?",
-      "answers": {
-        "A": "Tak, na rozkaz pisemny",
-        "B": "Nie, jest to zabronione",
-        "C": "Tak, ale tylko pociąg towarowy",
-        "D": "Tak, ale wyłącznie przy ERTMS"
-      },
-      "correct": "A",
-      "explanation": "Ir-1 § 41 ust. 7",
-      "section_ref": "§ 41"
     },
     {
       "uuid": "8bd5e70d-4680-48d7-83e0-e0d7324610b1",
@@ -1703,19 +1599,6 @@
       "correct": "A",
       "explanation": "Ir-1 § 13 ust. 2",
       "section_ref": "§ 13"
-    },
-    {
-      "uuid": "217399d0-acbe-4af3-b1a1-698de4dfa8b8",
-      "question": "Prędkość jazdy manewrowej za pociągiem przy pochyleniu > 10 ‰ powinna być:",
-      "answers": {
-        "A": "Jeszcze bardziej ograniczona według poleceń dyżurnego",
-        "B": "Zwiększona o 10 km/h",
-        "C": "Bez zmian – 20 km/h",
-        "D": "Ustalona przez maszynistę"
-      },
-      "correct": "A",
-      "explanation": "Ir-1 § 12 ust. 6",
-      "section_ref": "§ 12"
     },
     {
       "uuid": "87fbba67-476c-4bda-9863-eaa9cd91940b",
@@ -1848,19 +1731,6 @@
       "section_ref": "§ 32"
     },
     {
-      "uuid": "4f2f33fa-dd52-4ec7-8e11-17645479901f",
-      "question": "Kto może nadać sygnał 'Alarm' w radiołączności?",
-      "answers": {
-        "A": "Każdy pracownik w sytuacji zagrożenia",
-        "B": "Tylko dyżurny ruchu",
-        "C": "Wyłącznie maszynista",
-        "D": "Służby ratunkowe"
-      },
-      "correct": "A",
-      "explanation": "Ir-1 § 64 ust. 11",
-      "section_ref": "§ 64"
-    },
-    {
       "uuid": "91fc5dd2-4371-452f-ac2f-d142f9c10e4d",
       "question": "Czym jest 'blokada półsamoczynna'?",
       "answers": {
@@ -1913,19 +1783,6 @@
       "section_ref": "§ 28"
     },
     {
-      "uuid": "8e0c3a98-9ce5-4695-abb4-8803021fd1d4",
-      "question": "Na jakim dokumencie maszynista potwierdza przyjęcie rozkazu pisemnego?",
-      "answers": {
-        "A": "Na odwrocie rozkazu",
-        "B": "W dzienniku pojazdu",
-        "C": "Na bilecie",
-        "D": "Nigdzie – potwierdzenie ustne"
-      },
-      "correct": "A",
-      "explanation": "Ir-5 (procedura)",
-      "section_ref": null
-    },
-    {
       "uuid": "b3f93dba-befd-4c5e-8e15-bc258653702f",
       "question": "Jak nazywa się część infrastruktury kolejowej między dwiema stacjami węzłowymi?",
       "answers": {
@@ -1950,32 +1807,6 @@
       "correct": "A",
       "explanation": "Ir-1 § 14 ust. 3 pkt 4",
       "section_ref": "§ 14"
-    },
-    {
-      "uuid": "dd950569-8125-42da-9ed3-6e60774e9166",
-      "question": "Pociąg po torze przeciwnym do zasadniczego na linii dwutorowej wyprawia się:",
-      "answers": {
-        "A": "Na telefoniczne pozwolenie i sygnał zezwalający",
-        "B": "Tylko na rozkaz pisemny",
-        "C": "Bez żadnego pozwolenia",
-        "D": "Wyłącznie w nocy"
-      },
-      "correct": "A",
-      "explanation": "Ir-1 § 28 ust. 22",
-      "section_ref": "§ 28"
-    },
-    {
-      "uuid": "5ecd52bd-dfa7-45d2-9294-a693369442ee",
-      "question": "Który wskaźnik oznacza miejsce zatrzymania czoła pociągu na peronie?",
-      "answers": {
-        "A": "W4",
-        "B": "W17",
-        "C": "W8",
-        "D": "W2"
-      },
-      "correct": "A",
-      "explanation": "(wskaźnik W4 - brak źródła)",
-      "section_ref": null
     },
     {
       "uuid": "cba90af4-ecaf-4f7b-8139-158ef75e9216",
@@ -2106,19 +1937,6 @@
       "correct": "A",
       "explanation": "Ir-1 § 3 ust. 9 pkt 1",
       "section_ref": "§ 3"
-    },
-    {
-      "uuid": "f237b351-dc27-470c-a830-908856d287d4",
-      "question": "Kto może nadać sygnał „Alarm” w łączności radiowej?",
-      "answers": {
-        "A": "Każdy pracownik w sytuacji zagrożenia",
-        "B": "Wyłącznie dyżurny ruchu",
-        "C": "Wyłącznie maszynista",
-        "D": "Tylko służby ratunkowe"
-      },
-      "correct": "A",
-      "explanation": "Ir-1 § 64 ust. 11",
-      "section_ref": "§ 64"
     },
     {
       "uuid": "204d2568-d3bf-484d-b34d-57a8845ecc36",

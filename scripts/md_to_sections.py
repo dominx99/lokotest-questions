@@ -1,16 +1,16 @@
 """Split instruction Markdown into sections by § (paragraph) markers.
 
 Expected input:  instructions/{name}/{name}.md
-Expected output: instructions/{name}/{name}-sections.json
+Expected output: instructions/{name}/sections/*.md
 
-Each section has: id, title, chapter, text.
+Each section file has YAML frontmatter (id, title, chapter) and text below.
 Text before the first § is skipped (title page, table of contents).
-Text after the last § is stored as section id="_attachments".
+Text after the last § is stored as _attachments.md.
 """
 
 import argparse
-import json
 import re
+import shutil
 import sys
 from pathlib import Path
 
@@ -76,10 +76,7 @@ def parse_sections(md_text: str) -> list[dict]:
         })
 
     # Check for attachments after last section
-    last_end = section_starts[-1][0]
-    # Find end of last section's text — look for attachment markers
     last_section_text = sections[-1]["text"]
-    # Split off attachment content if present
     attachment_marker = re.search(
         r"^#{1,4}\s+\*\*Załączniki\*\*",
         last_section_text,
@@ -98,6 +95,34 @@ def parse_sections(md_text: str) -> list[dict]:
     return sections
 
 
+def section_filename(section_id: str) -> str:
+    """Convert section id to filename, e.g. '§ 12' -> '§12.md', '_attachments' -> '_attachments.md'."""
+    if section_id.startswith("§"):
+        # Remove space: "§ 12" -> "§12"
+        return section_id.replace(" ", "") + ".md"
+    return section_id + ".md"
+
+
+def write_section_file(output_dir: Path, section: dict) -> None:
+    """Write a single section as a markdown file with YAML frontmatter."""
+    filename = section_filename(section["id"])
+    filepath = output_dir / filename
+
+    # Build frontmatter
+    lines = [
+        "---",
+        f'id: "{section["id"]}"',
+        f'title: "{section["title"]}"',
+        f'chapter: "{section["chapter"]}"',
+        "---",
+        "",
+        section["text"],
+        "",
+    ]
+
+    filepath.write_text("\n".join(lines), encoding="utf-8")
+
+
 def process_instruction(instruction_dir: Path) -> None:
     """Process a single instruction directory."""
     name = instruction_dir.name
@@ -107,21 +132,20 @@ def process_instruction(instruction_dir: Path) -> None:
         print(f"  Skipping {name}: no {name}.md found", file=sys.stderr)
         return
 
-    print(f"  {name}/{name}.md -> {name}-sections.json")
+    print(f"  {name}/{name}.md -> sections/")
     md_text = md_path.read_text(encoding="utf-8")
     sections = parse_sections(md_text)
 
-    output = {
-        "instruction": name,
-        "sections": sections,
-    }
+    # Create sections directory (clean if exists)
+    output_dir = instruction_dir / "sections"
+    if output_dir.exists():
+        shutil.rmtree(output_dir)
+    output_dir.mkdir()
 
-    output_path = instruction_dir / f"{name}-sections.json"
-    output_path.write_text(
-        json.dumps(output, ensure_ascii=False, indent=2) + "\n",
-        encoding="utf-8",
-    )
-    print(f"    {len(sections)} sections")
+    for section in sections:
+        write_section_file(output_dir, section)
+
+    print(f"    {len(sections)} sections -> {output_dir}/")
 
 
 def main() -> None:
