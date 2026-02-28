@@ -2,10 +2,10 @@
   "instruction": "Ir-1",
   "timestamp": "2026-02-28T13:41:14.558948",
   "summary": {
-    "total": 148,
+    "total": 144,
     "ok": 102,
-    "fix": 41,
-    "delete": 5
+    "fix": 38,
+    "delete": 4
   },
   "results": [
     {
@@ -27,16 +27,6 @@
       "uuid": "b3f93dba-befd-4c5e-8e15-bc258653702f",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "d9c9ecc2-b674-447f-911b-df2d854a15e6",
-      "status": "FIX",
-      "problems": [
-        "Explanation ma niedozwolony format z podwójną referencją 'Ir-1 § 2 ust. 6 / Ir-1 § 28 ust. 1' — dozwolona jest tylko pojedyncza referencja"
-      ],
-      "changes": {
-        "explanation": "Ir-1 § 2 ust. 6"
-      }
     },
     {
       "uuid": "296b6af4-8046-4f25-9ad6-997c0bdec3bc",
@@ -138,16 +128,6 @@
       "uuid": "1b012b65-3764-466f-a19b-76152679a4a6",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "ddf80771-5b35-4702-8446-88eb75dc6a0d",
-      "status": "FIX",
-      "problems": [
-        "Explanation zawiera niedozwolony tekst opisowy w nawiasach: '(tor wyciągowy jest torem specjalnego przeznaczenia; definicja funkcji toru wyciągowego wynika z ogólnej terminologii kolejowej)' — dozwolona jest wyłącznie czysta referencja."
-      ],
-      "changes": {
-        "explanation": "Ir-1 § 5 ust. 3"
-      }
     },
     {
       "uuid": "ea30ca3d-0814-4fc6-8cea-0a9a4b1cfbb5",
@@ -290,18 +270,6 @@
       "status": "OK",
       "problems": [],
       "changes": {}
-    },
-    {
-      "uuid": "044b2793-4a7a-40c4-aa34-f8e0e1917c23",
-      "status": "FIX",
-      "problems": [
-        "Literówka w odpowiedzi B: 'dyzurnego' powinno być 'dyżurnego'."
-      ],
-      "changes": {
-        "answers": {
-          "B": "Rozkazu pisemnego od dyżurnego ruchu"
-        }
-      }
     },
     {
       "uuid": "b222dbe1-7e38-440a-abca-bf9b34e76e85",
@@ -478,14 +446,6 @@
       "uuid": "6cdea651-6982-4ce4-88ef-e004d408fe69",
       "status": "OK",
       "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "1f6062c3-1def-4c3f-b21c-bbf1a3c811ff",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania 6cdea651-6982-4ce4-88ef-e004d408fe69 — identyczne pytanie, odpowiedzi, poprawna odpowiedź i explanation."
-      ],
       "changes": {}
     },
     {

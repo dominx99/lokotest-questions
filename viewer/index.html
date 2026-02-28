@@ -134,6 +134,23 @@
 
   .filters button:hover { border-color: var(--text-muted); }
 
+  .filters input[type="text"] {
+    padding: 4px 12px;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text);
+    font-size: 0.85rem;
+    font-family: monospace;
+    width: 280px;
+    margin-left: auto;
+    outline: none;
+    transition: border-color 0.15s;
+  }
+
+  .filters input[type="text"]:focus { border-color: var(--blue); }
+  .filters input[type="text"]::placeholder { color: var(--text-muted); }
+
   .card {
     background: var(--surface);
     border: 1px solid var(--border);
@@ -353,6 +370,12 @@
   .diff-side.old .diff-label { color: var(--red); }
   .diff-side.new .diff-label { color: var(--green); }
 
+  .diff-side.neutral {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+  }
+
   .diff-field {
     font-size: 0.75rem;
     color: var(--text-muted);
@@ -397,6 +420,7 @@
   <button data-filter="fix">FIX</button>
   <button data-filter="delete">DELETE</button>
   <button data-filter="ok">OK</button>
+  <input type="text" id="search-uuid" placeholder="Szukaj po UUID..." oninput="onSearchChange()">
 </div>
 
 <div id="cards"></div>
@@ -415,6 +439,7 @@ if (!name) {
 let verificationData = null;
 let questionsMap = {};
 let activeFilter = 'all';
+let searchUuid = '';
 
 async function loadData() {
   const base = `../instructions/${name}`;
@@ -466,8 +491,9 @@ function renderCards() {
   container.innerHTML = '';
 
   const filtered = verificationData.results.filter(r => {
-    if (activeFilter === 'all') return true;
-    return r.status.toLowerCase() === activeFilter;
+    if (activeFilter !== 'all' && r.status.toLowerCase() !== activeFilter) return false;
+    if (searchUuid && !r.uuid.includes(searchUuid)) return false;
+    return true;
   });
 
   if (filtered.length === 0) {
@@ -548,10 +574,14 @@ function renderChanges(changes, originalQuestion) {
   }
 
   if (changes.answers) {
-    Object.entries(changes.answers).forEach(([letter, newText]) => {
+    const allLetters = Object.keys(originalQuestion.answers);
+    allLetters.forEach(letter => {
       const oldText = originalQuestion.answers[letter] || '(brak)';
-      if (oldText !== newText) {
+      const newText = changes.answers[letter];
+      if (newText && oldText !== newText) {
         html += diffBlock(`Odpowiedz ${letter}`, oldText, newText);
+      } else {
+        html += neutralBlock(`Odpowiedz ${letter}`, oldText);
       }
     });
   }
@@ -590,6 +620,17 @@ function diffBlock(label, oldVal, newVal) {
       <div class="diff-side new">
         <div class="diff-label">Po</div>
         ${escHtml(newVal)}
+      </div>
+    </div>
+  `;
+}
+
+function neutralBlock(label, val) {
+  return `
+    <div class="diff-field">${escHtml(label)}</div>
+    <div class="diff-block">
+      <div class="diff-side neutral" style="grid-column: 1 / -1;">
+        ${escHtml(val)}
       </div>
     </div>
   `;
@@ -704,6 +745,11 @@ function recalcSummaryLocal() {
     fix: results.filter(r => r.status === 'FIX').length,
     delete: results.filter(r => r.status === 'DELETE').length,
   };
+}
+
+function onSearchChange() {
+  searchUuid = document.getElementById('search-uuid').value.trim().toLowerCase();
+  renderCards();
 }
 
 function toggleCard(headerEl) {

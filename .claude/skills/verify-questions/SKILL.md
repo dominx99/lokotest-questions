@@ -3,22 +3,32 @@ name: verify-questions
 description: Weryfikacja pytań quizowych względem paragrafów instrukcji
 disable-model-invocation: true
 user-invocable: true
-argument-hint: [nazwa-instrukcji]
+argument-hint: [nazwa-instrukcji] [numer-paragrafu]
 ---
 
 # Weryfikacja pytań quizowych
 
-Weryfikuj pytania z pliku `instructions/$ARGUMENTS/$ARGUMENTS-pytania.json` względem paragrafów instrukcji w `instructions/$ARGUMENTS/sections/`.
+Weryfikuj pytania z pliku `instructions/{instruction}/{instruction}-pytania.json` względem paragrafów instrukcji w `instructions/{instruction}/sections/`.
+
+## Parsowanie argumentów
+
+Rozparsuj `$ARGUMENTS` na:
+- **instruction** — pierwszy argument (wymagany), np. `Ir-1`
+- **section_filter** — drugi argument (opcjonalny), sam numer paragrafu, np. `5` lub `12`
+
+Jeśli podano `section_filter`, zamień na format `§ {numer}` (np. `5` → `§ 5`) i weryfikuj **tylko** pytania z pasującym `section_ref`. W przeciwnym razie weryfikuj wszystkie.
 
 ## Procedura
 
 ### 1. Wczytaj pytania
 
-Wczytaj `instructions/$ARGUMENTS/$ARGUMENTS-pytania.json`. Zapamiętaj liczbę pytań.
+Wczytaj `instructions/{instruction}/{instruction}-pytania.json`. Zapamiętaj liczbę pytań.
+
+Jeśli podano `section_filter`, odfiltruj pytania do tych z pasującym `section_ref` (porównuj ignorując spacje, np. `§12` pasuje do `§ 12`). Wypisz ile pytań zostało po filtrze.
 
 ### 2. Pogrupuj pytania — 1 sekcja, max 8 pytań per agent
 
-Pogrupuj pytania po wartości `section_ref`. Pytania bez `section_ref` (null) umieść w osobnej grupie "brak_ref".
+Pogrupuj pytania po wartości `section_ref`. **Pytania bez `section_ref` (null/pusty) pomiń** — wypisz ich liczbę i UUID jako ostrzeżenie, ale nie weryfikuj ich.
 
 Następnie podziel grupy tak, aby **każdy agent** miał:
 - **Dokładnie 1 sekcję** do przeczytania (nie łącz sekcji w jednym agencie)
@@ -29,7 +39,7 @@ Wynik: lista "zadań agenckich", każde z jednym `section_ref` i listą max 8 py
 ### 3. Utwórz katalog na wyniki
 
 ```bash
-mkdir -p /tmp/verify-$ARGUMENTS
+mkdir -p /tmp/verify-{instruction}
 ```
 
 ### 4. Odpal agentów równolegle (batche po max 7)
@@ -52,13 +62,13 @@ Każdy agent dostaje prompt zawierający:
 Prompt template (użyj f-stringa lub podstawienia):
 
 ```
-Jesteś weryfikatorem pytań quizowych z instrukcji kolejowej $ARGUMENTS (PKP).
+Jesteś weryfikatorem pytań quizowych z instrukcji kolejowej {instruction} (PKP).
 
 ## Zadanie
 
-1. Przeczytaj plik sekcji: instructions/$ARGUMENTS/sections/{section_ref}.md
+1. Przeczytaj plik sekcji: instructions/{instruction}/sections/{section_ref}.md
 2. Zweryfikuj poniższe pytania
-3. Zapisz wyniki do pliku: /tmp/verify-$ARGUMENTS/{agent_id}.json
+3. Zapisz wyniki do pliku: /tmp/verify-{instruction}/{agent_id}.json
 
 ## Pytania do weryfikacji
 
@@ -71,8 +81,8 @@ Jesteś weryfikatorem pytań quizowych z instrukcji kolejowej $ARGUMENTS (PKP).
 3. Czy **błędne odpowiedzi** (dystraktory) są wiarygodne ale faktycznie niepoprawne?
 4. Czy `explanation` wskazuje właściwy paragraf, ustęp i podpunkt (jeśli jest w danym ustępie)?
 5. Czy `explanation` ma poprawny format źródła? Dozwolony format to **wyłącznie** referencja do paragrafu, np.:
-   - `$ARGUMENTS § 63 ust. 6 pkt 2` (nazwa instrukcji + paragraf + opcjonalnie ustęp, punkt, litera)
-   - `$ARGUMENTS § 63 ust. 6 pkt 2 tabela poz. 42` (z opcjonalnym odwołaniem do tabeli)
+   - `{instruction} § 63 ust. 6 pkt 2` (nazwa instrukcji + paragraf + opcjonalnie ustęp, punkt, litera)
+   - `{instruction} § 63 ust. 6 pkt 2 tabela poz. 42` (z opcjonalnym odwołaniem do tabeli)
    - Niedozwolone: dodatkowy tekst opisowy, komentarze w nawiasach, "w zw. z", "w powiązaniu z", myślniki z wyjaśnieniami, "par." zamiast "§", itp.
    - Jeśli explanation zawiera cokolwiek poza czystą referencją — oznacz jako FIX i podaj poprawioną wersję zawierającą tylko referencję
    - Jeśli explanation jest puste lub brak go — znajdź właściwy paragraf/ustęp w treści sekcji i dodaj referencję
@@ -80,7 +90,7 @@ Jesteś weryfikatorem pytań quizowych z instrukcji kolejowej $ARGUMENTS (PKP).
 
 ## Format wyników — ZAPISZ DO PLIKU
 
-Po weryfikacji, użyj narzędzia Write aby zapisać wyniki jako JSON do pliku /tmp/verify-$ARGUMENTS/{agent_id}.json:
+Po weryfikacji, użyj narzędzia Write aby zapisać wyniki jako JSON do pliku /tmp/verify-{instruction}/{agent_id}.json:
 
 [
   {
@@ -113,10 +123,10 @@ Gdzie `{agent_id}` to unikalny identyfikator, np. `{section_ref}_part{N}` (np. `
 
 ### 5. Zbierz i zwaliduj wyniki z plików
 
-Po zakończeniu wszystkich agentów, wczytaj wszystkie pliki JSON z `/tmp/verify-$ARGUMENTS/`:
+Po zakończeniu wszystkich agentów, wczytaj wszystkie pliki JSON z `/tmp/verify-{instruction}/`:
 
 ```bash
-ls /tmp/verify-$ARGUMENTS/*.json
+ls /tmp/verify-{instruction}/*.json
 ```
 
 Przeczytaj każdy plik, połącz wszystkie wyniki w jedną listę.
@@ -141,7 +151,7 @@ Sparsuj wyniki i utwórz raport JSON:
 
 ```json
 {
-  "instruction": "$ARGUMENTS",
+  "instruction": "{instruction}",
   "timestamp": "2026-02-28T...",
   "summary": {
     "total": 155,
@@ -167,11 +177,11 @@ Sparsuj wyniki i utwórz raport JSON:
 
 ### 7. Zapisz raport
 
-Zapisz raport do `instructions/$ARGUMENTS/$ARGUMENTS-verification.json`.
+Zapisz raport do `instructions/{instruction}/{instruction}-verification.json`.
 
 Wypisz podsumowanie:
 ```
-Weryfikacja $ARGUMENTS: X pytań OK, Y do poprawy, Z do usunięcia
+Weryfikacja {instruction}: X pytań OK, Y do poprawy, Z do usunięcia
 ```
 
 ### 8. Zapytaj użytkownika
@@ -184,7 +194,7 @@ Użyj AskUserQuestion aby zapytać:
 
 ### 9. Zastosuj poprawki (jeśli użytkownik potwierdzi)
 
-Wczytaj `instructions/$ARGUMENTS/$ARGUMENTS-pytania.json`. Dla każdego wyniku:
+Wczytaj `instructions/{instruction}/{instruction}-pytania.json`. Dla każdego wyniku:
 - **FIX**: zastosuj zmiany z `changes` na odpowiednim pytaniu (dopasowanie po `uuid`)
 - **DELETE**: usuń pytanie z listy
 

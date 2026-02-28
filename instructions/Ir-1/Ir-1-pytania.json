@@ -1718,19 +1718,6 @@
       "section_ref": "§ 8"
     },
     {
-      "uuid": "cfb94108-7b70-4e5c-9c34-4d0ea9079c95",
-      "question": "Jakiej prędkości nie wolno przekraczać przy popychaniu pociągu przez zwrotnice mechaniczne?",
-      "answers": {
-        "A": "40 km/h",
-        "B": "50 km/h",
-        "C": "60 km/h",
-        "D": "80 km/h"
-      },
-      "correct": "B",
-      "explanation": "(brak źródła)",
-      "section_ref": null
-    },
-    {
       "uuid": "2c3e6503-e732-475e-8dc1-97ddd73484f2",
       "question": "Wskaźnik między szlakiem a posterunkiem zapowiadawczym na linii dwutorowej to:",
       "answers": {
@@ -1950,19 +1937,6 @@
       "correct": "A",
       "explanation": "Ir-1 § 3 ust. 13",
       "section_ref": "§ 3"
-    },
-    {
-      "uuid": "2973daa0-49b7-492a-a974-2cf1cfe3de0e",
-      "question": "Który wskaźnik informuje o granicy przetaczania?",
-      "answers": {
-        "A": "W 5",
-        "B": "W 4",
-        "C": "W 6",
-        "D": "W 27"
-      },
-      "correct": "A",
-      "explanation": "(wskaźnik W5 - brak źródła)",
-      "section_ref": null
     },
     {
       "uuid": "f09b3a2a-090f-4183-a6e6-eea65068c587",
@@ -2407,19 +2381,6 @@
       "section_ref": "§ 28"
     },
     {
-      "uuid": "8e0c3a98-9ce5-4695-abb4-8803021fd1d4",
-      "question": "Na jakim dokumencie maszynista potwierdza przyjęcie rozkazu pisemnego?",
-      "answers": {
-        "A": "Na odwrocie rozkazu",
-        "B": "W dzienniku pojazdu",
-        "C": "Na bilecie",
-        "D": "Nigdzie – potwierdzenie ustne"
-      },
-      "correct": "A",
-      "explanation": "Ir-5 (procedura)",
-      "section_ref": null
-    },
-    {
       "uuid": "b3f93dba-befd-4c5e-8e15-bc258653702f",
       "question": "Jak nazywa się część infrastruktury kolejowej między dwiema stacjami węzłowymi?",
       "answers": {
@@ -2472,19 +2433,6 @@
       "section_ref": "§ 28"
     },
     {
-      "uuid": "5ecd52bd-dfa7-45d2-9294-a693369442ee",
-      "question": "Który wskaźnik oznacza miejsce zatrzymania czoła pociągu na peronie?",
-      "answers": {
-        "A": "W4",
-        "B": "W17",
-        "C": "W8",
-        "D": "W2"
-      },
-      "correct": "A",
-      "explanation": "(wskaźnik W4 - brak źródła)",
-      "section_ref": null
-    },
-    {
       "uuid": "cba90af4-ecaf-4f7b-8139-158ef75e9216",
       "question": "Co stanowi granicę między torami stacyjnymi a szlakiem na linii dwutorowej?",
       "answers": {
@@ -2507,7 +2455,7 @@
         "D": "Miejsce postoju wagonów odstawionych"
       },
       "correct": "A",
-      "explanation": "Ir-1 § 2 ust. 2 / Ir-1 § 28 ust. 1",
+      "explanation": "Ir-1 § 2 ust. 6",
       "section_ref": "§ 2"
     },
     {
@@ -2704,19 +2652,6 @@
       "correct": "A",
       "explanation": "Ir-1 § 10 ust. 2",
       "section_ref": "§ 10"
-    },
-    {
-      "uuid": "1f6062c3-1def-4c3f-b21c-bbf1a3c811ff",
-      "question": "Kto ustala obsadę pociągu pasażerskiego (liczbę i rodzaj personelu) w zależności od rodzaju i długości składu?",
-      "answers": {
-        "A": "Przewoźnik kolejowy",
-        "B": "PKP PLK",
-        "C": "Dyżurny ruchu",
-        "D": "Minister Transportu"
-      },
-      "correct": "A",
-      "explanation": "Ir-1 § 15 ust. 1-2",
-      "section_ref": "§ 15"
     },
     {
       "uuid": "96a83e72-dcc3-441d-aede-e6cbb7b9f8e1",
