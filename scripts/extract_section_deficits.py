@@ -63,6 +63,17 @@ def main() -> None:
         type=str,
         help="Filter by section number (e.g. 2, 12, 31a)",
     )
+    parser.add_argument(
+        "--format",
+        choices=["json", "table"],
+        default="json",
+        help="Output format (default: json)",
+    )
+    parser.add_argument(
+        "--all",
+        action="store_true",
+        help="Show all sections, not just those with deficit",
+    )
     args = parser.parse_args()
 
     base = INSTRUCTIONS_DIR / args.name
@@ -108,7 +119,7 @@ def main() -> None:
         existing = counts.get(normalized_id, 0)
         deficit = required - existing
 
-        if deficit <= 0:
+        if deficit <= 0 and not args.all:
             continue
 
         results.append({
@@ -118,8 +129,8 @@ def main() -> None:
             "content_lines": content_lines,
             "required": required,
             "existing": existing,
-            "deficit": deficit,
-            "to_add": min(deficit, 10),
+            "deficit": max(deficit, 0),
+            "to_add": max(min(deficit, 10), 0),
         })
 
     # Summary to stderr
@@ -129,20 +140,34 @@ def main() -> None:
         file=sys.stderr,
     )
 
-    # Existing questions grouped by section for agent context
-    existing_by_section: dict[str, list] = {}
-    for q in q_data["questions"]:
-        ref = q.get("section_ref") or ""
-        normalized = re.sub(r"\s+", "", ref)
-        if normalized:
-            existing_by_section.setdefault(normalized, []).append(q)
+    if args.format == "table":
+        # Print human-readable table
+        header = f"{'Sekcja':<10} {'Tytuł':<40} {'Linii':>6} {'Wym.':>5} {'Jest':>5} {'Brak':>5}"
+        print(header)
+        print("-" * len(header))
+        for r in results:
+            title = r["title"][:40] if r["title"] else ""
+            print(
+                f"{r['section_ref']:<10} {title:<40} {r['content_lines']:>6} "
+                f"{r['required']:>5} {r['existing']:>5} {r['deficit']:>5}"
+            )
+        print("-" * len(header))
+        print(f"{'Razem':<10} {'':<40} {'':>6} {'':>5} {'':>5} {total_to_add:>5}")
+    else:
+        # Existing questions grouped by section for agent context
+        existing_by_section: dict[str, list] = {}
+        for q in q_data["questions"]:
+            ref = q.get("section_ref") or ""
+            normalized = re.sub(r"\s+", "", ref)
+            if normalized:
+                existing_by_section.setdefault(normalized, []).append(q)
 
-    # Attach existing questions to each result
-    for r in results:
-        normalized = re.sub(r"\s+", "", r["section_ref"])
-        r["existing_questions"] = existing_by_section.get(normalized, [])
+        # Attach existing questions to each result
+        for r in results:
+            normalized = re.sub(r"\s+", "", r["section_ref"])
+            r["existing_questions"] = existing_by_section.get(normalized, [])
 
-    print(json.dumps(results, ensure_ascii=False, indent=2))
+        print(json.dumps(results, ensure_ascii=False, indent=2))
 
 
 if __name__ == "__main__":

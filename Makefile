@@ -1,4 +1,4 @@
-.PHONY: pdfs-to-markdowns pdf-to-markdown clean-markdowns sections section xlsx-to-json toc view apply-verification
+.PHONY: pdfs-to-markdowns pdf-to-markdown clean-markdowns sections section xlsx-to-json toc view apply-verification deficits
 
 INSTRUCTIONS_DIR := instructions
 
@@ -51,6 +51,11 @@ view:
 	@fuser -k 8080/tcp 2>/dev/null || true
 	@xdg-open "http://localhost:8080/viewer/?name=$(ONLY)" 2>/dev/null || open "http://localhost:8080/viewer/?name=$(ONLY)" 2>/dev/null || true
 	uv run python scripts/serve_viewer.py 8080
+
+# Show question deficits per section
+# Usage: make deficits ONLY=Ir-1
+deficits:
+	uv run python scripts/extract_section_deficits.py $(ONLY) --format table --all
 
 # Apply all verification fixes from CLI
 # Usage: make apply-verification              (defaults to Ir-1)

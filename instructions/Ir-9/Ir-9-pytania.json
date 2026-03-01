@@ -297,7 +297,7 @@
         "D": "15 km/h"
       },
       "correct": "C",
-      "explanation": "Ir-9 § 10 ust. 27 pkt 6 lit. d)",
+      "explanation": "Ir-9 § 10 ust. 27 pkt 6d",
       "section_ref": "§ 10"
     },
     {
@@ -306,7 +306,7 @@
       "answers": {
         "A": "Sprawdza stan techniczny wagonów w trakcie manewrów",
         "B": "Podaje maszynistom sygnały wzrokowe i świetlne",
-        "C": "Wydaje polecenia drużynie i odpowiada za bezpieczeństwo manewrów",
+        "C": "Ponosi pełną odpowiedzialność za właściwe wykonanie manewrów w granicach własnego rejonu manewrowego",
         "D": "Ustawia i rygluje zwrotnice zgodnie z planem pracy"
       },
       "correct": "C",
@@ -323,7 +323,7 @@
         "D": "Ustawia i rygluje zwrotnice zgodnie z planem pracy"
       },
       "correct": "B",
-      "explanation": "Ir-9 § 10 ust. 1",
+      "explanation": "Ir-9 § 10 ust. 20",
       "section_ref": "§ 10"
     },
     {
@@ -692,7 +692,7 @@
     },
     {
       "uuid": "70768657-8eba-471a-8124-019b93e6cceb",
-      "question": "Kiedy dopuszcza się staczanie pojazdów z górki rozrządowej?",
+      "question": "Kiedy dopuszcza się odrzucanie wagonów z pojazdów trakcyjnych?",
       "answers": {
         "A": "Gdy wszystkie zwrotnice są obsługiwane przez wyznaczonych pracowników, odstępy między odprzęgami umożliwiają bezpieczne nastawianie zwrotnic, a ruch odprzęgów jest regulowany",
         "B": "Zawsze, gdy tor jest wolny",
@@ -705,12 +705,12 @@
     },
     {
       "uuid": "8bf8977d-4ae2-4a35-8354-5f5e01d9c272",
-      "question": "Która z czynności jest zabroniona podczas odrzucania wagonów?",
+      "question": "Która z poniższych czynności jest warunkiem koniecznym do prowadzenia odrzucania wagonów?",
       "answers": {
-        "A": "Kierowanie odprzęgu na tor bez zapewnionego hamowania",
-        "B": "Użycie łączności do uzgodnień",
-        "C": "Wystawienie osoby do obserwacji toru",
-        "D": "Sprawdzenie położenia rozjazdów przed rozpoczęciem"
+        "A": "Regulowanie ruchu odprzęgów tak, aby dojechały do pojazdów stojących na torze z prędkością niepowodującą szkody albo zostały zatrzymane w wyznaczonym miejscu",
+        "B": "Użycie łączności do uzgodnień z maszynistą pociągu liniowego",
+        "C": "Wystawienie osoby do obserwacji toru na całej długości",
+        "D": "Sprawdzenie masy odprzęgu przed każdym odrzucaniem"
       },
       "correct": "A",
       "explanation": "Ir-9 § 11 ust. 3 pkt 3",
@@ -718,7 +718,7 @@
     },
     {
       "uuid": "3612b123-aba9-4490-a06a-7772f69e203e",
-      "question": "Kto decyduje o zastosowaniu dodatkowych środków hamowania przy manewrach (np. użycie hamulców ręcznych w wybranych wagonach)?",
+      "question": "Kto wyznacza manewrowych do obsługi hamulców ręcznych i hamowania odprzęgów przy odrzucaniu?",
       "answers": {
         "A": "Kierownik manewrów, wyznaczając manewrowych do obsługi hamulców ręcznych i hamowania odprzęgów",
         "B": "Maszynista samodzielnie i zawsze",
@@ -921,12 +921,12 @@
         "D": "Oprzeć nogi o sprzęg"
       },
       "correct": "A",
-      "explanation": "Ir-9 § 25 ust. 1 i ust. 2 pkt 1",
+      "explanation": "Ir-9 § 25 ust. 1",
       "section_ref": "§ 25"
     },
     {
       "uuid": "1a077929-f553-46cb-94a2-d25918db4873",
-      "question": "Kto odpowiada za właściwe położenie rozjazdów na drodze manewrowej przed rozpoczęciem ruchu?",
+      "question": "Kto odpowiada za prawidłowe nastawienie zwrotnic i wykolejnic podczas manewrów?",
       "answers": {
         "A": "Pracownik obsługujący zwrotnice i wykolejnice",
         "B": "Maszynista bez uzgodnień",
@@ -949,6 +949,32 @@
       "correct": "A",
       "explanation": "Ir-9 § 10 ust. 19",
       "section_ref": "§ 10"
+    },
+    {
+      "uuid": "44aa7e72-367a-4c48-8738-60ec7f8d7430",
+      "question": "Ile wagonów może maksymalnie liczyć grupa odrzucanych wagonów bez obsadzenia hamulców?",
+      "answers": {
+        "A": "Trzech wagonów",
+        "B": "Pięciu wagonów",
+        "C": "Dwóch wagonów",
+        "D": "Liczba wagonów jest nieograniczona"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 11 ust. 12",
+      "section_ref": "§ 11"
+    },
+    {
+      "uuid": "f7f9bd26-0f2c-47bc-870e-ce633d212730",
+      "question": "Co powinien sprawdzić kierownik manewrów przed rozpoczęciem rozrządzania na górce rozrządowej?",
+      "answers": {
+        "A": "Czy skład został przygotowany do rozrządzania, prawidłowość karty rozrządowej, czy pracownicy otrzymali karty rozrządowe, czy pracownicy do hamowania są na miejscu, zapełnienie torów oraz czy pojazdy nie zajmują ukresów torów kierunkowych",
+        "B": "Wyłącznie stan techniczny hamulców torowych i wagony nieodprzęgnięte",
+        "C": "Masę każdego odprzęgu i liczbę wagonów w składzie",
+        "D": "Tylko prawidłowość sporządzenia karty rozrządowej i zapełnienie torów kierunkowych"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 11 ust. 4",
+      "section_ref": "§ 11"
     }
   ]
 }
