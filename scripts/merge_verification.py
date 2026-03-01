@@ -139,7 +139,8 @@ def merge_normal(name: str, results: list[dict]) -> None:
     save_json(v_path, v_data)
 
     s = v_data["summary"]
-    print(f"Weryfikacja {name}: {s['ok']} pytań OK, {s['fix']} do poprawy, {s['delete']} do usunięcia")
+    rescued_info = f", {s['rescued']} rescued" if s.get('rescued', 0) > 0 else ""
+    print(f"Weryfikacja {name}: {s['ok']} pytań OK, {s['fix']} do poprawy, {s['delete']} do usunięcia{rescued_info}")
 
 
 def merge_rescued(name: str, new_results: list[dict]) -> None:
@@ -172,7 +173,8 @@ def merge_rescued(name: str, new_results: list[dict]) -> None:
     save_json(v_path, v_data)
 
     s = v_data["summary"]
-    print(f"Weryfikacja RESCUED {name}: {replaced} zastąpionych — {s['ok']} OK, {s['fix']} FIX, {s['delete']} DELETE")
+    rescued_info = f", {s['rescued']} RESCUED" if s.get('rescued', 0) > 0 else ""
+    print(f"Weryfikacja RESCUED {name}: {replaced} zastąpionych — {s['ok']} OK, {s['fix']} FIX, {s['delete']} DELETE{rescued_info}")
 
 
 def main() -> None:

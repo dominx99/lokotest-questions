@@ -94,15 +94,15 @@
     },
     {
       "uuid": "c0f28a2a-5bb8-4804-b02d-d97c55d1717a",
-      "question": "Jak instrukcja Ir‑9 definiuje pojęcie „płoza hamulcowa hamulcowy”?",
+      "question": "Jaką funkcję pełnią płozy hamulcowe podczas manewrów według Ir‑9?",
       "answers": {
         "A": "ustalony porządek i harmonogram wykonywania manewrów w danym rejonie",
         "B": "mechaniczny hamulec unieruchamiający pojazd kolejowy podczas postoju",
         "C": "sygnalizator kolejowy przeznaczony do prowadzenia ruchu manewrowego",
-        "D": "przyrząd zabezpieczający wagon przed niekontrolowanym przetoczeniem"
+        "D": "przyrząd służący do zmniejszania prędkości i zabezpieczania pojazdów przed zbiegnięciem"
       },
       "correct": "D",
-      "explanation": "Ir-9 § 12",
+      "explanation": "Ir-9 § 12 ust. 8",
       "section_ref": "§ 12"
     },
     {
@@ -232,8 +232,8 @@
         "D": "oznaczenie toru wskazujące maksymalną prędkość jazdy manewrowej"
       },
       "correct": "C",
-      "explanation": "Ir-9 § 10",
-      "section_ref": "§ 10"
+      "explanation": "Ir-9 § 7 ust. 1",
+      "section_ref": "§ 7"
     },
     {
       "uuid": "e069b547-9e9e-41ea-950f-dee840adad36",
@@ -596,8 +596,8 @@
         "D": "8 km/h"
       },
       "correct": "B",
-      "explanation": "Ir-9 § 11",
-      "section_ref": "§ 11"
+      "explanation": "Ir-9 § 10 ust. 27 pkt 3b",
+      "section_ref": "§ 10"
     },
     {
       "uuid": "17802804-cbc2-4f89-96d2-04b95f77c645",
@@ -816,8 +816,8 @@
         "C": "Hak manewrowy",
         "D": "Latarka sygnałowa"
       },
-      "correct": "C",
-      "explanation": "Ir-9 § 23",
+      "correct": "B",
+      "explanation": "Ir-9 § 23 ust. 2 pkt 2",
       "section_ref": "§ 23"
     },
     {
@@ -895,8 +895,8 @@
         "D": "Dokumentuje uszkodzenia powstałe podczas manewrów"
       },
       "correct": "C",
-      "explanation": "Ir-9 § 10",
-      "section_ref": "§ 10"
+      "explanation": "Ir-9 § 2 ust. 8",
+      "section_ref": "§ 2"
     },
     {
       "uuid": "c2b2e275-d6e1-4358-b058-433300a391e9",
@@ -991,16 +991,16 @@
     },
     {
       "uuid": "9e048290-a47e-43e8-b1aa-60607c70257d",
-      "question": "Czy każdy członek drużyny manewrowej powinien posiadać sprawny radiotelefon?",
+      "question": "Czy drużyna manewrowa powinna być wyposażona w radiotelefon przenośny?",
       "answers": {
         "A": "Nie",
-        "B": "Tak",
-        "C": "Bywa dozwolone",
-        "D": "W wyjątkowych przypadkach"
+        "B": "Tak, zapewniający łączność między sobą, z maszynistą i z obsługą posterunku nastawczego",
+        "C": "Tylko gdy wykonuje manewry na torach głównych",
+        "D": "Jedynie w przypadku manewrów nocnych"
       },
       "correct": "B",
-      "explanation": "Ir-9 § 10",
-      "section_ref": "§ 10"
+      "explanation": "Ir-9 § 23 ust. 3",
+      "section_ref": "§ 23"
     },
     {
       "uuid": "eb6c51ae-33e1-4aef-8992-ff368c8dd1f8",
@@ -1285,8 +1285,8 @@
         "D": "Wyłącznie dyżurny ruchu"
       },
       "correct": "A",
-      "explanation": "Ir-9 § 20",
-      "section_ref": "§ 20"
+      "explanation": "Ir-9 § 12 ust. 11, 15",
+      "section_ref": "§ 12"
     },
     {
       "uuid": "8fd80c20-629c-4934-9c46-01af4e5dab27",
@@ -1428,7 +1428,7 @@
         "D": "Brak szczególnych wymagań"
       },
       "correct": "A",
-      "explanation": "Ir-9 § 12",
+      "explanation": "Ir-9 § 12 ust. 1, ust. 2, ust. 6",
       "section_ref": "§ 12"
     },
     {
@@ -1441,8 +1441,8 @@
         "D": "Pracownik utrzymania"
       },
       "correct": "A",
-      "explanation": "Ir-9 § 12",
-      "section_ref": "§ 12"
+      "explanation": "Ir-9 § 7 ust. 3 pkt 8 i pkt 9",
+      "section_ref": "§ 7"
     },
     {
       "uuid": "3669d361-3351-4480-abd5-a2ef4a17b1c9",
@@ -1480,7 +1480,7 @@
         "D": "Zablokować zderzaki liną"
       },
       "correct": "A",
-      "explanation": "Ir-9 § 14",
+      "explanation": "Ir-9 § 14 ust. 5 pkt 3",
       "section_ref": "§ 14"
     },
     {
@@ -1636,8 +1636,8 @@
         "D": "Gdy prędkość jest największa"
       },
       "correct": "A",
-      "explanation": "Ir-9 § 20",
-      "section_ref": "§ 20"
+      "explanation": "Ir-9 § 12 ust. 13",
+      "section_ref": "§ 12"
     },
     {
       "uuid": "063e4589-0608-4ea3-bebe-258c50bf08e4",
@@ -1649,8 +1649,8 @@
         "D": "Osoba postronna, jeśli jest w kamizelce"
       },
       "correct": "A",
-      "explanation": "Ir-9 § 20",
-      "section_ref": "§ 20"
+      "explanation": "Ir-9 § 12 ust. 11, 15",
+      "section_ref": "§ 12"
     },
     {
       "uuid": "02189836-8157-4696-903b-aca1a412ff9b",
@@ -1662,7 +1662,7 @@
         "D": "Tylko rodzaj sprzęgu"
       },
       "correct": "A",
-      "explanation": "Ir-9 § 21",
+      "explanation": "Ir-9 § 21 ust. 2 pkt 12",
       "section_ref": "§ 21"
     },
     {
@@ -1719,16 +1719,16 @@
     },
     {
       "uuid": "d125ad12-4ed3-4c21-a2a5-bae20be00f62",
-      "question": "Jak należy ustawić się względem toru podczas obserwacji manewrów?",
+      "question": "Jak należy się ustawić po przestawieniu zwrotnicy podczas manewrów?",
       "answers": {
-        "A": "Poza skrajnią, w miejscu zapewniającym widoczność i możliwość szybkiego zejścia",
+        "A": "Poza skrajnią taboru kolejowego, w bezpiecznej odległości od toru",
         "B": "Pomiędzy główkami szyn",
         "C": "Na stopniu najbliższego wagonu",
         "D": "Na rozjazdach między iglicami"
       },
       "correct": "A",
-      "explanation": "Ir-9 § 23",
-      "section_ref": "§ 23"
+      "explanation": "Ir-9 § 10 ust. 8",
+      "section_ref": "§ 10"
     },
     {
       "uuid": "9596430c-b00c-46ab-b6c7-30dc52f922d9",

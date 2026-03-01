@@ -85,7 +85,11 @@ def recalculate_summary(results: list[dict]) -> dict:
     fix = sum(1 for r in results if r["status"] == "FIX")
     delete = sum(1 for r in results if r["status"] == "DELETE")
     new = sum(1 for r in results if r["status"] == "NEW")
-    return {"total": total, "ok": ok, "fix": fix, "delete": delete, "new": new}
+    rescued = sum(1 for r in results if r["status"] == "RESCUED")
+    summary = {"total": total, "ok": ok, "fix": fix, "delete": delete, "new": new}
+    if rescued > 0:
+        summary["rescued"] = rescued
+    return summary
 
 
 def apply_uuid(name: str, uuid: str) -> dict:
