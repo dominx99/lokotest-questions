@@ -1523,19 +1523,6 @@
       "section_ref": "§ 28"
     },
     {
-      "uuid": "d8b33c38-71a5-4e4d-921e-a68527ae5aeb",
-      "question": "Linia kolejowa, na której przy normalnym ruchu w jednym kierunku wykorzystuje się tylko jeden tor, to:",
-      "answers": {
-        "A": "Linia jednotorowa",
-        "B": "Linia dwutorowa",
-        "C": "Szlak boczny",
-        "D": "Odstęp jednokierunkowy"
-      },
-      "correct": "A",
-      "explanation": "Ir-1 § 2 ust. 3",
-      "section_ref": "§ 2"
-    },
-    {
       "uuid": "52bf8010-f5f2-49c6-b377-2efda2a25a56",
       "question": "Kogo wchodzi w skład drużyny pociągowej?",
       "answers": {

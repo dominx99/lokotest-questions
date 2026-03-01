@@ -55,7 +55,7 @@ Wynik: lista "zadań agenckich", każde z jednym `section_ref` i listą max 8 py
 ### 3. Utwórz katalog na wyniki
 
 ```bash
-rm -rf /tmp/verify-{instruction} && mkdir -p /tmp/verify-{instruction}
+mkdir -p /tmp/verify-{instruction} && find /tmp/verify-{instruction} -name "*.json" -delete
 ```
 
 ### 4. Odpal WSZYSTKICH agentów naraz

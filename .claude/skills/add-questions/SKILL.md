@@ -20,25 +20,28 @@ Jeśli `section_filter` podano, generuj pytania **tylko** dla tej sekcji.
 
 ## Procedura
 
-### 1. Wczytaj pytania i policz per sekcja
+### 1. Oblicz deficyt pytań per sekcja
 
-Wczytaj `instructions/{instruction}/{instruction}-pytania.json`. Policz pytania per `section_ref`.
+Uruchom skrypt:
 
-### 2. Oblicz deficyt pytań per sekcja
+**Bez filtra sekcji:**
+```bash
+uv run python scripts/extract_section_deficits.py {instruction}
+```
 
-Dla każdego pliku sekcji w `instructions/{instruction}/sections/`:
-- Policz liczbę linii w pliku (użyj Read tool)
-- `wymagane = max(1, lines // 20)`
-- `istniejące` = liczba pytań z pasującym `section_ref`
-- `deficyt = wymagane - istniejące`
+**Z filtrem sekcji:**
+```bash
+uv run python scripts/extract_section_deficits.py {instruction} --section {section_filter}
+```
 
-Pomiń sekcje z `deficyt <= 0`.
+Skrypt wypisze na stdout JSON z sekcjami wymagającymi pytań. Każdy element zawiera:
+- `section_ref`, `section_file`, `title` — identyfikacja sekcji
+- `content_lines`, `required`, `existing`, `deficit`, `to_add` — statystyki
+- `existing_questions` — istniejące pytania (do podania agentom żeby nie duplikowali)
 
-Pomiń plik `_attachments.md` (to nie jest sekcja).
+Jeśli lista pusta (`[]`) → wypisz `Brak sekcji wymagających nowych pytań.` i zakończ.
 
-Jeśli podano `section_filter`, filtruj do pasującej sekcji (np. `5` → `§5.md`).
-
-Wypisz tabelę podsumowującą:
+Wypisz tabelę podsumowującą na podstawie danych z JSON:
 ```
 Sekcja   | Linii | Wymagane | Istniejące | Deficyt | Do dodania
 § 1      | 45    | 2        | 0          | 2       | 2
@@ -47,20 +50,13 @@ Sekcja   | Linii | Wymagane | Istniejące | Deficyt | Do dodania
 Razem: X pytań do wygenerowania
 ```
 
-### 3. Utwórz katalog na wyniki
+### 2. Utwórz katalog na wyniki
 
 ```bash
-mkdir -p /tmp/add-questions-{instruction}
+mkdir -p /tmp/add-questions-{instruction} && find /tmp/add-questions-{instruction} -name "*.json" -delete
 ```
 
-Wyczyść wcześniejsze pliki:
-```bash
-rm -f /tmp/add-questions-{instruction}/*.json
-```
-
-### 4. Odpal agentów — 1 per sekcja
-
-`do_dodania = min(deficyt, 10)` per sekcja.
+### 3. Odpal agentów — 1 per sekcja
 
 Uruchom **wszystkich** agentów w jednym wywołaniu (jednym message z wieloma tool calls). Każdy agent:
 - model: **sonnet**
@@ -82,7 +78,9 @@ Jesteś generatorem pytań quizowych z instrukcji kolejowej {instruction} (PKP).
 
 ## Istniejące pytania z tej sekcji (NIE DUPLIKUJ)
 
-{existing_questions_json}
+{existing_questions}
+
+(dane z pola `existing_questions` z wyniku skryptu extract_section_deficits.py)
 
 ## Wymagania dla pytań
 
@@ -113,7 +111,7 @@ Użyj Write tool aby zapisać listę pytań jako JSON:
 WAŻNE: Musisz użyć Write tool aby zapisać plik JSON. To jest Twoje główne zadanie.
 ```
 
-### 5. Zbierz wyniki
+### 4. Zbierz wyniki
 
 Po zakończeniu agentów, uruchom skrypt:
 
@@ -121,7 +119,7 @@ Po zakończeniu agentów, uruchom skrypt:
 uv run python scripts/add_new_questions.py {instruction}
 ```
 
-### 6. Wypisz podsumowanie
+### 5. Wypisz podsumowanie
 
 Wypisz ile pytań dodano do weryfikacji i zachęć do przejrzenia:
 ```

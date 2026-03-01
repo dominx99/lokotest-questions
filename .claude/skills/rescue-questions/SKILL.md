@@ -16,41 +16,46 @@ Rozparsuj `$ARGUMENTS` na:
 - **instruction** — pierwszy argument (wymagany), np. `Ir-1`
 - **section_filter** — drugi argument (opcjonalny), sam numer paragrafu, np. `5` lub `12`
 
-Jeśli podano `section_filter`, zamień na format `§ {numer}` (np. `5` → `§ 5`) — rescue tylko pytania DELETE z tego paragrafu.
+Jeśli podano `section_filter`, przekaż go **jako sam numer** (np. `5`, `12`) do skryptu przez `--section`. Skrypt sam obsługuje dopasowanie do `§ X`.
 
 Jeśli brak pierwszego argumentu, wypisz błąd: `Użycie: /rescue-questions <instruction> [numer-paragrafu]` i zakończ.
 
 ## Procedura
 
-### 1. Wczytaj dane
+### 1. Wyekstrahuj kandydatów do rescue
 
-Wczytaj `instructions/{instruction}/{instruction}-verification.json`:
-- Wyfiltruj entries ze statusem `DELETE` → to są kandydaci do rescue
-- Zapamiętaj ich UUID i `problems` (powody DELETE)
+Uruchom skrypt, który wyciągnie pytania DELETE z verification.json i pytania.json:
 
-Wczytaj `instructions/{instruction}/{instruction}-pytania.json`:
-- Wyciągnij pełne pytania (question, answers, correct, explanation, section_ref) po UUID kandydatów
-- Jeśli podano `section_filter`, odfiltruj do pytań z pasującym `section_ref` (porównuj ignorując spacje, np. `§12` pasuje do `§ 12`)
+**Bez filtra sekcji:**
+```bash
+uv run python scripts/extract_rescue_candidates.py {instruction}
+```
 
-Jeśli 0 pytań DELETE (po filtrze) → wypisz `Brak pytań DELETE do rescue w {instruction}.` i zakończ.
+**Z filtrem sekcji:**
+```bash
+uv run python scripts/extract_rescue_candidates.py {instruction} --section {section_filter}
+```
 
-Wypisz: `Rescue {instruction}: {N} pytań DELETE do sprawdzenia` (jeśli filtrowane, dodaj `(§ X)`)
+Skrypt wypisze na stdout JSON z kandydatami (pełne pytania + `delete_problems`), a na stderr podsumowanie.
+
+Jeśli lista jest pusta (`[]`) → wypisz `Brak pytań DELETE do rescue w {instruction}.` i zakończ.
+
+Zapamiętaj wynik jako `candidates` (lista obiektów JSON).
 
 ### 2. Wczytaj spis treści
 
-Sprawdź czy istnieje `instructions/{instruction}/{instruction}-spis-tresci.md`.
+Wczytaj `instructions/{instruction}/{instruction}-spis-tresci.md` (Read tool).
 - Jeśli nie istnieje, wypisz błąd: `Brak spisu treści. Wygeneruj go: make toc ONLY={instruction}` i zakończ.
-- Wczytaj zawartość spisu treści.
 
 ### 3. Utwórz katalog na wyniki
 
 ```bash
-rm -rf /tmp/rescue-{instruction} && mkdir -p /tmp/rescue-{instruction}
+mkdir -p /tmp/rescue-{instruction} && find /tmp/rescue-{instruction} -name "*.json" -delete
 ```
 
 ### 4. Pogrupuj i odpal agentów
 
-Podziel pytania DELETE na grupy po **max 8 pytań**. Dla każdej grupy odpal agenta:
+Podziel `candidates` na grupy po **max 8 pytań**. Dla każdej grupy odpal agenta:
 - model: **sonnet**
 - subagent_type: **general-purpose**
 - run_in_background: **true**

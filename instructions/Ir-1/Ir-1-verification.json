@@ -1,22 +1,13 @@
 {
   "instruction": "Ir-1",
-  "timestamp": "2026-02-28T18:01:04.966369",
+  "timestamp": "2026-03-01T12:34:13.815985",
   "summary": {
-    "total": 201,
+    "total": 200,
     "ok": 88,
     "fix": 55,
-    "delete": 58
+    "delete": 57
   },
   "results": [
-    {
-      "uuid": "d8b33c38-71a5-4e4d-921e-a68527ae5aeb",
-      "status": "DELETE",
-      "problems": [
-        "Pojęcie 'linia jednotorowa' w znaczeniu linii, na której ruch odbywa się tylko w jednym kierunku na jednym torze, nie pojawia się w §2 Ir-1.",
-        "§2 ust. 3 mówi wyłącznie: 'Linie kolejowe dzielą się na odcinki, szlaki i odstępy' — nie ma w nim podziału na linie jednotorowe i dwutorowe.",
-        "Explanation 'Ir-1 § 2 ust. 3' jest błędny — ust. 3 nie definiuje linii jednotorowej. Pytanie nie ma pokrycia w treści §2."
-      ]
-    },
     {
       "uuid": "296b6af4-8046-4f25-9ad6-997c0bdec3bc",
       "status": "OK",
