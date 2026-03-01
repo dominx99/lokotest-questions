@@ -40,34 +40,52 @@ Jesteś weryfikatorem pytań quizowych z instrukcji kolejowej %(instruction)s (P
 
 1. Czy **poprawna odpowiedź** (`correct`) faktycznie wynika z treści paragrafu?
 2. Czy **pytanie** jest jednoznaczne, precyzyjne i poprawne językowo (polska gramatyka)?
-3. Czy **błędne odpowiedzi** (dystraktory) są wiarygodne ale faktycznie niepoprawne?
-4. Czy `explanation` wskazuje właściwy paragraf, ustęp i podpunkt (jeśli jest w danym ustępie)?
-5. Czy `explanation` ma poprawny format źródła? Dozwolony format to **wyłącznie** referencja do paragrafu, np.:
+3. Czy **dokładnie jedna** odpowiedź jest poprawna według treści paragrafu? Jeśli więcej niż jedna \
+odpowiedź ma pokrycie w treści — oznacz DELETE (pytanie niejednoznaczne).
+4. Czy **błędne odpowiedzi** (dystraktory) są wiarygodne ale faktycznie niepoprawne?
+5. Czy `explanation` wskazuje właściwy paragraf, ustęp i podpunkt (jeśli jest w danym ustępie)?
+6. Czy `explanation` ma poprawny format źródła? Dozwolony format to **wyłącznie** referencja do paragrafu, np.:
    - `%(instruction)s § 63 ust. 6 pkt 2` (nazwa instrukcji + paragraf + opcjonalnie ustęp, punkt, litera)
    - `%(instruction)s § 63 ust. 6 pkt 2 tabela poz. 42` (z opcjonalnym odwołaniem do tabeli)
    - Niedozwolone: dodatkowy tekst opisowy, komentarze w nawiasach, "w zw. z", "w powiązaniu z", myślniki z wyjaśnieniami, "par." zamiast "§", itp.
    - Jeśli explanation zawiera cokolwiek poza czystą referencją — oznacz jako FIX i podaj poprawioną wersję zawierającą tylko referencję
    - Jeśli explanation jest puste lub brak go — znajdź właściwy paragraf/ustęp w treści sekcji i dodaj referencję
-6. Czy nie ma literówek, powtórzeń, nielogicznych sformułowań, nadmiarowych słów których nie ma w danym paragrafie/ustępie?
+7. Czy nie ma literówek, powtórzeń, nielogicznych sformułowań, nadmiarowych słów których nie ma w danym paragrafie/ustępie?
 
 ## Format wyników — ZAPISZ DO PLIKU
 
-Po weryfikacji, użyj narzędzia Write aby zapisać wyniki jako JSON do pliku %(output_path)s:
+Po weryfikacji, użyj narzędzia **Bash** z komendą `python3` aby zapisać wyniki do pliku \
+`%(output_path)s`. Przykład:
 
-```json
-[
+```bash
+python3 << 'PYEOF'
+import json
+
+data = [
   {
     "uuid": "...",
-    "status": "OK|FIX|DELETE",
-    "problems": ["opis problemu 1", "opis problemu 2"],
+    "status": "OK",
+    "problems": []
+  },
+  {
+    "uuid": "...",
+    "status": "FIX",
+    "problems": ["Literówka: 'dyzurnego' → 'dyżurnego'"],
     "changes": {
-      "question": "nowa treść (tylko jeśli zmieniona)",
-      "answers": {"A": "...", "B": "..."},
-      "correct": "B",
-      "explanation": "%(instruction)s § X ust. Y"
+      "question": "poprawiona treść"
     }
+  },
+  {
+    "uuid": "...",
+    "status": "DELETE",
+    "problems": ["Treść nie wynika z podanego paragrafu"]
   }
 ]
+
+with open("%(output_path)s", "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
+    f.write("\\n")
+PYEOF
 ```
 
 Zasady:
@@ -80,7 +98,7 @@ Zasady:
 - Używaj DOKŁADNIE tych nazw pól: `uuid`, `status`, `problems`, `changes`. NIE używaj innych nazw jak `issues`, `reason`, `fix`, `corrections` itp.
 - Każdy element `problems` musi być pełnym zdaniem opisującym problem, nie pustym stringiem.
 
-WAŻNE: Musisz użyć Write tool aby zapisać plik JSON z wynikami. To jest Twoje główne zadanie.
+WAŻNE: Do zapisu pliku użyj Bash z python3 (jak w przykładzie powyżej). NIE używaj Write tool.
 """
 
 
@@ -213,7 +231,7 @@ def main() -> None:
     groups = group_by_section(questions)
 
     # Prepare output directory
-    tmp_dir = Path(f".tmp/verify-{args.name}")
+    tmp_dir = Path(f".tmp/verify-{args.name}").resolve()
     tmp_dir.mkdir(parents=True, exist_ok=True)
     for f in tmp_dir.glob("*.json"):
         f.unlink()

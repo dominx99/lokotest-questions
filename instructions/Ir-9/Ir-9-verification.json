@@ -1,11 +1,12 @@
 {
   "instruction": "Ir-9",
-  "timestamp": "2026-02-28T18:55:18.662749",
+  "timestamp": "2026-03-01T14:25:02.460308",
   "summary": {
     "total": 140,
     "ok": 17,
     "fix": 49,
-    "delete": 74
+    "delete": 65,
+    "rescued": 9
   },
   "results": [
     {
@@ -114,10 +115,14 @@
     },
     {
       "uuid": "815472fb-75ec-42fd-b287-a69eabd8dd68",
-      "status": "DELETE",
+      "status": "RESCUED",
       "problems": [
-        "Pojęcie 'Kierownik manewrów' nie ma samodzielnej definicji w §2 Ir-9."
-      ]
+        "Pojęcie 'Kierownik manewrów' jest opisane w §7 ust. 1: 'Manewry są wykonywane pod kierownictwem pracownika posiadającego wymagane kwalifikacje tj. kierownika manewrów, który odpowiada za bezpieczne i terminowe wykonanie manewrów.' Odpowiedź C ('pracownik odpowiedzialny za organizację i bezpieczeństwo pracy manewrowej') odpowiada treści §7."
+      ],
+      "changes": {
+        "section_ref": "§ 7",
+        "explanation": "Ir-9 § 7 ust. 1"
+      }
     },
     {
       "uuid": "e069b547-9e9e-41ea-950f-dee840adad36",
@@ -431,10 +436,14 @@
     },
     {
       "uuid": "665957d8-eb77-40f1-a90b-3fb6f8ba7033",
-      "status": "DELETE",
+      "status": "RESCUED",
       "problems": [
-        "Definicja planu pracy manewrowej jest w §2, nie w §10."
-      ]
+        "Definicja 'planu pracy manewrowej' znajduje się w §2 ust. 8, nie w §10. §2 ust. 8 definiuje: 'Plan pracy manewrowej - przyjęty do realizacji porządek wykonania pracy manewrowej, w określonym przedziale czasu, ustalony przez kierującego manewrami i podany do wiadomości uczestnikom manewrów.' Odpowiedź C ('Określa kolejność i czas wykonania poszczególnych ruchów manewrowych') jest zgodna z tą definicją."
+      ],
+      "changes": {
+        "section_ref": "§ 2",
+        "explanation": "Ir-9 § 2 ust. 8"
+      }
     },
     {
       "uuid": "c2b2e275-d6e1-4358-b058-433300a391e9",
@@ -473,10 +482,22 @@
     },
     {
       "uuid": "9e048290-a47e-43e8-b1aa-60607c70257d",
-      "status": "DELETE",
+      "status": "RESCUED",
       "problems": [
-        "§10 nie nakłada obowiązku posiadania radiotelefonu na każdego członka drużyny manewrowej."
-      ]
+        "§23 ust. 3 mówi, że drużyna manewrowa powinna być wyposażona w radiotelefon przenośny zapewniający łączność między sobą, z maszynistą i z obsługą posterunku nastawczego. Pytanie w obecnej formie sugeruje, że każdy członek drużyny powinien posiadać sprawny radiotelefon — co jest częściowo pokryte przez §23 ust. 3, choć przepis odnosi się do drużyny jako całości, a nie do każdego pracownika z osobna. Pytanie i odpowiedzi wymagają korekty."
+      ],
+      "changes": {
+        "section_ref": "§ 23",
+        "explanation": "Ir-9 § 23 ust. 3",
+        "question": "Czy drużyna manewrowa powinna być wyposażona w radiotelefon przenośny?",
+        "answers": {
+          "A": "Nie",
+          "B": "Tak, zapewniający łączność między sobą, z maszynistą i z obsługą posterunku nastawczego",
+          "C": "Tylko gdy wykonuje manewry na torach głównych",
+          "D": "Jedynie w przypadku manewrów nocnych"
+        },
+        "correct": "B"
+      }
     },
     {
       "uuid": "f9b4781d-5263-4afb-bb25-dcadb3789b41",
@@ -568,10 +589,14 @@
     },
     {
       "uuid": "b5647145-67f1-4363-8932-9cb72a6a60fe",
-      "status": "DELETE",
+      "status": "RESCUED",
       "problems": [
-        "§11 nie zawiera informacji o prędkości 15 km/h przy pchaniu wagonów w stronę górki rozrządowej."
-      ]
+        "Znaleziono pokrycie w §10 ust. 27 tabela pkt 3b: prędkość 15 km/h obowiązuje przy 'podpychania składu do górki rozrządowej na sygnał na tarczy rozrządowej Podepchnąć skład do górki'. Pytanie jest poprawne — sekcja_ref wymaga korekty z §11 na §10."
+      ],
+      "changes": {
+        "section_ref": "§ 10",
+        "explanation": "Ir-9 § 10 ust. 27 pkt 3b"
+      }
     },
     {
       "uuid": "d00ba1de-cdca-43d2-acea-375406583a4c",
@@ -755,10 +780,14 @@
     },
     {
       "uuid": "ba3cf467-99a9-41e1-afc5-7d1de34f62ce",
-      "status": "DELETE",
+      "status": "RESCUED",
       "problems": [
-        "Pytanie jest niemal identyczne z f39935a2 — duplikat tego samego scenariusza."
-      ]
+        "§14 ust. 5 pkt 3 wprost stanowi: 'jeżeli brak jest wymaganych hamulców ręcznych lub postojowych, to oprócz sprzęgnięcia pojazdów kolejowych należy użyć płozów, zabezpieczając skrajne koła grupy pojazdów lub pojedynczo stojącego pojazdu'. Odpowiedź A dotycząca założenia płozów hamulcowych jest pokryta przez §14. Pytanie jest duplikatem innego pytania (f39935a2), ale ma pokrycie w instrukcji."
+      ],
+      "changes": {
+        "section_ref": "§ 14",
+        "explanation": "Ir-9 § 14 ust. 5 pkt 3"
+      }
     },
     {
       "uuid": "09b9a2bb-0b03-42da-b7ba-c02ac548688a",
@@ -947,10 +976,14 @@
     },
     {
       "uuid": "873b001f-6dfa-4dcc-9114-715d84ef509d",
-      "status": "DELETE",
+      "status": "RESCUED",
       "problems": [
-        "'Tor kierunkowy', 'odprzęgi' — to terminologia rozrządu z górki. §20 nie zawiera nic o torach kierunkowych."
-      ]
+        "§20 nie zawiera informacji o zdejmowaniu płozów z torów kierunkowych. Jednak §12 ust. 13 expressis verbis reguluje kiedy należy usunąć płóz: 'Płóz należy usunąć spod koła wagonu po zatrzymaniu się odprzęgu (wykorzystując wsteczny ruch odprzęgu lub pomagając sobie drążkiem), nie później jednak niż przed rozpoczęciem dopychania odprzęgów pojazdem trakcyjnym.' Odpowiedź A jest zgodna z treścią §12 ust. 13."
+      ],
+      "changes": {
+        "section_ref": "§ 12",
+        "explanation": "Ir-9 § 12 ust. 13"
+      }
     },
     {
       "uuid": "063e4589-0608-4ea3-bebe-258c50bf08e4",
@@ -997,11 +1030,14 @@
     },
     {
       "uuid": "02189836-8157-4696-903b-aca1a412ff9b",
-      "status": "DELETE",
+      "status": "RESCUED",
       "problems": [
-        "Pojęcie 'wagony o ograniczeniach technicznych' nie występuje w § 21.",
-        "Odpowiedź A jest zbyt ogólna i nie wynika z żadnego konkretnego ustępu § 21."
-      ]
+        "§21 ust. 2 pkt 12 stanowi: 'pojazdy kolejowe wchodzące w skład pociągu oraz kolejność ich zestawiania muszą wykazywać zgodność z wymaganiami technicznymi obowiązującymi na trasie przejazdu pociągu'. Dotyczy to wagonów z ograniczeniami technicznymi — konieczne jest sprawdzenie zgodności z przepisami technicznymi trasy oraz ewentualnych dodatkowych warunków jazdy. Odpowiedź A jest pokryta przez §21 ust. 2 pkt 12."
+      ],
+      "changes": {
+        "section_ref": "§ 21",
+        "explanation": "Ir-9 § 21 ust. 2 pkt 12"
+      }
     },
     {
       "uuid": "8c17c816-0322-4385-939a-9aa1a8fa3301",
@@ -1053,12 +1089,15 @@
     },
     {
       "uuid": "52c96944-cb52-483c-b179-2e6408a7e682",
-      "status": "DELETE",
+      "status": "RESCUED",
       "problems": [
-        "Pytanie wskazuje jako poprawną odpowiedź 'Hak manewrowy' (C), który nie jest wymieniony w § 23 w żadnym ustępie.",
-        "Odpowiedź A 'Kask ochronny' jest myląca — § 23 ust. 2 pkt 3 wymienia hełm ochronny, co jest zbliżone pojęciowo, ale hak manewrowy nie wynika z § 23.",
-        "Pytanie nie ma jednoznacznie poprawnej odpowiedzi spośród podanych wariantów."
-      ]
+        "§ 23 ust. 2 pkt 2 jednoznacznie wymienia gwizdek jako obowiązkowe wyposażenie pracownika manewrowego. Hak manewrowy (C) nie jest wymieniony w § 23 jako obowiązkowy element wyposażenia. Pytanie można uratować zmieniając poprawną odpowiedź na B (Gwizdek), który jest wymieniony w § 23 ust. 2 pkt 2, a section_ref pozostaje § 23."
+      ],
+      "changes": {
+        "section_ref": "§ 23",
+        "correct": "B",
+        "explanation": "Ir-9 § 23 ust. 2 pkt 2"
+      }
     },
     {
       "uuid": "8fd80c20-629c-4934-9c46-01af4e5dab27",
@@ -1091,11 +1130,22 @@
     },
     {
       "uuid": "d125ad12-4ed3-4c21-a2a5-bae20be00f62",
-      "status": "DELETE",
+      "status": "RESCUED",
       "problems": [
-        "§ 23 nie zawiera żadnych informacji o ustawianiu się względem toru podczas obserwacji manewrów, skrajni ani możliwości szybkiego zejścia.",
-        "Pytanie i jego odpowiedzi odnoszą się do innego paragrafu — nie wynikają z treści § 23."
-      ]
+        "§ 10 ust. 8 zawiera informację o pozycjonowaniu pracownika podczas przestawiania zwrotnic: 'następnie ustawić się w bezpiecznej odległości od toru poza skrajnią taboru kolejowego'. Odpowiedź A (poza skrajnią) jest zgodna z tym zapisem. § 10 ust. 24 opisuje, że kierownik manewrów powinien znajdować się w miejscu zapewniającym wzrokowe objęcie manewrującego składu. Pytanie może być przypisane do § 10 z poprawieniem treści pytania, aby odnosiło się do ustawiania się pracownika po przestawieniu zwrotnicy (§ 10 ust. 8)."
+      ],
+      "changes": {
+        "section_ref": "§ 10",
+        "explanation": "Ir-9 § 10 ust. 8",
+        "question": "Jak należy się ustawić po przestawieniu zwrotnicy podczas manewrów?",
+        "answers": {
+          "A": "Poza skrajnią taboru kolejowego, w bezpiecznej odległości od toru",
+          "B": "Pomiędzy główkami szyn",
+          "C": "Na stopniu najbliższego wagonu",
+          "D": "Na rozjazdach między iglicami"
+        },
+        "correct": "A"
+      }
     },
     {
       "uuid": "6acfdb19-fa37-4ba7-9b0c-63e1a6e2c262",

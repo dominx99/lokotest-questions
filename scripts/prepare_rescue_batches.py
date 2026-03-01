@@ -57,24 +57,34 @@ jeśli trzeba je dostosować do nowej sekcji
 
 ## Format wyników — ZAPISZ DO PLIKU
 
-Po weryfikacji, użyj narzędzia Write aby zapisać wyniki jako JSON do pliku \
-%(output_path)s:
+Po weryfikacji, użyj narzędzia **Bash** z komendą `python3` aby zapisać wyniki do pliku \
+`%(output_path)s`. Przykład:
 
-```json
-[
+```bash
+python3 << 'PYEOF'
+import json
+
+data = [
   {
     "uuid": "...",
-    "status": "RESCUED|DELETE",
-    "problems": ["opis co znaleziono lub potwierdzenie braku pokrycia"],
+    "status": "RESCUED",
+    "problems": ["opis co znaleziono"],
     "changes": {
       "section_ref": "§ X",
-      "question": "nowa treść (tylko jeśli zmieniona)",
-      "answers": {"A": "..."},
-      "correct": "B",
       "explanation": "%(instruction)s § X ust. Y"
     }
+  },
+  {
+    "uuid": "...",
+    "status": "DELETE",
+    "problems": ["potwierdzenie braku pokrycia"]
   }
 ]
+
+with open("%(output_path)s", "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
+    f.write("\\n")
+PYEOF
 ```
 
 Zasady:
@@ -85,7 +95,7 @@ Opcjonalnie inne pola jeśli wymagają poprawki.
 - `problems`: WYMAGANE dla obu statusów — opisz co znalazłeś lub dlaczego potwierdzasz DELETE
 - Explanation musi mieć format referencji: `%(instruction)s § X ust. Y pkt Z`
 
-WAŻNE: Musisz użyć Write tool aby zapisać plik JSON z wynikami.
+WAŻNE: Do zapisu pliku użyj Bash z python3 (jak w przykładzie powyżej). NIE używaj Write tool.
 """
 
 
@@ -179,8 +189,8 @@ def main() -> None:
         sys.exit(1)
     toc_content = toc_path.read_text(encoding="utf-8")
 
-    # Prepare output directory
-    tmp_dir = Path(f".tmp/rescue-{args.name}")
+    # Prepare output directory (absolute paths required by Write tool)
+    tmp_dir = Path(f".tmp/rescue-{args.name}").resolve()
     tmp_dir.mkdir(parents=True, exist_ok=True)
     for f in tmp_dir.glob("*.json"):
         f.unlink()

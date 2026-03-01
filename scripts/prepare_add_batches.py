@@ -46,12 +46,16 @@ Jesteś generatorem pytań quizowych z instrukcji kolejowej %(instruction)s (PKP
 
 ## Format wyjścia — ZAPISZ DO PLIKU
 
-Użyj Write tool aby zapisać listę pytań jako JSON:
+Użyj narzędzia **Bash** z komendą `python3` aby zapisać wyniki do pliku \
+`%(output_path)s`. Przykład:
 
-```json
-[
+```bash
+python3 << 'PYEOF'
+import json, uuid
+
+data = [
   {
-    "uuid": "<nowy uuid>",
+    "uuid": str(uuid.uuid4()),
     "question": "Treść pytania?",
     "answers": {"A": "...", "B": "...", "C": "...", "D": "..."},
     "correct": "A",
@@ -59,9 +63,14 @@ Użyj Write tool aby zapisać listę pytań jako JSON:
     "section_ref": "%(section_ref)s"
   }
 ]
+
+with open("%(output_path)s", "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
+    f.write("\\n")
+PYEOF
 ```
 
-WAŻNE: Musisz użyć Write tool aby zapisać plik JSON. To jest Twoje główne zadanie.
+WAŻNE: Do zapisu pliku użyj Bash z python3 (jak w przykładzie powyżej). NIE używaj Write tool.
 """
 
 
@@ -209,7 +218,7 @@ def main() -> None:
     print(f"Razem: {total_to_add} pytań do wygenerowania", file=sys.stderr)
 
     # Prepare output directory
-    tmp_dir = Path(f".tmp/add-questions-{args.name}")
+    tmp_dir = Path(f".tmp/add-questions-{args.name}").resolve()
     tmp_dir.mkdir(parents=True, exist_ok=True)
     for f in tmp_dir.glob("*.json"):
         f.unlink()
