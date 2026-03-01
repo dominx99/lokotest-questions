@@ -96,7 +96,7 @@
       "uuid": "2d71491c-cda0-4a07-8a3b-3718dc61f09b",
       "question": "Jak instrukcja Ir‑9 definiuje pojęcie „Hamulec postojowy”?",
       "answers": {
-        "A": "hamulec umożliwiający unieruchomienie pojazdu na postoju; zwykle jest to hamulec mechaniczny, uruchamiany przez zakręcenie koła lub korby",
+        "A": "hamulec, który umożliwia unieruchomienie pojazdu na postoju; zwykle jest to hamulec mechaniczny, uruchamiany przez zakręcenie koła lub korby",
         "B": "wagon z ładunkiem wykraczającym poza skrajnię ładunkową",
         "C": "sygnalizator kolejowy przeznaczony do prowadzenia ruchu manewrowego",
         "D": "wzniesienie toru wykorzystane do rozpędzania odprzęgów siłą grawitacji"
@@ -110,7 +110,7 @@
       "question": "Jak instrukcja Ir‑9 definiuje pojęcie „Długość użyteczna toru”?",
       "answers": {
         "A": "sygnalizator kolejowy przeznaczony do prowadzenia ruchu manewrowego",
-        "B": "długość części toru przeznaczona na postój pociągu lub wagonów, mierzona pomiędzy punktem ustawienia semafora, tarczy zaporowej lub manewrowej a ukresem, końcem odcinka izolowanego, punktem zwalniającym przebieg pociągu, miejscem usytuowania wykolejnicy lub miejscem przejazdu kolejowo-drogowego lub przejścia",
+        "B": "długość części toru przeznaczona na postój pociągu lub wagonów, mierzona pomiędzy punktem ustawienia semafora, tarczy zaporowej lub manewrowej a ukresem, końcem odcinka izolowanego, punktem zwalniającym przebieg pociągu, miejscem usytuowania wykolejnicy lub miejscem przejazdu kolejowo-drogowego lub przejścia, jeżeli są one czynne w czasie postoju pociągu lub wagonu",
         "C": "urządzenie do podawania krótkich sygnałów dźwiękowych w czasie manewrów",
         "D": "wzniesienie toru wykorzystane do rozpędzania odprzęgów siłą grawitacji"
       },
@@ -211,12 +211,12 @@
     },
     {
       "uuid": "f35ecb6b-ca10-43c7-b965-9ea50c933707",
-      "question": "Jaka jest maksymalna prędkość jazdy manewrowej, gdy jazda manewrowa odbywa się z pasażerami, przy zabezpieczonej drodze przebiegu i pojazdach posiadających blokadę drzwi ze sterowaniem z kabiny maszynisty?",
+      "question": "Jaka jest maksymalna prędkość jazdy manewrowej, gdy jazda manewrowa odbywa się z pasażerami, przy zabezpieczonej drodze przebiegu i pojazdach posiadających blokadę drzwi ze sterowaniem z kabiny maszynisty (wyjątek z § 10 ust. 27 pkt 4a)?",
       "answers": {
-        "A": "10 km/h",
-        "B": "5 km/h",
-        "C": "20 km/h",
-        "D": "25 km/h"
+        "A": "10 km/h",
+        "B": "5 km/h",
+        "C": "20 km/h",
+        "D": "25 km/h (prędkość zasadnicza)"
       },
       "correct": "D",
       "explanation": "Ir-9 § 10 ust. 27 pkt 4a",
@@ -224,7 +224,7 @@
     },
     {
       "uuid": "a5cc8aec-c41a-41fb-8a28-ecf9c63b1b2e",
-      "question": "Jaka jest maksymalna prędkość jazdy manewrowej, gdy lokomotywa pcha wagony, a na czele idzie pieszo pracownik?",
+      "question": "Jaka jest maksymalna prędkość jazdy manewrowej, gdy skład manewrowy jest poprzedzany pieszym pracownikiem, który nie może zająć miejsca na pierwszym pchanym pojeździe kolejowym?",
       "answers": {
         "A": "3 km/h",
         "B": "10 km/h",
@@ -250,7 +250,7 @@
     },
     {
       "uuid": "b5647145-67f1-4363-8932-9cb72a6a60fe",
-      "question": "Jaka jest maksymalna prędkość jazdy manewrowej, gdy wagony są pchane w stronę górki rozrządowej na sygnał tarczy?",
+      "question": "Jaka jest maksymalna prędkość jazdy manewrowej przy podpychaniu składu do górki rozrządowej na sygnał na tarczy rozrządowej 'Podepchnąć skład do górki'?",
       "answers": {
         "A": "25 km/h",
         "B": "15 km/h",
@@ -263,7 +263,7 @@
     },
     {
       "uuid": "17802804-cbc2-4f89-96d2-04b95f77c645",
-      "question": "Jaka jest maksymalna prędkość jazdy manewrowej, gdy lokomotywa luzem porusza się po torze stacyjnym wolnym od innych pojazdów, a maszynista został o tym powiadomiony?",
+      "question": "Jaka jest maksymalna prędkość jazdy manewrowej (poza rozjazdami), gdy pojazd trakcyjny luzem jedzie po torze wolnym, a maszynista został o tym powiadomiony?",
       "answers": {
         "A": "5 km/h",
         "B": "20 km/h",
@@ -276,7 +276,7 @@
     },
     {
       "uuid": "1af39247-23ed-470c-9475-a0d658d4da3c",
-      "question": "Jaka jest maksymalna prędkość jazdy manewrowej, gdy maszynista podprowadza odprzęg do stojącego wagonu?",
+      "question": "Jaka jest maksymalna prędkość jazdy manewrowej przy dojeżdżaniu do stojących pojazdów kolejowych?",
       "answers": {
         "A": "3 km/h",
         "B": "15 km/h",
@@ -306,7 +306,7 @@
       "answers": {
         "A": "Sprawdza stan techniczny wagonów w trakcie manewrów",
         "B": "Podaje maszynistom sygnały wzrokowe i świetlne",
-        "C": "Ponosi pełną odpowiedzialność za właściwe wykonanie manewrów w granicach własnego rejonu manewrowego",
+        "C": "Ponosi pełną odpowiedzialność za właściwe wykonanie manewrów w granicach własnego rejonu manewrowego, gdy nastawianie drogi przebiegu powierzono drużynie manewrowej",
         "D": "Ustawia i rygluje zwrotnice zgodnie z planem pracy"
       },
       "correct": "C",
@@ -323,7 +323,7 @@
         "D": "Ustawia i rygluje zwrotnice zgodnie z planem pracy"
       },
       "correct": "B",
-      "explanation": "Ir-9 § 10 ust. 20",
+      "explanation": "Ir-9 § 10 ust. 22",
       "section_ref": "§ 10"
     },
     {
@@ -345,7 +345,7 @@
       "answers": {
         "A": "Wydaje polecenia drużynie i odpowiada za bezpieczeństwo manewrów",
         "B": "Sprawdza stan techniczny wagonów w trakcie manewrów",
-        "C": "Daje zezwolenie na jazdę manewrową za pomocą sygnału na sygnalizatorze lub sygnałów ręcznych",
+        "C": "Daje zezwolenie na jazdę manewrową za pomocą sygnału na sygnalizatorze, sygnałów ręcznych lub urządzeń łączności",
         "D": "Podaje maszynistom sygnały wzrokowe i świetlne"
       },
       "correct": "C",
@@ -359,7 +359,7 @@
         "A": "Nastawiać zwrotnice do jazdy przed uzyskaniem zezwolenia pracownika nastawni",
         "B": "Dać polecenie ruchu manewrowego przed wyjściem pracownika spomiędzy wagonów",
         "C": "Jechać bez kamizelki ostrzegawczej w dzień",
-        "D": "Staczać wagonów przez przejazdy bez zamkniętych rogatek"
+        "D": "Staczać wagony przez przejazdy bez zamkniętych rogatek"
       },
       "correct": "B",
       "explanation": "Ir-9 § 10 ust. 3",
@@ -544,20 +544,20 @@
         "D": "Wolno tylko w porze nocnej"
       },
       "correct": "A",
-      "explanation": "Ir-9 § 15",
+      "explanation": "Ir-9 § 15 ust. 2",
       "section_ref": "§ 15"
     },
     {
       "uuid": "10577d6e-76d7-49fa-a1b2-3c6a5a659aaf",
       "question": "Z jaką prędkością wolno prowadzić manewry przez przejazd bez rogatek?",
       "answers": {
-        "A": "Z prędkością nie większą niż 20 km/h i przy spełnieniu warunków określonych w § 16",
+        "A": "Z prędkością nie większą niż 20 km/h i przy spełnieniu warunków określonych w § 16 ust. 1",
         "B": "Bez ograniczeń",
         "C": "Zawsze 60 km/h",
         "D": "Zawsze 5 km/h"
       },
       "correct": "A",
-      "explanation": "Ir-9 § 16",
+      "explanation": "Ir-9 § 16 ust. 1 pkt 1",
       "section_ref": "§ 16"
     },
     {
@@ -588,12 +588,12 @@
     },
     {
       "uuid": "0d91ebbf-b9d9-41ee-905c-d40bd870e711",
-      "question": "Co należy zrobić przed przetoczeniem pojazdu trakcyjnego do wagonów, przy których odbywają się czynności ładunkowe?",
+      "question": "Jaki obowiązek wobec pracowników wykonuje drużyna manewrowa zgodnie z § 19 ust. 3 pkt 1 przed dojechaniem do wagonów, przy których odbywają się czynności ładunkowe?",
       "answers": {
-        "A": "Zażądać od pracowników przerwania czynności ładunkowych i zabezpieczenia ładunku",
+        "A": "Zażądać od zatrudnionych pracowników przerwania czynności ładunkowych oraz zabezpieczenia ładunku w wagonach przed możliwością uszkodzenia w czasie manewrów",
         "B": "Nic, wystarczy sygnał dany gwizdawką",
-        "C": "Podać sygnał \"Baczność\" i jechać",
-        "D": "Polegamy tylko na czujności operatorów"
+        "C": "Podać sygnał 'Baczność' i jechać",
+        "D": "Polegać tylko na czujności operatorów"
       },
       "correct": "A",
       "explanation": "Ir-9 § 19 ust. 3 pkt 1",
@@ -691,19 +691,6 @@
       "section_ref": "§ 10"
     },
     {
-      "uuid": "70768657-8eba-471a-8124-019b93e6cceb",
-      "question": "Kiedy dopuszcza się odrzucanie wagonów z pojazdów trakcyjnych?",
-      "answers": {
-        "A": "Gdy wszystkie zwrotnice są obsługiwane przez wyznaczonych pracowników, odstępy między odprzęgami umożliwiają bezpieczne nastawianie zwrotnic, a ruch odprzęgów jest regulowany",
-        "B": "Zawsze, gdy tor jest wolny",
-        "C": "Wyłącznie w porze nocnej",
-        "D": "Tylko przy braku pojazdu trakcyjnego na stacji"
-      },
-      "correct": "A",
-      "explanation": "Ir-9 § 11 ust. 3",
-      "section_ref": "§ 11"
-    },
-    {
       "uuid": "8bf8977d-4ae2-4a35-8354-5f5e01d9c272",
       "question": "Która z poniższych czynności jest warunkiem koniecznym do prowadzenia odrzucania wagonów?",
       "answers": {
@@ -720,7 +707,7 @@
       "uuid": "3612b123-aba9-4490-a06a-7772f69e203e",
       "question": "Kto wyznacza manewrowych do obsługi hamulców ręcznych i hamowania odprzęgów przy odrzucaniu?",
       "answers": {
-        "A": "Kierownik manewrów, wyznaczając manewrowych do obsługi hamulców ręcznych i hamowania odprzęgów",
+        "A": "Kierownik manewrów",
         "B": "Maszynista samodzielnie i zawsze",
         "C": "Dróżnik przejazdowy",
         "D": "Pracownik utrzymania"
@@ -770,7 +757,7 @@
     },
     {
       "uuid": "7c60dccd-8be3-4dcf-903c-c4fd33d3c95e",
-      "question": "Co należy zrobić, gdy w trakcie manewrów dyżurny rozpoczyna przygotowanie drogi przebiegu dla pociągu przez używany tor?",
+      "question": "Co należy zrobić, gdy w trakcie manewrów pracownik posterunku nastawczego wyda polecenie przerwania manewrów i zwolnienia toru?",
       "answers": {
         "A": "Wstrzymać manewry zgodnie z poleceniem i zwolnić tor",
         "B": "Kontynuować z prędkością nie większą niż 5 km/h",
@@ -778,7 +765,7 @@
         "D": "Nic – pierwszeństwo mają manewry"
       },
       "correct": "A",
-      "explanation": "Ir-9 § 15",
+      "explanation": "Ir-9 § 15 ust. 2",
       "section_ref": "§ 15"
     },
     {
@@ -822,9 +809,9 @@
     },
     {
       "uuid": "4b6d2aca-93ba-43ea-aa2b-10681147d97d",
-      "question": "Co powinna zrobić drużyna manewrowa przed dojechaniem do pojazdów, przy których odbywają się czynności ładunkowe?",
+      "question": "Które z poniższych działań drużyna manewrowa powinna podjąć przed dojechaniem do pojazdów, przy których odbywają się czynności ładunkowe (zgodnie z § 19 ust. 3)?",
       "answers": {
-        "A": "Zażądać przerwania czynności ładunkowych, sprawdzić tor i upewnić się, że wagony są zabezpieczone przed zbieganiem",
+        "A": "Zażądać przerwania czynności ładunkowych, sprawdzić czy na torze nie ma przeszkód i upewnić się, że wagony stojące na torach ładunkowych są odpowiednio zabezpieczone przed zbieganiem",
         "B": "Jechać ostrożnie bez zmian",
         "C": "Użyć syreny i jechać szybciej",
         "D": "Nie reagować – to obowiązki operatorów"
@@ -921,7 +908,7 @@
         "D": "Oprzeć nogi o sprzęg"
       },
       "correct": "A",
-      "explanation": "Ir-9 § 25 ust. 1",
+      "explanation": "Ir-9 § 25 ust. 1, ust. 2 pkt 1",
       "section_ref": "§ 25"
     },
     {
@@ -967,7 +954,7 @@
       "uuid": "f7f9bd26-0f2c-47bc-870e-ce633d212730",
       "question": "Co powinien sprawdzić kierownik manewrów przed rozpoczęciem rozrządzania na górce rozrządowej?",
       "answers": {
-        "A": "Czy skład został przygotowany do rozrządzania, prawidłowość karty rozrządowej, czy pracownicy otrzymali karty rozrządowe, czy pracownicy do hamowania są na miejscu, zapełnienie torów oraz czy pojazdy nie zajmują ukresów torów kierunkowych",
+        "A": "Czy skład został przygotowany do rozrządzania, prawidłowość karty rozrządowej, czy pracownicy otrzymali karty rozrządowe, czy pracownicy wyznaczeni do hamowania są przy wyznaczonych torach i hamulce torowe są przygotowane do pracy, zapełnienie torów oraz czy pojazdy nie zajmują ukresów torów kierunkowych",
         "B": "Wyłącznie stan techniczny hamulców torowych i wagony nieodprzęgnięte",
         "C": "Masę każdego odprzęgu i liczbę wagonów w składzie",
         "D": "Tylko prawidłowość sporządzenia karty rozrządowej i zapełnienie torów kierunkowych"
@@ -990,19 +977,6 @@
       "section_ref": "§ 1"
     },
     {
-      "uuid": "8cbcfb57-f5db-4b5c-ab8c-87b30537741e",
-      "question": "Jaka jest maksymalna liczba wagonów, jaką bez obsadzenia hamulców można odrzucać?",
-      "answers": {
-        "A": "Trzech wagonów",
-        "B": "Pięciu wagonów",
-        "C": "Jednego wagonu",
-        "D": "Liczba nie jest określona"
-      },
-      "correct": "A",
-      "explanation": "Ir-9 § 11 ust. 12",
-      "section_ref": "§ 11"
-    },
-    {
       "uuid": "735deb3a-ee16-4fe3-a629-38b1d68294d7",
       "question": "Na jakie tory nie wolno odrzucać ani staczać wagonów ze względu na ich przeznaczenie?",
       "answers": {
@@ -1012,7 +986,7 @@
         "D": "Na tory główne zasadnicze"
       },
       "correct": "A",
-      "explanation": "Ir-9 § 11 ust. 1 pkt 5 i pkt 7",
+      "explanation": "Ir-9 § 11 ust. 1 pkt 5, Ir-9 § 11 ust. 1 pkt 7",
       "section_ref": "§ 11"
     },
     {
@@ -1280,7 +1254,7 @@
       "question": "W jakich sytuacjach manewrowy powinien dawać sygnały samodzielnie?",
       "answers": {
         "A": "Wyłącznie na wyraźne polecenie kierownika manewrów",
-        "B": "Przed dojechaniem do wagonów, które ma połączyć; gdy wykonuje manewry jednoosobowo; celem wstrzymania manewrów w razie grożącego niebezpieczeństwa",
+        "B": "Przed dojechaniem do wagonów, które ma połączyć; gdy na polecenie kierownika manewrów wykonuje manewry jednoosobowo; celem wstrzymania manewrów w razie grożącego niebezpieczeństwa",
         "C": "Tylko przy przestawianiu zwrotnic i wykolejnic",
         "D": "Jedynie podczas hamowania manewrujących pojazdów kolejowych"
       },
@@ -1306,12 +1280,1143 @@
       "question": "Kiedy maszynista powinien odmówić wykonania polecenia manewrowego?",
       "answers": {
         "A": "Gdy polecenie zostało wydane przez kierownika manewrów ustnie, a nie sygnałem",
-        "B": "Gdy nie był omówiony plan pracy manewrowej albo podany sygnał lub polecenie zostały wydane w sposób niezgodny z przepisami lub budzący wątpliwości",
+        "B": "Gdy nie był omówiony plan pracy manewrowej albo podany sygnał lub polecenia zostały wydane w sposób niezgodny z przepisami lub budzący wątpliwości",
         "C": "Gdy prędkość manewrów przekracza dopuszczalną wartość określoną w regulaminie technicznym",
         "D": "Gdy maszynista nie ma pewności co do prawidłowego nastawienia zwrotnic na drodze przebiegu"
       },
       "correct": "B",
       "explanation": "Ir-9 § 9 ust. 4",
+      "section_ref": "§ 9"
+    },
+    {
+      "uuid": "4c6ce83c-351b-40bf-a699-071ddb4d6539",
+      "question": "Jaką czynność należy wykonać przed rozpoczęciem manewrowania?",
+      "answers": {
+        "A": "Sprawdzić skład manewrowy, odhamować pojazdy i usunąć spod kół płozy hamulcowe",
+        "B": "Wyłączyć hamulce zespolone we wszystkich wagonach",
+        "C": "Ustawić pojazd trakcyjny w środku składu manewrowego",
+        "D": "Zgłosić gotowość do jazdy pracownikowi posterunku nastawczego"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 10 ust. 2",
+      "section_ref": "§ 10"
+    },
+    {
+      "uuid": "b7bebb15-57f4-4a77-bd97-3cea3ba3a402",
+      "question": "Gdzie powinien znajdować się pojazd trakcyjny podczas manewrów na torze głównym o pochyleniu większym niż 2,5‰, jeżeli umieszczenie go od strony spadku jest niemożliwe?",
+      "answers": {
+        "A": "W środku składu manewrowego",
+        "B": "Po stronie przeciwnej do spadku – prędkość jazdy należy zmniejszyć do 15 km/h i włączyć wszystkie wagony do hamulca zespolonego",
+        "C": "Po stronie przeciwnej do spadku – bez ograniczeń prędkości",
+        "D": "Manewry na takim torze są całkowicie zakazane"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 10 ust. 5",
+      "section_ref": "§ 10"
+    },
+    {
+      "uuid": "af95c39b-7bd3-4680-aa02-fe33654450d4",
+      "question": "Ile co najmniej wagonów na każde 10 wagonów składu manewrowego musi mieć czynny hamulec podczas jazdy po torze głównym o spadku ponad 2,5‰ bez pojazdu trakcyjnego od strony spadku?",
+      "answers": {
+        "A": "2 wagony",
+        "B": "3 wagony",
+        "C": "1 wagon",
+        "D": "5 wagonów"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 10 ust. 5",
+      "section_ref": "§ 10"
+    },
+    {
+      "uuid": "c40871d5-4d4e-4683-9dd6-1a8ab520110f",
+      "question": "W jakiej kolejności należy nastawiać zwrotnice i wykolejnice podczas przygotowywania drogi przebiegu dla manewrów?",
+      "answers": {
+        "A": "Od najbliżej położonej, patrząc w kierunku zamierzonej jazdy",
+        "B": "Kolejno, poczynając od najdalej położonej, patrząc w kierunku zamierzonej jazdy",
+        "C": "W kolejności losowej, w zależności od dostępności pracowników",
+        "D": "Jednocześnie – wszystkie naraz"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 10 ust. 9",
+      "section_ref": "§ 10"
+    },
+    {
+      "uuid": "6592db9e-86e6-4626-9959-cb6d863f2445",
+      "question": "Co należy zrobić, gdy pojazd kolejowy wjechał na zwrotnicę z ostrza i nastąpiło rozprucie zwrotnicy?",
+      "answers": {
+        "A": "Natychmiast cofnąć pojazd na poprzedni tor",
+        "B": "Nie wolno cofać pojazdu; należy go usunąć jazdą w kierunku z ostrza iglicy",
+        "C": "Pozostawić pojazd i wezwać drużynę remontową",
+        "D": "Powiadomić kierownika manewrów i czekać na dalsze instrukcje bez ruszania pojazdu"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 10 ust. 10",
+      "section_ref": "§ 10"
+    },
+    {
+      "uuid": "ee09132a-1b79-49e4-bb65-2e05270cfdd8",
+      "question": "Na jakich warunkach dozwolona jest jazda manewrowa do sąsiedniego rejonu manewrowego z wjazdem w sąsiedni okręg nastawczy?",
+      "answers": {
+        "A": "Wystarczy zgoda kierownika manewrów własnego rejonu",
+        "B": "Po porozumieniu się z kierownikiem manewrów sąsiedniego rejonu i uzyskaniu zgody pracownika posterunku nastawczego okręgu docelowego",
+        "C": "Bez żadnych formalności, jeśli tor jest wolny",
+        "D": "Po uzyskaniu zgody wyłącznie od dyżurnego ruchu stacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 10 ust. 13",
+      "section_ref": "§ 10"
+    },
+    {
+      "uuid": "fc4b6963-1288-4400-9e92-445e7b74c9bd",
+      "question": "Co powinien zrobić kierownik manewrów przed daniem sygnału zezwalającego na jazdę manewrową?",
+      "answers": {
+        "A": "Upewnić się osobiście, że pracownik obsługujący zwrotnice dał pozwolenie i nie ma przeszkód do jazdy",
+        "B": "Wyłącznie sprawdzić sygnał na sygnalizatorze nastawni",
+        "C": "Poczekać na pisemne potwierdzenie od maszynisty",
+        "D": "Sprawdzić tylko, czy lokomotywa ma sprawny hamulec"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 10 ust. 20",
+      "section_ref": "§ 10"
+    },
+    {
+      "uuid": "6a0951c1-2026-4561-a119-ec00f94e40df",
+      "question": "W jakich przypadkach jazda manewrowa może odbywać się bez drużyny manewrowej?",
+      "answers": {
+        "A": "Wyłącznie przy jeździe lokomotywy luzem",
+        "B": "Przy jeździe pojazdów pomocniczych, taboru specjalnego, pojazdów trakcyjnych bez taboru lub ciągnących nie więcej niż cztery wagony towarowe albo dwa wagony pasażerskie bez podróżnych",
+        "C": "Przy każdej jeździe manewrowej w nocy",
+        "D": "Wyłącznie po torach bocznicowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 10 ust. 28",
+      "section_ref": "§ 10"
+    },
+    {
+      "uuid": "8c815a68-a006-4976-b01e-f372920b1b55",
+      "question": "Na jakie tory z poniższych nie wolno odrzucać ani staczać wagonów?",
+      "answers": {
+        "A": "Na tory, na których pracują ludzie",
+        "B": "Na tory kierunkowo-odjazdowe",
+        "C": "Na tory główne zasadnicze bez wzniesień",
+        "D": "Na tory stacyjne z wzniesiem 1‰"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 11 ust. 1 pkt 2",
+      "section_ref": "§ 11"
+    },
+    {
+      "uuid": "ad954887-500b-47e2-84e7-fb0479652f32",
+      "question": "Jaki maksymalny spadek toru jest dopuszczalny do odrzucania wagonów na torach bocznych?",
+      "answers": {
+        "A": "Do 3,5‰",
+        "B": "Do 2,5‰",
+        "C": "Do 5‰",
+        "D": "Do 1‰"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 11 ust. 1 pkt 3",
+      "section_ref": "§ 11"
+    },
+    {
+      "uuid": "d943e282-3a63-4453-889a-f73787edea29",
+      "question": "Jaka jest minimalna długość żeberka ochronnego, na które wolno odrzucać lub staczać wagony?",
+      "answers": {
+        "A": "100 m",
+        "B": "50 m",
+        "C": "150 m",
+        "D": "200 m"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 11 ust. 1 pkt 4",
+      "section_ref": "§ 11"
+    },
+    {
+      "uuid": "c08b0188-9ce3-410d-86ce-e66614c6a5ad",
+      "question": "Jakiego rodzaju wagonów nie wolno odrzucać ani staczać?",
+      "answers": {
+        "A": "Wagonów salonowych, doświadczalnych, laboratoryjnych, pomiarowych i wagowych",
+        "B": "Wagonów towarowych próżnych",
+        "C": "Wagonów załadowanych do 40 ton",
+        "D": "Wagonów platform bez ładunku"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 11 ust. 8 pkt 2",
+      "section_ref": "§ 11"
+    },
+    {
+      "uuid": "020d6d75-3cf1-4d92-8de6-7af0ba8f593e",
+      "question": "Czy wolno odrzucać lub staczać nieczynne pojazdy trakcyjne?",
+      "answers": {
+        "A": "Nie, jest to zabronione",
+        "B": "Tak, zawsze",
+        "C": "Tak, ale tylko za zgodą dyżurnego ruchu",
+        "D": "Tak, jeśli ich masa brutto nie przekracza 80 ton"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 11 ust. 8 pkt 3",
+      "section_ref": "§ 11"
+    },
+    {
+      "uuid": "0e992956-c4e9-47b2-b3c7-e3322cb091b6",
+      "question": "Wagony oznaczone znakiem manewrowania nr 13 wolno odrzucać i staczać pod warunkiem, że:",
+      "answers": {
+        "A": "Odprzęg będzie hamowany hamulcem ręcznym, a jeżeli jest to niemożliwe — dwoma płozami hamulcowymi",
+        "B": "Odprzęg będzie hamowany wyłącznie hamulcem pneumatycznym",
+        "C": "Odprzęg liczy nie więcej niż dwa wagony",
+        "D": "Prędkość staczania nie przekracza 10 km/h"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 11 ust. 9",
+      "section_ref": "§ 11"
+    },
+    {
+      "uuid": "0249bdb7-8c75-4887-a550-1d712e23829c",
+      "question": "Jaka jest maksymalna liczba wagonów staczanych bez obsadzenia hamulców na górce rozrządowej bez hamulców torowych i bez możliwości wykładania płozów pod więcej niż jedną oś?",
+      "answers": {
+        "A": "Trzech wagonów ładownych lub próżnych",
+        "B": "Pięciu wagonów",
+        "C": "Dwóch wagonów",
+        "D": "Liczba jest nieograniczona, jeśli tor jest wolny"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 11 ust. 12 pkt 2",
+      "section_ref": "§ 11"
+    },
+    {
+      "uuid": "7e3437a0-99b1-4b01-9319-7a6aa9ed659b",
+      "question": "Z górek rozrządowych wyposażonych w szczękowe hamulce torowe, jakich wagonów zabrania się hamować przy staczaniu?",
+      "answers": {
+        "A": "Wagonów z pomalowanymi lub pokrytymi substancjami smarnymi bocznymi powierzchniami kół oraz ładownych i próżnych cystern po materiałach posiadających właściwości smarne",
+        "B": "Wagonów przekraczających masę 60 ton",
+        "C": "Wszystkich wagonów z ładunkiem niebezpiecznym",
+        "D": "Wagonów, których oś naciskowa przekracza 20 ton"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 11 ust. 13",
+      "section_ref": "§ 11"
+    },
+    {
+      "uuid": "e636e6b3-040d-41e9-b83e-6f169fadf69e",
+      "question": "Jakich wagonów zabrania się staczać z górek rozrządowych wyposażonych w hamulce ETH ze względu na nacisk na oś?",
+      "answers": {
+        "A": "O nacisku na oś mniejszym niż 40 kN (4 tony) i większym niż 210 kN (21 ton)",
+        "B": "O nacisku na oś mniejszym niż 80 kN (8 ton)",
+        "C": "O nacisku na oś przekraczającym 250 kN (25 ton)",
+        "D": "O nacisku na oś mniejszym niż 100 kN (10 ton) i większym niż 250 kN (25 ton)"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 11 ust. 15 pkt 3",
+      "section_ref": "§ 11"
+    },
+    {
+      "uuid": "444583cc-dd1d-4266-bf59-882211f29f16",
+      "question": "Jakie środki służą do hamowania wagonów w czasie manewrów?",
+      "answers": {
+        "A": "Wyłącznie hamulec zespolony pojazdu trakcyjnego",
+        "B": "Płozy hamulcowe, ręczne i postojowe hamulce wagonowe oraz hamulce torowe",
+        "C": "Hamulce pneumatyczne i elektromagnetyczne",
+        "D": "Płozy hamulcowe i hamulec zespolony pojazdu trakcyjnego"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 12 ust. 5",
+      "section_ref": "§ 12"
+    },
+    {
+      "uuid": "c3ce7240-364d-4d43-9067-30ed0c18b951",
+      "question": "Czy pojazd trakcyjny bez czynnego hamulca zespolonego może być użyty do manewrów?",
+      "answers": {
+        "A": "Tak, jeśli posiada sprawny hamulec postojowy",
+        "B": "Tak, jeśli prędkość manewrów nie przekracza 10 km/h",
+        "C": "Nie, bez czynnego hamulca zespolonego pojazd trakcyjny nie może być użyty do manewrów",
+        "D": "Tak, jeśli skład ma mniej niż 5 wagonów"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 12 ust. 1",
+      "section_ref": "§ 12"
+    },
+    {
+      "uuid": "381451ae-971e-4ec3-ade1-ed74757f467e",
+      "question": "Jak należy zakładać dwa płozy hamulcowe podczas hamowania?",
+      "answers": {
+        "A": "Na obu tokach szyn na tej samej wysokości",
+        "B": "Na tym samym toku szynowym, w pewnej odległości od siebie (15–20 m)",
+        "C": "Na różnych tokach szynowych w odległości co najmniej 30 m od siebie",
+        "D": "Bezpośrednio jeden za drugim na tym samym toku szynowym"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 12 ust. 9",
+      "section_ref": "§ 12"
+    },
+    {
+      "uuid": "50bc6efd-f4cf-4376-b56c-03e6a0a0ce65",
+      "question": "Jaki jest wymóg dotyczący pracownika obsługującego hamulce torowe?",
+      "answers": {
+        "A": "Musi posiadać co najmniej 5-letnie doświadczenie na kolei",
+        "B": "Przed zatrudnieniem powinien być zapoznany z instrukcją obsługi hamulców torowych, co powinno zostać potwierdzone autoryzacją",
+        "C": "Musi zdać egzamin praktyczny z obsługi hamulców torowych co roku",
+        "D": "Wymaga specjalnego uprawnienia wydawanego przez zarządcę infrastruktury"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 12 ust. 15",
+      "section_ref": "§ 12"
+    },
+    {
+      "uuid": "8e597753-0c36-4714-8bb5-d01dee3b06e8",
+      "question": "Jak manewrowy powinien być zwrócony podczas pracy z płozami hamulcowymi?",
+      "answers": {
+        "A": "Przodem w kierunku ruchu pojazdu trakcyjnego",
+        "B": "Bokiem, aby widzieć zarówno odprzęgi jak i sygnalizację",
+        "C": "Twarzą w kierunku biegnących odprzęgów, obserwując je i zwracając uwagę na sygnały",
+        "D": "Przodem w stronę kierownika manewrów, oczekując na polecenia"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 12 ust. 11",
+      "section_ref": "§ 12"
+    },
+    {
+      "uuid": "201316ef-f146-4b32-b679-e4c968ac0bd1",
+      "question": "W jakiej kolejności należy wykonywać czynności przy sprzęganiu pojazdów kolejowych?",
+      "answers": {
+        "A": "Najpierw otworzyć kurki powietrzne, potem połączyć sprzęgi hamulcowe, następnie sprzęg cięgłowy",
+        "B": "Założyć sprzęg cięgłowy na hak i skręcić, połączyć sprzęgi hamulcowe i zasilające, połączyć sprzęgi ogrzewcze i elektryczne, otworzyć kurki powietrzne i ogrzewcze",
+        "C": "Otworzyć kurki powietrzne, połączyć sprzęgi ogrzewcze, założyć sprzęg cięgłowy",
+        "D": "Połączyć sprzęgi hamulcowe, założyć sprzęg cięgłowy, otworzyć kurki ogrzewcze"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 13 ust. 5",
+      "section_ref": "§ 13"
+    },
+    {
+      "uuid": "6bba8312-32f3-4cc6-a4d0-6b850dcc9138",
+      "question": "Jak należy trzymać pałąk sprzęgu cięgłowego przy sprzęganiu pojazdów kolejowych?",
+      "answers": {
+        "A": "W górnej części pałąka, palce po wewnętrznej stronie pałąka",
+        "B": "W dolnej części przy nakrętce, palce po zewnętrznej stronie pałąka",
+        "C": "W środkowej części pałąka, oburącz",
+        "D": "Trzymać za hak łączonego pojazdu, nie za pałąk"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 13 ust. 7",
+      "section_ref": "§ 13"
+    },
+    {
+      "uuid": "9ade1add-09da-48cd-8129-6be8d198d32a",
+      "question": "Co powinno się zrobić z nieużytymi do sprzęgania sprzęgami cięgłowymi?",
+      "answers": {
+        "A": "Pozostawić je zwisające swobodnie",
+        "B": "Odłączyć i przekazać rewidentowi taboru",
+        "C": "Założyć na haki",
+        "D": "Złożyć w skrzynce narzędziowej wagonu"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 13 ust. 8",
+      "section_ref": "§ 13"
+    },
+    {
+      "uuid": "f7961c77-3b49-4f59-aaab-f1e108dfdf0a",
+      "question": "Jak należy wchodzić pomiędzy pojazdy kolejowe w celu sprzęgnięcia lub rozprzęgnięcia?",
+      "answers": {
+        "A": "Wchodzić wyprostowanym, trzymając obie ręce przy ciele",
+        "B": "Schylić się poniżej zderzaka, chwytając ręką za uchwyt pod zderzakiem przy czołownicy",
+        "C": "Wchodzić bokiem, opierając się o zderzaki",
+        "D": "Wchodzić od strony toru sąsiedniego dla lepszej widoczności"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 13 ust. 3",
+      "section_ref": "§ 13"
+    },
+    {
+      "uuid": "0be90d2c-a28c-4bb9-b405-c8c2dd188582",
+      "question": "Ile pojazdów kolejowych należy zahamować hamulcem ręcznym lub postojowym, gdy grupa połączonych pojazdów przekracza 10 pojazdów?",
+      "answers": {
+        "A": "Jeden pojazd — wystarczy jeden hamulec dla całej grupy",
+        "B": "Dwa skrajne pojazdy kolejowe",
+        "C": "Wszystkie pojazdy w grupie",
+        "D": "Trzy środkowe pojazdy kolejowe"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 14 ust. 5 pkt 2",
+      "section_ref": "§ 14"
+    },
+    {
+      "uuid": "f76b8691-673c-43fc-8d78-a77523ae5393",
+      "question": "Kiedy pojazdy kolejowe nie będące w ruchu należy zabezpieczać przed zbiegnięciem podczas manewrów?",
+      "answers": {
+        "A": "Zawsze, niezależnie od warunków terenowych i atmosferycznych",
+        "B": "Tylko gdy pochylenie toru przekracza 5‰",
+        "C": "Tylko gdy wieje silny wiatr",
+        "D": "Gdy zachodzi możliwość zbiegnięcia pojazdów, a zwłaszcza gdy pochylenie toru przekracza 2,5‰ lub wieje silny wiatr"
+      },
+      "correct": "D",
+      "explanation": "Ir-9 § 14 ust. 3 pkt 1",
+      "section_ref": "§ 14"
+    },
+    {
+      "uuid": "c02038e1-79b8-468b-a7ad-54df32fade5d",
+      "question": "Co należy zrobić po ukończeniu manewrów w odniesieniu do wykolejnic zdjętych w celu wykonania manewrów?",
+      "answers": {
+        "A": "Wykolejnice można pozostawić zdjęte do następnej zmiany",
+        "B": "Wykolejnice należy nałożyć z powrotem po ukończeniu manewrów",
+        "C": "Wykolejnice usuwa się trwale po zakończeniu prac manewrowych",
+        "D": "O wykolejnicach decyduje dyżurny ruchu po zakończeniu manewrów"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 14 ust. 6",
+      "section_ref": "§ 14"
+    },
+    {
+      "uuid": "e8275a79-ed35-4b23-bb2c-6538f12c8ff4",
+      "question": "Kiedy manewry na torze, po którym ma jechać pociąg, uważa się za przerwane?",
+      "answers": {
+        "A": "Gdy maszynista zatrzymał pojazd i wyłączył silnik",
+        "B": "Gdy manewrujące pojazdy kolejowe usunięto z drogi przebiegu pociągu i zatrzymano w miejscu niezagrażającym bezpieczeństwu jazdy pociągu, odpowiednie sygnały wskazują zakaz manewrowania, a kierownik manewrów zgłosił przerwanie manewrów",
+        "C": "Gdy dyżurny ruchu potwierdził zakończenie manewrów telefonicznie",
+        "D": "Gdy skład manewrowy zjechał na tor boczny"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 15 ust. 2",
+      "section_ref": "§ 15"
+    },
+    {
+      "uuid": "5aca76b3-3ee3-4587-8c84-9579d83b65f3",
+      "question": "Na jakich warunkach dozwolona jest jazda manewrowa za wyprawionym pociągiem na szlaku o pochyleniu mniejszym niż 10‰?",
+      "answers": {
+        "A": "W odległości nie mniejszej niż 200 m od pociągu, przy prędkości do 40 km/h",
+        "B": "W odległości nie mniejszej niż 500 m od pociągu, przy prędkości do 20 km/h, tylko na ściśle określonej drodze i przy dobrej widoczności",
+        "C": "W odległości nie mniejszej niż 300 m od pociągu, przy prędkości do 30 km/h",
+        "D": "W odległości nie mniejszej niż 1000 m od pociągu, przy prędkości do 10 km/h"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 15 ust. 6",
+      "section_ref": "§ 15"
+    },
+    {
+      "uuid": "b917bbb3-90db-47b4-993a-881fd07441c6",
+      "question": "W jakim trybie dyżurny ruchu wydaje zezwolenie na wyjazd manewrującego taboru na szlak jednotorowy poza wskaźnik granicy przetaczania?",
+      "answers": {
+        "A": "Ustnie bezpośrednio maszyniście",
+        "B": "Rozkazem pisemnym 'S' z określeniem numeru toru, kilometra, godziny powrotu i rodzaju sygnału powrotu",
+        "C": "Telegramem przez nastawniczego",
+        "D": "Sygnałem świetlnym z nastawni"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 15 ust. 4",
+      "section_ref": "§ 15"
+    },
+    {
+      "uuid": "dcee79e0-35a4-4702-bdce-3607639adeb9",
+      "question": "Do jakiej granicy powinna odbywać się jazda manewrowa na tor szlakowy?",
+      "answers": {
+        "A": "Do kilometra wskazanego przez kierownika manewrów",
+        "B": "Nie dalej niż do granicy najbliższego posterunku następczego lub najbliższego semafora odstępowego blokady samoczynnej",
+        "C": "Do granicy stacji sąsiedniej, jeśli nie ma pociągów",
+        "D": "Do miejsca wskazanego przez maszynistę składu manewrowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 15 ust. 8",
+      "section_ref": "§ 15"
+    },
+    {
+      "uuid": "df1c2332-ae24-454d-9ac5-bf4892967370",
+      "question": "Kto wydaje polecenie przerwania manewrów i zwolnienia toru w zastępstwie dyżurnego ruchu dysponującego?",
+      "answers": {
+        "A": "Kierownik manewrów",
+        "B": "Maszynista pojazdu trakcyjnego",
+        "C": "Nastawniczy, zwrotniczy lub dróżnik przejazdowy",
+        "D": "Pracownik służby infrastruktury"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 15 ust. 9",
+      "section_ref": "§ 15"
+    },
+    {
+      "uuid": "d4303717-1996-4f4d-ab50-dbeab0911807",
+      "question": "Jak często należy umożliwiać przejazd pojazdom drogowym podczas dłuższego manewrowania przez przejazd kolejowo-drogowy?",
+      "answers": {
+        "A": "Cyklicznie, w odstępach nie dłuższych niż 10 minut",
+        "B": "Co 5 minut",
+        "C": "Co 15 minut",
+        "D": "Tylko na żądanie kierowcy pojazdu drogowego"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 16 ust. 2",
+      "section_ref": "§ 16"
+    },
+    {
+      "uuid": "d82e0ef7-b8bf-4919-8f52-97dd0fa9f9a5",
+      "question": "Jakie wymaganie dotyczy kierowcy silnikowego pojazdu drogowego podczas manewrowania pojazdami kolejowymi?",
+      "answers": {
+        "A": "Kierowca może jednocześnie pełnić obowiązki drużyny manewrowej",
+        "B": "Kierowca nie może równocześnie wykonywać czynności drużyny manewrowej",
+        "C": "Kierowca musi posiadać uprawnienia maszynisty",
+        "D": "Kierowca musi przebywać wewnątrz toru podczas manewrowania"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 18 ust. 5",
+      "section_ref": "§ 18"
+    },
+    {
+      "uuid": "497438af-c025-46a0-8edb-150706d010cf",
+      "question": "Jaka minimalna odległość od zewnętrznej krawędzi szyny obowiązuje przy składowaniu materiałów w pryzmach (węgiel, tłuczeń, kamień, piasek) obok toru ładunkowego?",
+      "answers": {
+        "A": "600 mm",
+        "B": "800 mm",
+        "C": "1000 mm",
+        "D": "1450 mm"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 19 ust. 3 pkt 6 lit. a",
+      "section_ref": "§ 19"
+    },
+    {
+      "uuid": "01a1adad-0e48-42f9-b891-468a6d9b8139",
+      "question": "Przed dojechaniem składu manewrowego do wagonów stojących na torach naprawczych, co należy sprawdzić?",
+      "answers": {
+        "A": "Czy przy pojazdach nie pracują ludzie, czy pojazdy nie są na podnośnikach i czy sprzęt naprawczy jest poza skrajnią budowli",
+        "B": "Wystarczy sprawdzić, czy pracownicy opuścili wagony",
+        "C": "Czy drzwi wagonów są pozamykane",
+        "D": "Czy ładunek w wagonach jest zabezpieczony przed uszkodzeniem"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 19 ust. 5",
+      "section_ref": "§ 19"
+    },
+    {
+      "uuid": "1c0eafa3-0a74-4c89-b11c-034d8de381af",
+      "question": "Jaka jest szerokość powierzchni ślizgowej płoza hamulcowego typu PL2?",
+      "answers": {
+        "A": "68 mm",
+        "B": "73 mm",
+        "C": "78 mm",
+        "D": "83 mm"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 20 ust. 2 pkt 2",
+      "section_ref": "§ 20"
+    },
+    {
+      "uuid": "46c37028-e157-42fe-9e6b-63d94ed40661",
+      "question": "Do jakich typów szyn przeznaczony jest płóz hamulcowy typu PL2?",
+      "answers": {
+        "A": "Do szyn typu S42, S49",
+        "B": "Do szyn typu 8, S60/UIC60/60E1 oraz R65",
+        "C": "Do szyn wszystkich typów",
+        "D": "Do szyn typu S42, S49 oraz R65"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 20 ust. 2 pkt 2",
+      "section_ref": "§ 20"
+    },
+    {
+      "uuid": "3465a616-7b0c-4978-855d-e84ea88ed4c3",
+      "question": "Które z wymienionych wad dyskwalifikuje płóz hamulcowy z użycia?",
+      "answers": {
+        "A": "Nieznaczne zarysowanie powierzchni ślizgowej",
+        "B": "Lekkie zabrudzenie uchwytu",
+        "C": "Korpus złamany lub pęknięty",
+        "D": "Brak oznaczenia skrótem posterunku technicznego"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 20 ust. 7 pkt 5",
+      "section_ref": "§ 20"
+    },
+    {
+      "uuid": "dcc4daa3-9d43-424e-bfe8-914574065d88",
+      "question": "Co należy zrobić z płozami po ukończeniu manewrów?",
+      "answers": {
+        "A": "Zostawić je na torach do następnego użycia",
+        "B": "Usunąć z torów zbędne płozy i umieścić je na wyznaczonym miejscu",
+        "C": "Przekazać je do przeglądu technicznego",
+        "D": "Zdeponować je w pojeździe kolejowym"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 20 ust. 11",
+      "section_ref": "§ 20"
+    },
+    {
+      "uuid": "f25f7d52-c977-4921-a6a1-86e8a909039d",
+      "question": "Z ilu części składa się płóz hamulcowy?",
+      "answers": {
+        "A": "Dwóch: podeszwy ślizgowej i uchwytu",
+        "B": "Czterech: podeszwy, korpusu, nasadki i uchwytu",
+        "C": "Trzech: podeszwy ślizgowej, korpusu i uchwytu",
+        "D": "Pięciu: podeszwy, warg, języka, korpusu i uchwytu"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 20 ust. 1",
+      "section_ref": "§ 20"
+    },
+    {
+      "uuid": "0463ba4c-c6b0-469c-be5a-55134eae64d9",
+      "question": "Co należy zrobić po zestawieniu składu pociągu w odniesieniu do płozów hamulcowych?",
+      "answers": {
+        "A": "Pozostawić płozy pod wszystkimi kołami pojazdu",
+        "B": "Usunąć wszystkie płozy spod pojazdów kolejowych",
+        "C": "Obejść skład z obu stron, sprawdzić i usunąć wszystkie płozy poza płozami pod kołami skrajnymi pojazdów kolejowych",
+        "D": "Sprawdzić płozy i pozostawić je w miejscu składowania"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 20 ust. 10",
+      "section_ref": "§ 20"
+    },
+    {
+      "uuid": "69eb4419-5ee9-4d5e-a35a-23a0b1bf4a2b",
+      "question": "Ile wagonów 2-osiowych mających tylko przewód główny lub hamulec wyłączony z działania może znaleźć się w jednej grupie w składzie pociągu towarowego (na odcinku normalnym)?",
+      "answers": {
+        "A": "Nie więcej niż 4 wagony 2-osiowe",
+        "B": "Nie więcej niż 2 wagony 2-osiowe",
+        "C": "Nie więcej niż 6 wagonów 2-osiowych",
+        "D": "Nie więcej niż 1 wagon 2-osiowy"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 21 ust. 2 pkt 4a",
+      "section_ref": "§ 21"
+    },
+    {
+      "uuid": "dfe36b6c-2431-4b71-94ba-1fab4456cb55",
+      "question": "Jaki warunek musi spełniać pojazd kolejowy na czole pociągu pchanego?",
+      "answers": {
+        "A": "Powinien być wyposażony w czynny hamulec zespolony",
+        "B": "Powinien być wyposażony wyłącznie w hamulec ręczny",
+        "C": "Nie musi mieć żadnego hamulca, bo pociąg jest pchany",
+        "D": "Powinien być wyposażony w hamulec postojowy"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 21 ust. 2 pkt 6",
+      "section_ref": "§ 21"
+    },
+    {
+      "uuid": "38aac3a6-335d-40f6-abd8-dc56d2db28f8",
+      "question": "Gdzie w pociągu powinien znajdować się pojazd trakcyjny?",
+      "answers": {
+        "A": "Na przodzie pociągu, z wyjątkiem pociągów pchanych, cofanych oraz pociągów z wagonem na przodzie z urządzeniami zdalnego sterowania",
+        "B": "Zawsze na przodzie pociągu, bez wyjątków",
+        "C": "Na końcu pociągu",
+        "D": "W środku składu"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 21 ust. 2 pkt 20",
+      "section_ref": "§ 21"
+    },
+    {
+      "uuid": "66ea1ace-9290-4265-83f7-de11d72a36b5",
+      "question": "Ile pojazdów trakcyjnych popychających może być użytych w pociągu?",
+      "answers": {
+        "A": "Jeden pojazd trakcyjny popychający, a w przypadkach wyjątkowych za zgodą Centrum Zarządzania Ruchem Kolejowym PKP PLK S.A. dwa",
+        "B": "Nie więcej niż dwa pojazdy trakcyjne popychające",
+        "C": "Wyłącznie jeden pojazd trakcyjny popychający, bez wyjątków",
+        "D": "Liczba pojazdów popychających jest nieograniczona"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 21 ust. 2 pkt 21",
+      "section_ref": "§ 21"
+    },
+    {
+      "uuid": "af3ba4b1-3c60-4528-9412-058555552899",
+      "question": "Co musi posiadać ostatni wagon w składzie pociągu?",
+      "answers": {
+        "A": "Wsporniki do zakładania sygnału końca pociągu",
+        "B": "Wyłącznie czynny hamulec ręczny",
+        "C": "Kabinę maszynisty",
+        "D": "Specjalny reflektor końcowy"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 21 ust. 2 pkt 9",
+      "section_ref": "§ 21"
+    },
+    {
+      "uuid": "d41a4c25-6e12-4292-9c01-19ca5370f058",
+      "question": "Co musi nastąpić w razie rozerwania pociągu?",
+      "answers": {
+        "A": "Składy rozłączonych pojazdów muszą się samoczynnie zatrzymać w wyniku hamowania z maksymalną siłą",
+        "B": "Maszynista musi natychmiast przyspieszyć, aby ograniczyć rozłączenie",
+        "C": "Dyżurny ruchu podejmuje decyzję o dalszym postępowaniu",
+        "D": "Tylko pojazd trakcyjny musi się zatrzymać"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 21 ust. 2 pkt 7",
+      "section_ref": "§ 21"
+    },
+    {
+      "uuid": "c7f12e36-e7fd-429e-80f5-b980ecbcab34",
+      "question": "W jaki sposób określa się długość pociągu w metrach?",
+      "answers": {
+        "A": "Na podstawie napisów na pojazdach kolejowych włączonych do składu pociągu, przyjmując długość pojazdów kolejowych ze zderzakami",
+        "B": "Na podstawie liczby wagonów pomnożonej przez standardową długość wagonu",
+        "C": "Wyłącznie na podstawie dokumentacji przewozowej dostarczonej przez nadawcę ładunku",
+        "D": "Na podstawie długości peronu, przy którym pociąg jest planowany do zatrzymania"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 22 ust. 4",
+      "section_ref": "§ 22"
+    },
+    {
+      "uuid": "bd6ac3a7-4045-467d-9e96-c245ee4364cd",
+      "question": "Jak definiuje się masę ogólną pociągu kursującego z prędkością do 120 km/h?",
+      "answers": {
+        "A": "Suma mas wszystkich pojazdów kolejowych wraz z czynnym pojazdem z napędem",
+        "B": "Suma mas wszystkich pojazdów kolejowych bez czynnego pojazdu z napędem",
+        "C": "Wyłącznie masa ładunku bez wagonów i lokomotywy",
+        "D": "Masa lokomotywy pomnożona przez liczbę wagonów w składzie"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 22 ust. 5 pkt 1",
+      "section_ref": "§ 22"
+    },
+    {
+      "uuid": "09174904-0f18-4641-b461-f5d949004c9b",
+      "question": "W jakiej sytuacji nie wolno przebywać na międzytorzu?",
+      "answers": {
+        "A": "Gdy po obu torach jadą pociągi, a odległość między osiami torów jest mniejsza niż 5 m",
+        "B": "Gdy odległość między osiami torów jest mniejsza niż 10 m i jedzie jeden pociąg",
+        "C": "Zawsze, gdy na pobliskim torze odbywa się jazda manewrowa",
+        "D": "Wyłącznie w nocy lub podczas złych warunków atmosferycznych"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 24 ust. 6",
+      "section_ref": "§ 24"
+    },
+    {
+      "uuid": "78ca3baa-4de2-4e18-90b0-03c85e81522f",
+      "question": "Co jest bezwzględnie zabronione w odniesieniu do pojazdów kolejowych będących w ruchu?",
+      "answers": {
+        "A": "Trzymanie się uchwytu podczas jazdy na stopniu",
+        "B": "Zeskakiwanie lub wskakiwanie do pojazdów kolejowych będących w ruchu",
+        "C": "Bycie zwróconym twarzą w kierunku jazdy",
+        "D": "Przebywanie w wagonie pasażerskim podczas jazdy"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 25 ust. 3",
+      "section_ref": "§ 25"
+    },
+    {
+      "uuid": "ea06794c-5f52-43c2-acc2-8615466344b5",
+      "question": "Na których stopniach zabrania się przebywania w czasie ruchu pojazdu kolejowego?",
+      "answers": {
+        "A": "Na stopniach z nowym uchwytem przymocowanym do ściany wagonu",
+        "B": "Na stopniach z uchwytem uszkodzonym lub umocowanym wyłącznie do drzwi rozsuwanych",
+        "C": "Na stopniach w środkowej części wagonu towarowego",
+        "D": "Na stopniach pojazdu stojącego na bocznicy"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 25 ust. 2 pkt 2",
+      "section_ref": "§ 25"
+    },
+    {
+      "uuid": "cc18e75a-946e-48b8-b309-dbfb68ad5b7b",
+      "question": "Czym jest karta rozrządowa zgodnie z Ir-9 § 26 Załącznik nr 1?",
+      "answers": {
+        "A": "Dokumentem potwierdzającym gotowość pociągu do odjazdu",
+        "B": "Planem rozrządzania",
+        "C": "Wykazem wagonów uszkodzonych wymagających naprawy",
+        "D": "Formularzem zgłoszenia awarii sieci trakcyjnej"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 1",
+      "section_ref": "§ 26"
+    },
+    {
+      "uuid": "0634b1d6-92d6-45b3-8edc-75e9ec1e2a4a",
+      "question": "Kiedy należy sporządzić kartę rozrządową w stosunku do oględzin technicznych i handlowych składu pociągu?",
+      "answers": {
+        "A": "Przed dokonaniem oględzin technicznych i handlowych",
+        "B": "Jednocześnie z oględzinami technicznymi",
+        "C": "Dopiero po dokonaniu oględzin technicznych i handlowych",
+        "D": "Oględziny nie mają znaczenia dla czasu sporządzenia karty"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 6",
+      "section_ref": "§ 26"
+    },
+    {
+      "uuid": "3acd57af-41ff-4eb0-97e4-18fc0d753b6a",
+      "question": "Kto wskazuje kolejność sporządzania kart rozrządowych podczas przygotowania pociągów do rozrządu?",
+      "answers": {
+        "A": "Dyżurny ruchu stacji",
+        "B": "Kierownik manewrów",
+        "C": "Maszynista pojazdu trakcyjnego",
+        "D": "Pracownik wyznaczony w regulaminie technicznym"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 13",
+      "section_ref": "§ 26"
+    },
+    {
+      "uuid": "96325d83-df4b-40c0-a722-2c75b1ec27d2",
+      "question": "Przy stosowaniu oznaczników w karcie rozrządowej — jak oznacza się 5 wagonów próżnych?",
+      "answers": {
+        "A": "PPPPP",
+        "B": "5P",
+        "C": "05",
+        "D": "50"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 16",
+      "section_ref": "§ 26"
+    },
+    {
+      "uuid": "a1a2ee97-3bb6-4618-9499-7682c7cf867a",
+      "question": "Co oznacza oznacznik 'zp' w karcie rozrządowej?",
+      "answers": {
+        "A": "Wagon, którego nie wolno staczać i odrzucać",
+        "B": "Wagon ze znakiem zabraniającym przejazdu przez górkę rozrządową, który powinien być wyłączony ze składu przed grzbietem górki",
+        "C": "Wagon z czynnym ręcznym hamulcem wagonowym",
+        "D": "Wagon, który musi być hamowany przy użyciu dwóch płozów"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 15",
+      "section_ref": "§ 26"
+    },
+    {
+      "uuid": "3bd08483-4884-4228-8fc6-494bc3ec7c85",
+      "question": "Co oznacza oznacznik 'dł' w karcie rozrządowej?",
+      "answers": {
+        "A": "Wagon, którego nie wolno staczać i odrzucać",
+        "B": "Wagon trzyosiowy ładowny",
+        "C": "Długi wagon na wózkach z rozstawem osi wewnętrznych większym niż 14,0 m, mogący przejeżdżać przez górki rozrządowe po wyłączeniu automatycznego przestawiania zwrotnic i przejściu na ręczne sterowanie",
+        "D": "Wagon wymagający obsadzenia hamulca ręcznego przez dwóch manewrowych"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 15",
+      "section_ref": "§ 26"
+    },
+    {
+      "uuid": "d07f4a0f-9f6e-43da-894d-ec8fe5a5b47c",
+      "question": "Co należy wpisać w kolumnie 3 karty rozrządowej?",
+      "answers": {
+        "A": "Numer toru kierunkowego, na który biegnie odprzęg",
+        "B": "Liczbę wagonów w odprzęgu oraz oznaczniki",
+        "C": "Cyfrę określającą masę brutto całego odprzęgu w tonach z zaokrągleniem do pełnej wielkości",
+        "D": "Numer odprzęgu hamowanego hamulcem wagonowym"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 17 pkt 3",
+      "section_ref": "§ 26"
+    },
+    {
+      "uuid": "4d0925f8-60de-4eb0-b7bd-f48293feec15",
+      "question": "Jaką literą oznacza się koniec rozrządzanego składu w kolumnie 2 karty rozrządowej?",
+      "answers": {
+        "A": "Z",
+        "B": "E",
+        "C": "K",
+        "D": "F"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 17 pkt 6",
+      "section_ref": "§ 26"
+    },
+    {
+      "uuid": "5f950227-1c8f-4625-a10a-b12dec964dc9",
+      "question": "Kto powinien otrzymać kartę rozrządową spośród wymienionych pracowników?",
+      "answers": {
+        "A": "Wyłącznie maszynista pojazdu trakcyjnego",
+        "B": "Kierujący pracą na górce rozrządowej, kierujący pracą manewrowych w torach kierunkowych, pracownicy przy obsłudze hamulców torowych, manewrowi przy hamowaniu wagonów płozami oraz inni pracownicy wymienieni w regulaminie pracy manewrowej",
+        "C": "Tylko dyżurny ruchu i kierownik manewrów",
+        "D": "Wyłącznie pracownicy obsługujący hamulce torowe"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 18",
+      "section_ref": "§ 26"
+    },
+    {
+      "uuid": "346402b0-8be8-41c0-8c6a-a39fed207697",
+      "question": "Czy karta rozrządowa może być stosowana przy rozrządzaniu płaskim?",
+      "answers": {
+        "A": "Nie, karta rozrządowa jest przeznaczona wyłącznie do rozrządu z górki rozrządowej",
+        "B": "Tak, karta rozrządowa może być stosowana także przy rozrządzaniu płaskim",
+        "C": "Tylko na stacjach wyposażonych w łączność radiotelefoniczną",
+        "D": "Tylko w wyjątkowych przypadkach, za zgodą dyżurnego ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 5",
+      "section_ref": "§ 26"
+    },
+    {
+      "uuid": "fe238590-01c6-4fef-93a6-ebb4586c5209",
+      "question": "Na czym polega odrzucanie seryjne w trakcie manewrów?",
+      "answers": {
+        "A": "Po odczepieniu pierwszego odprzęgu lokomotywa manewrowa rozpędza skład, zatrzymuje się, umożliwia odjechanie odczepionego odprzęgu i odczepienie następnego, po czym znowu zwiększa prędkość.",
+        "B": "Lokomotywa manewrowa pcha odprzęgnięte wagony i przy określonej prędkości zatrzymuje się, co powoduje, że wagony toczą się dalej samodzielnie.",
+        "C": "Wagony są staczane z górki rozrządowej z wykorzystaniem siły ciężkości.",
+        "D": "Lokomotywa manewrowa przestawia pojazdy kolejowe na wyznaczony tor i odczepia je po zatrzymaniu."
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 4 ust. 4",
+      "section_ref": "§ 4"
+    },
+    {
+      "uuid": "2008adcd-b5db-461c-a71f-ea523d39c6c8",
+      "question": "Z ilu co najmniej pracowników składa się drużyna manewrowa?",
+      "answers": {
+        "A": "Z kierownika manewrów i co najmniej jednego manewrowego lub innego uprawnionego pracownika",
+        "B": "Z samego kierownika manewrów",
+        "C": "Z kierownika manewrów i co najmniej dwóch manewrowych",
+        "D": "Z maszynisty i co najmniej jednego manewrowego"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 5 ust. 5",
+      "section_ref": "§ 5"
+    },
+    {
+      "uuid": "53b431f8-7dd3-402c-ab7e-8a9a595515ae",
+      "question": "Kto musi zostać powiadomiony o tym, kto jest kierownikiem manewrów?",
+      "answers": {
+        "A": "Tylko dyżurny ruchu",
+        "B": "Maszynista oraz pracownik posterunku nastawczego",
+        "C": "Wyłącznie manewrowi",
+        "D": "Rewident taboru i kierownik pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 5 ust. 7",
+      "section_ref": "§ 5"
+    },
+    {
+      "uuid": "46b518ed-b8f7-49ff-8f08-5e06c4cfec60",
+      "question": "Czy kierownik manewrów może wykonywać czynności manewrowego?",
+      "answers": {
+        "A": "Nie, kierownik manewrów nie może jednocześnie pełnić funkcji manewrowego",
+        "B": "Tak, ale wyłącznie na bocznicy kolejowej",
+        "C": "Tak, stosownie do potrzeb i okoliczności, jeżeli posiada wymagane kwalifikacje",
+        "D": "Tak, ale tylko za zgodą dyżurnego ruchu"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 5 ust. 6",
+      "section_ref": "§ 5"
+    },
+    {
+      "uuid": "0ef6c188-d4de-464c-aa65-c014de7848e1",
+      "question": "Co należy do obowiązków pracownika posterunku nastawczego przy realizacji manewrów w zakresie bezpieczeństwa?",
+      "answers": {
+        "A": "Obserwowanie jazdy manewrowej wyłącznie na polecenie kierownika manewrów",
+        "B": "Wstrzymanie manewrów w razie zauważenia nieprawidłowości lub grożącego niebezpieczeństwa",
+        "C": "Zatrzymanie manewrów wyłącznie gdy zagrożone jest życie ludzkie",
+        "D": "Powiadomienie dyżurnego ruchu i kontynuowanie manewrów do czasu jego przybycia"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 6 ust. 4",
+      "section_ref": "§ 6"
+    },
+    {
+      "uuid": "e5afa0eb-d781-4335-ac0b-cbb4179a2ef7",
+      "question": "Jak powinien postąpić pracownik posterunku nastawczego, gdy otrzyma polecenie, którego wykonanie może stwarzać zagrożenie bezpieczeństwa ruchu?",
+      "answers": {
+        "A": "Wykonać polecenie, ale niezwłocznie zgłosić to dyżurnemu ruchu",
+        "B": "Zawiesić wykonanie polecenia do czasu uzyskania pisemnego potwierdzenia",
+        "C": "Odmówić wykonania polecenia, podając przyczynę",
+        "D": "Wykonać polecenie po uzyskaniu zgody kierownika manewrów"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 6 ust. 3",
+      "section_ref": "§ 6"
+    },
+    {
+      "uuid": "054aa477-51fe-44dd-a18e-536dd6b89cdb",
+      "question": "Co powinien sprawdzić kierownik manewrów przed przystąpieniem do pracy w zakresie pojazdów kolejowych?",
+      "answers": {
+        "A": "Czy pojazdy są zatankowane i gotowe do jazdy",
+        "B": "Zabezpieczenie pojazdów kolejowych przed zbiegnięciem oraz czy nie stoją w granicach ukresów",
+        "C": "Czy pojazdy mają ważne przeglądy techniczne i dokumentację",
+        "D": "Czy maszynista posiada ważne uprawnienia do prowadzenia pojazdów"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 7 ust. 2 pkt 5",
+      "section_ref": "§ 7"
+    },
+    {
+      "uuid": "7f461937-99ae-451c-a354-2f65d04a055a",
+      "question": "Jaką maksymalną długość drążka do rozłączania odprzęgów dopuszcza Ir-9?",
+      "answers": {
+        "A": "150 cm",
+        "B": "180 cm",
+        "C": "200 cm",
+        "D": "230 cm"
+      },
+      "correct": "D",
+      "explanation": "Ir-9 § 7 ust. 3 pkt 9 lit. c",
+      "section_ref": "§ 7"
+    },
+    {
+      "uuid": "4c9caf09-0918-4d87-ae5f-d056fcc070ca",
+      "question": "Ile osi rzeczywistych może maksymalnie liczyć przestawiany jednoosobowo skład wagonów próżnych bez czynnego hamulca zespolonego?",
+      "answers": {
+        "A": "8 osi rzeczywistych",
+        "B": "16 osi rzeczywistych",
+        "C": "28 osi rzeczywistych",
+        "D": "60 osi rzeczywistych"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 7 ust. 4 pkt 2",
+      "section_ref": "§ 7"
+    },
+    {
+      "uuid": "a6c3cf34-68ca-489c-8838-b09b2ae7c8a1",
+      "question": "Jakie ograniczenie obowiązuje, gdy kierownik manewrów wykonuje manewry bez udziału manewrowego?",
+      "answers": {
+        "A": "Prędkość jazdy manewrowej nie może przekraczać 10 km/h",
+        "B": "Nie wolno wówczas odrzucać pojazdów kolejowych",
+        "C": "Manewry mogą być wykonywane tylko w dzień",
+        "D": "Skład nie może przekraczać 30 osi rzeczywistych"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 7 ust. 5",
+      "section_ref": "§ 7"
+    },
+    {
+      "uuid": "24a09606-41ca-43b1-b393-1deb3b2f4358",
+      "question": "Co należy zrobić ze składem pociągu przed odjazdem pojazdu trakcyjnego, aby pozostawić go w stanie ściśniętych sprężyn zderzakowych?",
+      "answers": {
+        "A": "Zahamować hamulce ręczne we wszystkich wagonach składu",
+        "B": "Zahamować hamulec ręczny w ostatnim pojeździe, ścisnąć skład i zahamować hamulcem ręcznym najbliższy pojazd od pojazdu trakcyjnego",
+        "C": "Zabezpieczyć skład klinami hamulcowymi pod kołami ostatniego wagonu",
+        "D": "Uruchomić hamulec zespolony i odłączyć przewód główny"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 7 ust. 6",
+      "section_ref": "§ 7"
+    },
+    {
+      "uuid": "4402c5d4-556f-4aa7-a56d-18a9e3c6e66b",
+      "question": "Co należy zrobić przed rozpoczęciem staczania lub odrzucania w przypadku zaśnieżenia lub oblodzenia główek szyn?",
+      "answers": {
+        "A": "Posypać szyny piaskiem z piaskownicy lokomotywy",
+        "B": "Odczekać do momentu naturalnego roztopienia śniegu lub lodu",
+        "C": "Przejechać po tych torach lokomotywą manewrową, pchając przed nią wagon",
+        "D": "Powiadomić dyżurnego ruchu i wstrzymać manewry"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 7 ust. 7",
+      "section_ref": "§ 7"
+    },
+    {
+      "uuid": "87e7f24b-1944-4d09-afb7-f4c6665d10c6",
+      "question": "Co powinien sprawdzić kierownik manewrów po zakończeniu manewrów?",
+      "answers": {
+        "A": "Czy drużyna manewrowa rozliczyła karty rozrządowe i sprzęt",
+        "B": "Czy pojazdy kolejowe znajdują się w granicach ukresów oraz czy są należycie zabezpieczone przed zbiegnięciem",
+        "C": "Czy stan techniczny lokomotywy manewrowej nie uległ pogorszeniu",
+        "D": "Czy wszystkie zwrotnice zostały przestawione w położenie zasadnicze"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 7 ust. 9",
+      "section_ref": "§ 7"
+    },
+    {
+      "uuid": "973673ea-00b4-4bc0-8e21-9aafc13efc23",
+      "question": "Co manewrowy powinien zrobić po ukończeniu sprawdzania torów i pojazdów kolejowych przed przystąpieniem do pracy?",
+      "answers": {
+        "A": "Natychmiast przystąpić do pracy manewrowej",
+        "B": "Zgłosić informację o stanie torów, pojazdów oraz zauważonych nieprawidłowościach lub przeszkodach kierownikowi manewrów",
+        "C": "Sporządzić pisemny raport i przekazać go dyżurnemu ruchu",
+        "D": "Powiadomić maszynistę o stanie torów"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 8 ust. 1",
+      "section_ref": "§ 8"
+    },
+    {
+      "uuid": "efe3e50f-2df2-4de7-88dc-50d514ca9990",
+      "question": "Co należy do obowiązków manewrowego zgodnie z § 8 ust. 2?",
+      "answers": {
+        "A": "Sporządzanie planu manewrów i nadzorowanie ich wykonania",
+        "B": "Obsługiwanie semafora i dawanie sygnałów drogowym pojazdom",
+        "C": "Rozprzęganie i sprzęganie pojazdów kolejowych, przestawianie zwrotnic i wykolejnic, dawanie sygnałów manewrowych oraz hamowanie manewrujących pojazdów",
+        "D": "Wyłącznie hamowanie manewrujących pojazdów i obsługa hamulca ręcznego"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 8 ust. 2",
+      "section_ref": "§ 8"
+    },
+    {
+      "uuid": "b0ff67ed-6de5-4a90-845c-3c5d8268b79a",
+      "question": "Czym oznaczone są zwrotnice obsługiwane ręcznie przez pracowników drużyn manewrowych?",
+      "answers": {
+        "A": "Jednym żółtym paskiem na czarnej części przeciwwagi",
+        "B": "Dwoma czerwonymi paskami na białej części przeciwwagi",
+        "C": "Trzema niebieskimi paskami na żółtej części przeciwwagi",
+        "D": "Dwoma żółtymi paskami na czerwonej części przeciwwagi"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 8 ust. 3",
+      "section_ref": "§ 8"
+    },
+    {
+      "uuid": "fb774ce7-c423-4ba0-bf50-a9b4c98013e0",
+      "question": "Co manewrowy powinien sprawdzić przed zakończeniem pracy w zakresie pojazdów kolejowych?",
+      "answers": {
+        "A": "Czy pojazdy kolejowe są oznakowane i gotowe do odjazdu",
+        "B": "Czy nie pozostawiono pojazdów kolejowych poza ukresami torów oraz czy pojazdy są zabezpieczone przed zbiegnięciem",
+        "C": "Wyłącznie czy sprzęgi hamulcowe są pozawieszone na wsporniki",
+        "D": "Czy pojazdy mają właściwe numery i dokumenty przewozowe"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 8 ust. 6",
+      "section_ref": "§ 8"
+    },
+    {
+      "uuid": "eed63689-3ca7-4b5b-a1bb-c0001ec2fca8",
+      "question": "Co manewrowy powinien zrobić w razie jakiegokolwiek zagrożenia podczas wykonywania pracy manewrowej?",
+      "answers": {
+        "A": "Samodzielnie podjąć wszelkie działania bez informowania kogokolwiek",
+        "B": "Zatrzymać pracę i czekać na dalsze instrukcje",
+        "C": "Niezwłocznie powiadomić kierownika manewrów i podjąć wszelkie możliwe środki w celu zapobieżenia wypadkowi",
+        "D": "Powiadomić dyżurnego ruchu i opuścić strefę zagrożenia"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 8 ust. 8",
+      "section_ref": "§ 8"
+    },
+    {
+      "uuid": "bb77b6f1-f004-42a5-ae3b-a361a6d5500e",
+      "question": "Czy manewrowy może oddalić się z wyznaczonego miejsca pracy?",
+      "answers": {
+        "A": "Tak, zawsze gdy uzna to za konieczne",
+        "B": "Tak, ale tylko w celu przestawienia zwrotnic na sąsiednim torze",
+        "C": "Nie, manewrowemu nie wolno oddalać się z wyznaczonego miejsca pracy bez wiedzy i zgody kierownika manewrów",
+        "D": "Tak, jeśli nie wykonuje aktualnie żadnych czynności manewrowych"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 8 ust. 7",
+      "section_ref": "§ 8"
+    },
+    {
+      "uuid": "75abbd13-29f3-4a29-b227-3dce5eeea537",
+      "question": "Co maszynista powinien sprawdzić przed rozpoczęciem manewrów?",
+      "answers": {
+        "A": "Stan techniczny hamulców i oświetlenia pojazdu trakcyjnego",
+        "B": "Urządzenia łączności na pojeździe kolejowym",
+        "C": "Prawidłowość dokumentacji przewozowej i rozkładu jazdy",
+        "D": "Liczbę wagonów w składzie i ich stan załadunku"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 9 ust. 2",
+      "section_ref": "§ 9"
+    },
+    {
+      "uuid": "10c1ef6a-209b-4fc7-9542-3037b79c4c43",
+      "question": "Co maszynista powinien uczynić z pojazdem kolejowym z napędem pozostawionym na postoju?",
+      "answers": {
+        "A": "Zostawić silnik na biegu jałowym i naciągnąć hamulec ręczny",
+        "B": "Wyłączyć silnik i zabezpieczyć pojazd przed zbiegnięciem",
+        "C": "Przekazać nadzór nad pojazdem kierownikowi manewrów",
+        "D": "Ustawić sygnał stój i powiadomić dyżurnego ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 9 ust. 5",
+      "section_ref": "§ 9"
+    },
+    {
+      "uuid": "05857ea5-deec-4c89-8e8a-bb9cabb76ea9",
+      "question": "Gdzie maszynista powinien zająć miejsce przy manewrach wagonem silnikowym lub lokomotywą dwukabinową?",
+      "answers": {
+        "A": "W kabinie bliższej kierownikowi manewrów",
+        "B": "W dowolnej kabinie, według własnego uznania",
+        "C": "W czołowej kabinie sterowniczej",
+        "D": "Zawsze w tylnej kabinie, aby obserwować cały skład"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 9 ust. 8",
       "section_ref": "§ 9"
     }
   ]

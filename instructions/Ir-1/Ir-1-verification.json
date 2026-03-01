@@ -1,14 +1,339 @@
 {
   "instruction": "Ir-1",
-  "timestamp": "2026-03-01T12:58:22.297636",
+  "timestamp": "2026-03-01T22:02:40.165431",
   "summary": {
-    "total": 122,
-    "ok": 88,
+    "total": 135,
+    "ok": 135,
     "fix": 0,
-    "delete": 34,
+    "delete": 0,
     "new": 0
   },
   "results": [
+    {
+      "uuid": "d7c78ffa-d339-4182-afa3-c01d9567cd33",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "ae56e020-09f1-4197-8a6a-5daec9247535",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f0d17e6a-22dc-47ac-8a5b-a73df2ef8c99",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b83962c5-dbed-42f8-accd-1bc8ab32584e",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "adaef145-9ae1-40ad-a4e3-508b2639d58a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5c982342-d32d-45d2-9932-12d50c1e96d7",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "6f8905d8-6cd0-4d7b-a0ab-a64434f25232",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "044b2793-4a7a-40c4-aa34-f8e0e1917c23",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b222dbe1-7e38-440a-abca-bf9b34e76e85",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "2c40d55d-1c95-48b3-97b6-3c31229fd94f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "6be209a0-5587-49e0-a03f-7fe2ab63a1d3",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f70b43d2-0e42-4b6e-bf5b-a79145ca43a6",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4c8a127f-7000-4e41-bf88-cce88f75eda7",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "2d98dd30-3ca5-46d5-98f7-1b80fce6da2d",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "94fac49a-c940-4c54-b0ee-9eb1ab78139a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f5a301b1-1736-4579-8b64-06b44d5c0537",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "027bcc74-121d-45c6-9b17-ac8f5391a571",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d99160f5-f1f1-46fb-b22d-2c66a57b3d47",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "0f7899ab-540c-4ad7-8c75-67ece29c0f37",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "7d6703dc-a41a-4f05-a1e7-efb8eac2efb1",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "87b261a8-0a1d-4f51-a893-6a67a11d17ff",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "aa3a50df-3036-44d6-845a-25649185c4ae",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a6b87f5e-f438-4b07-95e5-391117a03b8d",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "329d3373-4c8f-48a8-baf9-8fc2f81d2024",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "11fe00cd-f690-4515-aba1-b191bd0b0c3d",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "52bf8010-f5f2-49c6-b377-2efda2a25a56",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "6cdea651-6982-4ce4-88ef-e004d408fe69",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "835c48f6-1609-4c2f-bffd-9a06dbf94456",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "6649a2f1-f2b7-47b5-b3f2-c2f87dc7768e",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "1d7895e2-2170-4329-8938-797a0d417efb",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "af9d2503-d5d6-46d0-8fac-946a58c4b627",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "47d001a3-6fb0-438c-8f3b-d448cec041a0",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d9c9ecc2-b674-447f-911b-df2d854a15e6",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a72bf759-9111-4edd-89e3-65a0cbbe44d6",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "56e83bbb-17c1-4faa-80c0-1596cf6669ac",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "16fffb1a-c7bd-466a-adc4-4ffdc088cdd7",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "62796780-2b4a-4368-9ef4-c9a1e6a9b807",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "c26376e1-d839-4fed-a10f-d2720bcabe22",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "91fc5dd2-4371-452f-ac2f-d142f9c10e4d",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4b760874-dbf9-4be0-97e5-bbbe98ee8740",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d10c2a3a-3b92-4f45-b6df-0ada6ef02993",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "bc7731a8-01f9-4cc6-99a2-6e7e88afd646",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5caf1466-0ee3-4c5b-801b-e6b56d1949ff",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d5a49169-30ca-4034-9ce4-32cb44f1aab8",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "56c66a31-a633-4abe-abd2-ef6fa647c2d0",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "1c185648-f85a-4d0e-8318-4860f195b9d7",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4c63a248-b837-427f-8bd4-3318c9568d31",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "cb2dc32d-7794-47c6-8f5e-90fcfa1fc1fa",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "125ab5d1-93b7-4232-a282-a5f3faddbb11",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a24fd765-c1d1-4fc5-91e1-de295aba3b33",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a97a0ab1-f43b-416d-8ef5-a79eaf288ee7",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b01ff4ae-12c0-4587-812a-1b04cbbc8d2f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "0592b208-2d7d-47da-a580-eefa8390c0de",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "87fbba67-476c-4bda-9863-eaa9cd91940b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "33ec192c-1054-47eb-8ef8-714b743e5816",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "14128d46-499f-4ab3-b471-0c1611558e4a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a43e63aa-fa7a-48f7-9931-47660070b0c1",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "bab4e6aa-bc9e-41e8-9420-2a60d96cb88c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "6fa4b7d2-373d-4a44-be67-35d1ec54a9d8",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "431f4a1c-351a-49b6-bcca-640cd7d890ef",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "8bd5e70d-4680-48d7-83e0-e0d7324610b1",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a5df57f4-b5fe-4459-85c0-bb09ffb0f331",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "c1f00d58-8875-4653-8dfa-ad508ba21eb1",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f64d9d00-48ed-4338-ac17-9f62f9d6b252",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "2e89a05a-5de3-4369-b809-489be277705a",
+      "status": "OK",
+      "problems": []
+    },
     {
       "uuid": "296b6af4-8046-4f25-9ad6-997c0bdec3bc",
       "status": "OK",
@@ -30,35 +355,29 @@
       "problems": []
     },
     {
+      "uuid": "46ea224e-14bc-4b85-9905-e3a63af20561",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "70d3840f-d513-4259-bbdb-5711913cc14a",
+      "status": "OK",
+      "problems": []
+    },
+    {
       "uuid": "e42c5bf9-fb55-4555-91c6-061e2df9d46b",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "640e72cc-03a7-45ae-aafe-d6bc91af9d21",
-      "status": "DELETE",
-      "problems": [
-        "Pytanie błędnie klasyfikuje posterunek bocznicowy jako 'posterunek pomocniczy' — zgodnie z § 3 ust. 2 posterunek bocznicowy jest posterunkiem następczym, a nie pomocniczym. Posterunek pomocniczy to odrębna kategoria opisana w ust. 12.",
-        "Odpowiedź A ('Na bocznicy kolejowej') jest nieprawidłowa — zgodnie z § 3 ust. 10 posterunek bocznicowy jest urządzony na szlaku przy odgałęzieniu bocznicy, a nie na samej bocznicy.",
-        "Żadna z oferowanych odpowiedzi nie jest poprawna w kontekście rzeczywistej definicji posterunku bocznicowego. Pytanie opiera się na błędnej przesłance i nie nadaje się do poprawki."
-      ]
+      "uuid": "2c3e6503-e732-475e-8dc1-97ddd73484f2",
+      "status": "OK",
+      "problems": []
     },
     {
-      "uuid": "f09b3a2a-090f-4183-a6e6-eea65068c587",
-      "status": "DELETE",
-      "problems": [
-        "Pytanie jest zbyt ogólne i wprowadzające w błąd — nie precyzuje, że dotyczy przystanku na szlaku jednotorowym bez urządzeń blokady liniowej. Bez tego kontekstu pytanie jest niemożliwe do jednoznacznej oceny.",
-        "Odpowiedź D ('Nic szczególnego – jest to dozwolone') jest myląca — § 3 ust. 14 stanowi, że zmiana kierunku jazdy musi być przewidziana w wewnętrznym rozkładzie jazdy, a szczegółowe zasady określają regulaminy techniczne posterunków przylegających. Nie jest to 'nic szczególnego'.",
-        "Pytanie uuid 2b379f76-8c9d-4e94-b47a-2d2285dca1eb pokrywa ten sam ustęp (§ 3 ust. 14) w sposób znacznie bardziej precyzyjny i poprawny — niniejsze pytanie jest jego wadliwym duplikatem."
-      ]
-    },
-    {
-      "uuid": "4500587b-fb94-4eca-9dc8-a2941c9d7742",
-      "status": "DELETE",
-      "problems": [
-        "Pytanie opiera się na błędnej przesłance — § 3 ust. 5 nie zawiera żadnej informacji o tym, że posterunek zapowiadawczy wraz z sąsiednią bocznicą tworzą stację. Stacja jest zdefiniowana jako posterunek zapowiadawczy posiadający co najmniej jeden tor główny dodatkowy.",
-        "Żadna z podanych odpowiedzi nie wynika z treści § 3 ust. 5. Pytanie jest skonstruowane nieprawidłowo i nie ma oparcia w cytowanym źródle."
-      ]
+      "uuid": "e8692483-786e-43ce-93ea-78e2d52ef780",
+      "status": "OK",
+      "problems": []
     },
     {
       "uuid": "2b379f76-8c9d-4e94-b47a-2d2285dca1eb",
@@ -67,6 +386,21 @@
     },
     {
       "uuid": "9c583e7f-8716-458f-b1bf-2c6a3c3a9a24",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "86a22a81-4784-4c25-a622-731440206e83",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "43c149fb-8ee7-40ec-b2e2-769c7a2c283f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f1d2c0ea-05a0-4626-b611-519e858e0737",
       "status": "OK",
       "problems": []
     },
@@ -81,21 +415,152 @@
       "problems": []
     },
     {
-      "uuid": "429e8de1-61d7-4949-8cf0-27408630eb51",
-      "status": "DELETE",
-      "problems": [
-        "Treść § 5 ust. 3 nie zawiera żadnej informacji o granicy torów specjalnego przeznaczenia wyznaczonej przez kozioł oporowy. Pytanie i odpowiedź nie mają oparcia w tekście paragrafu § 5. Wyjaśnienie powołuje się na ust. 3, który nie zawiera takich informacji."
-      ]
+      "uuid": "fae8b084-f928-4c18-90a6-4643638bdd9f",
+      "status": "OK",
+      "problems": []
     },
     {
-      "uuid": "3400dec4-936e-4d07-bc52-140fd9aa02d9",
-      "status": "DELETE",
-      "problems": [
-        "Wyjaśnienie powołuje się na 'Ir-1 § 5 ust. 11', który nie istnieje — § 5 kończy się na ust. 10. Treść tego pytania nie ma oparcia w tekście § 5. Pytanie powinno zostać usunięte lub przypisane do właściwego paragrafu."
-      ]
+      "uuid": "81ef35cf-85d4-458d-a4b7-5e0aa64ba4f7",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "95277899-5c3a-493a-ad00-f24c4eec52c3",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "bee52553-2332-4e5b-84d9-6e9533bc9984",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "64f59ec5-5f83-4957-9a2e-4be694da46fa",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "66000b6d-bb9b-42ec-b8c3-4dc99ff5a520",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "ea3bc5be-e9e4-4fde-aa93-fec89261170b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4b9a31e6-3cea-4680-ba15-b4af8ae64cc9",
+      "status": "OK",
+      "problems": []
     },
     {
       "uuid": "123052cc-67d9-4001-8c89-3e2edadb3671",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a256820a-ed5f-49f2-904a-7b71d5802e9a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "34e55423-a637-48c1-917e-ff0430372b97",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "53288eea-434c-4114-b351-7f1821084354",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "940e53b9-0f00-4c62-bdbf-80c19457f1e3",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "fec49c60-3509-40a1-b281-812c49310a1a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "6c44d2e3-e151-4915-9d53-b3199d0f3afc",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "fa004092-0525-4848-9fbf-fa534fac7b7d",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "ab54c3b4-b4e4-4ad7-95c8-d366f03ee9a0",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "2a3d99ec-648c-42c3-8a43-b34513c7057b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d81819a9-186c-444c-9c1c-ce2f83666c5f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "89216671-9e44-4164-8d2c-d41cc328e0fb",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "cf6a1c45-2c83-4ba6-874f-8b85e63c93df",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f992c5d3-6989-49e3-a82e-5278e0c0bee5",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "1648831d-0720-4e93-865f-8152c06c0a2c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "204d2568-d3bf-484d-b34d-57a8845ecc36",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "73de73ca-bbea-49cc-b4d5-764135dd0094",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "1e1b7fd6-7493-48cc-ae66-3f534340c56f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "033e053f-6478-43b0-8e20-9d67c7dbc127",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d83ab80c-1d23-4820-863d-c38e7dfd305c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "c5154d1a-1f36-4fe4-8b95-085f78993e43",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "37e2ed9c-785f-412f-93a6-740e85c029aa",
       "status": "OK",
       "problems": []
     },
@@ -106,6 +571,51 @@
     },
     {
       "uuid": "d9b2118f-e4a2-42f3-913a-1a75c60a165d",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "89d79d16-e4df-4796-b4be-7cc670e4c1c1",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "88d93b24-84e2-4a23-8b49-8d2df20d2627",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "14ecd762-a0f5-4bce-8486-3699f32890ce",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a6f3d311-b055-4a15-b5a0-41b6b8bb852b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "bad58539-50b9-4fdd-bf09-daff1a5b55b6",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4b38f474-03b9-461b-ab31-5727212ec7c2",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e6b72b4b-62d2-4157-9ab6-43cc4cfdcbb9",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "3737ba66-4a00-4fc5-a61d-13ef6a2f3ff5",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "ea5fb0a1-c1c4-474b-9fd2-c35711e2ffc5",
       "status": "OK",
       "problems": []
     },
@@ -145,666 +655,34 @@
       "problems": []
     },
     {
-      "uuid": "47ce64c8-bd4e-440b-9984-6df276f679ff",
+      "uuid": "7af766de-08ca-46e6-b78f-8941451c15c9",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "64484c20-10e2-4560-8796-7e94b7557365",
-      "status": "DELETE",
-      "problems": [
-        "§9 nie zawiera żadnych informacji o sygnałach końca pociągu. Pytanie nie ma podstawy w treści §9.",
-        "Explanation wskazuje '§9 ust. 6', który nie istnieje — §9 ma tylko 5 ustępów."
-      ]
-    },
-    {
-      "uuid": "96a2967f-b3a9-412f-95c6-b1514e163883",
-      "status": "DELETE",
-      "problems": [
-        "§9 nie zawiera żadnych informacji o awaryjnym trybie prowadzenia ruchu ani o posterunkach ZPR. Pytanie nie ma podstawy w treści §9.",
-        "Explanation wskazuje '§9 ust. 3', który dotyczy pociągów utrzymaniowo-naprawczych i roboczych PKP PLK, a nie trybu awaryjnego ZPR."
-      ]
-    },
-    {
-      "uuid": "09e38101-50c1-458b-959c-da7753d683d1",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "2ee2e008-c5ad-4673-ae3b-4f5c27866fe6",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "8fd8a687-0ff6-4e78-8cfd-e3d16c4e4e1f",
-      "status": "DELETE",
-      "problems": [
-        "Treść pytania dotyczy sygnału końca pociągu, który nie jest opisany w §9. Paragraf §9 kończy się na ust. 5 i dotyczy wyłącznie definicji oraz podziału pociągów. Wyjaśnienie odwołuje się do nieistniejącego §9 ust. 6."
-      ]
-    },
-    {
-      "uuid": "d7c78ffa-d339-4182-afa3-c01d9567cd33",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "ce8f0ac5-09d3-4a37-a809-70cd93d77258",
-      "status": "DELETE",
-      "problems": [
-        "Paragraf §10 nie zawiera pojęcia 'Indywidualny Rozkład Jazdy (IRJ)'. Cały §10 dotyczy wyłącznie 'wewnętrznego rozkładu jazdy pociągów'. Pytanie odwołuje się do bytu (IRJ), który nie istnieje w treści §10 — pytanie nie ma podstawy źródłowej w podanym paragrafie.",
-        "Explanation wskazuje 'Ir-1 § 10 ust. 2', ale ust. 2 mówi o dodatkach do rozkładu, nie o 'Indywidualnym Rozkładzie Jazdy'."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "f0d17e6a-22dc-47ac-8a5b-a73df2ef8c99",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "adaef145-9ae1-40ad-a4e3-508b2639d58a",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "68fd548e-1ada-4550-acad-2d324e6d5758",
-      "status": "DELETE",
-      "problems": [
-        "Treść pytania (prędkość przy przejeżdżaniu przez rozjazdy po sygnale D1) nie wynika z §11 Ir-1 — paragraf ten nie zawiera żadnych zapisów o prędkościach ani sygnale D1.",
-        "Explanation wskazuje 'Ie-1 § 11 ust. 4' — Ie-1 to inna instrukcja, niedozwolona jako źródło w tym kontekście.",
-        "Pytanie jest przypisane do sekcji §11, ale nie ma podstawy w jej treści."
-      ]
-    },
-    {
-      "uuid": "23c8182d-5d20-4f40-b767-6c4589ff61bf",
-      "status": "DELETE",
-      "problems": [
-        "Treść pytania (prędkość przy awarii srk/sygnał D1 w okręgu nastawczym) nie wynika z §11 Ir-1 — paragraf ten nie zawiera żadnych zapisów o prędkościach, awariach srk ani okręgach nastawczych.",
-        "Explanation wskazuje 'Ie-1 § 11 ust. 4' — Ie-1 to inna instrukcja, niedozwolona jako źródło.",
-        "Pytanie jest przypisane do sekcji §11, ale nie ma podstawy w jej treści."
-      ]
-    },
-    {
-      "uuid": "5c982342-d32d-45d2-9932-12d50c1e96d7",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "279327b1-5c15-467a-ba6d-79149a36249e",
-      "status": "DELETE",
-      "problems": [
-        "§12 ust. 6 nie podaje żadnej konkretnej wartości prędkości w km/h dla jazdy manewrowej za wyprawionym pociągiem. Tekst mówi jedynie o konieczności regulowania prędkości tak, aby nie nastąpiło najechanie na tył pociągu, oraz o minimalnej odległości 500 m przy pochyleniu <10‰. Wartość 20 km/h nie ma podstawy w tej sekcji — pytanie opiera się na nieistniejących danych."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "6f8905d8-6cd0-4d7b-a0ab-a64434f25232",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "b222dbe1-7e38-440a-abca-bf9b34e76e85",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "2c40d55d-1c95-48b3-97b6-3c31229fd94f",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "6be209a0-5587-49e0-a03f-7fe2ab63a1d3",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "f70b43d2-0e42-4b6e-bf5b-a79145ca43a6",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "282f61b1-d7f5-4d85-ac2f-c3f80c8419f2",
-      "status": "DELETE",
-      "problems": [
-        "§12 ust. 6 nie podaje żadnej konkretnej wartości prędkości maksymalnej (np. 20 km/h). Sekcja mówi jedynie, że prędkość jazdy manewrowej za wyprawionym pociągiem należy tak regulować, aby nie nastąpiło najechanie na tył pociągu. Pytanie i odpowiedź A (20 km/h) nie mają podstaw w treści §12.",
-        "Odpowiedzi B (100 km/h), C (10 km/h), D (5 km/h) są równie nieuzasadnione. Pytanie jest oparte na zmyślonej liczbie niepochodzące z instrukcji."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "217399d0-acbe-4af3-b1a1-698de4dfa8b8",
-      "status": "DELETE",
-      "problems": [
-        "§12 ust. 6 nie zawiera żadnych postanowień dotyczących jazdy manewrowej za pociągiem przy pochyleniu większym niż 10‰. Sekcja reguluje wyłącznie przypadek pochylenia mniejszego niż 10‰ (odległość 500 m). Pytanie dotyczy sytuacji nieregulowanej w §12.",
-        "Odpowiedź A ('jeszcze bardziej ograniczona według poleceń dyżurnego') jest zmyślona i nie ma oparcia w treści §12. Pytanie wytwarza treść, której w sekcji nie ma."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "2d98dd30-3ca5-46d5-98f7-1b80fce6da2d",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "94fac49a-c940-4c54-b0ee-9eb1ab78139a",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "f5a301b1-1736-4579-8b64-06b44d5c0537",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "027bcc74-121d-45c6-9b17-ac8f5391a571",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "d99160f5-f1f1-46fb-b22d-2c66a57b3d47",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "d3757a89-7570-414f-bd98-c3488cb7ca5d",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "0f7899ab-540c-4ad7-8c75-67ece29c0f37",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "f30e6878-fe1a-460c-86a1-643f78d09d1d",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania f5a301b1 — oba pytają o maksymalną prędkość podczas manewrów przez przejazd bez rogatek (odpowiedź: 20 km/h per §13 ust. 1 pkt 1). Różnica jedynie stylistyczna w sformułowaniu pytania."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "46d89771-08b2-43e1-8657-496a3e09f768",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania 027bcc74 — oba pytają o częstotliwość umożliwiania ruchu drogowego przy dłuższym manewrowaniu przez przejazd (odpowiedź: co 10 minut per §13 ust. 2). Różnica jedynie w kolejności dystraktorów."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "fae2ca3c-f6b9-4a48-ba5d-e315362c0cac",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "a6b87f5e-f438-4b07-95e5-391117a03b8d",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "9f75b576-e51a-4ff2-84d4-508488a4dd6e",
-      "status": "DELETE",
-      "problems": [
-        "Pytanie o wskaźnik W5 nie ma żadnego związku z treścią § 14 Ir-1. Sekcja §14 nie omawia wskaźników drogowych ani ich znaczenia.",
-        "Explanation w formacie 'Ie-1 / Ir-1 § 14 ust. 3 pkt 4' jest niedozwolony — zawiera odwołanie do Ie-1 oraz format 'Ie-1 / Ir-1'.",
-        "Wskaźnik W5 (granica przetaczania) jest tematem instrukcji sygnalizacji Ie-1, nie §14 Ir-1."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "96a83e72-dcc3-441d-aede-e6cbb7b9f8e1",
-      "status": "DELETE",
-      "problems": [
-        "Pytanie o sygnał ręczny do wstrzymania manewrów nie ma żadnego związku z treścią § 14 Ir-1. Sekcja §14 nie omawia sygnałów manewrowych ani sygnałów ręcznych.",
-        "Explanation w formacie 'Ie-1 / Ir-1 § 14 ust. 3 pkt 4' jest niedozwolony — zawiera odwołanie do Ie-1 oraz format 'Ie-1 / Ir-1'.",
-        "Sygnały manewrowe (Rm, D) są tematem instrukcji sygnalizacji Ie-1, nie §14 Ir-1."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "49833281-e579-468e-9e41-8f340c5bb839",
-      "status": "DELETE",
-      "problems": [
-        "Pytanie i odpowiedź nie mają podstawy w treści §15. Paragraf 15 nie zawiera żadnej wzmianki o 'konwojencie towarowym' ani o 'załodze pociągu towarowego'.",
-        "Wskazany przepis §15 ust. 5 dotyczy obsady konduktorskiej pociągów pasażerskich, a nie składu załogi pociągu towarowego.",
-        "Pytanie jest oparte na treści nieznajdującej się w §15 Ir-1 — należy je usunąć."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "0ccdc7d7-e13c-4857-8e90-cdb55c3c2609",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "43740777-6201-45f3-86d1-745d8b40799b",
-      "status": "DELETE",
-      "problems": [
-        "§17 dotyczy hamowania pociągów i postępowania przy uszkodzeniu hamulca – nie zawiera definicji 'drogi przelotu od sygnału zapowiedzianego do zatrzymania'. Pojęcie to nie istnieje w tej sekcji ani powołany ust. 2 nie odnosi się do tej treści. Pytanie jest błędnie przypisane do §17 i oparte na nieistniejącym zapisie."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "15f493de-20c9-4504-b417-4a7c71a4b401",
-      "status": "DELETE",
-      "problems": [
-        "§17 nie zawiera ust. 7 ani żadnej treści dotyczącej blokady stacyjnej, blokady liniowej ani podstawy prowadzenia ruchu przy braku blokady stacyjnej. Pytanie jest oparte na nieistniejącym zapisie w tej sekcji."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "016cd2df-64b3-4b38-a1b8-33c4321d8c6b",
-      "status": "DELETE",
-      "problems": [
-        "Pytanie używa zwrotu 'jazda na telefoniczne żądanie', który nie występuje w §23 Ir-1 — jest to termin potoczny, nieużywany w instrukcji.",
-        "§23 ust. 1 opisuje jedynie przypadki stosowania zapowiadania telefonicznego (brak blokady lub awaria), nie wymienia żadnej 'wymiany informacji o godzinie i numerze pociągu'.",
-        "Odpowiedź A 'Godzina i numer pociągu' nie wynika z §23 ust. 1 — wzory telefonogramów zawarte są w §24–§26, a ust. 1 §23 to tylko ogólna zasada stosowania zapowiadania.",
-        "Pytanie jest merytorycznie mylące i nie ma jednoznacznego oparcia w przywołanym ustępie."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "5f4485aa-6642-4c4a-b922-b6c2a9962d8f",
-      "status": "DELETE",
-      "problems": [
-        "§28 ust. 18 Ir-1 dotyczy zasad prowadzenia ruchu podczas obowiązywania telefonicznego zapowiadania pociągów — nie zawiera żadnych postanowień o prędkości 40 km/h przy jeździe po torze lewym.",
-        "§28 Ir-1 w ogóle nie zawiera postanowień o ograniczeniach prędkości.",
-        "Odpowiedź B (40 km/h) nie ma oparcia w przywołanym §28 ust. 18."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "9f491295-ebee-423d-b99e-ba91a5f9475e",
-      "status": "DELETE",
-      "problems": [
-        "§28 ust. 23 Ir-1 mówi o stosowaniu środków pomocniczych według §50 podczas telefonicznego zapowiadania — nie zawiera żadnych postanowień o prędkości 40 km/h przy jeździe w kierunku przeciwnym.",
-        "§28 Ir-1 w ogóle nie zawiera postanowień o ograniczeniach prędkości.",
-        "Odpowiedź C (40 km/h) nie ma oparcia w przywołanym §28 ust. 23."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "0ec85025-9c7a-423d-8aa7-423a15da1d8d",
-      "status": "DELETE",
-      "problems": [
-        "§28 ust. 22 Ir-1 mówi o informowaniu nastawniczego o przybyciu pociągu do sąsiedniego posterunku ruchu — nie zawiera żadnych postanowień o prędkości 40 km/h.",
-        "§28 Ir-1 dotyczy blokady jednoodstępowej (półsamoczynnej), nie wieloodstępowej (samoczynnej) — ta ostatnia opisana jest w §29.",
-        "§28 Ir-1 w ogóle nie zawiera postanowień o ograniczeniach prędkości."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "62796780-2b4a-4368-9ef4-c9a1e6a9b807",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "91fc5dd2-4371-452f-ac2f-d142f9c10e4d",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "4b760874-dbf9-4be0-97e5-bbbe98ee8740",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "dd950569-8125-42da-9ed3-6e60774e9166",
-      "status": "DELETE",
-      "problems": [
-        "Explanation wskazuje § 28 ust. 22, ale ust. 22 mówi o tym, że dyżurny ruchu informuje nastawniczego nastawni wykonawczej o przybyciu pociągu podczas telefonicznego zapowiadania – nie mówi o warunkach wyprawienia pociągu po torze przeciwnym. Odpowiedź A ('na telefoniczne pozwolenie i sygnał zezwalający') nie wynika wprost z żadnego ustępu §28 w tej kwestii. Ust. 16 pkt 1c mówi jedynie, że stosuje się zapowiadanie telefoniczne bez osobnego telefonogramu. Pytanie jest błędnie skonstruowane i ma błędne odesłanie."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "77f98f99-bf2d-4ad7-b099-0475c0b04b66",
-      "status": "DELETE",
-      "problems": [
-        "Explanation wskazuje § 28 ust. 22-23, ale ust. 22 dotyczy informowania nastawniczego o przybyciu pociągu, a ust. 23 dotyczy stosowania środków pomocniczych. Żaden z tych ustępów nie mówi o warunkach wyprawienia pociągu po torze lewym z blokadą dwukierunkową. Ust. 16 pkt 1c mówi, że w takim przypadku stosuje się zapowiadanie telefoniczne bez osobnego telefonogramu, co nie odpowiada odpowiedzi A. Pytanie i explanation są niezgodne z treścią instrukcji."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "56c66a31-a633-4abe-abd2-ef6fa647c2d0",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "125ab5d1-93b7-4232-a282-a5f3faddbb11",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "a24fd765-c1d1-4fc5-91e1-de295aba3b33",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "bab4e6aa-bc9e-41e8-9420-2a60d96cb88c",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "33cc47d3-bbcc-4b66-818b-22084e771db1",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "b01ff4ae-12c0-4587-812a-1b04cbbc8d2f",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "0592b208-2d7d-47da-a580-eefa8390c0de",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "8c96273e-8195-4085-96ba-c1a2c24966ff",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "87fbba67-476c-4bda-9863-eaa9cd91940b",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "33ec192c-1054-47eb-8ef8-714b743e5816",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "14128d46-499f-4ab3-b471-0c1611558e4a",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "a43e63aa-fa7a-48f7-9931-47660070b0c1",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "8bbcd3f5-61f8-44af-a511-0ce5bec62410",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "6fa4b7d2-373d-4a44-be67-35d1ec54a9d8",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "431f4a1c-351a-49b6-bcca-640cd7d890ef",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "8bd5e70d-4680-48d7-83e0-e0d7324610b1",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "66070ae6-fdd2-4740-8997-2b574432780e",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "2b56be71-e895-483e-a61f-cfc362b5189c",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "ac3ee5c1-d943-4834-bad2-a542b46f6aac",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "bee52553-2332-4e5b-84d9-6e9533bc9984",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "4b8a6634-48f2-47a9-891f-bbd3b58a350f",
-      "status": "DELETE",
-      "problems": [
-        "§57 ust. 45 dotyczy pociągów ratunkowych, roboczych i pługów odśnieżnych na odcinku z zamkniętymi i wstrzymanymi posterunkami (Przypadek D) – nie zawiera pojęcia 'toru zamkniętego na części szlaku do 1 km'. Pytanie nie ma podstawy w podanym ustępie. Wartość 20 km/h z ust. 45 dotyczy przejazdów obsługiwanych, nie 'części szlaku do 1 km'."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "ea3bc5be-e9e4-4fde-aa93-fec89261170b",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "e6f360fa-ba13-4b28-a98d-7e268d43edb7",
-      "status": "DELETE",
-      "problems": [
-        "§57 ust. 10 mówi: 'Do czasu wprowadzenia zmian w wewnętrznym rozkładzie jazdy pociągów drużyny pociągowe należy zawiadamiać rozkazem pisemnym o zamknięciu posterunku ruchu.' – nie zawiera żadnej prędkości ani wzmianki o 'torze zamkniętym na części szlaku bez blokady liniowej'. Pytanie i odpowiedź (20 km/h) nie mają oparcia w podanym ustępie."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "7e597cdb-3cee-498d-b0be-218d9d10ff6d",
-      "status": "DELETE",
-      "problems": [
-        "§58 ust. 1 definiuje ogólnie rozkazy pisemne – nie zawiera żadnej wzmianki o rozkazie oznaczonym literą 'S' ani o 'jednorazowych odstępstwach od sygnałów'. Pytanie nie ma podstawy w podanym ustępie. Klasyfikacja rozkazów pisemnych według liter (S, O, N itp.) pochodzi z Księgi Formularzy (Dodatek 4 do Ir-1), a nie z §58 ust. 1."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "53288eea-434c-4114-b351-7f1821084354",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "940e53b9-0f00-4c62-bdbf-80c19457f1e3",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "64ebdd50-173a-475a-9de4-af7e989d5d6e",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "fec49c60-3509-40a1-b281-812c49310a1a",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "6c44d2e3-e151-4915-9d53-b3199d0f3afc",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "b4a75338-57a8-42d3-b9f4-3219dc7c21f5",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "6980973b-8502-4bfe-8bd7-23997bd4a19b",
-      "status": "DELETE",
-      "problems": [
-        "Pytanie jest merytorycznie tożsame z pytaniem d81819a9 — oba dotyczą prędkości pociągu bez/z wyłączonym ERTMS/ETCS na podstawie § 63 ust. 8, obie odpowiedzi poprawne wskazują 160 km/h. Ponadto sformułowanie 'pociąg z wyłączonym ERTMS/ETCS na odcinku, na którym system jest wymagany' nie wynika z treści § 63 ust. 8 (przepis mówi o pociągu 'niewyposażonym w urządzenia ERTMS/ETCS'). Pytanie należy usunąć jako duplikat i merytorycznie nieprecyzyjne."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "1648831d-0720-4e93-865f-8152c06c0a2c",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "73de73ca-bbea-49cc-b4d5-764135dd0094",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "1e1b7fd6-7493-48cc-ae66-3f534340c56f",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "033e053f-6478-43b0-8e20-9d67c7dbc127",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "4f2f33fa-dd52-4ec7-8e11-17645479901f",
-      "status": "DELETE",
-      "problems": [
-        "Treść pytania dotyczy sygnału Alarm w radiołączności, co § 64 odsyła do Ir-5/Ir-5a — brak podstawy w § 64 ust. 11 (ust. 11 dotyczy jazdy na widoczność po semaforze samoczynnym). Explanation ref błędny.",
-        "Pytanie jest duplikatem uuid f237b351 (identyczna treść merytoryczna)."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "f237b351-dc27-470c-a830-908856d287d4",
-      "status": "DELETE",
-      "problems": [
-        "Treść pytania dotyczy sygnału Alarm w radiołączności — § 64 ust. 5 odsyła do Ir-5/Ir-5a, brak szczegółów o tym kto może nadać alarm radiowy w § 64. Explanation ref ust. 11 jest błędny (ust. 11 dotyczy jazdy na widoczność).",
-        "Pytanie jest duplikatem uuid 4f2f33fa."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "d83ab80c-1d23-4820-863d-c38e7dfd305c",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "1381eff3-b71f-49c3-9d25-14484ee63d8c",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "37e2ed9c-785f-412f-93a6-740e85c029aa",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "88d93b24-84e2-4a23-8b49-8d2df20d2627",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "e6f5148f-57bd-436c-b7c7-970d781c9f41",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "c7b4c341-6159-4b93-b32f-7cc752b6527e",
-      "status": "DELETE",
-      "problems": [
-        "Explanation zawiera niedozwolony zakres ref '§ 70-71'. Ponadto treść o 'maksymalnej długości 1 km po torze zamkniętym' nie jest poparta ani przez § 70 ani § 71 — żaden ustęp nie określa takiego limitu długości."
-      ],
-      "changes": {}
-    },
-    {
-      "uuid": "a6f3d311-b055-4a15-b5a0-41b6b8bb852b",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "bad58539-50b9-4fdd-bf09-daff1a5b55b6",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "4b38f474-03b9-461b-ab31-5727212ec7c2",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "e6b72b4b-62d2-4157-9ab6-43cc4cfdcbb9",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
-    },
-    {
-      "uuid": "a484283d-7750-4aa4-b342-6b34cb016af6",
-      "status": "OK",
-      "problems": [],
-      "changes": {}
     },
     {
       "uuid": "f1fec981-ea6a-4e7b-acb0-d4c023b6bd0d",
       "status": "OK",
-      "problems": [],
-      "changes": {}
+      "problems": []
     },
     {
       "uuid": "1fc326d7-b5ba-40f2-abd4-c8b790eb8405",
       "status": "OK",
-      "problems": [],
-      "changes": {}
+      "problems": []
     },
     {
       "uuid": "0bc5ad1b-9757-4096-8ef7-0d624fe83922",
       "status": "OK",
-      "problems": [],
-      "changes": {}
+      "problems": []
+    },
+    {
+      "uuid": "61b4fcd9-eef1-4314-b3f8-14635213af12",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5dbd22a4-36ad-408f-bed1-b1b047028b5b",
+      "status": "OK",
+      "problems": []
     }
   ]
 }

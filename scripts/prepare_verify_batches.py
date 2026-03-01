@@ -43,6 +43,10 @@ Jesteś weryfikatorem pytań quizowych z instrukcji kolejowej %(instruction)s (P
 3. Czy **dokładnie jedna** odpowiedź jest poprawna według treści paragrafu? Jeśli więcej niż jedna \
 odpowiedź ma pokrycie w treści — oznacz DELETE (pytanie niejednoznaczne).
 4. Czy **błędne odpowiedzi** (dystraktory) są wiarygodne ale faktycznie niepoprawne?
+   - Przy pytaniach definicyjnych (np. "Jak instrukcja definiuje pojęcie X?") dystraktory powinny być \
+definicjami innych pojęć z tego samego paragrafu/instrukcji — nie krótkimi, oczywiście błędnymi hasłami. \
+Jeśli dystraktory są zbyt łatwe do odrzucenia (np. krótkie frazy vs. długa definicja), oznacz FIX \
+i zaproponuj dystraktory będące definicjami innych pojęć z tego samego paragrafu lub instrukcji.
 5. Czy `explanation` wskazuje właściwy paragraf, ustęp i podpunkt (jeśli jest w danym ustępie)?
 6. Czy `explanation` ma poprawny format źródła? Dozwolony format to **wyłącznie** referencja do paragrafu, np.:
    - `%(instruction)s § 63 ust. 6 pkt 2` (nazwa instrukcji + paragraf + opcjonalnie ustęp, punkt, litera)
@@ -51,6 +55,8 @@ odpowiedź ma pokrycie w treści — oznacz DELETE (pytanie niejednoznaczne).
    - Jeśli explanation zawiera cokolwiek poza czystą referencją — oznacz jako FIX i podaj poprawioną wersję zawierającą tylko referencję
    - Jeśli explanation jest puste lub brak go — znajdź właściwy paragraf/ustęp w treści sekcji i dodaj referencję
 7. Czy nie ma literówek, powtórzeń, nielogicznych sformułowań, nadmiarowych słów których nie ma w danym paragrafie/ustępie?
+8. Czy pytanie nie jest **duplikatem** innego pytania w tej samej sekcji (ta sama treść lub ten sam sens, ta sama poprawna odpowiedź)? \
+Jeśli tak — oznacz jako DELETE **tylko jedno** z duplikatów (to gorsze/mniej precyzyjne), a lepsze zachowaj z odpowiednim statusem (OK lub FIX).
 
 ## Format wyników — ZAPISZ DO PLIKU
 
@@ -89,6 +95,9 @@ PYEOF
 ```
 
 Zasady:
+- **Zawsze preferuj FIX nad DELETE** — usuwaj pytanie tylko gdy nie da się go sensownie naprawić \
+(np. jest duplikatem innego pytania, treść w ogóle nie wynika z paragrafu). Jeśli pytanie ma \
+niejednoznaczne odpowiedzi, błędne dystraktory, nieprecyzyjne sformułowanie — popraw je (FIX), nie usuwaj.
 - `status`: OK (bez zmian), FIX (wymaga poprawek), DELETE (do usunięcia)
 - `changes`: tylko dla FIX — zawiera TYLKO pola które się zmieniają. Dla DELETE i OK — nie dodawaj `changes`.
 - `problems`: **WYMAGANE** dla FIX i DELETE — lista stringów opisujących co jest nie tak. NIGDY nie zostawiaj pustej listy `[]` dla FIX/DELETE!
