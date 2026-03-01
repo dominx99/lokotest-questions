@@ -213,7 +213,7 @@ def main() -> None:
     groups = group_by_section(questions)
 
     # Prepare output directory
-    tmp_dir = Path(f"/tmp/verify-{args.name}")
+    tmp_dir = Path(f".tmp/verify-{args.name}")
     tmp_dir.mkdir(parents=True, exist_ok=True)
     for f in tmp_dir.glob("*.json"):
         f.unlink()

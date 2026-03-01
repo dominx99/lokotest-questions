@@ -1,6 +1,6 @@
 """Merge generated questions into verification JSON with NEW status.
 
-Reads question JSON files from /tmp/add-questions-{instruction}/*.json,
+Reads question JSON files from .tmp/add-questions-{instruction}/*.json,
 creates verification entries with status NEW, and merges into
 {instruction}-verification.json.
 
@@ -44,7 +44,7 @@ def main() -> None:
         sys.exit(1)
 
     instruction = sys.argv[1]
-    tmp_dir = Path(f"/tmp/add-questions-{instruction}")
+    tmp_dir = Path(f".tmp/add-questions-{instruction}")
 
     if not tmp_dir.exists():
         print(f"No temp directory found: {tmp_dir}")

@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Temporary agent work directories
+.tmp/

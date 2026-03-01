@@ -44,21 +44,20 @@ uv run python scripts/prepare_verify_batches.py {instruction} --rescued
 Skrypt:
 - Wczyta pytania (z pytania.json lub verification.json w trybie RESCUED)
 - Pogrupuje po sekcjach, max 8 pytań per agent
-- Wygeneruje gotowe prompty agentów w `/tmp/verify-{instruction}/prompt_*.md`
+- Wygeneruje gotowe prompty agentów w `.tmp/verify-{instruction}/prompt_*.md`
 - Wypisze manifest JSON na stdout
 
 Zapamiętaj manifest. Jeśli `total_questions == 0`, wypisz komunikat i zakończ.
 
 ### 2. Odpal agentów
 
-Dla każdego batcha z manifestu (`batches`):
-1. Wczytaj prompt z `prompt_path` (Read tool)
-2. Odpal agenta z tym promptem:
-   - model: **sonnet**
-   - subagent_type: **general-purpose**
-   - run_in_background: **true**
+Dla każdego batcha z manifestu (`batches`) odpal agenta:
+- prompt: `Przeczytaj plik {prompt_path} i wykonaj instrukcje w nim zawarte.`
+- model: **sonnet**
+- subagent_type: **general-purpose**
+- run_in_background: **true**
 
-Odpal **WSZYSTKICH** agentów naraz w jednym wywołaniu (jednym message z wieloma tool calls).
+**NIE czytaj plików prompt** — agent sam je przeczyta. Odpal **WSZYSTKICH** agentów naraz w jednym wywołaniu (jednym message z wieloma tool calls).
 
 ### 3. Zbierz wyniki — uruchom skrypt merge
 

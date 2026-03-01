@@ -1,6 +1,6 @@
 """Merge rescue agent results into verification JSON.
 
-Reads raw rescue results from /tmp/rescue-{name}/*.json,
+Reads raw rescue results from .tmp/rescue-{name}/*.json,
 updates {name}-verification.json: DELETE→RESCUED with changes,
 or confirms DELETE.
 
@@ -47,15 +47,15 @@ def main() -> None:
         sys.exit(1)
 
     name = sys.argv[1]
-    tmp_dir = Path(f"/tmp/rescue-{name}")
+    tmp_dir = Path(f".tmp/rescue-{name}")
     v_path = INSTRUCTIONS_DIR / name / f"{name}-verification.json"
 
     if not v_path.exists():
         print(f"Error: {v_path} not found")
         sys.exit(1)
 
-    # Collect all rescue result files
-    result_files = sorted(tmp_dir.glob("*.json"))
+    # Collect only batch result files (not input_batch_*.json)
+    result_files = sorted(tmp_dir.glob("batch_*.json"))
     if not result_files:
         print(f"No rescue results in {tmp_dir}")
         sys.exit(1)

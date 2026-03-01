@@ -1,6 +1,6 @@
 """Prepare rescue batches: extract DELETE candidates, group, generate agent prompts.
 
-Creates batch input files and prompt files in /tmp/rescue-{name}/,
+Creates batch input files and prompt files in .tmp/rescue-{name}/,
 outputs a JSON manifest to stdout.
 
 Usage:
@@ -180,7 +180,7 @@ def main() -> None:
     toc_content = toc_path.read_text(encoding="utf-8")
 
     # Prepare output directory
-    tmp_dir = Path(f"/tmp/rescue-{args.name}")
+    tmp_dir = Path(f".tmp/rescue-{args.name}")
     tmp_dir.mkdir(parents=True, exist_ok=True)
     for f in tmp_dir.glob("*.json"):
         f.unlink()

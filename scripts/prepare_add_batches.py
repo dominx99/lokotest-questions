@@ -209,7 +209,7 @@ def main() -> None:
     print(f"Razem: {total_to_add} pytań do wygenerowania", file=sys.stderr)
 
     # Prepare output directory
-    tmp_dir = Path(f"/tmp/add-questions-{args.name}")
+    tmp_dir = Path(f".tmp/add-questions-{args.name}")
     tmp_dir.mkdir(parents=True, exist_ok=True)
     for f in tmp_dir.glob("*.json"):
         f.unlink()

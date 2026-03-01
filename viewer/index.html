@@ -500,6 +500,7 @@ function renderSummary() {
   const btns = [];
   if (s.fix > 0) btns.push(`<button class="btn btn-apply-all" onclick="applyByType('FIX')">Aplikuj FIX (${s.fix})</button>`);
   if (s.delete > 0) btns.push(`<button class="btn btn-delete" onclick="applyByType('DELETE')">Aplikuj DELETE (${s.delete})</button>`);
+  if ((s.rescued || 0) > 0) btns.push(`<button class="btn btn-apply-all" style="border-color:var(--cyan);color:var(--cyan);background:var(--cyan-bg);" onclick="applyByType('RESCUED')">Aplikuj RESCUED (${s.rescued})</button>`);
   if ((s.new || 0) > 0) btns.push(`<button class="btn btn-apply-all" style="border-color:var(--purple);color:var(--purple);background:var(--purple-bg);" onclick="applyByType('NEW')">Aplikuj NEW (${s.new})</button>`);
   document.getElementById('apply-buttons').innerHTML = btns.join('');
 }
@@ -774,7 +775,7 @@ async function dismissOne(uuid, btnEl) {
 
 async function applyByType(type) {
   const s = verificationData.summary;
-  const count = type === 'FIX' ? s.fix : type === 'DELETE' ? s.delete : (s.new || 0);
+  const count = type === 'FIX' ? s.fix : type === 'DELETE' ? s.delete : type === 'RESCUED' ? (s.rescued || 0) : (s.new || 0);
   if (!confirm(`Aplikowac ${count} zmian typu ${type}?`)) return;
 
   const btnsContainer = document.getElementById('apply-buttons');

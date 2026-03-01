@@ -58,7 +58,7 @@ def apply_one(
         }
         recalculate_section_ref(new_q)
         questions.append(new_q)
-    elif status == "FIX":
+    elif status in ("FIX", "RESCUED"):
         changes = result.get("changes", {})
         if not changes:
             return questions
@@ -101,7 +101,7 @@ def apply_uuid(name: str, uuid: str) -> dict:
     if result is None:
         return {"error": f"UUID {uuid} not found in verification"}
 
-    if result["status"] not in ("FIX", "DELETE", "NEW"):
+    if result["status"] not in ("FIX", "DELETE", "NEW", "RESCUED"):
         return {"error": f"Cannot apply {result['status']} status"}
 
     q_data["questions"] = apply_one(q_data["questions"], result)
@@ -136,7 +136,7 @@ def dismiss_uuid(name: str, uuid: str) -> dict:
 
 def apply_by_type(name: str, status_type: str) -> dict:
     """Apply all results of a given type. Returns summary of actions."""
-    if status_type not in ("FIX", "DELETE", "NEW"):
+    if status_type not in ("FIX", "DELETE", "NEW", "RESCUED"):
         return {"error": f"Invalid type: {status_type}"}
 
     base = INSTRUCTIONS_DIR / name
@@ -170,17 +170,20 @@ def apply_all(name: str) -> dict:
     v_data = load_json(v_path)
     q_data = load_json(q_path)
 
-    to_apply = [r for r in v_data["results"] if r["status"] in ("FIX", "DELETE", "NEW")]
+    to_apply = [r for r in v_data["results"] if r["status"] in ("FIX", "DELETE", "NEW", "RESCUED")]
 
     fixed = 0
     deleted = 0
     added = 0
+    rescued = 0
     for result in to_apply:
         q_data["questions"] = apply_one(q_data["questions"], result)
         if result["status"] == "FIX":
             fixed += 1
         elif result["status"] == "NEW":
             added += 1
+        elif result["status"] == "RESCUED":
+            rescued += 1
         else:
             deleted += 1
 
@@ -191,7 +194,7 @@ def apply_all(name: str) -> dict:
     save_json(v_path, v_data)
     save_json(q_path, q_data)
 
-    return {"fixed": fixed, "deleted": deleted, "added": added, "remaining": len(v_data["results"])}
+    return {"fixed": fixed, "deleted": deleted, "added": added, "rescued": rescued, "remaining": len(v_data["results"])}
 
 
 def main() -> None:

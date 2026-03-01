@@ -1,6 +1,6 @@
 """Merge verification agent results into verification JSON.
 
-Reads raw verification results from /tmp/verify-{name}/*.json,
+Reads raw verification results from .tmp/verify-{name}/*.json,
 validates and normalizes them, then writes {name}-verification.json.
 
 Supports two modes:
@@ -189,7 +189,7 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    tmp_dir = Path(f"/tmp/verify-{args.name}")
+    tmp_dir = Path(f".tmp/verify-{args.name}")
     results = collect_results(tmp_dir)
 
     if not results:
