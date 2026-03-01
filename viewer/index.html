@@ -450,6 +450,7 @@ if (!name) {
 
 let verificationData = null;
 let questionsMap = {};
+let questionsTotal = 0;
 let activeFilter = 'all';
 let searchUuid = '';
 
@@ -464,19 +465,23 @@ async function loadData() {
       fetch(questionsPath),
     ]);
 
-    if (!vRes.ok) throw new Error(`Nie znaleziono ${verificationPath} (${vRes.status})`);
     if (!qRes.ok) throw new Error(`Nie znaleziono ${questionsPath} (${qRes.status})`);
 
-    verificationData = await vRes.json();
     const questionsData = await qRes.json();
-
     questionsMap = {};
+    questionsTotal = questionsData.questions.length;
     questionsData.questions.forEach(q => {
       questionsMap[q.uuid] = q;
     });
 
-    document.getElementById('instruction-name').textContent = verificationData.instruction;
-    document.title = `Weryfikacja — ${verificationData.instruction}`;
+    if (vRes.ok) {
+      verificationData = await vRes.json();
+    } else {
+      verificationData = { instruction: name, summary: { total: 0, ok: 0, fix: 0, delete: 0, new: 0, rescued: 0 }, results: [] };
+    }
+
+    document.getElementById('instruction-name').textContent = name;
+    document.title = `Weryfikacja — ${name}`;
     renderSummary();
     renderCards();
     setupFilters();
@@ -489,7 +494,8 @@ async function loadData() {
 function renderSummary() {
   const s = verificationData.summary;
   document.getElementById('summary').innerHTML = `
-    <span class="badge badge-total">Razem: ${s.total}</span>
+    <span class="badge badge-total" style="font-size:1rem;font-weight:700;">Pytań w pytania.json: ${questionsTotal}</span>
+    <span class="badge badge-total">Weryfikacja: ${s.total}</span>
     ${(s.new || 0) > 0 ? `<span class="badge badge-new">NEW: ${s.new}</span>` : ''}
     <span class="badge badge-ok">OK: ${s.ok}</span>
     <span class="badge badge-fix">FIX: ${s.fix}</span>
