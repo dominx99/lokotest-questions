@@ -12,7 +12,7 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 sys.path.insert(0, str(PROJECT_ROOT / "scripts"))
-from apply_verification import apply_all, apply_uuid, dismiss_uuid
+from apply_verification import apply_all, apply_by_type, apply_uuid, dismiss_uuid
 
 
 class ViewerHandler(SimpleHTTPRequestHandler):
@@ -21,6 +21,8 @@ class ViewerHandler(SimpleHTTPRequestHandler):
             self._handle_apply_one()
         elif self.path == "/api/apply-all":
             self._handle_apply_all()
+        elif self.path == "/api/apply-type":
+            self._handle_apply_type()
         elif self.path == "/api/dismiss":
             self._handle_dismiss()
         else:
@@ -57,6 +59,19 @@ class ViewerHandler(SimpleHTTPRequestHandler):
             name = body["name"]
             uuid = body["uuid"]
             result = dismiss_uuid(name, uuid)
+            if "error" in result:
+                self._json_response(result, 400)
+            else:
+                self._json_response(result)
+        except Exception as e:
+            self._json_response({"error": str(e)}, 500)
+
+    def _handle_apply_type(self):
+        try:
+            body = self._read_body()
+            name = body["name"]
+            status_type = body["type"]
+            result = apply_by_type(name, status_type)
             if "error" in result:
                 self._json_response(result, 400)
             else:

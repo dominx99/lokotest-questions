@@ -134,8 +134,35 @@ def dismiss_uuid(name: str, uuid: str) -> dict:
     return {"dismissed": result["status"]}
 
 
+def apply_by_type(name: str, status_type: str) -> dict:
+    """Apply all results of a given type. Returns summary of actions."""
+    if status_type not in ("FIX", "DELETE", "NEW"):
+        return {"error": f"Invalid type: {status_type}"}
+
+    base = INSTRUCTIONS_DIR / name
+    v_path = base / f"{name}-verification.json"
+    q_path = base / f"{name}-pytania.json"
+
+    v_data = load_json(v_path)
+    q_data = load_json(q_path)
+
+    to_apply = [r for r in v_data["results"] if r["status"] == status_type]
+
+    for result in to_apply:
+        q_data["questions"] = apply_one(q_data["questions"], result)
+
+    applied_uuids = {r["uuid"] for r in to_apply}
+    v_data["results"] = [r for r in v_data["results"] if r["uuid"] not in applied_uuids]
+    v_data["summary"] = recalculate_summary(v_data["results"])
+
+    save_json(v_path, v_data)
+    save_json(q_path, q_data)
+
+    return {"applied": len(to_apply), "type": status_type, "remaining": len(v_data["results"])}
+
+
 def apply_all(name: str) -> dict:
-    """Apply all FIX/DELETE results. Returns summary of actions."""
+    """Apply all FIX/DELETE/NEW results. Returns summary of actions."""
     base = INSTRUCTIONS_DIR / name
     v_path = base / f"{name}-verification.json"
     q_path = base / f"{name}-pytania.json"

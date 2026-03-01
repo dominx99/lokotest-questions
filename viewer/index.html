@@ -421,7 +421,7 @@
 
 <div class="toolbar">
   <div class="summary" id="summary"></div>
-  <button class="btn btn-apply-all" id="apply-all-btn" onclick="applyAll()">Aplikuj wszystkie FIX/DELETE/NEW/NEW</button>
+  <div id="apply-buttons" style="display:flex;gap:8px;flex-wrap:wrap;"></div>
 </div>
 
 <div class="filters">
@@ -488,7 +488,6 @@ async function loadData() {
 
 function renderSummary() {
   const s = verificationData.summary;
-  const hasFixes = s.fix > 0 || s.delete > 0 || (s.new || 0) > 0;
   document.getElementById('summary').innerHTML = `
     <span class="badge badge-total">Razem: ${s.total}</span>
     ${(s.new || 0) > 0 ? `<span class="badge badge-new">NEW: ${s.new}</span>` : ''}
@@ -497,7 +496,12 @@ function renderSummary() {
     <span class="badge badge-delete">DELETE: ${s.delete}</span>
     ${(s.rescued || 0) > 0 ? `<span class="badge badge-rescued">RESCUED: ${s.rescued}</span>` : ''}
   `;
-  document.getElementById('apply-all-btn').style.display = hasFixes ? '' : 'none';
+
+  const btns = [];
+  if (s.fix > 0) btns.push(`<button class="btn btn-apply-all" onclick="applyByType('FIX')">Aplikuj FIX (${s.fix})</button>`);
+  if (s.delete > 0) btns.push(`<button class="btn btn-delete" onclick="applyByType('DELETE')">Aplikuj DELETE (${s.delete})</button>`);
+  if ((s.new || 0) > 0) btns.push(`<button class="btn btn-apply-all" style="border-color:var(--purple);color:var(--purple);background:var(--purple-bg);" onclick="applyByType('NEW')">Aplikuj NEW (${s.new})</button>`);
+  document.getElementById('apply-buttons').innerHTML = btns.join('');
 }
 
 function renderCards() {
@@ -768,34 +772,33 @@ async function dismissOne(uuid, btnEl) {
   }
 }
 
-async function applyAll() {
-  const btn = document.getElementById('apply-all-btn');
-  const count = verificationData.summary.fix + verificationData.summary.delete + (verificationData.summary.new || 0);
-  if (!confirm(`Aplikowac ${count} zmian (FIX + DELETE + NEW)?`)) return;
+async function applyByType(type) {
+  const s = verificationData.summary;
+  const count = type === 'FIX' ? s.fix : type === 'DELETE' ? s.delete : (s.new || 0);
+  if (!confirm(`Aplikowac ${count} zmian typu ${type}?`)) return;
 
-  btn.disabled = true;
-  btn.textContent = 'Aplikowanie...';
+  const btnsContainer = document.getElementById('apply-buttons');
+  const btns = btnsContainer.querySelectorAll('button');
+  btns.forEach(b => { b.disabled = true; });
 
   try {
-    const res = await fetch('/api/apply-all', {
+    const res = await fetch('/api/apply-type', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ name }),
+      body: JSON.stringify({ name, type }),
     });
     const data = await res.json();
 
     if (!res.ok) {
       alert(`Blad: ${data.error}`);
-      btn.disabled = false;
-      btn.textContent = 'Aplikuj wszystkie FIX/DELETE/NEW';
+      btns.forEach(b => { b.disabled = false; });
       return;
     }
 
     await loadData();
   } catch (err) {
     alert(`Blad sieci: ${err.message}`);
-    btn.disabled = false;
-    btn.textContent = 'Aplikuj wszystkie FIX/DELETE/NEW';
+    btns.forEach(b => { b.disabled = false; });
   }
 }
 
