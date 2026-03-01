@@ -1,4 +1,4 @@
-.PHONY: pdfs-to-markdowns pdf-to-markdown clean-markdowns sections section xlsx-to-json view apply-verification
+.PHONY: pdfs-to-markdowns pdf-to-markdown clean-markdowns sections section xlsx-to-json toc view apply-verification
 
 INSTRUCTIONS_DIR := instructions
 
@@ -31,6 +31,16 @@ ifdef ONLY
 	uv run python scripts/xlsx_to_json.py --instructions-dir $(INSTRUCTIONS_DIR) --only $(ONLY)
 else
 	uv run python scripts/xlsx_to_json.py --instructions-dir $(INSTRUCTIONS_DIR)
+endif
+
+# Generate table of contents from section frontmatters
+# Usage: make toc              (all instructions)
+#        make toc ONLY=Ir-1    (single instruction)
+toc:
+ifdef ONLY
+	uv run python scripts/generate_toc.py --instructions-dir $(INSTRUCTIONS_DIR) --only $(ONLY)
+else
+	uv run python scripts/generate_toc.py --instructions-dir $(INSTRUCTIONS_DIR)
 endif
 
 # Open verification viewer in browser

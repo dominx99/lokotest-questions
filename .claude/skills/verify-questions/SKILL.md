@@ -3,7 +3,7 @@ name: verify-questions
 description: Weryfikacja pytań quizowych względem paragrafów instrukcji
 disable-model-invocation: true
 user-invocable: true
-argument-hint: [nazwa-instrukcji] [numer-paragrafu]
+argument-hint: [nazwa-instrukcji] [numer-paragrafu|RESCUED]
 ---
 
 # Weryfikacja pytań quizowych
@@ -14,13 +14,29 @@ Weryfikuj pytania z pliku `instructions/{instruction}/{instruction}-pytania.json
 
 Rozparsuj `$ARGUMENTS` na:
 - **instruction** — pierwszy argument (wymagany), np. `Ir-1`
-- **section_filter** — drugi argument (opcjonalny), sam numer paragrafu, np. `5` lub `12`
+- **drugi argument** (opcjonalny), jedno z:
+  - **numer paragrafu** (np. `5` lub `12`) → `section_filter` = `§ {numer}`
+  - **`RESCUED`** (case-insensitive) → tryb RESCUED
 
-Jeśli podano `section_filter`, zamień na format `§ {numer}` (np. `5` → `§ 5`) i weryfikuj **tylko** pytania z pasującym `section_ref`. W przeciwnym razie weryfikuj wszystkie.
+**Tryb normalny (section_filter):** weryfikuj **tylko** pytania z pasującym `section_ref`. Bez drugiego argumentu — weryfikuj wszystkie.
+
+**Tryb RESCUED:** weryfikuj ponownie pytania ze statusem RESCUED z `{instruction}-verification.json` — patrz sekcja "Tryb RESCUED" poniżej.
 
 ## Procedura
 
 ### 1. Wczytaj pytania
+
+**Tryb RESCUED** — jeśli drugi argument to `RESCUED`:
+
+1. Wczytaj `instructions/{instruction}/{instruction}-verification.json`
+2. Wyfiltruj entries ze statusem `RESCUED`
+3. Dla każdego entry weź UUID i `changes.section_ref` jako nowy section_ref
+4. Wczytaj `instructions/{instruction}/{instruction}-pytania.json`
+5. Pobierz pełne pytania po UUID
+6. **Nadpisz `section_ref` każdego pytania** wartością z verification changes (to jest nowa sekcja znaleziona przez rescue)
+7. Jeśli 0 pytań RESCUED → wypisz komunikat i zakończ
+
+**Tryb normalny:**
 
 Wczytaj `instructions/{instruction}/{instruction}-pytania.json`. Zapamiętaj liczbę pytań.
 
@@ -39,7 +55,7 @@ Wynik: lista "zadań agenckich", każde z jednym `section_ref` i listą max 8 py
 ### 3. Utwórz katalog na wyniki
 
 ```bash
-mkdir -p /tmp/verify-{instruction}
+rm -rf /tmp/verify-{instruction} && mkdir -p /tmp/verify-{instruction}
 ```
 
 ### 4. Odpal WSZYSTKICH agentów naraz
@@ -121,70 +137,30 @@ WAŻNE: Musisz użyć Write tool aby zapisać plik JSON z wynikami. To jest Twoj
 
 Gdzie `{agent_id}` to unikalny identyfikator, np. `{section_ref}_part{N}` (np. `§12_part1`, `§84_part1`, `§84_part2`).
 
-### 5. Zbierz i zwaliduj wyniki z plików
+### 5. Zbierz wyniki — uruchom skrypt merge
 
-Po zakończeniu wszystkich agentów, wczytaj wszystkie pliki JSON z `/tmp/verify-{instruction}/`:
+Po zakończeniu wszystkich agentów, uruchom skrypt merge:
 
+**Tryb normalny:**
 ```bash
-ls /tmp/verify-{instruction}/*.json
+uv run python scripts/merge_verification.py {instruction}
 ```
 
-Przeczytaj każdy plik, połącz wszystkie wyniki w jedną listę.
-
-**Walidacja wyników** — dla każdego wyniku sprawdź:
-- Czy ma wymagane pola: `uuid`, `status`, `problems`
-- Czy `status` jest jednym z: `OK`, `FIX`, `DELETE`
-- Czy dla FIX/DELETE pole `problems` jest **niepustą listą stringów** (nie `[]`, nie `null`, nie `[""]`)
-- Czy dla FIX pole `changes` istnieje i nie jest puste `{}`
-- Jeśli agent użył niestandardowych pól (np. `issues` zamiast `problems`, `reason` zamiast `problems`), spróbuj je zmapować na poprawne nazwy
-
-Jeśli walidacja wykryje braki, wypisz ostrzeżenie z UUID pytań z problemami.
-
-**Mapowanie niestandardowych pól:**
-- `issues` → `problems`
-- `reason`/`reasons` → `problems` (opakuj w listę jeśli to string)
-- `fix`/`corrections`/`suggested_changes` → `changes`
-
-### 6. Utwórz raport
-
-Sparsuj wyniki i utwórz raport JSON:
-
-```json
-{
-  "instruction": "{instruction}",
-  "timestamp": "2026-02-28T...",
-  "summary": {
-    "total": 155,
-    "ok": 120,
-    "fix": 25,
-    "delete": 10
-  },
-  "results": [
-    {
-      "uuid": "...",
-      "status": "OK|FIX|DELETE",
-      "problems": ["..."],
-      "changes": {
-        "question": "nowa treść",
-        "answers": {"A": "..."},
-        "correct": "B",
-        "explanation": "..."
-      }
-    }
-  ]
-}
+**Tryb RESCUED:**
+```bash
+uv run python scripts/merge_verification.py {instruction} --rescued
 ```
 
-### 7. Zapisz raport
+Skrypt:
+- Wczyta wszystkie pliki JSON z `/tmp/verify-{instruction}/`
+- Zwaliduje i znormalizuje wyniki (mapowanie niestandardowych pól, sprawdzenie wymaganych pól)
+- **Tryb normalny**: utworzy/nadpisze `{instruction}-verification.json` z wszystkimi wynikami
+- **Tryb RESCUED**: zastąpi entries RESCUED nowymi wynikami (FIX/OK/DELETE), zachowując pozostałe entries bez zmian
+- Wypisze podsumowanie
 
-Zapisz raport do `instructions/{instruction}/{instruction}-verification.json`.
+Wypisz wynik skryptu jako podsumowanie.
 
-Wypisz podsumowanie:
-```
-Weryfikacja {instruction}: X pytań OK, Y do poprawy, Z do usunięcia
-```
-
-### 8. Zapytaj użytkownika
+### 6. Zapytaj użytkownika
 
 Użyj AskUserQuestion aby zapytać:
 - "Czy zastosować poprawki (FIX/DELETE) na pytaniach?" z opcjami:
@@ -192,7 +168,7 @@ Użyj AskUserQuestion aby zapytać:
   - "Pokaż szczegóły najpierw" — wypisz wszystkie FIX i DELETE ze szczegółami
   - "Nie, tylko zapisz raport" — zakończ
 
-### 9. Zastosuj poprawki (jeśli użytkownik potwierdzi)
+### 7. Zastosuj poprawki (jeśli użytkownik potwierdzi)
 
 Wczytaj `instructions/{instruction}/{instruction}-pytania.json`. Dla każdego wyniku:
 - **FIX**: zastosuj zmiany z `changes` na odpowiednim pytaniu (dopasowanie po `uuid`)

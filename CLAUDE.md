@@ -27,6 +27,8 @@ Makefile targety: `pdfs-to-markdowns`, `sections`, `xlsx-to-json` (każdy przyjm
 
 Weryfikacja pytań: `/verify-questions {name}`
 
+Dodawanie nowych pytań: `/add-questions {name} [numer-paragrafu]`
+
 Podgląd wyników weryfikacji: `make view ONLY=Ir-1`
 
 ## Zasady

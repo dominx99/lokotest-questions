@@ -44,6 +44,20 @@ def apply_one(
 
     if status == "DELETE":
         questions = [q for q in questions if q["uuid"] != uuid]
+    elif status == "NEW":
+        changes = result.get("changes", {})
+        if not changes:
+            return questions
+        new_q = {
+            "uuid": uuid,
+            "question": changes.get("question", ""),
+            "answers": changes.get("answers", {}),
+            "correct": changes.get("correct", ""),
+            "explanation": changes.get("explanation", ""),
+            "section_ref": changes.get("section_ref"),
+        }
+        recalculate_section_ref(new_q)
+        questions.append(new_q)
     elif status == "FIX":
         changes = result.get("changes", {})
         if not changes:
@@ -70,7 +84,8 @@ def recalculate_summary(results: list[dict]) -> dict:
     ok = sum(1 for r in results if r["status"] == "OK")
     fix = sum(1 for r in results if r["status"] == "FIX")
     delete = sum(1 for r in results if r["status"] == "DELETE")
-    return {"total": total, "ok": ok, "fix": fix, "delete": delete}
+    new = sum(1 for r in results if r["status"] == "NEW")
+    return {"total": total, "ok": ok, "fix": fix, "delete": delete, "new": new}
 
 
 def apply_uuid(name: str, uuid: str) -> dict:
@@ -86,8 +101,8 @@ def apply_uuid(name: str, uuid: str) -> dict:
     if result is None:
         return {"error": f"UUID {uuid} not found in verification"}
 
-    if result["status"] == "OK":
-        return {"error": "Cannot apply OK status"}
+    if result["status"] not in ("FIX", "DELETE", "NEW"):
+        return {"error": f"Cannot apply {result['status']} status"}
 
     q_data["questions"] = apply_one(q_data["questions"], result)
 
@@ -128,14 +143,17 @@ def apply_all(name: str) -> dict:
     v_data = load_json(v_path)
     q_data = load_json(q_path)
 
-    to_apply = [r for r in v_data["results"] if r["status"] in ("FIX", "DELETE")]
+    to_apply = [r for r in v_data["results"] if r["status"] in ("FIX", "DELETE", "NEW")]
 
     fixed = 0
     deleted = 0
+    added = 0
     for result in to_apply:
         q_data["questions"] = apply_one(q_data["questions"], result)
         if result["status"] == "FIX":
             fixed += 1
+        elif result["status"] == "NEW":
+            added += 1
         else:
             deleted += 1
 
@@ -146,7 +164,7 @@ def apply_all(name: str) -> dict:
     save_json(v_path, v_data)
     save_json(q_path, q_data)
 
-    return {"fixed": fixed, "deleted": deleted, "remaining": len(v_data["results"])}
+    return {"fixed": fixed, "deleted": deleted, "added": added, "remaining": len(v_data["results"])}
 
 
 def main() -> None:

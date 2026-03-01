@@ -18,6 +18,10 @@
     --yellow: #d29922;
     --yellow-bg: #2d2a14;
     --blue: #58a6ff;
+    --purple: #a371f7;
+    --purple-bg: #1f1535;
+    --cyan: #39d2c0;
+    --cyan-bg: #0d2926;
   }
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -61,6 +65,8 @@
   .badge-ok { background: var(--green-bg); color: var(--green); }
   .badge-fix { background: var(--yellow-bg); color: var(--yellow); }
   .badge-delete { background: var(--red-bg); color: var(--red); }
+  .badge-new { background: var(--purple-bg); color: var(--purple); }
+  .badge-rescued { background: var(--cyan-bg); color: var(--cyan); }
   .badge-total { background: var(--surface); color: var(--text-muted); border: 1px solid var(--border); }
 
   .btn {
@@ -168,6 +174,8 @@
   .card.status-fix { border-left: 3px solid var(--yellow); }
   .card.status-delete { border-left: 3px solid var(--red); }
   .card.status-ok { border-left: 3px solid var(--green); }
+  .card.status-new { border-left: 3px solid var(--purple); }
+  .card.status-rescued { border-left: 3px solid var(--cyan); }
 
   .card-header {
     display: flex;
@@ -207,6 +215,8 @@
   .status-tag.fix { background: var(--yellow-bg); color: var(--yellow); }
   .status-tag.delete { background: var(--red-bg); color: var(--red); }
   .status-tag.ok { background: var(--green-bg); color: var(--green); }
+  .status-tag.new { background: var(--purple-bg); color: var(--purple); }
+  .status-tag.rescued { background: var(--cyan-bg); color: var(--cyan); }
 
   .card-header .question-preview {
     white-space: nowrap;
@@ -411,14 +421,16 @@
 
 <div class="toolbar">
   <div class="summary" id="summary"></div>
-  <button class="btn btn-apply-all" id="apply-all-btn" onclick="applyAll()">Aplikuj wszystkie FIX/DELETE</button>
+  <button class="btn btn-apply-all" id="apply-all-btn" onclick="applyAll()">Aplikuj wszystkie FIX/DELETE/NEW/NEW</button>
 </div>
 
 <div class="filters">
   <label>Filtruj:</label>
   <button class="active" data-filter="all">Wszystkie</button>
+  <button data-filter="new">NEW</button>
   <button data-filter="fix">FIX</button>
   <button data-filter="delete">DELETE</button>
+  <button data-filter="rescued">RESCUED</button>
   <button data-filter="ok">OK</button>
   <input type="text" id="search-uuid" placeholder="Szukaj po UUID..." oninput="onSearchChange()">
 </div>
@@ -476,12 +488,14 @@ async function loadData() {
 
 function renderSummary() {
   const s = verificationData.summary;
-  const hasFixes = s.fix > 0 || s.delete > 0;
+  const hasFixes = s.fix > 0 || s.delete > 0 || (s.new || 0) > 0;
   document.getElementById('summary').innerHTML = `
     <span class="badge badge-total">Razem: ${s.total}</span>
+    ${(s.new || 0) > 0 ? `<span class="badge badge-new">NEW: ${s.new}</span>` : ''}
     <span class="badge badge-ok">OK: ${s.ok}</span>
     <span class="badge badge-fix">FIX: ${s.fix}</span>
     <span class="badge badge-delete">DELETE: ${s.delete}</span>
+    ${(s.rescued || 0) > 0 ? `<span class="badge badge-rescued">RESCUED: ${s.rescued}</span>` : ''}
   `;
   document.getElementById('apply-all-btn').style.display = hasFixes ? '' : 'none';
 }
@@ -502,38 +516,77 @@ function renderCards() {
   }
 
   filtered.forEach((result) => {
-    const question = questionsMap[result.uuid];
-    if (!question) return;
-
     const statusLower = result.status.toLowerCase();
+    const isNew = statusLower === 'new';
+    const isRescued = statusLower === 'rescued';
+    const question = isNew ? null : questionsMap[result.uuid];
+    if (!isNew && !question) return;
+
     const card = document.createElement('div');
     card.className = `card status-${statusLower}`;
     card.id = `card-${result.uuid}`;
 
     const globalIdx = verificationData.results.indexOf(result) + 1;
-    const isActionable = statusLower === 'fix' || statusLower === 'delete';
+    const isActionable = statusLower === 'fix' || statusLower === 'delete' || isNew || isRescued;
+
+    const previewText = isNew ? (result.changes?.question || '') : question.question;
+    const origSection = isNew ? '' : (question.section_ref || '');
+    const rescuedSection = isRescued && result.changes?.section_ref ? result.changes.section_ref : '';
+    const sectionRef = isNew ? (result.changes?.section_ref || '') : (rescuedSection ? `${origSection} → ${rescuedSection}` : origSection);
+
+    let bodyHtml;
+    if (isNew) {
+      bodyHtml = `
+        <div class="uuid">UUID: ${result.uuid}</div>
+        ${renderNewQuestion(result.changes)}
+        ${renderActions(result)}
+      `;
+    } else {
+      bodyHtml = `
+        <div class="uuid">UUID: ${result.uuid}</div>
+        ${renderOriginalQuestion(question)}
+        ${renderProblems(result.problems)}
+        ${renderChanges(result.changes, question)}
+        ${isActionable ? renderActions(result) : ''}
+      `;
+    }
 
     card.innerHTML = `
       <div class="card-header" onclick="toggleCard(this)">
         <div class="left">
           <span class="idx">#${globalIdx}</span>
           <span class="status-tag ${statusLower}">${result.status}</span>
-          <span class="question-preview">${escHtml(question.question)}</span>
+          <span class="question-preview">${escHtml(previewText)}</span>
         </div>
-        <span class="section-ref">${escHtml(question.section_ref || '')}</span>
+        <span class="section-ref">${escHtml(sectionRef)}</span>
         <span class="chevron">&#9654;</span>
       </div>
       <div class="card-body">
-        <div class="uuid">UUID: ${result.uuid}</div>
-        ${renderOriginalQuestion(question)}
-        ${renderProblems(result.problems)}
-        ${renderChanges(result.changes, question)}
-        ${isActionable ? renderActions(result) : ''}
+        ${bodyHtml}
       </div>
     `;
 
     container.appendChild(card);
   });
+}
+
+function renderNewQuestion(changes) {
+  if (!changes) return '';
+  const correct = changes.correct;
+  const answers = changes.answers || {};
+  const answersHtml = Object.entries(answers).map(([letter, text]) => {
+    const cls = letter === correct ? 'answer-item correct' : 'answer-item';
+    return `<div class="${cls}"><span class="answer-letter">${letter}.</span> ${escHtml(text)}</div>`;
+  }).join('');
+
+  return `
+    <div class="question-block">
+      <h3>Nowe pytanie</h3>
+      <div class="question-text">${escHtml(changes.question)}</div>
+      <div class="answers-grid">${answersHtml}</div>
+      <div class="explanation">Poprawna: <strong>${correct}</strong> &mdash; ${escHtml(changes.explanation)}</div>
+    </div>
+  `;
 }
 
 function renderOriginalQuestion(q) {
@@ -599,8 +652,17 @@ function renderChanges(changes, originalQuestion) {
 }
 
 function renderActions(result) {
-  const btnLabel = result.status === 'DELETE' ? 'Usun pytanie' : 'Aplikuj zmiany';
-  const btnClass = result.status === 'DELETE' ? 'btn btn-delete' : 'btn btn-apply';
+  let btnLabel, btnClass;
+  if (result.status === 'DELETE') {
+    btnLabel = 'Usun pytanie';
+    btnClass = 'btn btn-delete';
+  } else if (result.status === 'NEW') {
+    btnLabel = 'Dodaj pytanie';
+    btnClass = 'btn btn-apply';
+  } else {
+    btnLabel = 'Aplikuj zmiany';
+    btnClass = 'btn btn-apply';
+  }
   return `
     <div class="card-actions">
       <button class="${btnClass}" onclick="event.stopPropagation(); applyOne('${result.uuid}', this)">${btnLabel}</button>
@@ -708,8 +770,8 @@ async function dismissOne(uuid, btnEl) {
 
 async function applyAll() {
   const btn = document.getElementById('apply-all-btn');
-  const count = verificationData.summary.fix + verificationData.summary.delete;
-  if (!confirm(`Aplikowac ${count} zmian (FIX + DELETE)?`)) return;
+  const count = verificationData.summary.fix + verificationData.summary.delete + (verificationData.summary.new || 0);
+  if (!confirm(`Aplikowac ${count} zmian (FIX + DELETE + NEW)?`)) return;
 
   btn.disabled = true;
   btn.textContent = 'Aplikowanie...';
@@ -725,7 +787,7 @@ async function applyAll() {
     if (!res.ok) {
       alert(`Blad: ${data.error}`);
       btn.disabled = false;
-      btn.textContent = 'Aplikuj wszystkie FIX/DELETE';
+      btn.textContent = 'Aplikuj wszystkie FIX/DELETE/NEW';
       return;
     }
 
@@ -733,7 +795,7 @@ async function applyAll() {
   } catch (err) {
     alert(`Blad sieci: ${err.message}`);
     btn.disabled = false;
-    btn.textContent = 'Aplikuj wszystkie FIX/DELETE';
+    btn.textContent = 'Aplikuj wszystkie FIX/DELETE/NEW';
   }
 }
 
@@ -744,6 +806,8 @@ function recalcSummaryLocal() {
     ok: results.filter(r => r.status === 'OK').length,
     fix: results.filter(r => r.status === 'FIX').length,
     delete: results.filter(r => r.status === 'DELETE').length,
+    new: results.filter(r => r.status === 'NEW').length,
+    rescued: results.filter(r => r.status === 'RESCUED').length,
   };
 }
 

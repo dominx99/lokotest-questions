@@ -1,0 +1,1224 @@
+{
+  "instruction": "Ir-9",
+  "timestamp": "2026-02-28T18:55:18.662749",
+  "summary": {
+    "total": 140,
+    "ok": 17,
+    "fix": 49,
+    "delete": 74
+  },
+  "results": [
+    {
+      "uuid": "dc5ffe62-f7d0-4c02-8789-2935f6ca8042",
+      "status": "FIX",
+      "problems": [
+        "Definicja pojęcia 'Manewry' znajduje się w §2 ust. 6, nie w §10.",
+        "Odpowiedź C jest niekompletna — pomija fragment 'oraz związane z nimi czynności na torach'."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 10"
+      }
+    },
+    {
+      "uuid": "36c7a2c0-a150-40f4-b564-ea8db232ddc1",
+      "status": "FIX",
+      "problems": [
+        "Definicja pojęcia 'Plan pracy manewrowej' znajduje się w §2 ust. 8, nie w §10."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 10"
+      }
+    },
+    {
+      "uuid": "c7a4f028-3b5e-4d54-97c6-917e4aa75bc2",
+      "status": "FIX",
+      "problems": [
+        "Definicja pojęcia 'Rejon manewrowy' znajduje się w §2 ust. 16, nie w §10."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 10"
+      }
+    },
+    {
+      "uuid": "a4767c05-cc27-4bcb-a4eb-dbbe0800b57e",
+      "status": "FIX",
+      "problems": [
+        "Definicja pojęcia 'Pojazd pomocniczy' znajduje się w §2 ust. 11, nie w §10.",
+        "Odpowiedź C używa 'konstrukcja' zamiast 'budowa' z §2 ust. 11."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 10"
+      }
+    },
+    {
+      "uuid": "517660ae-d3b5-45a7-a294-918f667a116a",
+      "status": "DELETE",
+      "problems": [
+        "Pojęcie 'Blokada manewrowa' nie jest zdefiniowane w instrukcji Ir-9.",
+        "Pytanie nie ma podstawy źródłowej w treści instrukcji Ir-9."
+      ]
+    },
+    {
+      "uuid": "fcc910a1-3497-42dc-840d-dc26c7b9f443",
+      "status": "FIX",
+      "problems": [
+        "Definicja pojęcia 'Odprzęg' znajduje się w §2 ust. 7, nie w §10.",
+        "Odpowiedź C jest niekompletna — pomija kontekst staczania z górki rozrządowej lub odrzucania."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 10"
+      }
+    },
+    {
+      "uuid": "55aa8197-1821-476b-98ff-edd26ae6a3ef",
+      "status": "FIX",
+      "problems": [
+        "Definicja pojęcia 'Rewident taboru' znajduje się w §2 ust. 17, nie w §10.",
+        "Odpowiedź B pomija 'elektrycznych zespołów trakcyjnych i autobusów szynowych'."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 10"
+      }
+    },
+    {
+      "uuid": "d21a7299-1803-427d-9a09-a53cb109f03f",
+      "status": "DELETE",
+      "problems": [
+        "Pojęcie 'Sygnalista' nie jest zdefiniowane w instrukcji Ir-9.",
+        "Pytanie nie ma podstawy źródłowej w treści instrukcji Ir-9."
+      ]
+    },
+    {
+      "uuid": "489e0605-7213-4a16-bb7a-d2655c60a778",
+      "status": "DELETE",
+      "problems": [
+        "Pojęcie 'Gwizdek manewrowy' nie istnieje jako zdefiniowany termin w Ir-9."
+      ]
+    },
+    {
+      "uuid": "7f6da76b-08ba-425e-a4c0-b8b2789c1218",
+      "status": "FIX",
+      "problems": [
+        "Definicja RID znajduje się w §2 ust. 18, nie §10."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 10"
+      }
+    },
+    {
+      "uuid": "60698c42-5f49-4522-81e4-29974b72ebd0",
+      "status": "DELETE",
+      "problems": [
+        "Pojęcie 'Wskaźnik ograniczenia prędkości' nie jest zdefiniowane w Ir-9."
+      ]
+    },
+    {
+      "uuid": "815472fb-75ec-42fd-b287-a69eabd8dd68",
+      "status": "DELETE",
+      "problems": [
+        "Pojęcie 'Kierownik manewrów' nie ma samodzielnej definicji w §2 Ir-9."
+      ]
+    },
+    {
+      "uuid": "e069b547-9e9e-41ea-950f-dee840adad36",
+      "status": "FIX",
+      "problems": [
+        "Definicja 'Skład manewrowy' znajduje się w §2 ust. 20, nie §10."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 10"
+      }
+    },
+    {
+      "uuid": "f783b013-3f7f-4da0-ad8a-8cb0e0078922",
+      "status": "DELETE",
+      "problems": [
+        "Pojęcie 'Tarcza manewrowa' nie jest zdefiniowane jako samodzielne hasło w §2 Ir-9."
+      ]
+    },
+    {
+      "uuid": "dbcd871f-3e3f-4d5e-8f63-ea969e4e7bf5",
+      "status": "FIX",
+      "problems": [
+        "Definicja 'Wagon z przekroczoną skrajnią' znajduje się w §2 ust. 23, nie §10."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 10"
+      }
+    },
+    {
+      "uuid": "62961564-ee69-4076-8e54-9a73c774ffa8",
+      "status": "FIX",
+      "problems": [
+        "Definicja 'Bocznica kolejowa' znajduje się w §2 ust. 1, nie §10."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 10"
+      }
+    },
+    {
+      "uuid": "7db99980-1565-41cc-81c1-4c52f7bb5232",
+      "status": "DELETE",
+      "problems": [
+        "Termin 'Zwrotniczy' nie jest zdefiniowany w §10. §10 nie zawiera definicji terminów."
+      ]
+    },
+    {
+      "uuid": "acb0eb5f-1a8c-4d16-9854-05542e0ed11f",
+      "status": "DELETE",
+      "problems": [
+        "Scenariusz 'lokomotywa z wagonami służbowymi po torze bez blokady manewrowej' nie istnieje w tabeli §10 ust. 27."
+      ]
+    },
+    {
+      "uuid": "dcf15863-63fd-420f-8bdf-aa5cc9a28fb1",
+      "status": "DELETE",
+      "problems": [
+        "Tabela §10 ust. 27 nie wyróżnia jazdy pojazdu pomocniczego bez drużyny manewrowej jako osobnego przypadku z limitem 40 km/h."
+      ]
+    },
+    {
+      "uuid": "450ce45e-938a-4059-b19a-1e4bc20f4e13",
+      "status": "DELETE",
+      "problems": [
+        "Scenariusz 'skład uszkodzonych wagonów ciągnięty do toru odstawczego' nie istnieje w tabeli §10 ust. 27."
+      ]
+    },
+    {
+      "uuid": "857b939a-1d1c-4ebc-97da-40fc57e6dfd4",
+      "status": "DELETE",
+      "problems": [
+        "Tabela §10 ust. 27 nie zawiera scenariusza dotyczącego wagonów RID z limitem prędkości."
+      ]
+    },
+    {
+      "uuid": "17cf6439-0b99-4126-9089-1203b74836c9",
+      "status": "DELETE",
+      "problems": [
+        "Tabela §10 ust. 27 nie zawiera scenariusza 'manewry bez łączności radiowej'."
+      ]
+    },
+    {
+      "uuid": "8729652d-e221-4b64-b161-d4ba226a1cc0",
+      "status": "DELETE",
+      "problems": [
+        "Tabela §10 ust. 27 nie zawiera scenariusza 'jazda na torach wewnętrznych terminala'."
+      ]
+    },
+    {
+      "uuid": "42070ef8-d0df-4e65-9db6-6cf0aa682448",
+      "status": "DELETE",
+      "problems": [
+        "Tabela §10 ust. 27 nie wyróżnia 'lokomotywy rezerwowej jadącej do czoła pociągu' jako odrębnej kategorii."
+      ]
+    },
+    {
+      "uuid": "f35ecb6b-ca10-43c7-b965-9ea50c933707",
+      "status": "FIX",
+      "problems": [
+        "Pytanie pomija drugi warunek z §10 ust. 27 pkt 4a: blokadę drzwi ze sterowaniem z kabiny maszynisty. Bez obu warunków limit to 10 km/h."
+      ],
+      "changes": {
+        "question": "Jaka jest maksymalna prędkość jazdy manewrowej, gdy jazda manewrowa odbywa się z pasażerami, przy zabezpieczonej drodze przebiegu i pojazdach posiadających blokadę drzwi ze sterowaniem z kabiny maszynisty?"
+      }
+    },
+    {
+      "uuid": "a5cc8aec-c41a-41fb-8a28-ecf9c63b1b2e",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5c218764-9046-4fa6-b63d-3c6ba36c8df6",
+      "status": "DELETE",
+      "problems": [
+        "§10 nie zawiera punktu tabeli dotyczącego jazdy nocą przy sztucznym oświetleniu z konkretnym limitem 15 km/h."
+      ]
+    },
+    {
+      "uuid": "7d9c4184-bd79-466f-9605-a160bf75e95a",
+      "status": "DELETE",
+      "problems": [
+        "§10 nie zawiera postanowień dotyczących manewrów w rejonie budowanego peronu."
+      ]
+    },
+    {
+      "uuid": "d368e3da-3cdf-441b-b198-da1202350c23",
+      "status": "DELETE",
+      "problems": [
+        "§10 nie zawiera żadnych postanowień dotyczących ERTMS/ETCS."
+      ]
+    },
+    {
+      "uuid": "10a7c444-ab3d-4432-828b-1905cbf64212",
+      "status": "DELETE",
+      "problems": [
+        "§10 nie zawiera punktu tabeli dotyczącego przetaczania wagonów do rampy załadunkowej."
+      ]
+    },
+    {
+      "uuid": "34d1d311-4138-4929-adfd-c6b03b971b27",
+      "status": "FIX",
+      "problems": [
+        "Pytanie pomija kluczowy warunek z pkt 3a tabeli: 15 km/h obowiązuje wyłącznie gdy pojazd trakcyjny nie mógł być umieszczony od strony spadku."
+      ],
+      "changes": {
+        "question": "Jaka jest maksymalna prędkość jazdy manewrowej składu manewrowego pojazdami kolejowymi naprzód po torze głównym o spadku przekraczającym 2,5 ‰, gdy pojazd trakcyjny nie mógł być umieszczony od strony spadku?"
+      }
+    },
+    {
+      "uuid": "71d88527-4eed-4178-bab8-5afb6c8ccfda",
+      "status": "DELETE",
+      "problems": [
+        "§10 nie zawiera żadnych postanowień dotyczących szkolenia maszynistów uczniów."
+      ]
+    },
+    {
+      "uuid": "d309635d-57eb-4bd3-9daf-2b086d2a5ab8",
+      "status": "DELETE",
+      "problems": [
+        "§10 nie zawiera przepisu dotyczącego prędkości dla wagonów z długimi szynami przy ograniczonej widoczności."
+      ]
+    },
+    {
+      "uuid": "17802804-cbc2-4f89-96d2-04b95f77c645",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4b3fd55a-74f3-4a16-ad2f-3eab38623261",
+      "status": "DELETE",
+      "problems": [
+        "§10 nie zawiera żadnego przepisu o wagonach z płaską obręczą."
+      ]
+    },
+    {
+      "uuid": "d487d214-bb1a-42f5-be99-73291267027c",
+      "status": "DELETE",
+      "problems": [
+        "§10 tabela ust. 27 nie zawiera scenariusza przejazdu przez rozjazd w kierunku ostrym po sygnale 'Stój' z limitem 5 km/h."
+      ]
+    },
+    {
+      "uuid": "d45fcc0a-7309-4d61-9b35-f10f523916ae",
+      "status": "DELETE",
+      "problems": [
+        "§10 nie podaje prędkości 40 km/h dla pociągu ratunkowego jako odrębnej kategorii."
+      ]
+    },
+    {
+      "uuid": "c90e6766-ccad-4e3d-8b88-dfba3ec6e500",
+      "status": "DELETE",
+      "problems": [
+        "§10 tabela ust. 27 nie przewiduje prędkości 10 km/h dla bocznicy o konkretnym pochyleniu."
+      ]
+    },
+    {
+      "uuid": "1af39247-23ed-470c-9475-a0d658d4da3c",
+      "status": "FIX",
+      "problems": [
+        "Podprowadzanie do stojącego wagonu to 'dojeżdżanie do stojących pojazdów kolejowych' — tabela §10 ust. 27 pkt 8b) = 3 km/h, nie 5 km/h."
+      ],
+      "changes": {
+        "correct": "A",
+        "answers": {
+          "A": "3 km/h",
+          "B": "15 km/h",
+          "C": "5 km/h",
+          "D": "20 km/h"
+        }
+      }
+    },
+    {
+      "uuid": "36308c4f-f2f2-44b3-b840-e79d6253157a",
+      "status": "DELETE",
+      "problems": [
+        "§10 ust. 27 nie podaje konkretnej wartości km/h dla mgły. Dodatkowo odpowiedzi B i C są identyczne (obie 10 km/h)."
+      ]
+    },
+    {
+      "uuid": "f937a913-04d6-4233-ae7d-cb457c60c165",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a445182e-629c-4b17-a409-514b83d04c3e",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b7aeb646-dd95-4578-9e13-df824d72f388",
+      "status": "FIX",
+      "problems": [
+        "Rola 'sygnalisty' nie jest wymieniona w §10. W §10 sygnały maszyniście przekazuje kierownik manewrów lub manewrowi."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 10"
+      }
+    },
+    {
+      "uuid": "8e2255e1-6ea3-4351-8698-80092ddf0d3b",
+      "status": "FIX",
+      "problems": [
+        "Słowo 'rygluje' w odpowiedzi B nie pojawia się w §10. §10 ust. 8 mówi o 'prawidłowym ułożeniu zwrotnic i wykolejnic'."
+      ],
+      "changes": {
+        "answers": {
+          "B": "Ustawia zwrotnice i wykolejnice zgodnie z drogą przebiegu dla jazdy manewrowej"
+        }
+      }
+    },
+    {
+      "uuid": "3e7d787b-3e0a-47ae-a914-ca353a9f355f",
+      "status": "FIX",
+      "problems": [
+        "Rola 'rewidenta taboru' nie jest opisana w §10 — pojawia się w innych paragrafach."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 10"
+      }
+    },
+    {
+      "uuid": "d84eaaad-8592-4640-bae7-e2d7c5eadec4",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "16c74df4-c43f-427b-8310-b23dfb730c06",
+      "status": "FIX",
+      "problems": [
+        "Dystraktory A i D mogą być również czynnościami zabronionymi wg §10, co czyni pytanie niejednoznacznym."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Nastawiać zwrotnice do jazdy przed uzyskaniem zezwolenia pracownika nastawni"
+        }
+      }
+    },
+    {
+      "uuid": "96d0afc2-55c2-442a-b1c8-17c1db1b0303",
+      "status": "DELETE",
+      "problems": [
+        "§10 nie zawiera opisu sygnałów manewrowych. Treść pytania dotyczy sygnalizacji kolejowej (Ie-1), nie Ir-9."
+      ]
+    },
+    {
+      "uuid": "4b7d110b-3c17-4e97-b224-123749ec2b79",
+      "status": "DELETE",
+      "problems": [
+        "§10 nie zawiera tabeli sygnałów manewrowych. Sygnały manewrowe są definiowane w Ie-1."
+      ]
+    },
+    {
+      "uuid": "14fc26e6-a628-499f-b45b-29d49fff9cf2",
+      "status": "DELETE",
+      "problems": [
+        "§10 nie zawiera tabeli sygnałów manewrowych."
+      ]
+    },
+    {
+      "uuid": "d77b0ed7-234d-4f9f-bde7-2e3073304888",
+      "status": "DELETE",
+      "problems": [
+        "§10 nie zawiera tabeli sygnałów manewrowych."
+      ]
+    },
+    {
+      "uuid": "3695f280-fb4a-44e6-afe8-c0143924099f",
+      "status": "DELETE",
+      "problems": [
+        "§10 nie zawiera tabeli sygnałów manewrowych."
+      ]
+    },
+    {
+      "uuid": "665957d8-eb77-40f1-a90b-3fb6f8ba7033",
+      "status": "DELETE",
+      "problems": [
+        "Definicja planu pracy manewrowej jest w §2, nie w §10."
+      ]
+    },
+    {
+      "uuid": "c2b2e275-d6e1-4358-b058-433300a391e9",
+      "status": "DELETE",
+      "problems": [
+        "Dokument 'książka pracy manewrowej' nie istnieje w Ir-9."
+      ]
+    },
+    {
+      "uuid": "bdf530b5-c858-4db7-8b4e-ac702da1366d",
+      "status": "DELETE",
+      "problems": [
+        "Dokument 'wykaz odstawionych wagonów' nie istnieje w Ir-9."
+      ]
+    },
+    {
+      "uuid": "7cfb2590-580c-466f-abe7-f81d6cd385f0",
+      "status": "DELETE",
+      "problems": [
+        "Dokument 'protokół uszkodzenia wagonu' nie istnieje w Ir-9."
+      ]
+    },
+    {
+      "uuid": "d04819b9-7574-40d6-8ce5-9a61feed2097",
+      "status": "DELETE",
+      "problems": [
+        "§10 nie zawiera przepisu zabraniającego kierownikowi manewrów pełnienia roli sygnalisty."
+      ]
+    },
+    {
+      "uuid": "bd017a5b-0f8f-4490-87b1-667bff9789f8",
+      "status": "DELETE",
+      "problems": [
+        "§10 nie zawiera przepisów o formie sporządzania planu pracy manewrowej."
+      ]
+    },
+    {
+      "uuid": "9e048290-a47e-43e8-b1aa-60607c70257d",
+      "status": "DELETE",
+      "problems": [
+        "§10 nie nakłada obowiązku posiadania radiotelefonu na każdego członka drużyny manewrowej."
+      ]
+    },
+    {
+      "uuid": "f9b4781d-5263-4afb-bb25-dcadb3789b41",
+      "status": "DELETE",
+      "problems": [
+        "§10 nie zawiera przepisu o pierwszeństwie sygnału 'Stój' z latarki nad tarczą manewrową."
+      ]
+    },
+    {
+      "uuid": "d18daf3c-f3a4-44fb-87a2-90d76398f6a8",
+      "status": "DELETE",
+      "problems": [
+        "§10 nie zawiera przepisu o zastępowaniu sygnałów świetlnych dźwiękowymi w gęstej mgle."
+      ]
+    },
+    {
+      "uuid": "53e8132d-e61b-4227-b736-091cf01d8687",
+      "status": "FIX",
+      "problems": [
+        "§10 ust.27 pkt 4a określa limit 10 km/h dla jazd z pasażerami, nie 25 km/h. Pytanie sugeruje 25 km/h jako limit."
+      ],
+      "changes": {
+        "question": "Czy jazda manewrowa z pasażerami może przekroczyć 10 km/h?",
+        "answers": {
+          "A": "W wyjątkowych przypadkach",
+          "B": "Tak, do 25 km/h przy zabezpieczonej drodze i blokadzie drzwi",
+          "C": "Nie",
+          "D": "Bywa dozwolone"
+        },
+        "correct": "B"
+      }
+    },
+    {
+      "uuid": "47c861c7-f199-4243-9c91-c98c88b94574",
+      "status": "DELETE",
+      "problems": [
+        "Klasyfikacja pojazdów pomocniczych nie jest tematem §10."
+      ]
+    },
+    {
+      "uuid": "6139b1a5-605b-4d4b-81ec-c866109c5b14",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź A używa terminu 'Kierujący manewrami' zamiast 'Kierownik manewrów' z §10."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Kierownik manewrów"
+        }
+      }
+    },
+    {
+      "uuid": "c28e7ea0-a2b1-4292-b6f4-3a7a21978fa9",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "1a077929-f553-46cb-94a2-d25918db4873",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź A jest nieprawidłowa. Wg §10 ust. 8 odpowiedzialność za nastawienie zwrotnic ponosi pracownik, który je obsługuje.",
+        "explanation 'Ir-9 § 10-11' ma niepoprawny format — powinno być 'Ir-9 § 10 ust. 8'."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Pracownik obsługujący zwrotnice i wykolejnice"
+        },
+        "explanation": "Ir-9 § 10 ust. 8"
+      }
+    },
+    {
+      "uuid": "56fbc242-0dcf-48c5-a8bc-ae642fc8dd05",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "39a93254-e447-49cc-ab5b-e7055b5d8dab",
+      "status": "DELETE",
+      "problems": [
+        "§11 nie zawiera definicji pojęcia 'Hamulec górkowy'. Definicje są w §2."
+      ]
+    },
+    {
+      "uuid": "e87166a6-c5f6-493b-94d3-c0a02d91cc9d",
+      "status": "DELETE",
+      "problems": [
+        "§11 nie zawiera definicji pojęcia 'Górka rozrządowa'. Definicje są w §2."
+      ]
+    },
+    {
+      "uuid": "b5647145-67f1-4363-8932-9cb72a6a60fe",
+      "status": "DELETE",
+      "problems": [
+        "§11 nie zawiera informacji o prędkości 15 km/h przy pchaniu wagonów w stronę górki rozrządowej."
+      ]
+    },
+    {
+      "uuid": "d00ba1de-cdca-43d2-acea-375406583a4c",
+      "status": "FIX",
+      "problems": [
+        "Pytanie jest zbyt ogólne — §11 ust. 8 zabrania odrzucania/staczania konkretnie wagonów cystern oznaczonych pasem koloru pomarańczowego zgodnie z RID."
+      ],
+      "changes": {
+        "question": "Czy wolno odrzucać lub staczać wagony cysterny oznaczone pasem koloru pomarańczowego zgodnie z RID?"
+      }
+    },
+    {
+      "uuid": "ca703a76-6890-4dfe-b687-92047e650f88",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź A jest ogólna i nie odzwierciedla dosłownie treści §11 ust. 1 i ust. 3.",
+        "Sformułowanie 'obsługi przytorowej' nie pojawia się w §11."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Gdy nie zapewniono obsługi zwrotnic przez wyznaczonych pracowników lub odstępy między odprzęgami nie umożliwiają bezpiecznego nastawiania zwrotnic"
+        }
+      }
+    },
+    {
+      "uuid": "2ecf50f2-25a5-4fbd-a450-ca5fdda00aa7",
+      "status": "FIX",
+      "problems": [
+        "Sformułowanie 'pracownicy obsługi rozrządu zgodnie z zakresem obowiązków' nie wynika dosłownie z §11. §11 ust. 3 pkt 1 mówi o 'wyznaczonych pracownikach'."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Wyznaczeni pracownicy obsługujący zwrotnice"
+        }
+      }
+    },
+    {
+      "uuid": "70768657-8eba-471a-8124-019b93e6cceb",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź A jest ogólna. §11 ust. 3 wymienia trzy konkretne warunki dopuszczające staczanie."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Gdy wszystkie zwrotnice są obsługiwane przez wyznaczonych pracowników, odstępy między odprzęgami umożliwiają bezpieczne nastawianie zwrotnic, a ruch odprzęgów jest regulowany"
+        }
+      }
+    },
+    {
+      "uuid": "8bf8977d-4ae2-4a35-8354-5f5e01d9c272",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "472a2737-d81a-4d3d-9d7a-c1243e26b672",
+      "status": "DELETE",
+      "problems": [
+        "Pojęcie 'Wózek hamulcowy' nie istnieje w Ir-9."
+      ]
+    },
+    {
+      "uuid": "c0f28a2a-5bb8-4804-b02d-d97c55d1717a",
+      "status": "DELETE",
+      "problems": [
+        "Pytanie zawiera błąd w nazwie terminu: 'płoza hamulcowa hamulcowy'. §12 nie zawiera formalnej definicji płozy hamulcowej."
+      ]
+    },
+    {
+      "uuid": "2d71491c-cda0-4a07-8a3b-3718dc61f09b",
+      "status": "FIX",
+      "problems": [
+        "Definicja 'Hamulec postojowy' pochodzi z §2 ust. 3, nie z §12."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 12"
+      }
+    },
+    {
+      "uuid": "b209dadd-2edf-4b47-af50-82c20bdbc27f",
+      "status": "FIX",
+      "problems": [
+        "Definicja 'Hamulec torowy' pochodzi z §2 ust. 5, nie z §12.",
+        "Odpowiedź C używa 'wyhamowania lub zatrzymania' zamiast 'spowalniania' z §2 ust. 5."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 12"
+      }
+    },
+    {
+      "uuid": "cc19db98-e92c-4c74-8e7a-d514c4167e4c",
+      "status": "DELETE",
+      "problems": [
+        "Prędkość 8 km/h dla 'hamulca torowego automatycznego' nie istnieje w Ir-9."
+      ]
+    },
+    {
+      "uuid": "c8d5f01f-8fcf-4b29-b6ad-c2ba73b31060",
+      "status": "DELETE",
+      "problems": [
+        "Prędkość 10 km/h dla zjazdu grawitacyjnego bez hamulca torowego nie ma oparcia w §12."
+      ]
+    },
+    {
+      "uuid": "388ab934-666f-4aaf-8f54-63fd950d7513",
+      "status": "DELETE",
+      "problems": [
+        "Prędkość 5 km/h dla pchania wagonów bez hamulca postojowego na tor z płozami nie ma oparcia w §12."
+      ]
+    },
+    {
+      "uuid": "4bcc8937-5fbc-427b-8865-afd5ddf8ce1c",
+      "status": "FIX",
+      "problems": [
+        "explanation 'Ir-9 § 12 / Ir-9 § 14' ma niepoprawny format. Powinno być 'Ir-9 § 12' lub 'Ir-9 § 14'."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 12"
+      }
+    },
+    {
+      "uuid": "d0d40bbc-eaf6-44b0-aa08-8c2f38744914",
+      "status": "DELETE",
+      "problems": [
+        "§12 nie zawiera ogólnego sformułowania o 'stałej gotowości do hamowania'. Sekcja reguluje konkretne wymagania hamulcowe."
+      ]
+    },
+    {
+      "uuid": "3612b123-aba9-4490-a06a-7772f69e203e",
+      "status": "DELETE",
+      "problems": [
+        "§12 nie mówi o uznaniowej decyzji 'kierującego manewrami'. Kryteria hamowania są obiektywne (tabela w ust. 2)."
+      ]
+    },
+    {
+      "uuid": "dc366d80-5ac7-4f76-b06e-a0ca7edd68b0",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "3669d361-3351-4480-abd5-a2ef4a17b1c9",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f5b66bee-828a-4aba-9e91-85e0cb44570f",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź A zawiera 'utrzymywać kontakt z maszynistą', co nie jest wymienione w §13."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Stać poza przestrzenią między zderzakami i nie wchodzić między pojazdy podczas ich ruchu"
+        }
+      }
+    },
+    {
+      "uuid": "8919eece-dc1a-4d06-b660-5bce072bab97",
+      "status": "DELETE",
+      "problems": [
+        "§14 nie zawiera wzmianki o dokumencie 'raport zużycia płóz hamulcowych'. Dokument jest fikcyjny."
+      ]
+    },
+    {
+      "uuid": "eb6c51ae-33e1-4aef-8992-ff368c8dd1f8",
+      "status": "DELETE",
+      "problems": [
+        "§14 nie zawiera przepisu o torze o pochyleniu 1‰. Próg wymieniony w §14 to >2,5‰."
+      ]
+    },
+    {
+      "uuid": "f39935a2-520d-4f84-a8ca-e9776b5f1c85",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź A zawiera 'ustawienie rozjazdów/wk w położeniu ochronnym', co nie wynika z §14 ust. 5 pkt 3."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Przez płozowanie kół wymaganą liczbą płóz hamulcowych"
+        }
+      }
+    },
+    {
+      "uuid": "ba3cf467-99a9-41e1-afc5-7d1de34f62ce",
+      "status": "DELETE",
+      "problems": [
+        "Pytanie jest niemal identyczne z f39935a2 — duplikat tego samego scenariusza."
+      ]
+    },
+    {
+      "uuid": "09b9a2bb-0b03-42da-b7ba-c02ac548688a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "2ba77a32-b66b-4972-a858-a692ca15095e",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "44edfdf3-bd85-4d07-b84b-4dc824ad6945",
+      "status": "FIX",
+      "problems": [
+        "explanation 'Ir-9 § 15 / Ir-9 § 6 ust. 2' ma niepoprawny format."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 15"
+      }
+    },
+    {
+      "uuid": "fd5d8cd0-affe-4627-887b-e9a2351203fe",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "7c60dccd-8be3-4dcf-903c-c4fd33d3c95e",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5c77448d-4d32-4bb0-8873-e554c93b6956",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "cb87e1a3-ebed-4a6c-8222-10b5c6a076da",
+      "status": "DELETE",
+      "problems": [
+        "Odpowiedzi B i C są identyczne (3 km/h) — błąd konstrukcji pytania.",
+        "Limit 25 km/h nie ma podstawy w §16 dla tego scenariusza."
+      ]
+    },
+    {
+      "uuid": "1d42e198-6753-46b8-9fc1-ad1d00e06db4",
+      "status": "DELETE",
+      "problems": [
+        "§16 nie zawiera żadnej wzmianki o SSP (systemie sygnalizacji przejazdowej)."
+      ]
+    },
+    {
+      "uuid": "10577d6e-76d7-49fa-a1b2-3c6a5a659aaf",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź A jest bardzo ogólna i niejasna."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Z prędkością nie większą niż 20 km/h i przy spełnieniu warunków określonych w § 16"
+        }
+      }
+    },
+    {
+      "uuid": "7b96d1a2-32fa-416a-b0b0-6f4fa0f3bb5a",
+      "status": "DELETE",
+      "problems": [
+        "§16 nie zawiera przepisów o SSP."
+      ]
+    },
+    {
+      "uuid": "e0fd0cdd-2b3c-4f81-9434-60d233b5ec89",
+      "status": "DELETE",
+      "problems": [
+        "SSP nie jest tematem §16."
+      ]
+    },
+    {
+      "uuid": "3f2be886-810e-4120-8d3c-8bef6e2d410d",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "c6915f1c-de13-402c-9cfb-26bda72adef8",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź A pomija przesyłkę nadzwyczajną wymienioną w §17 ust. 4."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Wagony z ludźmi, z towarami niebezpiecznymi lub z przesyłką nadzwyczajną"
+        }
+      }
+    },
+    {
+      "uuid": "49f5b472-5f2a-49a2-90fa-bc426d57a24a",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź A zawiera 'zakaz odrzucania', który nie wynika z §17."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Konieczność szczególnej ostrożności oraz małych prędkości"
+        }
+      }
+    },
+    {
+      "uuid": "6b83c080-2cf1-4a3c-93dd-fc57ed65b638",
+      "status": "FIX",
+      "problems": [
+        "'Unikać uderzeń i gwałtownych sprzęgnięć' nie pochodzi z §17. §17 ust. 2 wymienia regulacje (RID, SMGS, Ir-16)."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Przestrzegać przepisów RID, SMGS, Ir-16 i regulacji wewnętrznych przy manewrach z tymi wagonami"
+        }
+      }
+    },
+    {
+      "uuid": "a3c3da3f-1368-4402-8c7a-bd564ca1308b",
+      "status": "FIX",
+      "problems": [
+        "§18 dotyczy manewrowania silnikowym pojazdem drogowym lub urządzeniami mechanicznymi, nie 'przetaczania bez pojazdu trakcyjnego' ogólnie."
+      ],
+      "changes": {
+        "question": "Czy dopuszcza się manewrowanie wagonami za pomocą silnikowego pojazdu drogowego lub urządzeń mechanicznych?",
+        "answers": {
+          "A": "Tak, w warunkach określonych w Ir‑9, z zachowaniem ograniczeń prędkości i zapewnieniem możliwości zatrzymania pojazdów"
+        }
+      }
+    },
+    {
+      "uuid": "50263734-f645-41b3-a97e-4b0b09907e1a",
+      "status": "FIX",
+      "problems": [
+        "'Wyznaczenie osób do nadzoru i hamowania' nie wynika z §18. Warunki to: ograniczenie prędkości (5 km/h lub 3 km/h), pojazd drogowy na zewnątrz toru, lina min. 2,5 m."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Ograniczenie prędkości do 5 km/h (lub 3 km/h), pojazd drogowy na zewnątrz toru, lina o długości min. 2,5 m"
+        }
+      }
+    },
+    {
+      "uuid": "4b66ff1a-e80c-40e0-a547-bdec5de5b695",
+      "status": "DELETE",
+      "problems": [
+        "§18 nie dotyczy ręcznego pchania pojazdów. Pytanie nie ma pokrycia w tekście §18."
+      ]
+    },
+    {
+      "uuid": "0d91ebbf-b9d9-41ee-905c-d40bd870e711",
+      "status": "FIX",
+      "problems": [
+        "§19 nie wymienia 'dźwigów' ani 'wstrzymania ruchu urządzeń'. §19 ust. 3 mówi o zażądaniu od pracowników przerwania czynności ładunkowych."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Uzgodnić z obsługą stanowiska i zażądać przerwania czynności ładunkowych w zasięgu toru"
+        }
+      }
+    },
+    {
+      "uuid": "5f73aed7-60bc-4df7-bd51-936cd4b38b5f",
+      "status": "DELETE",
+      "problems": [
+        "'Suwnica' nie jest wymieniona w §19. Pytanie jest zbyt specyficzne i nie ma pokrycia w tekście."
+      ]
+    },
+    {
+      "uuid": "4b6d2aca-93ba-43ea-aa2b-10681147d97d",
+      "status": "FIX",
+      "problems": [
+        "§19 ust. 3 mówi o działaniach przed dojechaniem, nie 'podczas przetaczania gdy zauważysz ludzi'."
+      ],
+      "changes": {
+        "question": "Co powinna zrobić drużyna manewrowa przed dojechaniem do pojazdów, przy których odbywają się czynności ładunkowe?"
+      }
+    },
+    {
+      "uuid": "156de853-7dee-419d-b8f1-cc200234f61d",
+      "status": "DELETE",
+      "problems": [
+        "§20 dotyczy budowy i typów płozów hamulcowych — nie zawiera wzmianki o 'rozrządzaniu' ani 'wyznaczonych pracownikach'."
+      ]
+    },
+    {
+      "uuid": "873b001f-6dfa-4dcc-9114-715d84ef509d",
+      "status": "DELETE",
+      "problems": [
+        "'Tor kierunkowy', 'odprzęgi' — to terminologia rozrządu z górki. §20 nie zawiera nic o torach kierunkowych."
+      ]
+    },
+    {
+      "uuid": "063e4589-0608-4ea3-bebe-258c50bf08e4",
+      "status": "DELETE",
+      "problems": [
+        "'Podczas rozrządzania' nie ma pokrycia w §20. Pytanie jest duplikatem pierwszego z tej grupy."
+      ]
+    },
+    {
+      "uuid": "677b5628-8cf5-4c3a-9ca6-3b082fa6ff5a",
+      "status": "DELETE",
+      "problems": [
+        "§ 21 nie zawiera informacji o maksymalnej prędkości jazdy manewrowej w rejonie naprawczym.",
+        "Paragraf dotyczy wyłącznie zasad zestawiania pociągów, nie prędkości manewrowych."
+      ]
+    },
+    {
+      "uuid": "df9695b1-0938-4941-b236-8c14ce401220",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź A jest zbyt ogólna — § 21 ust. 2 pkt 2a precyzuje konkretne warunki dopuszczenia wagonów z niesprawnym hamulcem.",
+        "Explanation nie wskazuje ustępu i punktu."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Nie, wagony z niesprawnym hamulcem dopuszcza się wyłącznie gdy są przesyłane do naprawy lub do wyładunku i hamulec nie może być naprawiony na miejscu, albo gdy urządzenia hamulcowe muszą być wyłączone"
+        },
+        "explanation": "Ir-9 § 21 ust. 2 pkt 2a"
+      }
+    },
+    {
+      "uuid": "de653591-b371-4383-bcf1-0fa5a1cce88e",
+      "status": "FIX",
+      "problems": [
+        "§ 21 ust. 1 mówi, że za zestawienie pociągu odpowiada 'zestawiający skład pociągu', nie 'kierownik manewrów we współpracy z pracownikami technicznymi'.",
+        "Explanation nie wskazuje ustępu."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Zestawiający skład pociągu"
+        },
+        "explanation": "Ir-9 § 21 ust. 1"
+      }
+    },
+    {
+      "uuid": "02189836-8157-4696-903b-aca1a412ff9b",
+      "status": "DELETE",
+      "problems": [
+        "Pojęcie 'wagony o ograniczeniach technicznych' nie występuje w § 21.",
+        "Odpowiedź A jest zbyt ogólna i nie wynika z żadnego konkretnego ustępu § 21."
+      ]
+    },
+    {
+      "uuid": "8c17c816-0322-4385-939a-9aa1a8fa3301",
+      "status": "DELETE",
+      "problems": [
+        "§ 21 nie wspomina o 'końcowej akceptacji zestawienia składu do wyprawienia'.",
+        "Pytanie powiela tematykę pytania uuid de653591 dotyczącego odpowiedzialności za zestawienie pociągu.",
+        "Sformułowanie 'kierujący manewrami we współpracy z odpowiednimi służbami technicznymi' nie wynika z § 21."
+      ]
+    },
+    {
+      "uuid": "a1ec3c07-b333-49b6-9c61-03134cb4621f",
+      "status": "FIX",
+      "problems": [
+        "Definicja 'Długość użyteczna toru' znajduje się w § 2 ust. 2, nie w § 22.",
+        "Odpowiedź B jest nieprecyzyjna — definicja z § 2 ust. 2 brzmi: 'długość części toru przeznaczona na postój pociągu lub wagonów, mierzona pomiędzy punktem ustawienia semafora, tarczy zaporowej lub manewrowej a ukresem lub innymi wyznaczonymi punktami'."
+      ],
+      "changes": {
+        "answers": {
+          "B": "długość części toru przeznaczona na postój pociągu lub wagonów, mierzona pomiędzy punktem ustawienia semafora, tarczy zaporowej lub manewrowej a ukresem lub innymi wyznaczonymi punktami"
+        },
+        "explanation": "Ir-9 § 2 ust. 2"
+      }
+    },
+    {
+      "uuid": "fadd2e61-a44c-4634-aa65-589638f79bc3",
+      "status": "FIX",
+      "problems": [
+        "Explanation wskazuje tylko 'Ir-9 § 22' bez numeru ustępu — właściwe odniesienie to § 22 ust. 3."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 22 ust. 3"
+      }
+    },
+    {
+      "uuid": "bf511d6d-5424-4dba-8840-fe53e96a8074",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź A ('Parametry trakcyjne pojazdu trakcyjnego, profil linii i warunki eksploatacyjne') nie wynika z treści § 22 — § 22 ust. 7 mówi jedynie, że masa ogólna składu pociągu nie powinna być większa od dopuszczalnego obciążenia pojazdu trakcyjnego.",
+        "Explanation wskazuje tylko 'Ir-9 § 22' bez ustępu."
+      ],
+      "changes": {
+        "question": "Co stanowi ograniczenie dla masy ogólnej składu pociągu zgodnie z § 22?",
+        "answers": {
+          "A": "Dopuszczalne obciążenie pojazdu trakcyjnego wyznaczonego do prowadzenia danego pociągu"
+        },
+        "explanation": "Ir-9 § 22 ust. 7"
+      }
+    },
+    {
+      "uuid": "52c96944-cb52-483c-b179-2e6408a7e682",
+      "status": "DELETE",
+      "problems": [
+        "Pytanie wskazuje jako poprawną odpowiedź 'Hak manewrowy' (C), który nie jest wymieniony w § 23 w żadnym ustępie.",
+        "Odpowiedź A 'Kask ochronny' jest myląca — § 23 ust. 2 pkt 3 wymienia hełm ochronny, co jest zbliżone pojęciowo, ale hak manewrowy nie wynika z § 23.",
+        "Pytanie nie ma jednoznacznie poprawnej odpowiedzi spośród podanych wariantów."
+      ]
+    },
+    {
+      "uuid": "8fd80c20-629c-4934-9c46-01af4e5dab27",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź A pomija rękawice ochronne, które są obowiązkowe wg § 23 ust. 2 pkt 3 (hełm i rękawice są wymienione łącznie).",
+        "Odpowiedź A używa sformułowania 'latarka (zgodnie z regulaminem)' — tymczasem § 23 ust. 2 pkt 1 wskazuje latarkę tylko przy niedostatecznej widoczności.",
+        "Pytanie dotyczy 'pracy na torach' zamiast 'pracy przy manewrach' — nieadekwatny kontekst.",
+        "Explanation nie wskazuje ustępu."
+      ],
+      "changes": {
+        "question": "Jakie elementy wyposażenia są wymagane dla pracownika zatrudnionego przy manewrach?",
+        "answers": {
+          "A": "Chorągiewka sygnałowa (lub latarka przy niedostatecznej widoczności), gwizdek, hełm ochronny, rękawice ochronne, kamizelka ostrzegawcza",
+          "B": "Wyłącznie ubranie ostrzegawcze",
+          "C": "Tylko gwizdek",
+          "D": "Brak wymagań"
+        },
+        "explanation": "Ir-9 § 23 ust. 2"
+      }
+    },
+    {
+      "uuid": "63c1c0ac-50e6-4d2c-931f-46585c96eb04",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid 8fd80c20 — ta sama tematyka wyposażenia przy pracy na torach/przy manewrach.",
+        "Odpowiedź A nie zawiera kluczowych elementów z § 23 ust. 2: brak rękawic ochronnych, brak chorągiewki sygnałowej, brak gwizdka.",
+        "§ 23 nie wymienia 'obuwia ochronnego' jako elementu wyposażenia manewrowego w ust. 2."
+      ]
+    },
+    {
+      "uuid": "d125ad12-4ed3-4c21-a2a5-bae20be00f62",
+      "status": "DELETE",
+      "problems": [
+        "§ 23 nie zawiera żadnych informacji o ustawianiu się względem toru podczas obserwacji manewrów, skrajni ani możliwości szybkiego zejścia.",
+        "Pytanie i jego odpowiedzi odnoszą się do innego paragrafu — nie wynikają z treści § 23."
+      ]
+    },
+    {
+      "uuid": "6acfdb19-fa37-4ba7-9b0c-63e1a6e2c262",
+      "status": "FIX",
+      "problems": [
+        "Pytanie pyta o 'przekraczanie torów na stacji' — § 24 nie odnosi się konkretnie do stacji, lecz ogólnie do poruszania się po torach.",
+        "Odpowiedź A zawiera 'miejscami do tego przeznaczonymi' i 'upewnieniu się o braku jazdy' — te sformułowania nie wynikają z § 24. § 24 ust. 2 nakazuje sprawdzić brak przeszkód i przechodzić prostopadle do osi toru.",
+        "Explanation nie wskazuje ustępu."
+      ],
+      "changes": {
+        "question": "Jak należy przekraczać tory zgodnie z § 24?",
+        "answers": {
+          "A": "Prostopadle do osi toru, po uprzednim upewnieniu się o braku przeszkód"
+        },
+        "explanation": "Ir-9 § 24 ust. 2"
+      }
+    },
+    {
+      "uuid": "9596430c-b00c-46ab-b6c7-30dc52f922d9",
+      "status": "DELETE",
+      "problems": [
+        "Pytanie jest niemal identyczne z pytaniem uuid 6acfdb19 — ta sama tematyka przekraczania torów.",
+        "Odpowiedź A zawiera 'wyznaczone przejścia' i 'brak jazd' — pojęcia te nie występują w § 24."
+      ]
+    },
+    {
+      "uuid": "732bcfc7-ebd5-4131-96c2-8a8d981d56b0",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź A zawiera sformułowania ('upewnić się, że nie ruszy', 'kontakt z kierującym manewrami') których nie ma w § 24.",
+        "§ 24 ust. 3 mówi o przechodzeniu przez tory zastawione pojazdami — przez pomosty hamulcowe, przerwy min. 20 m lub obejście w odległości min. 10 m.",
+        "Explanation nie wskazuje ustępu."
+      ],
+      "changes": {
+        "question": "Jak należy przechodzić przez tory zastawione pojazdami kolejowymi?",
+        "answers": {
+          "A": "Przez pomosty hamulcowe, przerwy między wagonami nie mniejsze niż 20 m lub obejść skład w odległości co najmniej 10 m od czoła"
+        },
+        "explanation": "Ir-9 § 24 ust. 3"
+      }
+    },
+    {
+      "uuid": "6272656b-1cb8-4427-a768-abc765e5c848",
+      "status": "DELETE",
+      "problems": [
+        "Pytanie wprowadza kontekst 'manewrów na dłuższym odcinku toru', który nie występuje w § 25.",
+        "Odpowiedź A zawiera sformułowanie 'ograniczona do niezbędnego minimum i określonych sytuacji', które nie wynika z § 25 — paragraf reguluje sposób jazdy i zakazy, nie ogranicza dopuszczalności do 'niezbędnego minimum'.",
+        "Pytanie jest merytorycznie nieadekwatne do treści paragrafu."
+      ]
+    },
+    {
+      "uuid": "80f5a429-396b-4ea9-a6d5-9a32e16b5ee6",
+      "status": "DELETE",
+      "problems": [
+        "§ 25 nie zawiera pojęcia 'pomosty wagonów' w kontekście jazdy — pytanie odnosi się do elementu nieobecnego w sekcji.",
+        "Odpowiedź A zawiera sformułowanie 'tylko gdy jest to niezbędne do wykonania czynności', które nie wynika z § 25.",
+        "§ 25 reguluje jedynie sposób jazdy na stopniach i zakazy, nie warunkuje dopuszczalności od 'niezbędności'."
+      ]
+    },
+    {
+      "uuid": "f7ca3c9b-d6a8-4296-8797-3fb0d651f553",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź A zawiera 'zejść na pierwszej możliwości', co nie jest wymienione w § 25.",
+        "Explanation nie wskazuje ustępu."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Być zwróconym twarzą w kierunku jazdy, trzymać się za uchwyt i nie wychylać się poza skrajnię taboru"
+        },
+        "explanation": "Ir-9 § 25 ust. 1"
+      }
+    },
+    {
+      "uuid": "bf718e7b-cadf-4a72-8a1d-ce38f1319e38",
+      "status": "DELETE",
+      "problems": [
+        "Odpowiedź A zawiera 'stosowanie uziemień przy pracach' — § 26 nie wspomina o uziemieniach.",
+        "§ 26 opisuje wyłącznie zakazy i bezpieczne odległości, nie procedury aktywnych prac."
+      ]
+    },
+    {
+      "uuid": "07764ca1-775a-4557-941d-f1ad122a2a39",
+      "status": "DELETE",
+      "problems": [
+        "Pytanie jest niemal identyczne z pytaniem uuid bf718e7b — ta sama tematyka pracy w pobliżu sieci trakcyjnej.",
+        "Odpowiedź A zawiera 'stosować uziemienia przy pracach' — brak podstawy w § 26."
+      ]
+    },
+    {
+      "uuid": "1aa00d64-3b0a-40a6-a11e-24ae16eec933",
+      "status": "DELETE",
+      "problems": [
+        "§ 26 nie zawiera żadnych informacji o pracach ładunkowych dźwigiem pod siecią trakcyjną.",
+        "Odpowiedź A o 'uzgodnieniu wyłączenia lub zabezpieczenia sieci' nie ma podstawy w § 26."
+      ]
+    },
+    {
+      "uuid": "ccbc8308-1cfc-4d5f-86fe-d264d60885a0",
+      "status": "FIX",
+      "problems": [
+        "§ 3 ust. 5 stwierdza jedynie, że manewry odbywają się na podstawie 'omówionego planu pracy manewrowej' — brak wskazania kto ten plan ustala.",
+        "Explanation ma niedozwolony format: dwa paragrafy rozdzielone ukośnikiem ('Ir-9 § 3 ust. 5 / Ir-9 § 5'). Właściwszym źródłem jest § 6 ust. 1 pkt 2."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 6 ust. 1 pkt 2"
+      }
+    },
+    {
+      "uuid": "ba2e7168-0ac1-4735-93fa-1381989f5392",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź A jest niepełna — § 5 ust. 3 wymienia cztery kategorie: ustawiacz, kierownik pociągu, dyżurny ruchu/nastawniczy/zwrotniczy (przy jazdach bez drużyny) oraz inny pracownik z kwalifikacjami ustawiacza lub kierownika pociągu. Pominięto 'kierownik pociągu' jako odrębną pozycję.",
+        "Explanation ma niedozwolony format: zakres ustępów 'ust. 3-6' — należy wskazać konkretny ustęp."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 5 ust. 3"
+      }
+    },
+    {
+      "uuid": "4764e9e4-f79f-4fb8-87ea-173ab54c1842",
+      "status": "OK",
+      "problems": []
+    }
+  ]
+}

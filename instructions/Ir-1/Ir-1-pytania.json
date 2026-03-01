@@ -198,12 +198,12 @@
     },
     {
       "uuid": "46ea224e-14bc-4b85-9905-e3a63af20561",
-      "question": "Czy przystanek osobowy może znajdować się na szlaku jednotorowym bez blokady liniowej?",
+      "question": "Co może przewidywać wewnętrzny rozkład jazdy dla przystanku osobowego na szlaku jednotorowym niewyposażonym w urządzenia blokady liniowej?",
       "answers": {
-        "A": "Tak, ale tylko gdy nie zatrzymują się pociągi",
-        "B": "Nie, to zabronione",
-        "C": "Tak, i można tam zmienić kierunek jazdy pociągów pasażerskich",
-        "D": "Tylko gdy jest tam semafor wjazdowy"
+        "A": "Wyłącznie postój techniczny pociągów towarowych",
+        "B": "Nic szczególnego — obowiązują standardowe zasady ruchu",
+        "C": "Zmianę kierunku jazdy pociągów pasażerskich",
+        "D": "Zatrzymanie pociągów wyłącznie na żądanie podróżnych"
       },
       "correct": "C",
       "explanation": "Ir-1 § 3 ust. 14",
@@ -250,7 +250,7 @@
     },
     {
       "uuid": "70d3840f-d513-4259-bbdb-5711913cc14a",
-      "question": "Z ilu metrów przed każdym rozjazdem bez semafora powinna znajdować się granica między torem szlakowym a posterunkiem, gdy semafora brak?",
+      "question": "W jakiej odległości przed najbliższym rozjazdem lub skrzyżowaniem wyznacza się granicę między torem szlakowym a posterunkiem zapowiadawczym, gdy przy danym torze dwutorowym brak semafora wjazdowego?",
       "answers": {
         "A": "50 m",
         "B": "75 m",
@@ -258,7 +258,7 @@
         "D": "125 m"
       },
       "correct": "C",
-      "explanation": "Ir-1 § 3 ust. 9",
+      "explanation": "Ir-1 § 3 ust. 9 pkt 2 lit. a",
       "section_ref": "§ 3"
     },
     {
@@ -266,7 +266,7 @@
       "question": "Jak definiowany jest \"odstęp\" w sieci kolejowej?",
       "answers": {
         "A": "Część linii między dwiema stacjami węzłowymi",
-        "B": "Część toru szlakowego między sąsiednimi posterunkami odstępowymi lub semaforami odstępowymi",
+        "B": "Część toru szlakowego między posterunkami zapowiadawczymi, odstępowymi lub semaforami blokady wieloodstępowej",
         "C": "Każdy tor główny dodatkowy na stacji",
         "D": "Fragment bocznicy od wjazdu do pierwszego rozjazdu"
       },
@@ -549,7 +549,7 @@
     },
     {
       "uuid": "fa004092-0525-4848-9fbf-fa534fac7b7d",
-      "question": "Gdy pociąg jedzie po torze zamkniętym, ale przejazdy kolejowo‑drogowe są obsługiwane lub zabezpieczone, prędkość jazdy pchanego lub cofającego pociągu nie może przekroczyć:",
+      "question": "Pociąg jest pchany lub cofany za wiedzą dyżurnego ruchu na szlaku, na którym przejazdy kolejowo-drogowe są obsługiwane lub zabezpieczone w inny sposób. Jaka jest maksymalna dozwolona prędkość?",
       "answers": {
         "A": "20 km/h",
         "B": "25 km/h",
@@ -557,7 +557,7 @@
         "D": "35 km/h"
       },
       "correct": "C",
-      "explanation": "Ir-1 § 63",
+      "explanation": "Ir-1 § 63 ust. 5 tabela poz. 28)",
       "section_ref": "§ 63"
     },
     {
@@ -1812,13 +1812,13 @@
       "uuid": "af9d2503-d5d6-46d0-8fac-946a58c4b627",
       "question": "Maksymalna długość składu pociągu jest określona w:",
       "answers": {
-        "A": "Wewnętrznym rozkładzie jazdy",
-        "B": "Instrukcji Ir‑3",
+        "A": "Dodatkach do rozkładu jazdy",
+        "B": "Instrukcji Ir-3",
         "C": "Regulaminie technicznym stacji",
         "D": "Tablicy sygnałowej"
       },
       "correct": "A",
-      "explanation": "Ir-1 § 19 ust. 1",
+      "explanation": "Ir-1 § 19 ust. 6: dopuszczalne długości pociągów podaje się w dodatkach do rozkładu jazdy.",
       "section_ref": "§ 19"
     },
     {
@@ -2382,15 +2382,15 @@
     },
     {
       "uuid": "b3f93dba-befd-4c5e-8e15-bc258653702f",
-      "question": "Jak nazywa się część infrastruktury kolejowej między dwiema stacjami węzłowymi?",
+      "question": "Jak nazywa się część linii kolejowej między dwiema sąsiednimi stacjami węzłowymi?",
       "answers": {
-        "A": "Odcinek linii",
+        "A": "Odcinek",
         "B": "Odstęp",
         "C": "Rejon",
         "D": "Mijanka"
       },
       "correct": "A",
-      "explanation": "Ir-1 § 2 ust. 2",
+      "explanation": "Ir-1 § 2 ust. 4",
       "section_ref": "§ 2"
     },
     {
@@ -2447,28 +2447,28 @@
     },
     {
       "uuid": "d9c9ecc2-b674-447f-911b-df2d854a15e6",
-      "question": "Jak w Ir‑1 zdefiniowano pojęcie „odstęp” (w kontekście SBL)?",
+      "question": "Jak w Ir‑1 zdefiniowano pojęcie „odstęp” na szlaku z samoczynną blokadą wieloodstępową (SBL)?",
       "answers": {
-        "A": "Odcinek szlaku między dwoma samoczynnymi semaforami odstępowymi",
-        "B": "Odcinek linii między dwiema stacjami węzłowymi",
+        "A": "Część toru szlakowego między dwoma kolejnymi semaforami odstępowymi blokady wieloodstępowej (samoczynnej) dla tego samego kierunku jazdy",
+        "B": "Część linii między dwiema stacjami węzłowymi",
         "C": "Tor na stacji przeznaczony do oblotu",
         "D": "Miejsce postoju wagonów odstawionych"
       },
       "correct": "A",
-      "explanation": "Ir-1 § 2 ust. 6",
+      "explanation": "Ir-1 § 2 ust. 6 pkt 4",
       "section_ref": "§ 2"
     },
     {
       "uuid": "a72bf759-9111-4edd-89e3-65a0cbbe44d6",
-      "question": "Co w Ir‑1 oznacza „odcinek linii”?",
+      "question": "Co w Ir‑1 oznacza pojęcie „odcinek”?",
       "answers": {
-        "A": "Część linii między dwiema stacjami węzłowymi",
+        "A": "Część linii kolejowej zawarta między sąsiednimi stacjami węzłowymi albo między punktem początkowym lub końcowym linii kolejowej i najbliższą stacją węzłową",
         "B": "Najkrótszy fragment toru stacyjnego",
         "C": "Odcinek między dwoma odstępami SBL",
         "D": "Granica rejonu nastawczego"
       },
       "correct": "A",
-      "explanation": "Ir-1 § 2 ust. 2",
+      "explanation": "Ir-1 § 2 ust. 4",
       "section_ref": "§ 2"
     },
     {
@@ -2494,7 +2494,7 @@
         "D": "Pociąg towarowy"
       },
       "correct": "A",
-      "explanation": "Ir-1 § 9 ust. 3",
+      "explanation": "Ir-1 § 9 ust. 3 pkt 1",
       "section_ref": "§ 9"
     },
     {
