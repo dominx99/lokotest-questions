@@ -975,6 +975,344 @@
       "correct": "A",
       "explanation": "Ir-9 § 11 ust. 4",
       "section_ref": "§ 11"
+    },
+    {
+      "uuid": "d3e8a726-9f83-4816-a63d-3eec57572d01",
+      "question": "Co jest celem instrukcji Ir-9?",
+      "answers": {
+        "A": "Określenie zasad zapewniających bezpieczeństwo osób, pojazdów kolejowych i ładunków przy wykonywaniu manewrów",
+        "B": "Określenie zasad prowadzenia ruchu pociągów na liniach kolejowych",
+        "C": "Podanie zasad utrzymania infrastruktury kolejowej zarządzanej przez PKP PLK S.A.",
+        "D": "Określenie zasad obsługi urządzeń sterowania ruchem kolejowym"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 1 ust. 2",
+      "section_ref": "§ 1"
+    },
+    {
+      "uuid": "8cbcfb57-f5db-4b5c-ab8c-87b30537741e",
+      "question": "Jaka jest maksymalna liczba wagonów, jaką bez obsadzenia hamulców można odrzucać?",
+      "answers": {
+        "A": "Trzech wagonów",
+        "B": "Pięciu wagonów",
+        "C": "Jednego wagonu",
+        "D": "Liczba nie jest określona"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 11 ust. 12",
+      "section_ref": "§ 11"
+    },
+    {
+      "uuid": "735deb3a-ee16-4fe3-a629-38b1d68294d7",
+      "question": "Na jakie tory nie wolno odrzucać ani staczać wagonów ze względu na ich przeznaczenie?",
+      "answers": {
+        "A": "Na tory ładunkowe i tory naprawcze",
+        "B": "Na tory kierunkowo-odjazdowe",
+        "C": "Na tory stacyjne bez wzniesień",
+        "D": "Na tory główne zasadnicze"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 11 ust. 1 pkt 5 i pkt 7",
+      "section_ref": "§ 11"
+    },
+    {
+      "uuid": "49cf9350-aabf-4950-b892-d72ad161d2bc",
+      "question": "W jakiej odległości przed toczącym się odprzęgiem należy zakładać płozy hamulcowe?",
+      "answers": {
+        "A": "5 – 10 m",
+        "B": "10 – 15 m",
+        "C": "15 – 20 m",
+        "D": "20 – 30 m"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 12 ust. 12",
+      "section_ref": "§ 12"
+    },
+    {
+      "uuid": "c1160a00-1928-4e3c-80c2-6d66f778a6e9",
+      "question": "Płóz hamulcowy typu PL1 przeznaczony jest do szyn jakiego typu?",
+      "answers": {
+        "A": "Do szyn typu S60/UIC60/60E1 oraz R65",
+        "B": "Do szyn typu S42, S49",
+        "C": "Do szyn wszystkich typów (płóz uniwersalny)",
+        "D": "Do szyn typu 8 i R65"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 20 ust. 2 pkt 1",
+      "section_ref": "§ 20"
+    },
+    {
+      "uuid": "b0dac87c-c066-40c8-81c8-d335774e5a46",
+      "question": "Na jakim kolorze malowane są płozy hamulcowe typu PL3 (uniwersalne)?",
+      "answers": {
+        "A": "Czerwony",
+        "B": "Żółty",
+        "C": "Pomarańczowy",
+        "D": "Zielony"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 20 ust. 2 pkt 3",
+      "section_ref": "§ 20"
+    },
+    {
+      "uuid": "23e93846-5f24-436e-980a-5ca278abaedf",
+      "question": "W jakiej minimalnej odległości od złącza szyn zabronione jest wykładanie płozów hamulcowych?",
+      "answers": {
+        "A": "0,5 m",
+        "B": "1,5 m",
+        "C": "2 m",
+        "D": "1 m"
+      },
+      "correct": "D",
+      "explanation": "Ir-9 § 20 ust. 4 pkt 1",
+      "section_ref": "§ 20"
+    },
+    {
+      "uuid": "302f04ae-00ed-4297-b1d8-a9e88d99cfd8",
+      "question": "Co należy zrobić z płozem, który uległ zacięciu lub zrzuceniu z szyny?",
+      "answers": {
+        "A": "Natychmiast go wyrzucić i zastąpić nowym",
+        "B": "Uznać go za uszkodzony do czasu oględzin przez kierownika manewrów i określenia dalszej przydatności",
+        "C": "Przekazać go do posterunku technicznego bez dalszych oględzin",
+        "D": "Można go nadal używać, jeśli nie widać wyraźnych uszkodzeń"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 20 ust. 9",
+      "section_ref": "§ 20"
+    },
+    {
+      "uuid": "0e33acf8-6356-4fa1-bdf9-6d15b3a528cc",
+      "question": "Ile pojazdów trakcyjnych ciągnących może być użytych w pociągu?",
+      "answers": {
+        "A": "Nie więcej niż dwa pojazdy trakcyjne ciągnące",
+        "B": "Wyłącznie jeden pojazd trakcyjny ciągnący",
+        "C": "Nie więcej niż trzy pojazdy trakcyjne ciągnące",
+        "D": "Liczba pojazdów trakcyjnych jest nieograniczona"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 21 ust. 2 pkt 21",
+      "section_ref": "§ 21"
+    },
+    {
+      "uuid": "3476e093-1583-4315-bd79-a3999bf3d569",
+      "question": "Jaką minimalną odległość należy zachować od zerwanych przewodów sieci trakcyjnej?",
+      "answers": {
+        "A": "1,4 m",
+        "B": "5 m",
+        "C": "10 m",
+        "D": "3 m"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 26 ust. 5",
+      "section_ref": "§ 26"
+    },
+    {
+      "uuid": "67b8c063-9971-4353-9696-7f2a858f793b",
+      "question": "Czy wolno wchodzić na konstrukcje wsporcze sieci jezdnej (słupy, bramki), na których zawieszone są przewody trakcyjne?",
+      "answers": {
+        "A": "Tak, ale tylko w rękawicach dielektrycznych",
+        "B": "Tak, jeśli napięcie jest wyłączone",
+        "C": "Tak, ale tylko za zezwoleniem dyżurnego ruchu",
+        "D": "Nie wolno wchodzić na te konstrukcje"
+      },
+      "correct": "D",
+      "explanation": "Ir-9 § 26 ust. 4",
+      "section_ref": "§ 26"
+    },
+    {
+      "uuid": "58ade30d-9402-4da4-b684-f251a9c4bfe7",
+      "question": "Kogo należy powiadomić o zauważonej awarii sieci trakcyjnej?",
+      "answers": {
+        "A": "Wyłącznie kierownika pociągu",
+        "B": "Dyżurnego ruchu oraz dyspozytora zasilania elektroenergetycznego",
+        "C": "Tylko maszynistę",
+        "D": "Straż pożarną i policję"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 26 ust. 5",
+      "section_ref": "§ 26"
+    },
+    {
+      "uuid": "b21a7e20-d65c-41f4-9871-ea66fcee3ef6",
+      "question": "Kiedy nad torem zelektryfikowanym wolno wchodzić na pojazdy kolejowe lub ładunki przewożone na wagonach odkrytych?",
+      "answers": {
+        "A": "Gdy sieć trakcyjna jest wyłączona spod napięcia",
+        "B": "Gdy ładunek ma wysokość poniżej 1 m od podłogi wagonu",
+        "C": "Zawsze, pod warunkiem zachowania szczególnej ostrożności",
+        "D": "Nigdy, pod żadnym warunkiem"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 26 ust. 1",
+      "section_ref": "§ 26"
+    },
+    {
+      "uuid": "29e4e279-c7b8-4bb0-8788-a67fd3de05ae",
+      "question": "Na jaką maksymalną wysokość może być wyniesiony pomost hamulcowy wagonu, by można po nim przechodzić na torze zelektryfikowanym?",
+      "answers": {
+        "A": "Do 1,4 m od poziomu podłogi pojazdu kolejowego",
+        "B": "Do 2 m od poziomu podłogi pojazdu kolejowego",
+        "C": "Do 1 m od poziomu podłogi pojazdu kolejowego",
+        "D": "Do 0,5 m od poziomu podłogi pojazdu kolejowego"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 26 ust. 2",
+      "section_ref": "§ 26"
+    },
+    {
+      "uuid": "27a97ff3-3221-4772-914b-753ed6d5b034",
+      "question": "W jakich warunkach atmosferycznych należy zachować szczególną ostrożność podczas manewrów na torach zelektryfikowanych ze względu na ryzyko awarii sieci trakcyjnej?",
+      "answers": {
+        "A": "Tylko przy silnym słońcu i wysokich temperaturach",
+        "B": "Przy opadach deszczu i mgły",
+        "C": "Podczas opadów śniegu, oblodzenia sieci i silnych wiatrów",
+        "D": "Tylko podczas burzy z piorunami"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 26 ust. 6",
+      "section_ref": "§ 26"
+    },
+    {
+      "uuid": "df49f2e8-9501-4828-b74b-bc8131986191",
+      "question": "Kto sporządza kartę rozrządową?",
+      "answers": {
+        "A": "Maszynista pojazdu trakcyjnego",
+        "B": "Wyznaczony pracownik przewoźnika kolejowego",
+        "C": "Dyżurny ruchu stacji",
+        "D": "Kierownik pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 2",
+      "section_ref": "§ 26"
+    },
+    {
+      "uuid": "869c1b01-0b72-492f-930f-c44e30df1aa6",
+      "question": "Kiedy można zezwolić na prowadzenie rozrządzania bez sporządzania karty rozrządowej?",
+      "answers": {
+        "A": "Zawsze, gdy kierownik manewrów wyrazi zgodę",
+        "B": "W wyjątkowych przypadkach, tylko na stacjach o małym obciążeniu pracą rozrządową (z wyłączeniem rozrządu z górek rozrządowych)",
+        "C": "Zawsze w nocy, by przyspieszyć pracę",
+        "D": "Gdy liczba wagonów nie przekracza 10"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 3",
+      "section_ref": "§ 26"
+    },
+    {
+      "uuid": "cb650666-4596-4e67-9033-7f908466436a",
+      "question": "Co oznacza oznacznik 'z' w karcie rozrządowej?",
+      "answers": {
+        "A": "Wagon, który musi być hamowany przy użyciu dwóch płozów",
+        "B": "Wagon z czynnym ręcznym hamulcem wagonowym",
+        "C": "Wagon, którego nie wolno staczać i odrzucać",
+        "D": "Wagon ze znakiem zabraniającym przejazdu przez górkę rozrządową"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 15",
+      "section_ref": "§ 26"
+    },
+    {
+      "uuid": "6d1b2730-7d61-452e-9e7c-6f919eccace2",
+      "question": "Czy wolno prowadzić rozrządzanie z górki rozrządowej bez sporządzenia kart rozrządowych w przypadku niesprawnej łączności radiowej?",
+      "answers": {
+        "A": "Tak, pod warunkiem użycia megafonu",
+        "B": "Tak, gdy kierownik manewrów jest obecny na miejscu",
+        "C": "Tak, ale tylko w dzień",
+        "D": "Nie wolno prowadzić rozrządzania z górki bez kart rozrządowych przy niesprawnej łączności radiowej"
+      },
+      "correct": "D",
+      "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 19",
+      "section_ref": "§ 26"
+    },
+    {
+      "uuid": "c825dd72-cdc8-49c3-ab3c-c1adb0cbd103",
+      "question": "Co jest podstawowym celem manewrów zgodnie z Ir-9?",
+      "answers": {
+        "A": "Wyłącznie zestawianie składów pociągów i podstawianie wagonów na punkty ładunkowe",
+        "B": "Rozrządzanie wagonów, zestawianie składów pociągów, podstawianie i zabieranie wagonów na i z punktów ładunkowych, przestawianie pojazdów kolejowych z jednego toru na drugi oraz koordynacja jazd manewrowych pojazdów trakcyjnych luzem",
+        "C": "Koordynacja jazd manewrowych i przestawianie wagonów między torami głównymi a bocznymi",
+        "D": "Planowanie i realizacja ruchu pociągów na stacji oraz bocznicach kolejowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 3 ust. 1",
+      "section_ref": "§ 3"
+    },
+    {
+      "uuid": "5322c69b-5565-4332-9d3d-2409a8f8b767",
+      "question": "Na czym polega odrzucanie pojedyncze w trakcie manewrów?",
+      "answers": {
+        "A": "Lokomotywa manewrowa pchając odprzęgnięte wagony, przy pewnej określonej prędkości zatrzymuje się, co powoduje, że odprzęgnięte od niej wagony toczą się dalej samodzielnie.",
+        "B": "Lokomotywa manewrowa stacza wagony z górki rozrządowej, wykorzystując siłę ciężkości.",
+        "C": "Lokomotywa manewrowa odcina kolejno kilka odprzęgów, zwiększając prędkość po każdym odczepieniu.",
+        "D": "Wagony są przestawiane na wyznaczony tor i odczepiane po zatrzymaniu lokomotywy."
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 4 ust. 3",
+      "section_ref": "§ 4"
+    },
+    {
+      "uuid": "71e80258-c242-4aba-bfac-4d6ae25f3e01",
+      "question": "Ile osi rzeczywistych może maksymalnie liczyć przestawiany jednoosobowo skład wagonów ładownych bez czynnego hamulca zespolonego?",
+      "answers": {
+        "A": "60 osi rzeczywistych",
+        "B": "28 osi rzeczywistych",
+        "C": "8 osi rzeczywistych",
+        "D": "16 osi rzeczywistych"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 7 ust. 4 pkt 2",
+      "section_ref": "§ 7"
+    },
+    {
+      "uuid": "8302d55c-235e-4058-989f-a973fc2f3dea",
+      "question": "Co oznacza położenie przeciwwagi z białym półkolem u góry na zwrotnicy obsługiwanej ręcznie przez drużynę manewrową?",
+      "answers": {
+        "A": "Zwrotnica jest uszkodzona i wyłączona z eksploatacji",
+        "B": "Zasadnicze położenie zwrotnicy",
+        "C": "Zwrotnica jest nastawiona na tor boczny",
+        "D": "Zwrotnica jest zamknięta na zamek"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 8 ust. 3",
+      "section_ref": "§ 8"
+    },
+    {
+      "uuid": "db88841e-8647-415b-b71a-583be701d983",
+      "question": "W jakich sytuacjach manewrowy powinien dawać sygnały samodzielnie?",
+      "answers": {
+        "A": "Wyłącznie na wyraźne polecenie kierownika manewrów",
+        "B": "Przed dojechaniem do wagonów, które ma połączyć; gdy wykonuje manewry jednoosobowo; celem wstrzymania manewrów w razie grożącego niebezpieczeństwa",
+        "C": "Tylko przy przestawianiu zwrotnic i wykolejnic",
+        "D": "Jedynie podczas hamowania manewrujących pojazdów kolejowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 8 ust. 5",
+      "section_ref": "§ 8"
+    },
+    {
+      "uuid": "632ee897-9ee7-466d-9a99-c4e38d1b4576",
+      "question": "Na jakiej wysokości ponad główką szyny nie powinny zwisać sprzęgi hamulcowe po ich pozawieszaniu na wsporniki przed zakończeniem pracy?",
+      "answers": {
+        "A": "Nie niżej niż 100 mm",
+        "B": "Nie niżej niż 120 mm",
+        "C": "Nie niżej niż 140 mm",
+        "D": "Nie niżej niż 160 mm"
+      },
+      "correct": "C",
+      "explanation": "Ir-9 § 8 ust. 6 pkt 4",
+      "section_ref": "§ 8"
+    },
+    {
+      "uuid": "68c7637f-289c-4076-9343-65b5fb3dedda",
+      "question": "Kiedy maszynista powinien odmówić wykonania polecenia manewrowego?",
+      "answers": {
+        "A": "Gdy polecenie zostało wydane przez kierownika manewrów ustnie, a nie sygnałem",
+        "B": "Gdy nie był omówiony plan pracy manewrowej albo podany sygnał lub polecenie zostały wydane w sposób niezgodny z przepisami lub budzący wątpliwości",
+        "C": "Gdy prędkość manewrów przekracza dopuszczalną wartość określoną w regulaminie technicznym",
+        "D": "Gdy maszynista nie ma pewności co do prawidłowego nastawienia zwrotnic na drodze przebiegu"
+      },
+      "correct": "B",
+      "explanation": "Ir-9 § 9 ust. 4",
+      "section_ref": "§ 9"
     }
   ]
 }

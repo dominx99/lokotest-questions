@@ -1,7 +1,7 @@
 """Calculate question deficit per section.
 
 Counts existing questions per section_ref, counts lines in each section file,
-computes deficit = max(1, lines // 20) - existing.
+computes deficit = max(1, lines // 8) - existing.
 
 Outputs JSON to stdout with sections that need more questions.
 
@@ -115,7 +115,7 @@ def main() -> None:
                 continue
 
         content_lines = count_content_lines(md_file)
-        required = max(1, content_lines // 20)
+        required = max(1, content_lines // 8)
         existing = counts.get(normalized_id, 0)
         deficit = required - existing
 

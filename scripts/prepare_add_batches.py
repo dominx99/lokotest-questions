@@ -155,7 +155,7 @@ def compute_deficits(
             continue
 
         content_lines = count_content_lines(md_file)
-        required = max(1, content_lines // 20)
+        required = max(1, content_lines // 8)
         existing = counts.get(normalized_id, 0)
         deficit = required - existing
 
