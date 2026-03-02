@@ -1,9 +1,10 @@
-"""Mark all questions in pytania.json as verified.
+"""Mark or unmark all questions in pytania.json as verified.
 
-Sets verified=true on all questions in {name}-pytania.json.
+Sets verified=true (or false with --unmark) on all questions in {name}-pytania.json.
 
 Usage:
     uv run python scripts/mark_verified.py Ir-1
+    uv run python scripts/mark_verified.py --unmark Ir-1
 """
 
 from __future__ import annotations
@@ -27,11 +28,17 @@ def save_json(path: Path, data: dict) -> None:
 
 
 def main() -> None:
-    if len(sys.argv) < 2:
-        print(f"Usage: {sys.argv[0]} <name>")
+    args = sys.argv[1:]
+    unmark = False
+    if "--unmark" in args:
+        unmark = True
+        args.remove("--unmark")
+
+    if not args:
+        print(f"Usage: {sys.argv[0]} [--unmark] <name>")
         sys.exit(1)
 
-    name = sys.argv[1]
+    name = args[0]
     base = INSTRUCTIONS_DIR / name
     q_path = base / f"{name}-pytania.json"
 
@@ -41,16 +48,23 @@ def main() -> None:
 
     q_data = load_json(q_path)
 
-    # Mark all questions as verified
-    marked = 0
+    changed = 0
     total = len(q_data["questions"])
-    for q in q_data["questions"]:
-        if not q.get("verified"):
-            q["verified"] = True
-            marked += 1
 
-    save_json(q_path, q_data)
-    print(f"Oznaczono {marked} pytań jako zweryfikowane (z {total} wszystkich).")
+    if unmark:
+        for q in q_data["questions"]:
+            if q.get("verified"):
+                q["verified"] = False
+                changed += 1
+        save_json(q_path, q_data)
+        print(f"Odznaczono {changed} pytań (z {total} wszystkich).")
+    else:
+        for q in q_data["questions"]:
+            if not q.get("verified"):
+                q["verified"] = True
+                changed += 1
+        save_json(q_path, q_data)
+        print(f"Oznaczono {changed} pytań jako zweryfikowane (z {total} wszystkich).")
 
 
 if __name__ == "__main__":

@@ -72,6 +72,11 @@ kilku podpunktów (np. definicja składająca się z 3-4 członów), oznacz pyta
 a następnie zaproponuj **osobne pytania** (status NEW) — po jednym na każdy podpunkt/człon wyliczenia. \
 Każde nowe pytanie powinno testować wiedzę o jednym konkretnym aspekcie definicji/wyliczenia. \
 Wygeneruj UUID dla każdego nowego pytania za pomocą pythona: `import uuid; str(uuid.uuid4())`.
+10. Czy **odpowiedzi mają zbliżoną długość**? Jeśli poprawna odpowiedź jest wyraźnie dłuższa niż \
+wszystkie dystraktory (lub odwrotnie) — oznacz FIX. Dystraktory powinny być rozbudowane na podobnym \
+poziomie szczegółowości co poprawna odpowiedź (pełne definicje z paragrafu lub rozwinięte parafrazy). \
+Nie „napompowuj" jednak dystraktorów bezsensownym tekstem — ich szczegółowość powinna wynikać z treści paragrafu. \
+Sytuacja, w której poprawna odpowiedź jest najdłuższa, zdradza prawidłową odpowiedź i jest niedopuszczalna.
 
 ## Format wyników — ZAPISZ DO PLIKU
 
