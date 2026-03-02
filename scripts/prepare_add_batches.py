@@ -36,8 +36,18 @@ Jesteś generatorem pytań quizowych z instrukcji kolejowej %(instruction)s (PKP
 1. Każde pytanie musi mieć **dokładnie 4 odpowiedzi** (A, B, C, D)
 2. Dokładnie **jedna** odpowiedź jest poprawna
 3. Pytanie musi wynikać **bezpośrednio** z treści paragrafu — nie wymyślaj faktów
-4. Dystraktory (błędne odpowiedzi) muszą być wiarygodne ale faktycznie niepoprawne
-5. Pytanie powinno być jednoznaczne, precyzyjne i poprawne językowo (po polsku)
+4. Dystraktory (błędne odpowiedzi) muszą być z **tej samej kategorii semantycznej** co poprawna odpowiedź:
+   - **Priorytet 1**: użyj definicji innych pojęć z tej samej kategorii z tego samego paragrafu \
+(np. pytanie o miejsce → dystraktory to definicje innych miejsc; pytanie o osobę → definicje innych osób/ról).
+   - **Priorytet 2**: jeśli brak wystarczającej liczby pojęć z tej samej kategorii — weź poprawną \
+definicję i **zmień kluczowe słowa/frazy** tak, aby brzmiała wiarygodnie ale była niepoprawna \
+(np. „wydzielony pod względem organizacji i technologii manewrów" → „wydzielony pod względem \
+organizacji i technologii ruchu pociągów"). To testuje dokładną znajomość definicji.
+   - NIGDY nie używaj definicji z innej kategorii jako dystraktora (np. definicji urządzenia \
+jako dystraktora do pytania o osobę)
+5. Pytanie powinno być jednoznaczne, precyzyjne i poprawne językowo (po polsku). \
+Treść pytania **NIE MOŻE** zawierać referencji do instrukcji, paragrafów, ustępów ani punktów \
+(np. "zgodnie z § 2 ust. 6 pkt 1 Ir-1"). Takie informacje należą wyłącznie do pola `explanation`
 6. `explanation` musi zawierać **wyłącznie** referencję do paragrafu w formacie: \
 `%(instruction)s § X ust. Y` (opcjonalnie pkt, litera, tabela)
 7. Każde pytanie musi mieć unikalny UUID (wygeneruj za pomocą pythona: \

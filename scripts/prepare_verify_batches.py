@@ -39,14 +39,24 @@ Jesteś weryfikatorem pytań quizowych z instrukcji kolejowej %(instruction)s (P
 ## Dla każdego pytania sprawdź
 
 1. Czy **poprawna odpowiedź** (`correct`) faktycznie wynika z treści paragrafu?
-2. Czy **pytanie** jest jednoznaczne, precyzyjne i poprawne językowo (polska gramatyka)?
+2. Czy **pytanie** jest jednoznaczne, precyzyjne i poprawne językowo (polska gramatyka)? \
+Treść pytania **NIE MOŻE** zawierać referencji do instrukcji, paragrafów, ustępów ani punktów \
+(np. "zgodnie z § 2 ust. 6 pkt 1 Ir-1"). Takie informacje należą wyłącznie do pola `explanation`. \
+Pytanie powinno być zrozumiałe bez znajomości numeracji paragrafów. Jeśli pytanie zawiera takie referencje — oznacz FIX i usuń je z treści pytania.
 3. Czy **dokładnie jedna** odpowiedź jest poprawna według treści paragrafu? Jeśli więcej niż jedna \
 odpowiedź ma pokrycie w treści — oznacz DELETE (pytanie niejednoznaczne).
 4. Czy **błędne odpowiedzi** (dystraktory) są wiarygodne ale faktycznie niepoprawne?
-   - Przy pytaniach definicyjnych (np. "Jak instrukcja definiuje pojęcie X?") dystraktory powinny być \
-definicjami innych pojęć z tego samego paragrafu/instrukcji — nie krótkimi, oczywiście błędnymi hasłami. \
-Jeśli dystraktory są zbyt łatwe do odrzucenia (np. krótkie frazy vs. długa definicja), oznacz FIX \
-i zaproponuj dystraktory będące definicjami innych pojęć z tego samego paragrafu lub instrukcji.
+   - Dystraktory muszą być z **tej samej kategorii semantycznej** co poprawna odpowiedź. \
+Jeśli poprawna odpowiedź definiuje miejsce/obszar — dystraktory też muszą być definicjami miejsc/obszarów. \
+Jeśli definiuje osobę/rolę — dystraktory muszą być definicjami innych osób/ról. Itd.
+   - **Priorytet 1**: użyj definicji innych pojęć z tej samej kategorii semantycznej z tego samego paragrafu \
+(np. pytanie o „rejon manewrowy" → dystraktory z definicji innych miejsc/obszarów z tego paragrafu).
+   - **Priorytet 2**: jeśli w paragrafie brak wystarczającej liczby pojęć z tej samej kategorii — \
+weź poprawną definicję i **zmień w niej kluczowe słowa/frazy** tak, aby była niepoprawna ale brzmiała wiarygodnie \
+(np. „wydzielony pod względem organizacji i technologii manewrów" → „wydzielony pod względem organizacji \
+i technologii ruchu pociągów"). To testuje dokładną znajomość definicji.
+   - Jeśli dystraktory nie spełniają powyższych zasad (np. definicja urządzenia jako dystraktor \
+do pytania o miejsce) — oznacz FIX i zaproponuj poprawione dystraktory.
 5. Czy `explanation` wskazuje właściwy paragraf, ustęp i podpunkt (jeśli jest w danym ustępie)?
 6. Czy `explanation` ma poprawny format źródła? Dozwolony format to **wyłącznie** referencja do paragrafu, np.:
    - `%(instruction)s § 63 ust. 6 pkt 2` (nazwa instrukcji + paragraf + opcjonalnie ustęp, punkt, litera)
@@ -57,6 +67,11 @@ i zaproponuj dystraktory będące definicjami innych pojęć z tego samego parag
 7. Czy nie ma literówek, powtórzeń, nielogicznych sformułowań, nadmiarowych słów których nie ma w danym paragrafie/ustępie?
 8. Czy pytanie nie jest **duplikatem** innego pytania w tej samej sekcji (ta sama treść lub ten sam sens, ta sama poprawna odpowiedź)? \
 Jeśli tak — oznacz jako DELETE **tylko jedno** z duplikatów (to gorsze/mniej precyzyjne), a lepsze zachowaj z odpowiednim statusem (OK lub FIX).
+9. Czy **poprawna odpowiedź lub dystraktory** nie są zbyt długie? Jeśli poprawna odpowiedź zawiera wyliczenie \
+kilku podpunktów (np. definicja składająca się z 3-4 członów), oznacz pytanie jako DELETE z opisem problemu, \
+a następnie zaproponuj **osobne pytania** (status NEW) — po jednym na każdy podpunkt/człon wyliczenia. \
+Każde nowe pytanie powinno testować wiedzę o jednym konkretnym aspekcie definicji/wyliczenia. \
+Wygeneruj UUID dla każdego nowego pytania za pomocą pythona: `import uuid; str(uuid.uuid4())`.
 
 ## Format wyników — ZAPISZ DO PLIKU
 
@@ -85,6 +100,18 @@ data = [
     "uuid": "...",
     "status": "DELETE",
     "problems": ["Treść nie wynika z podanego paragrafu"]
+  },
+  {
+    "uuid": "<nowy-uuid-wygenerowany-przez-uuid4>",
+    "status": "NEW",
+    "problems": ["Rozbicie pytania o zbyt długiej odpowiedzi na osobne pytania"],
+    "changes": {
+      "question": "Treść nowego pytania?",
+      "answers": {"A": "...", "B": "...", "C": "...", "D": "..."},
+      "correct": "B",
+      "explanation": "%(instruction)s § X ust. Y",
+      "section_ref": "§ X"
+    }
   }
 ]
 
@@ -98,11 +125,13 @@ Zasady:
 - **Zawsze preferuj FIX nad DELETE** — usuwaj pytanie tylko gdy nie da się go sensownie naprawić \
 (np. jest duplikatem innego pytania, treść w ogóle nie wynika z paragrafu). Jeśli pytanie ma \
 niejednoznaczne odpowiedzi, błędne dystraktory, nieprecyzyjne sformułowanie — popraw je (FIX), nie usuwaj.
-- `status`: OK (bez zmian), FIX (wymaga poprawek), DELETE (do usunięcia)
-- `changes`: tylko dla FIX — zawiera TYLKO pola które się zmieniają. Dla DELETE i OK — nie dodawaj `changes`.
-- `problems`: **WYMAGANE** dla FIX i DELETE — lista stringów opisujących co jest nie tak. NIGDY nie zostawiaj pustej listy `[]` dla FIX/DELETE!
+- `status`: OK (bez zmian), FIX (wymaga poprawek), DELETE (do usunięcia), NEW (nowe pytanie — zastępuje usunięte)
+- `changes`: tylko dla FIX — zawiera TYLKO pola które się zmieniają. Dla DELETE i OK — nie dodawaj `changes`. \
+Dla NEW — `changes` musi zawierać kompletne pytanie: `question`, `answers`, `correct`, `explanation`, `section_ref`.
+- `problems`: **WYMAGANE** dla FIX, DELETE i NEW — lista stringów opisujących co jest nie tak. NIGDY nie zostawiaj pustej listy `[]` dla FIX/DELETE/NEW!
   - Dla FIX: opisz KAŻDY problem który wymaga poprawki (np. "Literówka: 'dyzurnego' → 'dyżurnego'", "Brak słowa 'kolejowego' w odpowiedzi B")
   - Dla DELETE: opisz KAŻDY powód usunięcia (np. "Duplikat pytania uuid=abc123", "Treść nie wynika z podanego paragrafu")
+  - Dla NEW: opisz dlaczego pytanie zostało utworzone (np. "Rozbicie pytania uuid=abc123 o zbyt długiej odpowiedzi")
   - Dla OK: pusta lista `[]` lub drobne uwagi niewymagające zmian
 - Używaj DOKŁADNIE tych nazw pól: `uuid`, `status`, `problems`, `changes`. NIE używaj innych nazw jak `issues`, `reason`, `fix`, `corrections` itp.
 - Każdy element `problems` musi być pełnym zdaniem opisującym problem, nie pustym stringiem.
@@ -127,6 +156,16 @@ def load_questions_normal(
 
     q_data = json.loads(q_path.read_text(encoding="utf-8"))
     questions = q_data["questions"]
+
+    # Skip already verified questions
+    before = len(questions)
+    questions = [q for q in questions if not q.get("verified")]
+    skipped_verified = before - len(questions)
+    if skipped_verified:
+        print(
+            f"Pominięto {skipped_verified} zweryfikowanych pytań.",
+            file=sys.stderr,
+        )
 
     if section_filter:
         target = f"§{section_filter}"
@@ -206,6 +245,9 @@ def main() -> None:
         "--section", type=str, help="Filter by section number (e.g. 5, 12)",
     )
     parser.add_argument(
+        "--uuid", type=str, help="Filter by question UUID",
+    )
+    parser.add_argument(
         "--rescued", action="store_true",
         help="RESCUED mode: re-verify questions rescued with new section_ref",
     )
@@ -219,6 +261,10 @@ def main() -> None:
     if args.rescued:
         questions = load_questions_rescued(args.name)
         mode_label = "RESCUED"
+    elif args.uuid:
+        questions = load_questions_normal(args.name, None)
+        questions = [q for q in questions if q["uuid"] == args.uuid]
+        mode_label = f"UUID {args.uuid[:8]}..."
     else:
         section = args.section.strip() if args.section else None
         questions = load_questions_normal(args.name, section)
@@ -247,17 +293,19 @@ def main() -> None:
     for f in tmp_dir.glob("*.md"):
         f.unlink()
 
-    # Split groups into batches of max batch_size and generate prompts
+    # Split groups into batches of max batch_size, distributed evenly
     batches = []
     for section_ref, section_questions in sorted(groups.items()):
-        for part_idx in range(0, len(section_questions), args.batch_size):
-            batch_questions = section_questions[
-                part_idx : part_idx + args.batch_size
-            ]
-            part_num = part_idx // args.batch_size + 1
-            total_parts = (
-                len(section_questions) + args.batch_size - 1
-            ) // args.batch_size
+        n = len(section_questions)
+        total_parts = (n + args.batch_size - 1) // args.batch_size
+        base = n // total_parts
+        remainder = n % total_parts
+        # First `remainder` batches get base+1, rest get base
+        offset = 0
+        for part_num in range(1, total_parts + 1):
+            size = base + (1 if part_num <= remainder else 0)
+            batch_questions = section_questions[offset : offset + size]
+            offset += size
 
             # Agent ID for filename
             ref_clean = sanitize_ref(section_ref)

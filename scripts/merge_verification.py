@@ -64,7 +64,7 @@ def validate_result(r: dict) -> list[str]:
         warnings.append("missing uuid")
     if "status" not in r:
         warnings.append("missing status")
-    elif r["status"] not in ("OK", "FIX", "DELETE"):
+    elif r["status"] not in ("OK", "FIX", "DELETE", "NEW"):
         warnings.append(f"invalid status: {r['status']}")
 
     if r.get("status") in ("FIX", "DELETE"):
@@ -77,6 +77,15 @@ def validate_result(r: dict) -> list[str]:
         if not changes:
             warnings.append("FIX without changes")
 
+    if r.get("status") == "NEW":
+        changes = r.get("changes", {})
+        if not changes:
+            warnings.append("NEW without changes")
+        else:
+            for field in ("question", "answers", "correct", "explanation"):
+                if field not in changes:
+                    warnings.append(f"NEW missing changes.{field}")
+
     return warnings
 
 
@@ -85,8 +94,11 @@ def recalculate_summary(results: list[dict]) -> dict:
     ok = sum(1 for r in results if r["status"] == "OK")
     fix = sum(1 for r in results if r["status"] == "FIX")
     delete = sum(1 for r in results if r["status"] == "DELETE")
+    new = sum(1 for r in results if r["status"] == "NEW")
     rescued = sum(1 for r in results if r["status"] == "RESCUED")
     summary = {"total": total, "ok": ok, "fix": fix, "delete": delete}
+    if new > 0:
+        summary["new"] = new
     if rescued > 0:
         summary["rescued"] = rescued
     return summary
@@ -139,8 +151,9 @@ def merge_normal(name: str, results: list[dict]) -> None:
     save_json(v_path, v_data)
 
     s = v_data["summary"]
+    new_info = f", {s['new']} nowych" if s.get('new', 0) > 0 else ""
     rescued_info = f", {s['rescued']} rescued" if s.get('rescued', 0) > 0 else ""
-    print(f"Weryfikacja {name}: {s['ok']} pytań OK, {s['fix']} do poprawy, {s['delete']} do usunięcia{rescued_info}")
+    print(f"Weryfikacja {name}: {s['ok']} pytań OK, {s['fix']} do poprawy, {s['delete']} do usunięcia{new_info}{rescued_info}")
 
 
 def merge_rescued(name: str, new_results: list[dict]) -> None:

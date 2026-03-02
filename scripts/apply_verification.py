@@ -74,6 +74,8 @@ def apply_one(
             if "explanation" in changes:
                 q["explanation"] = changes["explanation"]
             recalculate_section_ref(q)
+            # Reset verified flag — question was modified
+            q.pop("verified", None)
             break
 
     return questions

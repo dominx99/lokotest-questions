@@ -1,12 +1,11 @@
 {
   "instruction": "Ir-9",
-  "timestamp": "2026-03-01T21:57:42.591526",
+  "timestamp": "2026-03-02T19:56:13.302966",
   "summary": {
-    "total": 171,
-    "ok": 171,
-    "fix": 0,
-    "delete": 0,
-    "new": 0
+    "total": 185,
+    "ok": 155,
+    "fix": 30,
+    "delete": 0
   },
   "results": [
     {
@@ -55,14 +54,40 @@
       "problems": []
     },
     {
+      "uuid": "a445182e-629c-4b17-a409-514b83d04c3e",
+      "status": "FIX",
+      "problems": [
+        "Explanation wskazuje ust. 22, który opisuje sposoby przekazywania poleceń przez kierownika manewrów do maszynisty, a nie obowiązki maszynisty. Maszynista obserwuje sygnały kierownika manewrów i stosuje się do jego poleceń — bardziej precyzyjne odniesienie to ust. 20 (drużyna trakcyjna musi widzieć sygnał kierownika manewrów) lub ogólnie §10."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 10 ust. 20"
+      }
+    },
+    {
       "uuid": "8e2255e1-6ea3-4351-8698-80092ddf0d3b",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "16c74df4-c43f-427b-8310-b23dfb730c06",
+      "uuid": "d84eaaad-8592-4640-bae7-e2d7c5eadec4",
       "status": "OK",
       "problems": []
+    },
+    {
+      "uuid": "16c74df4-c43f-427b-8310-b23dfb730c06",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź B ('Dać polecenie ruchu manewrowego przed wyjściem pracownika spomiędzy wagonów') odnosi się do zakazu z ust. 3, który dotyczy wyłącznie sytuacji po sprzęgnięciu lub rozprzęgnięciu taboru kolejowego — pytanie nie zawiera tego kontekstu, co czyni je nieprecyzyjnym. Należy doprecyzować pytanie lub odpowiedź B."
+      ],
+      "changes": {
+        "question": "Wskaż czynność zabronioną po sprzęgnięciu lub rozprzęgnięciu taboru podczas manewrów zgodnie z Ir‑9.",
+        "answers": {
+          "A": "Nastawiać zwrotnice do jazdy przed uzyskaniem zgody pracownika posterunku nastawczego",
+          "B": "Dać polecenie ruchu manewrowego przed wyjściem pracownika spomiędzy wagonów",
+          "C": "Jechać z prędkością manewrową bez kamizelki ostrzegawczej w dzień",
+          "D": "Staczać wagony przez przejazdy bez zamkniętych rogatek"
+        }
+      }
     },
     {
       "uuid": "53e8132d-e61b-4227-b736-091cf01d8687",
@@ -101,8 +126,20 @@
     },
     {
       "uuid": "b7bebb15-57f4-4a77-bd97-3cea3ba3a402",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Pytanie pyta 'gdzie powinien znajdować się pojazd trakcyjny', ale ust. 5 nie określa wyraźnie, po której stronie składu ma stać lokomotywa w sytuacji, gdy umieszczenie od strony spadku jest niemożliwe — określa jedynie warunki jazdy (prędkość 15 km/h i włączenie wszystkich wagonów do hamulca). Odpowiedź B sugeruje wprost 'po stronie przeciwnej do spadku', co nie wynika literalnie z treści ustępu. Pytanie należy przeformułować, aby dotyczyło warunków (prędkości i hamulców) obowiązujących w tej sytuacji."
+      ],
+      "changes": {
+        "question": "Jakie warunki muszą być spełnione podczas manewrów na torze głównym o pochyleniu większym niż 2,5‰, jeżeli umieszczenie pojazdu trakcyjnego od strony spadku jest niemożliwe?",
+        "answers": {
+          "A": "Prędkość jazdy należy zmniejszyć do 20 km/h i włączyć co najmniej połowę wagonów do hamulca zespolonego",
+          "B": "Prędkość jazdy należy zmniejszyć do 15 km/h i wszystkie wagony składu manewrowego należy włączyć do hamulca zespolonego",
+          "C": "Manewry są dozwolone bez ograniczeń prędkości, pod warunkiem włączenia wszystkich wagonów do hamulca",
+          "D": "Manewry na takim torze są całkowicie zakazane, gdy pojazd trakcyjny nie może być od strony spadku"
+        },
+        "correct": "B"
+      }
     },
     {
       "uuid": "af95c39b-7bd3-4680-aa02-fe33654450d4",
@@ -126,13 +163,35 @@
     },
     {
       "uuid": "fc4b6963-1288-4400-9e92-445e7b74c9bd",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź A jest niekompletna: ust. 20 mówi 'pracownik obsługujący zwrotnice albo manewrowy wyznaczony do obsługi zwrotnic', tymczasem odpowiedź A pomija drugą opcję ('albo manewrowy wyznaczony do obsługi zwrotnic')."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Upewnić się osobiście, że pracownik obsługujący zwrotnice albo manewrowy wyznaczony do obsługi zwrotnic dał pozwolenie na jazdę manewrową oraz czy nie ma przeszkód do jazdy",
+          "B": "Wyłącznie sprawdzić sygnał na sygnalizatorze nastawni",
+          "C": "Poczekać na pisemne potwierdzenie od maszynisty",
+          "D": "Sprawdzić tylko, czy lokomotywa ma sprawny hamulec"
+        }
+      }
     },
     {
       "uuid": "6a0951c1-2026-4561-a119-ec00f94e40df",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź B jest niepełna: ust. 28 wymienia 8 przypadków jazdy bez drużyny manewrowej, a odpowiedź B obejmuje jedynie pierwsze cztery (pkt 1-4), pomijając m.in. jazdę próżnych składów złożonych z zespołów trakcyjnych (pkt 5), przejazd ciągnionych składów pociągowych (pkt 6), jazdę lokomotywy pchającej dwa wagony przy dwuosobowej drużynie trakcyjnej (pkt 7) i podstawienie próżnych składów pasażerskich pod perony (pkt 8).",
+        "Pytanie 'W jakich przypadkach' sugeruje odpowiedź wyczerpującą, co jest niemożliwe przy tylu przypadkach — należy zawęzić pytanie do konkretnych przypadków wymienionych w ust. 28."
+      ],
+      "changes": {
+        "question": "Które z poniższych przypadków jazdy manewrowej mogą odbywać się bez drużyny manewrowej zgodnie z § 10 ust. 28?",
+        "answers": {
+          "A": "Wyłącznie jazda lokomotywy luzem oraz przejazd ciągnionych składów pociągowych z torów przyjazdowych",
+          "B": "Jazda pojazdów pomocniczych, taboru specjalnego, pojazdów trakcyjnych bez doczepionego taboru lub ciągnących nie więcej niż cztery wagony towarowe albo dwa wagony pasażerskie bez podróżnych",
+          "C": "Każda jazda manewrowa w nocy po torach bocznicowych",
+          "D": "Wyłącznie jazda manewrowa z pisemnym zezwoleniem dyżurnego ruchu"
+        }
+      }
     },
     {
       "uuid": "d00ba1de-cdca-43d2-acea-375406583a4c",
@@ -160,9 +219,19 @@
       "problems": []
     },
     {
-      "uuid": "735deb3a-ee16-4fe3-a629-38b1d68294d7",
+      "uuid": "f7f9bd26-0f2c-47bc-870e-ce633d212730",
       "status": "OK",
       "problems": []
+    },
+    {
+      "uuid": "735deb3a-ee16-4fe3-a629-38b1d68294d7",
+      "status": "FIX",
+      "problems": [
+        "Explanation zawiera dwa odnośniki oddzielone przecinkiem ('Ir-9 § 11 ust. 1 pkt 5, Ir-9 § 11 ust. 1 pkt 7') — dozwolony format to jeden odnośnik lub zakres; należy użyć formy z 'i' lub wybrać nadrzędny ustęp"
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 11 ust. 1 pkt 5 i pkt 7"
+      }
     },
     {
       "uuid": "8c815a68-a006-4976-b01e-f372920b1b55",
@@ -176,6 +245,11 @@
     },
     {
       "uuid": "d943e282-3a63-4453-889a-f73787edea29",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "c08b0188-9ce3-410d-86ce-e66614c6a5ad",
       "status": "OK",
       "problems": []
     },
@@ -235,6 +309,11 @@
       "problems": []
     },
     {
+      "uuid": "50bc6efd-f4cf-4376-b56c-03e6a0a0ce65",
+      "status": "OK",
+      "problems": []
+    },
+    {
       "uuid": "8e597753-0c36-4714-8bb5-d01dee3b06e8",
       "status": "OK",
       "problems": []
@@ -246,13 +325,39 @@
     },
     {
       "uuid": "3669d361-3351-4480-abd5-a2ef4a17b1c9",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Pytanie pyta ogólnie o 'przewód hamulcowy', podczas gdy ustęp 5 mówi szerzej o zamykaniu kurków przewodu głównego/zasilającego/ogrzewczego i rozłączaniu sprzęgów hamulcowych. Odpowiedź A jest prawidłowa, ale pytanie powinno odnosić się precyzyjnie do czynności wymienionych w ustępie 5, czyli rozłączania sprzęgów hamulcowych i zakładania ich na wsporniki.",
+        "Odpowiedź A mówi 'odłączyć dopiero po całkowitym zatrzymaniu' — ustęp 5 mówi o 'rozłączaniu sprzęgów hamulcowych' i 'zamykaniu kurków', co jest szersze niż samo 'odłączenie przewodu hamulcowego'. Pytanie należy przeformułować, by było precyzyjniejsze."
+      ],
+      "changes": {
+        "question": "Kiedy można dokonywać zamykania kurków przewodu głównego i rozłączania sprzęgów hamulcowych podczas rozprzęgania pojazdów kolejowych?",
+        "answers": {
+          "A": "Tylko po całkowitym zatrzymaniu pojazdów kolejowych",
+          "B": "W trakcie toczenia się pojazdów, aby przyspieszyć czynności",
+          "C": "Przed zamknięciem kurka ogrzewczego, niezależnie od prędkości pojazdów",
+          "D": "Kolejność i moment nie mają znaczenia"
+        },
+        "explanation": "Ir-9 § 13 ust. 5"
+      }
     },
     {
       "uuid": "f5b66bee-828a-4aba-9e91-85e0cb44570f",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Pytanie pyta o 'nawyk podczas zbliżania wagonów do sprzęgnięcia', ale ustęp 2 mówi o ogólnym zakazie wchodzenia między pojazdy w ruchu — nie dotyczy specyficznie 'zbliżania wagonów'. Pytanie jest mylące, bo sugeruje konkretną fazę zbliżania.",
+        "Odpowiedź A łączy dwa aspekty: stanie poza przestrzenią między zderzakami i zakaz wchodzenia między pojazdy w ruchu — co jest poprawne, ale pytanie powinno być bardziej precyzyjne."
+      ],
+      "changes": {
+        "question": "Co jest właściwym zachowaniem pracownika przy sprzęganiu lub rozprzęganiu pojazdów kolejowych zgodnie z § 13 ust. 2?",
+        "answers": {
+          "A": "Nie wchodzić między pojazdy kolejowe, gdy są w ruchu, a wejście może nastąpić tylko gdy pojazdy stoją",
+          "B": "Stać między zderzakami, by szybciej połączyć przewody",
+          "C": "Opierać stopę na haku sprzęgu dla stabilności",
+          "D": "Trzymać ręce na główkach zderzaków podczas docisku"
+        },
+        "explanation": "Ir-9 § 13 ust. 2"
+      }
     },
     {
       "uuid": "201316ef-f146-4b32-b679-e4c968ac0bd1",
@@ -271,8 +376,18 @@
     },
     {
       "uuid": "f7961c77-3b49-4f59-aaab-f1e108dfdf0a",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź B mówi 'za uchwyt pod zderzakiem przy czołownicy', tymczasem ustęp 3 precyzuje 'za uchwyt umocowany pod zderzakiem do czołownicy pojazdu kolejowego' — brakuje słowa 'umocowany' i 'pojazdu kolejowego', co zmienia dokładność sformułowania."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Wchodzić wyprostowanym, trzymając obie ręce przy ciele",
+          "B": "Schylić się poniżej zderzaka, chwytając ręką za uchwyt umocowany pod zderzakiem do czołownicy pojazdu kolejowego",
+          "C": "Wchodzić bokiem, opierając się o zderzaki",
+          "D": "Wchodzić od strony toru sąsiedniego dla lepszej widoczności"
+        }
+      }
     },
     {
       "uuid": "f39935a2-520d-4f84-a8ca-e9776b5f1c85",
@@ -281,8 +396,20 @@
     },
     {
       "uuid": "09b9a2bb-0b03-42da-b7ba-c02ac548688a",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Dystraktory B, C, D są zbyt krótkie i oczywiście błędne w porównaniu do poprawnej odpowiedzi A będącej pełnym zdaniem — należy zastąpić je wiarygodnymi stwierdzeniami opartymi na treści instrukcji.",
+        "Pytanie 'Które z poniższych stwierdzeń jest poprawne w kontekście zabezpieczenia przed zbiegnięciem?' jest zbyt ogólne — warto je doprecyzować."
+      ],
+      "changes": {
+        "question": "Co należy zrobić z odstawionymi pojazdami kolejowymi przed odczepieniem pojazdu trakcyjnego?",
+        "answers": {
+          "A": "Odstawione pojazdy kolejowe należy przed odczepieniem pojazdu trakcyjnego zabezpieczyć przed zbiegnięciem",
+          "B": "Za odpowiednie zabezpieczenie przed zbiegnięciem odpowiada maszynista pojazdu trakcyjnego, który może odczepić pojazd bez wcześniejszego zabezpieczenia",
+          "C": "Odstawione pojazdy kolejowe zabezpiecza się przed zbiegnięciem dopiero po odczepieniu pojazdu trakcyjnego, gdy zostaną nieruchomo",
+          "D": "Szczegółowy sposób zabezpieczania pojazdów przed zbiegnięciem określa wyłącznie maszynista na podstawie oceny pochylenia toru"
+        }
+      }
     },
     {
       "uuid": "0be90d2c-a28c-4bb9-b405-c8c2dd188582",
@@ -301,11 +428,31 @@
     },
     {
       "uuid": "2ba77a32-b66b-4972-a858-a692ca15095e",
+      "status": "FIX",
+      "problems": [
+        "Explanation wskazuje tylko '§ 15' bez numeru ustępu — treść wynika z ust. 1."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 15 ust. 1"
+      }
+    },
+    {
+      "uuid": "44edfdf3-bd85-4d07-b84b-4dc824ad6945",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "44edfdf3-bd85-4d07-b84b-4dc824ad6945",
+      "uuid": "7c60dccd-8be3-4dcf-903c-c4fd33d3c95e",
+      "status": "FIX",
+      "problems": [
+        "Explanation wskazuje ust. 2, ale obowiązek niezwłocznego wykonania polecenia przerwania manewrów i zwolnienia toru wynika z ust. 9."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 15 ust. 9"
+      }
+    },
+    {
+      "uuid": "e8275a79-ed35-4b23-bb2c-6538f12c8ff4",
       "status": "OK",
       "problems": []
     },
@@ -326,6 +473,11 @@
     },
     {
       "uuid": "df1c2332-ae24-454d-9ac5-bf4892967370",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "10577d6e-76d7-49fa-a1b2-3c6a5a659aaf",
       "status": "OK",
       "problems": []
     },
@@ -366,13 +518,35 @@
     },
     {
       "uuid": "0d91ebbf-b9d9-41ee-905c-d40bd870e711",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Dystraktory B, C, D są zbyt krótkie i oczywiste — łatwe do odrzucenia bez znajomości treści paragrafu. Powinny być wiarygodne i odnosić się do rzeczywistych obowiązków wymienionych w § 19 ust. 3.",
+        "Odpowiedź A nieznacznie przestawia szyk zdania względem oryginału — w oryginale: 'zabezpieczenia znajdującego się w wagonach ładunku', w odpowiedzi: 'zabezpieczenia ładunku w wagonach'."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Zażądać od zatrudnionych tam pracowników przerwania czynności ładunkowych oraz zabezpieczenia znajdującego się w wagonach ładunku przed możliwością uszkodzenia w czasie manewrów",
+          "B": "Sprawdzić, czy na torze nie ma części wagonowych, przyborów ładunkowych lub innych przedmiotów mogących spowodować wykolejenie",
+          "C": "Zażądać odsunięcia od składu manewrowego na bezpieczną odległość wszelkich pojazdów drogowych",
+          "D": "Sprawdzić, czy składowany na rampach ładunek znajduje się poza skrajnią budowli i nie grozi obsunięciem się w czasie ruchu pojazdów"
+        }
+      }
     },
     {
       "uuid": "4b6d2aca-93ba-43ea-aa2b-10681147d97d",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Dystraktory B, C, D są zbyt krótkie i oczywiste — łatwe do odrzucenia bez znajomości treści paragrafu. Powinny być wiarygodne i odnosić się do rzeczywistych czynności z § 19 ust. 3.",
+        "Odpowiedź A zawiera nieprecyzyjne sformułowanie 'przeszkód' zamiast konkretnego wyliczenia z pkt 5 ('części wagonowych, przyborów ładunkowych, usypów ładunku lub innych przedmiotów')."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Zażądać przerwania czynności ładunkowych i odsunięcia pojazdów drogowych, sprawdzić czy na torze nie ma części wagonowych lub przyborów ładunkowych, oraz upewnić się, że wagony na torach ładunkowych są zabezpieczone przed zbieganiem",
+          "B": "Zażądać przerwania czynności ładunkowych i pozamykania drzwi wagonów; nie trzeba sprawdzać toru ani stanu zabezpieczenia wagonów",
+          "C": "Sprawdzić czy na torze nie ma przeszkód i upewnić się o zabezpieczeniu wagonów; nie ma obowiązku żądania przerwania czynności ładunkowych",
+          "D": "Zażądać odsunięcia pojazdów drogowych i sprawdzić stan ładunku; nie jest wymagane sprawdzenie zabezpieczenia wagonów przed zbieganiem"
+        }
+      }
     },
     {
       "uuid": "497438af-c025-46a0-8edb-150706d010cf",
@@ -381,8 +555,19 @@
     },
     {
       "uuid": "01a1adad-0e48-42f9-b891-468a6d9b8139",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Dystraktory B, C, D są zbyt krótkie i oczywiste — łatwe do odrzucenia bez znajomości treści paragrafu. Powinny być wiarygodne i odnosić się do rzeczywistych elementów z § 19.",
+        "Odpowiedź A używa skrótu 'sprzęt naprawczy' zamiast dokładnego sformułowania z § 19 ust. 5: 'sprzęt służący do naprawy usunięty jest poza skrajnię budowli'."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Czy przy pojazdach nie pracują ludzie, czy pojazdy nie znajdują się na podnośnikach i czy sprzęt służący do naprawy usunięty jest poza skrajnię budowli",
+          "B": "Czy drzwi wagonów są pozamykane, czy pracownicy opuścili wagony i czy na torze nie ma usypów ładunku",
+          "C": "Czy przy pojazdach nie pracują ludzie i czy ładunek w wagonach jest zabezpieczony przed obsunięciem się w czasie manewrów",
+          "D": "Czy pojazdy nie znajdują się na podnośnikach i czy składowany ładunek jest w odległości co najmniej 800 mm od zewnętrznej krawędzi szyny"
+        }
+      }
     },
     {
       "uuid": "c1160a00-1928-4e3c-80c2-6d66f778a6e9",
@@ -421,6 +606,16 @@
     },
     {
       "uuid": "dcc4daa3-9d43-424e-bfe8-914574065d88",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f25f7d52-c977-4921-a6a1-86e8a909039d",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "0463ba4c-c6b0-469c-be5a-55134eae64d9",
       "status": "OK",
       "problems": []
     },
@@ -485,7 +680,17 @@
       "problems": []
     },
     {
+      "uuid": "c7f12e36-e7fd-429e-80f5-b980ecbcab34",
+      "status": "OK",
+      "problems": []
+    },
+    {
       "uuid": "bd6ac3a7-4045-467d-9e96-c245ee4364cd",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "52c96944-cb52-483c-b179-2e6408a7e682",
       "status": "OK",
       "problems": []
     },
@@ -526,8 +731,18 @@
     },
     {
       "uuid": "ea06794c-5f52-43c2-acc2-8615466344b5",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź B jest niekompletna — § 25 ust. 2 pkt 2 wymienia również stopnie bez uchwytu, których brakuje w odpowiedzi B; powinno brzmieć: 'Na stopniach bez uchwytu, z uchwytem uszkodzonym lub umocowanym wyłącznie do drzwi rozsuwanych'."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Na stopniach z nowym uchwytem przymocowanym do ściany wagonu",
+          "B": "Na stopniach bez uchwytu, z uchwytem uszkodzonym lub umocowanym wyłącznie do drzwi rozsuwanych",
+          "C": "Na stopniach w środkowej części wagonu towarowego",
+          "D": "Na stopniach pojazdu stojącego na bocznicy"
+        }
+      }
     },
     {
       "uuid": "bf718e7b-cadf-4a72-8a1d-ce38f1319e38",
@@ -551,8 +766,21 @@
     },
     {
       "uuid": "b21a7e20-d65c-41f4-9871-ea66fcee3ef6",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Pytanie łączy 'pojazdy kolejowe' i 'ładunki' jako równorzędne przypadki, podczas gdy § 26 ust. 1 zakazuje bezwzględnie przebywania na pojazdach kolejowych, a wyjątek wysokości 1 m dotyczy wyłącznie ładunków na wagonach odkrytych — pytanie powinno dotyczyć tylko ładunków.",
+        "Odpowiedź B mówi 'poniżej 1 m', ale § 26 ust. 1 zakazuje wchodzenia gdy wysokość jest 'większa niż 1 m', co oznacza że dopuszczalna jest wysokość do 1 m włącznie (nie większa niż 1 m), a nie ściśle poniżej 1 m."
+      ],
+      "changes": {
+        "question": "Kiedy nad torem zelektryfikowanym wolno przebywać na ładunkach przewożonych na wagonach odkrytych?",
+        "answers": {
+          "A": "Gdy sieć trakcyjna jest wyłączona spod napięcia",
+          "B": "Gdy wysokość ładunku nie jest większa niż 1 m licząc od podłogi wagonu",
+          "C": "Zawsze, pod warunkiem zachowania szczególnej ostrożności",
+          "D": "Nigdy, pod żadnym warunkiem"
+        },
+        "correct": "B"
+      }
     },
     {
       "uuid": "29e4e279-c7b8-4bb0-8788-a67fd3de05ae",
@@ -566,8 +794,13 @@
     },
     {
       "uuid": "df49f2e8-9501-4828-b74b-bc8131986191",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Pole explanation zawiera referencję 'Ir-9 § 26 Załącznik nr 1 ust. 2', która nie mieści się w dozwolonym formacie (paragraf + opcjonalnie ustęp/punkt/litera); referencja do załącznika powinna być uproszczona do dozwolonego formatu."
+      ],
+      "changes": {
+        "explanation": "Ir-9 § 26 ust. 2"
+      }
     },
     {
       "uuid": "869c1b01-0b72-492f-930f-c44e30df1aa6",
@@ -636,38 +869,136 @@
     },
     {
       "uuid": "dc5ffe62-f7d0-4c02-8789-2935f6ca8042",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Dystraktory A i D nie są definicjami z § 2: 'droga kolejowa połączona z linią kolejową i służąca do wykonywania załadunku i wyładunku wagonów lub postoju pojazdów kolejowych' to skrócona (nieprecyzyjna) wersja definicji bocznicy kolejowej (ust. 1), a 'wzniesienie toru wykorzystane do rozpędzania odprzęgów siłą grawitacji' w ogóle nie jest definicją z § 2. Dystraktor B ('sygnalizator kolejowy przeznaczony do prowadzenia ruchu manewrowego') również nie pochodzi z § 2. Należy zastąpić dystraktory definicjami innych pojęć z § 2.",
+        "Dystraktor A powinien być pełną definicją bocznicy kolejowej z ust. 1."
+      ],
+      "changes": {
+        "answers": {
+          "A": "droga kolejowa połączona z linią kolejową i służąca do wykonywania załadunku i wyładunku wagonów lub wykonywania czynności utrzymaniowych pojazdów kolejowych lub postoju pojazdów kolejowych oraz przemieszczania i włączania pojazdów kolejowych do ruchu po sieci kolejowej",
+          "B": "przyjęty do realizacji porządek wykonania pracy manewrowej, w określonym przedziale czasu, ustalony przez kierującego manewrami i podany do wiadomości uczestnikom manewrów",
+          "C": "wszelkie zamierzone ruchy pojazdów kolejowych oraz związane z nimi czynności na torach z wyjątkiem wjazdu, wyjazdu i przejazdu pociągu",
+          "D": "urządzenie systemu regulacji prędkości zabudowane w torze służące do spowalniania biegu odprzęgów"
+        }
+      }
     },
     {
       "uuid": "36c7a2c0-a150-40f4-b564-ea8db232ddc1",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Dystraktor A ('sygnalizator kolejowy przeznaczony do prowadzenia ruchu manewrowego') nie pochodzi z § 2 — taka definicja nie istnieje w tym paragrafie.",
+        "Dystraktor D ('droga kolejowa połączona z linią kolejową i służąca do wykonywania załadunku i wyładunku wagonów lub postoju pojazdów kolejowych') to skrócona i nieprecyzyjna wersja definicji bocznicy kolejowej (ust. 1). Należy użyć pełnej definicji lub zastąpić definicją innego pojęcia z § 2."
+      ],
+      "changes": {
+        "answers": {
+          "A": "wszelkie zamierzone ruchy pojazdów kolejowych oraz związane z nimi czynności na torach z wyjątkiem wjazdu, wyjazdu i przejazdu pociągu",
+          "B": "przyjęty do realizacji porządek wykonania pracy manewrowej, w określonym przedziale czasu, ustalony przez kierującego manewrami i podany do wiadomości uczestnikom manewrów",
+          "C": "odcinek toru, na którym może zmieścić się i postój skład wagonów o określonej długości",
+          "D": "droga kolejowa połączona z linią kolejową i służąca do wykonywania załadunku i wyładunku wagonów lub wykonywania czynności utrzymaniowych pojazdów kolejowych lub postoju pojazdów kolejowych oraz przemieszczania i włączania pojazdów kolejowych do ruchu po sieci kolejowej"
+        }
+      }
     },
     {
       "uuid": "c7a4f028-3b5e-4d54-97c6-917e4aa75bc2",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Dystraktor B ('sygnalizator kolejowy przeznaczony do prowadzenia ruchu manewrowego') nie pochodzi z § 2 — taka definicja nie istnieje w tym paragrafie.",
+        "Dystraktor C ('przyjęty do realizacji porządek wykonania pracy manewrowej w określonym przedziale czasu') to skrócona wersja definicji planu pracy manewrowej (ust. 8) — brak istotnych elementów definicji ('ustalony przez kierującego manewrami i podany do wiadomości uczestnikom manewrów'). Należy użyć pełnej definicji.",
+        "Dystraktor D ('pracownik odpowiedzialny za organizację i bezpieczeństwo pracy manewrowej') nie pochodzi z § 2."
+      ],
+      "changes": {
+        "answers": {
+          "A": "obszar stacji wydzielony pod względem organizacji i technologii manewrów, w którym zasadniczo zatrudniona jest jedna drużyna manewrowa z lokomotywą manewrową lub innym urządzeniem technicznym służącym do manewrów",
+          "B": "urządzenie systemu regulacji prędkości zabudowane w torze służące do spowalniania biegu odprzęgów",
+          "C": "przyjęty do realizacji porządek wykonania pracy manewrowej, w określonym przedziale czasu, ustalony przez kierującego manewrami i podany do wiadomości uczestnikom manewrów",
+          "D": "pracownik wykonujący czynności związane z obsługą techniczną wagonów, elektrycznych zespołów trakcyjnych i autobusów szynowych"
+        }
+      }
     },
     {
       "uuid": "a4767c05-cc27-4bcb-a4eb-dbbe0800b57e",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Dystraktor A ('pracownik obsługujący zwrotnice i semafory manewrowe w rejonie') nie pochodzi z § 2.",
+        "Dystraktor B ('wzniesienie toru wykorzystane do rozpędzania odprzęgów siłą grawitacji') nie pochodzi z § 2 — taka definicja nie istnieje w tym paragrafie.",
+        "Dystraktor D ('urządzenie wyhamowujące odprzęg na torze rozrządowym') nie jest definicją z § 2 — hamulec torowy (ust. 5) to 'urządzenie systemu regulacji prędkości zabudowane w torze służące do spowalniania biegu odprzęgów', a nie 'urządzenie wyhamowujące odprzęg na torze rozrządowym'. Należy użyć verbatim definicji z § 2."
+      ],
+      "changes": {
+        "answers": {
+          "A": "pojazdy kolejowe przystosowane do kursowania samodzielnie lub w składzie pociągu, przeznaczone do przewozu osób i rzeczy lub służące do prac remontowo-budowlanych i ratunkowych",
+          "B": "pojazd kolejowy z napędem, z wyłączeniem taboru specjalnego i pojazdów pomocniczych",
+          "C": "pojazd kolejowy, którego budowa nie pozwala na włączenie do składu pociągu",
+          "D": "urządzenie systemu regulacji prędkości zabudowane w torze służące do spowalniania biegu odprzęgów"
+        }
+      }
     },
     {
       "uuid": "fcc910a1-3497-42dc-840d-dc26c7b9f443",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Dystraktor A ('urządzenie zabezpieczające drogę dla jazd manewrowych') nie pochodzi z § 2.",
+        "Dystraktor B ('droga kolejowa połączona z linią kolejową i służąca do wykonywania załadunku i wyładunku wagonów lub postoju pojazdów kolejowych') to skrócona i nieprecyzyjna wersja definicji bocznicy kolejowej (ust. 1). Należy użyć pełnej definicji.",
+        "Dystraktor D ('sygnalizator kolejowy przeznaczony do prowadzenia ruchu manewrowego') nie pochodzi z § 2."
+      ],
+      "changes": {
+        "answers": {
+          "A": "urządzenie systemu regulacji prędkości zabudowane w torze służące do spowalniania biegu odprzęgów",
+          "B": "droga kolejowa połączona z linią kolejową i służąca do wykonywania załadunku i wyładunku wagonów lub wykonywania czynności utrzymaniowych pojazdów kolejowych lub postoju pojazdów kolejowych oraz przemieszczania i włączania pojazdów kolejowych do ruchu po sieci kolejowej",
+          "C": "jeden wagon lub grupa wagonów połączonych ze sobą, odczepionych od lokomotywy lub od pozostałych przy tej lokomotywie pojazdów, a następnie staczanych z górki rozrządowej lub odrzuconych",
+          "D": "wszelkie zamierzone ruchy pojazdów kolejowych oraz związane z nimi czynności na torach z wyjątkiem wjazdu, wyjazdu i przejazdu pociągu"
+        }
+      }
     },
     {
       "uuid": "55aa8197-1821-476b-98ff-edd26ae6a3ef",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Dystraktor A ('wzniesienie toru wykorzystane do rozpędzania odprzęgów siłą grawitacji') nie pochodzi z § 2.",
+        "Dystraktor C ('członek drużyny manewrowej podający sygnały maszynistom') nie pochodzi z § 2.",
+        "Dystraktor D ('przyrząd zabezpieczający wagon przed niekontrolowanym przetoczeniem') nie pochodzi z § 2."
+      ],
+      "changes": {
+        "answers": {
+          "A": "urządzenie systemu regulacji prędkości zabudowane w torze służące do spowalniania biegu odprzęgów",
+          "B": "pracownik wykonujący czynności związane z obsługą techniczną wagonów, elektrycznych zespołów trakcyjnych i autobusów szynowych",
+          "C": "obszar stacji wydzielony pod względem organizacji i technologii manewrów, w którym zasadniczo zatrudniona jest jedna drużyna manewrowa z lokomotywą manewrową lub innym urządzeniem technicznym służącym do manewrów",
+          "D": "dokument zawierający szczegółowe postanowienia dotyczące pracy posterunku ruchu lub odcinka zdalnego prowadzenia ruchu, uwzględniający warunki miejscowe w zakresie czynności związanych z prowadzeniem ruchu pociągów i manewrów"
+        }
+      }
     },
     {
       "uuid": "2d71491c-cda0-4a07-8a3b-3718dc61f09b",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Dystraktor B ('wagon z ładunkiem wykraczającym poza skrajnię ładunkową') to niedokładna wersja definicji wagonu z przekroczoną skrajnią (ust. 23): prawidłowo 'wagon załadowany przesyłką o przekroczonej skrajni ładunkowej, bądź wagon o przekroczonej skrajni taboru kolejowego'. Należy użyć verbatim definicji z § 2.",
+        "Dystraktor C ('sygnalizator kolejowy przeznaczony do prowadzenia ruchu manewrowego') nie pochodzi z § 2.",
+        "Dystraktor D ('wzniesienie toru wykorzystane do rozpędzania odprzęgów siłą grawitacji') nie pochodzi z § 2."
+      ],
+      "changes": {
+        "answers": {
+          "A": "hamulec, który umożliwia unieruchomienie pojazdu na postoju; zwykle jest to hamulec mechaniczny, uruchamiany przez zakręcenie koła lub korby",
+          "B": "wagon załadowany przesyłką o przekroczonej skrajni ładunkowej, bądź wagon o przekroczonej skrajni taboru kolejowego",
+          "C": "w wagonie hamulec mechaniczny, który umożliwia zarówno unieruchomienie wagonu na postoju jak i hamowanie wagonu w czasie jazdy, uruchamiany z wnętrza wagonu osobowego lub pomostu hamulcowego w wagonie towarowym, przez zakręcenie koła lub korby",
+          "D": "urządzenie systemu regulacji prędkości zabudowane w torze służące do spowalniania biegu odprzęgów"
+        }
+      }
+    },
+    {
+      "uuid": "a1ec3c07-b333-49b6-9c61-03134cb4621f",
+      "status": "FIX",
+      "problems": [
+        "Dystraktor C ('urządzenie do podawania krótkich sygnałów dźwiękowych w czasie manewrów') nie pochodzi z § 2.",
+        "Dystraktor D ('wzniesienie toru wykorzystane do rozpędzania odprzęgów siłą grawitacji') nie pochodzi z § 2."
+      ],
+      "changes": {
+        "answers": {
+          "A": "urządzenie systemu regulacji prędkości zabudowane w torze służące do spowalniania biegu odprzęgów",
+          "B": "długość części toru przeznaczona na postój pociągu lub wagonów, mierzona pomiędzy punktem ustawienia semafora, tarczy zaporowej lub manewrowej a ukresem, końcem odcinka izolowanego, punktem zwalniającym przebieg pociągu, miejscem usytuowania wykolejnicy lub miejscem przejazdu kolejowo-drogowego lub przejścia, jeżeli są one czynne w czasie postoju pociągu lub wagonu",
+          "C": "jeden wagon lub grupa wagonów połączonych ze sobą, odczepionych od lokomotywy lub od pozostałych przy tej lokomotywie pojazdów, a następnie staczanych z górki rozrządowej lub odrzuconych",
+          "D": "hamulec, który umożliwia unieruchomienie pojazdu na postoju; zwykle jest to hamulec mechaniczny, uruchamiany przez zakręcenie koła lub korby"
+        }
+      }
     },
     {
       "uuid": "7f6da76b-08ba-425e-a4c0-b8b2789c1218",
@@ -751,8 +1082,18 @@
     },
     {
       "uuid": "815472fb-75ec-42fd-b287-a69eabd8dd68",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Dystraktory A, B, D są krótkimi frazami opisującymi urządzenia/przedmioty, podczas gdy poprawna odpowiedź C jest długą definicją pracownika — kontrast sprawia, że odpowiedź prawidłowa jest zbyt łatwa do zidentyfikowania. Przy pytaniu definicyjnym dystraktory powinny być definicjami innych ról/pojęć z tego samego paragrafu."
+      ],
+      "changes": {
+        "answers": {
+          "A": "pracownik wyznaczony do obsługi hamulców ręcznych i zabezpieczania pojazdów przed zbiegnięciem",
+          "B": "pracownik odpowiedzialny wyłącznie za sprzęganie i rozprzęganie pojazdów kolejowych podczas manewrów",
+          "C": "pracownik posiadający wymagane kwalifikacje, który odpowiada za bezpieczne i terminowe wykonanie manewrów",
+          "D": "pracownik wyznaczony przez dyżurnego ruchu do nadzorowania drogi przebiegu dla manewrów"
+        }
+      }
     },
     {
       "uuid": "ccbc8308-1cfc-4d5f-86fe-d264d60885a0",
@@ -821,8 +1162,18 @@
     },
     {
       "uuid": "973673ea-00b4-4bc0-8e21-9aafc13efc23",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź B pomija słowo 'kolejowych' po 'pojazdów' — w § 8 ust. 1 brzmi: 'informację o stanie torów, pojazdów kolejowych oraz zauważonych nieprawidłowościach lub przeszkodach'"
+      ],
+      "changes": {
+        "answers": {
+          "A": "Natychmiast przystąpić do pracy manewrowej",
+          "B": "Zgłosić informację o stanie torów, pojazdów kolejowych oraz zauważonych nieprawidłowościach lub przeszkodach kierownikowi manewrów",
+          "C": "Sporządzić pisemny raport i przekazać go dyżurnemu ruchu",
+          "D": "Powiadomić maszynistę o stanie torów"
+        }
+      }
     },
     {
       "uuid": "efe3e50f-2df2-4de7-88dc-50d514ca9990",
@@ -836,8 +1187,18 @@
     },
     {
       "uuid": "fb774ce7-c423-4ba0-bf50-a9b4c98013e0",
-      "status": "OK",
-      "problems": []
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź B zawiera 'pojazdy są zabezpieczone przed zbiegnięciem' zamiast 'pojazdy kolejowe są zabezpieczone przed zbiegnięciem' — brak słowa 'kolejowe' zgodnie z § 8 ust. 6 pkt 2"
+      ],
+      "changes": {
+        "answers": {
+          "A": "Czy pojazdy kolejowe są oznakowane i gotowe do odjazdu",
+          "B": "Czy nie pozostawiono pojazdów kolejowych poza ukresami torów oraz czy pojazdy kolejowe są zabezpieczone przed zbiegnięciem",
+          "C": "Wyłącznie czy sprzęgi hamulcowe są pozawieszone na wsporniki",
+          "D": "Czy pojazdy mają właściwe numery i dokumenty przewozowe"
+        }
+      }
     },
     {
       "uuid": "eed63689-3ca7-4b5b-a1bb-c0001ec2fca8",
@@ -848,6 +1209,21 @@
       "uuid": "bb77b6f1-f004-42a5-ae3b-a361a6d5500e",
       "status": "OK",
       "problems": []
+    },
+    {
+      "uuid": "68c7637f-289c-4076-9343-65b5fb3dedda",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź B pomija 'w sposób' przed 'budzący wątpliwości' — zgodnie z §9 ust. 4 powinno być: 'wydane w sposób niezgodny z przepisami lub w sposób budzący wątpliwości'."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Gdy polecenie zostało wydane przez kierownika manewrów ustnie, a nie sygnałem",
+          "B": "Gdy nie był omówiony plan pracy manewrowej albo podany sygnał lub polecenia zostały wydane w sposób niezgodny z przepisami lub w sposób budzący wątpliwości",
+          "C": "Gdy prędkość manewrów przekracza dopuszczalną wartość określoną w regulaminie technicznym",
+          "D": "Gdy maszynista nie ma pewności co do prawidłowego nastawienia zwrotnic na drodze przebiegu"
+        }
+      }
     },
     {
       "uuid": "75abbd13-29f3-4a29-b227-3dce5eeea537",

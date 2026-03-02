@@ -132,19 +132,6 @@
       "section_ref": "§ 12"
     },
     {
-      "uuid": "5fe4b393-3b5a-407f-ad9f-d02ca780db1c",
-      "question": "Który z poniższych jest pojazdem pomocniczym według Ir‑1?",
-      "answers": {
-        "A": "Wagon osobowy",
-        "B": "Lokomotywa elektryczna",
-        "C": "Drezyna robocza",
-        "D": "Zespół trakcyjny"
-      },
-      "correct": "C",
-      "explanation": "Ir-1 § 8 ust. 8",
-      "section_ref": "§ 8"
-    },
-    {
       "uuid": "4eed61ca-2b03-4dae-8887-addd251897e4",
       "question": "Jakie minimalne wyposażenie musi posiadać posterunek zapowiadawczy, aby został zakwalifikowany jako stacja?",
       "answers": {
@@ -188,9 +175,9 @@
       "question": "Pociąg to skład wagonów lub innych pojazdów kolejowych sprzęgniętych z czynnym pojazdem trakcyjnym albo:",
       "answers": {
         "A": "Pojazd trakcyjny osygnalizowany i przygotowany do jazdy lub znajdujący się w drodze",
-        "B": "Co najmniej dwa wagony bez lokomotywy",
-        "C": "Lokomotywa manewrowa z jednym wagonem roboczym",
-        "D": "Tylko zespół trakcyjny z pasażerami"
+        "B": "Skład wagonów lub innych pojazdów kolejowych przeznaczony do usuwania skutków wypadków kolejowych, diagnostyki lub inspekcji linii",
+        "C": "Pociąg wykonujący pracę na szlaku lub szlakach na zamkniętym torze",
+        "D": "Tabor specjalny lub pojazdy pomocnicze oddziaływujące na urządzenia sterowania ruchem kolejowym"
       },
       "correct": "A",
       "explanation": "Ir-1 § 9 ust. 1",
@@ -224,7 +211,7 @@
     },
     {
       "uuid": "70d3840f-d513-4259-bbdb-5711913cc14a",
-      "question": "W jakiej odległości przed najbliższym rozjazdem lub skrzyżowaniem wyznacza się granicę między torem szlakowym a posterunkiem zapowiadawczym, gdy przy danym torze dwutorowym brak semafora wjazdowego?",
+      "question": "W jakiej odległości przed najbliższym rozjazdem lub skrzyżowaniem wyznacza się granicę między torem szlakowym a posterunkiem zapowiadawczym na linii dwutorowej, gdy przy danym torze brak semafora wjazdowego (tory są na tyle oddalone, że nie można wyznaczyć linii prostopadłej w miejscu semafora sąsiedniego toru)?",
       "answers": {
         "A": "50 m",
         "B": "75 m",
@@ -236,21 +223,8 @@
       "section_ref": "§ 3"
     },
     {
-      "uuid": "47d001a3-6fb0-438c-8f3b-d448cec041a0",
-      "question": "Jak definiowany jest \"odstęp\" w sieci kolejowej?",
-      "answers": {
-        "A": "Część linii między dwiema stacjami węzłowymi",
-        "B": "Część toru szlakowego między posterunkami zapowiadawczymi, odstępowymi lub semaforami blokady wieloodstępowej",
-        "C": "Każdy tor główny dodatkowy na stacji",
-        "D": "Fragment bocznicy od wjazdu do pierwszego rozjazdu"
-      },
-      "correct": "B",
-      "explanation": "Ir-1 § 2 ust. 6",
-      "section_ref": "§ 2"
-    },
-    {
       "uuid": "b3361841-e3c6-42a7-8e99-6dd916de8e94",
-      "question": "Kto, według Ir‑1 § 5, bezpośrednio zgłasza dyżurnemu ruchu dysponującemu fakt zauważenia nieprawidłowości w działaniu zwrotnicy?",
+      "question": "Kto, według Ir‑1 § 5, zgłasza dyżurnemu ruchu dysponującemu nieprawidłowości w działaniu zwrotnicy lub uszkodzenie rozjazdu?",
       "answers": {
         "A": "Dyspozytor",
         "B": "Maszynista",
@@ -604,7 +578,7 @@
       "question": "Jazda manewrowa nie powinna odbywać się dalej niż do:",
       "answers": {
         "A": "Granicy pierwszego rozjazdu dowolnej stacji",
-        "B": "Granicy najbliższego posterunku następczego lub semafora odstępowego",
+        "B": "Granicy najbliższego posterunku następczego lub najbliższego semafora odstępowego blokady wieloodstępowej (samoczynnej)",
         "C": "Pierwszego wskaźnika W5",
         "D": "Dowolnego miejsca wyznaczonego przez maszynistę"
       },
@@ -640,7 +614,7 @@
     },
     {
       "uuid": "56c66a31-a633-4abe-abd2-ef6fa647c2d0",
-      "question": "Jeśli maszynista stwierdzi brak łączności radiotelefonicznej na odcinku zdalnego prowadzenia ruchu, prędkość przez przejazdy z SSP ogranicza się do:",
+      "question": "Jeśli maszynista stwierdzi brak łączności radiotelefonicznej w czasie jazdy na odcinku zdalnego prowadzenia ruchu, prędkość przez przejazdy kolejowo-drogowe i przejścia wyposażone w półsamoczynne lub samoczynne systemy przejazdowe ogranicza się do:",
       "answers": {
         "A": "10 km/h",
         "B": "15 km/h",
@@ -772,10 +746,10 @@
       "uuid": "88d93b24-84e2-4a23-8b49-8d2df20d2627",
       "question": "Jaka jest maksymalna dopuszczalna prędkość przy cofaniu pociągu ze szlaku bez wcześniejszego uzgodnienia z dyżurnym ruchu?",
       "answers": {
-        "A": "50 km/h",
-        "B": "80 km/h",
-        "C": "5 km/h",
-        "D": "10 km/h"
+        "A": "50 km/h",
+        "B": "30 km/h",
+        "C": "5 km/h",
+        "D": "10 km/h"
       },
       "correct": "C",
       "explanation": "Ir-1 § 70 ust. 4",
@@ -887,12 +861,12 @@
     },
     {
       "uuid": "f1fec981-ea6a-4e7b-acb0-d4c023b6bd0d",
-      "question": "Jaka jest maksymalna dopuszczalna prędkość podczas przejazdu przez przejazd kolejowo‑drogowy z niezamkniętymi rogatkami, gdy nie ma dróżnika?",
+      "question": "Do jakiej prędkości maszynista powinien zmniejszyć prędkość jazdy podczas zbliżania się do przejazdu kolejowo-drogowego z niezamkniętą rogatką i brakiem dróżnika przejazdowego, jeżeli nie był o tym zawiadomiony rozkazem pisemnym?",
       "answers": {
-        "A": "120 km/h",
-        "B": "60 km/h",
-        "C": "20 km/h",
-        "D": "30 km/h"
+        "A": "120 km/h",
+        "B": "60 km/h",
+        "C": "20 km/h",
+        "D": "30 km/h"
       },
       "correct": "C",
       "explanation": "Ir-1 § 84 ust. 21",
@@ -910,19 +884,6 @@
       "correct": "B",
       "explanation": "Ir-1 § 67 ust. 8 pkt 2",
       "section_ref": "§ 67"
-    },
-    {
-      "uuid": "ac3ee5c1-d943-4834-bad2-a542b46f6aac",
-      "question": "Jaka jest maksymalna dopuszczalna prędkość dla pociągu ratunkowego na odcinku z zamkniętymi i wstrzymanymi posterunkami ruchu (Przypadek D)?",
-      "answers": {
-        "A": "30 km/h",
-        "B": "120 km/h",
-        "C": "5 km/h",
-        "D": "20 km/h"
-      },
-      "correct": "A",
-      "explanation": "Ir-1 § 57 ust. 45",
-      "section_ref": "§ 57"
     },
     {
       "uuid": "e6b72b4b-62d2-4157-9ab6-43cc4cfdcbb9",
@@ -1004,7 +965,7 @@
     },
     {
       "uuid": "2a3d99ec-648c-42c3-8a43-b34513c7057b",
-      "question": "Jaka jest maksymalna dopuszczalna prędkość przy przejeździe przez zwrotnice w przypadku usterki bloku przebiegowego?",
+      "question": "Jaka jest maksymalna dopuszczalna prędkość przy przejeździe przez zwrotnice w przypadku usterki bloku przebiegowego-utwierdzającego?",
       "answers": {
         "A": "40 km/h",
         "B": "50 km/h",
@@ -1173,7 +1134,7 @@
     },
     {
       "uuid": "4b9a31e6-3cea-4680-ba15-b4af8ae64cc9",
-      "question": "Jaka jest maksymalna dopuszczalna prędkość pociągu ratunkowego lub roboczego na odcinku z zamkniętymi i wstrzymanymi posterunkami ruchu?",
+      "question": "Jaka jest maksymalna dopuszczalna prędkość pociągu ratunkowego, roboczego lub pługa odśnieżnego na odcinku z zamkniętymi i wstrzymanymi posterunkami ruchu (Przypadek D)?",
       "answers": {
         "A": "80 km/h",
         "B": "30 km/h",
@@ -1216,7 +1177,7 @@
       "answers": {
         "A": "Kontynuować jazdę bez zmian",
         "B": "Natychmiast zwiększyć prędkość",
-        "C": "Zatrzymać pociąg, a następnie jechać na widoczność do najbliższego posterunku",
+        "C": "Zatrzymać pociąg i po stwierdzeniu braku przeszkód jechać na widoczność do najbliższego posterunku ruchu",
         "D": "Wyłączyć urządzenia bezpieczeństwa"
       },
       "correct": "C",
@@ -1359,7 +1320,7 @@
       "answers": {
         "A": "Semafor wyjazdowy",
         "B": "Wskaźnik W 4",
-        "C": "Semafor wjazdowy",
+        "C": "Miejsce ustawienia semafora wjazdowego i linia prostopadła do osi torów",
         "D": "Znacznik kilometracyjny"
       },
       "correct": "C",
@@ -1397,9 +1358,9 @@
       "question": "Jakie odcinki linii kolejowych powinni znać maszynista oraz kierownik pociągu?",
       "answers": {
         "A": "Maszynista oraz kierownik pociągu powinni znać obsługiwane odcinki linii kolejowych, na których prowadzą pociąg",
-        "B": "Gdy prędkość rozkładowa przekracza 40 km/h",
-        "C": "Gdy wymaga tego regulamin techniczny",
-        "D": "Nie jest to wymagane"
+        "B": "Maszynista oraz kierownik pociągu powinni znać obsługiwane odcinki linii kolejowych, o ile prowadzą pociąg z prędkością przekraczającą 40 km/h",
+        "C": "Maszynista powinien znać obsługiwane odcinki linii kolejowych, natomiast kierownik pociągu może zamiast tego zapoznać się z danymi zawartymi w wewnętrznym rozkładzie jazdy",
+        "D": "Maszynista oraz kierownik pociągu powinni znać odcinki linii kolejowych wskazane przez dyspozytora liniowego przed każdą jazdą"
       },
       "correct": "A",
       "explanation": "Ir-1 § 16 ust. 1",
@@ -1511,7 +1472,7 @@
     },
     {
       "uuid": "1d7895e2-2170-4329-8938-797a0d417efb",
-      "question": "W jakim przypadku wykonuje się uproszczoną próbę hamulców po próbie szczegółowej?",
+      "question": "Który z poniższych przypadków wymaga wykonania uproszczonej próby hamulców po uprzednio przeprowadzonej próbie szczegółowej?",
       "answers": {
         "A": "Po zmianie kabiny sterowniczej",
         "B": "Przed każdą zmianą kierunku jazdy",
@@ -1563,7 +1524,7 @@
     },
     {
       "uuid": "0bc5ad1b-9757-4096-8ef7-0d624fe83922",
-      "question": "Podczas jazdy pociągu roboczego przy dezaktywowanych SSP, sygnał Rm 1 'Do mnie' podaje:",
+      "question": "Kto podaje prowadzącemu pociąg roboczy sygnał Rm 1 'Do mnie' podczas przejazdu przez przejazd kolejowo-drogowy, gdy dezaktywowano urządzenia SSP jedynie na torze zamkniętym i brak możliwości ich ponownej aktywacji?",
       "answers": {
         "A": "Kierownik pociągu roboczego",
         "B": "Dyżurny ruchu",
@@ -1640,19 +1601,6 @@
       "section_ref": "§ 12"
     },
     {
-      "uuid": "f992c5d3-6989-49e3-a82e-5278e0c0bee5",
-      "question": "Co wyznacza początek i koniec ograniczenia prędkości w okręgu nastawczym?",
-      "answers": {
-        "A": "Instrukcja Ir‑1",
-        "B": "Wskaźniki W14",
-        "C": "Miejsce ustawienia semafora lub innego sygnalizatora i ostatni przejeżdżany rozjazd (lub miejsce sygnałowe, gdy nie ma rozjazdów)",
-        "D": "Dyżurny ruchu"
-      },
-      "correct": "C",
-      "explanation": "Ir-1 § 63 ust. 6",
-      "section_ref": "§ 63"
-    },
-    {
       "uuid": "5dbd22a4-36ad-408f-bed1-b1b047028b5b",
       "question": "Pociąg ratunkowy klasyfikuje się jako:",
       "answers": {
@@ -1697,8 +1645,8 @@
       "answers": {
         "A": "Jednoodstępowa blokada liniowa",
         "B": "Wieloodstępowa blokada liniowa",
-        "C": "System ERTMS poziom 2",
-        "D": "Blokada stacyjna"
+        "C": "Blokada liniowa dwukierunkowa",
+        "D": "System telefonicznego zapowiadania pociągów"
       },
       "correct": "A",
       "explanation": "Ir-1 § 28 ust. 1",
@@ -1787,9 +1735,9 @@
       "question": "Co jest planem, według którego odbywają się przejazdy pociągów na sieci kolejowej zarządzanej przez PKP PLK S.A.?",
       "answers": {
         "A": "Wewnętrzny rozkład jazdy pociągów",
-        "B": "Cennik biletów",
-        "C": "Lista pracowników",
-        "D": "Regulamin techniczny posterunku"
+        "B": "Regulamin techniczny posterunku",
+        "C": "Elektroniczny Dziennik Ruchu (EDR)",
+        "D": "Wykaz ostrzeżeń stałych"
       },
       "correct": "A",
       "explanation": "Ir-1 § 10 ust. 1",
@@ -1812,10 +1760,10 @@
       "uuid": "d9c9ecc2-b674-447f-911b-df2d854a15e6",
       "question": "Jak w Ir‑1 zdefiniowano pojęcie „odstęp” na szlaku z samoczynną blokadą wieloodstępową (SBL)?",
       "answers": {
-        "A": "Część toru szlakowego między dwoma kolejnymi semaforami odstępowymi blokady wieloodstępowej (samoczynnej) dla tego samego kierunku jazdy",
-        "B": "Część linii między dwiema stacjami węzłowymi",
-        "C": "Tor na stacji przeznaczony do oblotu",
-        "D": "Miejsce postoju wagonów odstawionych"
+        "A": "Część toru szlakowego między dwoma kolejnymi semaforami odstępowymi blokady wieloodstępowej (samoczynnej) dla tego samego kierunku jazdy przy danym torze",
+        "B": "Część linii kolejowej między sąsiednimi stacjami węzłowymi albo między punktem początkowym lub końcowym linii kolejowej i najbliższą stacją węzłową",
+        "C": "Część toru szlakowego między posterunkiem zapowiadawczym a najbliższym posterunkiem odstępowym (bocznicowym) lub semaforem odstępowym blokady wieloodstępowej (samoczynnej)",
+        "D": "Część linii kolejowej między dwoma sąsiednimi posterunkami zapowiadawczymi"
       },
       "correct": "A",
       "explanation": "Ir-1 § 2 ust. 6 pkt 4",
@@ -1826,9 +1774,9 @@
       "question": "Co w Ir‑1 oznacza pojęcie „odcinek”?",
       "answers": {
         "A": "Część linii kolejowej zawarta między sąsiednimi stacjami węzłowymi albo między punktem początkowym lub końcowym linii kolejowej i najbliższą stacją węzłową",
-        "B": "Najkrótszy fragment toru stacyjnego",
-        "C": "Odcinek między dwoma odstępami SBL",
-        "D": "Granica rejonu nastawczego"
+        "B": "Część linii kolejowej między dwoma sąsiednimi posterunkami zapowiadawczymi",
+        "C": "Część toru szlakowego między posterunkami zapowiadawczymi, odstępowymi lub semaforami blokady wieloodstępowej (samoczynnej)",
+        "D": "Droga kolejowa mająca początek i koniec wraz z przyległym pasem gruntu, na którą składają się odcinki linii a także budynki, budowle i urządzenia przeznaczone do prowadzenia ruchu kolejowego"
       },
       "correct": "A",
       "explanation": "Ir-1 § 2 ust. 4",
@@ -1875,10 +1823,10 @@
     },
     {
       "uuid": "5bcd6c98-5501-4bf7-8497-a3f12eee29a7",
-      "question": "W jakich sytuacjach dyżurny ruchu może zezwolić na wyprawienie pociągu za pomocą rozkazu pisemnego lub sygnału zastępczego, gdy nie można podać sygnału zezwalającego na semaforze?",
+      "question": "W jakiej sytuacji wyjątkowej dyżurny ruchu może zezwolić na jazdę pociągu za pomocą sygnału zastępczego albo rozkazu pisemnego zamiast sygnału zezwalającego na semaforze?",
       "answers": {
-        "A": "Gdy nie można podać sygnału zezwalającego mimo przygotowanej drogi przebiegu",
-        "B": "Zawsze gdy jest opóźnienie",
+        "A": "Gdy nie jest możliwe, nie jest przewidziane albo nie wolno podać sygnału zezwalającego na semaforze i nie ma przeszkód do jazdy",
+        "B": "Zawsze gdy jest opóźnienie pociągu",
         "C": "Zawsze w porze nocnej",
         "D": "Nigdy – jest to zabronione"
       },
@@ -1950,6 +1898,58 @@
       "correct": "A",
       "explanation": "Ir-1 § 12 ust. 1",
       "section_ref": "§ 12"
+    },
+    {
+      "uuid": "7ec383d2-cb80-40be-aac3-846767c3e590",
+      "question": "Co to jest odstęp w przypadku toru szlakowego biegnącego od posterunku zapowiadawczego?",
+      "answers": {
+        "A": "Część linii kolejowej między dwoma sąsiednimi posterunkami zapowiadawczymi",
+        "B": "Część toru szlakowego między posterunkiem zapowiadawczym a najbliższym posterunkiem odstępowym (bocznicowym) lub semaforem odstępowym blokady wieloodstępowej (samoczynnej)",
+        "C": "Część linii kolejowej zawarta między sąsiednimi stacjami węzłowymi albo między punktem początkowym lub końcowym linii kolejowej i najbliższą stacją węzłową",
+        "D": "Część toru szlakowego między posterunkiem zapowiadawczym a najbliższym posterunkiem zapowiadawczym w tym samym kierunku jazdy"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 2 ust. 6 pkt 1",
+      "section_ref": "§ 2"
+    },
+    {
+      "uuid": "88878547-4d1a-4b47-9536-a55cdb3dea3e",
+      "question": "Jak definiowany jest odstęp między dwoma kolejnymi posterunkami odstępowymi (bocznicowymi)?",
+      "answers": {
+        "A": "Część linii kolejowej między dwoma sąsiednimi posterunkami zapowiadawczymi",
+        "B": "Część toru szlakowego między posterunkiem zapowiadawczym a najbliższym posterunkiem odstępowym (bocznicowym)",
+        "C": "Część toru szlakowego między dwoma kolejnymi posterunkami odstępowymi (bocznicowymi)",
+        "D": "Część linii kolejowej zawarta między sąsiednimi stacjami węzłowymi albo między punktem początkowym lub końcowym linii kolejowej i najbliższą stacją węzłową"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 2 ust. 6 pkt 2",
+      "section_ref": "§ 2"
+    },
+    {
+      "uuid": "430755ec-68c6-4387-82f8-8b67739f6e0f",
+      "question": "Jak definiowany jest odstęp między posterunkiem odstępowym a posterunkiem bocznicowym?",
+      "answers": {
+        "A": "Część linii kolejowej między dwoma sąsiednimi posterunkami zapowiadawczymi",
+        "B": "Część toru szlakowego między dwoma kolejnymi semaforami odstępowymi blokady wieloodstępowej (samoczynnej) dla tego samego kierunku jazdy przy danym torze",
+        "C": "Część linii kolejowej zawarta między sąsiednimi stacjami węzłowymi albo między punktem początkowym lub końcowym linii kolejowej i najbliższą stacją węzłową",
+        "D": "Część toru szlakowego między posterunkiem odstępowym i bocznicowym"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 2 ust. 6 pkt 3",
+      "section_ref": "§ 2"
+    },
+    {
+      "uuid": "0e5d6f0a-35fd-4f45-84fa-238c66fb0fe4",
+      "question": "Jak definiowany jest odstęp w przypadku blokady wieloodstępowej (samoczynnej)?",
+      "answers": {
+        "A": "Część toru szlakowego między dwoma kolejnymi semaforami odstępowymi blokady wieloodstępowej (samoczynnej) dla tego samego kierunku jazdy przy danym torze",
+        "B": "Część linii kolejowej między dwoma sąsiednimi posterunkami zapowiadawczymi",
+        "C": "Część toru szlakowego między posterunkiem zapowiadawczym a najbliższym semaforem blokady wieloodstępowej (samoczynnej), niezależnie od kierunku jazdy",
+        "D": "Część linii kolejowej zawarta między sąsiednimi stacjami węzłowymi albo między punktem początkowym lub końcowym linii kolejowej i najbliższą stacją węzłową"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 2 ust. 6 pkt 4",
+      "section_ref": "§ 2"
     }
   ]
 }

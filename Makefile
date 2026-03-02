@@ -1,4 +1,4 @@
-.PHONY: pdfs-to-markdowns pdf-to-markdown clean-markdowns sections section xlsx-to-json toc view apply-verification deficits
+.PHONY: pdfs-to-markdowns pdf-to-markdown clean-markdowns sections section xlsx-to-json toc view apply-verification deficits mark-verified
 
 INSTRUCTIONS_DIR := instructions
 
@@ -62,3 +62,8 @@ deficits:
 #        make apply-verification ONLY=Ir-1
 apply-verification:
 	uv run python scripts/apply_verification.py $(ONLY)
+
+# Mark OK questions as verified in pytania.json
+# Usage: make mark-verified ONLY=Ir-1
+mark-verified:
+	uv run python scripts/mark_verified.py $(ONLY)
