@@ -63,7 +63,7 @@ deficits:
 apply-verification:
 	uv run python scripts/apply_verification.py $(ONLY)
 
-# Mark OK questions as verified in pytania.json
+# Mark all questions as verified in pytania.json
 # Usage: make mark-verified ONLY=Ir-1
 mark-verified:
 	uv run python scripts/mark_verified.py $(ONLY)

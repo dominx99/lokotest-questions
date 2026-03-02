@@ -47,12 +47,20 @@ organizacji i technologii ruchu pociągów"). To testuje dokładną znajomość 
 jako dystraktora do pytania o osobę)
 5. Pytanie powinno być jednoznaczne, precyzyjne i poprawne językowo (po polsku). \
 Treść pytania **NIE MOŻE** zawierać referencji do instrukcji, paragrafów, ustępów ani punktów \
-(np. "zgodnie z § 2 ust. 6 pkt 1 Ir-1"). Takie informacje należą wyłącznie do pola `explanation`
+(np. "zgodnie z § 2 ust. 6 pkt 1 Ir-1"). Takie informacje należą wyłącznie do pola `explanation`. \
+Pytanie powinno być zrozumiałe bez znajomości numeracji paragrafów.
 6. `explanation` musi zawierać **wyłącznie** referencję do paragrafu w formacie: \
-`%(instruction)s § X ust. Y` (opcjonalnie pkt, litera, tabela)
-7. Każde pytanie musi mieć unikalny UUID (wygeneruj za pomocą pythona: \
+`%(instruction)s § X ust. Y` (opcjonalnie pkt, litera, tabela poz.). \
+Niedozwolone: dodatkowy tekst opisowy, komentarze w nawiasach, "w zw. z", "w powiązaniu z", \
+myślniki z wyjaśnieniami, "par." zamiast "§", itp.
+7. **Odpowiedzi nie mogą być zbyt długie.** Jeśli odpowiedź wymagałaby wyliczenia kilku \
+podpunktów (np. definicja składająca się z 3-4 członów) — zamiast jednego pytania z długą \
+odpowiedzią, wygeneruj **osobne pytania** testujące po jednym aspekcie definicji/wyliczenia.
+8. Unikaj literówek, powtórzeń, nielogicznych sformułowań i nadmiarowych słów \
+których nie ma w danym paragrafie/ustępie.
+9. Każde pytanie musi mieć unikalny UUID (wygeneruj za pomocą pythona: \
 `import uuid; str(uuid.uuid4())`)
-8. `section_ref` = "%(section_ref)s"
+10. `section_ref` = "%(section_ref)s"
 
 ## Format wyjścia — ZAPISZ DO PLIKU
 

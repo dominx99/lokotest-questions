@@ -1,7 +1,6 @@
-"""Mark verified questions in pytania.json based on verification results.
+"""Mark all questions in pytania.json as verified.
 
-Reads {name}-verification.json, finds all questions with OK status,
-and sets verified=true on matching questions in {name}-pytania.json.
+Sets verified=true on all questions in {name}-pytania.json.
 
 Usage:
     uv run python scripts/mark_verified.py Ir-1
@@ -34,37 +33,24 @@ def main() -> None:
 
     name = sys.argv[1]
     base = INSTRUCTIONS_DIR / name
-    v_path = base / f"{name}-verification.json"
     q_path = base / f"{name}-pytania.json"
 
-    if not v_path.exists():
-        print(f"Error: {v_path} not found", file=sys.stderr)
-        sys.exit(1)
     if not q_path.exists():
         print(f"Error: {q_path} not found", file=sys.stderr)
         sys.exit(1)
 
-    v_data = load_json(v_path)
     q_data = load_json(q_path)
 
-    # Collect UUIDs with OK status
-    ok_uuids = {
-        r["uuid"] for r in v_data["results"] if r["status"] == "OK"
-    }
-
-    if not ok_uuids:
-        print("Brak pytań OK do oznaczenia jako zweryfikowane.")
-        return
-
-    # Mark matching questions as verified
+    # Mark all questions as verified
     marked = 0
+    total = len(q_data["questions"])
     for q in q_data["questions"]:
-        if q["uuid"] in ok_uuids and not q.get("verified"):
+        if not q.get("verified"):
             q["verified"] = True
             marked += 1
 
     save_json(q_path, q_data)
-    print(f"Oznaczono {marked} pytań jako zweryfikowane (z {len(ok_uuids)} OK).")
+    print(f"Oznaczono {marked} pytań jako zweryfikowane (z {total} wszystkich).")
 
 
 if __name__ == "__main__":
