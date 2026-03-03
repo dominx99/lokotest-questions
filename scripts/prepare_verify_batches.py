@@ -74,7 +74,8 @@ a następnie zaproponuj **osobne pytania** (status NEW) — po jednym na każdy 
 Każde nowe pytanie powinno testować wiedzę o jednym konkretnym aspekcie definicji/wyliczenia. \
 Wygeneruj UUID dla każdego nowego pytania za pomocą pythona: `import uuid; str(uuid.uuid4())`.
 10. Czy **poprawna odpowiedź jest najdłuższa** spośród 4 opcji i >1,5× dłuższa od najdłuższego dystraktora? \
-Jeśli tak — oznacz FIX. Wyrównaj **dystraktory w górę** do długości poprawnej odpowiedzi \
+Tę zasadę stosuj **TYLKO gdy poprawna odpowiedź ma ponad 100 znaków**. Krótsze odpowiedzi (≤100 znaków) nie podlegają tej regule — oznacz OK. \
+Jeśli tak (poprawna >100 znaków I >1,5× dłuższa) — oznacz FIX. Wyrównaj **dystraktory w górę** do długości poprawnej odpowiedzi \
 (rozbuduj je o treść z paragrafu). Nie modyfikuj poprawnej odpowiedzi tylko dla wyrównania długości. \
 Jeśli poprawna odpowiedź jest **krótsza** od dystraktorów — to NIE jest problem, oznacz OK. \
 Nie „napompowuj" dystraktorów bezsensownym tekstem — ich szczegółowość musi wynikać z treści paragrafu.
