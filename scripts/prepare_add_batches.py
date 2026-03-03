@@ -113,7 +113,7 @@ def parse_frontmatter(filepath: Path) -> dict | None:
 
 
 def compute_deficits(
-    name: str, section_filter: str | None,
+    name: str, section_filter: str | None, section_range: str | None = None,
 ) -> list[dict]:
     """Compute question deficits per section."""
     base = INSTRUCTIONS_DIR / name
@@ -160,6 +160,12 @@ def compute_deficits(
         if section_filter and normalized_id != f"§{section_filter}":
             continue
 
+        if section_range:
+            lo, hi = section_range.split("-", 1)
+            sec_num = re.sub(r"[^0-9]", "", normalized_id)
+            if not sec_num or not (int(lo) <= int(sec_num) <= int(hi)):
+                continue
+
         content_lines = count_content_lines(md_file)
         required = max(1, content_lines // 8)
         existing = counts.get(normalized_id, 0)
@@ -191,10 +197,15 @@ def main() -> None:
     parser.add_argument(
         "--section", type=str, help="Filter by section number (e.g. 5, 12)",
     )
+    parser.add_argument(
+        "--section-range", type=str,
+        help="Filter by section range (e.g. 1-30, 25-85)",
+    )
     args = parser.parse_args()
 
     section = args.section.strip() if args.section else None
-    deficits = compute_deficits(args.name, section)
+    sec_range = args.section_range.strip() if args.section_range else None
+    deficits = compute_deficits(args.name, section, sec_range)
 
     if not deficits:
         print("Brak sekcji wymagających nowych pytań.", file=sys.stderr)
