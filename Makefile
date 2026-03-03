@@ -48,8 +48,8 @@ endif
 #        make view ONLY=Ir-1
 ONLY ?= Ir-1
 view:
-	@fuser -k 8080/tcp 2>/dev/null || true
-	@xdg-open "http://localhost:8080/viewer/?name=$(ONLY)" 2>/dev/null || open "http://localhost:8080/viewer/?name=$(ONLY)" 2>/dev/null || true
+	fuser -k 8080/tcp 2>/dev/null || true
+	(sleep 1 && (xdg-open "http://localhost:8080/viewer/?name=$(ONLY)" 2>/dev/null || open "http://localhost:8080/viewer/?name=$(ONLY)" 2>/dev/null || true)) &
 	uv run python scripts/serve_viewer.py 8080
 
 # Show question deficits per section
