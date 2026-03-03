@@ -17,6 +17,8 @@ import sys
 from pathlib import Path
 
 INSTRUCTIONS_DIR = Path("instructions")
+SCRIPTS_DIR = Path(__file__).parent
+QUALITY_RULES_PATH = SCRIPTS_DIR / "question_rules.txt"
 
 PROMPT_TEMPLATE = """\
 Jesteś generatorem pytań quizowych z instrukcji kolejowej %(instruction)s (PKP).
@@ -31,40 +33,17 @@ Jesteś generatorem pytań quizowych z instrukcji kolejowej %(instruction)s (PKP
 
 %(existing_questions)s
 
-## Wymagania dla pytań
+## Wymagania formalne
 
 1. Każde pytanie musi mieć **dokładnie 4 odpowiedzi** (A, B, C, D)
 2. Dokładnie **jedna** odpowiedź jest poprawna
-3. Pytanie musi wynikać **bezpośrednio** z treści paragrafu — nie wymyślaj faktów
-4. Dystraktory (błędne odpowiedzi) muszą być z **tej samej kategorii semantycznej** co poprawna odpowiedź:
-   - **Priorytet 1**: użyj definicji innych pojęć z tej samej kategorii z tego samego paragrafu \
-(np. pytanie o miejsce → dystraktory to definicje innych miejsc; pytanie o osobę → definicje innych osób/ról).
-   - **Priorytet 2**: jeśli brak wystarczającej liczby pojęć z tej samej kategorii — weź poprawną \
-definicję i **zmień kluczowe słowa/frazy** tak, aby brzmiała wiarygodnie ale była niepoprawna \
-(np. „wydzielony pod względem organizacji i technologii manewrów" → „wydzielony pod względem \
-organizacji i technologii ruchu pociągów"). To testuje dokładną znajomość definicji.
-   - NIGDY nie używaj definicji z innej kategorii jako dystraktora (np. definicji urządzenia \
-jako dystraktora do pytania o osobę)
-5. Pytanie powinno być jednoznaczne, precyzyjne i poprawne językowo (po polsku). \
-Treść pytania **NIE MOŻE** zawierać referencji do instrukcji, paragrafów, ustępów ani punktów \
-(np. "zgodnie z § 2 ust. 6 pkt 1 Ir-1"). Takie informacje należą wyłącznie do pola `explanation`. \
-Pytanie powinno być zrozumiałe bez znajomości numeracji paragrafów.
-6. `explanation` musi zawierać **wyłącznie** referencję do paragrafu w formacie: \
-`%(instruction)s § X ust. Y` (opcjonalnie pkt, litera, tabela poz.). \
-Niedozwolone: dodatkowy tekst opisowy, komentarze w nawiasach, "w zw. z", "w powiązaniu z", \
-myślniki z wyjaśnieniami, "par." zamiast "§", itp.
-7. **Odpowiedzi nie mogą być zbyt długie.** Jeśli odpowiedź wymagałaby wyliczenia kilku \
-podpunktów (np. definicja składająca się z 3-4 członów) — zamiast jednego pytania z długą \
-odpowiedzią, wygeneruj **osobne pytania** testujące po jednym aspekcie definicji/wyliczenia.
-8. **Poprawna odpowiedź NIE powinna być najdłuższa** spośród 4 opcji (>1,5× długości najdłuższego dystraktora). \
-Jeśli jest rozbudowana — wyrównaj dystraktory w górę (pełne definicje z Priorytetu 1 \
-lub rozwinięte parafrazy z Priorytetu 2). Krótsza poprawna odpowiedź jest OK — nie wydłużaj jej. \
-Nie „napompowuj" dystraktorów bezsensownym tekstem — ich szczegółowość musi wynikać z treści paragrafu.
-9. Unikaj literówek, powtórzeń, nielogicznych sformułowań i nadmiarowych słów \
-których nie ma w danym paragrafie/ustępie.
-10. Każde pytanie musi mieć unikalny UUID (wygeneruj za pomocą pythona: \
+3. Każde pytanie musi mieć unikalny UUID (wygeneruj za pomocą pythona: \
 `import uuid; str(uuid.uuid4())`)
-11. `section_ref` = "%(section_ref)s"
+4. `section_ref` = "%(section_ref)s"
+
+## Zasady jakościowe pytań
+
+%(quality_rules)s
 
 ## Format wyjścia — ZAPISZ DO PLIKU
 
@@ -94,6 +73,11 @@ PYEOF
 
 WAŻNE: Do zapisu pliku użyj Bash z python3 (jak w przykładzie powyżej). NIE używaj Write tool.
 """
+
+
+def load_quality_rules() -> str:
+    """Load shared quality rules for prompt templates."""
+    return QUALITY_RULES_PATH.read_text(encoding="utf-8").strip()
 
 
 def count_content_lines(filepath: Path) -> int:
@@ -247,6 +231,9 @@ def main() -> None:
     for f in tmp_dir.glob("*.md"):
         f.unlink()
 
+    # Load shared quality rules
+    quality_rules = load_quality_rules()
+
     # Generate prompts (1 agent per section)
     batches = []
     for d in deficits:
@@ -254,7 +241,10 @@ def main() -> None:
         output_path = tmp_dir / f"{ref_clean}.json"
         prompt_path = tmp_dir / f"prompt_{ref_clean}.md"
 
-        prompt = PROMPT_TEMPLATE % {
+        template = PROMPT_TEMPLATE.replace(
+            "%(quality_rules)s", quality_rules,
+        )
+        prompt = template % {
             "instruction": args.name,
             "section_file": d["section_file"],
             "section_ref": d["section_ref"],

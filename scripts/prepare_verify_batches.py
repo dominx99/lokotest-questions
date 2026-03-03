@@ -21,6 +21,8 @@ import sys
 from pathlib import Path
 
 INSTRUCTIONS_DIR = Path("instructions")
+SCRIPTS_DIR = Path(__file__).parent
+QUALITY_RULES_PATH = SCRIPTS_DIR / "question_rules.txt"
 BATCH_SIZE = 30
 
 PROMPT_TEMPLATE = """\
@@ -36,49 +38,33 @@ Jesteś weryfikatorem pytań quizowych z instrukcji kolejowej %(instruction)s (P
 
 %(questions_json)s
 
+## Zasady jakościowe pytań
+
+%(quality_rules)s
+
 ## Dla każdego pytania sprawdź
 
-1. Czy **poprawna odpowiedź** (`correct`) faktycznie wynika z treści paragrafu?
-2. Czy **pytanie** jest jednoznaczne, precyzyjne i poprawne językowo (polska gramatyka)? \
-Treść pytania **NIE MOŻE** zawierać referencji do instrukcji, paragrafów, ustępów ani punktów \
-(np. "zgodnie z § 2 ust. 6 pkt 1 Ir-1"). Takie informacje należą wyłącznie do pola `explanation`. \
-Pytanie powinno być zrozumiałe bez znajomości numeracji paragrafów. Jeśli pytanie zawiera takie referencje — oznacz FIX i usuń je z treści pytania.
-3. Czy **dokładnie jedna** odpowiedź jest poprawna według treści paragrafu? Jeśli więcej niż jedna \
+Zweryfikuj zgodność z powyższymi zasadami jakościowymi. Dodatkowo sprawdź:
+
+1. Czy **dokładnie jedna** odpowiedź jest poprawna według treści paragrafu? Jeśli więcej niż jedna \
 odpowiedź ma pokrycie w treści — oznacz DELETE (pytanie niejednoznaczne).
-4. Czy **błędne odpowiedzi** (dystraktory) są wiarygodne ale faktycznie niepoprawne?
-   - Dystraktory muszą być z **tej samej kategorii semantycznej** co poprawna odpowiedź. \
-Jeśli poprawna odpowiedź definiuje miejsce/obszar — dystraktory też muszą być definicjami miejsc/obszarów. \
-Jeśli definiuje osobę/rolę — dystraktory muszą być definicjami innych osób/ról. Itd.
-   - **Priorytet 1**: użyj definicji innych pojęć z tej samej kategorii semantycznej z tego samego paragrafu \
-(np. pytanie o „rejon manewrowy" → dystraktory z definicji innych miejsc/obszarów z tego paragrafu).
-   - **Priorytet 2**: jeśli w paragrafie brak wystarczającej liczby pojęć z tej samej kategorii — \
-weź poprawną definicję i **zmień w niej kluczowe słowa/frazy** tak, aby była niepoprawna ale brzmiała wiarygodnie \
-(np. „wydzielony pod względem organizacji i technologii manewrów" → „wydzielony pod względem organizacji \
-i technologii ruchu pociągów"). To testuje dokładną znajomość definicji.
-   - Jeśli dystraktory nie spełniają powyższych zasad (np. definicja urządzenia jako dystraktor \
-do pytania o miejsce) — oznacz FIX i zaproponuj poprawione dystraktory.
-5. Czy `explanation` wskazuje właściwy paragraf, ustęp i podpunkt (jeśli jest w danym ustępie)?
-6. Czy `explanation` ma poprawny format źródła? Dozwolony format to **wyłącznie** referencja do paragrafu, np.:
-   - `%(instruction)s § 63 ust. 6 pkt 2` (nazwa instrukcji + paragraf + opcjonalnie ustęp, punkt, litera)
-   - `%(instruction)s § 63 ust. 6 pkt 2 tabela poz. 42` (z opcjonalnym odwołaniem do tabeli)
-   - Niedozwolone: dodatkowy tekst opisowy, komentarze w nawiasach, "w zw. z", "w powiązaniu z", myślniki z wyjaśnieniami, "par." zamiast "§", itp.
-   - Jeśli explanation zawiera cokolwiek poza czystą referencją — oznacz jako FIX i podaj poprawioną wersję zawierającą tylko referencję
-   - Jeśli explanation jest puste lub brak go — znajdź właściwy paragraf/ustęp w treści sekcji i dodaj referencję
-7. Czy nie ma literówek, powtórzeń, nielogicznych sformułowań, nadmiarowych słów których nie ma w danym paragrafie/ustępie?
-8. Czy pytanie nie jest **duplikatem** innego pytania w tej samej sekcji (ta sama treść lub ten sam sens **I** ta sama poprawna odpowiedź)? \
+2. Czy pytanie nie jest **duplikatem** innego pytania w tej samej sekcji (ta sama treść lub ten sam sens **I** ta sama poprawna odpowiedź)? \
 Jeśli tak — oznacz jako DELETE **tylko jedno** z duplikatów (to gorsze/mniej precyzyjne), a lepsze zachowaj z odpowiednim statusem (OK lub FIX). \
 UWAGA: Jeśli dwa pytania mają identyczną treść, ale **różne poprawne odpowiedzi** (np. testują różne elementy z tego samego wyliczenia), to NIE są duplikatami — oba zachowaj.
-9. Czy **poprawna odpowiedź lub dystraktory** nie są zbyt długie? Jeśli poprawna odpowiedź zawiera wyliczenie \
-kilku podpunktów (np. definicja składająca się z 3-4 członów), oznacz pytanie jako DELETE z opisem problemu, \
+
+### Akcje przy naruszeniu zasad jakościowych
+
+- **Referencje w pytaniu** (zasada 2): oznacz FIX i usuń referencje z treści pytania.
+- **Dystraktory z innej kategorii** (zasada 3): oznacz FIX i zaproponuj poprawione dystraktory.
+- **Zły format explanation** (zasada 4): oznacz FIX i podaj poprawioną wersję zawierającą tylko referencję. \
+Jeśli explanation jest puste lub brak go — znajdź właściwy paragraf/ustęp w treści sekcji i dodaj referencję.
+- **Zbyt długie odpowiedzi** (zasada 5): oznacz pytanie jako DELETE z opisem problemu, \
 a następnie zaproponuj **osobne pytania** (status NEW) — po jednym na każdy podpunkt/człon wyliczenia. \
 Każde nowe pytanie powinno testować wiedzę o jednym konkretnym aspekcie definicji/wyliczenia. \
 Wygeneruj UUID dla każdego nowego pytania za pomocą pythona: `import uuid; str(uuid.uuid4())`.
-10. Czy **poprawna odpowiedź jest najdłuższa** spośród 4 opcji i >1,5× dłuższa od najdłuższego dystraktora? \
-Tę zasadę stosuj **TYLKO gdy poprawna odpowiedź ma ponad 100 znaków**. Krótsze odpowiedzi (≤100 znaków) nie podlegają tej regule — oznacz OK. \
-Jeśli tak (poprawna >100 znaków I >1,5× dłuższa) — oznacz FIX. Wyrównaj **dystraktory w górę** do długości poprawnej odpowiedzi \
-(rozbuduj je o treść z paragrafu). Nie modyfikuj poprawnej odpowiedzi tylko dla wyrównania długości. \
-Jeśli poprawna odpowiedź jest **krótsza** od dystraktorów — to NIE jest problem, oznacz OK. \
-Nie „napompowuj" dystraktorów bezsensownym tekstem — ich szczegółowość musi wynikać z treści paragrafu.
+- **Poprawna najdłuższa** (zasada 6): oznacz FIX. Wyrównaj dystraktory w górę \
+(nie modyfikuj poprawnej odpowiedzi tylko dla wyrównania długości). \
+Jeśli poprawna jest **krótsza** od dystraktorów — to NIE jest problem, oznacz OK.
 
 ## Format wyników — ZAPISZ DO PLIKU
 
@@ -145,6 +131,11 @@ Dla NEW — `changes` musi zawierać kompletne pytanie: `question`, `answers`, `
 
 WAŻNE: Do zapisu pliku użyj Bash z python3 (jak w przykładzie powyżej). NIE używaj Write tool.
 """
+
+
+def load_quality_rules() -> str:
+    """Load shared quality rules for prompt templates."""
+    return QUALITY_RULES_PATH.read_text(encoding="utf-8").strip()
 
 
 def sanitize_ref(ref: str) -> str:
@@ -330,6 +321,9 @@ def main() -> None:
     for f in tmp_dir.glob("*.md"):
         f.unlink()
 
+    # Load shared quality rules
+    quality_rules = load_quality_rules()
+
     # Split groups into batches of max batch_size, distributed evenly
     batches = []
     for section_ref, section_questions in sorted(groups.items()):
@@ -354,7 +348,10 @@ def main() -> None:
             output_path = tmp_dir / f"{agent_id}.json"
             prompt_path = tmp_dir / f"prompt_{agent_id}.md"
 
-            prompt = PROMPT_TEMPLATE % {
+            template = PROMPT_TEMPLATE.replace(
+                "%(quality_rules)s", quality_rules,
+            )
+            prompt = template % {
                 "instruction": args.name,
                 "section_ref": section_ref,
                 "output_path": str(output_path),
