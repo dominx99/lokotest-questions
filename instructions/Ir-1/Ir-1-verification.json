@@ -2,10 +2,10 @@
   "instruction": "Ir-1",
   "timestamp": "2026-03-02T20:16:25.369240",
   "summary": {
-    "total": 729,
+    "total": 685,
     "ok": 114,
-    "fix": 43,
-    "delete": 1,
+    "fix": 0,
+    "delete": 0,
     "new": 571
   },
   "results": [
@@ -25,34 +25,9 @@
       "problems": []
     },
     {
-      "uuid": "b83962c5-dbed-42f8-accd-1bc8ab32584e",
-      "status": "FIX",
-      "problems": [
-        "Odpowiedź C ('Uprawnionego pracownika (kierownika manewrów)') jest wyraźnie dłuższa niż pozostałe dystraktory (A, B, D), co zdradza prawidłową odpowiedź — należy wyrównać długość dystraktorów."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Dyspozytora ruchu (dyżurnego ruchu)",
-          "B": "Maszynisty pojazdu trakcyjnego",
-          "C": "Uprawnionego pracownika (kierownika manewrów)",
-          "D": "Dróżnika przejazdowego (stróża)"
-        }
-      }
-    },
-    {
       "uuid": "adaef145-9ae1-40ad-a4e3-508b2639d58a",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "5c982342-d32d-45d2-9932-12d50c1e96d7",
-      "status": "FIX",
-      "problems": [
-        "Pytanie zawiera referencję do instrukcji: 'zgodnie z Ir‑1' — należy usunąć tę frazę z treści pytania."
-      ],
-      "changes": {
-        "question": "Kto może wydać zezwolenie na prowadzenie manewrów na torach głównych?"
-      }
     },
     {
       "uuid": "6f8905d8-6cd0-4d7b-a0ab-a64434f25232",
@@ -63,36 +38,6 @@
       "uuid": "044b2793-4a7a-40c4-aa34-f8e0a1917c23",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "b222dbe1-7e38-440a-abca-bf9b34e76e85",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź B jest wyraźnie dłuższa od wszystkich dystraktorów, co zdradza prawidłową odpowiedź. Dystraktory należy rozbudować do podobnego poziomu szczegółowości."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Granicy pierwszego rozjazdu (skrzyżowania torów) na stacji sąsiedniej",
-          "B": "Granicy najbliższego posterunku następczego lub najbliższego semafora odstępowego blokady wieloodstępowej (samoczynnej)",
-          "C": "Miejsca wyznaczonego przez wskaźnik W5 ograniczający jazdę manewrową",
-          "D": "Granicy wyznaczonej przez regulamin techniczny właściwy dla danego posterunku"
-        }
-      }
-    },
-    {
-      "uuid": "2c40d55d-1c95-48b3-97b6-3c31229fd94f",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź C ('Niezwłocznie wykonane') jest wyraźnie krótsza od wszystkich dystraktorów, co zaburza równowagę długości odpowiedzi i może sugerować prawidłową odpowiedź. Dystraktory należy skrócić do podobnego poziomu szczegółowości."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Zignorowane, gdy manewry są prawie skończone",
-          "B": "Potwierdzone wyłącznie pisemnie",
-          "C": "Niezwłocznie wykonane",
-          "D": "Wykonane po upływie 10 minut"
-        }
-      }
     },
     {
       "uuid": "6be209a0-5587-49e0-a03f-7fe2ab63a1d3",
@@ -135,54 +80,9 @@
       "problems": []
     },
     {
-      "uuid": "0f7899ab-540c-4ad7-8c75-67ece29c0f37",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź B jest wyraźnie dłuższa niż dystraktory A, C i D, co zdradza prawidłową odpowiedź. Dystraktory należy rozbudować do podobnej długości."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Ręcznego zamknięcia przejazdu przez maszynistę przed odrzuceniem wagonów",
-          "B": "Zapewnienia pracownika przewoźnika kolejowego uprawnionego do kierowania ruchem w obrębie przejazdu",
-          "C": "Wystawienia sygnału ostrzegawczego przez pracownika ochrony przejazdu",
-          "D": "Uzyskania pisemnego zezwolenia od dyżurnego ruchu stacji"
-        }
-      }
-    },
-    {
       "uuid": "7d6703dc-a41a-4f05-a1e7-efb8eac2efb1",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "87b261a8-0a1d-4f51-a893-6a67a11d17ff",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź C jest wyraźnie dłuższa od pozostałych dystraktorów (A i B to bardzo krótkie sformułowania z 'Tylko' i 'Wyłącznie'), co zdradza prawidłową odpowiedź. Dystraktory A, B, D należy rozbudować do zbliżonej długości."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Wyłącznie wykonanie próby hamulca i oględzin technicznych",
-          "B": "Jedynie przepisowe osygnalizowanie pociągu i sprawdzenie hamulców ręcznych",
-          "C": "Zestawienie zgodne z parametrami określonymi w wewnętrznym rozkładzie jazdy pociągów",
-          "D": "Sprawdzenie, czy dokumenty pojazdu kolejowego są aktualne i kompletne"
-        }
-      }
-    },
-    {
-      "uuid": "aa3a50df-3036-44d6-845a-25649185c4ae",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź B jest wyraźnie dłuższa od pozostałych dystraktorów (A, C, D są bardzo krótkie), co zdradza prawidłową odpowiedź. Dystraktory należy rozbudować do zbliżonej długości."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Na każdej stacji osobowej oraz w miejscach zaplanowanych w rozkładzie jazdy",
-          "B": "Na stacjach pośrednich, gdy zachodzi taka potrzeba, lub przy zmianie drużyny trakcyjnej",
-          "C": "Wyłącznie na stacji końcowej, przed podstawieniem składu do kolejnego kursu",
-          "D": "Tylko w przypadku awarii lub stwierdzenia nieprawidłowości przez maszynistę"
-        }
-      }
     },
     {
       "uuid": "a6b87f5e-f438-4b07-95e5-391117a03b8d",
@@ -190,49 +90,9 @@
       "problems": []
     },
     {
-      "uuid": "329d3373-4c8f-48a8-baf9-8fc2f81d2024",
-      "status": "FIX",
-      "problems": [
-        "Odpowiedź B 'Instrukcją Ir-11' jest de facto tożsama z poprawną odpowiedzią A 'Instrukcją sygnalizacji', ponieważ Ir-11 to właśnie instrukcja sygnalizacji PKP — pytanie staje się niejednoznaczne. Dystraktor B należy zastąpić inną instrukcją, która nie jest instrukcją sygnalizacji."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Instrukcją sygnalizacji",
-          "B": "Instrukcją o prowadzeniu ruchu pociągów",
-          "C": "Instrukcją Id-4",
-          "D": "Rozkazem pisemnym"
-        }
-      }
-    },
-    {
       "uuid": "11fe00cd-f690-4515-aba1-b191bd0b0c3d",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "52bf8010-f5f2-49c6-b377-2efda2a25a56",
-      "status": "FIX",
-      "problems": [
-        "Odpowiedź A (poprawna) jest wyraźnie dłuższa niż dystraktory B, C, D — zdradza prawidłową odpowiedź. Dystraktory B, C, D należy rozbudować do podobnego poziomu szczegółowości."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Z drużyny trakcyjnej oraz drużyny konduktorskiej lub tylko drużyny trakcyjnej",
-          "B": "Z maszynisty i pomocnika maszynisty tworzących dwuosobową drużynę trakcyjną",
-          "C": "Z kierownika pociągu i konduktorów tworzących drużynę konduktorską",
-          "D": "Z dyżurnego ruchu i nastawniczego odpowiedzialnych za prowadzenie ruchu"
-        }
-      }
-    },
-    {
-      "uuid": "c8c2b888-11f4-484a-b084-f0565c11bc24",
-      "status": "FIX",
-      "problems": [
-        "Pytanie pomija kluczowy warunek z § 15 ust. 3 pkt 1: pojazd trakcyjny musi być wyposażony 'przynajmniej w jeden rodzaj' urządzeń kontrolujących czujność maszynisty — nie 'urządzenia' (liczba mnoga sugeruje wymaganie wszystkich rodzajów). Treść pytania należy uzupełnić o ten warunek."
-      ],
-      "changes": {
-        "question": "Jaka jest maksymalna prędkość pociągu przy jednoosobowej obsłudze trakcyjnej w przypadku, gdy pojazd trakcyjny wyposażony jest w przynajmniej jeden rodzaj czynnych i sprawnych urządzeń kontrolujących czujność maszynisty oraz urządzenia radiołączności pociągowej?"
-      }
     },
     {
       "uuid": "6cdea651-6982-4ce4-88ef-e004d408fe69",
@@ -260,22 +120,6 @@
       "problems": []
     },
     {
-      "uuid": "1d7895e2-2170-4329-8938-797a0d417efb",
-      "status": "FIX",
-      "problems": [
-        "Dystraktor D ('Tylko na polecenie dyspozytora') jest nieprawdopodobny i nie wynika z treści paragrafu — żaden ustęp § 18 nie wiąże wykonania uproszczonej próby hamulca z poleceniem dyspozytora. Należy zastąpić go wiarygodniejszym dystraktorem nawiązującym do treści § 18 ust. 3, np. wyłączeniem pojazdu kolejowego ze składu (pkt 6).",
-        "Dystraktor D powinien brzmieć: 'Po wyłączeniu co najmniej jednego pojazdu kolejowego ze składu pociągu' — jest to realny przypadek wymieniony w § 18 ust. 3 pkt 6, jednak pytanie koncentruje się na konkretnym przypadku (zmiana kabiny), więc wymaga dopasowanego zestawu dystraktorów z tej samej listy."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Po zmianie kabiny sterowniczej",
-          "B": "Przed każdą zmianą kierunku jazdy",
-          "C": "Co 24 h postoju pociągu",
-          "D": "Po wyłączeniu co najmniej jednego pojazdu ze składu pociągu"
-        }
-      }
-    },
-    {
       "uuid": "af9d2503-d5d6-46d0-8fac-946a58c4b627",
       "status": "OK",
       "problems": []
@@ -284,16 +128,6 @@
       "uuid": "a72bf759-9111-4edd-89e3-65a0cbbe44d6",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "7ec383d2-cb80-40be-aac3-846767c3e590",
-      "status": "FIX",
-      "problems": [
-        "Pytanie sformułowane jest niejasno: 'Co to jest odstęp w przypadku toru szlakowego biegnącego od posterunku zapowiadawczego?' — zwrot 'biegnącego od' nie wynika z treści paragrafu i może mylić. Należy przeformułować na bardziej precyzyjne pytanie o definicję odstępu zgodnie z pkt 1 ust. 6."
-      ],
-      "changes": {
-        "question": "Jak definiowany jest odstęp między posterunkiem zapowiadawczym a najbliższym posterunkiem odstępowym?"
-      }
     },
     {
       "uuid": "88878547-4d1a-4b47-9536-a55cdb3dea3e",
@@ -306,69 +140,9 @@
       "problems": []
     },
     {
-      "uuid": "0e5d6f0a-35fd-4f45-84fa-238c66fb0fe4",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź A jest wyraźnie najdłuższa spośród wszystkich odpowiedzi, co zdradza prawidłową odpowiedź. Dystraktory B i D są znacznie krótsze. Należy rozbudować dystraktory do podobnej długości co poprawna odpowiedź, korzystając z pełnych definicji z § 2."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Część toru szlakowego między dwoma kolejnymi semaforami odstępowymi blokady wieloodstępowej (samoczynnej) dla tego samego kierunku jazdy przy danym torze",
-          "B": "Część linii kolejowej między dwoma sąsiednimi posterunkami zapowiadawczymi lub między ostatnim posterunkiem zapowiadawczym i końcowym punktem linii kolejowej",
-          "C": "Część toru szlakowego między posterunkiem zapowiadawczym a najbliższym semaforem blokady wieloodstępowej (samoczynnej), niezależnie od kierunku jazdy przy danym torze",
-          "D": "Część linii kolejowej zawarta między sąsiednimi stacjami węzłowymi albo między punktem początkowym lub końcowym linii kolejowej i najbliższą stacją węzłową"
-        }
-      }
-    },
-    {
-      "uuid": "56e83bbb-17c1-4faa-80c0-1596cf6669ac",
-      "status": "FIX",
-      "problems": [
-        "Odpowiedź A jest wyraźnie dłuższa od dystraktorów B, C, D, co zdradza prawidłową odpowiedź. Dystraktory należy rozbudować do podobnego poziomu szczegółowości."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Mas hamujących wszystkich pojazdów kolejowych z czynnymi hamulcami w pociągu",
-          "B": "Mas brutto wszystkich pojazdów kolejowych znajdujących się w pociągu",
-          "C": "Mas hamujących wszystkich pojazdów kolejowych bez względu na stan hamulców w pociągu",
-          "D": "Mas hamujących pojazdów trakcyjnych z czynnymi hamulcami w pociągu"
-        }
-      }
-    },
-    {
-      "uuid": "16fffb1a-c7bd-466a-adc4-4ffdc088cdd7",
-      "status": "FIX",
-      "problems": [
-        "Odpowiedź A (poprawna) zawiera wyliczenie 4 elementów i jest wyraźnie dłuższa niż dystraktory B, C, D (po 2 elementy), co zdradza prawidłową odpowiedź — dystraktory należy rozbudować do podobnej liczby elementów."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Od drogi hamowania, sposobu hamowania, prędkości jazdy i pochyleń miarodajnych.",
-          "B": "Od długości składu, liczby wagonów, rodzaju ładunku i masy lokomotywy.",
-          "C": "Od rodzaju hamulca pneumatycznego, masy lokomotywy, liczby osi i rozstawu kół.",
-          "D": "Od masy brutto pociągu, liczby osi, długości składu i rodzaju podwozia wagonu."
-        }
-      }
-    },
-    {
       "uuid": "31b8dfe4-2e4b-461e-af18-8bbd187b8c47",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "62796780-2b4a-4368-9ef4-c9a1e6a9b807",
-      "status": "FIX",
-      "problems": [
-        "Dystraktor D 'Wysłać wiadomość SMS do maszynistów' jest nierealistyczny w kontekście kolejowym i natychmiast wyklucza się jako odpowiedź — nie stanowi wiarygodnego dystraktora. Należy zastąpić go procedurą operacyjną z tej samej kategorii semantycznej (czynności dyżurnego ruchu)."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Nic – procedura wygaśnie sama",
-          "B": "Odwołać zapowiadanie telefonogramem według wzoru 17",
-          "C": "Wyłączyć urządzenia blokady liniowej",
-          "D": "Wznowić obsługę blokady liniowej bez nadawania telefonogramu"
-        }
-      }
     },
     {
       "uuid": "c26376e1-d839-4fed-a10f-d2720bcabe22",
@@ -389,25 +163,6 @@
       "uuid": "63c091e6-5f0a-4730-b4ea-28a03727527e",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "d10c2a3a-3b92-4f45-b6df-0ada6ef02993",
-      "status": "FIX",
-      "problems": [
-        "Dystraktory B, C, D są typami pociągów (pociąg roboczy, skład pasażerski, pociąg ratunkowy), podczas gdy poprawna odpowiedź A jest rodzajem konfiguracji/układu lokomotywy (lokomotywa popychająca). Dystraktory nie należą do tej samej kategorii semantycznej — pytanie brzmi 'z czym nie wolno wyprawić pociągu', więc dystraktory też powinny być konfiguracjami/układami lokomotyw lub pojazdów trakcyjnych, nie typami pociągów.",
-        "Odpowiedź A 'Lokomotywą popychającą do kilometra' jest niekompletna — paragraf zakazuje wyprawiania pociągu z 'lokomotywą popychającą pociąg do kilometra i powracającą ze szlaku na stację wyprawienia'; powrót lokomotywy na stację wyprawienia jest kluczowym elementem zakazu.",
-        "Dystraktory należy zastąpić innymi konfiguracjami/układami lokomotyw lub trakcji, które brzmią wiarygodnie jako odpowiedzi na pytanie o konfigurację pociągu na szlaku z blokadą wieloodstępową."
-      ],
-      "changes": {
-        "question": "Na szlaku z blokadą wieloodstępową (samoczynną) nie wolno wyprawić pociągu z:",
-        "answers": {
-          "A": "Lokomotywą popychającą pociąg do kilometra i powracającą ze szlaku na stację wyprawienia",
-          "B": "Lokomotywą prowadzącą pociąg przez cały szlak",
-          "C": "Lokomotywą popychającą pociąg do następnego posterunku zapowiadawczego",
-          "D": "Lokomotywą wielokrotną prowadzącą pociąg w trakcji łączonej"
-        },
-        "correct": "A"
-      }
     },
     {
       "uuid": "bc7731a8-01f9-4cc6-99a2-6e7e88afd646",
@@ -440,22 +195,6 @@
       "problems": []
     },
     {
-      "uuid": "cb2dc32d-7794-47c6-8f5e-90fcfa1fc1fa",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź B jest wyraźnie dłuższa niż pozostałe odpowiedzi (A, C, D są bardzo krótkie), co zdradza prawidłową odpowiedź — niezgodność z zasadą równej długości odpowiedzi.",
-        "Dystraktor D 'Policjant kolejowy' jest mało wiarygodny w kontekście ułożenia drogi przebiegu — nie jest to osoba z personelu technicznego posterunku ani prowadzenia ruchu. Należy zastąpić wiarygodniejszym dystrakiem z tej samej kategorii semantycznej (pracownicy techniczni/ruchowi)."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Dyżurny ruchu odpowiedzialny za dany posterunek",
-          "B": "Pracownik zatrudniony na stanowisku automatyka lub toromistrza, spełniający wymagania określone w Instrukcji Ia-5",
-          "C": "Maszynista pojazdu, który ma wykonać przejazd przez posterunek",
-          "D": "Nastawniczy lub inny pracownik obsługi urządzeń sterowania ruchem"
-        }
-      }
-    },
-    {
       "uuid": "125ab5d1-93b7-4232-a282-a5f3faddbb11",
       "status": "OK",
       "problems": []
@@ -474,21 +213,6 @@
       "uuid": "b01ff4ae-12c0-4587-812a-1b04cbbc8d2f",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "0592b208-2d7d-47da-a580-eefa8390c0de",
-      "status": "FIX",
-      "problems": [
-        "Dysproporcja długości odpowiedzi: poprawna odpowiedź C jest wyraźnie dłuższa od wszystkich dystraktorów (A, B, D to bardzo krótkie ogólniki), co zdradza prawidłową odpowiedź. Dystraktory powinny być rozbudowane do podobnego poziomu szczegółowości co odpowiedź C."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Kontynuować jazdę z dotychczasową prędkością, odnotowując sygnał w dokumentacji pociągu",
-          "B": "Natychmiast zwiększyć prędkość i jak najszybciej dojechać do najbliższego posterunku ruchu",
-          "C": "Zatrzymać pociąg i po stwierdzeniu braku widocznych przeszkód jechać z prędkością do 40 km/h do najbliższego posterunku ruchu",
-          "D": "Zatrzymać pociąg i oczekiwać na przyjazd ekipy ratowniczej lub dalsze dyspozycje od dyżurnego ruchu"
-        }
-      }
     },
     {
       "uuid": "87fbba67-476c-4bda-9863-eaa9cd91940b",
@@ -521,28 +245,6 @@
       "problems": []
     },
     {
-      "uuid": "8bd5e70d-4680-48d7-83e0-e0d7324610b1",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=431f4a1c-351a-49b6-bcca-640cd7d890ef: oba pytania dotyczą tej samej prędkości 20 km/h wynikającej z § 38 ust. 9 pkt 2, który łączy w jednym przepisie tor częściowo zajęty, tor o ograniczonej użyteczności i tor zakończony kozłem oporowym — różnica w pytaniach jest wyłącznie w nazwie scenariusza, a poprawna odpowiedź i podstawa prawna są identyczne."
-      ]
-    },
-    {
-      "uuid": "a5df57f4-b5fe-4459-85c0-bb09ffb0f331",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź B jest wyraźnie dłuższa niż dystraktory A, C, D — zdradza prawidłową odpowiedź. Dystraktory należy rozbudować do zbliżonej długości."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Nie ma żadnych warunków — dyżurny ruchu może wyłączyć samoczynność w dowolnym momencie",
-          "B": "Na żadnym odcinku drogi przebiegu nie może być pociągu i co najmniej dwa odcinki zbliżania muszą nie wykazywać zajętości",
-          "C": "Wystarczy, że na semaforze wyświetlany jest sygnał zastępczy zezwalający na jazdę",
-          "D": "Na wszystkich semaforach musi być podany sygnał 'Stój' i posterunki techniczne muszą potwierdzić gotowość"
-        }
-      }
-    },
-    {
       "uuid": "c1f00d58-8875-4653-8dfa-ad508ba21eb1",
       "status": "OK",
       "problems": []
@@ -551,21 +253,6 @@
       "uuid": "f64d9d00-48ed-4338-ac17-9f62f9d6b252",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "2e89a05a-5de3-4369-b809-489be277705a",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź A jest wyraźnie dłuższa niż dystraktory B, C, D — zdradza prawidłową odpowiedź. Dystraktory należy rozbudować do zbliżonej długości."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Nastawianie przebiegów odbywa się automatycznie na skutek oddziaływania pociągu na urządzenia srk",
-          "B": "Dyżurny ruchu ręcznie zatwierdza każdy przebieg w systemie komputerowym po otrzymaniu zgłoszenia od nastawniczego",
-          "C": "Nastawianie przebiegów odbywa się wyłącznie na torach głównych dodatkowych, z pominięciem torów zasadniczych",
-          "D": "System blokuje możliwość ręcznego nastawiania przebiegów przez dyżurnego ruchu i wymaga interwencji zarządcy"
-        }
-      }
     },
     {
       "uuid": "296b6af4-8046-4f25-9ad6-997c0bdec3bc",
@@ -608,21 +295,6 @@
       "problems": []
     },
     {
-      "uuid": "cba90af4-ecaf-4f7b-8139-158ef75e9216",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź B jest znacznie dłuższa niż wszystkie pozostałe dystraktory (A: 'Semafor wyjazdowy', C: 'Pierwszy rozjazd od strony szlaku', D: 'Wskaźnik W4'), co zdradza prawidłową odpowiedź — niezgodne z zasadą równej długości odpowiedzi. Dystraktory należy rozbudować do poziomu szczegółowości odpowiedzi B."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Semafor wyjazdowy tego posterunku i linia prostopadła do osi torów w miejscu ustawienia tego semafora",
-          "B": "Miejsce znajdowania się semafora wjazdowego i linia prostopadła do osi torów w miejscu ustawienia tego semafora",
-          "C": "Pierwsze rozjazdy od strony szlaku i linia prostopadła do osi torów w miejscu ustawienia tych rozjazdów",
-          "D": "Wskaźnik W4 i linia prostopadła do osi torów w miejscu ustawienia tego wskaźnika"
-        }
-      }
-    },
-    {
       "uuid": "2b379f76-8c9d-4e94-b47a-2d2285dca1eb",
       "status": "OK",
       "problems": []
@@ -648,54 +320,9 @@
       "problems": []
     },
     {
-      "uuid": "ed248964-0f31-4a73-ab98-cda1a8f4a4d2",
-      "status": "FIX",
-      "problems": [
-        "Dystraktor C jest zbyt krótki i opisuje posterunek zapowiadawczy (inną kategorię niż pozostałe odpowiedzi — posterunki następcze). Poprawna odpowiedź A jest wyraźnie dłuższa od C, co zdradza właściwą odpowiedź. Dystraktor C zastąpiono definicją posterunku pomocniczego (ust. 12), która pochodzi z tej samej kategorii semantycznej (posterunki ruchu na szlaku przy bocznicy) i ma porównywalną długość."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Posterunkiem ruchu urządzonym na szlaku przy odgałęzieniu bocznicy, który bierze udział w prowadzeniu ruchu wszystkich pociągów kursujących na przyległych odstępach i pociągów obsługujących bocznicę",
-          "B": "Posterunkiem ruchu urządzanym na szlaku w celu podziału szlaku na odstępy, regulującym następstwo pociągów przez sprawdzenie wolności następnego odstępu",
-          "C": "Posterunkiem urządzonym na szlaku przy odgałęzieniu bocznicy, tylko w celu umożliwienia wjazdu pociągu na bocznicę i zgłoszenia, że szlak jest wolny, względnie wyjazdu pociągu z bocznicy",
-          "D": "Posterunkiem urządzonym poza stacją w miejscu odgałęzienia linii kolejowej, biorącym udział w prowadzeniu ruchu wszystkich pociągów kursujących na przyległych szlakach"
-        }
-      }
-    },
-    {
       "uuid": "d994f6a0-5de5-42c8-b642-aa433651d6a6",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "e6ddb52c-c777-4361-b81d-911f4f9d21da",
-      "status": "FIX",
-      "problems": [
-        "Dystraktor C jest zbyt krótki w porównaniu z poprawną odpowiedzią B, co zaburza równowagę długości i może ułatwiać odgadnięcie prawidłowej odpowiedzi. Dystraktor C opisuje posterunek zapowiadawczy (ust. 3) — rozbudowano go do pełnej definicji z tego ustępu, aby osiągnąć podobną długość co pozostałe odpowiedzi."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Posterunkiem ruchu urządzanym na szlaku w celu podziału szlaku na odstępy, regulującym następstwo pociągów przez zezwolenie na przejazd, gdy następny odstęp jest wolny",
-          "B": "Posterunkiem urządzonym na szlaku przy odgałęzieniu bocznicy, tylko w celu umożliwienia wjazdu pociągu na bocznicę i zgłoszenia, że szlak jest wolny, względnie wyjazdu pociągu z bocznicy",
-          "C": "Posterunkiem zapowiadawczym mającym możliwość zmiany kolejności jazdy pociągów wyprawianych na tor szlakowy przyległy do tego posterunku",
-          "D": "Posterunkiem ruchu urządzonym na szlaku przy odgałęzieniu bocznicy, który bierze udział w prowadzeniu ruchu wszystkich pociągów kursujących na przyległych odstępach i pociągów obsługujących bocznicę"
-        }
-      }
-    },
-    {
-      "uuid": "5f88fd31-9a58-4132-b76b-3eaca851174a",
-      "status": "FIX",
-      "problems": [
-        "Dystraktory B i D są definicjami posterunków ruchu (odpowiednio: posterunek bocznicowy i pomocniczy), a bocznica kolejowa to 'droga kolejowa' — inne kategorie semantyczne. Dystraktory powinny być definicjami innych infrastrukturalnych pojęć lub zmodyfikowanymi wariantami definicji bocznicy. Zastąpiono je: B — definicją przystanku osobowego z § 3 ust. 14 (jedyne inne pojęcie infrastrukturalne w tym paragrafie), D — zmodyfikowaną wersją definicji bocznicy kolejowej z błędnym kluczowym elementem. Poprawna odpowiedź C była zdecydowanie najdłuższa, co zdradzało właściwą odpowiedź — wyrównano długości dystraktorów."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Miejscem na szlaku urządzonym do wsiadania i wysiadania podróżnych, w którym rozkładowo zatrzymują się pociągi pasażerskie",
-          "B": "Wyznaczoną przez zarządcę infrastruktury drogą kolejową, połączoną bezpośrednio lub pośrednio z linią kolejową, służącą wyłącznie do przemieszczania pojazdów kolejowych pomiędzy stacjami na sieci kolejowej",
-          "C": "Wyznaczoną przez zarządcę infrastruktury drogą kolejową, połączoną bezpośrednio lub pośrednio z linią kolejową, służącą do wykonywania czynności ładunkowych, utrzymaniowych lub postoju pojazdów kolejowych albo przemieszczania i włączania pojazdów kolejowych do ruchu",
-          "D": "Wyznaczoną przez zarządcę infrastruktury drogą kolejową, połączoną wyłącznie bezpośrednio z linią kolejową, służącą do wykonywania czynności manewrowych i postoju pojazdów kolejowych oczekujących na wjazd do stacji"
-        }
-      }
     },
     {
       "uuid": "d8bb7b8a-64fa-4da7-b6cd-0decb4bc326a",
@@ -718,41 +345,9 @@
       "problems": []
     },
     {
-      "uuid": "86a22a81-4784-4c25-a622-731440206e83",
-      "status": "FIX",
-      "problems": [
-        "Dystraktor C 'Nastawniczy tylko' jest sformułowany nienaturalnie — słowo 'tylko' na końcu frazy rzeczownikowej jest niepoprawne stylistycznie; poprawna forma to 'Wyłącznie nastawniczy'."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Dyżurny ruchu",
-          "B": "Maszynista",
-          "C": "Wyłącznie nastawniczy",
-          "D": "Kierownik pociągu"
-        }
-      }
-    },
-    {
       "uuid": "43c149fb-8ee7-40ec-b2e2-769c7a2c283f",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "5bcd6c98-5501-4bf7-8497-a3f12eee29a7",
-      "status": "FIX",
-      "problems": [
-        "Dystraktory B, C i D są bardzo krótkie i nierealistyczne w porównaniu do poprawnej odpowiedzi A, która jest szczegółowym warunkiem z paragrafu — nierównowaga długości zdradza prawidłową odpowiedź.",
-        "Dystraktory nie są z tej samej kategorii semantycznej co odpowiedź A — nie opisują warunków użycia sygnału zastępczego/rozkazu pisemnego z podobnym poziomem szczegółowości.",
-        "Poprawna odpowiedź A jest wyraźnie najdłuższa spośród wszystkich opcji, co jest niedopuszczalne."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Gdy nie jest możliwe, nie jest przewidziane albo nie wolno podać sygnału zezwalającego na semaforze i nie ma przeszkód do jazdy",
-          "B": "Gdy droga przebiegu pociągu jest przygotowana, lecz dyżurny ruchu nie wydał jeszcze oddzielnego polecenia na jej przygotowanie",
-          "C": "Gdy semafor wyjazdowy podaje sygnał zezwalający, lecz maszynista zgłasza usterkę urządzeń trakcyjnych uniemożliwiającą obserwację semafora",
-          "D": "Gdy jazda pociągu ma się odbyć z toru, przy którym semafor wyjazdowy podaje sygnał zezwalający, lecz rozkaz pisemny przekazano wcześniej niż sygnał zastępczy"
-        }
-      }
     },
     {
       "uuid": "f1d2c0ea-05a0-4626-b611-519e858e0737",
@@ -780,21 +375,6 @@
       "problems": []
     },
     {
-      "uuid": "77f98f99-bf2d-4ad7-b099-0475c0b04b66",
-      "status": "FIX",
-      "problems": [
-        "Dystraktory B, C, D są wyraźnie krótsze od poprawnej odpowiedzi A ('Telefoniczne żądanie i danie pozwolenia na wyprawienie pociągu'), co zdradza prawidłową odpowiedź — należy rozbudować dystraktory do podobnego poziomu szczegółowości."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Telefoniczne żądanie i danie pozwolenia na wyprawienie pociągu",
-          "B": "Wyłącznie rozkaz pisemny zezwalający na wyprawienie pociągu na tor czynny",
-          "C": "Zapowiedź telefoniczna bez konieczności uzyskania pozwolenia na wyprawienie",
-          "D": "Podanie sygnału zezwalającego lub wskaźnika W 24 bez żądania pozwolenia"
-        }
-      }
-    },
-    {
       "uuid": "81ef35cf-85d4-458d-a4b7-5e0aa64ba4f7",
       "status": "OK",
       "problems": []
@@ -803,24 +383,6 @@
       "uuid": "95277899-5c3a-493a-ad00-f24c4eec52c3",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "2b56be71-e895-483e-a61f-cfc362b5189c",
-      "status": "FIX",
-      "problems": [
-        "Dystraktory C ('Dzienniku pojazdów') i D ('Planie oblotu') nie mają pokrycia w treści § 55 i są mało wiarygodne w tym kontekście. Należy zastąpić je dokumentami/telefonogramami rzeczywiście wymienionymi lub powiązanymi z § 55.",
-        "Dystraktor D 'Plan oblotu' nie należy do słownictwa związanego z prowadzeniem ruchu kolejowego opisanym w § 55."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Telefonogramie zapowiadawczym",
-          "B": "Rozkazie pisemnym",
-          "C": "Telefonogramie zawierającym oznajmienie odjazdu",
-          "D": "Telefonogramie żądania i dania pozwolenia"
-        },
-        "correct": "A",
-        "explanation": "Ir-1 § 55 ust. 3"
-      }
     },
     {
       "uuid": "bee52553-2332-4e5b-84d9-6e9533bc9984",
@@ -838,85 +400,9 @@
       "problems": []
     },
     {
-      "uuid": "ea3bc5be-e9e4-4fde-aa93-fec89261170b",
-      "status": "FIX",
-      "problems": [
-        "Pytanie zawiera referencję do wewnętrznej klasyfikacji paragrafu: '(Przypadek D)' — tego typu oznaczenia należą wyłącznie do pola explanation, nie mogą pojawiać się w treści pytania."
-      ],
-      "changes": {
-        "question": "Jaka jest maksymalna dopuszczalna prędkość pociągu ratunkowego przejeżdżającego przez przejazd kolejowo-drogowy obsługiwany na odcinku z zamkniętymi i wstrzymanymi posterunkami ruchu?"
-      }
-    },
-    {
-      "uuid": "4b9a31e6-3cea-4680-ba15-b4af8ae64cc9",
-      "status": "FIX",
-      "problems": [
-        "Pytanie zawiera referencję do wewnętrznej klasyfikacji paragrafu: '(Przypadek D)' — tego typu oznaczenia należą wyłącznie do pola explanation, nie mogą pojawiać się w treści pytania.",
-        "Dystraktor A (80 km/h) nie ma pokrycia w treści paragrafu ani żadnej innej jego części; bardziej wiarygodnym i edukacyjnym dystraktorem byłoby 20 km/h, czyli prędkość przez obsługiwane przejazdy kolejowo-drogowe wymieniona w tym samym ustępie (ust. 45), która może być mylona z ogólną prędkością na odcinku."
-      ],
-      "changes": {
-        "question": "Jaka jest maksymalna dopuszczalna prędkość pociągu ratunkowego, roboczego lub pługa odśnieżnego na odcinku z zamkniętymi i wstrzymanymi posterunkami ruchu?",
-        "answers": {
-          "A": "20 km/h",
-          "B": "30 km/h",
-          "C": "5 km/h",
-          "D": "10 km/h"
-        },
-        "correct": "B"
-      }
-    },
-    {
       "uuid": "123052cc-67d9-4001-8c89-3e2edadb3671",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "a256820a-ed5f-49f2-904a-7b71d5802e9a",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź A ('Każdy pracownik związany z prowadzeniem ruchu', 45 znaków) jest wyraźnie dłuższa niż wszystkie dystraktory (B: 'Wyłącznie dyżurny ruchu', C: 'Jedynie maszynista', D: 'Tylko kierownik pociągu' — ok. 18–23 znaki), co zdradza prawidłową odpowiedź. Należy rozbudować dystraktory do podobnego poziomu szczegółowości.",
-        "Dystraktory B, C, D mają identyczny schemat ('Wyłącznie/Jedynie/Tylko + stanowisko'), co sprawia, że pytanie jest zbyt łatwe przez eliminację wzorca. Należy urozmaicić formę dystraktorów."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Każdy pracownik związany z prowadzeniem ruchu",
-          "B": "Wyłącznie dyżurny ruchu jako koordynator współpracy jednostek organizacyjnych",
-          "C": "Jedynie maszynista jako prowadzący pojazd trakcyjny",
-          "D": "Tylko kierownik pociągu jako odpowiedzialny za skład pociągu"
-        }
-      }
-    },
-    {
-      "uuid": "34e55423-a637-48c1-917e-ff0430372b97",
-      "status": "FIX",
-      "problems": [
-        "Dystraktory A ('Od liczby wagonów w składzie pociągu'), C ('Od pory dnia') i D ('Od liczby pasażerów') są zbyt oczywiste i nieprawdopodobne — żaden kolejarz ani laik nie potraktowałby ich serio. Należy zastąpić je wiarygodnymi czynnikami, które brzmią sensownie ale nie wynikają z § 63 ust. 1.",
-        "Odpowiedź B ('Od konstrukcji pojazdów i stanu toru') jest skróconym, uproszczonym ujęciem — akceptowalne jako poprawna odpowiedź, jednak dystraktory wymagają poprawy."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Od masy ładunku przewożonego w wagonach towarowych",
-          "B": "Od konstrukcji pojazdów i stanu toru",
-          "C": "Od widoczności na szlaku w porze nocnej",
-          "D": "Od liczby czynnych lokomotyw w składzie"
-        }
-      }
-    },
-    {
-      "uuid": "53288eea-434c-4114-b351-7f1821084354",
-      "status": "FIX",
-      "problems": [
-        "Dystraktor D ('120 km/h bez ograniczeń') jest wewnętrznie sprzeczny — pytanie dotyczy ograniczenia prędkości, a dystraktor zawiera frazę 'bez ograniczeń', co czyni go nielogicznym i łatwym do odrzucenia.",
-        "Dystraktor A ('50 km/h') i C ('Prędkości rozkładowej pociągu') są wiarygodne, ale D wymaga poprawy."
-      ],
-      "changes": {
-        "answers": {
-          "A": "50 km/h",
-          "B": "Prędkości konstrukcyjnej wolniejszej z lokomotyw",
-          "C": "Prędkości rozkładowej pociągu",
-          "D": "Prędkości dopuszczalnej dla danego odcinka toru"
-        }
-      }
     },
     {
       "uuid": "940e53b9-0f00-4c62-bdbf-80c19457f1e3",
@@ -974,22 +460,6 @@
       "problems": []
     },
     {
-      "uuid": "1648831d-0720-4e93-865f-8152c06c0a2c",
-      "status": "FIX",
-      "problems": [
-        "Odpowiedź A (poprawna) jest wyraźnie dłuższa niż dystraktory B, C i D, co zdradza prawidłową odpowiedź — dystraktory należy rozbudować do porównywalnego poziomu szczegółowości.",
-        "Dystraktory B i C odwołują się do wskaźników (W14, W27) i elementów (pierwszy rozjazd, semafor wjazdowy), które nie mają związku z treścią § 63 ust. 6 — należy zastąpić je wiarygodnymi, lecz błędnymi definicjami początku i końca ograniczenia, opartymi na zmianach kluczowych elementów poprawnej odpowiedzi."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Początek – miejsce ustawienia semafora lub innego sygnalizatora, koniec – ostatni przejeżdżany rozjazd (lub miejsce sygnałowe, gdy nie ma rozjazdów)",
-          "B": "Początek – pierwszy przejeżdżany rozjazd w okręgu nastawczym, koniec – miejsce ustawienia semafora lub innego sygnalizatora za okręgiem",
-          "C": "Początek – ostatni przejeżdżany rozjazd lub miejsce sygnałowe, gdy nie ma rozjazdów, koniec – miejsce ustawienia semafora lub innego sygnalizatora",
-          "D": "Początek – miejsce ustawienia semafora lub innego sygnalizatora, koniec – pierwszy przejeżdżany rozjazd (lub miejsce sygnałowe, gdy nie ma rozjazdów)"
-        }
-      }
-    },
-    {
       "uuid": "204d2568-d3bf-484d-b34d-57a8845ecc36",
       "status": "OK",
       "problems": []
@@ -1020,44 +490,9 @@
       "problems": []
     },
     {
-      "uuid": "37e2ed9c-785f-412f-93a6-740e85c029aa",
-      "status": "FIX",
-      "problems": [
-        "Dystraktor C (100 km/h) jest zbyt odległy od poprawnej odpowiedzi i całkowicie niewiarygodny w kontekście prędkości przez przejazdy — należy zastąpić bardziej realistyczną wartością (np. 10 km/h)."
-      ],
-      "changes": {
-        "answers": {
-          "A": "30 km/h",
-          "B": "40 km/h",
-          "C": "10 km/h",
-          "D": "20 km/h"
-        }
-      }
-    },
-    {
       "uuid": "0aeb40ea-888e-4aa8-8029-9ad1d0fac18f",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "d9b2118f-e4a2-42f3-913a-1a75c60a165d",
-      "status": "FIX",
-      "problems": [
-        "Dystraktory nie należą do tej samej kategorii semantycznej co poprawna odpowiedź. Pytanie dotyczy roli dyżurnego ruchu dysponującego, więc dystraktory powinny być innymi rodzajami dyżurnych ruchu lub pracownikami bezpośrednio uczestniczącymi w prowadzeniu ruchu (wymienionymi w § 7 ust. 2 i 4), a nie nieistniejącymi w paragrafie tworami jak 'Dyspozytor liniowy' czy 'Nastawniczy wykonawczy'.",
-        "Dystraktor B 'Dyspozytor liniowy' zawiera nieistniejący w paragrafie modyfikator 'liniowy'; § 7 wymienia jedynie 'dyspozytora'.",
-        "Dystraktor C 'Nastawniczy wykonawczy' zawiera nieistniejący w paragrafie modyfikator 'wykonawczy'; § 7 wymienia 'nastawniczego' i 'starszego nastawniczego'.",
-        "Dystraktor D 'Maszynista' nie jest wymieniony w § 7 w ogóle, co czyni go zbyt łatwym do wyeliminowania."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Dyżurny ruchu dysponujący",
-          "B": "Dyżurny ruchu odcinkowy",
-          "C": "Dyżurny ruchu pomocniczy",
-          "D": "Dyspozytor"
-        },
-        "correct": "A",
-        "question": "Kto prowadzi ruch pociągów na posterunku zapowiadawczym i przyległych szlakach (odstępach) oraz koordynuje pracę pozostałych pracowników zaangażowanych w proces przewozowy na zarządzanym terenie?"
-      }
     },
     {
       "uuid": "5af59c4a-f921-4689-aba3-14096fff04cc",
@@ -1130,47 +565,6 @@
       "problems": []
     },
     {
-      "uuid": "911f536c-b31d-4f97-b521-3ac5b0429301",
-      "status": "FIX",
-      "problems": [
-        "Dystraktor D ('Wózki paletowe') jest mało wiarygodny w kontekście kolejowym i nie należy do tej samej kategorii semantycznej co poprawna odpowiedź (typy pojazdów kolejowych). Należy zastąpić go pojazdem kolejowym z § 8, np. drezyną roboczą lub ciągnikiem szynowym."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Lokomotywy hybrydowe",
-          "B": "Pojazdy szynowo-drogowe (dwudrogowe)",
-          "C": "Zespoły trakcyjne typu push-pull",
-          "D": "Drezyny robocze"
-        }
-      }
-    },
-    {
-      "uuid": "cd5dc1e5-359e-46a6-96ac-51db8e1fab46",
-      "status": "FIX",
-      "problems": [
-        "Dystraktor D ('Żadnej z powyższych kategorii') jest słabym dystraktorurem — nie jest konkretną kategorią pojazdu kolejowego i może sugerować odpowiedź. Należy zastąpić go czwartą realną kategorią lub parafrazą niepoprawną — np. odwołując się do taboru kolejowego jako ogółu (nadkategorii)."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Taboru zwykłego",
-          "B": "Pojazdów pomocniczych",
-          "C": "Taboru specjalnego",
-          "D": "Taboru kolejowego (jako osobna kategoria równorzędna taborowi)"
-        }
-      }
-    },
-    {
-      "uuid": "7af766de-08ca-46e6-b78f-8941451c15c9",
-      "status": "FIX",
-      "problems": [
-        "Explanation nie wskazuje litery ustępu: powinno być 'Ir-1 § 84 ust. 24 pkt 2 lit. c' zamiast 'Ir-1 § 84 ust. 24 pkt 2'.",
-        "Dystraktor B (40 km/h) nie wynika z treści § 84 — żadna prędkość 40 km/h nie jest wymieniona w tym paragrafie; lepszym dystraktorem byłaby np. prędkość 20 km/h z ust. 24 pkt 3 lit. b, jednak 20 km/h jest już dystraktorem C. Zamiana B na 30 km/h (wartość spoza paragrafu ale wiarygodna w kontekście ograniczeń prędkości na przejazdach) — alternatywnie można pozostawić 40 km/h jako nieobecną w paragrafie lecz wiarygodną wartość prędkości."
-      ],
-      "changes": {
-        "explanation": "Ir-1 § 84 ust. 24 pkt 2 lit. c"
-      }
-    },
-    {
       "uuid": "f1fec981-ea6a-4e7b-acb0-d4c023b6bd0d",
       "status": "OK",
       "problems": []
@@ -1181,52 +575,9 @@
       "problems": []
     },
     {
-      "uuid": "0bc5ad1b-9757-4096-8ef7-0d624fe83922",
-      "status": "FIX",
-      "problems": [
-        "Explanation nie wskazuje litery ustępu: powinno być 'Ir-1 § 84 ust. 24 pkt 4 lit. c' zamiast 'Ir-1 § 84 ust. 24 pkt 4'."
-      ],
-      "changes": {
-        "explanation": "Ir-1 § 84 ust. 24 pkt 4 lit. c"
-      }
-    },
-    {
       "uuid": "61b4fcd9-eef1-4314-b3f8-14635213af12",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "47ce64c8-bd4e-440b-9984-6df276f679ff",
-      "status": "FIX",
-      "problems": [
-        "Dystraktory A, C, D nie są z tej samej kategorii semantycznej co poprawna odpowiedź — są to pojęcia spoza §9 (przewóz pasażerów, transport kontenerów, obsługa bocznic) i brzmią niewiarygodnie jako przeznaczenie pociągu utrzymaniowo-naprawczego PKP PLK. Należy zastąpić je wiarygodnymi celami zmodyfikowanymi na podstawie treści §9 lub innych typów pociągów z §9."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Wykonywania pracy na szlaku na zamkniętym torze",
-          "B": "Usuwania skutków wypadków kolejowych",
-          "C": "Przewozu pracowników kolei do miejsca pracy",
-          "D": "Oddziaływania na urządzenia sterowania ruchem kolejowym"
-        },
-        "correct": "B"
-      }
-    },
-    {
-      "uuid": "5dbd22a4-36ad-408f-bed1-b1b047028b5b",
-      "status": "FIX",
-      "problems": [
-        "Dystraktor B 'Pociąg specjalny' nie pochodzi z §9 — §9 nie używa tego terminu (§9 ust. 4 mówi o 'taborze specjalnym', nie 'pociągu specjalnym').",
-        "Dystraktor D 'Pociąg próbny' w ogóle nie jest wymieniony w §9 — jest niewiarygodny jako dystraktor z tej sekcji. Należy zastąpić dystraktory B i D pojęciami rzeczywiście wymienionymi w §9."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Pociąg utrzymaniowo-naprawczy",
-          "B": "Pociąg roboczy",
-          "C": "Pociąg towarowy",
-          "D": "Pociąg pasażerski"
-        },
-        "correct": "A"
-      }
     },
     {
       "uuid": "435d9c51-4c0b-4171-a563-5155a6d0b730",
@@ -2661,12 +2012,12 @@
       "status": "NEW",
       "problems": [],
       "changes": {
-        "question": "W jakich przypadkach stosuje sie zapowiadanie pociagow za pomoca urzadzen lacznosci telefonicznej?",
+        "question": "W jakich przypadkach stosuje się zapowiadanie pociągów za pomocą urządzeń łączności telefonicznej?",
         "answers": {
-          "A": "Wylacznie na liniach kolejowych bez blokady liniowej",
-          "B": "Na liniach bez blokady liniowej oraz na liniach z blokada liniowa, gdy nie jest lub nie moze ona byc podstawa prowadzenia ruchu",
-          "C": "Na liniach z blokada liniowa, gdy jest ona podstawa prowadzenia ruchu",
-          "D": "Wylacznie na liniach z blokada liniowa w razie jej awarii"
+          "A": "Wyłącznie na liniach kolejowych bez blokady liniowej",
+          "B": "Na liniach bez blokady liniowej oraz na liniach z blokadą liniową, gdy nie jest lub nie może ona być podstawą prowadzenia ruchu",
+          "C": "Na liniach z blokadą liniową, gdy jest ona podstawą prowadzenia ruchu",
+          "D": "Wyłącznie na liniach z blokadą liniową w razie jej awarii"
         },
         "correct": "B",
         "explanation": "Ir-1 § 23 ust. 1",
@@ -2678,10 +2029,10 @@
       "status": "NEW",
       "problems": [],
       "changes": {
-        "question": "Co obejmuje zapowiadanie pociagow na szlaku z ruchem jednotorowym dwukierunkowym?",
+        "question": "Co obejmuje zapowiadanie pociągów na szlaku z ruchem jednotorowym dwukierunkowym?",
         "answers": {
           "A": "Żądanie pozwolenia na wyprawienie, danie pozwolenia na wyprawienie, oznajmienie odjazdu oraz potwierdzenie przyjazdu lub przejazdu",
-          "B": "Wylącznie oznajmienie odjazdu pociągu i potwierdzenie przyjazdu pociągu",
+          "B": "Wyłącznie oznajmienie odjazdu pociągu i potwierdzenie przyjazdu pociągu",
           "C": "Żądanie pozwolenia na wyprawienie i danie pozwolenia na wyprawienie bez potwierdzenia przyjazdu",
           "D": "Oznajmienie odjazdu pociągu i żądanie pozwolenia na wyprawienie bez potwierdzenia przyjazdu"
         },
@@ -2695,7 +2046,7 @@
       "status": "NEW",
       "problems": [],
       "changes": {
-        "question": "Co obejmuje zapowiadanie pociagow na szlaku dwutorowym przy prowadzeniu ruchu jednokierunkowego po każdym z torów?",
+        "question": "Co obejmuje zapowiadanie pociągów na szlaku dwutorowym przy prowadzeniu ruchu jednokierunkowego po każdym z torów?",
         "answers": {
           "A": "Żądanie pozwolenia na wyprawienie, danie pozwolenia na wyprawienie, oznajmienie odjazdu i potwierdzenie przyjazdu",
           "B": "Żądanie pozwolenia na wyprawienie i potwierdzenie przyjazdu pociągu",
@@ -2814,7 +2165,7 @@
       "status": "NEW",
       "problems": [],
       "changes": {
-        "question": "Jak należy opisać powracający ze szlaku popychacz w telefonogramach o odjezie, przyjeie lub przejeździe?",
+        "question": "Jak należy opisać powracający ze szlaku popychacz w telefonogramach o odjeździe, przyjeździe lub przejeździe?",
         "answers": {
           "A": "Podając wyłącznie numer pociągu, do którego był przydzielony",
           "B": "Określając go jako „popychacz od pociągu nr ...“",
@@ -3086,7 +2437,7 @@
       "status": "NEW",
       "problems": [],
       "changes": {
-        "question": "Jakim słowem zastępuje sie słowo 'odjechał' w telefonogramie wzór nr 13 na szlakach krótkich, gdy oznajmienie odjazdu daje sie przed faktycznym odjazdem pociągu?",
+        "question": "Jakim słowem zastępuje się słowo 'odjechał' w telefonogramie wzór nr 13 na szlakach krótkich, gdy oznajmienie odjazdu daje się przed faktycznym odjazdem pociągu?",
         "answers": {
           "A": "wyruszy",
           "B": "odjedzie",
@@ -3800,7 +3151,7 @@
       "status": "NEW",
       "problems": [],
       "changes": {
-        "question": "Na czym polega sytuacja awaryjna na posterunkach odcinka zdalnego prowadzenia ruchu w przypadku usterki?",
+        "question": "Co stanowi sytuację awaryjną na posterunkach odcinka zdalnego prowadzenia ruchu w przypadku usterki?",
         "answers": {
           "A": "Usterka powodująca brak możliwości zdalnego sterowania posterunkiem",
           "B": "Usterka powodująca brak możliwości uruchomienia systemu łączności",
@@ -4941,7 +4292,7 @@
       "changes": {
         "question": "Jak nazywa się posterunek nastawczy wyposażony w urządzenia nastawcze z funkcją zależności sygnałów od położenia zwrotnic oraz urządzenia blokowe i łączności?",
         "answers": {
-          "A": "Posterunek zwrotniczowskim",
+          "A": "Posterunek zwrotniczy",
           "B": "Nastawnia dysponująca",
           "C": "Nastawnia",
           "D": "Nastawnia wykonawcza"
@@ -4959,7 +4310,7 @@
         "question": "Jak nazywa się posterunek, którego urządzenia nie mają funkcji zależności sygnałów na sygnalizatorach od położenia zwrotnic?",
         "answers": {
           "A": "Nastawnia miejscowa",
-          "B": "Posterunek zwrotniczowskim (zwrotniczego)",
+          "B": "Posterunek zwrotniczy",
           "C": "Nastawnia wykonawcza",
           "D": "Nastawnia dysponująca"
         },
@@ -6333,12 +5684,12 @@
       "status": "NEW",
       "problems": [],
       "changes": {
-        "question": "Do czego sluzy ksiazka przebiegu?",
+        "question": "Do czego służy książka przebiegu?",
         "answers": {
-          "A": "Do zapisywania polecen i informacji oraz zgloszen przygotowania drogi przebiegu dla wjazdow i wyjazdow pociagow oraz pojazdow pomocniczych, a ponadto zgloszen o tym, ze tor jest wolny albo ze pociag wjechal z sygnalem konca pociagu",
-          "B": "Do zapisywania wylacznie polecen i informacji dotyczacych wjazdow pociagow oraz zgloszen o tym, ze blokada stacyjna dziala prawidlowo",
-          "C": "Do zapisywania wylacznie zgloszen przygotowania drogi przebiegu dla wyjazdow pociagow oraz informacji o numerach pociagow i kierunkach jazdy",
-          "D": "Do zapisywania wylacznie zgloszen o wjezdzie pociagu z sygnalem konca pociagu oraz polecen dotyczacych jazd manewrowych"
+          "A": "Do zapisywania poleceń i informacji oraz zgłoszeń przygotowania drogi przebiegu dla wjazdów i wyjazdów pociągów oraz pojazdów pomocniczych, a ponadto zgłoszeń o tym, że tor jest wolny albo że pociąg wjechał z sygnałem końca pociągu",
+          "B": "Do zapisywania wyłącznie poleceń i informacji dotyczących wjazdów pociągów oraz zgłoszeń o tym, że blokada stacyjna działa prawidłowo",
+          "C": "Do zapisywania wyłącznie zgłoszeń przygotowania drogi przebiegu dla wyjazdów pociągów oraz informacji o numerach pociągów i kierunkach jazdy",
+          "D": "Do zapisywania wyłącznie zgłoszeń o wjeździe pociągu z sygnałem końca pociągu oraz poleceń dotyczących jazd manewrowych"
         },
         "correct": "A",
         "explanation": "Ir-1 § 49 ust. 1",
@@ -6350,12 +5701,12 @@
       "status": "NEW",
       "problems": [],
       "changes": {
-        "question": "Ktorej stronie ksiazki przebiegu odpowiada zapisywanie przebiegu pociagow wjezdzajacych?",
+        "question": "Której stronie książki przebiegu odpowiada zapisywanie przebiegu pociągów wjeżdżających?",
         "answers": {
           "A": "Prawej stronie",
           "B": "Lewej stronie",
-          "C": "Obu stronom jednoczesnie",
-          "D": "Srodkowej kolumnie"
+          "C": "Obu stronom jednocześnie",
+          "D": "Środkowej kolumnie"
         },
         "correct": "B",
         "explanation": "Ir-1 § 49 ust. 2",
@@ -6367,12 +5718,12 @@
       "status": "NEW",
       "problems": [],
       "changes": {
-        "question": "Na jakich posterunkach nalezy prowadzic ksiazke przebiegu?",
+        "question": "Na jakich posterunkach należy prowadzić książkę przebiegu?",
         "answers": {
-          "A": "Na posterunkach zapowiadawczych oraz posterunkach odgaleznych",
-          "B": "Na posterunkach nastawczych bioracych udzial w przygotowaniu drog przebiegu pociagow",
-          "C": "Na posterunkach technicznych oraz posterunkach stwierdzania konca pociagu",
-          "D": "Na wszystkich posterunkach ruchu bez wyjatku"
+          "A": "Na posterunkach zapowiadawczych oraz posterunkach odgałęźnych",
+          "B": "Na posterunkach nastawczych biorących udział w przygotowaniu dróg przebiegu pociągów",
+          "C": "Na posterunkach technicznych oraz posterunkach stwierdzania końca pociągu",
+          "D": "Na wszystkich posterunkach ruchu bez wyjątku"
         },
         "correct": "B",
         "explanation": "Ir-1 § 49 ust. 3",
@@ -6384,11 +5735,11 @@
       "status": "NEW",
       "problems": [],
       "changes": {
-        "question": "W jakim zakresie prowadzi ksiazke przebiegu nastawniczy nastawni wykonawczej przy sprawnie dzialajacaej blokadzie stacyjnej?",
+        "question": "W jakim zakresie prowadzi książkę przebiegu nastawniczy nastawni wykonawczej przy sprawnie działającej blokadzie stacyjnej?",
         "answers": {
-          "A": "W pelnym zakresie",
+          "A": "W pełnym zakresie",
           "B": "W zakresie rozszerzonym",
-          "C": "W skroconym zakresie",
+          "C": "W skróconym zakresie",
           "D": "Nie prowadzi jej wcale"
         },
         "correct": "C",
@@ -6401,12 +5752,12 @@
       "status": "NEW",
       "problems": [],
       "changes": {
-        "question": "W jakim zakresie prowadzi ksiazke przebiegu pracownik posterunku technicznego, jezeli sprawdza i zglasza dyZurnemu ruchu, ze tor jest wolny?",
+        "question": "W jakim zakresie prowadzi książkę przebiegu pracownik posterunku technicznego, jeżeli sprawdza i zgłasza dyżurnemu ruchu, że tor jest wolny?",
         "answers": {
-          "A": "W pelnym zakresie",
+          "A": "W pełnym zakresie",
           "B": "W zakresie rozszerzonym",
-          "C": "Nie prowadzi jej — nie jest do tego zobowiazany",
-          "D": "W skroconym zakresie"
+          "C": "Nie prowadzi jej — nie jest do tego zobowiązany",
+          "D": "W skróconym zakresie"
         },
         "correct": "D",
         "explanation": "Ir-1 § 49 ust. 4 pkt 4",
@@ -6418,12 +5769,12 @@
       "status": "NEW",
       "problems": [],
       "changes": {
-        "question": "Jak pracownicy posterunku technicznego oraz posterunku stwierdzania konca pociagu wpisuja pociagi do ksiazki przebiegu (prowadzac ja w skroconym zakresie)?",
+        "question": "Jak pracownicy posterunku technicznego oraz posterunku stwierdzania końca pociągu wpisują pociągi do książki przebiegu (prowadząc ją w skróconym zakresie)?",
         "answers": {
-          "A": "Z podzialem na lewa i prawa strone, biezaco wpisujac kolejno pociagi",
-          "B": "Biezaco wpisujac kolejno pociagi bez podzialu na lewa i prawa strone",
-          "C": "Zbiorowo na koniec kazdej doby, bez podzialu na lewa i prawa strone",
-          "D": "Wylacznie na lewej stronie, wpisujac pociagi wjezdzajace i wyjezdzajace"
+          "A": "Z podziałem na lewą i prawą stronę, bieżąco wpisując kolejno pociągi",
+          "B": "Bieżąco wpisując kolejno pociągi bez podziału na lewą i prawą stronę",
+          "C": "Zbiorowo na koniec każdej doby, bez podziału na lewą i prawą stronę",
+          "D": "Wyłącznie na lewej stronie, wpisując pociągi wjeżdżające i wyjeżdżające"
         },
         "correct": "B",
         "explanation": "Ir-1 § 49 ust. 4",
@@ -6435,12 +5786,12 @@
       "status": "NEW",
       "problems": [],
       "changes": {
-        "question": "Ktore rubryki ksiazki przebiegu wypelnia nastawniczy nastawni wykonawczej, gdy blokada stacyjna dziala prawidlowo, po otrzymaniu informacji o numerze pociagu, kierunku jazdy i numerze toru?",
+        "question": "Które rubryki książki przebiegu wypełnia nastawniczy nastawni wykonawczej, gdy blokada stacyjna działa prawidłowo, po otrzymaniu informacji o numerze pociągu, kierunku jazdy i numerze toru?",
         "answers": {
-          "A": "Rubryki 1, 2, 3 oraz rubryce 7",
-          "B": "Rubryki 1, 2, 3 oraz rubryce 5",
-          "C": "Rubryki 1, 2, 3, 4 oraz rubryce 7",
-          "D": "Rubryki 1, 2, 3 oraz rubryce 8"
+          "A": "Rubryki 1, 2, 3 oraz rubrykę 7",
+          "B": "Rubryki 1, 2, 3 oraz rubrykę 5",
+          "C": "Rubryki 1, 2, 3, 4 oraz rubrykę 7",
+          "D": "Rubryki 1, 2, 3 oraz rubrykę 8"
         },
         "correct": "A",
         "explanation": "Ir-1 § 49 ust. 6",
@@ -6452,12 +5803,12 @@
       "status": "NEW",
       "problems": [],
       "changes": {
-        "question": "Co nastawniczy nastawni dajace tylko zgode dla danego przebiegu notuje w rubryce 5 ksiazki przebiegu?",
+        "question": "Co nastawniczy nastawni dającej tylko zgodę dla danego przebiegu notuje w rubryce 5 książki przebiegu?",
         "answers": {
-          "A": "Czas otrzymania ostatniego ze wszystkich zgloszen przygotowania drogi przebiegu",
-          "B": "Czas telefonicznego zgloszenia o wjezdzie pociagu z sygnalem konca pociagu",
+          "A": "Czas otrzymania ostatniego ze wszystkich zgłoszeń przygotowania drogi przebiegu",
+          "B": "Czas telefonicznego zgłoszenia o wjeździe pociągu z sygnałem końca pociągu",
           "C": "Czas zablokowania bloku dania zgody",
-          "D": "Czas nastawienia sygnalu Stoj na semaforze wjazdowym"
+          "D": "Czas nastawienia sygnału Stój na semaforze wjazdowym"
         },
         "correct": "C",
         "explanation": "Ir-1 § 49 ust. 6",
@@ -6469,12 +5820,12 @@
       "status": "NEW",
       "problems": [],
       "changes": {
-        "question": "Co dyZurny ruchu notuje w rubryce 5 ksiazki przebiegu, gdy obowiazuje telefoniczne polecanie i zglaszanie przygotowania drog przebiegu?",
+        "question": "Co dyżurny ruchu notuje w rubryce 5 książki przebiegu, gdy obowiązuje telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu?",
         "answers": {
-          "A": "Czas zablokowania bloku dania zgody przez ostatnia nastawnie",
-          "B": "Czas otrzymania ostatniego ze wszystkich zgloszen, ktore powinien otrzymac",
-          "C": "Skroty posterunkow, ktore zglosily przygotowanie drogi przebiegu",
-          "D": "Czas telefonicznego polecenia podania sygnalu zezwalajacego"
+          "A": "Czas zablokowania bloku dania zgody przez ostatnią nastawnie",
+          "B": "Czas otrzymania ostatniego ze wszystkich zgłoszeń, które powinien otrzymać",
+          "C": "Skróty posterunków, które zgłosiły przygotowanie drogi przebiegu",
+          "D": "Czas telefonicznego polecenia podania sygnału zezwalającego"
         },
         "correct": "B",
         "explanation": "Ir-1 § 49 ust. 7",
@@ -6486,12 +5837,12 @@
       "status": "NEW",
       "problems": [],
       "changes": {
-        "question": "Co nalezy notowac przez cala szerokosc obu stron ksiazki przebiegu?",
+        "question": "Co należy notować przez całą szerokość obu stron książki przebiegu?",
         "answers": {
-          "A": "Przyjecie i przekazanie dyzuru, poczatek doby, zamkniecie i otwarcie toru szlakowego lub toru glownego na stacji oraz inne okolicznosci majace wplyw na przyjmowanie i wyprawianie pociagow",
-          "B": "Wylacznie przyjecie i przekazanie dyzuru oraz zamkniecie i otwarcie toru szlakowego",
-          "C": "Wylacznie powiadomienia dotyczace wjazdow na tor czesciowo zajety oraz podania sygnalu zastepczego",
-          "D": "Wylacznie wprowadzenie i odwolanie ruchu jednotorowego dwukierunkowego po torze szlakowym"
+          "A": "Przyjęcie i przekazanie dyżuru, początek doby, zamknięcie i otwarcie toru szlakowego lub toru głównego na stacji oraz inne okoliczności mające wpływ na przyjmowanie i wyprawianie pociągów",
+          "B": "Wyłącznie przyjęcie i przekazanie dyżuru oraz zamknięcie i otwarcie toru szlakowego",
+          "C": "Wyłącznie powiadomienia dotyczące wjazdów na tor częściowo zajęty oraz podania sygnału zastępczego",
+          "D": "Wyłącznie wprowadzenie i odwołanie ruchu jednotorowego dwukierunkowego po torze szlakowym"
         },
         "correct": "A",
         "explanation": "Ir-1 § 49 ust. 12",
@@ -7017,7 +6368,7 @@
         "answers": {
           "A": "Gdy kierownik właściwej jednostki organizacyjnej zarządzi zamknięcie toru",
           "B": "Gdy zachodzi nagła konieczność wykonania robót uniemożliwiających jazdę pociągów",
-          "C": "Gdy zaistniał wypadek z pociągiem uniemożliwiający dalszyą jazdę",
+          "C": "Gdy zaistniał wypadek z pociągiem uniemożliwiający dalszą jazdę",
           "D": "Gdy zachodzi potrzeba wyprawienia po torze lewym pociągu na bocznicę"
         },
         "correct": "C",
@@ -7795,7 +7146,7 @@
       "status": "NEW",
       "problems": [],
       "changes": {
-        "question": "Czym sa rozkazy pisemne w ruchu kolejowym?",
+        "question": "Czym są rozkazy pisemne w ruchu kolejowym?",
         "answers": {
           "A": "Formalne polecenia wydawane maszynistom w formie pisemnej przez dyżurnych ruchu, stosowane dla pociągów w systemie sterowania klasy B - SHP",
           "B": "Formalne polecenia wydawane maszynistom w formie pisemnej przez dyżurnych ruchu, stosowane dla pociągów w systemie sterowania klasy A - ERTMS",
@@ -8854,7 +8205,7 @@
           "A": "Gdy maszynista nie zatrzymuje pociągu przed sygnałem \"Stój\" lub gdy pociąg przekracza dozwoloną prędkość",
           "B": "Gdy zauważy usterkę techniczną pojazdu trakcyjnego lub gdy brak jest sygnału końca pociągu",
           "C": "Gdy maszynista nie obserwuje sygnałów lub gdy sieć trakcyjna jest uszkodzona",
-          "D": "Gdy dyżurny ruchu nie potwierdziła zezwolenia na wyjazd lub gdy tarcza ostrzegawcza wskazuje sygnał \"Stój\""
+          "D": "Gdy dyżurny ruchu nie potwierdził zezwolenia na wyjazd lub gdy tarcza ostrzegawcza wskazuje sygnał \"Stój\""
         },
         "correct": "A",
         "explanation": "Ir-1 § 64 ust. 21 pkt 1",

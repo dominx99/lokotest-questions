@@ -3,7 +3,7 @@
   "questions": [
     {
       "uuid": "5c982342-d32d-45d2-9932-12d50c1e96d7",
-      "question": "Kto — zgodnie z Ir‑1 — może wydać zgodę na prowadzenie manewrów na torach głównych?",
+      "question": "Kto może wydać zezwolenie na prowadzenie manewrów na torach głównych?",
       "answers": {
         "A": "Dyżurny ruchu (dysponujący)",
         "B": "Nastawniczy (wykonawczy)",
@@ -12,8 +12,7 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 12 ust. 1",
-      "section_ref": "§ 12",
-      "verified": false
+      "section_ref": "§ 12"
     },
     {
       "uuid": "125ab5d1-93b7-4232-a282-a5f3faddbb11",
@@ -103,15 +102,14 @@
       "uuid": "34e55423-a637-48c1-917e-ff0430372b97",
       "question": "Od czego (między innymi) zależy największa dozwolona prędkość pociągu?",
       "answers": {
-        "A": "Od liczby wagonów w składzie pociągu",
+        "A": "Od masy ładunku przewożonego w wagonach towarowych",
         "B": "Od konstrukcji pojazdów i stanu toru",
-        "C": "Od pory dnia",
-        "D": "Od liczby pasażerów"
+        "C": "Od widoczności na szlaku w porze nocnej",
+        "D": "Od liczby czynnych lokomotyw w składzie"
       },
       "correct": "B",
       "explanation": "Ir-1 § 63 ust. 1",
-      "section_ref": "§ 63",
-      "verified": false
+      "section_ref": "§ 63"
     },
     {
       "uuid": "f1d2c0ea-05a0-4626-b611-519e858e0737",
@@ -159,15 +157,14 @@
       "uuid": "53288eea-434c-4114-b351-7f1821084354",
       "question": "Maksymalna prędkość jazdy pociągu z podwójną trakcją jest ograniczona do:",
       "answers": {
-        "A": "50 km/h",
+        "A": "50 km/h",
         "B": "Prędkości konstrukcyjnej wolniejszej z lokomotyw",
         "C": "Prędkości rozkładowej pociągu",
-        "D": "120 km/h bez ograniczeń"
+        "D": "Prędkości dopuszczalnej dla danego odcinka toru"
       },
       "correct": "B",
       "explanation": "Ir-1 § 63 ust. 4",
-      "section_ref": "§ 63",
-      "verified": false
+      "section_ref": "§ 63"
     },
     {
       "uuid": "46ea224e-14bc-4b85-9905-e3a63af20561",
@@ -257,15 +254,14 @@
       "uuid": "a5df57f4-b5fe-4459-85c0-bb09ffb0f331",
       "question": "Jakie warunki muszą być spełnione, aby można było wyłączyć samoczynność semaforów i przełączyć je z powrotem na ręczne prowadzenie?",
       "answers": {
-        "A": "Brak wymagań",
+        "A": "Nie ma żadnych warunków — dyżurny ruchu może wyłączyć samoczynność w dowolnym momencie",
         "B": "Na żadnym odcinku drogi przebiegu nie może być pociągu i co najmniej dwa odcinki zbliżania muszą nie wykazywać zajętości",
-        "C": "Sygnał zastępczy na semaforze",
-        "D": "Sygnał 'Stój' na wszystkich semaforach"
+        "C": "Wystarczy, że na semaforze wyświetlany jest sygnał zastępczy zezwalający na jazdę",
+        "D": "Na wszystkich semaforach musi być podany sygnał 'Stój' i posterunki techniczne muszą potwierdzić gotowość"
       },
       "correct": "B",
       "explanation": "Ir-1 § 39 ust. 6a",
-      "section_ref": "§ 39",
-      "verified": false
+      "section_ref": "§ 39"
     },
     {
       "uuid": "9c583e7f-8716-458f-b1bf-2c6a3c3a9a24",
@@ -339,17 +335,16 @@
     },
     {
       "uuid": "d9b2118f-e4a2-42f3-913a-1a75c60a165d",
-      "question": "Kto prowadzi ruch pociągów na posterunku zapowiadawczym i przyległych szlakach?",
+      "question": "Kto prowadzi ruch pociągów na posterunku zapowiadawczym i przyległych szlakach (odstępach) oraz koordynuje pracę pozostałych pracowników zaangażowanych w proces przewozowy na zarządzanym terenie?",
       "answers": {
         "A": "Dyżurny ruchu dysponujący",
-        "B": "Dyspozytor liniowy",
-        "C": "Nastawniczy wykonawczy",
-        "D": "Maszynista"
+        "B": "Dyżurny ruchu odcinkowy",
+        "C": "Dyżurny ruchu pomocniczy",
+        "D": "Dyspozytor"
       },
       "correct": "A",
       "explanation": "Ir-1 § 7 ust. 4 pkt 1",
-      "section_ref": "§ 7",
-      "verified": false
+      "section_ref": "§ 7"
     },
     {
       "uuid": "123052cc-67d9-4001-8c89-3e2edadb3671",
@@ -453,15 +448,14 @@
       "uuid": "b83962c5-dbed-42f8-accd-1bc8ab32584e",
       "question": "Manewry powinny być wykonywane pod kierownictwem:",
       "answers": {
-        "A": "Dyspozytora liniowego",
-        "B": "Maszynisty",
+        "A": "Dyspozytora ruchu (dyżurnego ruchu)",
+        "B": "Maszynisty pojazdu trakcyjnego",
         "C": "Uprawnionego pracownika (kierownika manewrów)",
-        "D": "Dróżnika przejazdowego"
+        "D": "Dróżnika przejazdowego (stróża)"
       },
       "correct": "C",
       "explanation": "Ir-1 § 11 ust. 3",
-      "section_ref": "§ 11",
-      "verified": false
+      "section_ref": "§ 11"
     },
     {
       "uuid": "044b2793-4a7a-40c4-aa34-f8e0e1917c23",
@@ -537,29 +531,27 @@
       "uuid": "87b261a8-0a1d-4f51-a893-6a67a11d17ff",
       "question": "Czynności przygotowania pociągu do jazdy obejmują między innymi:",
       "answers": {
-        "A": "Tylko wykonanie próby hamulca",
-        "B": "Wyłącznie osygnalizowanie pociągu",
+        "A": "Wyłącznie wykonanie próby hamulca i oględzin technicznych",
+        "B": "Jedynie przepisowe osygnalizowanie pociągu i sprawdzenie hamulców ręcznych",
         "C": "Zestawienie zgodne z parametrami określonymi w wewnętrznym rozkładzie jazdy pociągów",
-        "D": "Sprawdzenie rozkazu pisemnego „S”"
+        "D": "Sprawdzenie, czy dokumenty pojazdu kolejowego są aktualne i kompletne"
       },
       "correct": "C",
       "explanation": "Ir-1 § 14 ust. 3 pkt 1",
-      "section_ref": "§ 14",
-      "verified": false
+      "section_ref": "§ 14"
     },
     {
       "uuid": "aa3a50df-3036-44d6-845a-25649185c4ae",
       "question": "Przygotowanie pociągu do jazdy powinno zostać wykonane na stacji początkowej oraz:",
       "answers": {
-        "A": "Na każdej stacji osobowej",
+        "A": "Na każdej stacji osobowej oraz w miejscach zaplanowanych w rozkładzie jazdy",
         "B": "Na stacjach pośrednich, gdy zachodzi taka potrzeba, lub przy zmianie drużyny trakcyjnej",
-        "C": "Wyłącznie na stacji końcowej",
-        "D": "Tylko w przypadku awarii"
+        "C": "Wyłącznie na stacji końcowej, przed podstawieniem składu do kolejnego kursu",
+        "D": "Tylko w przypadku awarii lub stwierdzenia nieprawidłowości przez maszynistę"
       },
       "correct": "B",
       "explanation": "Ir-1 § 14 ust. 1",
-      "section_ref": "§ 14",
-      "verified": false
+      "section_ref": "§ 14"
     },
     {
       "uuid": "ec37a3de-d7ec-4371-99c2-e5411200e62b",
@@ -593,15 +585,14 @@
       "uuid": "47ce64c8-bd4e-440b-9984-6df276f679ff",
       "question": "PKP Polskie Linie Kolejowe S.A. mogą uruchamiać pociągi utrzymaniowo‑naprawcze przeznaczone m.in. do:",
       "answers": {
-        "A": "Przewozu pasażerów dalekobieżnych",
+        "A": "Wykonywania pracy na szlaku na zamkniętym torze",
         "B": "Usuwania skutków wypadków kolejowych",
-        "C": "Transportu kontenerów",
-        "D": "Regularnej obsługi bocznic"
+        "C": "Przewozu pracowników kolei do miejsca pracy",
+        "D": "Oddziaływania na urządzenia sterowania ruchem kolejowym"
       },
       "correct": "B",
       "explanation": "Ir-1 § 9 ust. 3 pkt 1",
-      "section_ref": "§ 9",
-      "verified": false
+      "section_ref": "§ 9"
     },
     {
       "uuid": "042e84d8-dfcd-4bcb-9aeb-2b0ace3e5671",
@@ -621,29 +612,27 @@
       "uuid": "b222dbe1-7e38-440a-abca-bf9b34e76e85",
       "question": "Jazda manewrowa nie powinna odbywać się dalej niż do:",
       "answers": {
-        "A": "Granicy pierwszego rozjazdu dowolnej stacji",
+        "A": "Granicy pierwszego rozjazdu (skrzyżowania torów) na stacji sąsiedniej",
         "B": "Granicy najbliższego posterunku następczego lub najbliższego semafora odstępowego blokady wieloodstępowej (samoczynnej)",
-        "C": "Pierwszego wskaźnika W5",
-        "D": "Dowolnego miejsca wyznaczonego przez maszynistę"
+        "C": "Miejsca wyznaczonego przez wskaźnik W5 ograniczający jazdę manewrową",
+        "D": "Granicy wyznaczonej przez regulamin techniczny właściwy dla danego posterunku"
       },
       "correct": "B",
       "explanation": "Ir-1 § 12 ust. 8",
-      "section_ref": "§ 12",
-      "verified": false
+      "section_ref": "§ 12"
     },
     {
       "uuid": "2c40d55d-1c95-48b3-97b6-3c31229fd94f",
       "question": "Polecenie przerwania manewrów i zwolnienia torów wydane przez dyżurnego ruchu powinno być:",
       "answers": {
-        "A": "Zignorowane, jeśli manewry są prawie skończone",
-        "B": "Potwierdzone tylko drogą pisemną",
+        "A": "Zignorowane, gdy manewry są prawie skończone",
+        "B": "Potwierdzone wyłącznie pisemnie",
         "C": "Niezwłocznie wykonane",
-        "D": "Wykonane po 10 minutach"
+        "D": "Wykonane po upływie 10 minut"
       },
       "correct": "C",
       "explanation": "Ir-1 § 12 ust. 9",
-      "section_ref": "§ 12",
-      "verified": false
+      "section_ref": "§ 12"
     },
     {
       "uuid": "ab54c3b4-b4e4-4ad7-95c8-d366f03ee9a0",
@@ -747,15 +736,14 @@
       "uuid": "0f7899ab-540c-4ad7-8c75-67ece29c0f37",
       "question": "Przy braku rogatek i konieczności odrzucania wagonów przez przejazd, wymaga się:",
       "answers": {
-        "A": "Zamykania szlabanu ręcznego przez maszynistę",
-        "B": "Obecności pracownika przewoźnika kolejowego uprawnionego do kierowania ruchem",
-        "C": "Wystawienia czerwonej chorągiewki",
-        "D": "Zezwolenia policji drogowej"
+        "A": "Ręcznego zamknięcia przejazdu przez maszynistę przed odrzuceniem wagonów",
+        "B": "Zapewnienia pracownika przewoźnika kolejowego uprawnionego do kierowania ruchem w obrębie przejazdu",
+        "C": "Wystawienia sygnału ostrzegawczego przez pracownika ochrony przejazdu",
+        "D": "Uzyskania pisemnego zezwolenia od dyżurnego ruchu stacji"
       },
       "correct": "B",
       "explanation": "Ir-1 § 13 ust. 3",
-      "section_ref": "§ 13",
-      "verified": false
+      "section_ref": "§ 13"
     },
     {
       "uuid": "a6b87f5e-f438-4b07-95e5-391117a03b8d",
@@ -776,14 +764,13 @@
       "question": "Które pojazdy mogą poruszać się zarówno po torach, jak i drogach kołowych?",
       "answers": {
         "A": "Lokomotywy hybrydowe",
-        "B": "Pojazdy szynowo‑drogowe (dwudrogowe)",
-        "C": "Zespoły trakcyjne typu push‑pull",
-        "D": "Wózki paletowe"
+        "B": "Pojazdy szynowo-drogowe (dwudrogowe)",
+        "C": "Zespoły trakcyjne typu push-pull",
+        "D": "Drezyny robocze"
       },
       "correct": "B",
       "explanation": "Ir-1 § 8 ust. 9",
-      "section_ref": "§ 8",
-      "verified": false
+      "section_ref": "§ 8"
     },
     {
       "uuid": "4c8a127f-7000-4e41-bf88-cce88f75eda7",
@@ -837,9 +824,8 @@
         "D": "160 km/h"
       },
       "correct": "A",
-      "explanation": "Ir-1 § 84 ust. 24 pkt 2",
-      "section_ref": "§ 84",
-      "verified": false
+      "explanation": "Ir-1 § 84 ust. 24 pkt 2 lit. c",
+      "section_ref": "§ 84"
     },
     {
       "uuid": "6fa4b7d2-373d-4a44-be67-35d1ec54a9d8",
@@ -1097,15 +1083,14 @@
       "uuid": "37e2ed9c-785f-412f-93a6-740e85c029aa",
       "question": "Jaka jest maksymalna dopuszczalna prędkość podczas pchania pociągu przez niezabezpieczony przejazd kolejowo‑drogowy?",
       "answers": {
-        "A": "30 km/h",
-        "B": "40 km/h",
-        "C": "100 km/h",
-        "D": "20 km/h"
+        "A": "30 km/h",
+        "B": "40 km/h",
+        "C": "10 km/h",
+        "D": "20 km/h"
       },
       "correct": "D",
       "explanation": "Ir-1 § 67 ust. 8 pkt 2",
-      "section_ref": "§ 67",
-      "verified": false
+      "section_ref": "§ 67"
     },
     {
       "uuid": "4c63a248-b837-427f-8bd4-3318c9568d31",
@@ -1193,7 +1178,7 @@
     },
     {
       "uuid": "ea3bc5be-e9e4-4fde-aa93-fec89261170b",
-      "question": "Jaka jest maksymalna dopuszczalna prędkość pociągu ratunkowego przejeżdżającego przez przejazd kolejowo-drogowy obsługiwany na odcinku z zamkniętymi i wstrzymanymi posterunkami ruchu (Przypadek D)?",
+      "question": "Jaka jest maksymalna dopuszczalna prędkość pociągu ratunkowego przejeżdżającego przez przejazd kolejowo-drogowy obsługiwany na odcinku z zamkniętymi i wstrzymanymi posterunkami ruchu?",
       "answers": {
         "A": "30 km/h",
         "B": "20 km/h",
@@ -1202,8 +1187,7 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 57 ust. 45",
-      "section_ref": "§ 57",
-      "verified": false
+      "section_ref": "§ 57"
     },
     {
       "uuid": "81ef35cf-85d4-458d-a4b7-5e0aa64ba4f7",
@@ -1221,17 +1205,16 @@
     },
     {
       "uuid": "4b9a31e6-3cea-4680-ba15-b4af8ae64cc9",
-      "question": "Jaka jest maksymalna dopuszczalna prędkość pociągu ratunkowego, roboczego lub pługa odśnieżnego na odcinku z zamkniętymi i wstrzymanymi posterunkami ruchu (Przypadek D)?",
+      "question": "Jaka jest maksymalna dopuszczalna prędkość pociągu ratunkowego, roboczego lub pługa odśnieżnego na odcinku z zamkniętymi i wstrzymanymi posterunkami ruchu?",
       "answers": {
-        "A": "80 km/h",
+        "A": "20 km/h",
         "B": "30 km/h",
         "C": "5 km/h",
         "D": "10 km/h"
       },
       "correct": "B",
       "explanation": "Ir-1 § 57 ust. 45",
-      "section_ref": "§ 57",
-      "verified": false
+      "section_ref": "§ 57"
     },
     {
       "uuid": "cf6a1c45-2c83-4ba6-874f-8b85e63c93df",
@@ -1252,42 +1235,39 @@
       "question": "Z czego składa się obsada pociągu (drużyna pociągowa)?",
       "answers": {
         "A": "Z drużyny trakcyjnej oraz drużyny konduktorskiej lub tylko drużyny trakcyjnej",
-        "B": "Z maszynisty i pomocnika maszynisty",
-        "C": "Z kierownika pociągu i konduktorów",
-        "D": "Z dyżurnego ruchu i nastawniczego"
+        "B": "Z maszynisty i pomocnika maszynisty tworzących dwuosobową drużynę trakcyjną",
+        "C": "Z kierownika pociągu i konduktorów tworzących drużynę konduktorską",
+        "D": "Z dyżurnego ruchu i nastawniczego odpowiedzialnych za prowadzenie ruchu"
       },
       "correct": "A",
       "explanation": "Ir-1 § 15 ust. 1",
-      "section_ref": "§ 15",
-      "verified": false
+      "section_ref": "§ 15"
     },
     {
       "uuid": "0592b208-2d7d-47da-a580-eefa8390c0de",
       "question": "Co powinien zrobić maszynista po otrzymaniu sygnału „ALARM” bez wyjaśnienia przyczyny?",
       "answers": {
-        "A": "Kontynuować jazdę bez zmian",
-        "B": "Natychmiast zwiększyć prędkość",
+        "A": "Kontynuować jazdę z dotychczasową prędkością, odnotowując sygnał w dokumentacji pociągu",
+        "B": "Natychmiast zwiększyć prędkość i jak najszybciej dojechać do najbliższego posterunku ruchu",
         "C": "Zatrzymać pociąg i po stwierdzeniu braku widocznych przeszkód jechać z prędkością do 40 km/h do najbliższego posterunku ruchu",
-        "D": "Wyłączyć urządzenia bezpieczeństwa"
+        "D": "Zatrzymać pociąg i oczekiwać na przyjazd ekipy ratowniczej lub dalsze dyspozycje od dyżurnego ruchu"
       },
       "correct": "C",
       "explanation": "Ir-1 § 32 ust. 2 pkt 2",
-      "section_ref": "§ 32",
-      "verified": false
+      "section_ref": "§ 32"
     },
     {
       "uuid": "a256820a-ed5f-49f2-904a-7b71d5802e9a",
       "question": "Kto jest zobowiązany odmówić wykonania polecenia zagrażającego bezpieczeństwu ruchu?",
       "answers": {
         "A": "Każdy pracownik związany z prowadzeniem ruchu",
-        "B": "Wyłącznie dyżurny ruchu",
-        "C": "Jedynie maszynista",
-        "D": "Tylko kierownik pociągu"
+        "B": "Wyłącznie dyżurny ruchu jako koordynator współpracy jednostek organizacyjnych",
+        "C": "Jedynie maszynista jako prowadzący pojazd trakcyjny",
+        "D": "Tylko kierownik pociągu jako odpowiedzialny za skład pociągu"
       },
       "correct": "A",
       "explanation": "Ir-1 § 6 ust. 5",
-      "section_ref": "§ 6",
-      "verified": false
+      "section_ref": "§ 6"
     },
     {
       "uuid": "95277899-5c3a-493a-ad00-f24c4eec52c3",
@@ -1310,12 +1290,11 @@
         "A": "Nic – procedura wygaśnie sama",
         "B": "Odwołać zapowiadanie telefonogramem według wzoru 17",
         "C": "Wyłączyć urządzenia blokady liniowej",
-        "D": "Wysłać wiadomość SMS do maszynistów"
+        "D": "Wznowić obsługę blokady liniowej bez nadawania telefonogramu"
       },
       "correct": "B",
       "explanation": "Ir-1 § 28 ust. 25",
-      "section_ref": "§ 28",
-      "verified": false
+      "section_ref": "§ 28"
     },
     {
       "uuid": "31b8dfe4-2e4b-461e-af18-8bbd187b8c47",
@@ -1347,17 +1326,16 @@
     },
     {
       "uuid": "d10c2a3a-3b92-4f45-b6df-0ada6ef02993",
-      "question": "Blokada wieloodstępowa (samoczynna) nie dopuszcza wyprawienia pociągu z:",
+      "question": "Na szlaku z blokadą wieloodstępową (samoczynną) nie wolno wyprawić pociągu z:",
       "answers": {
-        "A": "Lokomotywą popychającą do kilometra",
-        "B": "Pociągiem roboczym",
-        "C": "Składem pasażerskim",
-        "D": "Pociągiem ratunkowym"
+        "A": "Lokomotywą popychającą pociąg do kilometra i powracającą ze szlaku na stację wyprawienia",
+        "B": "Lokomotywą prowadzącą pociąg przez cały szlak",
+        "C": "Lokomotywą popychającą pociąg do następnego posterunku zapowiadawczego",
+        "D": "Lokomotywą wielokrotną prowadzącą pociąg w trakcji łączonej"
       },
       "correct": "A",
       "explanation": "Ir-1 § 29 ust. 8",
-      "section_ref": "§ 29",
-      "verified": false
+      "section_ref": "§ 29"
     },
     {
       "uuid": "5caf1466-0ee3-4c5b-801b-e6b56d1949ff",
@@ -1377,15 +1355,14 @@
       "uuid": "cb2dc32d-7794-47c6-8f5e-90fcfa1fc1fa",
       "question": "W sytuacji awaryjnej na posterunku zdalnego prowadzenia ruchu drogę przebiegu może ułożyć:",
       "answers": {
-        "A": "Tylko dyżurny ruchu",
-        "B": "Pracownik automatyk lub toromistrz spełniający wymagania",
-        "C": "Maszynista",
-        "D": "Policjant kolejowy"
+        "A": "Dyżurny ruchu odpowiedzialny za dany posterunek",
+        "B": "Pracownik zatrudniony na stanowisku automatyka lub toromistrza, spełniający wymagania określone w Instrukcji Ia-5",
+        "C": "Maszynista pojazdu, który ma wykonać przejazd przez posterunek",
+        "D": "Nastawniczy lub inny pracownik obsługi urządzeń sterowania ruchem"
       },
       "correct": "B",
       "explanation": "Ir-1 § 31a ust. 2",
-      "section_ref": "§ 31a",
-      "verified": false
+      "section_ref": "§ 31a"
     },
     {
       "uuid": "bc7731a8-01f9-4cc6-99a2-6e7e88afd646",
@@ -1408,12 +1385,11 @@
         "A": "Taboru zwykłego",
         "B": "Pojazdów pomocniczych",
         "C": "Taboru specjalnego",
-        "D": "Żadnej z powyższych kategorii"
+        "D": "Taboru kolejowego (jako osobna kategoria równorzędna taborowi)"
       },
       "correct": "B",
       "explanation": "Ir-1 § 8 ust. 9",
-      "section_ref": "§ 8",
-      "verified": false
+      "section_ref": "§ 8"
     },
     {
       "uuid": "5af59c4a-f921-4689-aba3-14096fff04cc",
@@ -1431,7 +1407,7 @@
     },
     {
       "uuid": "c8c2b888-11f4-484a-b084-f0565c11bc24",
-      "question": "Jaka jest maksymalna prędkość pociągu przy jednoosobowej obsłudze trakcyjnej w przypadku, gdy pojazd trakcyjny wyposażony jest w czynne i sprawne urządzenia kontrolujące czujność maszynisty oraz urządzenia radiołączności pociągowej?",
+      "question": "Jaka jest maksymalna prędkość pociągu przy jednoosobowej obsłudze trakcyjnej w przypadku, gdy pojazd trakcyjny wyposażony jest w przynajmniej jeden rodzaj czynnych i sprawnych urządzeń kontrolujących czujność maszynisty oraz urządzenia radiołączności pociągowej?",
       "answers": {
         "A": "120 km/h",
         "B": "140 km/h",
@@ -1440,8 +1416,7 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 15 ust. 3 pkt 1",
-      "section_ref": "§ 15",
-      "verified": false
+      "section_ref": "§ 15"
     },
     {
       "uuid": "3f6fc6c8-14c1-406c-9250-908f6179bd6d",
@@ -1504,28 +1479,26 @@
       "question": "Rzeczywista masa hamująca pociągu to suma:",
       "answers": {
         "A": "Mas hamujących wszystkich pojazdów kolejowych z czynnymi hamulcami w pociągu",
-        "B": "Masy brutto pociągu",
-        "C": "Masy lokomotywy",
-        "D": "Masy wagonów towarowych"
+        "B": "Mas brutto wszystkich pojazdów kolejowych znajdujących się w pociągu",
+        "C": "Mas hamujących wszystkich pojazdów kolejowych bez względu na stan hamulców w pociągu",
+        "D": "Mas hamujących pojazdów trakcyjnych z czynnymi hamulcami w pociągu"
       },
       "correct": "A",
       "explanation": "Ir-1 § 20 ust. 1",
-      "section_ref": "§ 20",
-      "verified": false
+      "section_ref": "§ 20"
     },
     {
       "uuid": "16fffb1a-c7bd-466a-adc4-4ffdc088cdd7",
       "question": "Od jakich czynników zależy procent wymaganej masy hamującej (Pw) pociągu?",
       "answers": {
         "A": "Od drogi hamowania, sposobu hamowania, prędkości jazdy i pochyleń miarodajnych.",
-        "B": "Od długości składu i liczby wagonów.",
-        "C": "Od rodzaju hamulca pneumatycznego i masy lokomotywy.",
-        "D": "Od masy brutto pociągu i liczby osi."
+        "B": "Od długości składu, liczby wagonów, rodzaju ładunku i masy lokomotywy.",
+        "C": "Od rodzaju hamulca pneumatycznego, masy lokomotywy, liczby osi i rozstawu kół.",
+        "D": "Od masy brutto pociągu, liczby osi, długości składu i rodzaju podwozia wagonu."
       },
       "correct": "A",
       "explanation": "Ir-1 § 21 ust. 3",
-      "section_ref": "§ 21",
-      "verified": false
+      "section_ref": "§ 21"
     },
     {
       "uuid": "6649a2f1-f2b7-47b5-b3f2-c2f87dc7768e",
@@ -1575,27 +1548,12 @@
       "answers": {
         "A": "Po zmianie kabiny sterowniczej",
         "B": "Przed każdą zmianą kierunku jazdy",
-        "C": "Co 24 h",
-        "D": "Tylko na polecenie dyspozytora"
+        "C": "Co 24 h postoju pociągu",
+        "D": "Po wyłączeniu co najmniej jednego pojazdu ze składu pociągu"
       },
       "correct": "A",
       "explanation": "Ir-1 § 18 ust. 3 pkt 2",
-      "section_ref": "§ 18",
-      "verified": false
-    },
-    {
-      "uuid": "8bd5e70d-4680-48d7-83e0-e0d7324610b1",
-      "question": "Wjazd pociągu na tor zakończony kozłem oporowym wymaga ograniczenia prędkości do:",
-      "answers": {
-        "A": "20 km/h",
-        "B": "10 km/h",
-        "C": "5 km/h",
-        "D": "30 km/h"
-      },
-      "correct": "A",
-      "explanation": "Ir-1 § 38 ust. 9 pkt 2",
-      "section_ref": "§ 38",
-      "verified": false
+      "section_ref": "§ 18"
     },
     {
       "uuid": "43c149fb-8ee7-40ec-b2e2-769c7a2c283f",
@@ -1617,13 +1575,12 @@
       "answers": {
         "A": "Telefonogramie zapowiadawczym",
         "B": "Rozkazie pisemnym",
-        "C": "Dzienniku pojazdów",
-        "D": "Planie oblotu"
+        "C": "Telefonogramie zawierającym oznajmienie odjazdu",
+        "D": "Telefonogramie żądania i dania pozwolenia"
       },
       "correct": "A",
       "explanation": "Ir-1 § 55 ust. 3",
-      "section_ref": "§ 55",
-      "verified": false
+      "section_ref": "§ 55"
     },
     {
       "uuid": "0bc5ad1b-9757-4096-8ef7-0d624fe83922",
@@ -1635,9 +1592,8 @@
         "D": "Dróżnik przejazdowy"
       },
       "correct": "A",
-      "explanation": "Ir-1 § 84 ust. 24 pkt 4",
-      "section_ref": "§ 84",
-      "verified": false
+      "explanation": "Ir-1 § 84 ust. 24 pkt 4 lit. c",
+      "section_ref": "§ 84"
     },
     {
       "uuid": "87fbba67-476c-4bda-9863-eaa9cd91940b",
@@ -1713,15 +1669,14 @@
       "uuid": "5dbd22a4-36ad-408f-bed1-b1b047028b5b",
       "question": "Pociąg ratunkowy klasyfikuje się jako:",
       "answers": {
-        "A": "Pociąg utrzymaniowo‑naprawczy",
-        "B": "Pociąg specjalny",
+        "A": "Pociąg utrzymaniowo-naprawczy",
+        "B": "Pociąg roboczy",
         "C": "Pociąg towarowy",
-        "D": "Pociąg próbny"
+        "D": "Pociąg pasażerski"
       },
       "correct": "A",
       "explanation": "Ir-1 § 9 ust. 3 pkt 1",
-      "section_ref": "§ 9",
-      "verified": false
+      "section_ref": "§ 9"
     },
     {
       "uuid": "33ec192c-1054-47eb-8ef8-714b743e5816",
@@ -1798,14 +1753,13 @@
       "question": "Na czym polega działanie systemu ANP na posterunku ruchu?",
       "answers": {
         "A": "Nastawianie przebiegów odbywa się automatycznie na skutek oddziaływania pociągu na urządzenia srk",
-        "B": "Dyżurny ruchu ręcznie zatwierdza każdy przebieg w systemie komputerowym",
-        "C": "Nastawianie przebiegów odbywa się wyłącznie na torach głównych dodatkowych",
-        "D": "System blokuje możliwość ręcznego nastawiania przebiegów przez dyżurnego ruchu"
+        "B": "Dyżurny ruchu ręcznie zatwierdza każdy przebieg w systemie komputerowym po otrzymaniu zgłoszenia od nastawniczego",
+        "C": "Nastawianie przebiegów odbywa się wyłącznie na torach głównych dodatkowych, z pominięciem torów zasadniczych",
+        "D": "System blokuje możliwość ręcznego nastawiania przebiegów przez dyżurnego ruchu i wymaga interwencji zarządcy"
       },
       "correct": "A",
       "explanation": "Ir-1 § 39 ust. 6b",
-      "section_ref": "§ 39",
-      "verified": false
+      "section_ref": "§ 39"
     },
     {
       "uuid": "4b760874-dbf9-4be0-97e5-bbbe98ee8740",
@@ -1840,14 +1794,13 @@
       "question": "Pociąg, w którym nie stwierdzono nieprawidłowości i w którym próba hamulców potwierdziła prawidłowość ich działania, powinien być osygnalizowany zgodnie z:",
       "answers": {
         "A": "Instrukcją sygnalizacji",
-        "B": "Instrukcją Ir‑11",
-        "C": "Instrukcją Id‑4",
+        "B": "Instrukcją o prowadzeniu ruchu pociągów",
+        "C": "Instrukcją Id-4",
         "D": "Rozkazem pisemnym"
       },
       "correct": "A",
       "explanation": "Ir-1 § 14 ust. 5",
-      "section_ref": "§ 14",
-      "verified": false
+      "section_ref": "§ 14"
     },
     {
       "uuid": "ae56e020-09f1-4197-8a6a-5daec9247535",
@@ -1867,15 +1820,14 @@
       "uuid": "cba90af4-ecaf-4f7b-8139-158ef75e9216",
       "question": "Co stanowi granicę między posterunkiem zapowiadawczym a szlakiem na linii dwutorowej?",
       "answers": {
-        "A": "Semafor wyjazdowy",
+        "A": "Semafor wyjazdowy tego posterunku i linia prostopadła do osi torów w miejscu ustawienia tego semafora",
         "B": "Miejsce znajdowania się semafora wjazdowego i linia prostopadła do osi torów w miejscu ustawienia tego semafora",
-        "C": "Pierwszy rozjazd od strony szlaku",
-        "D": "Wskaźnik W4"
+        "C": "Pierwsze rozjazdy od strony szlaku i linia prostopadła do osi torów w miejscu ustawienia tych rozjazdów",
+        "D": "Wskaźnik W4 i linia prostopadła do osi torów w miejscu ustawienia tego wskaźnika"
       },
       "correct": "B",
       "explanation": "Ir-1 § 3 ust. 9 pkt 2",
-      "section_ref": "§ 3",
-      "verified": false
+      "section_ref": "§ 3"
     },
     {
       "uuid": "a72bf759-9111-4edd-89e3-65a0cbbe44d6",
@@ -1897,55 +1849,51 @@
       "answers": {
         "A": "Dyżurny ruchu",
         "B": "Maszynista",
-        "C": "Nastawniczy tylko",
+        "C": "Wyłącznie nastawniczy",
         "D": "Kierownik pociągu"
       },
       "correct": "A",
       "explanation": "Ir-1 § 41 ust. 2",
-      "section_ref": "§ 41",
-      "verified": false
+      "section_ref": "§ 41"
     },
     {
       "uuid": "1648831d-0720-4e93-865f-8152c06c0a2c",
       "question": "W okręgu nastawczym początek i koniec ograniczenia prędkości wyznaczają:",
       "answers": {
         "A": "Początek – miejsce ustawienia semafora lub innego sygnalizatora, koniec – ostatni przejeżdżany rozjazd (lub miejsce sygnałowe, gdy nie ma rozjazdów)",
-        "B": "Początek – wskaźnik W14, koniec – wskaźnik W27",
-        "C": "Początek – pierwszy rozjazd, koniec – semafor wjazdowy",
-        "D": "Dowolnie – według decyzji maszynisty"
+        "B": "Początek – pierwszy przejeżdżany rozjazd w okręgu nastawczym, koniec – miejsce ustawienia semafora lub innego sygnalizatora za okręgiem",
+        "C": "Początek – ostatni przejeżdżany rozjazd lub miejsce sygnałowe, gdy nie ma rozjazdów, koniec – miejsce ustawienia semafora lub innego sygnalizatora",
+        "D": "Początek – miejsce ustawienia semafora lub innego sygnalizatora, koniec – pierwszy przejeżdżany rozjazd (lub miejsce sygnałowe, gdy nie ma rozjazdów)"
       },
       "correct": "A",
       "explanation": "Ir-1 § 63 ust. 6",
-      "section_ref": "§ 63",
-      "verified": false
+      "section_ref": "§ 63"
     },
     {
       "uuid": "77f98f99-bf2d-4ad7-b099-0475c0b04b66",
       "question": "Co jest wymagane przed wyprawieniem każdego pociągu po torze czynnym, gdy blokada liniowa jest przystosowana do ruchu dwukierunkowego po każdym torze szlaku dwutorowego?",
       "answers": {
         "A": "Telefoniczne żądanie i danie pozwolenia na wyprawienie pociągu",
-        "B": "Wyłącznie rozkaz pisemny bez sygnału",
-        "C": "Brak jakichkolwiek pozwoleń",
-        "D": "Wystarczy wskaźnik W24"
+        "B": "Wyłącznie rozkaz pisemny zezwalający na wyprawienie pociągu na tor czynny",
+        "C": "Zapowiedź telefoniczna bez konieczności uzyskania pozwolenia na wyprawienie",
+        "D": "Podanie sygnału zezwalającego lub wskaźnika W 24 bez żądania pozwolenia"
       },
       "correct": "A",
       "explanation": "Ir-1 § 54 ust. 23 pkt 1",
-      "section_ref": "§ 54",
-      "verified": false
+      "section_ref": "§ 54"
     },
     {
       "uuid": "5bcd6c98-5501-4bf7-8497-a3f12eee29a7",
       "question": "W jakiej sytuacji wyjątkowej dyżurny ruchu może zezwolić na jazdę pociągu za pomocą sygnału zastępczego albo rozkazu pisemnego zamiast sygnału zezwalającego na semaforze?",
       "answers": {
         "A": "Gdy nie jest możliwe, nie jest przewidziane albo nie wolno podać sygnału zezwalającego na semaforze i nie ma przeszkód do jazdy",
-        "B": "Zawsze gdy jest opóźnienie pociągu",
-        "C": "Zawsze w porze nocnej",
-        "D": "Nigdy – jest to zabronione"
+        "B": "Gdy droga przebiegu pociągu jest przygotowana, lecz dyżurny ruchu nie wydał jeszcze oddzielnego polecenia na jej przygotowanie",
+        "C": "Gdy semafor wyjazdowy podaje sygnał zezwalający, lecz maszynista zgłasza usterkę urządzeń trakcyjnych uniemożliwiającą obserwację semafora",
+        "D": "Gdy jazda pociągu ma się odbyć z toru, przy którym semafor wyjazdowy podaje sygnał zezwalający, lecz rozkaz pisemny przekazano wcześniej niż sygnał zastępczy"
       },
       "correct": "A",
       "explanation": "Ir-1 § 44 ust. 1",
-      "section_ref": "§ 44",
-      "verified": false
+      "section_ref": "§ 44"
     },
     {
       "uuid": "2b379f76-8c9d-4e94-b47a-2d2285dca1eb",
@@ -2019,7 +1967,7 @@
     },
     {
       "uuid": "7ec383d2-cb80-40be-aac3-846767c3e590",
-      "question": "Co to jest odstęp w przypadku toru szlakowego biegnącego od posterunku zapowiadawczego?",
+      "question": "Jak definiowany jest odstęp między posterunkiem zapowiadawczym a najbliższym posterunkiem odstępowym?",
       "answers": {
         "A": "Część linii kolejowej między dwoma sąsiednimi posterunkami zapowiadawczymi",
         "B": "Część toru szlakowego między posterunkiem zapowiadawczym a najbliższym posterunkiem odstępowym (bocznicowym) lub semaforem odstępowym blokady wieloodstępowej (samoczynnej)",
@@ -2028,8 +1976,7 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 2 ust. 6 pkt 1",
-      "section_ref": "§ 2",
-      "verified": false
+      "section_ref": "§ 2"
     },
     {
       "uuid": "88878547-4d1a-4b47-9536-a55cdb3dea3e",
@@ -2064,14 +2011,13 @@
       "question": "Jak definiowany jest odstęp w przypadku blokady wieloodstępowej (samoczynnej)?",
       "answers": {
         "A": "Część toru szlakowego między dwoma kolejnymi semaforami odstępowymi blokady wieloodstępowej (samoczynnej) dla tego samego kierunku jazdy przy danym torze",
-        "B": "Część linii kolejowej między dwoma sąsiednimi posterunkami zapowiadawczymi",
-        "C": "Część toru szlakowego między posterunkiem zapowiadawczym a najbliższym semaforem blokady wieloodstępowej (samoczynnej), niezależnie od kierunku jazdy",
+        "B": "Część linii kolejowej między dwoma sąsiednimi posterunkami zapowiadawczymi lub między ostatnim posterunkiem zapowiadawczym i końcowym punktem linii kolejowej",
+        "C": "Część toru szlakowego między posterunkiem zapowiadawczym a najbliższym semaforem blokady wieloodstępowej (samoczynnej), niezależnie od kierunku jazdy przy danym torze",
         "D": "Część linii kolejowej zawarta między sąsiednimi stacjami węzłowymi albo między punktem początkowym lub końcowym linii kolejowej i najbliższą stacją węzłową"
       },
       "correct": "A",
       "explanation": "Ir-1 § 2 ust. 6 pkt 4",
-      "section_ref": "§ 2",
-      "verified": false
+      "section_ref": "§ 2"
     },
     {
       "uuid": "39517bf5-5d0c-46bd-b21e-d895a81ebc97",
@@ -2131,7 +2077,7 @@
       "answers": {
         "A": "Posterunkiem ruchu urządzonym na szlaku przy odgałęzieniu bocznicy, który bierze udział w prowadzeniu ruchu wszystkich pociągów kursujących na przyległych odstępach i pociągów obsługujących bocznicę",
         "B": "Posterunkiem ruchu urządzanym na szlaku w celu podziału szlaku na odstępy, regulującym następstwo pociągów przez sprawdzenie wolności następnego odstępu",
-        "C": "Posterunkiem mającym możliwość zmiany kolejności jazdy pociągów wyprawianych na tor szlakowy przyległy do tego posterunku",
+        "C": "Posterunkiem urządzonym na szlaku przy odgałęzieniu bocznicy, tylko w celu umożliwienia wjazdu pociągu na bocznicę i zgłoszenia, że szlak jest wolny, względnie wyjazdu pociągu z bocznicy",
         "D": "Posterunkiem urządzonym poza stacją w miejscu odgałęzienia linii kolejowej, biorącym udział w prowadzeniu ruchu wszystkich pociągów kursujących na przyległych szlakach"
       },
       "correct": "A",
@@ -2157,7 +2103,7 @@
       "answers": {
         "A": "Posterunkiem ruchu urządzanym na szlaku w celu podziału szlaku na odstępy, regulującym następstwo pociągów przez zezwolenie na przejazd, gdy następny odstęp jest wolny",
         "B": "Posterunkiem urządzonym na szlaku przy odgałęzieniu bocznicy, tylko w celu umożliwienia wjazdu pociągu na bocznicę i zgłoszenia, że szlak jest wolny, względnie wyjazdu pociągu z bocznicy",
-        "C": "Posterunkiem mającym możliwość zmiany kolejności jazdy pociągów wyprawianych na tor szlakowy przyległy do tego posterunku",
+        "C": "Posterunkiem zapowiadawczym mającym możliwość zmiany kolejności jazdy pociągów wyprawianych na tor szlakowy przyległy do tego posterunku",
         "D": "Posterunkiem ruchu urządzonym na szlaku przy odgałęzieniu bocznicy, który bierze udział w prowadzeniu ruchu wszystkich pociągów kursujących na przyległych odstępach i pociągów obsługujących bocznicę"
       },
       "correct": "B",
@@ -2168,10 +2114,10 @@
       "uuid": "5f88fd31-9a58-4132-b76b-3eaca851174a",
       "question": "Czym jest bocznica kolejowa?",
       "answers": {
-        "A": "Miejscem na szlaku urządzonym do wsiadania i wysiadania podróżnych, w którym rozkładowo zatrzymują się pociągi pasażerskie, z możliwością zmiany kierunku jazdy na szlakach jednotorowych niewyposażonych w urządzenia blokady liniowej",
-        "B": "Posterunkiem ruchu urządzonym na szlaku przy odgałęzieniu bocznicy, który bierze udział w prowadzeniu ruchu wszystkich pociągów kursujących na przyległych odstępach i pociągów obsługujących bocznicę",
+        "A": "Miejscem na szlaku urządzonym do wsiadania i wysiadania podróżnych, w którym rozkładowo zatrzymują się pociągi pasażerskie",
+        "B": "Wyznaczoną przez zarządcę infrastruktury drogą kolejową, połączoną bezpośrednio lub pośrednio z linią kolejową, służącą wyłącznie do przemieszczania pojazdów kolejowych pomiędzy stacjami na sieci kolejowej",
         "C": "Wyznaczoną przez zarządcę infrastruktury drogą kolejową, połączoną bezpośrednio lub pośrednio z linią kolejową, służącą do wykonywania czynności ładunkowych, utrzymaniowych lub postoju pojazdów kolejowych albo przemieszczania i włączania pojazdów kolejowych do ruchu",
-        "D": "Posterunkiem ruchu urządzonym na szlaku przy odgałęzieniu bocznicy, tylko w celu umożliwienia wjazdu pociągu na bocznicę i zgłoszenia, że szlak jest wolny, względnie wyjazdu pociągu z bocznicy"
+        "D": "Wyznaczoną przez zarządcę infrastruktury drogą kolejową, połączoną wyłącznie bezpośrednio z linią kolejową, służącą do wykonywania czynności manewrowych i postoju pojazdów kolejowych oczekujących na wjazd do stacji"
       },
       "correct": "C",
       "explanation": "Ir-1 § 3 ust. 15",

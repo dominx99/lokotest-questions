@@ -3,7 +3,7 @@ name: verify-questions
 description: Weryfikacja pytań quizowych względem paragrafów instrukcji
 disable-model-invocation: true
 user-invocable: true
-argument-hint: [nazwa-instrukcji] [numer-paragrafu|RESCUED|UUID]
+argument-hint: [nazwa-instrukcji] [numer-paragrafu|zakres-paragrafów|RESCUED|UUID]
 ---
 
 # Weryfikacja pytań quizowych
@@ -16,10 +16,11 @@ Rozparsuj `$ARGUMENTS` na:
 - **instruction** — pierwszy argument (wymagany), np. `Ir-1`
 - **drugi argument** (opcjonalny), jedno z:
   - **numer paragrafu** (np. `5` lub `12`) → `section_filter`
+  - **zakres paragrafów** (np. `1-30` lub `25-85`, format: `N-M` gdzie N ≤ M) → `section_range`
   - **`RESCUED`** (case-insensitive) → tryb RESCUED
   - **UUID** (format: ciąg z myślnikami, np. `5c982342-d32d-45d2-9932-12d50c1e96d7`) → `uuid_filter`
 
-Jeśli brak pierwszego argumentu, wypisz błąd: `Użycie: /verify-questions <instruction> [numer-paragrafu|RESCUED|UUID]` i zakończ.
+Jeśli brak pierwszego argumentu, wypisz błąd: `Użycie: /verify-questions <instruction> [numer-paragrafu|zakres-paragrafów|RESCUED|UUID]` i zakończ.
 
 ## Procedura
 
@@ -35,6 +36,11 @@ uv run python scripts/prepare_verify_batches.py {instruction}
 **Z filtrem sekcji:**
 ```bash
 uv run python scripts/prepare_verify_batches.py {instruction} --section {section_filter}
+```
+
+**Z zakresem sekcji:**
+```bash
+uv run python scripts/prepare_verify_batches.py {instruction} --section-range {section_range}
 ```
 
 **Z filtrem UUID:**

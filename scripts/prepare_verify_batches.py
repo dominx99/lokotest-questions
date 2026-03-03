@@ -152,6 +152,7 @@ def sanitize_ref(ref: str) -> str:
 
 def load_questions_normal(
     name: str, section_filter: str | None,
+    section_range: tuple[int, int] | None = None,
 ) -> list[dict]:
     """Load questions from pytania.json, optionally filtered by section."""
     q_path = INSTRUCTIONS_DIR / name / f"{name}-pytania.json"
@@ -178,6 +179,16 @@ def load_questions_normal(
             q for q in questions
             if sanitize_ref(q.get("section_ref") or "") == target
         ]
+
+    if section_range:
+        range_start, range_end = section_range
+        filtered = []
+        for q in questions:
+            ref = sanitize_ref(q.get("section_ref") or "")
+            m = re.match(r"§(\d+)", ref)
+            if m and range_start <= int(m.group(1)) <= range_end:
+                filtered.append(q)
+        questions = filtered
 
     return questions
 
@@ -250,6 +261,10 @@ def main() -> None:
         "--section", type=str, help="Filter by section number (e.g. 5, 12)",
     )
     parser.add_argument(
+        "--section-range", type=str,
+        help="Filter by section range (e.g. 1-30, 25-85)",
+    )
+    parser.add_argument(
         "--uuid", type=str, help="Filter by question UUID",
     )
     parser.add_argument(
@@ -272,8 +287,23 @@ def main() -> None:
         mode_label = f"UUID {args.uuid[:8]}..."
     else:
         section = args.section.strip() if args.section else None
-        questions = load_questions_normal(args.name, section)
-        mode_label = f"§ {section}" if section else "all"
+        section_range = None
+        if args.section_range:
+            m = re.match(r"^(\d+)-(\d+)$", args.section_range.strip())
+            if not m:
+                print(
+                    "Error: --section-range must be in format N-M (e.g. 1-30)",
+                    file=sys.stderr,
+                )
+                sys.exit(1)
+            section_range = (int(m.group(1)), int(m.group(2)))
+        questions = load_questions_normal(args.name, section, section_range)
+        if section:
+            mode_label = f"§ {section}"
+        elif section_range:
+            mode_label = f"§ {section_range[0]}-{section_range[1]}"
+        else:
+            mode_label = "all"
 
     if not questions:
         print(f"Brak pytań do weryfikacji ({mode_label}).", file=sys.stderr)
