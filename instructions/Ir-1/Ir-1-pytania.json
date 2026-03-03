@@ -48,13 +48,12 @@
       "answers": {
         "A": "zapowiadawcze i odstępowe",
         "B": "następcze i pomocnicze",
-        "C": "dysponujące i wykonawcze",
-        "D": "stacyjne i szlakowe"
+        "C": "zapowiadawcze i odgałęźne",
+        "D": "krańcowe i pośrednie"
       },
       "correct": "B",
       "explanation": "Ir-1 § 3 ust. 1",
-      "section_ref": "§ 3",
-      "verified": false
+      "section_ref": "§ 3"
     },
     {
       "uuid": "f5a301b1-1736-4579-8b64-06b44d5c0537",
@@ -224,7 +223,7 @@
     },
     {
       "uuid": "70d3840f-d513-4259-bbdb-5711913cc14a",
-      "question": "W jakiej odległości przed najbliższym rozjazdem lub skrzyżowaniem wyznacza się granicę między torem szlakowym a posterunkiem zapowiadawczym na linii dwutorowej, gdy przy danym torze brak semafora wjazdowego (tory są na tyle oddalone, że nie można wyznaczyć linii prostopadłej w miejscu semafora sąsiedniego toru)?",
+      "question": "W jakiej odległości przed najbliższym rozjazdem lub skrzyżowaniem wyznacza się granicę między torem szlakowym a posterunkiem zapowiadawczym na linii dwutorowej, gdy przy danym torze brak semafora wjazdowego (tory są od siebie tak oddalone, że nie można wyznaczyć wspólnej linii prostopadłej do osi torów w miejscu ustawienia semafora wjazdowego)?",
       "answers": {
         "A": "50 m",
         "B": "75 m",
@@ -233,8 +232,7 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 3 ust. 9 pkt 2 lit. a",
-      "section_ref": "§ 3",
-      "verified": false
+      "section_ref": "§ 3"
     },
     {
       "uuid": "b3361841-e3c6-42a7-8e99-6dd916de8e94",
@@ -1610,20 +1608,6 @@
       "verified": false
     },
     {
-      "uuid": "e8692483-786e-43ce-93ea-78e2d52ef780",
-      "question": "Który semafor określa granicę między posterunkiem zapowiadawczym a szlakiem na linii jednotorowej?",
-      "answers": {
-        "A": "Semafor wjazdowy",
-        "B": "Semafor wyjazdowy",
-        "C": "Semafor odstępowy",
-        "D": "Tarcza ostrzegawcza"
-      },
-      "correct": "A",
-      "explanation": "Ir-1 § 3 ust. 9 pkt 1",
-      "section_ref": "§ 3",
-      "verified": false
-    },
-    {
       "uuid": "14ecd762-a0f5-4bce-8486-3699f32890ce",
       "question": "Kiedy pociąg zatrzymany na szlaku może być cofnięty?",
       "answers": {
@@ -1896,20 +1880,6 @@
       "section_ref": "§ 44"
     },
     {
-      "uuid": "2b379f76-8c9d-4e94-b47a-2d2285dca1eb",
-      "question": "Czy na przystanku osobowym położonym na szlaku jednotorowym bez blokady liniowej można zmienić kierunek jazdy pociągów pasażerskich?",
-      "answers": {
-        "A": "Tak, wewnętrzny rozkład jazdy może przewidywać taką zmianę",
-        "B": "Nie, jest to zabronione",
-        "C": "Tylko gdy jest semafor wjazdowy",
-        "D": "Tylko na podstawie regulaminu technicznego stacji przylegającej"
-      },
-      "correct": "A",
-      "explanation": "Ir-1 § 3 ust. 14",
-      "section_ref": "§ 3",
-      "verified": false
-    },
-    {
       "uuid": "204d2568-d3bf-484d-b34d-57a8845ecc36",
       "question": "Do jakiej prędkości ogranicza się jazda pociągu popychanego (ciągnąca lokomotywa i lokomotywa popychająca z końca składu)?",
       "answers": {
@@ -2116,7 +2086,7 @@
       "answers": {
         "A": "Miejscem na szlaku urządzonym do wsiadania i wysiadania podróżnych, w którym rozkładowo zatrzymują się pociągi pasażerskie",
         "B": "Wyznaczoną przez zarządcę infrastruktury drogą kolejową, połączoną bezpośrednio lub pośrednio z linią kolejową, służącą wyłącznie do przemieszczania pojazdów kolejowych pomiędzy stacjami na sieci kolejowej",
-        "C": "Wyznaczoną przez zarządcę infrastruktury drogą kolejową, połączoną bezpośrednio lub pośrednio z linią kolejową, służącą do wykonywania czynności ładunkowych, utrzymaniowych lub postoju pojazdów kolejowych albo przemieszczania i włączania pojazdów kolejowych do ruchu",
+        "C": "Wyznaczoną przez zarządcę infrastruktury drogą kolejową, połączoną bezpośrednio lub pośrednio z linią kolejową, służącą do wykonywania czynności ładunkowych, utrzymaniowych lub postoju pojazdów kolejowych albo przemieszczania i włączania pojazdów kolejowych do ruchu po sieci kolejowej",
         "D": "Wyznaczoną przez zarządcę infrastruktury drogą kolejową, połączoną wyłącznie bezpośrednio z linią kolejową, służącą do wykonywania czynności manewrowych i postoju pojazdów kolejowych oczekujących na wjazd do stacji"
       },
       "correct": "C",
@@ -2192,10 +2162,10 @@
       "uuid": "b20d65ff-3472-4c98-8417-b61187d96483",
       "question": "Gdzie ujęte są postanowienia wynikające z warunków miejscowych?",
       "answers": {
-        "A": "W instrukcji Ir-3 i wewnętrznych rozkładach jazdy pociągów",
+        "A": "W instrukcji Ir-3 i wewnętrznych rozkładach jazdy pociągów oraz dodatkach do rozkładów",
         "B": "W regulaminach technicznych, wewnętrznych rozkładach jazdy pociągów oraz dodatkach do tych rozkładów",
-        "C": "W regulaminach technicznych i dodatkach do rozkładów jazdy",
-        "D": "W wewnętrznych rozkładach jazdy pociągów i umowach dwustronnych"
+        "C": "W regulaminach technicznych i dodatkach do rozkładów jazdy pociągów oraz umowach dwustronnych",
+        "D": "W wewnętrznych rozkładach jazdy pociągów, umowach dwustronnych oraz regulaminach technicznych zarządcy infrastruktury"
       },
       "correct": "B",
       "explanation": "Ir-1 § 1 ust. 4",
@@ -2206,7 +2176,7 @@
       "question": "Na kogo rozciągają się postanowienia instrukcji o prowadzeniu ruchu pociągów?",
       "answers": {
         "A": "Wyłącznie na pracowników PKP PLK S.A. odpowiednio do zakresu wykonywanych czynności",
-        "B": "Na pracowników PKP PLK S.A. i pracowników innych podmiotów korzystających z infrastruktury zarządzanej przez PKP PLK S.A., odpowiednio do rodzaju i zakresu wykonywanych czynności",
+        "B": "Na pracowników PKP PLK S.A. i pracowników innych podmiotów gospodarczych korzystających z infrastruktury zarządzanej przez PKP PLK S.A., odpowiednio do rodzaju i zakresu wykonywanych czynności",
         "C": "Na wszystkich pracowników kolei w Polsce, odpowiednio do rodzaju i zakresu wykonywanych czynności",
         "D": "Na pracowników PKP PLK S.A. i przewoźników kolejowych posiadających licencję, odpowiednio do rodzaju i zakresu wykonywanych czynności"
       },
@@ -4998,9 +4968,9 @@
     },
     {
       "uuid": "b4f9ac56-ed23-4672-a5c6-5dbcd437184d",
-      "question": "Jak nazywa się posterunek nastawczy wyposażony w urządzenia nastawcze z funkcją zależności sygnałów od położenia zwrotnic oraz urządzenia blokowe i łączności?",
+      "question": "Jak nazywa się posterunek nastawczy wyposażony w urządzenia nastawcze z funkcją zależności sygnałów na sygnalizatorach od położenia zwrotnic oraz urządzenia blokowe i łączności?",
       "answers": {
-        "A": "Posterunek zwrotniczy",
+        "A": "Posterunek zwrotniczowski (zwrotniczego)",
         "B": "Nastawnia dysponująca",
         "C": "Nastawnia",
         "D": "Nastawnia wykonawcza"
@@ -5011,10 +4981,10 @@
     },
     {
       "uuid": "83e8b69e-513b-4d68-aef0-8807d6c1a3bc",
-      "question": "Jak nazywa się posterunek, którego urządzenia nie mają funkcji zależności sygnałów na sygnalizatorach od położenia zwrotnic?",
+      "question": "Jak nazywa się posterunek nastawczy, którego urządzenia nie mają funkcji zależności sygnałów na sygnalizatorach od położenia zwrotnic?",
       "answers": {
         "A": "Nastawnia miejscowa",
-        "B": "Posterunek zwrotniczy",
+        "B": "Posterunek zwrotniczowski (zwrotniczego)",
         "C": "Nastawnia wykonawcza",
         "D": "Nastawnia dysponująca"
       },
@@ -5055,7 +5025,7 @@
         "A": "Nastawnia miejscowa",
         "B": "Nastawnia wykonawcza",
         "C": "Nastawnia zdalnego sterowania",
-        "D": "Nastawnia dysponująca okręgowa"
+        "D": "Nastawnia dysponująca"
       },
       "correct": "C",
       "explanation": "Ir-1 § 4 ust. 6",
@@ -5065,10 +5035,10 @@
       "uuid": "38215146-6fa2-4eb5-93b2-9298f3e89b3c",
       "question": "Czym jest nastawnia wykonawcza?",
       "answers": {
-        "A": "Posterunkiem nastawczym wyposażonym w urządzenia dysponowania semaforami w obrębie całej stacji lub w przydzielonym okręgu",
-        "B": "Posterunkiem nastawczym wyposażonym w urządzenia zdalnego sterowania ruchem umożliwiające obsługę posterunków podporządkowanych",
-        "C": "Posterunkiem nastawczym, na którym obsługuje się urządzenia nastawcze i blokowe we własnym okręgu nastawczym z możliwością nastawiania sygnałów na semaforach na polecenie dyżurnego ruchu",
-        "D": "Posterunkiem nastawczym posiadającym możliwość miejscowej obsługi urządzeń na odcinku zdalnie sterowanym"
+        "A": "Posterunkiem nastawczym wyposażonym w urządzenia dysponowania semaforami w obrębie całej stacji lub w przydzielonym okręgu nastawczym, przeznaczonym do zarządzania ruchem pociągów w podległych okręgach nastawczych",
+        "B": "Nastawnią dysponującą wyposażoną w urządzenia zdalnego sterowania ruchem, której urządzenia umożliwiają obsługę urządzeń nastawczych i podawanie sygnałów na semaforach posterunków jej podporządkowanych, tworzących układ liniowy, obszarowy lub mieszany",
+        "C": "Posterunkiem nastawczym, na którym obsługuje się urządzenia nastawcze i blokowe we własnym okręgu nastawczym z możliwością nastawiania sygnałów na semaforach na polecenie dyżurnego ruchu za pomocą urządzeń lub środków łączności",
+        "D": "Posterunkiem nastawczym położonym na odcinku zdalnie sterowanym, posiadającym możliwość miejscowej obsługi urządzeń nastawczych i blokowych w przydzielonym okręgu nastawczym, podległym nastawni dysponującej lub nastawni zdalnego sterowania"
       },
       "correct": "C",
       "explanation": "Ir-1 § 4 ust. 7",
@@ -6191,19 +6161,6 @@
       "correct": "A",
       "explanation": "Ir-1 § 49 ust. 12",
       "section_ref": "§ 49"
-    },
-    {
-      "uuid": "f5616244-fc68-4f10-ac11-0d3605b77bd3",
-      "question": "Co należy do torów specjalnego przeznaczenia na stacjach?",
-      "answers": {
-        "A": "Żeberka ochronne, tory dojazdowe do bocznic, komunikacyjne, wyciągowe, bocznicowe",
-        "B": "Tory główne zasadnicze, tory główne dodatkowe, wyciągowe, bocznicowe",
-        "C": "Tory boczne, tory dojazdowe do bocznic, komunikacyjne, wyciągowe",
-        "D": "Żeberka ochronne, tory główne zasadnicze, komunikacyjne, bocznicowe"
-      },
-      "correct": "A",
-      "explanation": "Ir-1 § 5 ust. 3",
-      "section_ref": "§ 5"
     },
     {
       "uuid": "3f823825-9d9e-4657-99ed-8219bfcb2cd5",
@@ -9584,6 +9541,32 @@
       "correct": "A",
       "explanation": "Ir-1 § 9 ust. 3 pkt 2",
       "section_ref": "§ 9"
+    },
+    {
+      "uuid": "05594cd8-02ba-421c-b169-4b3cba4f9ab2",
+      "question": "Który z poniższych typów torów stacyjnych zalicza się do torów specjalnego przeznaczenia?",
+      "answers": {
+        "A": "Tor główny zasadniczy",
+        "B": "Żeberko ochronne",
+        "C": "Tor boczny",
+        "D": "Tor główny dodatkowy"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 5 ust. 3",
+      "section_ref": "§ 5"
+    },
+    {
+      "uuid": "e13bc77c-0720-4480-a327-c0014bec0c3c",
+      "question": "Który z poniższych typów torów stacyjnych zalicza się do torów specjalnego przeznaczenia?",
+      "answers": {
+        "A": "Tor główny zasadniczy",
+        "B": "Tor boczny",
+        "C": "Tor wyciągowy",
+        "D": "Tor główny dodatkowy"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 5 ust. 3",
+      "section_ref": "§ 5"
     }
   ]
 }

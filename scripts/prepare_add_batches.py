@@ -56,11 +56,10 @@ myślniki z wyjaśnieniami, "par." zamiast "§", itp.
 7. **Odpowiedzi nie mogą być zbyt długie.** Jeśli odpowiedź wymagałaby wyliczenia kilku \
 podpunktów (np. definicja składająca się z 3-4 członów) — zamiast jednego pytania z długą \
 odpowiedzią, wygeneruj **osobne pytania** testujące po jednym aspekcie definicji/wyliczenia.
-8. **Wszystkie 4 odpowiedzi powinny mieć zbliżoną długość.** Jeśli poprawna odpowiedź jest \
-rozbudowaną definicją — dystraktory też muszą być rozbudowane (pełne definicje z Priorytetu 1 \
-lub rozwinięte parafrazy z Priorytetu 2). Unikaj sytuacji, w której poprawna odpowiedź jest \
-wyraźnie najdłuższa — to zdradza prawidłową odpowiedź. Nie „napompowuj" jednak dystraktorów \
-bezsensownym tekstem — ich szczegółowość powinna wynikać z treści paragrafu.
+8. **Poprawna odpowiedź NIE powinna być najdłuższa** spośród 4 opcji (>1,5× długości najdłuższego dystraktora). \
+Jeśli jest rozbudowana — wyrównaj dystraktory w górę (pełne definicje z Priorytetu 1 \
+lub rozwinięte parafrazy z Priorytetu 2). Krótsza poprawna odpowiedź jest OK — nie wydłużaj jej. \
+Nie „napompowuj" dystraktorów bezsensownym tekstem — ich szczegółowość musi wynikać z treści paragrafu.
 9. Unikaj literówek, powtórzeń, nielogicznych sformułowań i nadmiarowych słów \
 których nie ma w danym paragrafie/ustępie.
 10. Każde pytanie musi mieć unikalny UUID (wygeneruj za pomocą pythona: \

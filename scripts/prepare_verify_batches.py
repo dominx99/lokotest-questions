@@ -1,7 +1,7 @@
 """Prepare verification batches: group questions by section, generate agent prompts.
 
 Groups questions from pytania.json by section_ref, splits into batches
-of max 8, generates agent prompts, and outputs a manifest.
+of max 30, generates agent prompts, and outputs a manifest.
 
 Supports RESCUED mode: re-verifies questions that were rescued with a new
 section_ref from verification.json.
@@ -21,7 +21,7 @@ import sys
 from pathlib import Path
 
 INSTRUCTIONS_DIR = Path("instructions")
-BATCH_SIZE = 8
+BATCH_SIZE = 30
 
 PROMPT_TEMPLATE = """\
 Jesteś weryfikatorem pytań quizowych z instrukcji kolejowej %(instruction)s (PKP).
@@ -65,18 +65,19 @@ do pytania o miejsce) — oznacz FIX i zaproponuj poprawione dystraktory.
    - Jeśli explanation zawiera cokolwiek poza czystą referencją — oznacz jako FIX i podaj poprawioną wersję zawierającą tylko referencję
    - Jeśli explanation jest puste lub brak go — znajdź właściwy paragraf/ustęp w treści sekcji i dodaj referencję
 7. Czy nie ma literówek, powtórzeń, nielogicznych sformułowań, nadmiarowych słów których nie ma w danym paragrafie/ustępie?
-8. Czy pytanie nie jest **duplikatem** innego pytania w tej samej sekcji (ta sama treść lub ten sam sens, ta sama poprawna odpowiedź)? \
-Jeśli tak — oznacz jako DELETE **tylko jedno** z duplikatów (to gorsze/mniej precyzyjne), a lepsze zachowaj z odpowiednim statusem (OK lub FIX).
+8. Czy pytanie nie jest **duplikatem** innego pytania w tej samej sekcji (ta sama treść lub ten sam sens **I** ta sama poprawna odpowiedź)? \
+Jeśli tak — oznacz jako DELETE **tylko jedno** z duplikatów (to gorsze/mniej precyzyjne), a lepsze zachowaj z odpowiednim statusem (OK lub FIX). \
+UWAGA: Jeśli dwa pytania mają identyczną treść, ale **różne poprawne odpowiedzi** (np. testują różne elementy z tego samego wyliczenia), to NIE są duplikatami — oba zachowaj.
 9. Czy **poprawna odpowiedź lub dystraktory** nie są zbyt długie? Jeśli poprawna odpowiedź zawiera wyliczenie \
 kilku podpunktów (np. definicja składająca się z 3-4 członów), oznacz pytanie jako DELETE z opisem problemu, \
 a następnie zaproponuj **osobne pytania** (status NEW) — po jednym na każdy podpunkt/człon wyliczenia. \
 Każde nowe pytanie powinno testować wiedzę o jednym konkretnym aspekcie definicji/wyliczenia. \
 Wygeneruj UUID dla każdego nowego pytania za pomocą pythona: `import uuid; str(uuid.uuid4())`.
-10. Czy **odpowiedzi mają zbliżoną długość**? Jeśli poprawna odpowiedź jest wyraźnie dłuższa niż \
-wszystkie dystraktory (lub odwrotnie) — oznacz FIX. Dystraktory powinny być rozbudowane na podobnym \
-poziomie szczegółowości co poprawna odpowiedź (pełne definicje z paragrafu lub rozwinięte parafrazy). \
-Nie „napompowuj" jednak dystraktorów bezsensownym tekstem — ich szczegółowość powinna wynikać z treści paragrafu. \
-Sytuacja, w której poprawna odpowiedź jest najdłuższa, zdradza prawidłową odpowiedź i jest niedopuszczalna.
+10. Czy **poprawna odpowiedź jest najdłuższa** spośród 4 opcji i >1,5× dłuższa od najdłuższego dystraktora? \
+Jeśli tak — oznacz FIX. Wyrównaj **dystraktory w górę** do długości poprawnej odpowiedzi \
+(rozbuduj je o treść z paragrafu). Nie modyfikuj poprawnej odpowiedzi tylko dla wyrównania długości. \
+Jeśli poprawna odpowiedź jest **krótsza** od dystraktorów — to NIE jest problem, oznacz OK. \
+Nie „napompowuj" dystraktorów bezsensownym tekstem — ich szczegółowość musi wynikać z treści paragrafu.
 
 ## Format wyników — ZAPISZ DO PLIKU
 
