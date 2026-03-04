@@ -8,7 +8,8 @@
       "Bash(.venv/bin/python:*)",
       "Write(/tmp/*)",
       "Write(.tmp/*)",
-      "Write(/workspace/webdev/lokotest/questions/.tmp/*)"
+      "Write(/workspace/webdev/lokotest/questions/.tmp/*)",
+      "Bash(grep:*)"
     ]
   }
 }

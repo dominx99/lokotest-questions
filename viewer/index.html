@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Weryfikacja pytań</title>
+<title>Pytania</title>
 <style>
   :root {
     --bg: #0d1117;
@@ -176,6 +176,7 @@
   .card.status-ok { border-left: 3px solid var(--green); }
   .card.status-new { border-left: 3px solid var(--purple); }
   .card.status-rescued { border-left: 3px solid var(--cyan); }
+  .card.status-question { border-left: 3px solid var(--border); }
 
   .card-header {
     display: flex;
@@ -217,6 +218,8 @@
   .status-tag.ok { background: var(--green-bg); color: var(--green); }
   .status-tag.new { background: var(--purple-bg); color: var(--purple); }
   .status-tag.rescued { background: var(--cyan-bg); color: var(--cyan); }
+  .status-tag.question { background: var(--surface); color: var(--text-muted); border: 1px solid var(--border); }
+  .status-tag.verified { background: var(--green-bg); color: var(--green); }
 
   .card-header .question-preview {
     white-space: nowrap;
@@ -424,7 +427,7 @@
 </head>
 <body>
 
-<h1>Weryfikacja pytań — <span id="instruction-name">...</span></h1>
+<h1>Pytania — <span id="instruction-name">...</span></h1>
 
 <div class="toolbar">
   <div class="summary" id="summary"></div>
@@ -439,7 +442,9 @@
   <button data-filter="delete">DELETE</button>
   <button data-filter="rescued">RESCUED</button>
   <button data-filter="ok">OK</button>
-  <input type="text" id="search-uuid" placeholder="Szukaj po UUID..." oninput="onSearchChange()">
+  <span style="width:1px;height:20px;background:var(--border);margin:0 4px;"></span>
+  <button data-filter="pytania">PYTANIA</button>
+  <input type="text" id="search-uuid" placeholder="Szukaj po UUID lub tresci..." oninput="onSearchChange()">
 </div>
 
 <div id="cards"></div>
@@ -488,7 +493,7 @@ async function loadData() {
     }
 
     document.getElementById('instruction-name').textContent = name;
-    document.title = `Weryfikacja — ${name}`;
+    document.title = `Pytania — ${name}`;
     renderSummary();
     renderCards();
     setupFilters();
@@ -522,9 +527,18 @@ function renderCards() {
   const container = document.getElementById('cards');
   container.innerHTML = '';
 
+  if (activeFilter === 'pytania') {
+    renderAllQuestions(container);
+    return;
+  }
+
   const filtered = verificationData.results.filter(r => {
     if (activeFilter !== 'all' && r.status.toLowerCase() !== activeFilter) return false;
-    if (searchUuid && !r.uuid.includes(searchUuid)) return false;
+    if (searchUuid) {
+      const q = questionsMap[r.uuid];
+      const haystack = r.uuid + (q ? ' ' + q.question : '') + (r.changes?.question || '');
+      if (!haystack.toLowerCase().includes(searchUuid)) return false;
+    }
     return true;
   });
 
@@ -577,6 +591,61 @@ function renderCards() {
           <span class="question-preview">${escHtml(previewText)}</span>
         </div>
         <span class="section-ref">${escHtml(sectionRef)}</span>
+        <span class="chevron">&#9654;</span>
+      </div>
+      <div class="card-body">
+        ${bodyHtml}
+      </div>
+    `;
+
+    container.appendChild(card);
+  });
+}
+
+function renderAllQuestions(container) {
+  const verificationByUuid = {};
+  verificationData.results.forEach(r => { verificationByUuid[r.uuid] = r; });
+
+  const allQuestions = Object.values(questionsMap);
+
+  const filtered = allQuestions.filter(q => {
+    if (searchUuid) {
+      const haystack = (q.uuid + ' ' + q.question).toLowerCase();
+      if (!haystack.includes(searchUuid)) return false;
+    }
+    return true;
+  });
+
+  if (filtered.length === 0) {
+    container.innerHTML = '<div class="no-results">Brak wynikow dla wybranego filtra.</div>';
+    return;
+  }
+
+  filtered.forEach((q, idx) => {
+    const vResult = verificationByUuid[q.uuid];
+    const statusLower = vResult ? vResult.status.toLowerCase() : 'question';
+    const statusLabel = vResult ? vResult.status : (q.verified ? '✓' : '—');
+    const statusTagClass = vResult ? statusLower : (q.verified ? 'verified' : 'question');
+
+    const card = document.createElement('div');
+    card.className = `card status-${vResult ? statusLower : 'question'}`;
+    card.id = `card-q-${q.uuid}`;
+
+    const bodyHtml = `
+      <div class="uuid">UUID: ${q.uuid}</div>
+      ${renderOriginalQuestion(q)}
+      ${vResult && vResult.problems ? renderProblems(vResult.problems) : ''}
+      ${vResult && vResult.changes ? renderChanges(vResult.changes, q) : ''}
+    `;
+
+    card.innerHTML = `
+      <div class="card-header" onclick="toggleCard(this)">
+        <div class="left">
+          <span class="idx">#${idx + 1}</span>
+          <span class="status-tag ${statusTagClass}">${escHtml(statusLabel)}</span>
+          <span class="question-preview">${escHtml(q.question)}</span>
+        </div>
+        <span class="section-ref">${escHtml(q.section_ref || '')}</span>
         <span class="chevron">&#9654;</span>
       </div>
       <div class="card-body">
