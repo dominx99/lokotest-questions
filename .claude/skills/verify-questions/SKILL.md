@@ -67,6 +67,7 @@ Dla każdego batcha z manifestu (`batches`) odpal agenta:
 - prompt: `Przeczytaj plik {prompt_path} i wykonaj instrukcje w nim zawarte.`
 - model: **sonnet**
 - subagent_type: **general-purpose**
+- mode: **bypassPermissions**
 - run_in_background: **true**
 
 **NIE czytaj plików prompt** — agent sam je przeczyta. Odpal **WSZYSTKICH** agentów naraz w jednym wywołaniu (jednym message z wieloma tool calls).

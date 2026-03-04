@@ -77,16 +77,29 @@ def parse_sections(md_text: str) -> list[dict]:
             "text": text,
         })
 
-    # Check for attachments after last section
+    # Check for extra-paragraph content after last section (attachments,
+    # appendices, change tables).  We look for the earliest match among
+    # several known patterns and split there.
     last_section_text = sections[-1]["text"]
-    attachment_marker = re.search(
+    extra_patterns = [
+        # ### **Załączniki** (Ir-1 style heading)
         r"^#{1,4}\s+\*\*Załączniki\*\*",
-        last_section_text,
-        re.MULTILINE,
-    )
-    if attachment_marker:
-        attachment_text = last_section_text[attachment_marker.start():].strip()
-        sections[-1]["text"] = last_section_text[:attachment_marker.start()].strip()
+        # ### **Dodatki do instrukcji** (Ir-1 style appendices)
+        r"^#{1,4}\s+\*\*Dodatki\b",
+        # **Załącznik nr 1.** (Ir-9 style, standalone bold line)
+        r"^\*\*Załącznik\s+nr\s+\d+",
+        # **TABELA ZMIAN** / **Tabela zmian**
+        r"^\*\*(?:TABELA ZMIAN|Tabela zmian)\*\*",
+    ]
+    earliest_match = None
+    for pat in extra_patterns:
+        m = re.search(pat, last_section_text, re.MULTILINE)
+        if m and (earliest_match is None or m.start() < earliest_match.start()):
+            earliest_match = m
+
+    if earliest_match:
+        attachment_text = last_section_text[earliest_match.start():].strip()
+        sections[-1]["text"] = last_section_text[:earliest_match.start()].strip()
         sections.append({
             "id": "_attachments",
             "title": "Załączniki",
