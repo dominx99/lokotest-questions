@@ -1,4 +1,4 @@
-.PHONY: pdfs-to-markdowns pdf-to-markdown clean-markdowns sections section xlsx-to-json toc view apply-verification deficits mark-verified unmark-verified
+.PHONY: pdfs-to-markdowns pdf-to-markdown clean-markdowns sections section xlsx-to-json json-to-xlsx toc view apply-verification deficits mark-verified unmark-verified
 
 INSTRUCTIONS_DIR := instructions
 
@@ -31,6 +31,16 @@ ifdef ONLY
 	uv run python scripts/xlsx_to_json.py --instructions-dir $(INSTRUCTIONS_DIR) --only $(ONLY)
 else
 	uv run python scripts/xlsx_to_json.py --instructions-dir $(INSTRUCTIONS_DIR)
+endif
+
+# Convert JSON question files back to XLSX
+# Usage: make json-to-xlsx              (all instructions)
+#        make json-to-xlsx ONLY=Ir-1    (single instruction)
+json-to-xlsx:
+ifdef ONLY
+	uv run python scripts/json_to_xlsx.py --instructions-dir $(INSTRUCTIONS_DIR) --only $(ONLY)
+else
+	uv run python scripts/json_to_xlsx.py --instructions-dir $(INSTRUCTIONS_DIR)
 endif
 
 # Generate table of contents from section frontmatters
