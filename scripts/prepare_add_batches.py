@@ -81,14 +81,14 @@ def load_quality_rules() -> str:
 
 
 def count_content_lines(filepath: Path) -> int:
-    """Count lines excluding YAML frontmatter."""
+    """Count non-empty lines excluding YAML frontmatter."""
     lines = filepath.read_text(encoding="utf-8").splitlines()
     if not lines or lines[0].strip() != "---":
-        return len(lines)
+        return sum(1 for l in lines if l.strip())
     for i in range(1, len(lines)):
         if lines[i].strip() == "---":
-            return len(lines) - i - 1
-    return len(lines)
+            return sum(1 for l in lines[i + 1:] if l.strip())
+    return sum(1 for l in lines if l.strip())
 
 
 def parse_frontmatter(filepath: Path) -> dict | None:
@@ -167,7 +167,7 @@ def compute_deficits(
                 continue
 
         content_lines = count_content_lines(md_file)
-        required = max(1, content_lines // 8)
+        required = max(1, content_lines // 5)
         existing = counts.get(normalized_id, 0)
         deficit = required - existing
 
@@ -182,7 +182,7 @@ def compute_deficits(
             "required": required,
             "existing": existing,
             "deficit": deficit,
-            "to_add": min(deficit, 10),
+            "to_add": deficit,
             "existing_questions": existing_by_section.get(normalized_id, []),
         })
 
@@ -245,34 +245,46 @@ def main() -> None:
     # Load shared quality rules
     quality_rules = load_quality_rules()
 
-    # Generate prompts (1 agent per section)
+    # Generate prompts, splitting sections into batches of max 15
+    max_per_agent = 15
     batches = []
     for d in deficits:
         ref_clean = re.sub(r"\s+", "", d["section_ref"])
-        output_path = tmp_dir / f"{ref_clean}.json"
-        prompt_path = tmp_dir / f"prompt_{ref_clean}.md"
+        to_add = d["to_add"]
 
-        template = PROMPT_TEMPLATE.replace(
-            "%(quality_rules)s", quality_rules,
-        )
-        prompt = template % {
-            "instruction": args.name,
-            "section_file": d["section_file"],
-            "section_ref": d["section_ref"],
-            "to_add": d["to_add"],
-            "output_path": str(output_path),
-            "existing_questions": json.dumps(
-                d["existing_questions"], ensure_ascii=False, indent=2,
-            ),
-        }
-        prompt_path.write_text(prompt, encoding="utf-8")
+        # Split into chunks: e.g. 25 → [13, 12], 30 → [15, 15], 14 → [14]
+        num_agents = (to_add + max_per_agent - 1) // max_per_agent
+        chunks = []
+        for i in range(num_agents):
+            chunk_size = to_add // num_agents + (1 if i < to_add % num_agents else 0)
+            chunks.append(chunk_size)
 
-        batches.append({
-            "section_ref": d["section_ref"],
-            "to_add": d["to_add"],
-            "output_path": str(output_path),
-            "prompt_path": str(prompt_path),
-        })
+        for idx, chunk in enumerate(chunks):
+            suffix = f"_{idx + 1}" if len(chunks) > 1 else ""
+            output_path = tmp_dir / f"{ref_clean}{suffix}.json"
+            prompt_path = tmp_dir / f"prompt_{ref_clean}{suffix}.md"
+
+            template = PROMPT_TEMPLATE.replace(
+                "%(quality_rules)s", quality_rules,
+            )
+            prompt = template % {
+                "instruction": args.name,
+                "section_file": d["section_file"],
+                "section_ref": d["section_ref"],
+                "to_add": chunk,
+                "output_path": str(output_path),
+                "existing_questions": json.dumps(
+                    d["existing_questions"], ensure_ascii=False, indent=2,
+                ),
+            }
+            prompt_path.write_text(prompt, encoding="utf-8")
+
+            batches.append({
+                "section_ref": d["section_ref"],
+                "to_add": chunk,
+                "output_path": str(output_path),
+                "prompt_path": str(prompt_path),
+            })
 
     manifest = {
         "instruction": args.name,

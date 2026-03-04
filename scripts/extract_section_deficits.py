@@ -22,14 +22,14 @@ INSTRUCTIONS_DIR = Path("instructions")
 
 
 def count_content_lines(filepath: Path) -> int:
-    """Count lines excluding YAML frontmatter."""
+    """Count non-empty lines excluding YAML frontmatter."""
     lines = filepath.read_text(encoding="utf-8").splitlines()
     if not lines or lines[0].strip() != "---":
-        return len(lines)
+        return sum(1 for l in lines if l.strip())
     for i in range(1, len(lines)):
         if lines[i].strip() == "---":
-            return len(lines) - i - 1
-    return len(lines)
+            return sum(1 for l in lines[i + 1:] if l.strip())
+    return sum(1 for l in lines if l.strip())
 
 
 def parse_frontmatter(filepath: Path) -> dict | None:
@@ -115,7 +115,7 @@ def main() -> None:
                 continue
 
         content_lines = count_content_lines(md_file)
-        required = max(1, content_lines // 8)
+        required = max(1, content_lines // 5)
         existing = counts.get(normalized_id, 0)
         deficit = required - existing
 
@@ -130,7 +130,7 @@ def main() -> None:
             "required": required,
             "existing": existing,
             "deficit": max(deficit, 0),
-            "to_add": max(min(deficit, 10), 0),
+            "to_add": max(deficit, 0),
         })
 
     # Summary to stderr

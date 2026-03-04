@@ -11578,6 +11578,2281 @@
       "explanation": "Ir-1 § 7 ust. 15",
       "section_ref": "§ 7",
       "verified": true
+    },
+    {
+      "uuid": "17457b68-5bbf-4110-b75c-7bc1c3c5c5f0",
+      "question": "Kto daje pozwolenie na wyprawienie pociągu na szlaku z ruchem jednotorowym dwukierunkowym?",
+      "answers": {
+        "A": "Dyżurny ruchu posterunku zapowiadawczego wyprawiający pociąg",
+        "B": "Dyżurny ruchu posterunku odstępowego (bocznicowego) przyległego do szlaku",
+        "C": "Dyżurny ruchu posterunku zapowiadawczego przyjmujący pociąg",
+        "D": "Dyżurny ruchu posterunku odgałęźnego"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 24 ust. 2",
+      "section_ref": "§ 24"
+    },
+    {
+      "uuid": "c4b8613a-1dbb-4dcc-a90c-58d73ac4c271",
+      "question": "Jak brzmi telefonogram według wzoru nr 1b stosowany przy żądaniu pozwolenia na wyprawienie dwóch lub więcej kolejnych pociągów tego samego kierunku jazdy w odstępach posterunków następczych?",
+      "answers": {
+        "A": "\"Czy droga dla pociągu nr jest wolna?\"",
+        "B": "\"Czy droga dla ilość pociągów numer nr i numer nr jest wolna?\"",
+        "C": "\"Pociąg nr przyjechał o godz. min. Czy droga dla ilość pociągów numer nr i numer nr jest wolna?\"",
+        "D": "\"Dla ilość pociągów numer nr i numer nr droga jest wolna\""
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 24 ust. 8",
+      "section_ref": "§ 24"
+    },
+    {
+      "uuid": "6a00f1da-1541-4b58-85cb-75e9d777ad64",
+      "question": "Jak brzmi telefonogram według wzoru nr 4b stosowany przy daniu pozwolenia na wyprawienie kilku kolejnych pociągów w odstępach posterunków następczych?",
+      "answers": {
+        "A": "\"Dla pociągu nr droga jest wolna\"",
+        "B": "\"Teraz dla ilość pociągów numer nr i numer nr droga jest wolna\"",
+        "C": "\"Czy droga dla ilość pociągów numer nr i numer nr jest wolna?\"",
+        "D": "\"Dla ilość pociągów numer nr i numer nr droga jest wolna\""
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 24 ust. 9",
+      "section_ref": "§ 24"
+    },
+    {
+      "uuid": "fc05ce7f-0246-4f54-b2c7-a48b25e33759",
+      "question": "Jak brzmi telefonogram według wzoru nr 5b stosowany przy odmowie dania pozwolenia na wyprawienie kilku pociągów?",
+      "answers": {
+        "A": "\"Stój ilość pociągi(ów) numer nr i numer nr\"",
+        "B": "\"Zatrzymać ilość pociągi(ów) numer nr i numer nr\"",
+        "C": "\"Nie wyprawiać żadnego pociągu do czasu przejazdu pociągu nr\"",
+        "D": "\"ilość pociągi(ów) numer nr i numer nr są zatrzymane\""
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 24 ust. 10",
+      "section_ref": "§ 24"
+    },
+    {
+      "uuid": "4b6813de-a2cc-4d84-b888-0805ed3e83b5",
+      "question": "Co należy zrobić, gdy odmówiono dania pozwolenia na wyprawienie pociągów z powodu niemożności przyjęcia żadnej ilości pociągów lub w żądanej kolejności, a następnie uzgodniono zmienioną ilość lub kolejność?",
+      "answers": {
+        "A": "Nadać telefonogram według wzoru nr 6b: \"Teraz dla ilość pociągów numer nr i numer nr droga jest wolna\"",
+        "B": "Nadać telefonogram według wzoru nr 4b z nową ilością i kolejnością pociągów bez ponownego żądania",
+        "C": "Nadać nowy telefonogram z żądaniem pozwolenia na wyprawienie pociągów według wzoru nr 1b",
+        "D": "Nadać telefonogram według wzoru nr 6a: \"Teraz dla pociągu nr droga jest wolna\" dla pierwszego pociągu z listy"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 24 ust. 10",
+      "section_ref": "§ 24"
+    },
+    {
+      "uuid": "909cd2ff-cc84-4601-97ce-bb08d75e8554",
+      "question": "Jak brzmi telefonogram według wzoru nr 7b stosowany przy żądaniu zatrzymania kilku pociągów po uprzednim daniu im pozwolenia na wyprawienie?",
+      "answers": {
+        "A": "\"Stój ilość pociągi(ów) numer nr i numer nr\"",
+        "B": "\"ilość pociągi(ów) numer nr i numer nr są zatrzymane\"",
+        "C": "\"Zatrzymać ilość pociągi(ów) numer nr i numer nr\"",
+        "D": "\"Nie wyprawiać pociągów od godz. min. aż do odwołania\""
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 24 ust. 15",
+      "section_ref": "§ 24"
+    },
+    {
+      "uuid": "e09bdf73-c0a9-4f8d-9e3e-435ce805ec8b",
+      "question": "Kiedy telefonogram zawiadamiający o zatrzymaniu pociągu (wzór nr 8a lub 8b) jest nadawany bez wcześniejszego żądania zatrzymania?",
+      "answers": {
+        "A": "Nigdy — telefonogram o zatrzymaniu pociągu wolno nadać tylko po uprzednim otrzymaniu żądania zatrzymania według wzoru nr 7a lub 7b",
+        "B": "Gdy zatrzymanie pociągu nastąpiło bez otrzymania żądania zatrzymania, na który otrzymano pozwolenie na wyprawienie",
+        "C": "Wyłącznie gdy pociąg zatrzymał się na szlaku z powodu awarii, a dyżurny ruchu posterunku zapowiadawczego nie miał możliwości wcześniejszego żądania zatrzymania",
+        "D": "Gdy pociąg zatrzymał się na rozkładowym przystanku osobowym i oczekuje na pasażerów dłużej niż przewiduje rozkład jazdy"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 24 ust. 15",
+      "section_ref": "§ 24"
+    },
+    {
+      "uuid": "d3ce800f-834f-4e40-b405-42684f17766f",
+      "question": "Co telefonogram według wzoru nr 10 komunikuje i kiedy należy go nadać?",
+      "answers": {
+        "A": "Komunikuje odmowę dania pozwolenia na wyprawienie pociągu i należy go nadać gdy zachodzi przeszkoda do przyjęcia pociągu ze szlaku dwutorowego",
+        "B": "Komunikuje wstrzymanie wyprawienia pociągów i należy go nadać gdy dyżurny ruchu stacji nie może przyjmować pociągów ze szlaku dwutorowego",
+        "C": "Komunikuje odwołanie wstrzymania wyprawienia pociągów i należy go nadać niezwłocznie po ustaniu przyczyny nadania telefonogramu nr 9",
+        "D": "Komunikuje zatrzymanie pociągu i należy go nadać po zatrzymaniu pociągu, na który udzielono pozwolenia na wyprawienie"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 24 ust. 18",
+      "section_ref": "§ 24"
+    },
+    {
+      "uuid": "2aae4819-45a5-4dd0-81da-5666d2bd30a1",
+      "question": "Co poprzedza telefoniczne żądanie i danie pozwolenia na wyprawienie pociągu na szlaku z dwukierunkową blokadą liniową?",
+      "answers": {
+        "A": "Telefoniczne żądanie poprzedza obsługę urządzeń blokady liniowej, a danie pozwolenia następuje po niej",
+        "B": "Telefoniczne żądanie i danie pozwolenia następuje po obsłudze urządzeń blokady liniowej",
+        "C": "Telefoniczne żądanie i danie pozwolenia poprzedza obsługę urządzeń blokady liniowej",
+        "D": "Obsługa urządzeń blokady liniowej zastępuje telefoniczne żądanie i danie pozwolenia, które nie jest wówczas wymagane"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 24 ust. 16",
+      "section_ref": "§ 24"
+    },
+    {
+      "uuid": "04bf99a4-4af1-4a3f-8468-f5d56bbdeae6",
+      "question": "W jakim celu wprowadza się dodatkowe cyfrowe oznaczenia identyfikacyjne (tablice tożsamości) przy radiotelefonicznym zapowiadaniu pociągów?",
+      "answers": {
+        "A": "Aby zapobiec włączeniu się osób trzecich w sieć zapowiadawczą i przekazaniu przez nie informacji mogącej mieć ujemny wpływ na bezpieczeństwo ruchu",
+        "B": "Aby przyspieszyć wymianę radiotelefonogramów między dyżurnymi ruchu na szlaku",
+        "C": "Aby umożliwić identyfikację pociągów na szlaku bez konieczności stosowania rozkazów pisemnych",
+        "D": "Aby zastąpić ustalone formy porozumiewania się dyżurnych ruchu w warunkach awaryjnych"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 27 ust. 4",
+      "section_ref": "§ 27"
+    },
+    {
+      "uuid": "24cb4cc1-4bd9-469b-addd-7461e9b8ce3a",
+      "question": "Czy posterunki następcze przylegające do tego samego szlaku mogą posiadać tablice tożsamości o różnych układach cyfrowych?",
+      "answers": {
+        "A": "Nie, posterunki następcze przylegające do tego samego szlaku muszą posiadać tablice tożsamości o identycznym układzie cyfrowym",
+        "B": "Tak, każdy posterunek następczy musi posiadać tablicę tożsamości o unikalnym układzie cyfrowym",
+        "C": "Tak, układ cyfrowy tablicy może być dowolny, pod warunkiem że jest zatwierdzony przez dyspozytora ruchu",
+        "D": "Nie ma wymagań co do układu cyfrowego tablic tożsamości na posterunkach tego samego szlaku"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 27 ust. 4",
+      "section_ref": "§ 27"
+    },
+    {
+      "uuid": "6a47539d-a72e-4f28-a025-1ccb50459889",
+      "question": "W jaki sposób należy wprowadzić radiotelefoniczne zapowiadanie pociągów?",
+      "answers": {
+        "A": "Telefonogramem według wzoru nr 16, zastępując słowo \"telefoniczne\" słowem \"radiotelefoniczne\"",
+        "B": "Rozkazem pisemnym wydanym drużynom pociągowym na posterunku zapowiadawczym",
+        "C": "Telefonogramem według wzoru nr 17, zastępując słowo \"telefoniczne\" słowem \"radiotelefoniczne\"",
+        "D": "Ustnym poleceniem dyspozytora ruchu przekazanym przez radiotelefon do wszystkich posterunków szlaku"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 27 ust. 7",
+      "section_ref": "§ 27"
+    },
+    {
+      "uuid": "0a915072-e9cf-4aa2-8ca8-ee9b517044e4",
+      "question": "W jaki sposób należy odwołać radiotelefoniczne zapowiadanie pociągów po ustaniu przyczyn, które je spowodowały?",
+      "answers": {
+        "A": "Telefonogramem według wzoru nr 17, zastępując słowo \"telefoniczne\" słowem \"radiotelefoniczne\"",
+        "B": "Telefonogramem według wzoru nr 16, zastępując słowo \"telefoniczne\" słowem \"radiotelefoniczne\"",
+        "C": "Rozkazem pisemnym wydanym drużynie pierwszego pociągu wyjeżdżającego na szlak",
+        "D": "Ustnym komunikatem dyżurnego ruchu przekazanym przez radiotelefon do wszystkich posterunków"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 27 ust. 8",
+      "section_ref": "§ 27"
+    },
+    {
+      "uuid": "fd06b3bc-b33a-47f0-9a71-e722f233f9d5",
+      "question": "Co należy zrobić, gdy podczas radiotelefonicznego zapowiadania pociągów pogorszyła się słyszalność i odbierający nie rozumie poszczególnych wyrazów?",
+      "answers": {
+        "A": "Przeliterować niezrozumiałe wyrazy używając znanych imion, nazw itp.",
+        "B": "Powtórzyć cały radiotelefonogram w wolniejszym tempie i z większą głośnością",
+        "C": "Przerwać łączność i nawiązać ją ponownie na innej częstotliwości",
+        "D": "Przesłać treść radiotelefonogramu za pomocą urządzeń łączności ogólnoeksploatacyjnej"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 27 ust. 10",
+      "section_ref": "§ 27"
+    },
+    {
+      "uuid": "73fb44c6-d85a-459f-97e5-465e15724ff4",
+      "question": "Który z radiotelefonogramów zapowiadawczych stanowi wyjątek od obowiązku powtórzenia na dowód zrozumienia?",
+      "answers": {
+        "A": "Radiotelefonogram zawierający żądanie pozwolenia na wyprawienie pociągu",
+        "B": "Radiotelefonogram potwierdzający wolną drogę dla pociągu",
+        "C": "Radiotelefonogram odwołujący radiotelefoniczne zapowiadanie pociągów",
+        "D": "Radiotelefonogram zawierający numer rozpoznawczy tablicy tożsamości"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 27 ust. 11",
+      "section_ref": "§ 27"
+    },
+    {
+      "uuid": "3e77753e-21b6-4665-8b8e-3d193c074cb5",
+      "question": "Jakie dodatkowe słowa można dołączyć po numerze pociągu w telefonicznej informacji na szlaku dwutorowym?",
+      "answers": {
+        "A": "\"z postojem na kilometrze km minut min.\"",
+        "B": "\"z rozkładowym czasem jazdy minut min.\"",
+        "C": "\"z liczbą osi wagonów\"",
+        "D": "\"z numerem drogi przebiegu\""
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 28 ust. 2",
+      "section_ref": "§ 28"
+    },
+    {
+      "uuid": "519190c7-fd50-47e4-aa51-2731939dfbd9",
+      "question": "Co jest podstawą prowadzenia ruchu pociągów w czasie, w którym obowiązuje telefoniczne zapowiadanie pociągów?",
+      "answers": {
+        "A": "Obsługa urządzeń blokady liniowej jako systemu głównego",
+        "B": "Telefoniczne zapowiadanie pociągów, a urządzenia blokady liniowej obsługuje się pomocniczo",
+        "C": "Pisemne rozkazy jazdy wydawane każdemu pociągowi przez dyżurnego ruchu",
+        "D": "Radiołączność między dyżurnymi ruchu sąsiednich posterunków"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 28 ust. 18",
+      "section_ref": "§ 28"
+    },
+    {
+      "uuid": "daf9ce98-6594-4648-9128-2f165fca559a",
+      "question": "Jak powinny być nadawane telefonogramy zapowiadawcze względem obsługi blokady liniowej?",
+      "answers": {
+        "A": "Jednocześnie z obsługą blokady liniowej",
+        "B": "Po obsłużeniu blokady liniowej",
+        "C": "Przed obsłużeniem blokady liniowej",
+        "D": "Niezależnie od obsługi blokady liniowej, w dowolnym momencie"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 28 ust. 18",
+      "section_ref": "§ 28"
+    },
+    {
+      "uuid": "619dc61f-65e5-4bbe-b527-befda514b2de",
+      "question": "Co należy zrobić, jeśli odblokował się blok końcowy, a nie otrzymano telefonicznej informacji o numerze pociągu, i okazało się, że na sąsiednim posterunku bloku początkowego nie zablokowano?",
+      "answers": {
+        "A": "Niezwłocznie dowiedzieć się o przyczynie i zastosować środki pomocnicze zgodnie z § 50",
+        "B": "Wprowadzić telefoniczne zapowiadanie pociągów i zastosować środki pomocnicze",
+        "C": "Zażądać telefonicznie potwierdzenia przyjazdu pociągu od dyżurnego ruchu tylnego posterunku",
+        "D": "Wyjaśnić przyczynę i kontynuować ruch bez zmian procedury"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 28 ust. 14",
+      "section_ref": "§ 28"
+    },
+    {
+      "uuid": "50e6f5c3-6411-4418-84f6-364c70e6d231",
+      "question": "W jakim przypadku na szlaku z blokadą półsamoczynną stosuje się telefoniczne zapowiadanie bez osobnego telefonogramu przy wyprawianiu pociągu z lokomotywą popychającą?",
+      "answers": {
+        "A": "Gdy lokomotywa popychająca jest sprzęgnięta z pociągiem do stacji sąsiedniej",
+        "B": "Gdy lokomotywa popychająca jedzie do kilometra na szlaku i z powrotem lub do sąsiedniej stacji bez sprzęgnięcia z pociągiem",
+        "C": "Gdy lokomotywa popychająca jest sprzęgnięta z pociągiem i jedzie do kilometra na szlaku z powrotem",
+        "D": "Gdy lokomotywa popychająca prowadzi pociąg samodzielnie na szlaku jednotorowym"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 28 ust. 16 pkt 1 lit. f",
+      "section_ref": "§ 28"
+    },
+    {
+      "uuid": "2a6d9839-6f7a-4dc5-bf95-4474a446d7c6",
+      "question": "Kto wprowadza telefoniczne zapowiadanie na całym torze szlakowym na szlaku dwutorowym, gdy przyczyna zaistniała na posterunku odstępowym?",
+      "answers": {
+        "A": "Dyżurny ruchu przedniego posterunku zapowiadawczego",
+        "B": "Dyżurny ruchu tylnego posterunku zapowiadawczego",
+        "C": "Dyżurny ruchu posterunku, z którego ostatni pociąg był wyprawiony",
+        "D": "Dyżurny ruchu posterunku odstępowego, na którym zaistniała przyczyna"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 28 ust. 20",
+      "section_ref": "§ 28"
+    },
+    {
+      "uuid": "ec1e6281-00eb-47f5-98d7-f3fc813acab9",
+      "question": "Jakie wzory telefonogramów stosuje się odpowiednio przy wprowadzaniu i odwoływaniu telefonicznego zapowiadania pociągów na szlaku z blokadą półsamoczynną?",
+      "answers": {
+        "A": "Wzór nr 1a do wprowadzania, wzór nr 4a do odwoływania",
+        "B": "Wzór nr 16 do wprowadzania, wzór nr 17 do odwoływania",
+        "C": "Wzór nr 17 do wprowadzania, wzór nr 16 do odwoływania",
+        "D": "Wzór nr 4a do wprowadzania, wzór nr 1a do odwoływania"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 28 ust. 16 pkt 2",
+      "section_ref": "§ 28"
+    },
+    {
+      "uuid": "4d5b634d-c3f8-411c-9741-7f211aa26f58",
+      "question": "Jaka jest minimalna długość odstępu (z wyjątkiem odstępu między ostatnim semaforem odstępowym a semaforem wjazdowym) w blokadzie wieloodstępowej (samoczynnej) czterostawnej?",
+      "answers": {
+        "A": "Nie może być krótszy od przyjętej dla danej linii drogi hamowania",
+        "B": "Nie może być krótszy od połowy drogi hamowania przyjętej dla danej linii",
+        "C": "Nie może być krótszy od dwukrotnej drogi hamowania przyjętej dla danej linii",
+        "D": "Nie może być krótszy od jednej trzeciej drogi hamowania przyjętej dla danej linii"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 29 ust. 1 pkt 3",
+      "section_ref": "§ 29"
+    },
+    {
+      "uuid": "b7093cc0-c5ff-460f-8bf0-d14fe8a16dbb",
+      "question": "Jak prowadzi się ruch pociągów na szlakach z wieloodstępową (samoczynną) blokadą liniową będących jednym odstępem?",
+      "answers": {
+        "A": "W sposób analogiczny do prowadzenia ruchu na szlakach z blokadą wieloodstępową trzystawną",
+        "B": "W sposób analogiczny do prowadzenia ruchu na szlakach z jednoodstępową (półsamoczynną) blokadą liniową",
+        "C": "W sposób analogiczny do prowadzenia ruchu na szlakach z blokadą telefoniczną",
+        "D": "W sposób analogiczny do prowadzenia ruchu na szlakach z blokadą wieloodstępową czterostawną"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 29 ust. 3",
+      "section_ref": "§ 29"
+    },
+    {
+      "uuid": "75aba589-60c6-4a8d-ba29-ad6723819a14",
+      "question": "Ile odcinków oddalania na planie świetlnym zasadniczo nie powinno wykazywać zajętości, aby można było wyprawić pociąg ze stacji, gdy funkcja samoczynności semaforów jest wyłączona?",
+      "answers": {
+        "A": "Co najmniej jeden",
+        "B": "Co najmniej dwa",
+        "C": "Co najmniej trzy",
+        "D": "Co najmniej cztery"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 29 ust. 2",
+      "section_ref": "§ 29"
+    },
+    {
+      "uuid": "283b6fcc-a395-402f-808b-04e5b79a1577",
+      "question": "Czy zapis uprawnionego pracownika srk jest wymagany w przypadku zaniku, a następnie przywrócenia zasilania blokady wieloodstępowej (samoczynnej) bez jego udziału i odwołania telefonicznego zapowiadania pociągów?",
+      "answers": {
+        "A": "Tak, zapis jest zawsze wymagany przy każdym przywróceniu zasilania",
+        "B": "Tak, ale tylko gdy przerwa zasilania trwała dłużej niż 30 minut",
+        "C": "Nie, zapis tego pracownika nie jest w takim przypadku wymagany",
+        "D": "Tak, ale zapis może być dokonany zdalnie przez łączność radiową"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 29 ust. 7",
+      "section_ref": "§ 29"
+    },
+    {
+      "uuid": "aeb170b0-3191-4804-af2c-2eef2e46532f",
+      "question": "Kiedy należy stosować telefoniczne zapowiadanie pociągów bez osobnego wprowadzania telefonogramem w przypadku wyprawienia pociągu po torze lewym, gdy oba tory są czynne?",
+      "answers": {
+        "A": "Zawsze, gdy pociąg jedzie po torze lewym",
+        "B": "Gdy blokada nie jest przystosowana do prowadzenia ruchu dwukierunkowego po każdym torze",
+        "C": "Gdy prędkość jazdy pociągu przekracza 80 km/h",
+        "D": "Gdy pociąg jest wyprawiany z postojem na szlaku"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 29 ust. 12 pkt 1 lit. c",
+      "section_ref": "§ 29"
+    },
+    {
+      "uuid": "f1c7c7cd-11a3-4117-8daf-d23868110536",
+      "question": "W jakim przypadku należy stosować telefoniczne zapowiadanie pociągów bez osobnego wprowadzania telefonogramem, gdy wyprawia się pociąg na bocznicę z posterunkiem pomocniczym lub bocznicowym?",
+      "answers": {
+        "A": "Tylko gdy pociąg ma postój na szlaku w celu obsługi bocznicy albo jest wyprawiany na bocznicę z posterunkiem pomocniczym lub bocznicowym",
+        "B": "Tylko gdy bocznica jest oddalona o więcej niż 5 km od stacji wyprawienia",
+        "C": "Tylko gdy prędkość jazdy na szlaku przekracza 60 km/h",
+        "D": "Tylko gdy pociąg wykonuje jednocześnie funkcje robocze i pasażerskie"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 29 ust. 12 pkt 1 lit. e",
+      "section_ref": "§ 29"
+    },
+    {
+      "uuid": "8dee6687-f9e8-4e8c-96e0-fe1659a2d789",
+      "question": "W jakim przypadku należy stosować telefoniczne zapowiadanie pociągów bez osobnego wprowadzania telefonogramem dla pojazdu pomocniczego nie oddziałującego na urządzenia srk?",
+      "answers": {
+        "A": "Zapowiadać należy wszystkie pociągi kursujące na szlaku łącznie z pojazdem pomocniczym",
+        "B": "Zapowiadać należy tylko pojazd pomocniczy",
+        "C": "Zapowiadać należy tylko pociągi kursujące za pojazdem pomocniczym",
+        "D": "Nie ma obowiązku zapowiadania, jeśli pojazd nie oddziałuje na urządzenia srk"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 29 ust. 12 pkt 1 lit. f",
+      "section_ref": "§ 29"
+    },
+    {
+      "uuid": "12b7794c-cda3-4570-b635-a8d594f90759",
+      "question": "W jakim przypadku należy wprowadzić telefoniczne zapowiadanie pociągów telefonogramem z powodu niedziałania lub nieprawidłowego działania blokady?",
+      "answers": {
+        "A": "Gdy nieprawidłowo działa tylko jeden samoczynny semafor odstępowy",
+        "B": "Gdy niedziałanie lub nieprawidłowe działanie dotyczy wieloodstępowej (samoczynnej) blokady liniowej",
+        "C": "Gdy niesprawne jest urządzenie wyświetlające plan świetlny na nastawni",
+        "D": "Gdy jeden z posterunków następczych zgłosi brak łączności radiowej"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 29 ust. 12 pkt 2 lit. e",
+      "section_ref": "§ 29"
+    },
+    {
+      "uuid": "46d137db-15e7-4ea8-bdc7-f33383731ad7",
+      "question": "Kiedy należy odwołać telefoniczne zapowiadanie ruchu pociągów wprowadzone telefonogramem na szlaku z wieloodstępową (samoczynną) blokadą liniową?",
+      "answers": {
+        "A": "Po ustaniu przyczyny, dla której zostało ono wprowadzone, telefonogramem według wzoru nr 17",
+        "B": "Po ustaniu przyczyny, bez konieczności wysyłania jakiegokolwiek telefonogramu",
+        "C": "Po ustaniu przyczyny, telefonogramem według wzoru nr 16",
+        "D": "Dopiero po pisemnym zatwierdzeniu przez uprawnionego pracownika srk"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 29 ust. 13",
+      "section_ref": "§ 29"
+    },
+    {
+      "uuid": "4468c560-d805-4f12-9982-22555bce574a",
+      "question": "Jak, przy przerwie w łączności telefonicznej i radiotelefonicznej oraz prawidłowo działającej wieloodstępowej blokadzie, dyżurny ruchu ustala numery kursujących pociągów?",
+      "answers": {
+        "A": "Korzysta z wewnętrznego rozkładu jazdy, obserwacji pociągów, a w razie potrzeby zatrzymuje je w celu wymiany informacji z drużyną pociągową",
+        "B": "Korzysta wyłącznie z wewnętrznego rozkładu jazdy bez możliwości zatrzymywania pociągów",
+        "C": "Wstrzymuje ruch wszystkich pociągów do czasu przywrócenia łączności",
+        "D": "Korzysta z planu świetlnego i rejestrów wjazdu i wyjazdu pociągów"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 29 ust. 11",
+      "section_ref": "§ 29"
+    },
+    {
+      "uuid": "f6a2e859-cd2f-4729-95b1-6eb0e15b8a84",
+      "question": "Jakie posterunki przylegają do krańców odcinka zdalnego prowadzenia ruchu (zpr)?",
+      "answers": {
+        "A": "Posterunki zapowiadawcze, które wchodzą w skład odcinka zpr jako stacje sterowane",
+        "B": "Posterunki zapowiadawcze, które nie wchodzą w skład odcinka zpr i są zwane stacjami (posterunkami) stycznymi",
+        "C": "Posterunki odgałęźne podlegające dyżurnemu ruchu odcinkowemu jako stacje styczne",
+        "D": "Posterunki zwrotniczowskie wyznaczone do obsługi granic odcinka zpr"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 31 ust. 3",
+      "section_ref": "§ 31"
+    },
+    {
+      "uuid": "eb725453-b0e1-4d4d-863f-430e3c023a5d",
+      "question": "Jak nazywa się nastawnia na stacji sterowanej, przystosowana do nastawiania i obsługi zwrotnic, wykolejnic, przebiegów i sygnałów?",
+      "answers": {
+        "A": "Nastawnia zdalnego sterowania",
+        "B": "Nastawnia odcinkowa",
+        "C": "Nastawnia miejscowa",
+        "D": "Nastawnia posterunkowa"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 31 ust. 4",
+      "section_ref": "§ 31"
+    },
+    {
+      "uuid": "4aea4ef1-7c23-4cae-a95d-487f8b59b2ca",
+      "question": "Gdzie należy prowadzić książkę ostrzeżeń doraźnych dla odcinka zpr i szlaków stycznych?",
+      "answers": {
+        "A": "Na każdej stacji stycznej odcinka zpr",
+        "B": "Na nastawni zdalnego sterowania",
+        "C": "Na stacjach sterowanych, na których jest dyżurny ruchu miejscowy",
+        "D": "Na wszystkich mijankach bez obsady odcinka zpr"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 31 ust. 16",
+      "section_ref": "§ 31"
+    },
+    {
+      "uuid": "07dea109-fabc-4834-8c16-e5d6a64089c7",
+      "question": "Kto może zlecić dyżurnemu ruchu stacji stycznej wydawanie rozkazów pisemnych drużynom pociągowym wyprawianym na odcinek zpr?",
+      "answers": {
+        "A": "Dyżurny ruchu miejscowy stacji stycznej",
+        "B": "Maszynista pojazdu wjeżdżającego na odcinek zpr",
+        "C": "Kierownik pociągu po uzyskaniu zgody kierownika sekcji",
+        "D": "Dyżurny ruchu odcinkowy"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 31 ust. 15",
+      "section_ref": "§ 31"
+    },
+    {
+      "uuid": "4fef0032-5254-4129-b1fb-869c51250d48",
+      "question": "W jaki sposób dyżurny ruchu odcinkowy prowadzi ruch pojazdów kolejowych na szlakach stycznych?",
+      "answers": {
+        "A": "Wyłącznie za pomocą urządzeń radiołączności, bez udziału dyżurnych ruchu stacji stycznych",
+        "B": "Z dyżurnymi ruchu dysponującymi stacji stycznych zgodnie z obowiązującymi zasadami zapowiadania pociągów",
+        "C": "Samodzielnie, na podstawie informacji z urządzeń zdalnego sterowania ruchem",
+        "D": "Przez wydawanie rozkazów pisemnych maszynistom za pośrednictwem dyżurnych ruchu stacji stycznych"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 31 ust. 26",
+      "section_ref": "§ 31"
+    },
+    {
+      "uuid": "27a504db-e69b-4003-8e5b-54682f182f44",
+      "question": "Co jest obowiązkiem kierującego pojazdem kolejowym przed każdym wjazdem, wyjazdem lub przejazdem przez stację (mijankę) na odcinku zpr bez uzs?",
+      "answers": {
+        "A": "Zatrzymać pojazd i osobiście sprawdzić ustawienie zwrotnic przed wjazdem",
+        "B": "Zgłosić ten zamiar dyżurnemu ruchu odcinkowemu",
+        "C": "Porozumieć się z kierującym pojazdem jadącym z przeciwnego kierunku",
+        "D": "Oczekiwać na sygnał zezwalający podany przez dyżurnego ruchu miejscowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 31 ust. 30",
+      "section_ref": "§ 31"
+    },
+    {
+      "uuid": "d3180d3c-b495-4e8c-80e1-f95ddef9e9f4",
+      "question": "Jakie działania muszą podjąć kierujący krzyżującymi się pojazdami kolejowymi względem siebie nawzajem?",
+      "answers": {
+        "A": "Wymieniać telefonogramy zapowiadawcze za pośrednictwem dyżurnego ruchu odcinkowego",
+        "B": "Wzajemnie obserwować składy tych pojazdów i o zauważonych nieprawidłowościach informować się między sobą i dyżurnego ruchu odcinkowego",
+        "C": "Uzgadniać kolejność wjazdu na mijankę bezpośrednio drogą radiową bez udziału dyżurnego ruchu odcinkowego",
+        "D": "Wzajemnie potwierdzać przyjęcie sygnału wjazdowego za pomocą sygnału dźwiękowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 31 ust. 31",
+      "section_ref": "§ 31"
+    },
+    {
+      "uuid": "b2164e7a-e94d-4e5b-9224-ab1adcf3bfa4",
+      "question": "Kiedy manewry na mijankach bez obsady są możliwe?",
+      "answers": {
+        "A": "Po uzyskaniu pisemnego zezwolenia dyżurnego ruchu odcinkowego",
+        "B": "Wyłącznie za dnia, po uprzednim wstrzymaniu ruchu pociągów na danym szlaku",
+        "C": "Za zezwoleniem dyżurnego ruchu odcinkowego, który określa warunki wykonania manewrów",
+        "D": "Po uzgodnieniu z dyżurnym ruchu stacji stycznej i uzyskaniu jego zezwolenia"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 31 ust. 33",
+      "section_ref": "§ 31"
+    },
+    {
+      "uuid": "0f7ff897-b962-4bdc-9241-5ce6c125d774",
+      "question": "Co obowiązany jest zrobić maszynista po zakończeniu manewrów na mijance bez obsady?",
+      "answers": {
+        "A": "Samodzielnie zamknąć tor, na którym odbywały się manewry, i poinformować dyżurnego ruchu odcinkowego",
+        "B": "Doprowadzić zwrotnice do położenia zasadniczego, zabezpieczyć odstawione pojazdy i zgłosić wykonanie tych czynności dyżurnemu ruchu odcinkowemu",
+        "C": "Powiadomić dyżurnego ruchu miejscowego o zakończeniu manewrów i oddaniu toru do dyspozycji",
+        "D": "Sporządzić pisemny meldunek o przebiegu manewrów i przekazać go dyżurnemu ruchu odcinkowemu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 31 ust. 33",
+      "section_ref": "§ 31"
+    },
+    {
+      "uuid": "0d68b4e5-2e65-42b8-a9a7-458c66b8ff68",
+      "question": "Czy maszynista może cofnąć pociąg na odcinku zpr bez zgody dyżurnego ruchu odcinkowego?",
+      "answers": {
+        "A": "Tak, w nagłych przypadkach zagrożenia bezpieczeństwa, o czym musi niezwłocznie powiadomić dyżurnego ruchu odcinkowego",
+        "B": "Tak, jeśli pociąg zatrzymał się na szlaku i maszynista oceni, że cofnięcie jest konieczne",
+        "C": "Nie, cofanie pociągu bez zgody dyżurnego ruchu odcinkowego jest zabronione",
+        "D": "Tak, ale wyłącznie na odcinkach bez urządzeń zdalnego sterowania ruchem (uzs)"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 31 ust. 38",
+      "section_ref": "§ 31"
+    },
+    {
+      "uuid": "cacbcb23-3cf7-436c-a6d1-dce61790b636",
+      "question": "W telefonogramach zapowiadawczych, w żądaniu i daniu pozwolenia na wyprawienie pociągu przy ruchu jednotorowym dwukierunkowym (gdy klucz nie jest utwierdzony w urządzeniach srk), po numerze pociągu dodaje się słowa:",
+      "answers": {
+        "A": "\"z kluczem(ami) od bocznicy nazwa\"",
+        "B": "\"na bocznicę nazwa i z powrotem\"",
+        "C": "\"z obsługą bocznicy nazwa\"",
+        "D": "\"bez klucza od bocznicy nazwa\""
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 34 ust. 6 pkt 1 lit. a",
+      "section_ref": "§ 34"
+    },
+    {
+      "uuid": "40786794-9a00-4d1b-b0e7-ceda17f0080a",
+      "question": "Gdy pociąg bocznicowy ma powrócić na stację obsługującą, w żądaniu i daniu pozwolenia na wyprawienie pociągu (przy ruchu jednotorowym dwukierunkowym) po numerze pociągu dodaje się słowa:",
+      "answers": {
+        "A": "\"z obsługą bocznicy nazwa\"",
+        "B": "\"na bocznicę nazwa i z powrotem\"",
+        "C": "\"z kluczem(ami) od bocznicy nazwa\"",
+        "D": "\"powrót z bocznicy nazwa\""
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 34 ust. 6 pkt 2 lit. a",
+      "section_ref": "§ 34"
+    },
+    {
+      "uuid": "b5f15171-c806-483c-8a64-35a075aaa0cc",
+      "question": "Kiedy posterunek pomocniczy przy bocznicy może zostać otwarty?",
+      "answers": {
+        "A": "gdy w jego kierunku został już wyprawiony pociąg bocznicowy",
+        "B": "gdy w jego kierunku nie został wyprawiony żaden pociąg ani nie dano pozwolenia na wyprawienie pociągu po torze odgałęziającym bocznicę, z wyjątkiem pociągu bocznicowego",
+        "C": "wyłącznie po uzgodnieniu z dyspozytorem ruchu właściwego odcinka linii kolejowej",
+        "D": "tylko po przyjeździe pociągu bocznicowego do miejsca odgałęzienia bocznicy"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 34 ust. 15",
+      "section_ref": "§ 34"
+    },
+    {
+      "uuid": "02a9c93b-5755-4ba3-aab5-0b2d5eced83e",
+      "question": "Przed otwarciem posterunku pomocniczego dyżurny ruchu tego posterunku powinien porozumieć się telefonicznie z:",
+      "answers": {
+        "A": "dyspozytorem ruchu całego odcinka",
+        "B": "dyżurnymi ruchu obu sąsiednich posterunków zapowiadawczych i stacji obsługującej",
+        "C": "kierownikiem pociągu bocznicowego i dyżurnym ruchu stacji obsługującej",
+        "D": "dyżurnymi ruchu posterunków odstępowych na danym szlaku"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 34 ust. 15",
+      "section_ref": "§ 34"
+    },
+    {
+      "uuid": "f994f951-4ce8-4625-b4b0-bb501a67d6c7",
+      "question": "Po otwarciu posterunku pomocniczego dyżurny ruchu nadaje telefonogram o otwarciu do:",
+      "answers": {
+        "A": "tylko do stacji obsługującej bocznicę",
+        "B": "tylko do jednego sąsiedniego posterunku zapowiadawczego",
+        "C": "dyżurnych ruchu obu sąsiednich posterunków zapowiadawczych i stacji obsługującej",
+        "D": "dyspozytora ruchu i obu sąsiednich posterunków zapowiadawczych"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 34 ust. 15",
+      "section_ref": "§ 34"
+    },
+    {
+      "uuid": "4337a7bd-c9c1-4927-9340-ee9de3f08cee",
+      "question": "Potwierdzenie przyjazdu pociągu na bocznicę (gdy przy bocznicy jest posterunek pomocniczy) nadaje:",
+      "answers": {
+        "A": "dyżurny ruchu stacji obsługującej do posterunku pomocniczego",
+        "B": "dyżurny ruchu posterunku pomocniczego do obu sąsiednich posterunków zapowiadawczych, po wjeździe pociągu na bocznicę i nastawieniu zwrotnic",
+        "C": "kierownik pociągu bocznicowego bezpośrednio do stacji obsługującej",
+        "D": "dyżurny ruchu posterunku zapowiadawczego wyprawiającego pociąg do posterunku pomocniczego"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 34 ust. 16 pkt 4",
+      "section_ref": "§ 34"
+    },
+    {
+      "uuid": "9e7dbd8f-bc49-4d59-8501-384db2ca1ba6",
+      "question": "Posterunek bocznicowy osłania semaforami:",
+      "answers": {
+        "A": "stację obsługującą bocznicę szlakową",
+        "B": "cały szlak, na którym odgałęzia się bocznica",
+        "C": "miejsce połączenia bocznicy z torami szlakowymi",
+        "D": "posterunek odstępowy sąsiedni w kierunku stacji obsługującej"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 34 ust. 24",
+      "section_ref": "§ 34"
+    },
+    {
+      "uuid": "73cc1e53-2b2d-491d-a5d5-6ccdc61faa7d",
+      "question": "W czasie zajęcia toru szlakowego przez pociąg bocznicowy lub manewrujący tabor, w przypadku gdy przy bocznicy jest posterunek bocznicowy, zamknięcia pomocnicze i tabliczki ostrzegawcze stosuje się:",
+      "answers": {
+        "A": "na obu sąsiednich posterunkach zapowiadawczych",
+        "B": "na tylnym posterunku zapowiadawczym",
+        "C": "wyłącznie na posterunku bocznicowym",
+        "D": "na wszystkich posterunkach ruchu na danym szlaku"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 34 ust. 28",
+      "section_ref": "§ 34"
+    },
+    {
+      "uuid": "80b3287a-8e18-4746-aac5-c93784d8a4ad",
+      "question": "Dopóki klucz od bocznicy nie zostanie zwrócony na stacji obsługującej lub na stacji sąsiedniej albo nie zostanie utwierdzony w urządzeniach srk przy bocznicy:",
+      "answers": {
+        "A": "nie wolno potwierdzać przyjazdu pociągu bocznicowego i tor szlakowy należy uważać za zajęty",
+        "B": "pociąg bocznicowy czeka na sygnał zastępczy przy odgałęzieniu bocznicy",
+        "C": "dyżurny ruchu wydaje rozkaz pisemny pozwalający na dalszą jazdę",
+        "D": "blokadę liniową obsługuje się na zasadach ogólnych bez ograniczeń"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 34 ust. 10",
+      "section_ref": "§ 34"
+    },
+    {
+      "uuid": "1e254d5b-10cb-47c6-b2a6-36b515a34551",
+      "question": "Wjazd i wyjazd pociągu bocznicowego na i z posterunku pomocniczego odbywa się na:",
+      "answers": {
+        "A": "sygnał zezwalający na semaforze wjazdowym",
+        "B": "rozkaz pisemny wydany przez dyżurnego ruchu posterunku pomocniczego",
+        "C": "sygnał zastępczy na semaforze wyjazdowym",
+        "D": "sygnał ręczny Rm 1 \"Do mnie\""
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 34 ust. 23",
+      "section_ref": "§ 34"
+    },
+    {
+      "uuid": "03f5bf12-7195-4a08-964d-b732b8ae32a8",
+      "question": "Jakim stopniem pierwszeństwa należy wyznaczyć pociąg utrzymaniowo-naprawczy jadący do usunięcia przerwy w ruchu pociągów lub gdy zdarzenie spowodowało ofiary w ludziach?",
+      "answers": {
+        "A": "Stopniem pierwszeństwa przewidzianym dla pociągu ekspresowego",
+        "B": "Stopniem pierwszeństwa przewidzianym dla pociągu ratunkowego",
+        "C": "Stopniem pierwszeństwa przewidzianym dla pociągu nadzwyczajnego",
+        "D": "Stopniem pierwszeństwa przewidzianym dla pociągu pospiesznego"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 35 ust. 1",
+      "section_ref": "§ 35"
+    },
+    {
+      "uuid": "86b6aff1-3577-408a-9580-46c36f3557d2",
+      "question": "Jak należy powiadomić obsadę pociągu utrzymaniowo-naprawczego o obowiązujących prędkościach jazdy na poszczególnych odcinkach linii kolejowych oraz obowiązujących ograniczeniach prędkości?",
+      "answers": {
+        "A": "Ustnie przez dyżurnego ruchu przed wyjazdem z posterunku zapowiadawczego",
+        "B": "Rozkazem pisemnym",
+        "C": "Telefonicznie przez dyspozytora liniowego",
+        "D": "Poprzez wpis do dziennika ruchu stacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 35 ust. 1",
+      "section_ref": "§ 35"
+    },
+    {
+      "uuid": "96eec425-9c65-4f6c-9b28-f17fd4e51c7e",
+      "question": "Co się dzieje z numerem pociągu roboczego, jeżeli pociąg ten pracuje nadal po północy?",
+      "answers": {
+        "A": "Pociąg otrzymuje nowy numer parzyty lub nieparzysty zależnie od kierunku jazdy po północy",
+        "B": "Pociąg nie zmienia numeru, a jego numeru nie wolno nadać żadnemu innemu pociągowi roboczemu wyprawionemu po północy na ten sam szlak",
+        "C": "Pociąg nie zmienia numeru, jednak po północy ten sam numer może być nadany kolejnemu pociągowi roboczemu na tym szlaku",
+        "D": "Pociąg otrzymuje numer pociągu utrzymaniowo-naprawczego i wraca na posterunek zapowiadawczy"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 35 ust. 2 pkt 2",
+      "section_ref": "§ 35"
+    },
+    {
+      "uuid": "4f12edee-3b8e-49db-92b4-400886233100",
+      "question": "Jak należy zabezpieczyć każdą grupę odczepionych pojazdów kolejowych przy rozłączeniu pociągu roboczego na szlaku?",
+      "answers": {
+        "A": "Przez zahamowanie hamulcem ręcznym lub postojowym albo płozami hamulcowymi i dozorowanie przez kierownika pociągu lub wyznaczonego przez niego pracownika",
+        "B": "Przez zahamowanie wyłącznie hamulcem pneumatycznym i dozorowanie przez maszynistę pojazdu trakcyjnego",
+        "C": "Przez zahamowanie płozami hamulcowymi bez konieczności dozorowania, jeśli pochylenie toru jest mniejsze niż 2,5‰",
+        "D": "Przez zahamowanie hamulcem ręcznym i dozorowanie przez dyżurnego ruchu najbliższego posterunku zapowiadawczego"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 35 ust. 6",
+      "section_ref": "§ 35"
+    },
+    {
+      "uuid": "32325cb0-52c7-4ee1-a10c-1f54af462a7a",
+      "question": "W jakich okolicznościach pociąg roboczy może wrócić na posterunek zapowiadawczy przed czasem przewidzianym w rozkazie pisemnym?",
+      "answers": {
+        "A": "Po uzyskaniu zgody dyspozytora liniowego drogą radiową",
+        "B": "Po porozumieniu się kierownika pociągu roboczego z właściwym dyżurnym ruchu",
+        "C": "Po samodzielnej decyzji maszynisty, jeśli szlak jest wolny od innych pociągów",
+        "D": "Po powiadomieniu dyspozytora liniowego i uzyskaniu pisemnego zezwolenia"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 35 ust. 8",
+      "section_ref": "§ 35"
+    },
+    {
+      "uuid": "45c05138-015b-41f1-97b2-a805052b26c1",
+      "question": "Kto po przyjeździe połączonych pociągów roboczych powinien upewnić się, czy przyjechały wszystkie pociągi robocze, które były wyprawione razem?",
+      "answers": {
+        "A": "Kierownik pierwszego pociągu roboczego",
+        "B": "Dyspozytor liniowy",
+        "C": "Dyżurny ruchu",
+        "D": "Maszynista pojazdu trakcyjnego pierwszego pociągu"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 35 ust. 9",
+      "section_ref": "§ 35"
+    },
+    {
+      "uuid": "35d35ca0-0f53-4c03-bbde-f245c169cf41",
+      "question": "Kto nadaje numer, relację i stopień pierwszeństwa pociągowi ratunkowemu wyprawionemu bez wewnętrznego rozkładu jazdy?",
+      "answers": {
+        "A": "Dyżurny ruchu stacji uruchomienia pociągu",
+        "B": "Dyspozytor liniowy",
+        "C": "Maszynista pociągu ratunkowego",
+        "D": "Właściwy kierownik służby ratowniczej"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 36 ust. 5",
+      "section_ref": "§ 36"
+    },
+    {
+      "uuid": "0a82ea25-7159-439e-8d2a-b9718fafcd7e",
+      "question": "Które z poniższych pojazdów lub służb można w razie potrzeby wyprawić na zasadach pociągu ratunkowego?",
+      "answers": {
+        "A": "Pogotowia techniczne: sieciowe i drogowe",
+        "B": "Pociągi pasażerskie skierowane na objazd",
+        "C": "Pojazdy drogowe zarządcy infrastruktury",
+        "D": "Pociągi towarowe z ładunkami niebezpiecznymi"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 36 ust. 8 pkt 1",
+      "section_ref": "§ 36"
+    },
+    {
+      "uuid": "cdbf8c65-1d8f-4b51-87e5-fa495f9bbabd",
+      "question": "Dla ilu szlaków przeznaczona jest każda strona dziennika ruchu dla posterunku zapowiadawczego?",
+      "answers": {
+        "A": "Dla dwóch szlaków lub odstępów jednocześnie",
+        "B": "Dla jednego szlaku względnie odstępu",
+        "C": "Dla wszystkich szlaków przyległych do posterunku",
+        "D": "Dla jednego lub dwóch szlaków, według uznania dyżurnego ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 37 ust. 2",
+      "section_ref": "§ 37"
+    },
+    {
+      "uuid": "02a47257-d96a-4af2-82b9-ebe4012a59dd",
+      "question": "Jeśli dziennik ruchu posterunku zapowiadawczego przeznaczony jest tylko dla jednego szlaku, w jakiej kolejności należy zapisywać strony?",
+      "answers": {
+        "A": "Najpierw stronę prawą, a następnie lewą",
+        "B": "Strony zapisuje się naprzemiennie, zaczynając od lewej lub prawej według decyzji dyżurnego",
+        "C": "Najpierw stronę lewą, a następnie prawą",
+        "D": "Obie strony jednocześnie, zaczynając od góry każdej stronicy"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 37 ust. 2",
+      "section_ref": "§ 37"
+    },
+    {
+      "uuid": "fae8b634-6e5f-4710-b8bc-0db03316c2fe",
+      "question": "Gdzie powinny znajdować się dzienniki ruchu na posterunku zapowiadawczym?",
+      "answers": {
+        "A": "W szafie zamykanej na klucz w pomieszczeniu dyżurnego ruchu",
+        "B": "Na biurku kierownika stacji, w zasięgu dyżurnego ruchu",
+        "C": "W miejscu najdogodniejszym dla dyżurnego ruchu",
+        "D": "W miejscu wskazanym przez zarząd kolei, niezależnie od wygody dyżurnego"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 37 ust. 3",
+      "section_ref": "§ 37"
+    },
+    {
+      "uuid": "1d173c09-9925-4257-a9f8-9630156279f1",
+      "question": "Dla jakiego szlaku (odstępu) powinna być przeznaczona lewa strona dziennika ruchu, jeśli jest to możliwe?",
+      "answers": {
+        "A": "Dla szlaku (odstępu) z większą liczbą pociągów",
+        "B": "Dla szlaku (odstępu) znajdującego się z lewej strony biurka dyżurnego ruchu",
+        "C": "Dla szlaku (odstępu) głównego, wskazanego w regulaminie technicznym",
+        "D": "Dla szlaku (odstępu) znajdującego się po prawej stronie biurka dyżurnego ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 37 ust. 3",
+      "section_ref": "§ 37"
+    },
+    {
+      "uuid": "c295ab2c-ed17-46b6-b7f8-2769c7b813d2",
+      "question": "Co notuje się w rubryce 4 dziennika ruchu dla posterunku zapowiadawczego?",
+      "answers": {
+        "A": "Czas podany w telefonogramie zawierającym oznajmienie odjazdu pociągu lub wjazd na tor szlakowy PSD",
+        "B": "Czas nadania względnie czas odebrania telefonogramu zawierającego danie pozwolenia na wyprawienie pociągu, wykonanie manewrów, wjazd na tor szlakowy PSD",
+        "C": "Czas podany w telefonogramie zawierającym potwierdzenie przyjazdu pociągu lub czas zakończenia manewrów",
+        "D": "Numery pociągów lub wyraz manewry, zajmując oddzielny wiersz dla każdego pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 37 ust. 7 pkt 4",
+      "section_ref": "§ 37"
+    },
+    {
+      "uuid": "29982e2c-022c-4b61-86da-d7c9230155d3",
+      "question": "Co notuje się w rubryce 5 dziennika ruchu dla posterunku zapowiadawczego?",
+      "answers": {
+        "A": "Czas nadania względnie odebrania telefonogramu zawierającego danie pozwolenia na wyprawienie pociągu",
+        "B": "Numery torów stacyjnych, na które przyjmuje się lub z których wyprawia się pociąg",
+        "C": "Czas podany w telefonogramie zawierającym potwierdzenie przyjazdu pociągu lub czas zakończenia manewrów",
+        "D": "Czas podany w telefonogramie zawierającym oznajmienie odjazdu pociągu lub wjazdu na tor szlakowy PSD"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 37 ust. 7 pkt 5",
+      "section_ref": "§ 37"
+    },
+    {
+      "uuid": "751a6707-d888-4d66-b9c2-d03173696f55",
+      "question": "Co notuje się w rubryce 8 dziennika ruchu dla posterunku zapowiadawczego?",
+      "answers": {
+        "A": "Uzupełnienie informacji o numerze pociągu oraz treści telefonogramów zapowiadawczych zanotowanych w rubrykach 4-6",
+        "B": "Zawiadomienie dróżników przejazdowych o jeździe pociągu",
+        "C": "Wyraz Stój i czas nadania względnie odebrania telefonogramu zapowiadawczego",
+        "D": "Inne okoliczności mające znaczenie dla bezpieczeństwa ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 37 ust. 7 pkt 7",
+      "section_ref": "§ 37"
+    },
+    {
+      "uuid": "af983e14-71ce-4929-92d6-a9d76a684ec6",
+      "question": "Jak należy przyjęcie i przekazanie dyżuru notować w dzienniku ruchu przeznaczonym dla jednego szlaku (odstępu)?",
+      "answers": {
+        "A": "Przez obie stronice dziennika ruchu",
+        "B": "W oddzielnym rejestrze dyżurów dołączonym do dziennika ruchu",
+        "C": "Przez szerokość stronicy dziennika ruchu",
+        "D": "W rubryce 7 bieżącej stronicy, w pierwszym wolnym wierszu"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 37 ust. 12 pkt 2",
+      "section_ref": "§ 37"
+    },
+    {
+      "uuid": "16aeb057-0039-4c04-8ee0-6f4fe4d9318a",
+      "question": "Jak dyżurny ruchu na posterunku odstępowym (bocznicowym) postępuje, gdy wyprawiony pociąg jedzie do kilometra na szlaku i ma powrócić na stację wyprawienia?",
+      "answers": {
+        "A": "Potwierdza przyjazd pociągu w rubryce 6 i oczekuje na powrót pociągu",
+        "B": "Nie potwierdza przyjazdu pociągu, lecz zakreskuje rubryki 6, 7 i 9, a po powrocie pociągu notuje otrzymane potwierdzenie przyjazdu w sposób wskazany dla popychacza",
+        "C": "Wpisuje potwierdzenie przyjazdu w rubryce 6 dopiero po powrocie pociągu na stację wyprawienia",
+        "D": "Zakreskuje rubryki 4 i 5, a potwierdzenie wpisuje po telefonicznym uzgodnieniu z dyżurnym ruchu stacji wyprawienia"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 37 ust. 16",
+      "section_ref": "§ 37"
+    },
+    {
+      "uuid": "7311b914-ad38-42f0-b816-469345efb861",
+      "question": "Kiedy dyżurny ruchu żąda pozwolenia na wyprawienie kilku pociągów bezpośrednio po sobie, kiedy wpisuje ich numery do rubryki 1 lub 2?",
+      "answers": {
+        "A": "Po nadaniu telefonogramu z żądaniem pozwolenia, w kolejności przybycia pociągów",
+        "B": "Przed nadaniem telefonogramu żądania pozwolenia, wpisując każdy numer w oddzielnym wierszu w kolejności zamierzonego wyprawienia",
+        "C": "Po otrzymaniu pozwolenia od sąsiadującego posterunku, równocześnie dla wszystkich pociągów w jednym wierszu",
+        "D": "Bezpośrednio przed odjazdem każdego pociągu z posterunku, pojedynczo"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 37 ust. 8",
+      "section_ref": "§ 37"
+    },
+    {
+      "uuid": "ab42ea33-0658-4985-9bfd-bc92d8d5582f",
+      "question": "W jakich przypadkach dyżurny ruchu może prowadzić ruch pociągów po torach głównych nieposiadających zorganizowanych przebiegów dla danego kierunku jazdy?",
+      "answers": {
+        "A": "Wyłącznie gdy masa pociągu przekracza 3/4 obciążenia lokomotywy",
+        "B": "W razie zakłóceń w ruchu, stosując się do postanowień regulaminu technicznego i § 44",
+        "C": "Wyłącznie po uzyskaniu pisemnej zgody zarządcy infrastruktury",
+        "D": "Gdy pociąg nie ma wyznaczonego toru w wyciągu z wewnętrznego rozkładu jazdy"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 38 ust. 1",
+      "section_ref": "§ 38"
+    },
+    {
+      "uuid": "a44b7cc2-3602-4cf7-af80-4da5cb38e464",
+      "question": "W jakich przypadkach można wyprawić pociąg towarowy lub lokomotywę z toru bocznego podczas zakłóceń wynikających z czasowego ograniczenia przepustowości stacji (np. roboty nawierzchniowe)?",
+      "answers": {
+        "A": "Wyłącznie gdy opóźnienie pociągu przekracza 30 minut",
+        "B": "Wyłącznie w przypadku wypadku lub uszkodzenia torów głównych",
+        "C": "Jeżeli zasady takich jazd zostały określone w regulaminie tymczasowym prowadzenia ruchu pociągów podczas robót",
+        "D": "Gdy masa pociągu towarowego nie przekracza 3/4 obciążenia obsługującej go lokomotywy"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 38 ust. 1",
+      "section_ref": "§ 38"
+    },
+    {
+      "uuid": "8ddae01f-470b-4825-b39c-b136125b46fa",
+      "question": "Kto ustala tor dla pociągu, dla którego nie wyznaczono toru na stacji ani w wyciągu z wewnętrznego rozkładu jazdy ani w zarządzeniu o jego uruchomieniu?",
+      "answers": {
+        "A": "Nastawniczy po konsultacji z dyżurnym ruchu",
+        "B": "Dyżurny ruchu, stosując się do postanowień paragrafu o wyznaczaniu torów",
+        "C": "Maszynista pociągu, w oparciu o regulamin techniczny",
+        "D": "Rewident taboru po ustaleniu długości składu pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 38 ust. 2",
+      "section_ref": "§ 38"
+    },
+    {
+      "uuid": "099e2066-a2d5-4194-8446-45456cbbaacb",
+      "question": "Kiedy jest zbędne zatrzymanie pociągu przez dyżurnego ruchu przed semaforem wjazdowym przy zmianie toru wjazdowego, jeżeli w okręgu zwrotnicowym obowiązuje zmniejszona prędkość?",
+      "answers": {
+        "A": "Gdy pociąg jest pociągiem towarowym z prędkością powyżej 50 km/h",
+        "B": "Gdy ze względów miejscowych w obrębie wjazdowej drogi przebiegu obowiązuje zmniejszenie prędkości do 40 km/h lub poniżej",
+        "C": "Gdy pociąg nie przewozi towarów niebezpiecznych ani TWR",
+        "D": "Gdy masa pociągu towarowego wynosi mniej niż 3/4 obciążenia obsługującej go lokomotywy"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 38 ust. 3 pkt 3",
+      "section_ref": "§ 38"
+    },
+    {
+      "uuid": "e4df45c2-12dd-40eb-840e-e624be0d1e24",
+      "question": "Kiedy jest zbędne zatrzymanie pociągu przed semaforem wjazdowym przy zmianie toru, jeżeli bezpośrednio przed semaforem znajduje się wzniesienie?",
+      "answers": {
+        "A": "Gdy wzniesienie jest większe niż 6‰ na długości drogi hamowania i regulamin techniczny zezwala na niezatrzymywanie ciężkich pociągów towarowych",
+        "B": "Gdy wzniesienie jest większe niż 3‰ na długości drogi hamowania i pociąg nie jest towarowy",
+        "C": "Gdy wzniesienie jest mniejsze niż 6‰ na całej długości toru wjazdowego",
+        "D": "Gdy wzniesienie jest większe niż 4‰ i masa pociągu nie przekracza połowy obciążenia lokomotywy"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 38 ust. 3 pkt 4",
+      "section_ref": "§ 38"
+    },
+    {
+      "uuid": "03a8fc3a-e60a-42a7-a0e4-83438c86ad66",
+      "question": "Jak traktuje się pociąg, który nie ma ustalonego toru wjazdowego w wyciągu z wewnętrznego rozkładu jazdy i ma być przyjęty na tor główny dodatkowy?",
+      "answers": {
+        "A": "Jako pociąg, dla którego zachodzi konieczność zmiany toru wjazdowego",
+        "B": "Jako pociąg przyjmowany na tor boczny w razie wypadku",
+        "C": "Jako pociąg przyjmowany na tor częściowo zajęty",
+        "D": "Jako pociąg mający nieprzewidziany postój na stacji"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 38 ust. 4",
+      "section_ref": "§ 38"
+    },
+    {
+      "uuid": "f03cd84c-53f2-495d-b56c-978a2f5ed791",
+      "question": "Po jakich torach powinien odbywać się przejazd pociągów przez stację bez zatrzymania?",
+      "answers": {
+        "A": "Po torach bocznych wskazanych przez dyżurnego ruchu w zarządzeniu doraźnym",
+        "B": "Po wyznaczonych torach głównych, po których istnieją przebiegi bez zatrzymania ujęte w regulaminie technicznym",
+        "C": "Po torach głównych dodatkowych wyznaczonych w wyciągu z wewnętrznego rozkładu jazdy",
+        "D": "Po torach z peronem, z prędkością do 50 km/h"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 38 ust. 7",
+      "section_ref": "§ 38"
+    },
+    {
+      "uuid": "e8f3cb96-37e2-42f7-91af-050f0065cc02",
+      "question": "Po jakich torach powinien odbywać się ruch pociągów z towarami niebezpiecznymi, TWR lub przesyłkami nadzwyczajnymi?",
+      "answers": {
+        "A": "Po torach głównych zasadniczych, wyłącznie w godzinach nocnych",
+        "B": "Po torach wyznaczonych w wyciągu z wewnętrznego rozkładu jazdy pociągów",
+        "C": "Po torach wskazanych w regulaminie technicznym albo w doraźnym zarządzeniu",
+        "D": "Po torach z peronem, z prędkością nie przekraczającą 20 km/h"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 38 ust. 8",
+      "section_ref": "§ 38"
+    },
+    {
+      "uuid": "8206339c-3907-4bef-bc17-7852286b4daa",
+      "question": "Co powinien zrobić nastawniczy, który otrzymał polecenie nastawienia drogi przebiegu innego niż przewiduje wyciąg z wewnętrznego rozkładu jazdy, a nie był wcześniej zawiadomiony o zmianie toru?",
+      "answers": {
+        "A": "Wykonać polecenie bez zbędnej zwłoki, aby nie opóźniać pociągu",
+        "B": "Przed nastawieniem przebiegu wyjaśnić z dyżurnym ruchu, czy nie zaszła pomyłka",
+        "C": "Odmówić wykonania polecenia do czasu otrzymania pisemnego zarządzenia",
+        "D": "Zawiadomić rewizora technicznego i czekać na jego decyzję"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 38 ust. 11",
+      "section_ref": "§ 38"
+    },
+    {
+      "uuid": "55023da0-9cfb-4f8b-aa3b-bbe3924ace5c",
+      "question": "Kiedy należy zawiadomić maszynistę o zmianie toru wyznaczonego w wyciągu z wewnętrznego rozkładu jazdy pociągów?",
+      "answers": {
+        "A": "Zawsze, bez względu na długość peronu przy zmienionym torze",
+        "B": "Tylko wtedy, gdy pociąg przewozi towary niebezpieczne lub TWR",
+        "C": "Gdy długość peronu przy zmienionym torze jest krótsza od długości pociągu pasażerskiego z wyznaczonym postojem",
+        "D": "Gdy prędkość wjazdu pociągu na zmieniony tor przekracza 50 km/h"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 38 ust. 11",
+      "section_ref": "§ 38"
+    },
+    {
+      "uuid": "6a20405c-434f-4df4-a6c4-61376ff07278",
+      "question": "Co oznacza polecenie przygotowania drogi przebiegu wydane pracownikom biorącym udział w jej przygotowaniu, w odniesieniu do sprawdzenia toru?",
+      "answers": {
+        "A": "Jest wyłącznie poleceniem nastawienia i zamknięcia zwrotnic oraz wykolejnic",
+        "B": "Jest jednocześnie poleceniem sprawdzenia, czy tor jest wolny i czy nie ma przeszkód do jazdy, przerwania zagrażających pociągowi manewrów, nastawienia i zamknięcia zwrotnic, wykolejnic i innych urządzeń srk oraz sprawdzenia ich położenia",
+        "C": "Jest wyłącznie poleceniem przerwania manewrów zagrażających pociągowi",
+        "D": "Jest wyłącznie poleceniem sprawdzenia niezajętości torów na planie świetlnym lub pulpicie nastawczym"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 39 ust. 3",
+      "section_ref": "§ 39"
+    },
+    {
+      "uuid": "ffdfd3b7-498b-48f9-adf9-95115369f53b",
+      "question": "Po upewnieniu się o czym dyżurny ruchu daje polecenie przygotowania drogi przebiegu?",
+      "answers": {
+        "A": "Po upewnieniu się, że wszystkie posterunki techniczne są obsadzone i gotowe do działania",
+        "B": "Po upewnieniu się, że semafor wyjazdowy wyświetla sygnał 'Stój'",
+        "C": "Po upewnieniu się, że tor dla jazdy pociągu jest wolny od przeszkód",
+        "D": "Po upewnieniu się, że w regulaminie technicznym wskazano odpowiednie posterunki techniczne"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 39 ust. 5",
+      "section_ref": "§ 39"
+    },
+    {
+      "uuid": "c4096a35-47d5-46dd-9829-28185d008757",
+      "question": "W jakim czasie należy dawać polecenie przygotowania drogi przebiegu?",
+      "answers": {
+        "A": "Niezwłocznie po otrzymaniu zgłoszenia gotowości pociągu do odjazdu ze stacji poprzedniej",
+        "B": "W takim czasie, aby sygnał zezwalający na jazdę pociągu mógł być podany we właściwym czasie",
+        "C": "Nie wcześniej niż 10 minut przed planowym przyjazdem lub odjazdem pociągu",
+        "D": "Równocześnie z wydaniem sygnału zezwalającego na jazdę pociągu na semaforze"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 39 ust. 5",
+      "section_ref": "§ 39"
+    },
+    {
+      "uuid": "1b04f3ca-e121-429c-a26f-7fccf9a80991",
+      "question": "Co dyżurny ruchu robi na posterunku zapowiadawczym z prawidłowo działającą blokadą stacyjną oraz zależnością sygnału od zwrotnic i wykolejnic, zanim obsłuży urządzenia blokady?",
+      "answers": {
+        "A": "Wydaje polecenie pisemne wszystkim posterunkom technicznym biorącym udział w przygotowaniu drogi przebiegu",
+        "B": "Informuje pracowników biorących udział w przygotowaniu drogi przebiegu o numerze pociągu, kierunku jazdy i numerze toru",
+        "C": "Sprawdza niezajętość torów wyłącznie bezpośrednio w terenie lub z okna nastawni",
+        "D": "Wydaje ustne polecenie przerwania manewrów wszystkim posterunkom nastawczym"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 39 ust. 6",
+      "section_ref": "§ 39"
+    },
+    {
+      "uuid": "5aca4b74-13bc-45d4-a132-baec6eb6d121",
+      "question": "Co oznacza obsłużenie odpowiednich urządzeń blokady stacyjnej przez dyżurnego ruchu na posterunku zapowiadawczym z prawidłowo działającą blokadą stacyjną?",
+      "answers": {
+        "A": "Jest to wyłącznie polecenie nastawienia zwrotnic i wykolejnic dla danej drogi przebiegu",
+        "B": "Jest to polecenie przygotowania drogi przebiegu, a zarazem polecenie nastawienia sygnału zastępczego na semaforze",
+        "C": "Jest to polecenie przygotowania drogi przebiegu, co jest równocześnie poleceniem podania na semaforze sygnału zezwalającego na jazdę",
+        "D": "Jest to wyłącznie potwierdzenie gotowości dyżurnego ruchu do przyjęcia zgłoszenia o przygotowaniu drogi przebiegu"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 39 ust. 6",
+      "section_ref": "§ 39"
+    },
+    {
+      "uuid": "7bb952e0-8a8e-4b29-abb4-031931ce8196",
+      "question": "Co oznacza dla pracownika biorącego udział w przygotowaniu drogi przebiegu otrzymanie informacji o numerze pociągu, kierunku jazdy i numerze toru, gdy nie obsługuje żadnych urządzeń srk?",
+      "answers": {
+        "A": "Polecenie podania sygnału zezwalającego na semaforze",
+        "B": "Polecenie przerwania manewrów i nastawienia wykolejnic ochronnych",
+        "C": "Polecenie sprawdzenia drogi przebiegu lub tylko sprawdzenia jej",
+        "D": "Polecenie przygotowania drogi przebiegu lub tylko sprawdzenia jej"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 39 ust. 6",
+      "section_ref": "§ 39"
+    },
+    {
+      "uuid": "d5ab6079-c04a-47cb-9184-62162b28ccc8",
+      "question": "Jakiego zakresu torów może dotyczyć system ANP w zależności od konfiguracji na danym posterunku?",
+      "answers": {
+        "A": "Wyłącznie torów głównych dodatkowych lub jednocześnie torów głównych dodatkowych i bocznych",
+        "B": "Wyłącznie torów bocznych lub jednocześnie torów bocznych i głównych zasadniczych",
+        "C": "Tylko torów głównych zasadniczych lub torów głównych zasadniczych i torów głównych dodatkowych",
+        "D": "Wyłącznie torów szlakowych lub jednocześnie torów szlakowych i stacyjnych głównych"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 39 ust. 6b",
+      "section_ref": "§ 39"
+    },
+    {
+      "uuid": "b081bda0-251a-4632-9dd0-bfe95319a2ac",
+      "question": "Co polega sprawdzeniu niezajętości torów i rozjazdów na planie świetlnym, pulpicie nastawczym lub komputerowym?",
+      "answers": {
+        "A": "Możliwe zawsze, niezależnie od stanu urządzeń kontrolujących niezajętość",
+        "B": "Możliwe wyłącznie dla torów głównych zasadniczych wyposażonych w czujniki osiowe",
+        "C": "Możliwe dla torów i rozjazdów wyposażonych w urządzenia kontrolujące stan ich niezajętości, przy bezawaryjnym działaniu tych urządzeń",
+        "D": "Możliwe wyłącznie po uzyskaniu pisemnego potwierdzenia od nastawniczego odpowiedzialnego za dany rejon"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 39 ust. 3 pkt 3",
+      "section_ref": "§ 39"
+    },
+    {
+      "uuid": "1bed973b-cd2c-4cd6-a63c-fd4a5b31b87a",
+      "question": "Czy dyżurny ruchu zwolniony jest ze śledzenia i regulowania ruchu pociągów po nastawieniu urządzeń na samoczynność semaforów?",
+      "answers": {
+        "A": "Tak, może przekazać nadzór nad ruchem nastawniczemu nastawni dysponującej",
+        "B": "Nie, nastawienie urządzeń na samoczynność semaforów nie zwalnia dyżurnego ruchu od śledzenia i regulowania ruchu pociągów",
+        "C": "Tak, jest zwolniony do chwili gdy jakiś pociąg wjedzie na odcinek z samoczynną sygnalizacją",
+        "D": "Tak, jest zwolniony, gdy na planie świetlnym nie jest wykazana zajętość żadnego odcinka"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 39 ust. 6a",
+      "section_ref": "§ 39"
+    },
+    {
+      "uuid": "2839e173-cde9-47a5-8fe9-e4dfa271e642",
+      "question": "Jak dyżurny ruchu powinien postąpić w razie grożącego niebezpieczeństwa przy semaforze przełączonym na samoczynność?",
+      "answers": {
+        "A": "Wyłączyć samoczynność semaforów i czekać na potwierdzenie od nastawniczego",
+        "B": "Natychmiast zmienić sygnał zezwalający na semaforze na sygnał 'Stój'",
+        "C": "Powiadomić nastawniczego nastawni wykonawczej i oczekiwać na jego decyzję",
+        "D": "Wyłączyć zasilanie urządzeń srk w zagrożonym rejonie"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 39 ust. 6a",
+      "section_ref": "§ 39"
+    },
+    {
+      "uuid": "ed4c8f8a-a3c6-4798-a290-c39005b8c4c4",
+      "question": "Co należy uczynić z taborem znajdującym się na drodze przebiegu po otrzymaniu polecenia przygotowania drogi przebiegu?",
+      "answers": {
+        "A": "Przetransportować tabor na tor boczny i powiadomić dyżurnego ruchu o jego nowym położeniu",
+        "B": "Usunąć tabor z drogi przebiegu pociągu i przerwać manewry",
+        "C": "Zabezpieczyć tabor sygnałem zastępczym i ograniczyć prędkość pociągu",
+        "D": "Zamknąć tabor na hamulec postojowy i zgłosić gotowość do przejazdu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 40 ust. 2 pkt 1",
+      "section_ref": "§ 40"
+    },
+    {
+      "uuid": "0ad08324-022c-42b8-b86a-e77c34c220d8",
+      "question": "Co należy sprawdzić w odniesieniu do taboru na sąsiednich torach przy przygotowaniu drogi przebiegu?",
+      "answers": {
+        "A": "Czy tabor na sąsiednich torach posiada sprawne hamulce i sygnał końca pociągu",
+        "B": "Czy tabor na sąsiednich torach nie przekracza dopuszczalnej skrajni ładunkowej",
+        "C": "Czy tabor na sąsiednich torach został zabezpieczony przed przetoczeniem się w drogę przebiegu",
+        "D": "Czy tabor na sąsiednich torach jest unieruchomiony klinami przez zwrotniczego"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 40 ust. 2 pkt 3",
+      "section_ref": "§ 40"
+    },
+    {
+      "uuid": "cb7be515-dabb-459d-9df6-2c914ff690ec",
+      "question": "Czego należy upewnić się w odniesieniu do przejazdów kolejowo-drogowych i obsługiwanych przejść przy przygotowaniu drogi przebiegu?",
+      "answers": {
+        "A": "Że przejazdy kolejowo-drogowe są wyposażone w sprawne sygnały i rogatki",
+        "B": "Że obsługa przejazdów kolejowo-drogowych jest powiadomiona o trasie i prędkości pociągu",
+        "C": "Że przejazdy kolejowo-drogowe i obsługiwane przejścia w obrębie obsługiwanego i nadzorowanego okręgu są zabezpieczone",
+        "D": "Że przejazdy kolejowo-drogowe są zamknięte przez pracownika drogowego przed podaniem sygnału odjazdu"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 40 ust. 2 pkt 5",
+      "section_ref": "§ 40"
+    },
+    {
+      "uuid": "950df9c6-256c-464f-bc61-fc874bb779fa",
+      "question": "Według jakich postanowień powinna odbywać się obsługa urządzeń sterowania ruchem?",
+      "answers": {
+        "A": "Według postanowień regulaminu technicznego zatwierdzonego przez PKP PLK S.A.",
+        "B": "Według postanowień instrukcji obsługi serii Ie i producenta opracowanej dla danego posterunku ruchu i regulaminu technicznego",
+        "C": "Według postanowień ogólnych przepisów bhp i instrukcji producenta urządzeń srk",
+        "D": "Według postanowień planu techniczno-eksploatacyjnego i zarządzenia zarządcy infrastruktury"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 40 ust. 3",
+      "section_ref": "§ 40"
+    },
+    {
+      "uuid": "3ec6423d-d20b-4765-b555-a384f97c93f2",
+      "question": "Jak należy zabezpieczyć zwrotnice i wykolejnice niescentralizowane zamykane na zamki, gdy brak zależności semafora?",
+      "answers": {
+        "A": "Zamknąć je i strzec przed przestawieniem aż do przejazdu pociągu",
+        "B": "Zamknąć je, a wszystkie właściwe klucze umieścić na tablicy kontrolnej u dyżurnego ruchu lub starszego zwrotniczego",
+        "C": "Zamknąć je drążkiem przebiegowym i przekazać klucze do nastawni",
+        "D": "Zamknąć je i zaryglować z nastawni, a następnie wyłączyć prąd nastawczy"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 40 ust. 5 pkt 2",
+      "section_ref": "§ 40"
+    },
+    {
+      "uuid": "ddd7b57d-0c68-4271-a072-a3b6f7d7c44b",
+      "question": "Jak należy zabezpieczyć zwrotnice i wykolejnice, jeśli ich klucze są zamykane drążkiem lub kluczem przebiegowym, gdy brak zależności semafora?",
+      "answers": {
+        "A": "Klucze od zamków zwrotnicowych i wykolejnicowych umieścić na tablicy kontrolnej u dyżurnego ruchu lub starszego zwrotniczego",
+        "B": "Zwrotnice strzec przed przestawieniem od czasu sprawdzenia nastawienia aż do przejazdu pociągu",
+        "C": "Klucze od zamków zwrotnicowych i wykolejnicowych umieścić w skrzyni lub w zamku zależności i zamknąć je kluczem lub drążkiem przebiegowym",
+        "D": "Klucze od zamków zwrotnicowych i wykolejnicowych uzależnić w nastawni i zamknąć drążkiem przebiegowym z nastawcy"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 40 ust. 5 pkt 3",
+      "section_ref": "§ 40"
+    },
+    {
+      "uuid": "d66e6fe2-8d88-4dee-979f-5f7c82faa2d8",
+      "question": "Co należy zrobić ze zwrotnicą nieryglowaną wyłączoną ze scentralizowanego nastawiania przy nieprzewidzianym wyłączeniu, jeśli założenie zamka zwrotnicowego spowodowałoby opóźnienie pociągu?",
+      "answers": {
+        "A": "Zamknąć ją na zamek zwrotnicowy, a klucz uzależnić zgodnie z regulaminem technicznym",
+        "B": "Strzec ją przed przestawieniem od czasu sprawdzenia nastawienia aż do przejazdu pociągu",
+        "C": "Zamknąć ją drążkiem przebiegowym i zgłosić usterkę dyżurnemu ruchu",
+        "D": "Zamknąć ją sponą iglicową"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 40 ust. 7 pkt 8",
+      "section_ref": "§ 40"
+    },
+    {
+      "uuid": "f64a9428-1479-4ced-aa74-610daf1ca1ea",
+      "question": "W jaki sposób pracownicy biorący udział w przygotowaniu drogi przebiegu pociągu w przydzielonym okręgu składają zgłoszenie o przygotowaniu tej drogi, gdy dostępne są odpowiednie urządzenia srk?",
+      "answers": {
+        "A": "Telefonicznie do dyżurnego ruchu, niezależnie od dostępności urządzeń srk",
+        "B": "Za pomocą odpowiednich urządzeń srk (bloków zgody)",
+        "C": "Ustnie do dyżurnego ruchu pełniącego dyżur na nastawni dysponującej",
+        "D": "Pisemnie, wpisując zapis do książki zgłoszeń przed nastawieniem sygnału"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 41 ust. 6",
+      "section_ref": "§ 41"
+    },
+    {
+      "uuid": "85fa3e9e-44fb-453e-9492-c92008fe9233",
+      "question": "Jak zgłasza o przygotowaniu drogi przebiegu nastawniczy pełniący dyżur na nastawni dysponującej, gdy nie ma urządzeń srk ani bloku nakazu?",
+      "answers": {
+        "A": "Telefonicznie do dyżurnego ruchu dysponującego",
+        "B": "Ustnie",
+        "C": "Za pomocą bloku nakazu",
+        "D": "Przez nastawienie sygnału zezwalającego, co jest jedynym wymaganym potwierdzeniem"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 41 ust. 6",
+      "section_ref": "§ 41"
+    },
+    {
+      "uuid": "6ae521d1-b0a2-4d9d-b3c9-b4e2cff878b4",
+      "question": "Czy nastawniczy, który polecenie nastawienia sygnału zezwalającego na jazdę otrzymał za pomocą bloku nakazu, jest zobowiązany złożyć osobny meldunek o przygotowaniu drogi przebiegu?",
+      "answers": {
+        "A": "Tak, zawsze musi złożyć meldunek telefonicznie przed nastawieniem sygnału",
+        "B": "Tak, ale wyłącznie gdy droga przebiegu nie jest uzależniona od wskazań semafora",
+        "C": "Nie, nastawienie sygnału zezwalającego na semaforze oznacza równocześnie, że droga przebiegu została przygotowana",
+        "D": "Nie, ale musi powiadomić dyżurnego ruchu za pomocą urządzeń blokady stacyjnej"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 41 ust. 6",
+      "section_ref": "§ 41"
+    },
+    {
+      "uuid": "fb26c5fc-ff54-411d-94e5-555e0a64b88e",
+      "question": "Jaka jest wymagana forma telefonicznego zgłoszenia o przygotowaniu drogi wjazdowej dla pociągu?",
+      "answers": {
+        "A": "\"Dla pociągu nr tor nr jest wolny\"",
+        "B": "\"Droga przebiegu dla pociągu nr z toru nr jest gotowa\"",
+        "C": "\"Wjazd pociągu nr z [nazwa posterunku ruchu] na tor nr przygotowany\"",
+        "D": "\"Pociąg nr, tor nr, droga przebiegu sprawdzona i zabezpieczona\""
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 41 ust. 6",
+      "section_ref": "§ 41"
+    },
+    {
+      "uuid": "df74f528-92b7-40db-ad59-4d8b2b11583e",
+      "question": "Co należy podać dyżurnemu ruchu przy zgłoszeniu o przygotowaniu drogi przebiegu, gdy jazda pociągu ma się odbywać na sygnał zastępczy?",
+      "answers": {
+        "A": "Wyłącznie numer pociągu i numer toru, bez podawania stanu zwrotnic",
+        "B": "Czas planowanego wjazdu lub wyjazdu pociągu oraz numer drogi przebiegu",
+        "C": "Położenie poszczególnych zwrotnic i wykolejnic wchodzących w przebieg oraz ochronnych",
+        "D": "Informację o sprawności wszystkich urządzeń srk na drodze przebiegu pociągu"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 41 ust. 7",
+      "section_ref": "§ 41"
+    },
+    {
+      "uuid": "f76bb91c-e31d-45a2-9835-309978a70b38",
+      "question": "W jakiej formie dyżurny ruchu daje nastawniczemu telefoniczne polecenie podania sygnału zezwalającego na semaforze wjazdowym?",
+      "answers": {
+        "A": "\"Dla pociągu nr z nazwa posterunku ruchu na tor nr dać sygnał zezwalający na semaforze wjazdowym\"",
+        "B": "\"Pociąg nr może wjechać na tor nr, nastawić sygnał zezwalający na semaforze wjazdowym\"",
+        "C": "\"Tor nr jest wolny, dać sygnał zezwalający dla pociągu nr z kierunku nazwa posterunku ruchu\"",
+        "D": "\"Na polecenie kierownika stacji, dla pociągu nr, nastawić semafor wjazdowy na sygnał zezwalający\""
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 42 ust. 5",
+      "section_ref": "§ 42"
+    },
+    {
+      "uuid": "afd8ed1a-832f-4af2-b9e1-18d12e9f95fc",
+      "question": "W jakiej formie dyżurny ruchu daje nastawniczemu telefoniczne polecenie podania sygnału zezwalającego na semaforze wyjazdowym?",
+      "answers": {
+        "A": "\"Pociąg nr odjeżdża na tor nr w kierunku nazwa posterunku ruchu, nastawić semafor wyjazdowy\"",
+        "B": "\"Dla pociągu nr do nazwa posterunku ruchu z toru nr dać sygnał zezwalający na semaforze wyjazdowym\"",
+        "C": "\"Tor nr jest wolny, dla pociągu nr w kierunku nazwa posterunku ruchu, nastawić sygnał zezwalający\"",
+        "D": "\"Pociąg nr gotowy do odjazdu z toru nr, dać sygnał zezwalający na semaforze wyjazdowym\""
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 42 ust. 5",
+      "section_ref": "§ 42"
+    },
+    {
+      "uuid": "2245f553-f37e-460b-a41c-d85990d5ccc0",
+      "question": "Po otrzymaniu jakich zgłoszeń dyżurny ruchu podaje sygnał zezwalający na semaforze lub poleca go podać?",
+      "answers": {
+        "A": "Po otrzymaniu zgłoszeń o przygotowaniu drogi przebiegu i po sprawdzeniu tej drogi we własnym okręgu, jeżeli spełnione są wszystkie wymagane warunki i zbliża się pociąg lub czas jego odjazdu",
+        "B": "Po otrzymaniu telefonicznego potwierdzenia od maszynisty o gotowości pociągu do jazdy i sprawdzeniu drogi przebiegu",
+        "C": "Wyłącznie po otrzymaniu zgłoszenia od nastawniczego o przygotowaniu drogi przebiegu w całym okręgu stacyjnym",
+        "D": "Po otrzymaniu pisemnego potwierdzenia od drużyny pociągowej i sprawdzeniu drogi przebiegu we własnym okręgu"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 42 ust. 6",
+      "section_ref": "§ 42"
+    },
+    {
+      "uuid": "0399cbab-b1e8-4ba5-916d-d89a210ea5db",
+      "question": "Kto może obsługiwać aparat blokowy, dźwignię sygnałową, przyciski sygnałowe, sygnały zastępcze i kluczową skrzynię zależności na nastawni dysponującej?",
+      "answers": {
+        "A": "Dyżurny ruchu dysponujący lub wyznaczony nastawniczy",
+        "B": "Wyłącznie dyżurny ruchu dysponujący",
+        "C": "Pracownik wyznaczony regulaminem technicznym na polecenie dyżurnego ruchu",
+        "D": "Dyżurny ruchu dysponujący lub kierownik stacji w przypadku jego nieobecności"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 42 ust. 7",
+      "section_ref": "§ 42"
+    },
+    {
+      "uuid": "d28beb7b-c711-4e63-8749-7d72541b7280",
+      "question": "Co może być dopuszczone regulaminem technicznym w odniesieniu do semafora wyjazdowego dla pociągu mającego rozkładowy postój na stacji?",
+      "answers": {
+        "A": "Podanie sygnału zezwalającego na semaforze wyjazdowym przed przyjazdem pociągu, gdy droga przebiegu jest przygotowana",
+        "B": "Wcześniejsze podanie polecenia na nastawienie sygnału zezwalającego lub nastawienie tego sygnału przed zatrzymaniem się pociągu",
+        "C": "Jednoczesne nastawienie sygnałów zezwalających na semaforach wjazdowym i wyjazdowym",
+        "D": "Podanie sygnału zezwalającego na semaforze wyjazdowym po otrzymaniu zgody od maszynisty, przed zatrzymaniem pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 42 ust. 9",
+      "section_ref": "§ 42"
+    },
+    {
+      "uuid": "f4cdc73e-f55f-4436-8c43-898bede69ba4",
+      "question": "Kiedy nie obowiązuje zasada podania sygnału zezwalającego na semaforze wyjazdowym przed sygnałem na semaforze wjazdowym i drogowskazowym?",
+      "answers": {
+        "A": "Gdy pociąg ma rozkładowy postój na stacji lub gdy czas odjazdu jest odległy",
+        "B": "Gdy przed semaforem wyjazdowym w odległości drogi hamowania znajduje się tarcza ostrzegawcza do tego semafora lub gdy semafor wjazdowy lub drogowskazowy wskazuje jaki sygnał jest na semaforze wyjazdowym",
+        "C": "Gdy wyjazd ze stacji jest wolny i semafor wyjazdowy wskazuje sygnał zezwalający od dłuższego czasu",
+        "D": "Gdy pociąg przejeżdża przez stację bez postoju i kierownik stacji wyraził zgodę na zmianę kolejności"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 42 ust. 10",
+      "section_ref": "§ 42"
+    },
+    {
+      "uuid": "f6e1d452-f027-4e53-80ff-858c978b03bc",
+      "question": "W jakim wyjątkowym przypadku semafor wjazdowy i semafor wyjazdowy grupowy mogą równocześnie wskazywać sygnał zezwalający na przejazd pociągu przez stację bez zatrzymania?",
+      "answers": {
+        "A": "Gdy pociąg jedzie z prędkością mniejszą niż wynika ze wskazań semaforów i drużyna pociągowa została uprzedzona",
+        "B": "Gdy droga przebiegu jest całkowicie przygotowana i dyżurny ruchu dysponujący dał telefoniczne polecenie",
+        "C": "Gdy przy torach, do których semafor wyjazdowy grupowy się odnosi, znajdują się tarcze zaporowe ustawione na maszcie o normalnej wysokości i są uzależnione z tym semaforem",
+        "D": "Gdy regulamin techniczny stacji dopuszcza jednoczesne wskazanie sygnału zezwalającego przez oba semafory"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 42 ust. 11",
+      "section_ref": "§ 42"
+    },
+    {
+      "uuid": "e81baf36-5dca-4368-87df-6dcd0e0882ac",
+      "question": "Co powinien zrobić pracownik obsługujący semafor przy jednoosobowej obsadzie nastawni, gdy musi ją opuścić w sytuacji konieczności zapobieżenia grożącemu niebezpieczeństwu ruchu?",
+      "answers": {
+        "A": "Zmienić sygnał na \"Stój\", zamknąć drzwi nastawni i powiadomić dyżurnego ruchu o opuszczeniu nastawni",
+        "B": "Zamknąć drzwi pomieszczenia nastawni i zabrać klucz",
+        "C": "Powiadomić dyżurnego ruchu, poczekać na zastępstwo i dopiero wtedy opuścić nastawni",
+        "D": "Zamknąć drzwi nastawni, zabrać klucz i natychmiast po powrocie zmienić sygnał na \"Stój\""
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 42 ust. 13",
+      "section_ref": "§ 42"
+    },
+    {
+      "uuid": "ee4624bd-97bf-485e-b95e-25c15e2efd73",
+      "question": "Co należy zrobić, gdy po zmianie sygnału semafora wjazdowego lub drogowskazowego na \"Stój\" pociąg minął już tarczę ostrzegawczą lub przedni semafor świetlny?",
+      "answers": {
+        "A": "Wysłać pracownika z sygnałem zatrzymania w kierunku pociągu i powiadomić kierownika stacji",
+        "B": "Niezwłocznie powiadomić maszynistę o zmianie sygnału za pomocą urządzeń łączności lub w inny dostępny sposób",
+        "C": "Powiadomić maszynistę telefonicznie wyłącznie za pośrednictwem dyżurnego ruchu stacji sąsiedniej",
+        "D": "Wystawić sygnały ręczne \"Stój\" na torze i powiadomić maszynistę przez radiotelefon"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 42 ust. 14",
+      "section_ref": "§ 42"
+    },
+    {
+      "uuid": "6c9cde1f-2404-4d71-8db9-ffda16b96444",
+      "question": "Jak powinien postąpić nastawniczy na stacji z blokadą stacyjną bez przymusu zwrotu nakazu, jeśli nie otrzymał telefonicznego polecenia od dyżurnego ruchu?",
+      "answers": {
+        "A": "Może nastawić sygnał zezwalający, jeśli droga przebiegu jest przygotowana i urządzenie dania nakazu zostało obsłużone",
+        "B": "Może nastawić sygnał zezwalający po telefonicznym uzgodnieniu z dyżurnym ruchu stacji sąsiedniej",
+        "C": "Nie wolno mu nastawić sygnału zezwalającego na semaforze",
+        "D": "Może nastawić sygnał zezwalający, jeśli informacja o nakazie została zapisana w książce przebiegów"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 42 ust. 16 pkt 2",
+      "section_ref": "§ 42"
+    },
+    {
+      "uuid": "a730066d-606e-4195-b34b-5a2516ac3f9c",
+      "question": "Co powinien zrobić dyżurny ruchu, gdy po zmianie sygnału zezwalającego na sygnał \"Stój\" zajdzie konieczność przestawienia zwrotnic lub wykolejnic celem zapobieżenia wypadkowi lub zmniejszenia jego skutków?",
+      "answers": {
+        "A": "Może zarządzić rozwiązanie drogi przebiegu dopiero po zatrzymaniu się pociągu przed semaforem",
+        "B": "Może zarządzić rozwiązanie drogi przebiegu przed zatrzymaniem się pociągu przed semaforem",
+        "C": "Musi czekać na polecenie nastawniczego przed rozwiązaniem drogi przebiegu",
+        "D": "Może zarządzić rozwiązanie drogi przebiegu wyłącznie po uzyskaniu zgody maszynisty"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 47 ust. 2",
+      "section_ref": "§ 47"
+    },
+    {
+      "uuid": "d337308c-004c-4932-b03d-a869337a6296",
+      "question": "Kogo nastawniczy powinien niezwłocznie zawiadomić po samodzielnym rozwiązaniu drogi przebiegu w razie nagle grożącego niebezpieczeństwa?",
+      "answers": {
+        "A": "Maszynistę zatrzymywanego pociągu",
+        "B": "Dyżurnego ruchu tylnego posterunku następczego",
+        "C": "Dyżurnego ruchu",
+        "D": "Kierownika pociągu"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 47 ust. 2",
+      "section_ref": "§ 47"
+    },
+    {
+      "uuid": "3ee73148-96f7-48c7-ba15-0911711761e9",
+      "question": "Gdy pociąg zatrzymał się tak, że jego czoło minęło obsługiwany semafor, lecz koniec pociągu nie minął sygnałowego miejsca końca pociągu, a semafor wskazywał sygnał zezwalający — co należy zrobić, gdy ustała przeszkoda do jazdy, a semafor umożliwia zmianę sygnału?",
+      "answers": {
+        "A": "Nastawić sygnał zastępczy i powiadomić dyżurnego ruchu",
+        "B": "Zmienić sygnał zezwalający na sygnał \"Stój\" i ponownie go nastawić",
+        "C": "Nie wolno zmieniać sygnału zezwalającego na sygnał \"Stój\"",
+        "D": "Potwierdzić przyjazd pociągu dyżurnemu ruchu tylnego posterunku następczego"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 47 ust. 5 pkt 1",
+      "section_ref": "§ 47"
+    },
+    {
+      "uuid": "3ba75a7c-ce0b-446f-91c1-bfb1d0814de7",
+      "question": "Gdy pociąg zatrzymał się tak, że czoło minęło obsługiwany semafor, lecz koniec pociągu nie minął sygnałowego miejsca końca pociągu, a zaistniała konieczność zmiany sygnału zezwalającego na \"Stój\" — co należy zrobić po ustaniu przeszkody, jeśli urządzenia pozwalają na powtórne ustawienie sygnału zezwalającego?",
+      "answers": {
+        "A": "Wydać rozkaz pisemny maszyniście",
+        "B": "Nastawić sygnał zastępczy",
+        "C": "Z powrotem nastawić sygnał zezwalający",
+        "D": "Wprowadzić telefoniczne zapowiadanie pociągów"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 47 ust. 5 pkt 2",
+      "section_ref": "§ 47"
+    },
+    {
+      "uuid": "00c88d33-e513-49fa-995b-45fe755cbc91",
+      "question": "Gdy pociąg zatrzymał się tak, że czoło minęło semafor, lecz koniec pociągu nie minął sygnałowego miejsca końca pociągu, a na semaforze nie był nastawiony sygnał zezwalający — kiedy można nastawić sygnał zezwalający, jeśli jest blokada liniowa?",
+      "answers": {
+        "A": "Gdy dyżurny ruchu wyda ustne polecenie przez radiotelefon",
+        "B": "Gdy co najmniej jedna oś pociągu przejedzie przez odcinek izolowany elektrycznej zastawki liniowej",
+        "C": "Gdy cały skład pociągu minie sygnałowe miejsce końca pociągu",
+        "D": "Gdy maszynista potwierdzi gotowość do dalszej jazdy"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 47 ust. 5 pkt 3",
+      "section_ref": "§ 47"
+    },
+    {
+      "uuid": "f429151e-5252-4c4a-957c-d23c81bf1eb6",
+      "question": "Co należy zrobić w przypadkach, gdy pociąg zatrzymał się tak, że czoło minęło semafor, lecz koniec nie minął sygnałowego miejsca końca pociągu — czy wolno potwierdzić przyjazd pociągu?",
+      "answers": {
+        "A": "Tak, potwierdzenie przyjazdu jest możliwe natychmiast po zatrzymaniu pociągu",
+        "B": "Tak, ale tylko po uzyskaniu zgody dyżurnego ruchu tylnego posterunku następczego",
+        "C": "Nie wolno; należy zawiadomić dyżurnego ruchu tylnego posterunku następczego o zatrzymaniu pociągu",
+        "D": "Nie wolno; należy zawiadomić maszynistę i czekać na jego dyspozycję"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 47 ust. 5",
+      "section_ref": "§ 47"
+    },
+    {
+      "uuid": "ea066871-cb4c-4a8f-83fc-abd474300791",
+      "question": "Co nastawniczy powinien zrobić natychmiast po stwierdzeniu, że wskutek nieprawidłowego działania urządzeń nie można podać sygnału \"Stój\" na semaforze?",
+      "answers": {
+        "A": "Samodzielnie ustawić sygnał D 1 \"Stój\" bezpośrednio przed semaforem",
+        "B": "Zawiadomić maszynistów pociągów znajdujących się na szlaku",
+        "C": "Zgłosić o tym dyżurnemu ruchu",
+        "D": "Wprowadzić telefoniczne zapowiadanie pociągów"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 47 ust. 7 pkt 1",
+      "section_ref": "§ 47"
+    },
+    {
+      "uuid": "8e0b6c73-2a77-4932-b558-36b9f51dd4fc",
+      "question": "Co powinien uczynić dyżurny ruchu po otrzymaniu od nastawniczego zgłoszenia o niemożności podania sygnału \"Stój\" na semaforze?",
+      "answers": {
+        "A": "Niezwłocznie zawiadomić maszynistów pociągów na szlaku o konieczności zatrzymania się przed tym semaforem",
+        "B": "Niezwłocznie wydać rozkazy pisemne wszystkim pociągom znajdującym się na stacji",
+        "C": "Niezwłocznie wprowadzić telefoniczne zapowiadanie pociągów i zawiadomić dyżurnego ruchu posterunku następczego",
+        "D": "Niezwłocznie zatrzymać ruch na szlaku i zawiadomić centrum sterowania ruchem"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 47 ust. 7 pkt 2",
+      "section_ref": "§ 47"
+    },
+    {
+      "uuid": "0a250198-7364-490b-a147-35f45999252f",
+      "question": "Po ujawnieniu nienastawienia się sygnału \"Stój\" na semaforze wjazdowym, odstępowym lub wyjazdowym — jaki dodatkowy tryb pracy należy wprowadzić?",
+      "answers": {
+        "A": "Ruch jednostronny na szlaku",
+        "B": "Telefoniczne zapowiadanie pociągów",
+        "C": "Wyłączną kontrolę sygnałów przez dyżurnego ruchu centralnego",
+        "D": "Ręczne sterowanie wszystkimi semaforami na szlaku"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 47 ust. 7 pkt 4",
+      "section_ref": "§ 47"
+    },
+    {
+      "uuid": "2bb084f2-e1c1-469b-86eb-9d0b9dd19d00",
+      "question": "Co należy zrobić, gdy po przejeździe pociągu przez miejsce oddziaływania na sprzęgło elektryczne ramienia semafora, ramię to nie opadnie samoczynnie w położenie odpowiadające sygnałowi \"Stój\"?",
+      "answers": {
+        "A": "Pozostawić semafor w dotychczasowym stanie i zawiadomić maszynistę następnego pociągu",
+        "B": "Cofnąć dźwignię sygnałową w położenie \"Stój\", wprowadzić telefoniczne zapowiadanie pociągów i obsłużyć blokadę",
+        "C": "Natychmiast wyłączyć zasilanie urządzeń srk i wezwać służby techniczne",
+        "D": "Cofnąć dźwignię sygnałową w położenie \"Stój\" i czekać na polecenie dyżurnego ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 47 ust. 10",
+      "section_ref": "§ 47"
+    },
+    {
+      "uuid": "bbe0b676-6055-4023-8dc2-0408cacda2bc",
+      "question": "Co należy zrobić z pociągiem, który ma przewidziany przejazd bez zatrzymania, jeżeli wymagają tego względy techniczno-ruchowe?",
+      "answers": {
+        "A": "Przepuścić pociąg bez zatrzymania, informując maszynistę o zmienionej organizacji ruchu przez radio.",
+        "B": "Zatrzymać pociąg na posterunku ruchu.",
+        "C": "Skierować pociąg na tor dodatkowy bez zatrzymania.",
+        "D": "Wydać rozkaz pisemny maszyniście na poprzedniej stacji."
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 48 ust. 1",
+      "section_ref": "§ 48"
+    },
+    {
+      "uuid": "1c2793a2-a791-4b37-bed1-170b7e9e5670",
+      "question": "Kiedy dyżurny ruchu podaje sygnał zezwalający na semaforze wjazdowym dla pociągu zatrzymywanego nieprzewidzianie z przyczyn techniczno-ruchowych?",
+      "answers": {
+        "A": "Przed podaniem informacji maszyniście o zmianie organizacji ruchu.",
+        "B": "Natychmiast po otrzymaniu polecenia od dyspozytora.",
+        "C": "Dopiero po nawiązaniu łączności przez maszynistę lub po samodzielnym powiadomieniu go o zmienionej organizacji ruchu.",
+        "D": "Po uprzednim zatrzymaniu pociągu przed semaforem wyjazdowym."
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 48 ust. 1",
+      "section_ref": "§ 48"
+    },
+    {
+      "uuid": "6da1988a-7eac-43d3-aee9-5e6a9a02e971",
+      "question": "W jakich przypadkach należy zatrzymać pociąg w razie wypadku kolejowego, pożaru lub niebezpieczeństwa?",
+      "answers": {
+        "A": "Wyłącznie gdy poleci to dyżurny ruchu przez łączność radiową.",
+        "B": "Tylko gdy wymagają tego postanowienia wewnętrznego rozkładu jazdy.",
+        "C": "W celu usunięcia zagrożenia albo udzielenia pomocy.",
+        "D": "Wyłącznie w przypadku wypadku kolejowego zagrażającego życiu pasażerów."
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 48 ust. 2",
+      "section_ref": "§ 48"
+    },
+    {
+      "uuid": "e65dffc1-997b-465f-a9f3-5ca500af9420",
+      "question": "Kto zarządza nieprzewidziane zatrzymanie pociągu z przyczyn innych niż względy techniczno-ruchowe, wypadek kolejowy, pożar lub niebezpieczeństwo?",
+      "answers": {
+        "A": "Dyżurny ruchu stacji, na której pociąg ma się zatrzymać.",
+        "B": "Maszynista pociągu po otrzymaniu informacji od kierownika pociągu.",
+        "C": "Właściwy dyspozytor PKP PLK S.A.",
+        "D": "Naczelnik stacji po konsultacji z dyżurnym ruchu."
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 48 ust. 3",
+      "section_ref": "§ 48"
+    },
+    {
+      "uuid": "c75366ed-1540-459f-89b5-9ea89a7eb3f8",
+      "question": "W jaki sposób należy powiadomić drużynę pociągową o zarządzonym nieprzewidzianym zatrzymaniu pociągu z przyczyn innych niż techniczno-ruchowe lub zagrożenie?",
+      "answers": {
+        "A": "Przez łączność radiową z podaniem przyczyny postoju.",
+        "B": "Rozkazem pisemnym z podaniem przyczyny postoju.",
+        "C": "Sygnałem na semaforze wjazdowym z późniejszym potwierdzeniem pisemnym.",
+        "D": "Ustnie przez dyżurnego ruchu stacji zatrzymania."
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 48 ust. 3",
+      "section_ref": "§ 48"
+    },
+    {
+      "uuid": "59097a08-b89a-4dc6-8319-67582171b9c4",
+      "question": "Kiedy zatrzymanie pociągu przed semaforem wjazdowym jest zbędne, gdy pociąg nie ma rozkładowego postoju na stacji?",
+      "answers": {
+        "A": "Gdy maszynista zgłosił gotowość do wjazdu przez łączność radiową.",
+        "B": "Gdy prędkość pociągu nie przekracza 40 km/h.",
+        "C": "Gdy w wewnętrznym rozkładzie jazdy przewidziano postój w razie potrzeby.",
+        "D": "Gdy wyjazd ze stacji jest niezablokowany i tor jest wolny."
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 48 ust. 4 pkt 3",
+      "section_ref": "§ 48"
+    },
+    {
+      "uuid": "4923603c-1134-429d-884d-667ff2da3b19",
+      "question": "Przy jakim wzniesienia bezpośrednio przed semaforem wjazdowym ciężkie pociągi towarowe mogą być zwolnione z zatrzymania przed tym semaforem?",
+      "answers": {
+        "A": "Większym niż 4 ‰ na długości drogi hamowania.",
+        "B": "Większym niż 6 ‰ na długości drogi hamowania.",
+        "C": "Większym niż 8 ‰ na długości drogi hamowania.",
+        "D": "Większym niż 10 ‰ na długości drogi hamowania."
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 48 ust. 4 pkt 4",
+      "section_ref": "§ 48"
+    },
+    {
+      "uuid": "ba8d76b7-eaab-48d4-b212-45295f3d19e6",
+      "question": "Co należy ustawić w miejscu zatrzymania pociągu, jeżeli przy torze wjazdowym nie ma semafora wyjazdowego i zachodzą okoliczności przewidziane w pkt 3 lub 4 ust. 4?",
+      "answers": {
+        "A": "Sygnał świetlny wskazujący \"Stój\".",
+        "B": "Tarczę zatrzymania D 1 \"Stój\".",
+        "C": "Tarczę ostrzegawczą odnoszącą się do semafora wjazdowego.",
+        "D": "Chorągiewkę zatrzymania podawaną przez dyżurnego ruchu."
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 48 ust. 4 pkt 4",
+      "section_ref": "§ 48"
+    },
+    {
+      "uuid": "623143d2-e511-46ed-8284-7845e705b628",
+      "question": "Jakie warunki muszą być spełnione łącznie, aby pociąg mający rozkładowy postój na stacji mógł być przepuszczony bez postoju?",
+      "answers": {
+        "A": "Postój zbędny, brak wsiadania i wysiadania podróżnych, przejazd po drodze przebiegu przystosowanej do przejazdu bez zatrzymania, drużyna powiadomiona przez dyżurnego ruchu.",
+        "B": "Postój zbędny, przejazd po drodze przebiegu przystosowanej do przejazdu bez zatrzymania, zgoda dyspozytora PKP PLK S.A.",
+        "C": "Brak wsiadania i wysiadania podróżnych, przejazd po drodze przebiegu przystosowanej do przejazdu bez zatrzymania, rozkaz pisemny dla drużyny pociągowej.",
+        "D": "Postój zbędny, brak wsiadania i wysiadania podróżnych, pisemna zgoda dyspozytora, drużyna powiadomiona przez dyżurnego ruchu."
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 48 ust. 5",
+      "section_ref": "§ 48"
+    },
+    {
+      "uuid": "9dbdbf73-de69-4187-b07f-c2f97a9fe4f4",
+      "question": "Co należy zastosować, jeżeli przepuszczenie pociągu przez stację bez zatrzymania ma odbyć się przed czasem rozkładowym?",
+      "answers": {
+        "A": "Postanowienia § 48 ust. 4 dotyczące zatrzymania przed semaforem wjazdowym.",
+        "B": "Postanowienia § 51.",
+        "C": "Rozkaz pisemny z podaniem przyczyny wcześniejszego wyjazdu.",
+        "D": "Dodatkowe potwierdzenie od dyspozytora PKP PLK S.A."
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 48 ust. 5",
+      "section_ref": "§ 48"
+    },
+    {
+      "uuid": "5d7e3fc0-dcb5-4b74-89b9-f16a5e6516eb",
+      "question": "W jakim zakresie prowadzi książkę przebiegów dyżurny ruchu, gdy obowiązuje telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu?",
+      "answers": {
+        "A": "W skróconym zakresie",
+        "B": "W pełnym zakresie",
+        "C": "W zakresie rozszerzonym",
+        "D": "Nie prowadzi jej — obowiązek spoczywa na nastawniczym"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 49 ust. 4 pkt 1 lit. b",
+      "section_ref": "§ 49"
+    },
+    {
+      "uuid": "90860330-d888-4bbd-8233-fd6be4bce408",
+      "question": "W jakim zakresie prowadzi książkę przebiegów zwrotniczy, jeżeli telefonicznie zgłasza przygotowanie drogi przebiegu?",
+      "answers": {
+        "A": "W skróconym zakresie",
+        "B": "W zakresie ograniczonym",
+        "C": "W pełnym zakresie",
+        "D": "Nie prowadzi jej wcale"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 49 ust. 4 pkt 3",
+      "section_ref": "§ 49"
+    },
+    {
+      "uuid": "21843fb4-0534-4aeb-9e31-2525b7b62b95",
+      "question": "W jakim zakresie prowadzi książkę przebiegów pracownik posterunku stwierdzania końca pociągu, gdy bierze udział w przygotowaniu drogi przebiegu?",
+      "answers": {
+        "A": "W skróconym zakresie",
+        "B": "W pełnym zakresie",
+        "C": "W zakresie pośrednim",
+        "D": "Nie prowadzi jej — obowiązek należy do dyżurnego ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 49 ust. 4 pkt 5",
+      "section_ref": "§ 49"
+    },
+    {
+      "uuid": "b913a019-cfb6-4856-8923-5bb1111860a3",
+      "question": "Co pracownik opuszczający posterunek na polecenie dyżurnego ruchu lub za jego zgodą powinien odnotować w książce przebiegów?",
+      "answers": {
+        "A": "Numer pociągu, który jako ostatni wjechał na stację",
+        "B": "Godzinę i minutę wyjścia i powrotu na posterunek",
+        "C": "Powód opuszczenia posterunku oraz imię i nazwisko zastępcy",
+        "D": "Godzinę wyjścia oraz podpis dyżurnego ruchu zatwierdzający nieobecność"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 49 ust. 4",
+      "section_ref": "§ 49"
+    },
+    {
+      "uuid": "827695a3-a9c2-4e36-9089-d43849b1cee6",
+      "question": "Które rubryki wypełnia nastawniczy nastawni wykonawczej przy sprawnie działającej blokadzie stacyjnej, po otrzymaniu informacji o numerze pociągu, kierunku jazdy i numerze toru?",
+      "answers": {
+        "A": "Rubryki 1, 2, 3 oraz rubrykę 5",
+        "B": "Rubryki 1, 2, 3 oraz rubrykę 6",
+        "C": "Rubryki 1, 2, 3 oraz rubrykę 7",
+        "D": "Rubryki 1, 2, 3 oraz rubrykę 8"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 49 ust. 6",
+      "section_ref": "§ 49"
+    },
+    {
+      "uuid": "4bbce65f-33f0-407b-be8a-80828c41f783",
+      "question": "Co dyżurny ruchu wpisuje kolejno w rubryce 4 książki przebiegów, gdy obowiązuje telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu?",
+      "answers": {
+        "A": "Numery pociągów, które wjechały z sygnałem końca pociągu",
+        "B": "Skróty posterunków, które zgłosiły przygotowanie drogi przebiegu",
+        "C": "Czasy zablokowania bloków dania zgody przez kolejne nastawnie",
+        "D": "Numery torów wyznaczonych do wjazdu i wyjazdu kolejnych pociągów"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 49 ust. 7",
+      "section_ref": "§ 49"
+    },
+    {
+      "uuid": "42f58aea-dd6c-4205-898a-8558770b0756",
+      "question": "Gdzie dyżurny ruchu i nastawniczy notują telefoniczne polecenie podania sygnału zezwalającego na semaforze wjazdowym lub wyjazdowym?",
+      "answers": {
+        "A": "W rubryce 5 książki przebiegów",
+        "B": "W rubryce 7 książki przebiegów",
+        "C": "W rubryce 8 książki przebiegów",
+        "D": "W rubryce 6 książki przebiegów"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 49 ust. 7",
+      "section_ref": "§ 49"
+    },
+    {
+      "uuid": "4bf5642e-d88f-4cc1-997b-777ade7981fb",
+      "question": "Które rubryki książki przebiegów wypełnia pracownik wyznaczony tylko do sprawdzenia, czy tor jest wolny, lub zgłaszania wjazdu pociągu z sygnałem końca pociągu, jeżeli nie obsługuje urządzeń blokady stacyjnej?",
+      "answers": {
+        "A": "Rubryki 1, 2, 3, 4 i 5",
+        "B": "Rubryki 1, 2, 3, 5 i 7",
+        "C": "Rubryki 1, 2 i 3",
+        "D": "Rubryki 1, 2, 3 i 7"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 49 ust. 8",
+      "section_ref": "§ 49"
+    },
+    {
+      "uuid": "294613cb-1ad0-4cc7-9de2-90f2aa45dc05",
+      "question": "Gdzie pracownik posterunku technicznego notuje telefoniczne zgłoszenie o tym, że tor jest wolny?",
+      "answers": {
+        "A": "W rubryce 4 książki przebiegów",
+        "B": "W rubryce 5 książki przebiegów",
+        "C": "W rubryce 6 książki przebiegów",
+        "D": "W rubryce 7 książki przebiegów"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 49 ust. 8",
+      "section_ref": "§ 49"
+    },
+    {
+      "uuid": "a1ac741b-e5d1-41ed-84f3-494d3c885ebc",
+      "question": "Co należy zrobić z niezapisanymi wierszami na stronie książki przebiegów znajdującymi się przed zapisem wykonanym przez całą szerokość?",
+      "answers": {
+        "A": "Pozostawić je puste i nie dokonywać żadnych wpisów",
+        "B": "Wypełnić je kolejnymi numerami pociągów z następnej doby",
+        "C": "Zakreskować je",
+        "D": "Połączyć je z sąsiednią stroną i kontynuować wpisy"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 49 ust. 12",
+      "section_ref": "§ 49"
+    },
+    {
+      "uuid": "aa9b8113-f152-4fe5-a8f5-29e466b6d22d",
+      "question": "Co wchodzi w skład zamknięć pomocniczych?",
+      "answers": {
+        "A": "Kliny zastawcze do drążków przebiegowych i do dźwigni nastawczych, podpórki klawiszy blokowych, kapturki do przycisków i inne przyrządy ochronne odpowiednie do konstrukcji urządzeń srk",
+        "B": "Tabliczki ostrzegawcze, kontrolka zajętości torów wjazdowych oraz bloki przebiegowe utwierdzające",
+        "C": "Drążki przebiegowe, dźwignie zwrotnicowe oraz aparaty łącza zapowiadawczego stosowane w sytuacjach awaryjnych",
+        "D": "Bloki końcowe, bloki nakazu, bloki dania nakazu oraz klucze zgody na tor wjazdowy"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 50 ust. 2",
+      "section_ref": "§ 50"
+    },
+    {
+      "uuid": "6c1b89ac-cbc3-47d9-89e1-24051eb4d10c",
+      "question": "Jak zakłada się podpórki klawiszy blokowych?",
+      "answers": {
+        "A": "Pod klawisze blokowe, uniemożliwiając ich naciśnięcie w jakimkolwiek kierunku",
+        "B": "Pod klawisze blokowe, znajdujące się w położeniu zasadniczym (górnym)",
+        "C": "Na klawisze blokowe, blokując je w położeniu wciśniętym (dolnym)",
+        "D": "Na drążki przebiegowe, unieruchamiając je w położeniu zasadniczym lub przełożonym"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 50 ust. 2",
+      "section_ref": "§ 50"
+    },
+    {
+      "uuid": "3bd24eae-44e6-45d8-a239-c1d81e37f41a",
+      "question": "Gdzie zakłada się zamknięcie pomocnicze w celu uniemożliwienia wyprawienia pociągu ze stacji na linii dwutorowej?",
+      "answers": {
+        "A": "Na obu sąsiednich posterunkach zapowiadawczych dla danego toru szlakowego",
+        "B": "Tylko przy bloku końcowym na posterunku nastawczym dysponującym",
+        "C": "Na posterunku zapowiadawczym, który wyprawia pociągi na dany tor szlakowy",
+        "D": "Na wszystkich pośrednich posterunkach następczych przyległych do danego toru szlakowego"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 50 ust. 3 pkt 2",
+      "section_ref": "§ 50"
+    },
+    {
+      "uuid": "c6e3af21-72d3-4198-81d0-c15f6d051405",
+      "question": "Gdzie zakłada się zamknięcie pomocnicze w celu uniemożliwienia przepuszczenia pociągu przez posterunek odgałęźny lub odstępowy, gdy brak jest drążka przebiegowego?",
+      "answers": {
+        "A": "Na aparacie łącza zapowiadawczego, zawieszając tabliczkę ostrzegawczą z napisem \"Tor zajęty\"",
+        "B": "Na odnośnej dźwigni semafora, ustawionej w położeniu zasadniczym (sygnał \"Stój\")",
+        "C": "Przy bloku dania nakazu, uniemożliwiając jego odblokowanie przez dyżurnego ruchu",
+        "D": "Na klawiszach blokowych bloku końcowego, zakładając podpórki blokujące w położeniu górnym"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 50 ust. 3 pkt 3 lit. b",
+      "section_ref": "§ 50"
+    },
+    {
+      "uuid": "4ec4a3f3-e789-41c7-9187-6332b91ff359",
+      "question": "Jak stosuje się zamknięcia pomocnicze w urządzeniach srk z zobrazowaniem stanu na ekranie monitora?",
+      "answers": {
+        "A": "Poprzez założenie klinów zastawczych i kapturków na dźwigniach i przyciskach zgodnie z ust. 3, a na monitorze jedynie odnotowuje się fakt ich założenia",
+        "B": "Poprzez wybranie z klawiatury lub myszą właściwego polecenia z katalogu zamknięć pomocniczych odpowiadającego danej sytuacji ruchowej",
+        "C": "Poprzez pisemne polecenie dyżurnego ruchu skierowane do wszystkich nastawniczych biorących udział w prowadzeniu ruchu",
+        "D": "Poprzez telefoniczne powiadomienie posterunków sąsiednich i zawieszenie tabliczek ostrzegawczych na aparatach łącza zapowiadawczego"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 50 ust. 4",
+      "section_ref": "§ 50"
+    },
+    {
+      "uuid": "e80192e0-8f85-426c-abd0-557ae251f2d1",
+      "question": "Kiedy na stacjach posiadających plan świetlny (ekran monitora) wskazujący zajętość torów należy stosować środki pomocnicze przewidziane w razie zajęcia toru wjazdowego?",
+      "answers": {
+        "A": "Zawsze, niezależnie od stanu technicznego urządzeń wskazujących zajętość torów",
+        "B": "Wyłącznie na polecenie dyżurnego ruchu przekazane pisemnie lub telefonicznie do nastawniczych",
+        "C": "Tylko wówczas, gdy zachodzą przeszkody w należytym działaniu tych urządzeń lub wykonuje się roboty mogące mieć wpływ na ich działanie",
+        "D": "Tylko w przypadku pociągów zatrzymujących się na czas dłuższy niż 5 minut lub pozostawiających tabor na torze wjazdowym"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 50 ust. 7",
+      "section_ref": "§ 50"
+    },
+    {
+      "uuid": "0dabc2a3-2f71-49f0-a6f8-f6d6a343f332",
+      "question": "Jakie napisy mogą mieć tabliczki ostrzegawcze?",
+      "answers": {
+        "A": "\"Tor zajęty\", \"Tor zamknięty\", \"Ruch jednotorowy dwukierunkowy\", \"Trakcja elektryczna zabroniona\", \"Pojazd pomocniczy\" i inne określone w wykazie",
+        "B": "\"Tor zajęty\", \"Pociąg na szlaku\", \"Urządzenia srk niesprawne\", \"Zakaz przyjmowania pociągów\" i inne ustalane doraźnie przez dyżurnego ruchu",
+        "C": "\"Tor zamknięty\", \"Pojazd pomocniczy\", \"Uwaga! Manewry\", \"Zakaz wjazdu\" i inne określone w regulaminie technicznym",
+        "D": "\"Tor zajęty\", \"Blokada liniowa wyłączona\", \"Pojazd pomocniczy\", \"Zakaz obsługi zwrotnic\" i inne według instrukcji obsługi urządzeń srk"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 50 ust. 9",
+      "section_ref": "§ 50"
+    },
+    {
+      "uuid": "ea55ac68-1f79-42b8-bbab-4c09acd6801a",
+      "question": "Gdzie zawiesza się tabliczkę ostrzegawczą, gdy nie ma urządzenia srk, na którym wymagane jest założenie zamknięcia pomocniczego, a napis ma dotyczyć toru szlakowego?",
+      "answers": {
+        "A": "Na aparacie łącza stacyjno-ruchowego lub, gdy go nie ma, na aparacie łącza zapowiadawczego",
+        "B": "Na aparacie łącza zapowiadawczego, a na posterunku nastawczym bez łącza zapowiadawczego – na aparacie łącza stacyjno-ruchowego",
+        "C": "Na dźwigni semafora wjazdowego lub przy bloku dania nakazu, jeżeli wjazd odbywa się w okręgu nastawni wykonawczej",
+        "D": "Na aparacie łącza strażnicowego lub, gdy go nie ma, na aparacie łącza zapowiadawczego"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 50 ust. 10 pkt 1 lit. a",
+      "section_ref": "§ 50"
+    },
+    {
+      "uuid": "5e5dd907-e791-4aaf-9f40-03d0129f352f",
+      "question": "Kto powinien zawiadomić pracowników i polecić im zastosowanie środków pomocniczych, gdy okoliczności wymagające ich zastosowania mogą nie być tym pracownikom wiadome?",
+      "answers": {
+        "A": "Kierownik posterunku nastawczego, w okręgu którego zachodzi konieczność zastosowania środków",
+        "B": "Dyżurny ruchu",
+        "C": "Nastawniczy posterunku nastawczego dysponującego, odpowiedzialny za dany przebieg",
+        "D": "Pracownik, który jako pierwszy powziął wiadomość o okolicznościach wymagających zastosowania środków"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 50 ust. 12",
+      "section_ref": "§ 50"
+    },
+    {
+      "uuid": "fbfd26f0-a050-44c4-a526-fba2bc4f9329",
+      "question": "Gdzie zakłada się zamknięcia pomocnicze w celu uniemożliwienia przyjęcia pociągu na dany tor stacyjny, gdy dla pewnego przebiegu wjazdowego na nastawni dysponującej nie ma drążka przebiegowego?",
+      "answers": {
+        "A": "Na kluczach zgody na dany tor wjazdowy (nakładki) na nastawniach wykonawczych",
+        "B": "Na aparacie łącza zapowiadawczego na obu sąsiednich posterunkach zapowiadawczych",
+        "C": "Na dźwigni dotyczącego semafora wjazdowego lub przy bloku dania nakazu, jeżeli wjazd odbywa się w okręgu nastawni wykonawczej",
+        "D": "Na elementach nastawczych (dźwigniach przebiegowych, przyciskach lub przełącznikach) dotyczących wjazdów ze wszystkich kierunków na ten tor"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 50 ust. 3 pkt 4 lit. b",
+      "section_ref": "§ 50"
+    },
+    {
+      "uuid": "4d68cb5a-825a-4bda-9024-a91c55bd4f38",
+      "question": "Jakie warunki musi spełnić dyżurny ruchu przed zezwoleniem na wyjazd pociągu na tor szlakowy z ruchem dwukierunkowym, w odniesieniu do pociągu przeciwnego kierunku?",
+      "answers": {
+        "A": "Ostatni pociąg przeciwnego kierunku przyjechał w całości z sygnałem końca pociągu po torze, po którym prowadzi się ruch jednotorowy dwukierunkowy",
+        "B": "Dyżurny ruchu przedniego posterunku potwierdził odjazd ostatniego pociągu przeciwnego kierunku ze stacji",
+        "C": "Dyspozytor liniowy PKP PLK S.A. potwierdził, że żaden pociąg przeciwnego kierunku nie jest wyprawiony na dany szlak",
+        "D": "Maszynista ostatniego pociągu przeciwnego kierunku radiotelefonicznie zgłosił opuszczenie toru szlakowego"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 22 ust. 7 pkt 3",
+      "section_ref": "§ 22"
+    },
+    {
+      "uuid": "fb9d3cec-470a-423b-854b-76889da6b661",
+      "question": "W jakim przypadku dozwolone jest odstępstwo od jazdy po torze prawym na szlaku dwutorowym w związku z koniecznością powrotu pociągu lub pojazdu pomocniczego?",
+      "answers": {
+        "A": "Dla powrotu pociągu lub pojazdu pomocniczego wyprawionego do określonego miejsca na szlaku i z powrotem",
+        "B": "Dla powrotu pociągu lub pojazdu pomocniczego do macierzystego posterunku trakcyjnego po zakończeniu służby",
+        "C": "Dla powrotu pociągu lub pojazdu pomocniczego do stacji wyjściowej po wykonaniu zadania przewozowego",
+        "D": "Dla powrotu pociągu lub pojazdu pomocniczego wyłącznie po uzyskaniu zgody dyspozytora liniowego PKP PLK S.A."
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 22 ust. 1 pkt 5",
+      "section_ref": "§ 22"
+    },
+    {
+      "uuid": "e4932747-699e-492e-903f-59fce25bfdac",
+      "question": "Gdzie określone są zasady prowadzenia ruchu pociągów z wykorzystaniem systemu ERTMS/ETCS poziomu 2?",
+      "answers": {
+        "A": "W instrukcji Ir-1a",
+        "B": "W instrukcji Ir-1b",
+        "C": "W regulaminach technicznych zakładów linii kolejowych",
+        "D": "W umowach zawartych pomiędzy zarządcami infrastruktury"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 22 ust. 12",
+      "section_ref": "§ 22"
+    },
+    {
+      "uuid": "f7bbc86b-83e7-454c-8dca-0628dfa30497",
+      "question": "W jaki sposób może być realizowane telefoniczne żądanie i danie pozwolenia na wyprawienie pociągu, poza bezpośrednią rozmową telefoniczną?",
+      "answers": {
+        "A": "Wyłącznie za pomocą pisemnych telefonogramów przesyłanych faksem między dyżurnymi ruchu",
+        "B": "Za pomocą urządzeń technicznych umożliwiających wymianę komunikatów zapowiadawczych",
+        "C": "Wyłącznie za pomocą sygnałów optycznych przekazywanych między posterunkami ruchu",
+        "D": "Za pomocą systemu radiowego z nagrywaniem rozmów, pod warunkiem zatwierdzenia przez zarządcę infrastruktury"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 24 ust. 2",
+      "section_ref": "§ 24"
+    },
+    {
+      "uuid": "7cc1e3f9-a18b-411d-9a5d-9fb47b4615aa",
+      "question": "Jak brzmi telefonogram według wzoru nr 10, którym odwołuje się wstrzymanie wyprawiania pociągów ze szlaku dwutorowego?",
+      "answers": {
+        "A": "\"Nie wyprawiać pociągów od godz. min. aż do odwołania\"",
+        "B": "\"Dla pociągu nr droga jest wolna\"",
+        "C": "\"Wstrzymanie wyprawienia pociągów odwołuję o godz. min.\"",
+        "D": "\"Teraz dla pociągu nr droga jest wolna\""
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 24 ust. 18",
+      "section_ref": "§ 24"
+    },
+    {
+      "uuid": "34630608-0aa9-4c3c-8b63-f9707491d850",
+      "question": "Co należy podać oprócz telefonogramu odmownego według wzoru nr 5a lub 5b?",
+      "answers": {
+        "A": "Numer pociągu wyższego stopnia pierwszeństwa uniemożliwiającego przyjęcie",
+        "B": "Szacowany czas, po którym możliwe będzie przyjęcie pociągu",
+        "C": "Krótko przyczynę odmowy przyjęcia",
+        "D": "Potwierdzenie odebrania przez dyżurnych ruchu sąsiednich posterunków odstępowych"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 24 ust. 10",
+      "section_ref": "§ 24"
+    },
+    {
+      "uuid": "eb5b59c9-7e06-403a-b346-20cd7794a55e",
+      "question": "Kiedy nie wolno nadawać telefonogramu według wzoru nr 6b (powtórnego dania pozwolenia na kilka pociągów)?",
+      "answers": {
+        "A": "Gdy pociągi mają zatrzymać się na szlaku — wówczas zamiast wzoru nr 6b należy użyć wzoru nr 6a dla każdego pociągu osobno",
+        "B": "Gdy odmowa dania pozwolenia nastąpiła z powodu, że nie można przyjąć żadnej ilości pociągów lub w żądanej kolejności",
+        "C": "Gdy na szlaku działa dwukierunkowa blokada liniowa i wymagana jest najpierw obsługa urządzeń blokadowych",
+        "D": "Gdy czas od pierwotnej odmowy przekroczył 10 minut i wymagane jest złożenie nowego żądania według wzoru nr 1b"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 24 ust. 10",
+      "section_ref": "§ 24"
+    },
+    {
+      "uuid": "5db810d1-4ccc-490d-bd9d-84944033eadc",
+      "question": "Co dodaje się w telefonogramie zapowiadawczym po numerze pociągu, gdy pociąg przewozi towary niebezpieczne (nie wysokiego ryzyka)?",
+      "answers": {
+        "A": "\"z TWR\"",
+        "B": "\"z przesyłką nadzwyczajną\"",
+        "C": "\"z towarami niebezpiecznymi\"",
+        "D": "\"z postojem na kilometrze km minut min.\""
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 24 ust. 13",
+      "section_ref": "§ 24"
+    },
+    {
+      "uuid": "1e52fd5e-05ad-432c-82ae-e1bca63f3cd6",
+      "question": "Czym różni się uzgodnienie pozwolenia (między posterunkiem odgałęźnym a przednim posterunkiem zapowiadawczym) od samego dania pozwolenia na wyprawienie pociągu?",
+      "answers": {
+        "A": "Uzgodnienie ma tę samą moc prawną co danie pozwolenia — po jego uzyskaniu dyżurny ruchu posterunku odgałęźnego może niezwłocznie zezwolić na wyjazd pociągu na szlak jednotorowy",
+        "B": "Uzgodnienie nie jest daniem pozwolenia na wyprawienie pociągu",
+        "C": "Uzgodnienie różni się od dania pozwolenia wyłącznie formą — jest dokonywane pisemnie w księdze zapowiadawczej, natomiast danie pozwolenia realizowane jest telefonicznie lub za pomocą urządzeń blokadowych",
+        "D": "Uzgodnienie jest ważniejsze od dania pozwolenia i może je zastąpić, gdy przeszkody techniczne uniemożliwiają nadanie standardowego telefonogramu według wzoru nr 4a"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 24 ust. 17",
+      "section_ref": "§ 24"
+    },
+    {
+      "uuid": "c076ce2b-f182-4d93-9c84-9c8225f5d25c",
+      "question": "Na szlakach dwutorowych z jednoodstępową blokadą liniową, co jest podstawą prowadzenia ruchu pociągów?",
+      "answers": {
+        "A": "Telefoniczne żądanie i danie pozwolenia na wyprawienie pociągu",
+        "B": "Obsługa urządzeń blokady liniowej",
+        "C": "Telefoniczne zapowiadanie pociągów telefonogramem",
+        "D": "Pisemny rozkaz jazdy wydany przez dyżurnego ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 28 ust. 1",
+      "section_ref": "§ 28"
+    },
+    {
+      "uuid": "5a5eee36-fb9a-4f00-a961-a31407ac534d",
+      "question": "Komu dyżurny ruchu podaje telefoniczną informację o numerze pociągu na szlaku dwutorowym?",
+      "answers": {
+        "A": "Dyżurnemu ruchu każdego posterunku na szlaku",
+        "B": "Dyżurnemu ruchu tylnego posterunku następczego",
+        "C": "Dyżurnemu ruchu najbliższego przedniego posterunku następczego",
+        "D": "Maszyniście pociągu przez radiołączność"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 28 ust. 2",
+      "section_ref": "§ 28"
+    },
+    {
+      "uuid": "8aafc81d-2887-4491-b4aa-1cc69a3f75e1",
+      "question": "Czy na szlakach jednotorowych z jednoodstępową blokadą liniową można wyprawić pociąg bez telefonicznego żądania pozwolenia, jeśli blokada liniowa działa prawidłowo?",
+      "answers": {
+        "A": "Tak, gdy blokada liniowa działa prawidłowo, żądanie telefoniczne nie jest wymagane",
+        "B": "Tak, gdy maszynista wyrazi gotowość do odjazdu",
+        "C": "Nie, telefonicznego żądania pozwolenia na wyprawienie pociągu należy żądać niezależnie od stanu blokady liniowej",
+        "D": "Tak, gdy regulamin techniczny stacji tak przewiduje"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 28 ust. 3",
+      "section_ref": "§ 28"
+    },
+    {
+      "uuid": "5854d6bf-021d-4004-9cc0-a3539aadd3e4",
+      "question": "Jak powinien postąpić nastawniczy, gdy blok liniowy jest na nastawni wykonawczej, a nastawnia dysponująca nie ma powtarzacza tego bloku lub powtarzacz jest uszkodzony?",
+      "answers": {
+        "A": "Powinien obsługiwać blok samodzielnie bez informowania dyżurnego ruchu",
+        "B": "Powinien wyłączyć blok liniowy z eksploatacji",
+        "C": "O każdej zmianie stanu bloku liniowego powinien niezwłocznie zgłosić dyżurnemu ruchu",
+        "D": "Powinien wprowadzić telefoniczne zapowiadanie pociągów"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 28 ust. 7",
+      "section_ref": "§ 28"
+    },
+    {
+      "uuid": "5bd32e7f-f8f5-45d1-994f-8ceec235ab2e",
+      "question": "Co należy zrobić, gdy po nastawieniu sygnału zezwalającego na semaforze wyjazdowym na szlak jednotorowy zajdzie potrzeba odwołania wyjazdu pociągu i wyprawienia pociągu przeciwnego kierunku?",
+      "answers": {
+        "A": "Na semaforze wyjazdowym nastawić sygnał \"Stój\", a jeżeli urządzenia nie pozwalają na zmianę kierunku blokady – wprowadzić telefoniczne zapowiadanie",
+        "B": "Wyprawić pociąg przeciwnego kierunku bez zmiany sygnału na semaforze",
+        "C": "Zatrzymać pociąg na szlaku i zmienić kierunek jazdy",
+        "D": "Niezwłocznie powiadomić zarządcę infrastruktury"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 28 ust. 8",
+      "section_ref": "§ 28"
+    },
+    {
+      "uuid": "8e888a45-5983-4275-a121-3db774ca290e",
+      "question": "Co należy uczynić, jeśli blok początkowy odblokuje się przed upływem skróconego czasu jazdy pociągu do sąsiedniego posterunku?",
+      "answers": {
+        "A": "Upewnić się telefonicznie o przyjeździe pociągu do sąsiedniego posterunku",
+        "B": "Natychmiast wyprawić kolejny pociąg na szlak",
+        "C": "Wyłączyć blokadę liniową i przejść na telefoniczne zapowiadanie",
+        "D": "Zatrzymać ruch na szlaku i wezwać służby techniczne"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 28 ust. 13",
+      "section_ref": "§ 28"
+    },
+    {
+      "uuid": "4f9927dd-1af8-4633-b9a0-37661b701da1",
+      "question": "Co należy zrobić, gdy blok początkowy odblokuje się przed zablokowaniem bloku końcowego lub przed przyjazdem pociągu do sąsiedniego posterunku?",
+      "answers": {
+        "A": "Obsługiwać blokadę liniową pomocniczo i powiadomić nadzór",
+        "B": "Natychmiast wstrzymać ruch na całym szlaku",
+        "C": "Wprowadzić telefoniczne zapowiadanie pociągów i zastosować środki pomocnicze, a blokadę liniową obsługiwać pomocniczo",
+        "D": "Zablokować blok końcowy ręcznie i kontynuować ruch"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 28 ust. 13",
+      "section_ref": "§ 28"
+    },
+    {
+      "uuid": "95dfd472-c1a4-4f90-a11a-8e726f63520e",
+      "question": "Jaką podstawę prowadzenia ruchu stosuje się, gdy obowiązuje telefoniczne zapowiadanie pociągów na szlaku z jednoodstępową blokadą liniową?",
+      "answers": {
+        "A": "Telefoniczne zapowiadanie pociągów, a urządzenia blokady liniowej obsługuje się pomocniczo gdy jest to możliwe",
+        "B": "Wyłącznie urządzenia blokady liniowej",
+        "C": "Pisemne rozkazy jazdy wydawane przez dyżurnego ruchu",
+        "D": "Radiołączność z maszynistami pociągów"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 28 ust. 18",
+      "section_ref": "§ 28"
+    },
+    {
+      "uuid": "ce323bcc-8d89-40d1-99bf-8d5ec67cd81d",
+      "question": "Kiedy wolno odwołać telefoniczne zapowiadanie pociągów na szlaku jednotorowym z ruchem dwukierunkowym po ustaniu przyczyny jego wprowadzenia?",
+      "answers": {
+        "A": "Natychmiast po ustaniu przyczyny",
+        "B": "Po przejeździe jednego pociągu w jednym kierunku przy prawidłowo działającej blokadzie",
+        "C": "Po przejeździe po jednym pociągu w każdym kierunku przy prawidłowo działającej blokadzie",
+        "D": "Po upływie godziny od ustania przyczyny"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 28 ust. 24 pkt 1",
+      "section_ref": "§ 28"
+    },
+    {
+      "uuid": "b51a1f07-7354-47ee-9ace-9ff7a71e17db",
+      "question": "Co należy zrobić w razie przerwy zarówno w łączności telefonicznej, jak i radiotelefonicznej, przy prawidłowo działającej jednoodstępowej blokadzie liniowej?",
+      "answers": {
+        "A": "Wstrzymać ruch pociągów do czasu przywrócenia łączności",
+        "B": "Prowadzić ruch na podstawie blokady liniowej, a numery pociągów ustalać z wewnętrznego rozkładu jazdy, obserwacji pociągów lub przez ich zatrzymanie",
+        "C": "Wprowadzić telefoniczne zapowiadanie pociągów telefonogramem",
+        "D": "Obsługiwać blokadę liniową jedynie pomocniczo i stosować środki pomocnicze"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 28 ust. 27",
+      "section_ref": "§ 28"
+    },
+    {
+      "uuid": "3a350600-7a87-436a-99f4-017c17515f5a",
+      "question": "Kiedy może ukazać się sygnał zezwalający na ostatnim semaforze wieloodstępowej (samoczynnej) blokady liniowej spełniającym funkcje tarczy ostrzegawczej?",
+      "answers": {
+        "A": "Gdy odstęp chroniony tym semaforem samoczynnym nie jest zajęty i na semaforze wjazdowym wyświetla się sygnał zezwalający",
+        "B": "Gdy wjeżdżający pociąg wjedzie poza miejsce niebezpieczne za semaforem wjazdowym, na semaforze wjazdowym wyświetli się sygnał \"Stój\" i odstęp chroniony tym semaforem samoczynnym nie będzie zajęty",
+        "C": "Gdy wjeżdżający pociąg wjedzie poza miejsce niebezpieczne za semaforem wjazdowym i odstęp chroniony tym semaforem samoczynnym nie będzie zajęty",
+        "D": "Gdy na semaforze wjazdowym wyświetli się sygnał \"Stój\" i droga hamowania za semaforem jest wolna"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 29 ust. 1 pkt 3",
+      "section_ref": "§ 29"
+    },
+    {
+      "uuid": "5484dfd8-05f1-4215-bf55-0f90083bf548",
+      "question": "Jaka alternatywa dla telefonicznego powiadamiania sąsiedniego posterunku o numerach pociągów jest dopuszczalna?",
+      "answers": {
+        "A": "Przekazywanie informacji wyłącznie drogą radiową przez maszynistę",
+        "B": "Samoczynna awizacja numerów pociągów za pomocą przeznaczonych do tego urządzeń",
+        "C": "Wpis do dziennika ruchu na stacji docelowej",
+        "D": "Przekazanie informacji o numerze pociągu przy kolejnym połączeniu telefonicznym"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 29 ust. 4",
+      "section_ref": "§ 29"
+    },
+    {
+      "uuid": "1086d98b-da2f-4179-992e-735d023d001c",
+      "question": "Jak należy postąpić z pierwszym pociągiem, gdy pierwszy odcinek oddalania stale wykazuje zajętość, lecz drugi odcinek działa prawidłowo, a nie ma możliwości podania sygnału zezwalającego na semaforze wyjazdowym?",
+      "answers": {
+        "A": "Pierwszego pociągu wolno wyprawić po zwolnieniu drugiego prawidłowo działającego odcinka",
+        "B": "Pierwszego pociągu wolno wyprawić po zażądaniu i otrzymaniu potwierdzenia przyjazdu do następnego posterunku zapowiadawczego ostatniego wyprawionego pociągu",
+        "C": "Pierwszego pociągu wolno wyprawić na sygnał zastępczy bez dodatkowych warunków, gdy urządzenia na to zezwalają",
+        "D": "Pierwszego pociągu wolno wyprawić wyłącznie po wprowadzeniu telefonicznego zapowiadania pociągów telefonogramem"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 29 ust. 5 pkt 1 lit. b",
+      "section_ref": "§ 29"
+    },
+    {
+      "uuid": "a646df66-338e-47e5-a1ce-a471828639aa",
+      "question": "W jaki sposób może być zgłoszone usunięcie nieprawidłowego działania wieloodstępowej (samoczynnej) blokady liniowej, jeżeli naprawa odbywa się na szlaku?",
+      "answers": {
+        "A": "Wyłącznie przez osobiste stawienie się uprawnionego pracownika na nastawni i wpisanie stosownej adnotacji do książki kontroli",
+        "B": "Uprawniony pracownik może zgłosić usunięcie usterki za pomocą urządzeń łączności i podyktować dyżurnemu ruchu treść zapisu do książki kontroli",
+        "C": "Przez przesłanie telefonogramu do sąsiednich posterunków zapowiadawczych",
+        "D": "Wyłącznie przez przesłanie pisemnego raportu po zakończeniu zmiany"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 29 ust. 7",
+      "section_ref": "§ 29"
     }
   ]
 }
