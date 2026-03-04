@@ -10372,7 +10372,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 15 ust. 2b",
-      "section_ref": "§ 15"
+      "section_ref": "§ 15",
+      "verified": true
     },
     {
       "uuid": "00c968e2-3221-4eed-af8f-f5b31a04871d",
@@ -10385,7 +10386,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 15 ust. 2c",
-      "section_ref": "§ 15"
+      "section_ref": "§ 15",
+      "verified": true
     },
     {
       "uuid": "e32bbd43-3e33-499c-9e4f-2c89a1e6b7d2",
@@ -10398,7 +10400,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 15 ust. 3a",
-      "section_ref": "§ 15"
+      "section_ref": "§ 15",
+      "verified": true
     },
     {
       "uuid": "cd4ea3ab-debd-470b-b426-94a23f97189a",
@@ -10411,7 +10414,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 15 ust. 6",
-      "section_ref": "§ 15"
+      "section_ref": "§ 15",
+      "verified": true
     },
     {
       "uuid": "a33ba2c7-844f-43a4-ba64-9ca6c8df0e81",
@@ -10424,7 +10428,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 15 ust. 4 pkt 2",
-      "section_ref": "§ 15"
+      "section_ref": "§ 15",
+      "verified": true
     },
     {
       "uuid": "5f46ea41-57d4-4d06-b66a-899b2f556777",
@@ -10437,7 +10442,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 18 ust. 3 pkt 6",
-      "section_ref": "§ 18"
+      "section_ref": "§ 18",
+      "verified": true
     },
     {
       "uuid": "5ffa62e3-70a1-421e-abab-c1382eb7eeed",
@@ -10450,7 +10456,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 21 ust. 4 pkt 1",
-      "section_ref": "§ 21"
+      "section_ref": "§ 21",
+      "verified": true
     },
     {
       "uuid": "6a06ffcf-78f3-4044-833b-1a06043be74a",
@@ -10463,7 +10470,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 21 ust. 4 pkt 3",
-      "section_ref": "§ 21"
+      "section_ref": "§ 21",
+      "verified": true
     },
     {
       "uuid": "2ce03e2c-c497-4599-80e6-d04631ebc180",
@@ -10476,7 +10484,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 21 ust. 9",
-      "section_ref": "§ 21"
+      "section_ref": "§ 21",
+      "verified": true
     },
     {
       "uuid": "4676f8fc-f039-4f91-b9db-26bce1c99638",
@@ -10489,7 +10498,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 21 ust. 10",
-      "section_ref": "§ 21"
+      "section_ref": "§ 21",
+      "verified": true
     },
     {
       "uuid": "fe9be4bf-518a-42cd-806b-9bd8cff28b19",
@@ -10502,7 +10512,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 21 ust. 10",
-      "section_ref": "§ 21"
+      "section_ref": "§ 21",
+      "verified": true
     },
     {
       "uuid": "d3d43461-05e4-4b74-b46e-489551b55db6",
@@ -10515,7 +10526,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 21 ust. 8",
-      "section_ref": "§ 21"
+      "section_ref": "§ 21",
+      "verified": true
     },
     {
       "uuid": "00a781da-0674-42eb-b04a-530a0b49a69e",
@@ -10528,7 +10540,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 22 ust. 1 pkt 2",
-      "section_ref": "§ 22"
+      "section_ref": "§ 22",
+      "verified": true
     },
     {
       "uuid": "a868ac86-c341-4490-9df7-dc1755f5c75c",
@@ -10541,7 +10554,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 22 ust. 1 pkt 3",
-      "section_ref": "§ 22"
+      "section_ref": "§ 22",
+      "verified": true
     },
     {
       "uuid": "8517fea1-5667-4b8b-bc64-760fd6c08335",
@@ -10554,7 +10568,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 22 ust. 1 pkt 6",
-      "section_ref": "§ 22"
+      "section_ref": "§ 22",
+      "verified": true
     },
     {
       "uuid": "6d230975-2c5a-4404-b1cf-55bd0299a3f3",
@@ -10567,7 +10582,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 22 ust. 1 pkt 8",
-      "section_ref": "§ 22"
+      "section_ref": "§ 22",
+      "verified": true
     },
     {
       "uuid": "c567414b-16e3-4791-80b6-4e2f027418b7",
@@ -10580,7 +10596,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 22 ust. 4 pkt 2",
-      "section_ref": "§ 22"
+      "section_ref": "§ 22",
+      "verified": true
     },
     {
       "uuid": "65dbe8e8-a192-4467-9336-e92a78b3191d",
@@ -10593,7 +10610,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 22 ust. 5",
-      "section_ref": "§ 22"
+      "section_ref": "§ 22",
+      "verified": true
     },
     {
       "uuid": "e8cb71c5-75e7-4936-aa72-27b176e0e99f",
@@ -10606,7 +10624,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 22 ust. 5",
-      "section_ref": "§ 22"
+      "section_ref": "§ 22",
+      "verified": true
     },
     {
       "uuid": "d8c40a67-8ada-4199-9155-5180685d2570",
@@ -10619,7 +10638,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 22 ust. 5",
-      "section_ref": "§ 22"
+      "section_ref": "§ 22",
+      "verified": true
     },
     {
       "uuid": "5f631519-cd80-400a-835e-4d8c7a2520ea",
@@ -10632,7 +10652,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 22 ust. 7 pkt 4",
-      "section_ref": "§ 22"
+      "section_ref": "§ 22",
+      "verified": true
     },
     {
       "uuid": "687cfce5-77ae-46f8-8057-5b431baa86f4",
@@ -10645,7 +10666,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 22 ust. 10",
-      "section_ref": "§ 22"
+      "section_ref": "§ 22",
+      "verified": true
     },
     {
       "uuid": "32522123-48c8-4375-8aa7-51c3d7645287",
@@ -10658,7 +10680,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 23 ust. 1",
-      "section_ref": "§ 23"
+      "section_ref": "§ 23",
+      "verified": true
     },
     {
       "uuid": "4b6cbe3b-ce7d-4cc5-8ab5-0ba228f327e0",
@@ -10671,7 +10694,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 23 ust. 4",
-      "section_ref": "§ 23"
+      "section_ref": "§ 23",
+      "verified": true
     },
     {
       "uuid": "05ae102a-6394-47d7-ba5c-3cea93d6446d",
@@ -10684,7 +10708,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 23 ust. 5 pkt 2 lit. a",
-      "section_ref": "§ 23"
+      "section_ref": "§ 23",
+      "verified": true
     },
     {
       "uuid": "ad55213e-5fa6-4103-a3d9-9b70cf4b9e00",
@@ -10697,7 +10722,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 23 ust. 5 pkt 2 lit. b",
-      "section_ref": "§ 23"
+      "section_ref": "§ 23",
+      "verified": true
     },
     {
       "uuid": "58d07310-fde8-4ecf-a522-1f1cba33c4d9",
@@ -10710,7 +10736,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 23 ust. 9",
-      "section_ref": "§ 23"
+      "section_ref": "§ 23",
+      "verified": true
     },
     {
       "uuid": "7d27c3a1-f7b2-47ef-a816-c63c9cd46183",
@@ -10723,7 +10750,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 23 ust. 9",
-      "section_ref": "§ 23"
+      "section_ref": "§ 23",
+      "verified": true
     },
     {
       "uuid": "8a98e2a2-e63b-43ed-b021-fa72300ffa32",
@@ -10736,7 +10764,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 23 ust. 7",
-      "section_ref": "§ 23"
+      "section_ref": "§ 23",
+      "verified": true
     },
     {
       "uuid": "4147eb71-6e22-4ac3-b688-1750426c0d94",
@@ -10749,7 +10778,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 23 ust. 9",
-      "section_ref": "§ 23"
+      "section_ref": "§ 23",
+      "verified": true
     },
     {
       "uuid": "267af4a1-5590-495a-a574-83b836e0d189",
@@ -10762,7 +10792,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 23 ust. 9",
-      "section_ref": "§ 23"
+      "section_ref": "§ 23",
+      "verified": true
     },
     {
       "uuid": "09ab9a91-91df-4d81-a454-19b217cf04af",
@@ -10775,7 +10806,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 24 ust. 1 pkt 2, 3 i 4",
-      "section_ref": "§ 24"
+      "section_ref": "§ 24",
+      "verified": true
     },
     {
       "uuid": "b3ef531e-3395-4109-8919-ef89b796d791",
@@ -10788,7 +10820,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 24 ust. 2",
-      "section_ref": "§ 24"
+      "section_ref": "§ 24",
+      "verified": true
     },
     {
       "uuid": "a0bc510e-87c4-4ba5-b4cd-ac763ea79a34",
@@ -10801,7 +10834,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 24 ust. 6",
-      "section_ref": "§ 24"
+      "section_ref": "§ 24",
+      "verified": true
     },
     {
       "uuid": "0bab87c2-9da8-46a3-9e51-9443c56b0a07",
@@ -10814,7 +10848,8 @@
       },
       "correct": "D",
       "explanation": "Ir-1 § 24 ust. 7",
-      "section_ref": "§ 24"
+      "section_ref": "§ 24",
+      "verified": true
     },
     {
       "uuid": "063c96f4-aed6-4df9-8b96-191d563bc0f7",
@@ -10827,7 +10862,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 24 ust. 8",
-      "section_ref": "§ 24"
+      "section_ref": "§ 24",
+      "verified": true
     },
     {
       "uuid": "36eddc8f-baa2-47aa-bf36-2a1c41408b6e",
@@ -10840,7 +10876,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 24 ust. 11",
-      "section_ref": "§ 24"
+      "section_ref": "§ 24",
+      "verified": true
     },
     {
       "uuid": "0a9758e3-a6ea-4abc-ba67-7ea71c3fa7ea",
@@ -10853,7 +10890,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 24 ust. 13",
-      "section_ref": "§ 24"
+      "section_ref": "§ 24",
+      "verified": true
     },
     {
       "uuid": "f82cd1c8-6575-4950-a397-27d682830e15",
@@ -10866,7 +10904,8 @@
       },
       "correct": "D",
       "explanation": "Ir-1 § 24 ust. 15",
-      "section_ref": "§ 24"
+      "section_ref": "§ 24",
+      "verified": true
     },
     {
       "uuid": "95663780-daad-449c-992e-5d2c4fd46b33",
@@ -10879,7 +10918,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 24 ust. 15",
-      "section_ref": "§ 24"
+      "section_ref": "§ 24",
+      "verified": true
     },
     {
       "uuid": "f27d453d-4ad9-4305-8666-ff882923efcf",
@@ -10892,7 +10932,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 24 ust. 17",
-      "section_ref": "§ 24"
+      "section_ref": "§ 24",
+      "verified": true
     },
     {
       "uuid": "f504e36e-9ac4-4dce-83a3-6fae2d698991",
@@ -10905,7 +10946,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 26 ust. 1",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "3a0315ad-eeed-4601-9b26-f592c58556fc",
@@ -10918,7 +10960,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 26 ust. 5",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "588a58dc-ad1a-4a42-9bc8-e3122f38c702",
@@ -10931,7 +10974,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 26 ust. 6 pkt 1",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "0776af21-96af-4ff3-9463-20fa1446a0f2",
@@ -10944,7 +10988,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 26 ust. 7",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "ef3a428e-a3ac-4eca-a1ee-3d29dab63e0c",
@@ -10957,7 +11002,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 26 ust. 10",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "327fc326-9cd7-46ab-964c-0aaabcb79d5c",
@@ -10970,7 +11016,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 26 ust. 11",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "7eef2e4a-c955-4541-a16e-2414c00f9776",
@@ -10983,7 +11030,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 27 ust. 1",
-      "section_ref": "§ 27"
+      "section_ref": "§ 27",
+      "verified": true
     },
     {
       "uuid": "6a5a21a4-1048-4151-893c-419b3ff237e8",
@@ -10996,7 +11044,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 27 ust. 2",
-      "section_ref": "§ 27"
+      "section_ref": "§ 27",
+      "verified": true
     },
     {
       "uuid": "dfa29a9c-09ad-4d00-b867-08de98f30c2a",
@@ -11009,7 +11058,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 27 ust. 2",
-      "section_ref": "§ 27"
+      "section_ref": "§ 27",
+      "verified": true
     },
     {
       "uuid": "cba983f2-1ab5-400d-b6a9-5e6bfbb2251d",
@@ -11022,7 +11072,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 27 ust. 3",
-      "section_ref": "§ 27"
+      "section_ref": "§ 27",
+      "verified": true
     },
     {
       "uuid": "7498e9c7-8b65-4bdf-beee-64232b3432cd",
@@ -11035,7 +11086,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 27 ust. 3 pkt 1",
-      "section_ref": "§ 27"
+      "section_ref": "§ 27",
+      "verified": true
     },
     {
       "uuid": "5ed22f88-9dc0-46c3-8dfd-f2eab814fc85",
@@ -11048,7 +11100,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 27 ust. 3 pkt 3",
-      "section_ref": "§ 27"
+      "section_ref": "§ 27",
+      "verified": true
     },
     {
       "uuid": "106f3869-dc24-4951-b241-56a84d095af6",
@@ -11061,7 +11114,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 27 ust. 3",
-      "section_ref": "§ 27"
+      "section_ref": "§ 27",
+      "verified": true
     },
     {
       "uuid": "758fbcaf-2c19-471a-afb9-3efdeaf5147e",
@@ -11074,7 +11128,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 27 ust. 4",
-      "section_ref": "§ 27"
+      "section_ref": "§ 27",
+      "verified": true
     },
     {
       "uuid": "a0cbdc8e-3cce-4e49-b72e-9612a10b6d9f",
@@ -11087,7 +11142,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 27 ust. 6",
-      "section_ref": "§ 27"
+      "section_ref": "§ 27",
+      "verified": true
     },
     {
       "uuid": "ed59cb21-0588-4c60-8151-d5f5bb2e506c",
@@ -11100,7 +11156,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 27 ust. 12",
-      "section_ref": "§ 27"
+      "section_ref": "§ 27",
+      "verified": true
     },
     {
       "uuid": "686f250b-afc0-4681-afc0-f8182b9fb3cb",
@@ -11113,7 +11170,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 28 ust. 2",
-      "section_ref": "§ 28"
+      "section_ref": "§ 28",
+      "verified": true
     },
     {
       "uuid": "f67b3023-6089-44b6-9355-667b96512612",
@@ -11126,7 +11184,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 28 ust. 3",
-      "section_ref": "§ 28"
+      "section_ref": "§ 28",
+      "verified": true
     },
     {
       "uuid": "ecde245d-8ea7-410e-ab24-8fe3ef1f33dc",
@@ -11139,7 +11198,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 28 ust. 5",
-      "section_ref": "§ 28"
+      "section_ref": "§ 28",
+      "verified": true
     },
     {
       "uuid": "5509b8e8-093f-406d-811a-d8405affd9e3",
@@ -11152,7 +11212,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 28 ust. 4",
-      "section_ref": "§ 28"
+      "section_ref": "§ 28",
+      "verified": true
     },
     {
       "uuid": "a419acc4-58c7-434a-bdec-d3d36a67a551",
@@ -11165,7 +11226,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 28 ust. 16 pkt 1 lit. b",
-      "section_ref": "§ 28"
+      "section_ref": "§ 28",
+      "verified": true
     },
     {
       "uuid": "35b03315-d69e-4a43-87b4-fe18e6f26592",
@@ -11178,7 +11240,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 28 ust. 2",
-      "section_ref": "§ 28"
+      "section_ref": "§ 28",
+      "verified": true
     },
     {
       "uuid": "724849e0-1615-49f0-ae9e-5ee55d78907d",
@@ -11191,7 +11254,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 28 ust. 19",
-      "section_ref": "§ 28"
+      "section_ref": "§ 28",
+      "verified": true
     },
     {
       "uuid": "0d056052-5944-4fd8-b620-bad2e82c1482",
@@ -11204,7 +11268,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 28 ust. 19",
-      "section_ref": "§ 28"
+      "section_ref": "§ 28",
+      "verified": true
     },
     {
       "uuid": "cc108b59-12cf-41b7-a17b-b80ab00d0dc6",
@@ -11217,7 +11282,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 28 ust. 12",
-      "section_ref": "§ 28"
+      "section_ref": "§ 28",
+      "verified": true
     },
     {
       "uuid": "ce05de3e-a3c9-4c01-ac85-f99ad5c10755",
@@ -11230,7 +11296,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 28 ust. 16 pkt 2",
-      "section_ref": "§ 28"
+      "section_ref": "§ 28",
+      "verified": true
     },
     {
       "uuid": "a8ee5d44-5a47-45ce-af7a-76e7afc6e4cc",
@@ -11243,7 +11310,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 29 ust. 4",
-      "section_ref": "§ 29"
+      "section_ref": "§ 29",
+      "verified": true
     },
     {
       "uuid": "20cf884b-97f0-4c7f-bf49-8171deec2846",
@@ -11256,7 +11324,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 29 ust. 4",
-      "section_ref": "§ 29"
+      "section_ref": "§ 29",
+      "verified": true
     },
     {
       "uuid": "b0b0c63c-50ea-48e5-820e-21cec4c92fd9",
@@ -11269,7 +11338,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 29 ust. 5 pkt 1 lit. b",
-      "section_ref": "§ 29"
+      "section_ref": "§ 29",
+      "verified": true
     },
     {
       "uuid": "c185e22d-5618-4ad5-984d-942180b34b84",
@@ -11282,7 +11352,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 29 ust. 5 pkt 1 lit. c",
-      "section_ref": "§ 29"
+      "section_ref": "§ 29",
+      "verified": true
     },
     {
       "uuid": "2aee3fa2-257d-4f19-877e-a02e9eea0fed",
@@ -11295,7 +11366,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 29 ust. 5 pkt 3 lit. c",
-      "section_ref": "§ 29"
+      "section_ref": "§ 29",
+      "verified": true
     },
     {
       "uuid": "0587af8f-6708-41ae-9b58-ec6089f981ef",
@@ -11308,7 +11380,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 29 ust. 7",
-      "section_ref": "§ 29"
+      "section_ref": "§ 29",
+      "verified": true
     },
     {
       "uuid": "37e71c21-55f0-472f-9602-8503e6e35bed",
@@ -11321,7 +11394,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 29 ust. 10",
-      "section_ref": "§ 29"
+      "section_ref": "§ 29",
+      "verified": true
     },
     {
       "uuid": "08667c68-c3a5-48d2-aeae-63d7617e1b4e",
@@ -11334,7 +11408,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 29 ust. 11",
-      "section_ref": "§ 29"
+      "section_ref": "§ 29",
+      "verified": true
     },
     {
       "uuid": "8d222319-9178-45d1-b277-679a919d4840",
@@ -11347,7 +11422,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 29 ust. 12 pkt 1 lit. a",
-      "section_ref": "§ 29"
+      "section_ref": "§ 29",
+      "verified": true
     },
     {
       "uuid": "b841b782-b67f-48cd-a925-ed93a8d92e67",
@@ -11360,7 +11436,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 29 ust. 12 pkt 2 lit. d",
-      "section_ref": "§ 29"
+      "section_ref": "§ 29",
+      "verified": true
     },
     {
       "uuid": "10bc9f02-b8d6-475c-b921-4f9d1bf99acb",
@@ -11373,7 +11450,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 30 ust. 2 pkt 1",
-      "section_ref": "§ 30"
+      "section_ref": "§ 30",
+      "verified": true
     },
     {
       "uuid": "bc2ed7ed-6a04-4cda-b3f7-c50816974cb5",
@@ -11386,7 +11464,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 30 ust. 10",
-      "section_ref": "§ 30"
+      "section_ref": "§ 30",
+      "verified": true
     },
     {
       "uuid": "4eeee308-da8b-4632-8e0d-015f1d97c96d",
@@ -11399,7 +11478,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 5 ust. 5",
-      "section_ref": "§ 5"
+      "section_ref": "§ 5",
+      "verified": true
     },
     {
       "uuid": "f145fb3d-dd40-4550-af38-9fe81321ad51",
@@ -11412,7 +11492,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 5 ust. 4 pkt 5",
-      "section_ref": "§ 5"
+      "section_ref": "§ 5",
+      "verified": true
     },
     {
       "uuid": "9950f419-6337-4b12-8503-2d3e21ecb2e3",
@@ -11425,7 +11506,8 @@
       },
       "correct": "D",
       "explanation": "Ir-1 § 5 ust. 4 pkt 3",
-      "section_ref": "§ 5"
+      "section_ref": "§ 5",
+      "verified": true
     },
     {
       "uuid": "b1e84223-2980-4edc-9f83-33709174f80f",
@@ -11438,7 +11520,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 5 ust. 9",
-      "section_ref": "§ 5"
+      "section_ref": "§ 5",
+      "verified": true
     },
     {
       "uuid": "7495f9b6-1b2a-4c0c-9ddd-851492fddb43",
@@ -11451,7 +11534,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 7 ust. 3",
-      "section_ref": "§ 7"
+      "section_ref": "§ 7",
+      "verified": true
     },
     {
       "uuid": "05c22ee4-83d5-4b0a-b18e-bbbaa4119ca7",
@@ -11464,7 +11548,8 @@
       },
       "correct": "B",
       "explanation": "Ir-1 § 7 ust. 9",
-      "section_ref": "§ 7"
+      "section_ref": "§ 7",
+      "verified": true
     },
     {
       "uuid": "d8ae482a-c4f2-4f70-8118-05958e41ac93",
@@ -11477,7 +11562,8 @@
       },
       "correct": "A",
       "explanation": "Ir-1 § 7 ust. 10",
-      "section_ref": "§ 7"
+      "section_ref": "§ 7",
+      "verified": true
     },
     {
       "uuid": "ba1fefdd-0f71-4355-8602-02d0608ee1ab",
@@ -11490,7 +11576,8 @@
       },
       "correct": "C",
       "explanation": "Ir-1 § 7 ust. 15",
-      "section_ref": "§ 7"
+      "section_ref": "§ 7",
+      "verified": true
     }
   ]
 }

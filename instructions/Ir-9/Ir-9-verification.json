@@ -2,10 +2,11 @@
   "instruction": "Ir-9",
   "timestamp": "2026-03-02T19:56:13.302966",
   "summary": {
-    "total": 185,
+    "total": 184,
     "ok": 155,
-    "fix": 30,
-    "delete": 0
+    "fix": 29,
+    "delete": 0,
+    "new": 0
   },
   "results": [
     {
@@ -52,16 +53,6 @@
       "uuid": "f937a913-04d6-4233-ae7d-cb457c60c165",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "a445182e-629c-4b17-a409-514b83d04c3e",
-      "status": "FIX",
-      "problems": [
-        "Explanation wskazuje ust. 22, który opisuje sposoby przekazywania poleceń przez kierownika manewrów do maszynisty, a nie obowiązki maszynisty. Maszynista obserwuje sygnały kierownika manewrów i stosuje się do jego poleceń — bardziej precyzyjne odniesienie to ust. 20 (drużyna trakcyjna musi widzieć sygnał kierownika manewrów) lub ogólnie §10."
-      ],
-      "changes": {
-        "explanation": "Ir-9 § 10 ust. 20"
-      }
     },
     {
       "uuid": "8e2255e1-6ea3-4351-8698-80092ddf0d3b",
