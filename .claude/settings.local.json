@@ -6,10 +6,8 @@
       "Bash(make pdfs-to-markdowns:*)",
       "Bash(uv run:*)",
       "Bash(.venv/bin/python:*)",
-      "Write(/tmp/*)",
-      "Write(.tmp/*)",
-      "Write(/workspace/webdev/lokotest/questions/.tmp/*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Write(*)"
     ]
   }
 }

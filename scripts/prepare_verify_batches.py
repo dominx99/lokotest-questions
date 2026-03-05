@@ -68,14 +68,10 @@ Jeśli poprawna jest **krótsza** od dystraktorów — to NIE jest problem, ozna
 
 ## Format wyników — ZAPISZ DO PLIKU
 
-Po weryfikacji, użyj narzędzia **Bash** z komendą `python3` aby zapisać wyniki do pliku \
-`%(output_path)s`. Przykład:
+Po weryfikacji, użyj narzędzia **Write** aby zapisać wyniki jako JSON do pliku `%(output_path)s`:
 
-```bash
-python3 << 'PYEOF'
-import json
-
-data = [
+```json
+[
   {
     "uuid": "...",
     "status": "OK",
@@ -107,11 +103,6 @@ data = [
     }
   }
 ]
-
-with open("%(output_path)s", "w", encoding="utf-8") as f:
-    json.dump(data, f, ensure_ascii=False, indent=2)
-    f.write("\\n")
-PYEOF
 ```
 
 Zasady:
@@ -129,7 +120,7 @@ Dla NEW — `changes` musi zawierać kompletne pytanie: `question`, `answers`, `
 - Używaj DOKŁADNIE tych nazw pól: `uuid`, `status`, `problems`, `changes`. NIE używaj innych nazw jak `issues`, `reason`, `fix`, `corrections` itp.
 - Każdy element `problems` musi być pełnym zdaniem opisującym problem, nie pustym stringiem.
 
-WAŻNE: Do zapisu pliku użyj Bash z python3 (jak w przykładzie powyżej). NIE używaj Write tool.
+WAŻNE: Musisz użyć Write tool aby zapisać plik JSON z wynikami. To jest Twoje główne zadanie.
 """
 
 

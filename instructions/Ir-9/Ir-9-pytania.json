@@ -5,10 +5,10 @@
       "uuid": "dc5ffe62-f7d0-4c02-8789-2935f6ca8042",
       "question": "Jak instrukcja Ir‑9 definiuje pojęcie „Manewry”?",
       "answers": {
-        "A": "droga kolejowa połączona z linią kolejową i służąca do wykonywania załadunku i wyładunku wagonów lub postoju pojazdów kolejowych",
-        "B": "sygnalizator kolejowy przeznaczony do prowadzenia ruchu manewrowego",
+        "A": "droga kolejowa połączona z linią kolejową i służąca do wykonywania załadunku i wyładunku wagonów lub wykonywania czynności utrzymaniowych pojazdów kolejowych lub postoju pojazdów kolejowych oraz przemieszczania i włączania pojazdów kolejowych do ruchu po sieci kolejowej",
+        "B": "przyjęty do realizacji porządek wykonania pracy manewrowej, w określonym przedziale czasu, ustalony przez kierującego manewrami i podany do wiadomości uczestnikom manewrów",
         "C": "wszelkie zamierzone ruchy pojazdów kolejowych oraz związane z nimi czynności na torach z wyjątkiem wjazdu, wyjazdu i przejazdu pociągu",
-        "D": "wzniesienie toru wykorzystane do rozpędzania odprzęgów siłą grawitacji"
+        "D": "urządzenie systemu regulacji prędkości zabudowane w torze służące do spowalniania biegu odprzęgów"
       },
       "correct": "C",
       "explanation": "Ir-9 § 2 ust. 6",
@@ -18,10 +18,10 @@
       "uuid": "36c7a2c0-a150-40f4-b564-ea8db232ddc1",
       "question": "Jak instrukcja Ir‑9 definiuje pojęcie „Plan pracy manewrowej”?",
       "answers": {
-        "A": "sygnalizator kolejowy przeznaczony do prowadzenia ruchu manewrowego",
+        "A": "wszelkie zamierzone ruchy pojazdów kolejowych oraz związane z nimi czynności na torach z wyjątkiem wjazdu, wyjazdu i przejazdu pociągu",
         "B": "przyjęty do realizacji porządek wykonania pracy manewrowej, w określonym przedziale czasu, ustalony przez kierującego manewrami i podany do wiadomości uczestnikom manewrów",
         "C": "odcinek toru, na którym może zmieścić się i postój skład wagonów o określonej długości",
-        "D": "droga kolejowa połączona z linią kolejową i służąca do wykonywania załadunku i wyładunku wagonów lub postoju pojazdów kolejowych"
+        "D": "droga kolejowa połączona z linią kolejową i służąca do wykonywania załadunku i wyładunku wagonów lub wykonywania czynności utrzymaniowych pojazdów kolejowych lub postoju pojazdów kolejowych oraz przemieszczania i włączania pojazdów kolejowych do ruchu po sieci kolejowej"
       },
       "correct": "B",
       "explanation": "Ir-9 § 2 ust. 8",
@@ -32,9 +32,9 @@
       "question": "Jak instrukcja Ir‑9 definiuje pojęcie „Rejon manewrowy”?",
       "answers": {
         "A": "obszar stacji wydzielony pod względem organizacji i technologii manewrów, w którym zasadniczo zatrudniona jest jedna drużyna manewrowa z lokomotywą manewrową lub innym urządzeniem technicznym służącym do manewrów",
-        "B": "sygnalizator kolejowy przeznaczony do prowadzenia ruchu manewrowego",
-        "C": "przyjęty do realizacji porządek wykonania pracy manewrowej w określonym przedziale czasu",
-        "D": "pracownik odpowiedzialny za organizację i bezpieczeństwo pracy manewrowej"
+        "B": "urządzenie systemu regulacji prędkości zabudowane w torze służące do spowalniania biegu odprzęgów",
+        "C": "przyjęty do realizacji porządek wykonania pracy manewrowej, w określonym przedziale czasu, ustalony przez kierującego manewrami i podany do wiadomości uczestnikom manewrów",
+        "D": "pracownik wykonujący czynności związane z obsługą techniczną wagonów, elektrycznych zespołów trakcyjnych i autobusów szynowych"
       },
       "correct": "A",
       "explanation": "Ir-9 § 2 ust. 16",
@@ -44,10 +44,10 @@
       "uuid": "a4767c05-cc27-4bcb-a4eb-dbbe0800b57e",
       "question": "Jak instrukcja Ir‑9 definiuje pojęcie „Pojazd pomocniczy”?",
       "answers": {
-        "A": "pracownik obsługujący zwrotnice i semafory manewrowe w rejonie",
-        "B": "wzniesienie toru wykorzystane do rozpędzania odprzęgów siłą grawitacji",
+        "A": "pojazdy kolejowe przystosowane do kursowania samodzielnie lub w składzie pociągu, przeznaczone do przewozu osób i rzeczy lub służące do prac remontowo-budowlanych i ratunkowych",
+        "B": "pojazd kolejowy z napędem, z wyłączeniem taboru specjalnego i pojazdów pomocniczych",
         "C": "pojazd kolejowy, którego budowa nie pozwala na włączenie do składu pociągu",
-        "D": "urządzenie wyhamowujące odprzęg na torze rozrządowym"
+        "D": "urządzenie systemu regulacji prędkości zabudowane w torze służące do spowalniania biegu odprzęgów"
       },
       "correct": "C",
       "explanation": "Ir-9 § 2 ust. 11",
@@ -57,10 +57,10 @@
       "uuid": "fcc910a1-3497-42dc-840d-dc26c7b9f443",
       "question": "Jak instrukcja Ir‑9 definiuje pojęcie „Odprzęg”?",
       "answers": {
-        "A": "urządzenie zabezpieczające drogę dla jazd manewrowych",
-        "B": "droga kolejowa połączona z linią kolejową i służąca do wykonywania załadunku i wyładunku wagonów lub postoju pojazdów kolejowych",
+        "A": "urządzenie systemu regulacji prędkości zabudowane w torze służące do spowalniania biegu odprzęgów",
+        "B": "droga kolejowa połączona z linią kolejową i służąca do wykonywania załadunku i wyładunku wagonów lub wykonywania czynności utrzymaniowych pojazdów kolejowych lub postoju pojazdów kolejowych oraz przemieszczania i włączania pojazdów kolejowych do ruchu po sieci kolejowej",
         "C": "jeden wagon lub grupa wagonów połączonych ze sobą, odczepionych od lokomotywy lub od pozostałych przy tej lokomotywie pojazdów, a następnie staczanych z górki rozrządowej lub odrzuconych",
-        "D": "sygnalizator kolejowy przeznaczony do prowadzenia ruchu manewrowego"
+        "D": "wszelkie zamierzone ruchy pojazdów kolejowych oraz związane z nimi czynności na torach z wyjątkiem wjazdu, wyjazdu i przejazdu pociągu"
       },
       "correct": "C",
       "explanation": "Ir-9 § 2 ust. 7",
@@ -77,16 +77,17 @@
       },
       "correct": "D",
       "explanation": "Ir-9 § 12 ust. 8",
-      "section_ref": "§ 12"
+      "section_ref": "§ 12",
+      "verified": true
     },
     {
       "uuid": "55aa8197-1821-476b-98ff-edd26ae6a3ef",
       "question": "Jak instrukcja Ir‑9 definiuje pojęcie „Rewident taboru”?",
       "answers": {
-        "A": "wzniesienie toru wykorzystane do rozpędzania odprzęgów siłą grawitacji",
+        "A": "urządzenie systemu regulacji prędkości zabudowane w torze służące do spowalniania biegu odprzęgów",
         "B": "pracownik wykonujący czynności związane z obsługą techniczną wagonów, elektrycznych zespołów trakcyjnych i autobusów szynowych",
-        "C": "członek drużyny manewrowej podający sygnały maszynistom",
-        "D": "przyrząd zabezpieczający wagon przed niekontrolowanym przetoczeniem"
+        "C": "obszar stacji wydzielony pod względem organizacji i technologii manewrów, w którym zasadniczo zatrudniona jest jedna drużyna manewrowa z lokomotywą manewrową lub innym urządzeniem technicznym służącym do manewrów",
+        "D": "dokument zawierający szczegółowe postanowienia dotyczące pracy posterunku ruchu lub odcinka zdalnego prowadzenia ruchu, uwzględniający warunki miejscowe w zakresie czynności związanych z prowadzeniem ruchu pociągów i manewrów"
       },
       "correct": "B",
       "explanation": "Ir-9 § 2 ust. 17",
@@ -97,9 +98,9 @@
       "question": "Jak instrukcja Ir‑9 definiuje pojęcie „Hamulec postojowy”?",
       "answers": {
         "A": "hamulec, który umożliwia unieruchomienie pojazdu na postoju; zwykle jest to hamulec mechaniczny, uruchamiany przez zakręcenie koła lub korby",
-        "B": "wagon z ładunkiem wykraczającym poza skrajnię ładunkową",
-        "C": "sygnalizator kolejowy przeznaczony do prowadzenia ruchu manewrowego",
-        "D": "wzniesienie toru wykorzystane do rozpędzania odprzęgów siłą grawitacji"
+        "B": "wagon załadowany przesyłką o przekroczonej skrajni ładunkowej, bądź wagon o przekroczonej skrajni taboru kolejowego",
+        "C": "w wagonie hamulec mechaniczny, który umożliwia zarówno unieruchomienie wagonu na postoju jak i hamowanie wagonu w czasie jazdy, uruchamiany z wnętrza wagonu osobowego lub pomostu hamulcowego w wagonie towarowym, przez zakręcenie koła lub korby",
+        "D": "urządzenie systemu regulacji prędkości zabudowane w torze służące do spowalniania biegu odprzęgów"
       },
       "correct": "A",
       "explanation": "Ir-9 § 2 ust. 3",
@@ -109,10 +110,10 @@
       "uuid": "a1ec3c07-b333-49b6-9c61-03134cb4621f",
       "question": "Jak instrukcja Ir‑9 definiuje pojęcie „Długość użyteczna toru”?",
       "answers": {
-        "A": "sygnalizator kolejowy przeznaczony do prowadzenia ruchu manewrowego",
+        "A": "urządzenie systemu regulacji prędkości zabudowane w torze służące do spowalniania biegu odprzęgów",
         "B": "długość części toru przeznaczona na postój pociągu lub wagonów, mierzona pomiędzy punktem ustawienia semafora, tarczy zaporowej lub manewrowej a ukresem, końcem odcinka izolowanego, punktem zwalniającym przebieg pociągu, miejscem usytuowania wykolejnicy lub miejscem przejazdu kolejowo-drogowego lub przejścia, jeżeli są one czynne w czasie postoju pociągu lub wagonu",
-        "C": "urządzenie do podawania krótkich sygnałów dźwiękowych w czasie manewrów",
-        "D": "wzniesienie toru wykorzystane do rozpędzania odprzęgów siłą grawitacji"
+        "C": "jeden wagon lub grupa wagonów połączonych ze sobą, odczepionych od lokomotywy lub od pozostałych przy tej lokomotywie pojazdów, a następnie staczanych z górki rozrządowej lub odrzuconych",
+        "D": "hamulec, który umożliwia unieruchomienie pojazdu na postoju; zwykle jest to hamulec mechaniczny, uruchamiany przez zakręcenie koła lub korby"
       },
       "correct": "B",
       "explanation": "Ir-9 § 2 ust. 2",
@@ -129,16 +130,17 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 2 ust. 18",
-      "section_ref": "§ 2"
+      "section_ref": "§ 2",
+      "verified": true
     },
     {
       "uuid": "815472fb-75ec-42fd-b287-a69eabd8dd68",
       "question": "Jaką funkcję pełni i za co odpowiada kierownik manewrów według Ir-9 §7?",
       "answers": {
-        "A": "sygnalizator kolejowy przeznaczony do prowadzenia ruchu manewrowego",
-        "B": "urządzenie do podawania krótkich sygnałów dźwiękowych w czasie manewrów",
+        "A": "pracownik wyznaczony do obsługi hamulców ręcznych i zabezpieczania pojazdów przed zbiegnięciem",
+        "B": "pracownik odpowiedzialny wyłącznie za sprzęganie i rozprzęganie pojazdów kolejowych podczas manewrów",
         "C": "pracownik posiadający wymagane kwalifikacje, który odpowiada za bezpieczne i terminowe wykonanie manewrów",
-        "D": "oznaczenie toru wskazujące maksymalną prędkość jazdy manewrowej"
+        "D": "pracownik wyznaczony przez dyżurnego ruchu do nadzorowania drogi przebiegu dla manewrów"
       },
       "correct": "C",
       "explanation": "Ir-9 § 7 ust. 1",
@@ -155,7 +157,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 2 ust. 20",
-      "section_ref": "§ 2"
+      "section_ref": "§ 2",
+      "verified": true
     },
     {
       "uuid": "dbcd871f-3e3f-4d5e-8f63-ea969e4e7bf5",
@@ -168,7 +171,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 2 ust. 23",
-      "section_ref": "§ 2"
+      "section_ref": "§ 2",
+      "verified": true
     },
     {
       "uuid": "62961564-ee69-4076-8e54-9a73c774ffa8",
@@ -181,7 +185,8 @@
       },
       "correct": "D",
       "explanation": "Ir-9 § 2 ust. 1",
-      "section_ref": "§ 2"
+      "section_ref": "§ 2",
+      "verified": true
     },
     {
       "uuid": "b209dadd-2edf-4b47-af50-82c20bdbc27f",
@@ -194,7 +199,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 2 ust. 5",
-      "section_ref": "§ 2"
+      "section_ref": "§ 2",
+      "verified": true
     },
     {
       "uuid": "69593225-6b06-4a65-98ec-abf8016b68a5",
@@ -207,7 +213,8 @@
       },
       "correct": "D",
       "explanation": "Ir-9 Załącznik nr 1",
-      "section_ref": null
+      "section_ref": null,
+      "verified": true
     },
     {
       "uuid": "f35ecb6b-ca10-43c7-b965-9ea50c933707",
@@ -220,7 +227,8 @@
       },
       "correct": "D",
       "explanation": "Ir-9 § 10 ust. 27 pkt 4a",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "a5cc8aec-c41a-41fb-8a28-ecf9c63b1b2e",
@@ -233,7 +241,8 @@
       },
       "correct": "D",
       "explanation": "Ir-9 § 10 ust. 27 pkt 6c",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "34d1d311-4138-4929-adfd-c6b03b971b27",
@@ -246,7 +255,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 10 ust. 27 pkt 3a",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "b5647145-67f1-4363-8932-9cb72a6a60fe",
@@ -259,7 +269,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 10 ust. 27 pkt 3b",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "17802804-cbc2-4f89-96d2-04b95f77c645",
@@ -272,7 +283,8 @@
       },
       "correct": "D",
       "explanation": "Ir-9 § 10 ust. 27 pkt 1",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "1af39247-23ed-470c-9475-a0d658d4da3c",
@@ -285,7 +297,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 10 ust. 27 pkt 8b",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "677b5628-8cf5-4c3a-9ca6-3b082fa6ff5a",
@@ -298,7 +311,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 10 ust. 27 pkt 6d",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "f937a913-04d6-4233-ae7d-cb457c60c165",
@@ -311,7 +325,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 10 ust. 11",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "a445182e-629c-4b17-a409-514b83d04c3e",
@@ -324,7 +339,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 10 ust. 20",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "8e2255e1-6ea3-4351-8698-80092ddf0d3b",
@@ -337,7 +353,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 10 ust. 8 pkt 2)",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "d84eaaad-8592-4640-bae7-e2d7c5eadec4",
@@ -350,15 +367,16 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 10 ust. 15",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "16c74df4-c43f-427b-8310-b23dfb730c06",
-      "question": "Wskaż czynność zabronioną podczas manewrów zgodnie z Ir‑9.",
+      "question": "Wskaż czynność zabronioną po sprzęgnięciu lub rozprzęgnięciu taboru podczas manewrów zgodnie z Ir‑9.",
       "answers": {
-        "A": "Nastawiać zwrotnice do jazdy przed uzyskaniem zezwolenia pracownika nastawni",
+        "A": "Nastawiać zwrotnice do jazdy przed uzyskaniem zgody pracownika posterunku nastawczego",
         "B": "Dać polecenie ruchu manewrowego przed wyjściem pracownika spomiędzy wagonów",
-        "C": "Jechać bez kamizelki ostrzegawczej w dzień",
+        "C": "Jechać z prędkością manewrową bez kamizelki ostrzegawczej w dzień",
         "D": "Staczać wagony przez przejazdy bez zamkniętych rogatek"
       },
       "correct": "B",
@@ -376,7 +394,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 23 ust. 2 pkt 2",
-      "section_ref": "§ 23"
+      "section_ref": "§ 23",
+      "verified": true
     },
     {
       "uuid": "665957d8-eb77-40f1-a90b-3fb6f8ba7033",
@@ -389,7 +408,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 2 ust. 8",
-      "section_ref": "§ 2"
+      "section_ref": "§ 2",
+      "verified": true
     },
     {
       "uuid": "d00ba1de-cdca-43d2-acea-375406583a4c",
@@ -402,7 +422,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 11 ust. 8 pkt 10",
-      "section_ref": "§ 11"
+      "section_ref": "§ 11",
+      "verified": true
     },
     {
       "uuid": "9e048290-a47e-43e8-b1aa-60607c70257d",
@@ -415,7 +436,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 23 ust. 3",
-      "section_ref": "§ 23"
+      "section_ref": "§ 23",
+      "verified": true
     },
     {
       "uuid": "53e8132d-e61b-4227-b736-091cf01d8687",
@@ -428,7 +450,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 10 ust. 27 pkt 4 lit. a",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "ccbc8308-1cfc-4d5f-86fe-d264d60885a0",
@@ -441,7 +464,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 7 ust. 2 pkt 1",
-      "section_ref": "§ 7"
+      "section_ref": "§ 7",
+      "verified": true
     },
     {
       "uuid": "ba2e7168-0ac1-4735-93fa-1381989f5392",
@@ -454,7 +478,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 5 ust. 3",
-      "section_ref": "§ 5"
+      "section_ref": "§ 5",
+      "verified": true
     },
     {
       "uuid": "4764e9e4-f79f-4fb8-87ea-173ab54c1842",
@@ -467,7 +492,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 6 ust. 2 pkt 2",
-      "section_ref": "§ 6"
+      "section_ref": "§ 6",
+      "verified": true
     },
     {
       "uuid": "ca703a76-6890-4dfe-b687-92047e650f88",
@@ -480,7 +506,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 11 ust. 3",
-      "section_ref": "§ 11"
+      "section_ref": "§ 11",
+      "verified": true
     },
     {
       "uuid": "2ecf50f2-25a5-4fbd-a450-ca5fdda00aa7",
@@ -493,7 +520,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 11 ust. 3 pkt 1",
-      "section_ref": "§ 11"
+      "section_ref": "§ 11",
+      "verified": true
     },
     {
       "uuid": "dc366d80-5ac7-4f76-b06e-a0ca7edd68b0",
@@ -506,7 +534,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 13 ust. 2",
-      "section_ref": "§ 13"
+      "section_ref": "§ 13",
+      "verified": true
     },
     {
       "uuid": "f39935a2-520d-4f84-a8ca-e9776b5f1c85",
@@ -519,7 +548,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 14 ust. 5 pkt 3",
-      "section_ref": "§ 14"
+      "section_ref": "§ 14",
+      "verified": true
     },
     {
       "uuid": "2ba77a32-b66b-4972-a858-a692ca15095e",
@@ -531,7 +561,7 @@
         "D": "Dróżnik przejazdowy"
       },
       "correct": "A",
-      "explanation": "Ir-9 § 15",
+      "explanation": "Ir-9 § 15 ust. 1",
       "section_ref": "§ 15"
     },
     {
@@ -545,7 +575,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 15 ust. 2",
-      "section_ref": "§ 15"
+      "section_ref": "§ 15",
+      "verified": true
     },
     {
       "uuid": "10577d6e-76d7-49fa-a1b2-3c6a5a659aaf",
@@ -558,7 +589,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 16 ust. 1 pkt 1",
-      "section_ref": "§ 16"
+      "section_ref": "§ 16",
+      "verified": true
     },
     {
       "uuid": "c6915f1c-de13-402c-9cfb-26bda72adef8",
@@ -571,7 +603,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 17",
-      "section_ref": "§ 17"
+      "section_ref": "§ 17",
+      "verified": true
     },
     {
       "uuid": "a3c3da3f-1368-4402-8c7a-bd564ca1308b",
@@ -584,16 +617,17 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 18",
-      "section_ref": "§ 18"
+      "section_ref": "§ 18",
+      "verified": true
     },
     {
       "uuid": "0d91ebbf-b9d9-41ee-905c-d40bd870e711",
       "question": "Jaki obowiązek wobec pracowników wykonuje drużyna manewrowa zgodnie z § 19 ust. 3 pkt 1 przed dojechaniem do wagonów, przy których odbywają się czynności ładunkowe?",
       "answers": {
-        "A": "Zażądać od zatrudnionych pracowników przerwania czynności ładunkowych oraz zabezpieczenia ładunku w wagonach przed możliwością uszkodzenia w czasie manewrów",
-        "B": "Nic, wystarczy sygnał dany gwizdawką",
-        "C": "Podać sygnał 'Baczność' i jechać",
-        "D": "Polegać tylko na czujności operatorów"
+        "A": "Zażądać od zatrudnionych tam pracowników przerwania czynności ładunkowych oraz zabezpieczenia znajdującego się w wagonach ładunku przed możliwością uszkodzenia w czasie manewrów",
+        "B": "Sprawdzić, czy na torze nie ma części wagonowych, przyborów ładunkowych lub innych przedmiotów mogących spowodować wykolejenie",
+        "C": "Zażądać odsunięcia od składu manewrowego na bezpieczną odległość wszelkich pojazdów drogowych",
+        "D": "Sprawdzić, czy składowany na rampach ładunek znajduje się poza skrajnią budowli i nie grozi obsunięciem się w czasie ruchu pojazdów"
       },
       "correct": "A",
       "explanation": "Ir-9 § 19 ust. 3 pkt 1",
@@ -610,7 +644,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 23 ust. 2",
-      "section_ref": "§ 23"
+      "section_ref": "§ 23",
+      "verified": true
     },
     {
       "uuid": "6acfdb19-fa37-4ba7-9b0c-63e1a6e2c262",
@@ -623,7 +658,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 24 ust. 2",
-      "section_ref": "§ 24"
+      "section_ref": "§ 24",
+      "verified": true
     },
     {
       "uuid": "bf718e7b-cadf-4a72-8a1d-ce38f1319e38",
@@ -636,7 +672,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 26 ust. 3",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "df9695b1-0938-4941-b236-8c14ce401220",
@@ -649,7 +686,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 21 ust. 2 pkt 2a",
-      "section_ref": "§ 21"
+      "section_ref": "§ 21",
+      "verified": true
     },
     {
       "uuid": "de653591-b371-4383-bcf1-0fa5a1cce88e",
@@ -662,7 +700,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 21 ust. 1",
-      "section_ref": "§ 21"
+      "section_ref": "§ 21",
+      "verified": true
     },
     {
       "uuid": "6139b1a5-605b-4d4b-81ec-c866109c5b14",
@@ -675,7 +714,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 10 ust. 18",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "c28e7ea0-a2b1-4292-b6f4-3a7a21978fa9",
@@ -688,7 +728,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 10 ust. 18",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "8bf8977d-4ae2-4a35-8354-5f5e01d9c272",
@@ -701,7 +742,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 11 ust. 3 pkt 3",
-      "section_ref": "§ 11"
+      "section_ref": "§ 11",
+      "verified": true
     },
     {
       "uuid": "3612b123-aba9-4490-a06a-7772f69e203e",
@@ -714,16 +756,17 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 7 ust. 3 pkt 9",
-      "section_ref": "§ 7"
+      "section_ref": "§ 7",
+      "verified": true
     },
     {
       "uuid": "3669d361-3351-4480-abd5-a2ef4a17b1c9",
-      "question": "Jak należy postąpić z przewodem hamulcowym podczas rozprzęgania?",
+      "question": "Kiedy można dokonywać zamykania kurków przewodu głównego i rozłączania sprzęgów hamulcowych podczas rozprzęgania pojazdów kolejowych?",
       "answers": {
-        "A": "Odłączyć dopiero po całkowitym zatrzymaniu pojazdów kolejowych",
-        "B": "Odłączyć w trakcie toczenia się, aby było szybciej",
-        "C": "Pozostawić pod ciśnieniem i rozerwać sprzęg",
-        "D": "Nie ma znaczenia kolejność"
+        "A": "Tylko po całkowitym zatrzymaniu pojazdów kolejowych",
+        "B": "W trakcie toczenia się pojazdów, aby przyspieszyć czynności",
+        "C": "Przed zamknięciem kurka ogrzewczego, niezależnie od prędkości pojazdów",
+        "D": "Kolejność i moment nie mają znaczenia"
       },
       "correct": "A",
       "explanation": "Ir-9 § 13 ust. 5",
@@ -731,12 +774,12 @@
     },
     {
       "uuid": "f5b66bee-828a-4aba-9e91-85e0cb44570f",
-      "question": "Który nawyk jest właściwy podczas zbliżania wagonów do sprzęgnięcia?",
+      "question": "Co jest właściwym zachowaniem pracownika przy sprzęganiu lub rozprzęganiu pojazdów kolejowych zgodnie z § 13 ust. 2?",
       "answers": {
-        "A": "Stać poza przestrzenią między zderzakami i nie wchodzić między pojazdy podczas ich ruchu",
+        "A": "Nie wchodzić między pojazdy kolejowe, gdy są w ruchu, a wejście może nastąpić tylko gdy pojazdy stoją",
         "B": "Stać między zderzakami, by szybciej połączyć przewody",
-        "C": "Opierać stopę na haku sprzęgu",
-        "D": "Trzymać ręce na główkach zderzaków"
+        "C": "Opierać stopę na haku sprzęgu dla stabilności",
+        "D": "Trzymać ręce na główkach zderzaków podczas docisku"
       },
       "correct": "A",
       "explanation": "Ir-9 § 13 ust. 2",
@@ -744,12 +787,12 @@
     },
     {
       "uuid": "09b9a2bb-0b03-42da-b7ba-c02ac548688a",
-      "question": "Które z poniższych stwierdzeń jest poprawne w kontekście zabezpieczenia przed zbiegnięciem?",
+      "question": "Co należy zrobić z odstawionymi pojazdami kolejowymi przed odczepieniem pojazdu trakcyjnego?",
       "answers": {
         "A": "Odstawione pojazdy kolejowe należy przed odczepieniem pojazdu trakcyjnego zabezpieczyć przed zbiegnięciem",
-        "B": "Wystarczy napisać informację w dzienniku ruchu",
-        "C": "Wystarczy sygnał dźwiękowy co 15 minut",
-        "D": "Wystarczy, że w pobliżu przebywa pracownik"
+        "B": "Za odpowiednie zabezpieczenie przed zbiegnięciem odpowiada maszynista pojazdu trakcyjnego, który może odczepić pojazd bez wcześniejszego zabezpieczenia",
+        "C": "Odstawione pojazdy kolejowe zabezpiecza się przed zbiegnięciem dopiero po odczepieniu pojazdu trakcyjnego, gdy zostaną nieruchomo",
+        "D": "Szczegółowy sposób zabezpieczania pojazdów przed zbiegnięciem określa wyłącznie maszynista na podstawie oceny pochylenia toru"
       },
       "correct": "A",
       "explanation": "Ir-9 § 14 ust. 2",
@@ -765,7 +808,7 @@
         "D": "Nic – pierwszeństwo mają manewry"
       },
       "correct": "A",
-      "explanation": "Ir-9 § 15 ust. 2",
+      "explanation": "Ir-9 § 15 ust. 9",
       "section_ref": "§ 15"
     },
     {
@@ -779,7 +822,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 17",
-      "section_ref": "§ 17"
+      "section_ref": "§ 17",
+      "verified": true
     },
     {
       "uuid": "6b83c080-2cf1-4a3c-93dd-fc57ed65b638",
@@ -792,7 +836,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 17",
-      "section_ref": "§ 17"
+      "section_ref": "§ 17",
+      "verified": true
     },
     {
       "uuid": "50263734-f645-41b3-a97e-4b0b09907e1a",
@@ -805,16 +850,17 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 18",
-      "section_ref": "§ 18"
+      "section_ref": "§ 18",
+      "verified": true
     },
     {
       "uuid": "4b6d2aca-93ba-43ea-aa2b-10681147d97d",
       "question": "Które z poniższych działań drużyna manewrowa powinna podjąć przed dojechaniem do pojazdów, przy których odbywają się czynności ładunkowe (zgodnie z § 19 ust. 3)?",
       "answers": {
-        "A": "Zażądać przerwania czynności ładunkowych, sprawdzić czy na torze nie ma przeszkód i upewnić się, że wagony stojące na torach ładunkowych są odpowiednio zabezpieczone przed zbieganiem",
-        "B": "Jechać ostrożnie bez zmian",
-        "C": "Użyć syreny i jechać szybciej",
-        "D": "Nie reagować – to obowiązki operatorów"
+        "A": "Zażądać przerwania czynności ładunkowych i odsunięcia pojazdów drogowych, sprawdzić czy na torze nie ma części wagonowych lub przyborów ładunkowych, oraz upewnić się, że wagony na torach ładunkowych są zabezpieczone przed zbieganiem",
+        "B": "Zażądać przerwania czynności ładunkowych i pozamykania drzwi wagonów; nie trzeba sprawdzać toru ani stanu zabezpieczenia wagonów",
+        "C": "Sprawdzić czy na torze nie ma przeszkód i upewnić się o zabezpieczeniu wagonów; nie ma obowiązku żądania przerwania czynności ładunkowych",
+        "D": "Zażądać odsunięcia pojazdów drogowych i sprawdzić stan ładunku; nie jest wymagane sprawdzenie zabezpieczenia wagonów przed zbieganiem"
       },
       "correct": "A",
       "explanation": "Ir-9 § 19 ust. 3",
@@ -831,7 +877,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 12 ust. 13",
-      "section_ref": "§ 12"
+      "section_ref": "§ 12",
+      "verified": true
     },
     {
       "uuid": "02189836-8157-4696-903b-aca1a412ff9b",
@@ -844,7 +891,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 21 ust. 2 pkt 12",
-      "section_ref": "§ 21"
+      "section_ref": "§ 21",
+      "verified": true
     },
     {
       "uuid": "fadd2e61-a44c-4634-aa65-589638f79bc3",
@@ -857,7 +905,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 22 ust. 3",
-      "section_ref": "§ 22"
+      "section_ref": "§ 22",
+      "verified": true
     },
     {
       "uuid": "bf511d6d-5424-4dba-8840-fe53e96a8074",
@@ -870,7 +919,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 22 ust. 7",
-      "section_ref": "§ 22"
+      "section_ref": "§ 22",
+      "verified": true
     },
     {
       "uuid": "d125ad12-4ed3-4c21-a2a5-bae20be00f62",
@@ -883,7 +933,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 10 ust. 8",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "732bcfc7-ebd5-4131-96c2-8a8d981d56b0",
@@ -896,7 +947,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 24 ust. 3",
-      "section_ref": "§ 24"
+      "section_ref": "§ 24",
+      "verified": true
     },
     {
       "uuid": "f7ca3c9b-d6a8-4296-8797-3fb0d651f553",
@@ -909,7 +961,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 25 ust. 1, ust. 2 pkt 1",
-      "section_ref": "§ 25"
+      "section_ref": "§ 25",
+      "verified": true
     },
     {
       "uuid": "1a077929-f553-46cb-94a2-d25918db4873",
@@ -922,7 +975,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 10 ust. 8",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "56fbc242-0dcf-48c5-a8bc-ae642fc8dd05",
@@ -935,7 +989,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 10 ust. 19",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "44aa7e72-367a-4c48-8738-60ec7f8d7430",
@@ -948,7 +1003,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 11 ust. 12",
-      "section_ref": "§ 11"
+      "section_ref": "§ 11",
+      "verified": true
     },
     {
       "uuid": "f7f9bd26-0f2c-47bc-870e-ce633d212730",
@@ -961,7 +1017,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 11 ust. 4",
-      "section_ref": "§ 11"
+      "section_ref": "§ 11",
+      "verified": true
     },
     {
       "uuid": "d3e8a726-9f83-4816-a63d-3eec57572d01",
@@ -974,7 +1031,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 1 ust. 2",
-      "section_ref": "§ 1"
+      "section_ref": "§ 1",
+      "verified": true
     },
     {
       "uuid": "735deb3a-ee16-4fe3-a629-38b1d68294d7",
@@ -986,7 +1044,7 @@
         "D": "Na tory główne zasadnicze"
       },
       "correct": "A",
-      "explanation": "Ir-9 § 11 ust. 1 pkt 5, Ir-9 § 11 ust. 1 pkt 7",
+      "explanation": "Ir-9 § 11 ust. 1 pkt 5 i pkt 7",
       "section_ref": "§ 11"
     },
     {
@@ -1000,7 +1058,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 12 ust. 12",
-      "section_ref": "§ 12"
+      "section_ref": "§ 12",
+      "verified": true
     },
     {
       "uuid": "c1160a00-1928-4e3c-80c2-6d66f778a6e9",
@@ -1013,7 +1072,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 20 ust. 2 pkt 1",
-      "section_ref": "§ 20"
+      "section_ref": "§ 20",
+      "verified": true
     },
     {
       "uuid": "b0dac87c-c066-40c8-81c8-d335774e5a46",
@@ -1026,7 +1086,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 20 ust. 2 pkt 3",
-      "section_ref": "§ 20"
+      "section_ref": "§ 20",
+      "verified": true
     },
     {
       "uuid": "23e93846-5f24-436e-980a-5ca278abaedf",
@@ -1039,7 +1100,8 @@
       },
       "correct": "D",
       "explanation": "Ir-9 § 20 ust. 4 pkt 1",
-      "section_ref": "§ 20"
+      "section_ref": "§ 20",
+      "verified": true
     },
     {
       "uuid": "302f04ae-00ed-4297-b1d8-a9e88d99cfd8",
@@ -1052,7 +1114,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 20 ust. 9",
-      "section_ref": "§ 20"
+      "section_ref": "§ 20",
+      "verified": true
     },
     {
       "uuid": "0e33acf8-6356-4fa1-bdf9-6d15b3a528cc",
@@ -1065,7 +1128,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 21 ust. 2 pkt 21",
-      "section_ref": "§ 21"
+      "section_ref": "§ 21",
+      "verified": true
     },
     {
       "uuid": "3476e093-1583-4315-bd79-a3999bf3d569",
@@ -1078,7 +1142,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 26 ust. 5",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "67b8c063-9971-4353-9696-7f2a858f793b",
@@ -1091,7 +1156,8 @@
       },
       "correct": "D",
       "explanation": "Ir-9 § 26 ust. 4",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "58ade30d-9402-4da4-b684-f251a9c4bfe7",
@@ -1104,14 +1170,15 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 26 ust. 5",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "b21a7e20-d65c-41f4-9871-ea66fcee3ef6",
-      "question": "Kiedy nad torem zelektryfikowanym wolno wchodzić na pojazdy kolejowe lub ładunki przewożone na wagonach odkrytych?",
+      "question": "Kiedy nad torem zelektryfikowanym wolno przebywać na ładunkach przewożonych na wagonach odkrytych?",
       "answers": {
         "A": "Gdy sieć trakcyjna jest wyłączona spod napięcia",
-        "B": "Gdy ładunek ma wysokość poniżej 1 m od podłogi wagonu",
+        "B": "Gdy wysokość ładunku nie jest większa niż 1 m licząc od podłogi wagonu",
         "C": "Zawsze, pod warunkiem zachowania szczególnej ostrożności",
         "D": "Nigdy, pod żadnym warunkiem"
       },
@@ -1130,7 +1197,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 26 ust. 2",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "27a97ff3-3221-4772-914b-753ed6d5b034",
@@ -1143,7 +1211,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 26 ust. 6",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "df49f2e8-9501-4828-b74b-bc8131986191",
@@ -1155,7 +1224,7 @@
         "D": "Kierownik pociągu"
       },
       "correct": "B",
-      "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 2",
+      "explanation": "Ir-9 § 26 ust. 2",
       "section_ref": "§ 26"
     },
     {
@@ -1169,7 +1238,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 3",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "cb650666-4596-4e67-9033-7f908466436a",
@@ -1182,7 +1252,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 15",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "6d1b2730-7d61-452e-9e7c-6f919eccace2",
@@ -1195,7 +1266,8 @@
       },
       "correct": "D",
       "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 19",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "c825dd72-cdc8-49c3-ab3c-c1adb0cbd103",
@@ -1208,7 +1280,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 3 ust. 1",
-      "section_ref": "§ 3"
+      "section_ref": "§ 3",
+      "verified": true
     },
     {
       "uuid": "5322c69b-5565-4332-9d3d-2409a8f8b767",
@@ -1221,7 +1294,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 4 ust. 3",
-      "section_ref": "§ 4"
+      "section_ref": "§ 4",
+      "verified": true
     },
     {
       "uuid": "71e80258-c242-4aba-bfac-4d6ae25f3e01",
@@ -1234,7 +1308,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 7 ust. 4 pkt 2",
-      "section_ref": "§ 7"
+      "section_ref": "§ 7",
+      "verified": true
     },
     {
       "uuid": "8302d55c-235e-4058-989f-a973fc2f3dea",
@@ -1247,7 +1322,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 8 ust. 3",
-      "section_ref": "§ 8"
+      "section_ref": "§ 8",
+      "verified": true
     },
     {
       "uuid": "db88841e-8647-415b-b71a-583be701d983",
@@ -1260,7 +1336,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 8 ust. 5",
-      "section_ref": "§ 8"
+      "section_ref": "§ 8",
+      "verified": true
     },
     {
       "uuid": "632ee897-9ee7-466d-9a99-c4e38d1b4576",
@@ -1273,14 +1350,15 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 8 ust. 6 pkt 4",
-      "section_ref": "§ 8"
+      "section_ref": "§ 8",
+      "verified": true
     },
     {
       "uuid": "68c7637f-289c-4076-9343-65b5fb3dedda",
       "question": "Kiedy maszynista powinien odmówić wykonania polecenia manewrowego?",
       "answers": {
         "A": "Gdy polecenie zostało wydane przez kierownika manewrów ustnie, a nie sygnałem",
-        "B": "Gdy nie był omówiony plan pracy manewrowej albo podany sygnał lub polecenia zostały wydane w sposób niezgodny z przepisami lub budzący wątpliwości",
+        "B": "Gdy nie był omówiony plan pracy manewrowej albo podany sygnał lub polecenia zostały wydane w sposób niezgodny z przepisami lub w sposób budzący wątpliwości",
         "C": "Gdy prędkość manewrów przekracza dopuszczalną wartość określoną w regulaminie technicznym",
         "D": "Gdy maszynista nie ma pewności co do prawidłowego nastawienia zwrotnic na drodze przebiegu"
       },
@@ -1299,16 +1377,17 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 10 ust. 2",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "b7bebb15-57f4-4a77-bd97-3cea3ba3a402",
-      "question": "Gdzie powinien znajdować się pojazd trakcyjny podczas manewrów na torze głównym o pochyleniu większym niż 2,5‰, jeżeli umieszczenie go od strony spadku jest niemożliwe?",
+      "question": "Jakie warunki muszą być spełnione podczas manewrów na torze głównym o pochyleniu większym niż 2,5‰, jeżeli umieszczenie pojazdu trakcyjnego od strony spadku jest niemożliwe?",
       "answers": {
-        "A": "W środku składu manewrowego",
-        "B": "Po stronie przeciwnej do spadku – prędkość jazdy należy zmniejszyć do 15 km/h i włączyć wszystkie wagony do hamulca zespolonego",
-        "C": "Po stronie przeciwnej do spadku – bez ograniczeń prędkości",
-        "D": "Manewry na takim torze są całkowicie zakazane"
+        "A": "Prędkość jazdy należy zmniejszyć do 20 km/h i włączyć co najmniej połowę wagonów do hamulca zespolonego",
+        "B": "Prędkość jazdy należy zmniejszyć do 15 km/h i wszystkie wagony składu manewrowego należy włączyć do hamulca zespolonego",
+        "C": "Manewry są dozwolone bez ograniczeń prędkości, pod warunkiem włączenia wszystkich wagonów do hamulca",
+        "D": "Manewry na takim torze są całkowicie zakazane, gdy pojazd trakcyjny nie może być od strony spadku"
       },
       "correct": "B",
       "explanation": "Ir-9 § 10 ust. 5",
@@ -1325,7 +1404,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 10 ust. 5",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "c40871d5-4d4e-4683-9dd6-1a8ab520110f",
@@ -1338,7 +1418,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 10 ust. 9",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "6592db9e-86e6-4626-9959-cb6d863f2445",
@@ -1351,7 +1432,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 10 ust. 10",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "ee09132a-1b79-49e4-bb65-2e05270cfdd8",
@@ -1364,13 +1446,14 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 10 ust. 13",
-      "section_ref": "§ 10"
+      "section_ref": "§ 10",
+      "verified": true
     },
     {
       "uuid": "fc4b6963-1288-4400-9e92-445e7b74c9bd",
       "question": "Co powinien zrobić kierownik manewrów przed daniem sygnału zezwalającego na jazdę manewrową?",
       "answers": {
-        "A": "Upewnić się osobiście, że pracownik obsługujący zwrotnice dał pozwolenie i nie ma przeszkód do jazdy",
+        "A": "Upewnić się osobiście, że pracownik obsługujący zwrotnice albo manewrowy wyznaczony do obsługi zwrotnic dał pozwolenie na jazdę manewrową oraz czy nie ma przeszkód do jazdy",
         "B": "Wyłącznie sprawdzić sygnał na sygnalizatorze nastawni",
         "C": "Poczekać na pisemne potwierdzenie od maszynisty",
         "D": "Sprawdzić tylko, czy lokomotywa ma sprawny hamulec"
@@ -1381,12 +1464,12 @@
     },
     {
       "uuid": "6a0951c1-2026-4561-a119-ec00f94e40df",
-      "question": "W jakich przypadkach jazda manewrowa może odbywać się bez drużyny manewrowej?",
+      "question": "Które z poniższych przypadków jazdy manewrowej mogą odbywać się bez drużyny manewrowej zgodnie z § 10 ust. 28?",
       "answers": {
-        "A": "Wyłącznie przy jeździe lokomotywy luzem",
-        "B": "Przy jeździe pojazdów pomocniczych, taboru specjalnego, pojazdów trakcyjnych bez taboru lub ciągnących nie więcej niż cztery wagony towarowe albo dwa wagony pasażerskie bez podróżnych",
-        "C": "Przy każdej jeździe manewrowej w nocy",
-        "D": "Wyłącznie po torach bocznicowych"
+        "A": "Wyłącznie jazda lokomotywy luzem oraz przejazd ciągnionych składów pociągowych z torów przyjazdowych",
+        "B": "Jazda pojazdów pomocniczych, taboru specjalnego, pojazdów trakcyjnych bez doczepionego taboru lub ciągnących nie więcej niż cztery wagony towarowe albo dwa wagony pasażerskie bez podróżnych",
+        "C": "Każda jazda manewrowa w nocy po torach bocznicowych",
+        "D": "Wyłącznie jazda manewrowa z pisemnym zezwoleniem dyżurnego ruchu"
       },
       "correct": "B",
       "explanation": "Ir-9 § 10 ust. 28",
@@ -1403,7 +1486,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 11 ust. 1 pkt 2",
-      "section_ref": "§ 11"
+      "section_ref": "§ 11",
+      "verified": true
     },
     {
       "uuid": "ad954887-500b-47e2-84e7-fb0479652f32",
@@ -1416,7 +1500,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 11 ust. 1 pkt 3",
-      "section_ref": "§ 11"
+      "section_ref": "§ 11",
+      "verified": true
     },
     {
       "uuid": "d943e282-3a63-4453-889a-f73787edea29",
@@ -1429,7 +1514,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 11 ust. 1 pkt 4",
-      "section_ref": "§ 11"
+      "section_ref": "§ 11",
+      "verified": true
     },
     {
       "uuid": "c08b0188-9ce3-410d-86ce-e66614c6a5ad",
@@ -1442,7 +1528,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 11 ust. 8 pkt 2",
-      "section_ref": "§ 11"
+      "section_ref": "§ 11",
+      "verified": true
     },
     {
       "uuid": "020d6d75-3cf1-4d92-8de6-7af0ba8f593e",
@@ -1455,7 +1542,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 11 ust. 8 pkt 3",
-      "section_ref": "§ 11"
+      "section_ref": "§ 11",
+      "verified": true
     },
     {
       "uuid": "0e992956-c4e9-47b2-b3c7-e3322cb091b6",
@@ -1468,7 +1556,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 11 ust. 9",
-      "section_ref": "§ 11"
+      "section_ref": "§ 11",
+      "verified": true
     },
     {
       "uuid": "0249bdb7-8c75-4887-a550-1d712e23829c",
@@ -1481,7 +1570,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 11 ust. 12 pkt 2",
-      "section_ref": "§ 11"
+      "section_ref": "§ 11",
+      "verified": true
     },
     {
       "uuid": "7e3437a0-99b1-4b01-9319-7a6aa9ed659b",
@@ -1494,7 +1584,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 11 ust. 13",
-      "section_ref": "§ 11"
+      "section_ref": "§ 11",
+      "verified": true
     },
     {
       "uuid": "e636e6b3-040d-41e9-b83e-6f169fadf69e",
@@ -1507,7 +1598,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 11 ust. 15 pkt 3",
-      "section_ref": "§ 11"
+      "section_ref": "§ 11",
+      "verified": true
     },
     {
       "uuid": "444583cc-dd1d-4266-bf59-882211f29f16",
@@ -1520,7 +1612,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 12 ust. 5",
-      "section_ref": "§ 12"
+      "section_ref": "§ 12",
+      "verified": true
     },
     {
       "uuid": "c3ce7240-364d-4d43-9067-30ed0c18b951",
@@ -1533,7 +1626,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 12 ust. 1",
-      "section_ref": "§ 12"
+      "section_ref": "§ 12",
+      "verified": true
     },
     {
       "uuid": "381451ae-971e-4ec3-ade1-ed74757f467e",
@@ -1546,7 +1640,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 12 ust. 9",
-      "section_ref": "§ 12"
+      "section_ref": "§ 12",
+      "verified": true
     },
     {
       "uuid": "50bc6efd-f4cf-4376-b56c-03e6a0a0ce65",
@@ -1559,7 +1654,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 12 ust. 15",
-      "section_ref": "§ 12"
+      "section_ref": "§ 12",
+      "verified": true
     },
     {
       "uuid": "8e597753-0c36-4714-8bb5-d01dee3b06e8",
@@ -1572,7 +1668,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 12 ust. 11",
-      "section_ref": "§ 12"
+      "section_ref": "§ 12",
+      "verified": true
     },
     {
       "uuid": "201316ef-f146-4b32-b679-e4c968ac0bd1",
@@ -1585,7 +1682,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 13 ust. 5",
-      "section_ref": "§ 13"
+      "section_ref": "§ 13",
+      "verified": true
     },
     {
       "uuid": "6bba8312-32f3-4cc6-a4d0-6b850dcc9138",
@@ -1598,7 +1696,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 13 ust. 7",
-      "section_ref": "§ 13"
+      "section_ref": "§ 13",
+      "verified": true
     },
     {
       "uuid": "9ade1add-09da-48cd-8129-6be8d198d32a",
@@ -1611,14 +1710,15 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 13 ust. 8",
-      "section_ref": "§ 13"
+      "section_ref": "§ 13",
+      "verified": true
     },
     {
       "uuid": "f7961c77-3b49-4f59-aaab-f1e108dfdf0a",
       "question": "Jak należy wchodzić pomiędzy pojazdy kolejowe w celu sprzęgnięcia lub rozprzęgnięcia?",
       "answers": {
         "A": "Wchodzić wyprostowanym, trzymając obie ręce przy ciele",
-        "B": "Schylić się poniżej zderzaka, chwytając ręką za uchwyt pod zderzakiem przy czołownicy",
+        "B": "Schylić się poniżej zderzaka, chwytając ręką za uchwyt umocowany pod zderzakiem do czołownicy pojazdu kolejowego",
         "C": "Wchodzić bokiem, opierając się o zderzaki",
         "D": "Wchodzić od strony toru sąsiedniego dla lepszej widoczności"
       },
@@ -1637,7 +1737,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 14 ust. 5 pkt 2",
-      "section_ref": "§ 14"
+      "section_ref": "§ 14",
+      "verified": true
     },
     {
       "uuid": "f76b8691-673c-43fc-8d78-a77523ae5393",
@@ -1650,7 +1751,8 @@
       },
       "correct": "D",
       "explanation": "Ir-9 § 14 ust. 3 pkt 1",
-      "section_ref": "§ 14"
+      "section_ref": "§ 14",
+      "verified": true
     },
     {
       "uuid": "c02038e1-79b8-468b-a7ad-54df32fade5d",
@@ -1663,7 +1765,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 14 ust. 6",
-      "section_ref": "§ 14"
+      "section_ref": "§ 14",
+      "verified": true
     },
     {
       "uuid": "e8275a79-ed35-4b23-bb2c-6538f12c8ff4",
@@ -1676,7 +1779,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 15 ust. 2",
-      "section_ref": "§ 15"
+      "section_ref": "§ 15",
+      "verified": true
     },
     {
       "uuid": "5aca76b3-3ee3-4587-8c84-9579d83b65f3",
@@ -1689,7 +1793,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 15 ust. 6",
-      "section_ref": "§ 15"
+      "section_ref": "§ 15",
+      "verified": true
     },
     {
       "uuid": "b917bbb3-90db-47b4-993a-881fd07441c6",
@@ -1702,7 +1807,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 15 ust. 4",
-      "section_ref": "§ 15"
+      "section_ref": "§ 15",
+      "verified": true
     },
     {
       "uuid": "dcee79e0-35a4-4702-bdce-3607639adeb9",
@@ -1715,7 +1821,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 15 ust. 8",
-      "section_ref": "§ 15"
+      "section_ref": "§ 15",
+      "verified": true
     },
     {
       "uuid": "df1c2332-ae24-454d-9ac5-bf4892967370",
@@ -1728,7 +1835,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 15 ust. 9",
-      "section_ref": "§ 15"
+      "section_ref": "§ 15",
+      "verified": true
     },
     {
       "uuid": "d4303717-1996-4f4d-ab50-dbeab0911807",
@@ -1741,7 +1849,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 16 ust. 2",
-      "section_ref": "§ 16"
+      "section_ref": "§ 16",
+      "verified": true
     },
     {
       "uuid": "d82e0ef7-b8bf-4919-8f52-97dd0fa9f9a5",
@@ -1754,7 +1863,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 18 ust. 5",
-      "section_ref": "§ 18"
+      "section_ref": "§ 18",
+      "verified": true
     },
     {
       "uuid": "497438af-c025-46a0-8edb-150706d010cf",
@@ -1767,16 +1877,17 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 19 ust. 3 pkt 6 lit. a",
-      "section_ref": "§ 19"
+      "section_ref": "§ 19",
+      "verified": true
     },
     {
       "uuid": "01a1adad-0e48-42f9-b891-468a6d9b8139",
       "question": "Przed dojechaniem składu manewrowego do wagonów stojących na torach naprawczych, co należy sprawdzić?",
       "answers": {
-        "A": "Czy przy pojazdach nie pracują ludzie, czy pojazdy nie są na podnośnikach i czy sprzęt naprawczy jest poza skrajnią budowli",
-        "B": "Wystarczy sprawdzić, czy pracownicy opuścili wagony",
-        "C": "Czy drzwi wagonów są pozamykane",
-        "D": "Czy ładunek w wagonach jest zabezpieczony przed uszkodzeniem"
+        "A": "Czy przy pojazdach nie pracują ludzie, czy pojazdy nie znajdują się na podnośnikach i czy sprzęt służący do naprawy usunięty jest poza skrajnię budowli",
+        "B": "Czy drzwi wagonów są pozamykane, czy pracownicy opuścili wagony i czy na torze nie ma usypów ładunku",
+        "C": "Czy przy pojazdach nie pracują ludzie i czy ładunek w wagonach jest zabezpieczony przed obsunięciem się w czasie manewrów",
+        "D": "Czy pojazdy nie znajdują się na podnośnikach i czy składowany ładunek jest w odległości co najmniej 800 mm od zewnętrznej krawędzi szyny"
       },
       "correct": "A",
       "explanation": "Ir-9 § 19 ust. 5",
@@ -1793,7 +1904,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 20 ust. 2 pkt 2",
-      "section_ref": "§ 20"
+      "section_ref": "§ 20",
+      "verified": true
     },
     {
       "uuid": "46c37028-e157-42fe-9e6b-63d94ed40661",
@@ -1806,7 +1918,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 20 ust. 2 pkt 2",
-      "section_ref": "§ 20"
+      "section_ref": "§ 20",
+      "verified": true
     },
     {
       "uuid": "3465a616-7b0c-4978-855d-e84ea88ed4c3",
@@ -1819,7 +1932,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 20 ust. 7 pkt 5",
-      "section_ref": "§ 20"
+      "section_ref": "§ 20",
+      "verified": true
     },
     {
       "uuid": "dcc4daa3-9d43-424e-bfe8-914574065d88",
@@ -1832,7 +1946,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 20 ust. 11",
-      "section_ref": "§ 20"
+      "section_ref": "§ 20",
+      "verified": true
     },
     {
       "uuid": "f25f7d52-c977-4921-a6a1-86e8a909039d",
@@ -1845,7 +1960,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 20 ust. 1",
-      "section_ref": "§ 20"
+      "section_ref": "§ 20",
+      "verified": true
     },
     {
       "uuid": "0463ba4c-c6b0-469c-be5a-55134eae64d9",
@@ -1858,7 +1974,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 20 ust. 10",
-      "section_ref": "§ 20"
+      "section_ref": "§ 20",
+      "verified": true
     },
     {
       "uuid": "69eb4419-5ee9-4d5e-a35a-23a0b1bf4a2b",
@@ -1871,7 +1988,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 21 ust. 2 pkt 4a",
-      "section_ref": "§ 21"
+      "section_ref": "§ 21",
+      "verified": true
     },
     {
       "uuid": "dfe36b6c-2431-4b71-94ba-1fab4456cb55",
@@ -1884,7 +2002,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 21 ust. 2 pkt 6",
-      "section_ref": "§ 21"
+      "section_ref": "§ 21",
+      "verified": true
     },
     {
       "uuid": "38aac3a6-335d-40f6-abd8-dc56d2db28f8",
@@ -1897,7 +2016,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 21 ust. 2 pkt 20",
-      "section_ref": "§ 21"
+      "section_ref": "§ 21",
+      "verified": true
     },
     {
       "uuid": "66ea1ace-9290-4265-83f7-de11d72a36b5",
@@ -1910,7 +2030,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 21 ust. 2 pkt 21",
-      "section_ref": "§ 21"
+      "section_ref": "§ 21",
+      "verified": true
     },
     {
       "uuid": "af3ba4b1-3c60-4528-9412-058555552899",
@@ -1923,7 +2044,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 21 ust. 2 pkt 9",
-      "section_ref": "§ 21"
+      "section_ref": "§ 21",
+      "verified": true
     },
     {
       "uuid": "d41a4c25-6e12-4292-9c01-19ca5370f058",
@@ -1936,7 +2058,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 21 ust. 2 pkt 7",
-      "section_ref": "§ 21"
+      "section_ref": "§ 21",
+      "verified": true
     },
     {
       "uuid": "c7f12e36-e7fd-429e-80f5-b980ecbcab34",
@@ -1949,7 +2072,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 22 ust. 4",
-      "section_ref": "§ 22"
+      "section_ref": "§ 22",
+      "verified": true
     },
     {
       "uuid": "bd6ac3a7-4045-467d-9e96-c245ee4364cd",
@@ -1962,7 +2086,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 22 ust. 5 pkt 1",
-      "section_ref": "§ 22"
+      "section_ref": "§ 22",
+      "verified": true
     },
     {
       "uuid": "09174904-0f18-4641-b461-f5d949004c9b",
@@ -1975,7 +2100,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 24 ust. 6",
-      "section_ref": "§ 24"
+      "section_ref": "§ 24",
+      "verified": true
     },
     {
       "uuid": "78ca3baa-4de2-4e18-90b0-03c85e81522f",
@@ -1988,14 +2114,15 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 25 ust. 3",
-      "section_ref": "§ 25"
+      "section_ref": "§ 25",
+      "verified": true
     },
     {
       "uuid": "ea06794c-5f52-43c2-acc2-8615466344b5",
       "question": "Na których stopniach zabrania się przebywania w czasie ruchu pojazdu kolejowego?",
       "answers": {
         "A": "Na stopniach z nowym uchwytem przymocowanym do ściany wagonu",
-        "B": "Na stopniach z uchwytem uszkodzonym lub umocowanym wyłącznie do drzwi rozsuwanych",
+        "B": "Na stopniach bez uchwytu, z uchwytem uszkodzonym lub umocowanym wyłącznie do drzwi rozsuwanych",
         "C": "Na stopniach w środkowej części wagonu towarowego",
         "D": "Na stopniach pojazdu stojącego na bocznicy"
       },
@@ -2014,7 +2141,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 1",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "0634b1d6-92d6-45b3-8edc-75e9ec1e2a4a",
@@ -2027,7 +2155,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 6",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "3acd57af-41ff-4eb0-97e4-18fc0d753b6a",
@@ -2040,7 +2169,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 13",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "96325d83-df4b-40c0-a722-2c75b1ec27d2",
@@ -2053,7 +2183,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 16",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "a1a2ee97-3bb6-4618-9499-7682c7cf867a",
@@ -2066,7 +2197,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 15",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "3bd08483-4884-4228-8fc6-494bc3ec7c85",
@@ -2079,7 +2211,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 15",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "d07f4a0f-9f6e-43da-894d-ec8fe5a5b47c",
@@ -2092,7 +2225,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 17 pkt 3",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "4d0925f8-60de-4eb0-b7bd-f48293feec15",
@@ -2105,7 +2239,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 17 pkt 6",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "5f950227-1c8f-4625-a10a-b12dec964dc9",
@@ -2118,7 +2253,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 18",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "346402b0-8be8-41c0-8c6a-a39fed207697",
@@ -2131,7 +2267,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 26 Załącznik nr 1 ust. 5",
-      "section_ref": "§ 26"
+      "section_ref": "§ 26",
+      "verified": true
     },
     {
       "uuid": "fe238590-01c6-4fef-93a6-ebb4586c5209",
@@ -2144,7 +2281,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 4 ust. 4",
-      "section_ref": "§ 4"
+      "section_ref": "§ 4",
+      "verified": true
     },
     {
       "uuid": "2008adcd-b5db-461c-a71f-ea523d39c6c8",
@@ -2157,7 +2295,8 @@
       },
       "correct": "A",
       "explanation": "Ir-9 § 5 ust. 5",
-      "section_ref": "§ 5"
+      "section_ref": "§ 5",
+      "verified": true
     },
     {
       "uuid": "53b431f8-7dd3-402c-ab7e-8a9a595515ae",
@@ -2170,7 +2309,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 5 ust. 7",
-      "section_ref": "§ 5"
+      "section_ref": "§ 5",
+      "verified": true
     },
     {
       "uuid": "46b518ed-b8f7-49ff-8f08-5e06c4cfec60",
@@ -2183,7 +2323,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 5 ust. 6",
-      "section_ref": "§ 5"
+      "section_ref": "§ 5",
+      "verified": true
     },
     {
       "uuid": "0ef6c188-d4de-464c-aa65-c014de7848e1",
@@ -2196,7 +2337,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 6 ust. 4",
-      "section_ref": "§ 6"
+      "section_ref": "§ 6",
+      "verified": true
     },
     {
       "uuid": "e5afa0eb-d781-4335-ac0b-cbb4179a2ef7",
@@ -2209,7 +2351,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 6 ust. 3",
-      "section_ref": "§ 6"
+      "section_ref": "§ 6",
+      "verified": true
     },
     {
       "uuid": "054aa477-51fe-44dd-a18e-536dd6b89cdb",
@@ -2222,7 +2365,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 7 ust. 2 pkt 5",
-      "section_ref": "§ 7"
+      "section_ref": "§ 7",
+      "verified": true
     },
     {
       "uuid": "7f461937-99ae-451c-a354-2f65d04a055a",
@@ -2235,7 +2379,8 @@
       },
       "correct": "D",
       "explanation": "Ir-9 § 7 ust. 3 pkt 9 lit. c",
-      "section_ref": "§ 7"
+      "section_ref": "§ 7",
+      "verified": true
     },
     {
       "uuid": "4c9caf09-0918-4d87-ae5f-d056fcc070ca",
@@ -2248,7 +2393,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 7 ust. 4 pkt 2",
-      "section_ref": "§ 7"
+      "section_ref": "§ 7",
+      "verified": true
     },
     {
       "uuid": "a6c3cf34-68ca-489c-8838-b09b2ae7c8a1",
@@ -2261,7 +2407,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 7 ust. 5",
-      "section_ref": "§ 7"
+      "section_ref": "§ 7",
+      "verified": true
     },
     {
       "uuid": "24a09606-41ca-43b1-b393-1deb3b2f4358",
@@ -2274,7 +2421,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 7 ust. 6",
-      "section_ref": "§ 7"
+      "section_ref": "§ 7",
+      "verified": true
     },
     {
       "uuid": "4402c5d4-556f-4aa7-a56d-18a9e3c6e66b",
@@ -2287,7 +2435,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 7 ust. 7",
-      "section_ref": "§ 7"
+      "section_ref": "§ 7",
+      "verified": true
     },
     {
       "uuid": "87e7f24b-1944-4d09-afb7-f4c6665d10c6",
@@ -2300,14 +2449,15 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 7 ust. 9",
-      "section_ref": "§ 7"
+      "section_ref": "§ 7",
+      "verified": true
     },
     {
       "uuid": "973673ea-00b4-4bc0-8e21-9aafc13efc23",
       "question": "Co manewrowy powinien zrobić po ukończeniu sprawdzania torów i pojazdów kolejowych przed przystąpieniem do pracy?",
       "answers": {
         "A": "Natychmiast przystąpić do pracy manewrowej",
-        "B": "Zgłosić informację o stanie torów, pojazdów oraz zauważonych nieprawidłowościach lub przeszkodach kierownikowi manewrów",
+        "B": "Zgłosić informację o stanie torów, pojazdów kolejowych oraz zauważonych nieprawidłowościach lub przeszkodach kierownikowi manewrów",
         "C": "Sporządzić pisemny raport i przekazać go dyżurnemu ruchu",
         "D": "Powiadomić maszynistę o stanie torów"
       },
@@ -2326,7 +2476,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 8 ust. 2",
-      "section_ref": "§ 8"
+      "section_ref": "§ 8",
+      "verified": true
     },
     {
       "uuid": "b0ff67ed-6de5-4a90-845c-3c5d8268b79a",
@@ -2339,14 +2490,15 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 8 ust. 3",
-      "section_ref": "§ 8"
+      "section_ref": "§ 8",
+      "verified": true
     },
     {
       "uuid": "fb774ce7-c423-4ba0-bf50-a9b4c98013e0",
       "question": "Co manewrowy powinien sprawdzić przed zakończeniem pracy w zakresie pojazdów kolejowych?",
       "answers": {
         "A": "Czy pojazdy kolejowe są oznakowane i gotowe do odjazdu",
-        "B": "Czy nie pozostawiono pojazdów kolejowych poza ukresami torów oraz czy pojazdy są zabezpieczone przed zbiegnięciem",
+        "B": "Czy nie pozostawiono pojazdów kolejowych poza ukresami torów oraz czy pojazdy kolejowe są zabezpieczone przed zbiegnięciem",
         "C": "Wyłącznie czy sprzęgi hamulcowe są pozawieszone na wsporniki",
         "D": "Czy pojazdy mają właściwe numery i dokumenty przewozowe"
       },
@@ -2365,7 +2517,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 8 ust. 8",
-      "section_ref": "§ 8"
+      "section_ref": "§ 8",
+      "verified": true
     },
     {
       "uuid": "bb77b6f1-f004-42a5-ae3b-a361a6d5500e",
@@ -2378,7 +2531,8 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 8 ust. 7",
-      "section_ref": "§ 8"
+      "section_ref": "§ 8",
+      "verified": true
     },
     {
       "uuid": "75abbd13-29f3-4a29-b227-3dce5eeea537",
@@ -2391,7 +2545,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 9 ust. 2",
-      "section_ref": "§ 9"
+      "section_ref": "§ 9",
+      "verified": true
     },
     {
       "uuid": "10c1ef6a-209b-4fc7-9542-3037b79c4c43",
@@ -2404,7 +2559,8 @@
       },
       "correct": "B",
       "explanation": "Ir-9 § 9 ust. 5",
-      "section_ref": "§ 9"
+      "section_ref": "§ 9",
+      "verified": true
     },
     {
       "uuid": "05857ea5-deec-4c89-8e8a-bb9cabb76ea9",
@@ -2417,7 +2573,125 @@
       },
       "correct": "C",
       "explanation": "Ir-9 § 9 ust. 8",
-      "section_ref": "§ 9"
+      "section_ref": "§ 9",
+      "verified": true
+    },
+    {
+      "uuid": "70131363-0647-4d0f-9ead-ec037eb78259",
+      "question": "Jaka jest maksymalna prędkość jazdy manewrowej przez przejazdy kolejowo-drogowe i przejścia niezabezpieczone rogatkami?",
+      "answers": {
+        "A": "20 km/h",
+        "B": "25 km/h",
+        "C": "15 km/h",
+        "D": "10 km/h"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 10 ust. 27 pkt 2",
+      "section_ref": "§ 10"
+    },
+    {
+      "uuid": "e8f8f12c-44f1-4986-bd36-f619fd7e0155",
+      "question": "Pod jakim warunkiem pojazd trakcyjny może znajdować się między manewrującymi wagonami podczas manewrów?",
+      "answers": {
+        "A": "Gdy pochylenie nie przekracza 2,5‰ i nie stosuje się odrzucania",
+        "B": "Gdy pochylenie nie przekracza 5‰ i wagony są zahamowane",
+        "C": "Gdy pochylenie nie przekracza 2,5‰ i prędkość nie przekracza 10 km/h",
+        "D": "Gdy pochylenie nie przekracza 5‰ i nie stosuje się staczania z górki"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 10 ust. 4",
+      "section_ref": "§ 10"
+    },
+    {
+      "uuid": "f25d4b96-e219-4eca-bbd8-adf304eb4e30",
+      "question": "Gdzie zabrania się pozostawiania pojazdów kolejowych po ukończeniu manewrów?",
+      "answers": {
+        "A": "Poza ukresami torów, na żeberkach ochronnych oraz między rozjazdami łączącymi sąsiednie tory",
+        "B": "Na torach głównych zasadniczych oraz na torach bocznicowych",
+        "C": "Na torach kierunkowych oraz na torach odjazdowych",
+        "D": "Na torach postojowych oraz na torach ładunkowych"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 10 ust. 25",
+      "section_ref": "§ 10"
+    },
+    {
+      "uuid": "17e1a103-2279-41b6-917b-fdf15fd875c9",
+      "question": "Jaka jest maksymalna prędkość dojeżdżania odprzęgów staczanych lub odrzucanych do stojących pojazdów na zautomatyzowanych górkach rozrządowych wyposażonych w urządzenia docelowego hamowania wagonów?",
+      "answers": {
+        "A": "5,4 km/h",
+        "B": "3,6 km/h",
+        "C": "5 km/h",
+        "D": "3 km/h"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 10 ust. 27 pkt 5",
+      "section_ref": "§ 10"
+    },
+    {
+      "uuid": "e46c0c06-9002-45d8-8366-a44cc87d6abd",
+      "question": "Jaka szerokość obręczy kół jest wymagana dla wagonów staczanych z górek rozrządowych wyposażonych w hamulce ETH?",
+      "answers": {
+        "A": "133 - 140 mm",
+        "B": "120 - 150 mm",
+        "C": "125 - 145 mm",
+        "D": "130 - 135 mm"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 11 ust. 15 pkt 1",
+      "section_ref": "§ 11"
+    },
+    {
+      "uuid": "2b386824-ae36-4914-8e64-af99c0d53d6e",
+      "question": "Co jest zabronione przy układaniu dwóch płozów hamulcowych na torze?",
+      "answers": {
+        "A": "Układanie dwóch płozów na obu tokach szyn na tej samej wysokości",
+        "B": "Układanie dwóch płozów na tym samym toku szynowym w odległości 15–20 m",
+        "C": "Układanie dwóch płozów na tym samym toku szynowym jeden za drugim",
+        "D": "Układanie dwóch płozów na jednym toku szynowym w odległości mniejszej niż 10 m"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 12 ust. 10",
+      "section_ref": "§ 12"
+    },
+    {
+      "uuid": "b08dcfda-2c42-49d0-979d-6038a6176629",
+      "question": "Ile maksymalnie obrotów śruby sprzęgu śrubowego można wykonać od momentu styku zderzaków przy sprzęganiu pojazdów kolejowych w pociągach utrzymaniowo-naprawczych?",
+      "answers": {
+        "A": "Nie więcej niż jeden obrót śruby",
+        "B": "Nie więcej niż dwa obroty śruby",
+        "C": "Nie więcej niż trzy obroty śruby",
+        "D": "Nie więcej niż pół obrotu śruby"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 13 ust. 9",
+      "section_ref": "§ 13"
+    },
+    {
+      "uuid": "a9089b7b-c475-4c0a-a9f5-4630412f6429",
+      "question": "Kiedy dozwolone są manewry na torach łączących się z torem, po którym przygotowano drogę przebiegu dla pociągu?",
+      "answers": {
+        "A": "Tylko gdy droga przebiegu dla pociągu jest zabezpieczona zwrotnicami ochronnymi, wykolejnicami lub sygnalizatorami zabraniającymi jazd manewrowych",
+        "B": "Tylko gdy prędkość manewrów nie przekracza 5 km/h i pociąg jest jeszcze odległy",
+        "C": "Tylko gdy kierownik manewrów uzyskał ustną zgodę maszynisty pociągu",
+        "D": "Tylko gdy manewry odbywają się w kierunku przeciwnym do jazdy pociągu"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 15 ust. 3",
+      "section_ref": "§ 15"
+    },
+    {
+      "uuid": "95be42da-2146-40d5-bc0c-4fbe68a6c074",
+      "question": "Jak należy postąpić, gdy dozwolony czas prowadzenia manewrów na torze szlakowym jeszcze nie upłynął, ale dyżurny ruchu zarządził wcześniejsze przerwanie manewrów?",
+      "answers": {
+        "A": "Należy niezwłocznie przerwać manewry i zwolnić tor",
+        "B": "Można kontynuować manewry do upływu dozwolonego czasu",
+        "C": "Należy zmniejszyć prędkość do 5 km/h i dokończyć bieżący ruch manewrowy",
+        "D": "Należy uzyskać potwierdzenie polecenia od kierownika manewrów sąsiedniego rejonu"
+      },
+      "correct": "A",
+      "explanation": "Ir-9 § 15 ust. 7",
+      "section_ref": "§ 15"
     }
   ]
 }

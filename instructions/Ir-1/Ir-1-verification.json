@@ -1,1193 +1,348 @@
 {
   "instruction": "Ir-1",
-  "timestamp": "2026-03-04T21:09:54.719269",
+  "timestamp": "2026-03-05T21:02:30.214314",
   "summary": {
-    "total": 236,
-    "ok": 236,
-    "fix": 0,
-    "delete": 0,
-    "new": 0
+    "total": 54,
+    "ok": 47,
+    "fix": 7,
+    "delete": 0
   },
   "results": [
     {
-      "uuid": "1bc19468-1c55-4f49-bd8e-5363bab045a0",
+      "uuid": "62f1552c-5a9e-47d6-8e21-fde0a169032d",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "fe03871e-afd1-44b7-841d-9ff71ae5e3e4",
+      "uuid": "1a44f534-801d-4fde-b400-5bd57bfef153",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "2e569d85-31bd-4151-b14d-41c7b7f1da9b",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "021f516a-567d-4150-99f8-a1989441a487",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "6ae43bbd-882f-47a0-97c4-0d625de16a57",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "81697dbb-93ec-4719-9691-d33972784b1f",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "2c71d1b9-077a-44af-998e-151a4909047b",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "c30f138d-9c5e-4a9b-aa39-256f20806b00",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "4112d3b1-47a2-476f-bb7f-bd1a30da4ee7",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "4bbc3382-bb41-4b08-aacf-89a11469d6a5",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "0150cf26-08f2-45d7-8273-237758d8d487",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "51952e92-528d-474c-9380-4816c069ac74",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "fccaf1fd-839e-41d9-b7b1-4a8793f3ca15",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "7a63b6ea-26c4-4407-8ce5-db604c3aeec8",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "c049358f-eff5-4f02-b9af-c43bb04bd524",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "ba018c5a-43b2-4aa5-ba3f-d8df059e8f74",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "c4c2f4cf-9ff6-479f-adf6-09047aca39b1",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "b621b55b-9cef-4b3d-980d-426ab3c55696",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "21e47d42-acb3-4c4b-b9b0-8bb6cef90e5e",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "e886398c-e295-4a68-91d1-ad1c9b40f154",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "a21d4e08-51b9-4a25-92ef-84b8268537f3",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "bd102dfc-6704-463a-8509-c2499ec6c0af",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "1a800681-496a-4dad-bd2e-14654abefd0f",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "9b6820b5-d3cf-4a1e-ad75-0e11e5ab42e2",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "008515b2-ed00-4dd8-a260-9e48b7072081",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "7ace9062-601f-4c74-aa09-8ef53590806b",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "03d0d8e4-34d4-4ec8-8f91-e79dbe921030",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "d82b007e-767b-489e-8903-b4fec15c3eda",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "a6de46c0-92d7-4ad0-ab94-8768886f2e9c",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "7bf98d53-f2a9-425c-b3a2-2b3e43227300",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "f3eece9b-522e-481a-8b10-63e15ed22c70",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "067f06cc-1968-45c7-a2b2-4804d1a54ba5",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "25c10fdf-a4e6-4d66-9232-352c3adf53da",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "9ee5389e-b1a0-4bd4-91dc-9635ed7a415e",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "53fe4cbe-25ee-40dd-8cd1-60457563f377",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "1e682838-6a9c-4acd-a989-b68c2076c551",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "bd6ed91d-1a97-47c5-8d78-1f21439d3e1d",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "75a47469-eb36-4325-81ef-6ded26948c30",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "68f26fbc-2c58-4f9c-8a8d-27adc741b720",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "f1807466-0de6-4ecd-bb2d-bf34a2566e7e",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "f54aca84-6565-485a-9201-3c20cc685030",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "5aed811d-573d-49ae-95b0-631f618a9210",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "1be3999a-c33f-4548-a5a7-31957dc3326b",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "de3ccb1d-4d2f-44c7-8df5-3b9e228f9962",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "34cee8cf-4322-438c-872a-e9214a8038f9",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "0c5f2953-f4b1-4f98-896b-d8f123d6617a",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "323115d4-1ec3-45cc-87b7-ca9b05facfeb",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "ff4d5ac3-2175-459d-aab3-1526add59f87",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "6679a4aa-f560-4cb1-bb10-91b40bf40cbe",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "47aed480-5285-4285-ad5f-a6458ad87327",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "f3b7a11b-ebfb-4c88-ab12-63a866086b32",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "51183df3-d163-4ae1-8c33-6623fb4eb82c",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "88323d44-a5f6-4246-a709-fda016110a54",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "9b77fdce-44f7-4555-adbc-6adef95b8451",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "cc1a2efb-1e1d-4dba-b730-e056b178903b",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "d6ca82cc-2dfd-4799-b385-eea480980bcd",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "624143fa-9b99-4c5e-a408-5973e3359175",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "2238333e-a7eb-4c9d-bfd9-e935759aad75",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "65430517-2034-422a-8d1b-7fc6835ef67d",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "ea034a52-91e2-47e7-9413-957dc3e00ddb",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "167024ee-7271-40de-b599-79f12c35c025",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "e96ac394-d4fd-41e4-ad80-8c0e8957c55a",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "1dbcbee2-0c99-4956-b7b1-de86506b9381",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "4772870a-989d-438c-ad5a-59a3d420bc76",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "40d91444-a5d5-4c32-92c8-a7ffdf9c5ed3",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "40b17120-12fa-4702-a88d-8f74edf840cc",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "f27693d5-0ffa-4397-a9aa-f0bda97a3482",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "97a674e6-70c2-476a-8292-7b7513144afa",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "4c322de9-4db7-499f-9cf9-ab831ccc836c",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "2b53f3c5-648b-4ea6-9f01-824c7c9f3f8f",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "b0969a5b-3c07-464f-a23f-3c37fd47d689",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "c987d523-f53e-4348-9fb7-1e9cd5e762ae",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "b8b80388-f199-4d37-aa49-eeeb78563bd1",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "73a1bc68-accd-42d0-98cf-d4c911e69d49",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "491204e6-2b82-4629-9b16-dcaf2b846608",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "474b69be-62c9-4598-a91a-764f5f6f945b",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "5a992d5f-1934-4dd8-92b9-ce6fe6f50634",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "c4aa34e2-499e-42d1-8792-31fad01f19b9",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "b6bd331d-b8d3-4038-bd39-d1227620e0e1",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "59755436-1ddb-4fe8-9f2a-821e96cc0c61",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "a31c9eae-d7ea-4b95-b7c7-e07bcdda8e5a",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "f8504cca-f74e-400e-a52d-e414181b291b",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "93b28840-9350-4af3-986f-76da889c8b2c",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "44164d6a-92ab-4bce-8d19-80e06037f6c4",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "0f718487-58df-4c62-ab3c-c5a525639000",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "bb0a14a6-d947-4980-a178-6ba22bb49975",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "cfa8deea-1626-4136-955c-3ae67ad1e55c",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "bc7875bb-fa38-43e6-9ce4-6925705cf56b",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "8bdd23c5-1865-475d-a599-7238e868b777",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "20eefea4-922c-450a-b11d-e900343bf973",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "eff232e0-a1d5-4ac7-9c57-a278d4cd06ff",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "b82fc240-bd70-497c-863a-58e9fbde5884",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "01512ac0-a958-472d-ba22-5ab2d98fb73b",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "73a609d2-00a4-4650-98ba-6a2a2f16d2b2",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "88843578-af17-45ae-80a3-c8377998f656",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "fb2c5048-297c-4aa7-bd74-0e309388aa32",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "752729f5-e2f3-4ed7-9510-4457d32d6331",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "e01dc889-6377-4153-9266-be3b653263ba",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "ec570b05-8a0d-4d91-a3a7-e734eef63a8d",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "2350eecd-47e8-4088-abea-ad9713866be1",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "91559c9b-e987-40e1-8d25-27d06f076522",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "ba0a2d65-3e05-4a8b-999b-04be7e122193",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "3ef040c9-fe53-4797-bb2b-aa7436dffc75",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "444f63c8-b63a-4226-b6ef-ed435ccc6751",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "18a6dfbd-c9e0-4ad5-af2a-366459135d36",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "dd38f13f-f1f3-4154-9c3d-7d10b89fa249",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "bab6bf05-8a19-42ea-9772-3c9e1c409beb",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "925ac5bc-b443-4197-9e3b-336098317e42",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "ef167e94-3e26-4db6-88c6-f71f0acb3e6e",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "fc3286b2-261d-4459-8245-d60fab366f92",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "e3d4c011-f81d-4631-8a6f-e4858cc14b19",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "5998b787-94b2-4f56-94e6-41b59f6ccd36",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "27b7bacc-dd5c-4eca-8654-60c7acd34718",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "3703dbbf-3b0f-4fb3-b8b8-535b2593462c",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "1241c470-41b0-4c7d-9e20-046f828bcab3",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "11ac1004-9a57-4133-b336-60d55e63a8eb",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "ffde66ca-f9a5-43ac-bb55-434210d58376",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "ae9afc7d-eb38-4fd4-8d35-5e971b554cd0",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "c17d6642-52d8-4812-b6d2-5a613cdfe943",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "8ae182b3-c1f4-461a-b5c6-95d6c460df9e",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "57c1ee73-fe29-4624-a20c-b30e9cc3b316",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "19e48db2-fd79-41ea-986a-a5454fd6afc9",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "284ef5b0-b453-4e7d-b5fb-55c36ea7a86f",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "bebbc9b7-5eed-4ce1-9bcb-21097b55c3ee",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "444d20b6-fb66-4990-8a92-f0c1b54f3116",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "48f1881b-1c19-495e-8fe1-e50b287b596e",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "4f59a74b-f7d3-4066-a8cd-d4ae18dc94b3",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "b0fb41d9-acbd-4f4c-b2cd-96f23495af93",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "027f7d05-2598-4ef0-9730-6e607a01e721",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "9dc04dab-fd10-445d-b8ab-3aaf381a09be",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "3c6487dd-7b5e-439b-a2d6-cea2c57f8e5f",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "c26016b2-7ce1-4c6d-be20-e5a446b9aaba",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "c3237d16-9a9a-4273-b275-82739f3d5424",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "9ab7e5ff-5bd2-42c1-b3e2-da76f0133080",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "c21222da-d197-4457-bd6d-3a28a8af59e9",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "655cc6a1-e657-4fd1-af3d-e7ca0e2e7550",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "65545253-cadf-4143-9a1a-2bc9531a6d6a",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "37ec46e2-d0d4-425a-874e-31b16784e6c1",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "c447ac89-a8f9-4200-8e13-84f32d7d94b2",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "7d27b18d-0a2a-49f1-94f2-8224f5cb7a00",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "589741c4-02e8-4e95-a44a-ffeed9e665af",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "f0482c09-166f-4e5d-b8d6-22d3c2d3c15e",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "aefb0661-4d96-4158-880f-efe3c89679f4",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "7afee4f4-9b2a-42a1-b9a9-5ff9cbbb3287",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "1011b6d3-f5f3-4b80-9f6d-0575e1f6ce86",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "9ef290a6-5229-48c1-a306-373d4b0ea392",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "677492b8-745c-4153-9c8c-9f94226e0041",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "5475022c-0ad4-4af7-8f01-2361dea16f8b",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "d54024cf-70d0-4b0d-b7b4-da4b82dcb311",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "2ca174b3-4ca5-493d-a249-0c31ba3d597c",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "b83a1ea3-5242-4f33-bae1-504a6e1d409d",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "bd0e61c2-94a5-4178-a208-6a7e6226bd1b",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "3da7589f-47e9-4782-9c2a-dfcef4e2b9f4",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "b4fe270d-7f8c-4ec2-9389-235e539915b9",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "93f473ec-5ce8-44ca-b21a-45645ed93155",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "f044feca-c06c-4442-af45-2e5a83cb9856",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "22939592-3237-4817-9acc-144aaba4865c",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "b5f6b23b-eda3-470d-ac13-e84b43ed67c4",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "d3d9f4c8-8f53-44ef-9d52-0e072876a7c4",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "efc90d67-0847-4831-9853-09ac6f85215b",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "d985f89a-6e2a-46a9-8a13-8a5587d19ae9",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "b0d30d9e-6ecb-467c-846d-2e21a23c699e",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "cf0045ef-8d35-4c04-ab67-11c7979b66b5",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "0da3ac31-2f16-42ae-9dc8-56005cb6f6da",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "ba9cb3c4-abc2-43f4-8c55-96bafac17158",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "9d6d0115-37e9-4be4-a612-62158fdbc12d",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "bcfe3a97-4ed0-429c-8fd5-c82cdb3ca397",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "dd1712e7-b055-4c14-aa56-45ade6b598b5",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "34bd360a-e277-4526-bfe5-010da48bb8f4",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "0866d8e7-0b0f-46c3-9d23-c48c9ffb8f51",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "dd6b39f7-9e2c-42e8-bc4b-c10e1c215298",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "4b21614a-2298-4361-a200-3d1cc3fc1bf3",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "fe93fd81-451f-485d-8281-82bcdbca5fae",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "6806d425-e767-45b5-83cf-db70c840f696",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "6e9acc2f-0663-488a-ac93-b8de613855a8",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "2cc2999a-1db8-4018-b7c1-16c7473c89ed",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "d5805ac8-9358-4c97-b827-5ec87ec453e7",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "b15e7997-812c-4d4e-8c3e-0c8a24e82482",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "44fe09a5-069c-4631-b219-db147227e83d",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "b1d7a9c2-aaf5-4795-a6a6-15237c7eb95a",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "6de3ac49-4e2c-469f-99b0-7a6d7175dcfe",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "31fec34a-be54-401c-bdd1-412ede93ec4c",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "6f33fabd-6e18-4f67-9bde-fc928153bc9c",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "8343c81e-07d1-41bb-9905-933ab38b40cf",
-      "status": "OK",
-      "problems": []
-    },
-    {
-      "uuid": "e4a039ed-215c-4523-9a97-f97f476a1635",
-      "status": "OK",
-      "problems": []
+      "uuid": "215da82b-8306-4f98-bbe7-84d1242d3830",
+      "status": "FIX",
+      "problems": [
+        "Pytanie mówi o tabliczkach 'od pkt 2 do 9', podczas gdy § 50 ust. 9 mówi wyłącznie o tabliczkach z punktów 2 do 7 jako stosowanych niezależnie od zamknięć pomocniczych — zakres należy poprawić na '2 do 7'.",
+        "Odpowiedź C zawiera nawias z referencją '(ust. 10)', co stanowi ukryty hint wskazujący na źródło odpowiedzi — należy usunąć nawias z treści odpowiedzi."
+      ],
+      "changes": {
+        "question": "Kiedy tabliczki ostrzegawcze z napisami od pkt 2 do 7 (np. \"Tor zamknięty\", \"Telefoniczne zapowiadanie\" itp.) stosuje się niezależnie od zamknięć pomocniczych?",
+        "answers": {
+          "A": "Zawsze, gdy wymagane jest zawieszenie jakiejkolwiek tabliczki ostrzegawczej na posterunku nastawczym",
+          "B": "Wyłącznie na polecenie dyżurnego ruchu, gdy urządzenia srk nie umożliwiają stosowania zamknięć pomocniczych",
+          "C": "W przypadkach wskazanych w przepisach dotyczących tabliczek ostrzegawczych",
+          "D": "Tylko na stacjach o dużym ruchu, gdzie regulamin techniczny zezwala na niestosowanie środków pomocniczych"
+        }
+      }
     },
     {
-      "uuid": "e3bfdaee-5700-48bf-b069-4d33a9c96674",
-      "status": "OK",
-      "problems": []
+      "uuid": "6713bc26-7314-42a5-9a24-4374b3ded8de",
+      "status": "FIX",
+      "problems": [
+        "Zasada 6: poprawna odpowiedź B (~240 znaków) jest dłuższa niż 1,5× najdłuższego dystraktora (~128 znaków × 1,5 = 192 znaki) — należy rozbudować dystraktory do zbliżonej długości, korzystając z treści paragrafu."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Na aparacie łącza zapowiadawczego na obu sąsiednich posterunkach zapowiadawczych i na pośrednich posterunkach następczych oraz na bloku początkowym na posterunku zapowiadawczym i na pośrednich posterunkach następczych",
+          "B": "Na posterunkach nastawczych biorących udział w przygotowaniu dróg przebiegu pociągów, na aparacie łącza stacyjno-ruchowego oraz na odpowiednim bloku przebiegowym utwierdzającym, a gdzie go nie ma – na odpowiednich blokach nakazu lub zgody",
+          "C": "Na bloku końcowym na posterunku nastawczym dysponującym, na bloku dania nakazu na posterunkach wykonawczych oraz na aparacie łącza zapowiadawczego na obu sąsiednich posterunkach zapowiadawczych",
+          "D": "Na aparacie łącza zapowiadawczego na obu sąsiednich posterunkach zapowiadawczych i na pośrednich posterunkach następczych, a gdy nie ma blokady liniowej – na aparacie łącza stacyjno-ruchowego"
+        }
+      }
     },
     {
-      "uuid": "3f163c60-86f9-430c-bc9a-4736599efca2",
+      "uuid": "bee556f8-ebe9-485b-bbe7-a3f8a9509644",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "299f013c-e384-400c-ac46-7a7cabd01398",
-      "status": "OK",
-      "problems": []
+      "uuid": "f5eaf23f-c919-42e5-94a7-f15d10de4241",
+      "status": "FIX",
+      "problems": [
+        "Pytanie opisuje warunek zastosowania jako 'brak jest zarówno bloku przebiegowego utwierdzającego, jak i nie można uniemożliwić obsługi bloku nakazu' (koniunkcja — AND), podczas gdy § 50 ust. 3 pkt 2 lit. c mówi 'gdy żadnego z bloków wymienionych pod lit. a i b nie ma LUB nie można uniemożliwić obsługi bloku nakazu' (alternatywa — OR). Należy poprawić warunek logiczny w treści pytania."
+      ],
+      "changes": {
+        "question": "Gdzie zakłada się zamknięcia pomocnicze w celu uniemożliwienia wyprawienia pociągu ze stacji na linii jednotorowej, gdy nie ma bloku przebiegowego utwierdzającego ani odblokowanych bloków dania nakazu lub gdy nie można uniemożliwić obsługi bloku nakazu?"
+      }
     },
     {
-      "uuid": "402b81fa-e02e-4df3-881f-9dd7483b04f8",
+      "uuid": "9e1b194c-7ab0-45d8-9b8d-165d2410d834",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "c53e2d74-a51d-42da-bd08-9b2557e46b87",
+      "uuid": "004e507f-3eaa-40f9-a85d-d541f7fceec8",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "25e93ca1-5f66-4525-a8f6-f68d6b0fa34c",
+      "uuid": "40599b9a-ec4d-496d-bc99-d085d74bf96c",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "81e24614-873b-47ea-bf45-7fbd7225ea78",
+      "uuid": "695bca98-fec1-4206-beb2-77e653209ffb",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "1a686114-8c2d-41df-9c61-5c08b3e85e7c",
+      "uuid": "d3a227ea-6269-474a-a3d5-6fb82e7506f0",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "b0beade3-3052-4721-8df2-bfd7c57c8d13",
+      "uuid": "5bfcb61a-d72a-47a4-b86c-9e9feb9bb944",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "d36fcac2-ce4c-45d1-8697-0393ab55ceda",
+      "uuid": "829bfdd7-4eaa-4146-9b9a-c5e993330e50",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "82fa8e91-6720-4ce2-b29a-1261f21ab35c",
+      "uuid": "c9a07992-ecf9-4838-a583-655c36627fa2",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "3f66d799-838f-4a85-8ab5-c80719aebf0e",
+      "uuid": "783a387e-55d6-42c7-9250-6f255c90a443",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "1b28a250-d15f-4d6b-aaba-2188537d3444",
+      "uuid": "70860a3a-1bd1-4493-b674-ee8df2ef15a3",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "e9e581c7-ac84-4a9f-9bbd-49cff7860dd2",
+      "uuid": "47aa7416-b813-452a-a866-72275a4c9973",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "5df18950-6ff9-49ca-a9d6-67ab6bb91405",
+      "uuid": "056a1a93-79af-4a9e-8f88-e93d753ce04f",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "a976b21f-2d6d-4e10-8a5e-708143fa0abf",
+      "uuid": "f5c301f0-1491-4fff-b1e8-91ba52909597",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "a6b8ef08-0f24-4c6a-b02f-2dba27991f80",
+      "uuid": "c0f30d85-ea01-439b-b8f4-5e85e19fd43f",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "df6f3f4f-2ce6-4422-a4ef-c675ee8142ff",
+      "uuid": "c4173593-1637-41a9-bedc-28058a53dcbf",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "c11cab58-fd00-4e42-aea7-5d1fe9f0892d",
+      "uuid": "c834cf5b-84a7-4a6e-a968-25cb2f290e96",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "31288ec9-ddac-478d-a31a-adc4b4dd7f6e",
+      "uuid": "9a3fe43c-8a37-4035-902d-b9753b724d49",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "18954e65-179c-4cbb-a22f-d1d90d6dca79",
+      "uuid": "8e435227-b452-451f-bf9e-82c18b355d22",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "9467be6f-71d5-4a6b-a5c8-f1a162923a96",
+      "uuid": "17a7d395-e9cc-4901-8e7a-b83c94a6b800",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "e2ee2748-9895-4ccb-be15-95723afdd567",
+      "uuid": "22fa7306-51a4-49a3-9d27-f44c7dc8a108",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "89e9f8da-f3cb-4edc-97da-1af03b7833e8",
+      "uuid": "027173e7-f571-4776-9ffc-83ec956b3449",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "d55ff4ba-7d35-46d4-a0c6-ff05deee5093",
-      "status": "OK",
-      "problems": []
+      "uuid": "94ff6034-5050-4366-bdec-c41330818440",
+      "status": "FIX",
+      "problems": [
+        "Zasada 6: poprawna odpowiedź B (~170 znaków) jest ponad 1,5× dłuższa od najdłuższego dystraktora A (~80 znaków); należy rozbudować dystraktory do porównywalnej długości, czerpiąc z treści ust. 37 i kontekstu paragrafu."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Wydać drużynom pociągowym rozkazy pisemne o otwarciu posterunku i przywróceniu ruchu normalnego, odnotowując fakt otwarcia w dokumentacji techniczno-ruchowej",
+          "B": "Usunąć zastosowane dodatkowe zamknięcia zwrotnic, ewentualne unieważnienie sygnalizatorów oraz sprawdzić działanie urządzeń srk przez personel utrzymania",
+          "C": "Nadać telefonogram według wzoru nr 28 do sąsiednich posterunków zapowiadawczych o zakończeniu zamknięcia i przywróceniu normalnego udziału posterunku w prowadzeniu ruchu",
+          "D": "Powiadomić dyspozytora liniowego o otwarciu posterunku i uzyskać jego zgodę na prowadzenie normalnego ruchu, a następnie odnotować fakt w dokumentacji techniczno-ruchowej"
+        }
+      }
     },
     {
-      "uuid": "9611cb6b-5107-435b-8fa3-3de90497d7c4",
+      "uuid": "27701d1b-fbcf-4714-bb6a-42608e96ad5f",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "8acd4d32-3f7a-4dde-9736-a5e5c2a29c90",
+      "uuid": "941f6d64-5bad-4638-8c6a-2c3403e2f560",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "0108eda1-7577-4803-acf9-3b66bc70f76d",
+      "uuid": "32004904-4e59-4fb3-9e41-dff250d70cb8",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "2b1a94b8-85c2-4e19-94ff-c46d5c33d9ab",
+      "uuid": "d6ddc498-1df2-475a-a01e-8845818dfd04",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "d0706610-52c7-4ab7-b6b0-8e5377ae545e",
-      "status": "OK",
-      "problems": []
+      "uuid": "b314210f-bc1e-41d5-b72e-75fa90ba81c8",
+      "status": "FIX",
+      "problems": [
+        "Literówka w treści pytania: 'zamykanyimi' zamiast 'zamykanymi'.",
+        "Zasada 6: poprawna odpowiedź C (~177 znaków) jest ponad 1,5× dłuższa od najdłuższego dystraktora B (~84 znaków); należy rozbudować dystraktory do porównywalnej długości, czerpiąc z treści ust. 65 i kontekstu paragrafu."
+      ],
+      "changes": {
+        "question": "Do jakich posterunków nadaje telefonogramy o otwarciu i zamknięciu dyżurny ruchu posterunku zapowiadawczego zamykanego na odcinku z posterunkami zamykanymi okresowo w ciągu doby?",
+        "answers": {
+          "A": "Wyłącznie do obu sąsiednich posterunków zapowiadawczych, bez informowania pośrednich posterunków następczych ani stacji czynnych ograniczających odcinek",
+          "B": "Do obu sąsiednich posterunków zapowiadawczych i pośrednich posterunków następczych, bez konieczności informowania stacji czynnych ograniczających odcinek",
+          "C": "Do obu sąsiednich posterunków zapowiadawczych, pośrednich posterunków następczych oraz do dyżurnych ruchu stacji czynnych ograniczających odcinek z zamkniętymi posterunkami",
+          "D": "Do dyspozytora liniowego i obu sąsiednich posterunków zapowiadawczych, bez obowiązku nadawania telefonogramów do pośrednich posterunków następczych"
+        }
+      }
     },
     {
-      "uuid": "cb01d09c-2ad2-481b-a9a3-8c1801e58886",
+      "uuid": "86877191-cabb-4ccc-b821-9bca6360e2b3",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "a7bc0eb3-a25a-417b-8800-67edc22dccca",
+      "uuid": "5ea50071-be49-446d-b19f-f04e03d9b6cf",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "3331f8e0-674f-432c-8257-099882175abd",
+      "uuid": "46ceef9c-6384-444d-bc5d-16a2956bd3ba",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "8f79be8a-ad7b-4fbd-8b3f-9bc887da8421",
+      "uuid": "76d2a6d6-e6a3-4ec0-9288-6632f2ab406b",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "82370663-c00f-4c13-9e0c-0b96a1eb77e1",
+      "uuid": "959b3baf-945c-4c6c-957c-c97002510599",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "b72c739f-adb5-45b5-acab-d152518a5cd3",
+      "uuid": "f4a38fb5-e270-4c48-9e3e-04593a2133bb",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "8e041b2e-0968-4b23-b482-597fa78bc035",
+      "uuid": "d31cadcf-bef9-41d2-918f-b9ddcdd2cb0f",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "080cb9a7-ccc6-4075-876f-0ad63f5d51f0",
+      "uuid": "83f703c6-1b35-4095-bedf-e089c24ca3f3",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "7b5d8e98-b2a7-46aa-b6e6-c6be6c4019c5",
+      "uuid": "39bd054b-49ab-4727-ad5b-4d4f08007ab2",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "44a1e500-8110-4cd8-a56f-249a67ba6514",
+      "uuid": "787b4d2e-409a-421d-ab0c-4dcd245688cd",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "45d66fb9-0bde-4eab-a67c-c6460d338b90",
+      "uuid": "e88312be-f699-42f0-864f-c471cd5ccdd1",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "5e725a29-68b3-457c-b866-02da71b54a39",
+      "uuid": "64314cde-a875-4aac-83ad-fea44c54e796",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "743015c9-a090-478b-8edb-05e2f992267b",
+      "uuid": "9d3d0d52-5eb5-4f21-b98c-90006eee68c3",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "9d4cafa2-9660-4027-bf65-9f0801015d92",
+      "uuid": "ebcc2e96-4975-4503-9baa-8a3b74c7590a",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "9b258972-042b-40be-8c15-32d6cafbf0f3",
+      "uuid": "1acd00c7-3d07-4cca-88c6-2aa3018e7666",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "d8770753-c8ad-4a57-89e1-3f997721f950",
+      "uuid": "4e4ef4eb-6ca0-40a0-8815-694988688308",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "d67105b8-d0b9-4e57-bb6c-cb300faf9e75",
+      "uuid": "f251795a-e130-43fc-801a-6bf501d5a0f4",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "57373adc-ae03-4a87-9aa7-46df54469dd2",
+      "uuid": "c6d8d72a-347c-480f-99d7-0bddd41c0a41",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "3a0c1ee0-10a0-43fd-be3a-605b64d37173",
+      "uuid": "c49275bb-95ac-44bd-84e4-d6748f1bf8e1",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "ba6b35cf-ef16-44c9-8a18-d8b4df8ed689",
-      "status": "OK",
-      "problems": []
+      "uuid": "33f5659d-87e7-4538-8a5d-cb8a64413814",
+      "status": "FIX",
+      "problems": [
+        "Poprawna odpowiedź B (~147 znaków) jest ponad 1,5× dłuższa niż dystraktor A (~76 znaków) i C (~88 znaków) — należy wyrównać dystraktory w górę do długości poprawnej odpowiedzi."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Wyłącznie żądanie wydawania ostrzeżenia i zawiadomienie o jego wprowadzeniu, bez potwierdzenia wprowadzenia, żądania odwołania i zawiadomienia o odwołaniu ostrzeżenia",
+          "B": "Żądanie wydawania ostrzeżenia, zawiadomienie o wprowadzeniu ostrzeżenia, potwierdzenie wprowadzenia ostrzeżenia, żądanie odwołania i zawiadomienie o odwołaniu ostrzeżenia",
+          "C": "Kopie rozkazów pisemnych wydanych drużynom pociągowym na podstawie wpisanych ostrzeżeń, łącznie z żądaniem wydawania ostrzeżenia i potwierdzeniem jego odbioru",
+          "D": "Żądanie wydawania ostrzeżenia, potwierdzenie jego odbioru i protokół przekazania dyżuru z wykazem aktywnych ostrzeżeń obowiązujących w danym kierunku jazdy pociągów"
+        }
+      }
     },
     {
-      "uuid": "bd249e59-e106-4bc7-bf20-b3fa88790407",
-      "status": "OK",
-      "problems": []
+      "uuid": "4f3bddad-c5dd-4bed-bbe1-031887c4362b",
+      "status": "FIX",
+      "problems": [
+        "Literówka w odpowiedzi B: 'adnotacja' powinno być 'adnotacją' (brak końcówki fleksyjnej narzędnika)."
+      ],
+      "changes": {
+        "answers": {
+          "B": "W pierwszym dniu obowiązywania WOS, z adnotacją przeniesiono do WOS, bez konieczności odrębnego zawiadomienia o odwołaniu"
+        }
+      }
     }
   ]
 }

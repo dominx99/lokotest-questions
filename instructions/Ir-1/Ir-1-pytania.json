@@ -16036,9 +16036,9 @@
       "question": "Czym jest wewnętrzny rozkład jazdy pociągów?",
       "answers": {
         "A": "Planem, według którego mają się odbywać przejazdy pociągów na sieci kolejowej zarządzanej przez PKP PLK S.A. lub jej części w czasie, w którym on obowiązuje",
-        "B": "Zbiorem przepisów określających zasady bezpiecznego prowadzenia ruchu kolejowego na liniach zarządzanych przez PKP PLK S.A.",
-        "C": "Wykazem posterunków technicznych wraz z ich zakresem obowiązków w zakresie prowadzenia ruchu kolejowego",
-        "D": "Dokumentem określającym warunki techniczno-ruchowe linii oraz zasady numerowania pociągów na sieci kolejowej"
+        "B": "Planem, według którego mają się odbywać przejazdy pociągów na liniach kolejowych wskazanych przez zarządcę infrastruktury w czasie, w którym on obowiązuje",
+        "C": "Planem, według którego mają się odbywać przejazdy pociągów na sieci kolejowej zarządzanej przez PKP PLK S.A. lub jej części w czasie wskazanym przez regulamin techniczny",
+        "D": "Planem, według którego mają się odbywać manewry pojazdów trakcyjnych na sieci kolejowej zarządzanej przez PKP PLK S.A. lub jej części w czasie, w którym on obowiązuje"
       },
       "correct": "A",
       "explanation": "Ir-1 § 10 ust. 1",
@@ -16217,10 +16217,10 @@
       "uuid": "cbdb3c4a-c877-4fd9-942c-cae0c4704b27",
       "question": "Kiedy można odwołać telefoniczne zapowiadanie pociągów na szlaku dwutorowym przy czasowym ruchu jednotorowym dwukierunkowym bez urządzeń srk przystosowanych do takiego ruchu?",
       "answers": {
-        "A": "Po przejeździe jednego pociągu w kierunku ustalonym dla toru, po którym był prowadzony ruch jednotorowy dwukierunkowy, przy prawidłowo działającej blokadzie",
-        "B": "Po przejeździe po jednym pociągu w każdym kierunku przy prawidłowo działającej blokadzie",
-        "C": "Natychmiast po przywróceniu ruchu dwutorowego jednokierunkowego, bez oczekiwania na przejazd pociągu",
-        "D": "Po przejeździe dwóch pociągów po torze, po którym był prowadzony ruch jednotorowy dwukierunkowy"
+        "A": "Po przywróceniu ruchu dwutorowego jednokierunkowego po każdym torze i przejeździe jednego pociągu w kierunku ustalonym dla toru, po którym był prowadzony ruch jednotorowy dwukierunkowy, przy prawidłowo działającej blokadzie",
+        "B": "Po przejeździe po jednym pociągu w każdym kierunku przy prawidłowo działającej blokadzie, bez konieczności uprzedniego przywrócenia ruchu dwutorowego jednokierunkowego",
+        "C": "Natychmiast po przywróceniu ruchu dwutorowego jednokierunkowego, bez oczekiwania na przejazd pociągu przy prawidłowo działającej blokadzie",
+        "D": "Po przejeździe dwóch pociągów po torze, po którym był prowadzony ruch jednotorowy dwukierunkowy, przy prawidłowo działającej blokadzie"
       },
       "correct": "A",
       "explanation": "Ir-1 § 28 ust. 24 pkt 2 lit. b",
@@ -16335,7 +16335,7 @@
       "question": "Jakie czynności musi wykonać dyżurny ruchu odcinkowy w przypadku zamknięcia jednego z głównych torów mijanki bez obsady i prowadzenia ruchu po torze czynnym w obu kierunkach, wobec kierujących pojazdami kolejowymi?",
       "answers": {
         "A": "Wydać pisemne rozkazy jazdy kierującym obu pojazdów za pośrednictwem stacji stycznych",
-        "B": "Uprzedzić kierujących pojazdami kolejowymi o konieczności zatrzymania pojazdu przed zwrotnicami i doprowadzenia ich do wymaganego położenia",
+        "B": "Uprzedzić kierujących pojazdami kolejowymi o konieczności zatrzymania pojazdu kolejowego przed zwrotnicami i doprowadzenia ich do wymaganego położenia",
         "C": "Polecić kierującym pojazdami kolejowymi ograniczenie prędkości do 20 km/h na torze czynnym mijanki",
         "D": "Powiadomić dyżurnego ruchu stacji stycznej, który przekaże dyspozycje kierującym pojazdami kolejowymi"
       },
@@ -16478,9 +16478,9 @@
       "question": "Jak należy w dzienniku ruchu wpisywać pociągi, które będą przyjęte, a następnie wyprawione?",
       "answers": {
         "A": "Na obu stronicach w tym samym wierszu, chyba że pociąg jest wyprzedzony przez inny pociąg, kończy lub rozpoczyna bieg albo wyprawienie notuje się w innym dzienniku — wówczas odpowiedni wiersz w przeciwległej stronicy należy zakreskować",
-        "B": "Zawsze w oddzielnych wierszach na każdej ze stronic, z adnotacją o numerze wiersza strony przeciwległej",
-        "C": "Na lewej stronicy dla przyjęcia i na prawej stronicy dla wyprawienia, zawsze w oddzielnych wierszach",
-        "D": "Na obu stronicach zawsze w różnych wierszach, a odpowiedni wiersz w stronicy przeciwległej należy przekreślić na krzyż"
+        "B": "Zawsze w oddzielnych wierszach na każdej ze stronic, z adnotacją o numerze wiersza strony przeciwległej; wyjątek stanowią stacje węzłowe, gdzie zapisy na obu stronicach mogą być w tym samym wierszu na podstawie regulaminu",
+        "C": "Na lewej stronicy dla przyjęcia i na prawej stronicy dla wyprawienia, zawsze w oddzielnych wierszach; jeżeli pociąg jest wyprzedzony przez inny pociąg, odpowiedni wiersz w stronicy przeciwległej należy przekreślić na krzyż",
+        "D": "Na obu stronicach zawsze w różnych wierszach, a odpowiedni wiersz w stronicy przeciwległej należy przekreślić na krzyż; wyjątek stanowią pociągi kończące lub rozpoczynające bieg, które wpisuje się w tym samym wierszu"
       },
       "correct": "A",
       "explanation": "Ir-1 § 37 ust. 7 pkt 2",
@@ -17335,10 +17335,10 @@
       "uuid": "c108bf7d-5ece-4f86-87e4-6a3f2810a927",
       "question": "Czym charakteryzuje się tabor specjalny?",
       "answers": {
-        "A": "Są to pojazdy przystosowane do kursowania w składzie pociągu na ogólnych zasadach, przeznaczone do przewozu osób i rzeczy.",
-        "B": "Są to pojazdy, których budowa nie pozwala na ich włączanie do składu pociągu.",
+        "A": "Są to pojazdy kolejowe przystosowane do kursowania w składzie pociągu na ogólnych zasadach, przeznaczone do przewozu osób i rzeczy, w tym wszystkie typy lokomotyw, zespoły trakcyjne i inne pojazdy silnikowe.",
+        "B": "Są to pojazdy kolejowe, których budowa nie pozwala na ich włączanie do składu pociągu, takie jak maszyny budowlane na kołach, ciągniki szynowe, drezyny i wózki robocze oraz niektóre typy pojazdów ratunkowych.",
         "C": "Są to pojazdy przeznaczone w szczególności do prac remontowo-budowlanych lub ratunkowych, których budowa pozwala na samodzielną jazdę lub kursowanie w składzie pociągu przy zachowaniu określonych warunków technicznych.",
-        "D": "Są to pojazdy mogące poruszać się po drogach kołowych oraz torach, których prędkość maksymalna wynika z konstrukcji."
+        "D": "Są to pojazdy pomocnicze mogące poruszać się po drogach kołowych oraz torach, których maksymalna prędkość jazdy wynika z ich konstrukcji, o ile nie jest ograniczona postanowieniami instrukcji kolejowej."
       },
       "correct": "C",
       "explanation": "Ir-1 § 8 ust. 5",
