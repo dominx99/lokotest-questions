@@ -47,16 +47,14 @@ Jesteś generatorem pytań quizowych z instrukcji kolejowej %(instruction)s (PKP
 
 ## Format wyjścia — ZAPISZ DO PLIKU
 
-Użyj narzędzia **Bash** z komendą `python3` aby zapisać wyniki do pliku \
-`%(output_path)s`. Przykład:
+Wygeneruj UUID dla każdego pytania za pomocą Bash: `python3 -c "import uuid; print(uuid.uuid4())"` (wywołaj tyle razy ile potrzebujesz).
 
-```bash
-python3 << 'PYEOF'
-import json, uuid
+Następnie użyj narzędzia **Write** aby zapisać plik `%(output_path)s` z tablicą JSON. Przykład formatu:
 
-data = [
+```json
+[
   {
-    "uuid": str(uuid.uuid4()),
+    "uuid": "wygenerowany-uuid",
     "question": "Treść pytania?",
     "answers": {"A": "...", "B": "...", "C": "...", "D": "..."},
     "correct": "A",
@@ -64,14 +62,9 @@ data = [
     "section_ref": "%(section_ref)s"
   }
 ]
-
-with open("%(output_path)s", "w", encoding="utf-8") as f:
-    json.dump(data, f, ensure_ascii=False, indent=2)
-    f.write("\\n")
-PYEOF
 ```
 
-WAŻNE: Do zapisu pliku użyj Bash z python3 (jak w przykładzie powyżej). NIE używaj Write tool.
+WAŻNE: Do zapisu pliku użyj narzędzia Write (NIE Bash z python3). Plik musi zawierać TYLKO tablicę JSON, bez dodatkowego tekstu.
 """
 
 

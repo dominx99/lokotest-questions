@@ -17382,6 +17382,2788 @@
       "correct": "B",
       "explanation": "Ir-1 § 9 ust. 3 pkt 1",
       "section_ref": "§ 9"
+    },
+    {
+      "uuid": "1b796a0a-9207-4e33-b0c8-036ec1e22e6a",
+      "question": "Kto wydaje zezwolenie na wyjazd pociągu ze stacji, wjazd na stację lub przejazd przez stację?",
+      "answers": {
+        "A": "Dyżurny ruchu",
+        "B": "Kierownik pociągu",
+        "C": "Nastawniczy",
+        "D": "Zwrotniczy"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 61 ust. 1",
+      "section_ref": "§ 61"
+    },
+    {
+      "uuid": "165a1800-8436-439d-ab04-c4287b76d640",
+      "question": "Co jest zezwoleniem na wyjazd pociągu, gdy na semaforze wyjazdowym grupowym podano sygnał zezwalający i sygnał zastępczy na semaforze przy torze odjazdu?",
+      "answers": {
+        "A": "Podanie tych dwóch sygnałów",
+        "B": "Podanie rozkazu pisemnego drużynie pociągowej",
+        "C": "Polecenie dyżurnego ruchu wydane ustnie",
+        "D": "Podanie sygnału Rd 1 „Nakaz jazdy”"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 61 ust. 2 pkt 2",
+      "section_ref": "§ 61"
+    },
+    {
+      "uuid": "dc136e4c-9479-4354-a75c-bf5908b8a783",
+      "question": "W jakiej formie dyżurny ruchu wydaje polecenie odjazdu za pośrednictwem nastawniczego?",
+      "answers": {
+        "A": "Pociąg nr … z toru nr … odjazd",
+        "B": "Tor nr … wolny, odjazd",
+        "C": "Pociąg nr … zezwalam na wyjazd",
+        "D": "Droga wolna dla pociągu nr …"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 61 ust. 2 pkt 3",
+      "section_ref": "§ 61"
+    },
+    {
+      "uuid": "b4b0c499-f5fb-49ee-b90c-b2476173d85f",
+      "question": "Co jest zezwoleniem na wyjazd pociągu, gdy nie można podać sygnału zezwalającego na semaforze wyjazdowym?",
+      "answers": {
+        "A": "Wydanie drużynie pociągowej rozkazu pisemnego",
+        "B": "Podanie sygnału Rd 1 „Nakaz jazdy”",
+        "C": "Polecenie nastawniczego wydane ustnie",
+        "D": "Podanie sygnału zastępczego na semaforze wjazdowym"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 61 ust. 2",
+      "section_ref": "§ 61"
+    },
+    {
+      "uuid": "91aca8fb-7793-4118-8617-a5508ce7ec2b",
+      "question": "Co jest zezwoleniem na odjazd pociągu, gdy z miejsca odjazdu nie widać wskazań semafora wyjazdowego?",
+      "answers": {
+        "A": "Polecenie dyżurnego ruchu przekazane za pomocą urządzeń łączności po nastawieniu sygnału zezwalającego",
+        "B": "Wydanie rozkazu pisemnego drużynie pociągowej",
+        "C": "Podanie sygnału zastępczego na semaforze wyjazdowym",
+        "D": "Podanie sygnału Rd 1 „Nakaz jazdy” z nastawni wykonawczej"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 61 ust. 3",
+      "section_ref": "§ 61"
+    },
+    {
+      "uuid": "f47b9336-b630-439b-afb3-8fa53a852152",
+      "question": "Co jest zezwoleniem na wjazd pociągu na stację, gdy nie można podać sygnału zezwalającego na semaforze wjazdowym?",
+      "answers": {
+        "A": "Wydanie drużynie pociągowej rozkazu pisemnego",
+        "B": "Polecenie dyżurnego ruchu wydane ustnie",
+        "C": "Podanie sygnału Rd 1 „Nakaz jazdy”",
+        "D": "Podanie sygnału zastępczego na semaforze wyjazdowym"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 61 ust. 4",
+      "section_ref": "§ 61"
+    },
+    {
+      "uuid": "7ee499c1-4e99-4b52-a3e2-43c9c6cf473d",
+      "question": "Co stanowi zezwolenie na przejazd pociągu przez posterunek odgałęźny bez semaforów wyjazdowych?",
+      "answers": {
+        "A": "Podanie sygnału zezwalającego na semaforze wjazdowym",
+        "B": "Podanie sygnału zezwalającego na semaforze wyjazdowym i wjazdowym",
+        "C": "Podanie sygnału Rd 1 „Nakaz jazdy”",
+        "D": "Wydanie rozkazu pisemnego drużynie pociągowej"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 61 ust. 5 pkt 3",
+      "section_ref": "§ 61"
+    },
+    {
+      "uuid": "ae8529a4-1d8c-4a97-9c5f-7dafa7df74bb",
+      "question": "Co stanowi zezwolenie na przejazd pociągu przez posterunek odstępowy?",
+      "answers": {
+        "A": "Podanie sygnału zezwalającego na semaforze odstępowym",
+        "B": "Podanie sygnału zezwalającego na semaforze wjazdowym",
+        "C": "Podanie sygnału zastępczego na semaforze wyjazdowym",
+        "D": "Wydanie rozkazu pisemnego drużynie pociągowej"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 61 ust. 5 pkt 4",
+      "section_ref": "§ 61"
+    },
+    {
+      "uuid": "8e0a9ce3-ecbc-4072-a780-cf60f48365dc",
+      "question": "Co stanowi zezwolenie na przejazd pociągu przez stację z semaforami świetlnymi lub kształtowymi z tarczą ostrzegawczą?",
+      "answers": {
+        "A": "Podanie sygnału zezwalającego na semaforze wyjazdowym, wjazdowym oraz drogowskazowym",
+        "B": "Podanie sygnału zezwalającego wyłącznie na semaforze wjazdowym",
+        "C": "Podanie sygnału zastępczego na semaforze wyjazdowym i wjazdowym",
+        "D": "Podanie sygnału Rd 1 „Nakaz jazdy” i sygnału zezwalającego na semaforze wjazdowym"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 61 ust. 5 pkt 1",
+      "section_ref": "§ 61"
+    },
+    {
+      "uuid": "0c4d9b3e-4df4-40ab-a6ec-c1f14e8112bf",
+      "question": "Kto podaje sygnał Rd 1 „Nakaz jazdy”?",
+      "answers": {
+        "A": "Dyżurny ruchu",
+        "B": "Nastawniczy",
+        "C": "Kierownik pociągu",
+        "D": "Maszynista"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 61 ust. 9",
+      "section_ref": "§ 61"
+    },
+    {
+      "uuid": "40b6bdc3-c7f6-40ce-995d-cb77c98ea5a1",
+      "question": "W jakich okolicznościach nastawniczy może podać sygnał Rd 1 „Nakaz jazdy” z nastawni wykonawczej?",
+      "answers": {
+        "A": "Na każdorazowe polecenie dyżurnego ruchu dysponującego",
+        "B": "Samodzielnie, po sprawdzeniu drogi przebiegu",
+        "C": "Na polecenie kierownika pociągu",
+        "D": "Na polecenie maszynisty pociągu oczekującego na wyjazd"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 61 ust. 9",
+      "section_ref": "§ 61"
+    },
+    {
+      "uuid": "964d42d6-3423-44b7-bf1c-c9b3929d5ee8",
+      "question": "Kto może wydać zezwolenie na przejazd pociągu obok sygnału „Stój” na obsługiwanym semaforze?",
+      "answers": {
+        "A": "Dyżurny ruchu zarządzający tym semaforem",
+        "B": "Każdy dyżurny ruchu na tej stacji",
+        "C": "Nastawniczy obsługujący ten semafor",
+        "D": "Kierownik pociągu po uzgodnieniu z maszynistą"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 61 ust. 13",
+      "section_ref": "§ 61"
+    },
+    {
+      "uuid": "428d886d-630d-4d9c-b9fe-04b7632e508d",
+      "question": "Czym można zastąpić sygnał Rd 1 „Nakaz jazdy”, gdy jego podanie jest doraźnie niemożliwe dla pociągu oczekującego na wyjazd?",
+      "answers": {
+        "A": "Poleceniem dyżurnego ruchu wydanym za pomocą urządzeń łączności lub rozkazem pisemnym",
+        "B": "Podaniem sygnału zastępczego na semaforze wyjazdowym",
+        "C": "Ustnym poleceniem nastawniczego",
+        "D": "Podaniem sygnału zezwalającego na semaforze wjazdowym"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 61 ust. 11",
+      "section_ref": "§ 61"
+    },
+    {
+      "uuid": "635ca81d-ec94-4e73-b63a-48228151f0d1",
+      "question": "Od czego zależy największa dozwolona prędkość jazdy pociągów?",
+      "answers": {
+        "A": "Wyłącznie od rodzaju hamulców i masy hamującej pociągu oraz stanu nawierzchni",
+        "B": "Od konstrukcji i stanu technicznego nawierzchni, podtorza i obiektów inżynieryjnych, konstrukcji i stanu technicznego pojazdów kolejowych oraz rodzaju pociągu i warunków ruchowych",
+        "C": "Wyłącznie od rodzaju pociągu i warunków ruchowych oraz stanu urządzeń srk",
+        "D": "Od decyzji maszynisty, kierownika pociągu i dyżurnego ruchu, biorąc pod uwagę aktualny stan toru"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 63 ust. 1",
+      "section_ref": "§ 63"
+    },
+    {
+      "uuid": "9a76b665-ee1e-4470-bf0e-38546c6a1d7d",
+      "question": "Gdzie jest wskazana największa dozwolona prędkość jazdy pociągu, której nie wolno przekroczyć?",
+      "answers": {
+        "A": "W rozkazie pisemnym wydawanym przez dyżurnego ruchu przed każdym odjazdem",
+        "B": "W wykazie ostrzeżeń stałych na danym odcinku linii kolejowej",
+        "C": "W wewnętrznym rozkładzie jazdy dla każdego pociągu",
+        "D": "W instrukcji obsługi pojazdu trakcyjnego prowadzącego pociąg"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 63 ust. 2",
+      "section_ref": "§ 63"
+    },
+    {
+      "uuid": "5521985d-863e-4fdc-8bc9-ace855eecd26",
+      "question": "W jakich przypadkach należy zmniejszyć prędkość określoną we wewnętrznym rozkładzie jazdy?",
+      "answers": {
+        "A": "Wyłącznie w przypadkach wskazanych w wykazie ostrzeżeń stałych lub rozkazie pisemnym",
+        "B": "Wyłącznie gdy maszynista uzna to za potrzebne lub gdy nakaże to dyżurny ruchu",
+        "C": "W przypadkach lub miejscach wskazanych w instrukcji, wykazie ostrzeżeń stałych, rozkazie pisemnym lub zarządzeniu przewozu przesyłki nadzwyczajnej, a także gdy maszynista uzna to za potrzebne",
+        "D": "Wyłącznie na podstawie zarządzenia przewozu przesyłki nadzwyczajnej wydanego przez przewoźnika"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 63 ust. 2",
+      "section_ref": "§ 63"
+    },
+    {
+      "uuid": "76d98ec5-eaaf-48db-a8a7-48f5185c72fc",
+      "question": "Jaka jest maksymalna dozwolona prędkość jazdy pociągu z podwójną trakcją?",
+      "answers": {
+        "A": "Prędkość wynikająca z wewnętrznego rozkładu jazdy, niezależnie od prędkości konstrukcyjnej lokomotyw",
+        "B": "Prędkość nie przekraczająca prędkości konstrukcyjnej żadnej z obu lokomotyw",
+        "C": "Prędkość nie przekraczająca prędkości konstrukcyjnej lokomotywy prowadzącej, czyli tej z przodu pociągu",
+        "D": "Prędkość nie przekraczająca prędkości konstrukcyjnej lokomotywy o wyższej masie hamującej"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 63 ust. 4",
+      "section_ref": "§ 63"
+    },
+    {
+      "uuid": "5c48d4c6-e406-4667-9e88-4c6d3f51aa60",
+      "question": "Z jaką maksymalną prędkością może jechać pociąg cofany ze szlaku bez uzgodnienia z dyżurnym ruchu?",
+      "answers": {
+        "A": "10 km/h",
+        "B": "5 km/h",
+        "C": "20 km/h",
+        "D": "30 km/h"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 63 ust. 5 tabela poz. 1",
+      "section_ref": "§ 63"
+    },
+    {
+      "uuid": "3def4890-0d23-49a0-830a-da5179388bd6",
+      "question": "Jaka jest maksymalna prędkość jazdy pociągu do najbliższej stacji z płaskimi miejscami lub nalepami na obręczach zestawów kołowych?",
+      "answers": {
+        "A": "10 km/h",
+        "B": "30 km/h",
+        "C": "20 km/h",
+        "D": "40 km/h"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 63 ust. 5 tabela poz. 20",
+      "section_ref": "§ 63"
+    },
+    {
+      "uuid": "4fd79fd5-44a9-495e-a27b-ada0b334e70f",
+      "question": "Z jaką prędkością jedzie pociąg ratunkowy, roboczy lub pług odśnieżny podczas zamknięcia posterunków i wstrzymania ruchu pociągów na danym odcinku linii kolejowej?",
+      "answers": {
+        "A": "20 km/h",
+        "B": "40 km/h",
+        "C": "50 km/h",
+        "D": "30 km/h"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 63 ust. 5 tabela poz. 29",
+      "section_ref": "§ 63"
+    },
+    {
+      "uuid": "91577811-e62c-4cae-9878-91af02e1a093",
+      "question": "Jaką prędkość jazdy należy zastosować po zauważeniu przeszkody uniemożliwiającej stosowanie nakazanej prędkości?",
+      "answers": {
+        "A": "Prędkość musi wynosić co najwyżej 40 km/h aż do usunięcia przeszkody lub zatrzymania pociągu",
+        "B": "Należy zatrzymać pociąg i zawiadomić dyżurnego ruchu przed kontynuowaniem jazdy",
+        "C": "Prędkość należy zmniejszyć stosownie do sytuacji, zapewniając możliwość zatrzymania pociągu",
+        "D": "Prędkość jazdy należy zmniejszyć"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 63 ust. 7",
+      "section_ref": "§ 63"
+    },
+    {
+      "uuid": "37f694a2-42c6-4072-9265-d6dcd0e7d6ef",
+      "question": "Jaka jest maksymalna prędkość jazdy pociągu bez urządzeń pokładowych systemu ERTMS/ETCS?",
+      "answers": {
+        "A": "120 km/h",
+        "B": "200 km/h",
+        "C": "140 km/h",
+        "D": "160 km/h"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 63 ust. 8",
+      "section_ref": "§ 63"
+    },
+    {
+      "uuid": "0d26ea80-b6f2-4f1d-87d4-22fd887f79ee",
+      "question": "Od czego zależy największa dozwolona prędkość jazdy pociągów?",
+      "answers": {
+        "A": "Wyłącznie od konstrukcji i stanu technicznego nawierzchni oraz podtorza",
+        "B": "Od konstrukcji nawierzchni, konstrukcji pojazdów kolejowych i rodzaju pociągu oraz warunków ruchowych",
+        "C": "Od decyzji dyżurnego ruchu, który ustala prędkość dla każdego pociągu indywidualnie",
+        "D": "Wyłącznie od masy hamującej pociągu i rodzaju hamulców zainstalowanych w pojeździe"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 63 ust. 1",
+      "section_ref": "§ 63"
+    },
+    {
+      "uuid": "32b8adc7-b44f-43be-bc94-b758708bff8a",
+      "question": "Gdzie jest wskazana największa dozwolona prędkość jazdy pociągu, której nie wolno przekroczyć?",
+      "answers": {
+        "A": "W regulaminie technicznym stacji, z której pociąg wyjeżdża",
+        "B": "W rozkazie pisemnym wydawanym przez dyżurnego ruchu przed każdym odjazdem pociągu",
+        "C": "W wewnętrznym rozkładzie jazdy dla każdego pociągu",
+        "D": "W wykazie ostrzeżeń stałych obowiązującym na danej linii kolejowej"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 63 ust. 2",
+      "section_ref": "§ 63"
+    },
+    {
+      "uuid": "64201392-2f30-46a8-ab10-4b84c06c050a",
+      "question": "W jakich okolicznościach prędkość jazdy pociągu powinna być zmniejszona poniżej prędkości wskazanej w wewnętrznym rozkładzie jazdy?",
+      "answers": {
+        "A": "Wyłącznie w przypadkach wskazanych w wewnętrznym rozkładzie jazdy lub na polecenie dyżurnego ruchu",
+        "B": "W przypadkach wskazanych w instrukcji, wykazie ostrzeżeń stałych, rozkazie pisemnym lub zarządzeniu przewozu przesyłki nadzwyczajnej oraz gdy maszynista uzna to za potrzebne",
+        "C": "Wyłącznie na podstawie rozkazu pisemnego dyżurnego ruchu lub kierownika pociągu",
+        "D": "Tylko w miejscach wskazanych wskaźnikiem W 4 i W 5 ograniczenia prędkości"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 63 ust. 2",
+      "section_ref": "§ 63"
+    },
+    {
+      "uuid": "0046e7d1-f846-4f20-a87d-8e477c281253",
+      "question": "Jaka prędkość obowiązuje przy cofaniu pociągu ze szlaku bez uzgodnienia z dyżurnym ruchu?",
+      "answers": {
+        "A": "10 km/h",
+        "B": "20 km/h",
+        "C": "5 km/h",
+        "D": "30 km/h"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 63 ust. 5 tabela poz. 1",
+      "section_ref": "§ 63"
+    },
+    {
+      "uuid": "482c6067-a006-4f49-950d-f84d08f20d45",
+      "question": "Jaka jest maksymalna prędkość przy jeździe pociągu z podwójną trakcją?",
+      "answers": {
+        "A": "Prędkość określona w wewnętrznym rozkładzie jazdy dla danego pociągu, bez żadnych dodatkowych ograniczeń",
+        "B": "Prędkość konstrukcyjna silniejszej z dwóch lokomotyw prowadzących pociąg",
+        "C": "Prędkość nieprzekraczająca prędkości konstrukcyjnej żadnej z obu lokomotyw",
+        "D": "Prędkość drogowa dla odcinka toru, po którym jedzie pociąg z podwójną trakcją"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 63 ust. 4",
+      "section_ref": "§ 63"
+    },
+    {
+      "uuid": "409d127f-1eda-42ea-88bb-0b1fa2876e08",
+      "question": "Jaka prędkość obowiązuje przy jeździe bez znajomości obsługiwanych odcinków linii kolejowej?",
+      "answers": {
+        "A": "20 km/h",
+        "B": "30 km/h",
+        "C": "50 km/h",
+        "D": "40 km/h"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 63 ust. 5 tabela poz. 33",
+      "section_ref": "§ 63"
+    },
+    {
+      "uuid": "c7497b8a-5701-4407-9cf8-e578889c5e1a",
+      "question": "Jaka jest maksymalna prędkość dla pociągu z czynną lokomotywą ciągnącą, gdy jest on jednocześnie popychany?",
+      "answers": {
+        "A": "40 km/h",
+        "B": "50 km/h",
+        "C": "60 km/h",
+        "D": "80 km/h"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 63 ust. 5 tabela poz. 42",
+      "section_ref": "§ 63"
+    },
+    {
+      "uuid": "78947b51-ac1c-4c22-9a7b-5280d0ec5215",
+      "question": "Kiedy maszynista jest obowiązany zmniejszyć prędkość jazdy niezależnie od wskazanej prędkości nakazanej?",
+      "answers": {
+        "A": "Wyłącznie po otrzymaniu sygnału alarmowego nadanego przez drużynę konduktorską lub kierownika pociągu",
+        "B": "Gdy z powodu złej widoczności nie może dostatecznie orientować się w terenie lub gdy gwałtowne zaburzenia atmosferyczne stwarzają możliwość przeszkody do jazdy",
+        "C": "Tylko wówczas, gdy dyżurny ruchu wyda stosowny rozkaz pisemny z określoną prędkością",
+        "D": "Gdy prędkość pociągu przekracza prędkość drogową dla danego odcinka toru o więcej niż 10 km/h"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 63 ust. 7",
+      "section_ref": "§ 63"
+    },
+    {
+      "uuid": "325596c1-86d3-4805-bdcc-7e15d813a1f5",
+      "question": "Na co maszynista powinien zwracać uwagę podczas wyjazdu pociągu ze stacji?",
+      "answers": {
+        "A": "Czy sieć trakcyjna nie ma uszkodzeń zagrażających bezpieczeństwu ruchu",
+        "B": "Czy drużyna konduktorska lub pracownicy stacyjni nie podają sygnału \"Stój\"",
+        "C": "Czy pociąg jedzie cały i posiada sygnał końca pociągu",
+        "D": "Czy rogatki na przejazdach kolejowo-drogowych są zamknięte"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 64 ust. 1 pkt 2",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "7e6efab0-93bc-44ce-b47a-56db04ea3fe6",
+      "question": "Co maszynista powinien obserwować podczas jazdy pociągu w odniesieniu do toru, po którym pociąg ma przejechać?",
+      "answers": {
+        "A": "Czy tarcze ostrzegawcze wskazują prawidłowe sygnały",
+        "B": "Czy pracownicy stacyjni nie podają sygnałów zatrzymania",
+        "C": "Czy na torze nie ma przeszkód do jazdy",
+        "D": "Czy prędkość pociągu nie przekracza dozwolonej"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 64 ust. 1 pkt 3 lit. b",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "1a1c30f0-2d85-4b6a-96a4-59deb9697174",
+      "question": "Kiedy maszynista powinien obserwować, czy pociąg jedzie cały i czy posiada sygnał końca pociągu?",
+      "answers": {
+        "A": "Wyłącznie podczas zatrzymania pociągu na stacji",
+        "B": "Tylko w czasie zbliżania się do semafora wjazdowego",
+        "C": "Jedynie podczas wyjazdu ze stacji",
+        "D": "Zwłaszcza po ruszeniu pociągu towarowego i w czasie jazdy po łukach"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 64 ust. 1 pkt 3 lit. f",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "6f8a8b64-bbd3-432a-8406-c051bfc7f5f9",
+      "question": "W jakim przypadku maszynista powinien zatrzymać pociąg jadący po szlaku jednotorowym lub po torze lewym?",
+      "answers": {
+        "A": "Gdy semafor wjazdowy wskazuje sygnał zastępczy bez wskaźnika W 24",
+        "B": "Gdy semafor dla przeciwnego kierunku jazdy wskazuje sygnał zezwalający na jazdę po tym torze",
+        "C": "Gdy dyżurny ruchu nie nawiązał łączności radiowej z maszynistą",
+        "D": "Gdy pociąg nie otrzymał rozkazu pisemnego przed wyjazdem ze stacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 64 ust. 2 pkt 3",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "c63c31a3-d908-4ab0-8438-f86a9ef06340",
+      "question": "W jakim przypadku maszynista powinien zatrzymać pociąg skierowany na tor prawy?",
+      "answers": {
+        "A": "Gdy semafor wyjazdowy wskazuje sygnał zastępczy",
+        "B": "Gdy pociąg nie otrzymał rozkazu pisemnego o trasie przejazdu",
+        "C": "Gdy jest wyświetlony wskaźnik W 24",
+        "D": "Gdy drużyna trakcyjna nie nawiązała łączności z dyżurnym ruchu tylnego posterunku"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 64 ust. 2 pkt 4",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "27db78b9-9a29-4293-83c5-37f599d2a994",
+      "question": "Jakiej prędkości nie może przekroczyć maszynista, jeśli słyszy lub dostrzega sygnał \"Alarm\" z naprzeciwka jadącego pociągu?",
+      "answers": {
+        "A": "Musi jechać z prędkością wskazaną w wewnętrznym rozkładzie jazdy",
+        "B": "Musi zmniejszyć prędkość do 40 km/h i kontynuować jazdę",
+        "C": "Zależnie od okoliczności powinien zatrzymać pociąg albo zmniejszyć jego prędkość tak, aby mógł go zatrzymać przed przeszkodą",
+        "D": "Musi zatrzymać pociąg i oczekiwać na rozkaz pisemny dyżurnego ruchu"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 64 ust. 5",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "ac76cfeb-e0df-48bd-997a-01e179f352ac",
+      "question": "Co powinna natychmiast uczynić drużyna pociągowa, gdy zauważy, że po tym samym torze na szlaku zbliża się inny pociąg przeciwnego kierunku jazdy?",
+      "answers": {
+        "A": "Zmniejszyć prędkość do 20 km/h i nawiązać łączność z dyżurnym ruchu",
+        "B": "Zatrzymać pociąg, a maszynista powinien podawać sygnał \"Alarm\" i zastosować wszelkie dostępne środki",
+        "C": "Podać sygnał \"Alarm\" i czekać na reakcję naprzeciwko jadącego pociągu",
+        "D": "Zawiadomić dyżurnego ruchu za pomocą radiołączności i zatrzymać pociąg na najbliższej stacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 64 ust. 5",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "3a53f999-415a-4f4e-8958-aa3f63d4691d",
+      "question": "Co maszynista powinien zrobić, gdy sygnał tarczy ostrzegawczej lub semafora wskazuje, że na najbliższym semaforze należy spodziewać się sygnału \"Stój\"?",
+      "answers": {
+        "A": "Jechać z prędkością nieprzekraczającą 40 km/h do czasu minięcia semafora wskazującego sygnał \"Stój\"",
+        "B": "Nawiązać łączność z dyżurnym ruchu i oczekiwać na dalsze polecenia",
+        "C": "Tak regulować prędkość jazdy, aby pociąg zatrzymał się z całą pewnością przed sygnałem \"Stój\"",
+        "D": "Zatrzymać pociąg przed tarczą ostrzegawczą i oczekiwać na sygnał zezwalający"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 64 ust. 8",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "63702d5f-92f9-4977-95cd-27e7bc3fe9fd",
+      "question": "Kiedy maszynista jest obowiązany nawiązać łączność z dyżurnym ruchu podczas zbliżania się do semafora wjazdowego?",
+      "answers": {
+        "A": "Gdy tarcza ostrzegawcza lub ostatni semafor wieloodstępowej blokady liniowej informuje, że semafor wjazdowy wskazuje sygnał \"Stój\", a pociąg ma przewidziany przejazd bez zatrzymania",
+        "B": "Zawsze, gdy pociąg zbliża się do semafora wjazdowego na odległość mniejszą niż 500 m",
+        "C": "Wyłącznie gdy semafor wjazdowy jest nieoświetlony lub wskazuje sygnał wątpliwy",
+        "D": "Gdy pociąg przekracza rozkładowy czas jazdy o więcej niż 5 minut"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 64 ust. 9",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "68c8dd79-9e1b-4b11-826c-87fee51bef41",
+      "question": "Z jaką prędkością może jechać maszynista pociągu zatrzymanego na szlaku przed samoczynnym semaforem odstępowym wskazującym sygnał \"Stój\", jeśli nie widać przeszkody?",
+      "answers": {
+        "A": "Z prędkością nieprzekraczającą 20 km/h",
+        "B": "Z prędkością nieprzekraczającą 40 km/h",
+        "C": "Z prędkością nieprzekraczającą 60 km/h",
+        "D": "Z prędkością rozkładową, jeśli szlak jest wolny"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 64 ust. 11",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "e958042c-1bcc-4c87-acd1-0f7813fe43fc",
+      "question": "W jakim przypadku kierownik pociągu powinien zatrzymać pociąg z powodu cofania składu?",
+      "answers": {
+        "A": "Gdy maszynista cofa pociąg bez wcześniejszego powiadomienia kierownika pociągu",
+        "B": "Gdy maszynista cofa pociąg z prędkością wyższą niż 20 km/h",
+        "C": "Gdy dyżurny ruchu nie wydał zezwolenia na cofanie w formie rozkazu pisemnego",
+        "D": "Gdy cofanie odbywa się bez podawania sygnału \"Alarm\""
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 64 ust. 21 pkt 1 lit. d",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "b8bc5068-27c6-429b-915e-11b3baea7add",
+      "question": "W jakich przypadkach każdy pracownik wchodzący w skład drużyny pociągowej powinien zatrzymać pociąg?",
+      "answers": {
+        "A": "Gdy pociąg przekracza dozwoloną prędkość lub maszynista nie reaguje na sygnały",
+        "B": "Gdy z pociągu, posterunku ruchu lub szlaku podawane są sygnały \"Stój\", w pociągu lub na torze jest przeszkoda do jazdy, albo na sąsiednim torze jest nieosygnalizowana przeszkoda",
+        "C": "Gdy maszynista nie nawiązał łączności z dyżurnym ruchu lub pociąg jest skierowany w innym kierunku niż rozkładowy",
+        "D": "Gdy brak sygnału końca pociągu lub sieć trakcyjna wykazuje uszkodzenia"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 64 ust. 22",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "19058d6f-a4d0-482d-a824-d4f54418310b",
+      "question": "Jaką prędkością maszynista powinien jechać obok pociągu, na którym czole wyświetlony jest sygnał ostrzegawczy Pc 6?",
+      "answers": {
+        "A": "Z prędkością nieprzekraczającą 40 km/h do momentu wyjaśnienia przyczyny zatrzymania",
+        "B": "Z prędkością nieprzekraczającą 20 km/h do miejsca znajdowania się maszynisty unieruchomionego pociągu lub przeszkody",
+        "C": "Z prędkością rozkładową, jeśli dyżurny ruchu potwierdził bezpieczeństwo jazdy",
+        "D": "Z prędkością nieprzekraczającą 60 km/h, zachowując szczególną ostrożność"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 64 ust. 26",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "f497ca2c-3e97-4b62-aade-df1bdb3012c5",
+      "question": "Co maszynista powinien obserwować podczas jazdy pociągu, jeśli chodzi o stan pociągu własnego i mijanych?",
+      "answers": {
+        "A": "Czy sygnały i wskaźniki wskazują sygnał zezwalający",
+        "B": "Czy na pociągu własnym i mijanych nie ma niebezpiecznych usterek, jak przesunięcie się ładunku lub grzania się czopa osi",
+        "C": "Czy pociąg jedzie z prędkością nie przekraczającą dopuszczalnej",
+        "D": "Czy sieć trakcyjna nie ma uszkodzenia zagrażającego bezpieczeństwu ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 64 ust. 1 pkt 3 lit. e",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "87de284c-a271-4efc-8600-8a0f463515b4",
+      "question": "Co maszynista powinien sprawdzać podczas jazdy pociągu po łukach i po ruszeniu pociągu towarowego, o ile jest to możliwe?",
+      "answers": {
+        "A": "Czy sieć trakcyjna nie ma uszkodzeń",
+        "B": "Czy na torze nie ma przeszkód do jazdy",
+        "C": "Czy pociąg jedzie cały i czy posiada sygnał końca pociągu",
+        "D": "Czy rogatki na przejazdach są zamknięte"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 64 ust. 1 pkt 3 lit. f",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "ab5e8a16-f2d5-4e36-ba83-5bafa5ac1254",
+      "question": "Co maszynista powinien obserwować podczas przejazdu w granicach posterunku ruchu?",
+      "answers": {
+        "A": "Czy drużyna konduktorska nie podaje sygnału \"Stój\"",
+        "B": "Drogę przebiegu",
+        "C": "Czy sygnały tarczowe wskazują sygnał zezwalający",
+        "D": "Czy pociąg jedzie cały i posiada sygnał końca pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 64 ust. 1 pkt 3 lit. g",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "a8bf4b63-b46b-4ded-8982-0f9254c581e8",
+      "question": "W jakim przypadku maszynista powinien zatrzymać pociąg skierowany na tor prawy?",
+      "answers": {
+        "A": "Gdy pociąg jedzie z prędkością wyższą niż rozkładowa",
+        "B": "Gdy semafor wjazdowy wskazuje sygnał \"Stój\"",
+        "C": "Gdy pociąg jest skierowany na tor prawy przy wyświetlonym wskaźniku W 24",
+        "D": "Gdy drużyna pociągowa nie nawiązała łączności z dyżurnym ruchu"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 64 ust. 2 pkt 4",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "e7922dee-7077-4d49-9d3d-c64dedc7b264",
+      "question": "Jakie obowiązki ma drugi maszynista podczas zbliżania się pociągu do stacji lub przejazdu przez nią?",
+      "answers": {
+        "A": "Wyłącznie obsługuje urządzenia pojazdu trakcyjnego",
+        "B": "Brać udział w obserwacjach i informować się wzajemnie z maszynistą o sygnałach",
+        "C": "Informować dyżurnego ruchu o wskazaniach sygnalizatorów",
+        "D": "Obserwować czy pociąg jedzie cały i posiada sygnał końca pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 64 ust. 3",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "b51a3bf9-8c92-4e23-b7bd-3bc55f5f1e4c",
+      "question": "Co powinien zrobić maszynista, jeśli usłyszy lub dostrzeże sygnał \"Alarm\"?",
+      "answers": {
+        "A": "Natychmiast zatrzymać pociąg i powiadomić dyżurnego ruchu",
+        "B": "Zmniejszyć prędkość do 40 km/h i obserwować szlak",
+        "C": "Zależnie od okoliczności zatrzymać pociąg albo zmniejszyć prędkość tak, aby móc go zatrzymać przed przeszkodą",
+        "D": "Podać sygnał \"Alarm\" i kontynuować jazdę z zachowaniem ostrożności"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 64 ust. 5",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "c06c1fac-466d-4f6f-bd57-7dd458f37358",
+      "question": "Co powinna zrobić drużyna pociągowa, jeśli zauważy, że po tym samym torze na szlaku zbliża się inny pociąg przeciwnego kierunku jazdy?",
+      "answers": {
+        "A": "Podać sygnał \"Alarm\" i zmniejszyć prędkość do 40 km/h",
+        "B": "Natychmiast zatrzymać pociąg, maszynista powinien podawać sygnał \"Alarm\" i zastosować wszelkie dostępne środki w celu niedopuszczenia do wypadku",
+        "C": "Nawiązać łączność z dyżurnym ruchu i oczekiwać na instrukcje",
+        "D": "Zjechać na sąsiedni tor i oczekiwać na dalsze polecenia"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 64 ust. 5",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "6d14edc8-cf67-4f9f-912d-518da5e2eb06",
+      "question": "Co powinna zrobić drużyna pociągowa, jeśli nasunie się podejrzenie, że brak jest sygnału końca pociągu?",
+      "answers": {
+        "A": "Zatrzymać pociąg i sprawdzić sygnał końca pociągu",
+        "B": "Zażądać sprawdzenia tego sygnału na najbliższym posterunku ruchu",
+        "C": "Podać sygnał \"Alarm\" i powiadomić dyżurnego ruchu",
+        "D": "Zmniejszyć prędkość i obserwować tylną część pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 64 ust. 6",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "e306a23c-7e74-4d4f-8413-fcbb5798b7f3",
+      "question": "Jak maszynista powinien regulować prędkość jazdy, gdy sygnał tarczy ostrzegawczej wskazuje, że na najbliższym semaforze należy spodziewać się sygnału \"Stój\"?",
+      "answers": {
+        "A": "Jechać z prędkością nieprzekraczającą 40 km/h",
+        "B": "Zatrzymać się przed tarczą ostrzegawczą i oczekiwać na sygnał zezwalający",
+        "C": "Tak regulować prędkość, aby pociąg zatrzymał się z całą pewnością przed sygnałem \"Stój\"",
+        "D": "Jechać tak, jakby semafor wskazywał sygnał \"Wolna droga ze zmniejszoną prędkością\""
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 64 ust. 8",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "acc907c6-503a-4df9-9725-2ea14dc012fa",
+      "question": "Kiedy maszynista jest obowiązany nawiązać łączność z dyżurnym ruchu podczas zbliżania się do semafora wjazdowego wskazującego sygnał \"Stój\"?",
+      "answers": {
+        "A": "Zawsze, gdy zbliża się do semafora wjazdowego",
+        "B": "Gdy pociąg ma przewidziany przejazd bez zatrzymania, a semafor wjazdowy lub tarcza ostrzegawcza informują, że następny semafor wskazuje sygnał \"Stój\"",
+        "C": "Tylko gdy semafor wjazdowy jest nieoświetlony lub wskazuje sygnał wątpliwy",
+        "D": "Gdy prędkość jazdy przekracza 40 km/h w pobliżu semafora wjazdowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 64 ust. 9",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "2c6dba0d-007f-4d56-8d5b-4e3d9a044407",
+      "question": "Z jaką prędkością maszynista powinien jechać po zatrzymaniu przed samoczynnym semaforem odstępowym wskazującym sygnał \"Stój\", jeśli z pojazdu trakcyjnego nie widać przeszkody na przednim odstępie?",
+      "answers": {
+        "A": "Nieprzekraczającą 20 km/h",
+        "B": "Nieprzekraczającą 60 km/h",
+        "C": "Nieprzekraczającą 40 km/h",
+        "D": "Nieprzekraczającą 30 km/h"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 64 ust. 11",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "140b0ef1-f3d9-43a2-b3ad-400634e7199c",
+      "question": "Kto powinien powiadomić dyżurnego ruchu, gdy pociąg przejechał poza ukres w sposób zagrażający jazdom pociągowym?",
+      "answers": {
+        "A": "Maszynista, niezależnie od tego, czy jest kierownik pociągu",
+        "B": "Kierownik pociągu, a gdy go nie ma lub jest w końcu pociągu — maszynista (drugi maszynista)",
+        "C": "Każdy pracownik drużyny pociągowej, który pierwszy nawiąże łączność",
+        "D": "Drugi maszynista, jeśli jest dostępny, a w przeciwnym razie kierownik pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 64 ust. 13",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "5bb22a9e-d38b-481f-a0fe-172bc13549fb",
+      "question": "Co powinien zrobić maszynista, który zauważył na czole innego pociągu sygnał ostrzegawczy Pc 6 (jedno górne białe i dwa dolne czerwone światła)?",
+      "answers": {
+        "A": "Podać sygnał \"Alarm\" i jechać z prędkością nieprzekraczającą 40 km/h",
+        "B": "Natychmiast zatrzymać pociąg i oczekiwać na rozkaz pisemny",
+        "C": "Zatrzymać pociąg i uzyskać informację o przyczynie zatrzymania tamtego pociągu, a dalsza jazda obok niego powinna odbywać się z prędkością nie większą niż 20 km/h",
+        "D": "Zmniejszyć prędkość do 40 km/h i nawiązać łączność z dyżurnym ruchu"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 64 ust. 26",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "f381e89c-26a2-4c12-a141-e771107b5384",
+      "question": "Co maszynista powinien obserwować podczas wyjazdu pociągu ze stacji?",
+      "answers": {
+        "A": "Czy sygnały i wskaźniki wskazują sygnał zezwalający",
+        "B": "Czy drużyna konduktorska lub pracownicy stacyjni nie podają sygnału \"Stój\"",
+        "C": "Czy sieć trakcyjna nie ma uszkodzenia zagrażającego bezpieczeństwu ruchu",
+        "D": "Czy pociąg jedzie cały i posiada sygnał końca pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 64 ust. 1 pkt 2",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "89885d07-c188-4b16-9828-ec5c013dc3cf",
+      "question": "Co maszynista powinien sprawdzać podczas jazdy pociągu w zakresie stanu sieci trakcyjnej?",
+      "answers": {
+        "A": "Czy napięcie w sieci trakcyjnej nie przekracza wartości nominalnej",
+        "B": "Czy sieć trakcyjna jest prawidłowo podwieszona nad torem",
+        "C": "Czy sieć trakcyjna nie ma uszkodzenia zagrażającego bezpieczeństwu ruchu",
+        "D": "Czy pantograf nie dotyka sieci trakcyjnej pod kątem przekraczającym dopuszczalny"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 64 ust. 1 pkt 3 lit. d",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "6c70359c-ed26-404e-b05d-620dd6062643",
+      "question": "W jakich sytuacjach maszynista powinien szczególnie sprawdzać, czy pociąg jedzie cały i posiada sygnał końca pociągu?",
+      "answers": {
+        "A": "Wyłącznie w nocy i przy złych warunkach atmosferycznych",
+        "B": "Zwłaszcza po ruszeniu pociągu towarowego i w czasie jazdy po łukach",
+        "C": "Wyłącznie przy wjeździe na stację i przy przejazdach przez stacje",
+        "D": "Wyłącznie po ruszeniu pociągu pasażerskiego i przy przejazdach kolejowo-drogowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 64 ust. 1 pkt 3 lit. f",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "f744e1c8-3a73-454e-a1b8-fa5d2725bd2f",
+      "question": "Co powinien zrobić maszynista w przypadku zatrzymania pociągu z powodu skierowania go na tor lewy bez wymaganego zezwolenia?",
+      "answers": {
+        "A": "Samodzielnie ocenić sytuację i w razie bezpieczeństwa kontynuować jazdę",
+        "B": "Porozumieć się z dyżurnym ruchu co do sposobu dalszego postępowania",
+        "C": "Oczekiwać na przybycie dyżurnego ruchu do pojazdu trakcyjnego",
+        "D": "Cofnąć pociąg na tor właściwy i oczekiwać na rozkaz pisemny"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 64 ust. 2",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "61b2a86f-df6b-461c-9bc4-616326e0a1fe",
+      "question": "W jakim przypadku maszynista powinien zatrzymać pociąg podczas jazdy na szlaku jednotorowym lub po torze lewym?",
+      "answers": {
+        "A": "Gdy prędkość jazdy przekracza prędkość rozkładową",
+        "B": "Gdy pociąg nie ma ważnego sygnału końca pociągu",
+        "C": "Gdy semafor dla przeciwnego kierunku jazdy wskazuje sygnał zezwalający na jazdę po tym torze",
+        "D": "Gdy drużyna trakcyjna nie nawiązała łączności z dyżurnym ruchu przedniego posterunku"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 64 ust. 2 pkt 3",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "1c886b79-2b7d-49f0-9e54-a19a48c3dcff",
+      "question": "W jakim przypadku maszynista powinien zatrzymać pociąg skierowany na tor prawy?",
+      "answers": {
+        "A": "Gdy na semaforze wyświetlony jest sygnał zastępczy \"Sz\"",
+        "B": "Gdy przy wyświetlonym wskaźniku W 24 pociąg skierowano na tor prawy",
+        "C": "Gdy drużyna trakcyjna nie otrzymała rozkazu pisemnego zezwalającego na jazdę",
+        "D": "Gdy na semaforze wjazdowym wskazywany jest sygnał \"Stój\""
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 64 ust. 2 pkt 4",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "6e902b07-1726-4202-8df7-de6ae87cbf75",
+      "question": "Jakie obowiązki ma drugi maszynista pojazdu trakcyjnego w zakresie obserwacji sygnałów?",
+      "answers": {
+        "A": "Wyłącznie obserwuje sygnały i wskaźniki bez obowiązku informowania maszynisty",
+        "B": "Bierze udział w obserwacjach i informuje się wzajemnie z maszynistą o sygnałach, szczególnie przy wjeździe, wyjeździe i przejeździe przez stację",
+        "C": "Zastępuje maszynistę wyłącznie w czasie postoju na stacji",
+        "D": "Obserwuje sygnały wyłącznie na szlaku, nie mając obowiązku udziału w przejeździe przez stację"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 64 ust. 3",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "421610c1-2d59-4210-bdd4-354772c31997",
+      "question": "Jakie prędkości maszyniście nie wolno przekraczać podczas jazdy pociągu?",
+      "answers": {
+        "A": "Prędkości rozkładowej i prędkości wynikającej ze wskazań sygnalizatorów",
+        "B": "Prędkości wynikającej ze wskazań sygnalizatorów i wskaźników oraz prędkości wynikającej z wykazu ostrzeżeń",
+        "C": "Największej dozwolonej prędkości w wewnętrznym rozkładzie jazdy, maksymalnej prędkości eksploatacyjnej pojazdów kolejowych, prędkości wskazanej w wykazie ostrzeżeń lub rozkazie pisemnym oraz prędkości wynikającej ze wskazań sygnalizatorów i wskaźników",
+        "D": "Prędkości wynikającej z wykazu ostrzeżeń i prędkości na przejazdach kolejowo-drogowych"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 64 ust. 4",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "0449c34a-8459-4956-b32d-aed7f0f41f48",
+      "question": "Co powinien zrobić maszynista, gdy usłyszy lub dostrzeże sygnał \"Alarm\"?",
+      "answers": {
+        "A": "Bezzwłocznie zatrzymać pociąg i powiadomić dyżurnego ruchu",
+        "B": "Podać sygnał \"Alarm\" w odpowiedzi i kontynuować jazdę z prędkością 40 km/h",
+        "C": "Zależnie od okoliczności zatrzymać obsługiwany pociąg albo zmniejszyć jego prędkość jazdy tak, aby mógł go zatrzymać przed przeszkodą",
+        "D": "Nawiązać łączność z dyżurnym ruchu i oczekiwać na jego dyspozycje"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 64 ust. 5",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "dd7f8edc-f972-4a94-89cd-687532af91e9",
+      "question": "Jak maszynista powinien regulować prędkość jazdy, gdy sygnał tarczy ostrzegawczej lub semafora wskazuje, że na najbliższym semaforze należy spodziewać się sygnału \"Stój\"?",
+      "answers": {
+        "A": "Zmniejszyć prędkość do 40 km/h i jechać na widoczność",
+        "B": "Tak regulować prędkość, aby pociąg zatrzymał z całą pewnością przed sygnałem \"Stój\"",
+        "C": "Jechać tak, jakby semafor wskazywał sygnał \"Wolna droga ze zmniejszoną prędkością\"",
+        "D": "Bezzwłocznie nawiązać łączność z dyżurnym ruchu i oczekiwać na jego dyspozycje"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 64 ust. 8",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "e0e7813a-caf7-4428-a98f-51cabb548141",
+      "question": "Z jaką maksymalną prędkością maszynista pociągu zatrzymanego na szlaku przed samoczynnym semaforem odstępowym wskazującym sygnał \"Stój\" powinien jechać po uruchomieniu pociągu, gdy z pojazdu trakcyjnego nie widać przeszkody na przednim odstępie?",
+      "answers": {
+        "A": "20 km/h",
+        "B": "30 km/h",
+        "C": "40 km/h",
+        "D": "60 km/h"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 64 ust. 11",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "5643ff12-9820-4516-a622-b3a0f356c246",
+      "question": "Kto powiadamia dyżurnego ruchu lub nastawniczego, gdy pociąg przejechał poza ukres zagrażając jazdom pociągowym lub manewrowym?",
+      "answers": {
+        "A": "Maszynista, który jednocześnie podaje sygnał \"Alarm\"",
+        "B": "Kierownik pociągu, a gdy go nie ma lub jest w końcu pociągu – maszynista (drugi maszynista)",
+        "C": "Dyżurny ruchu tylnego posterunku, który obserwuje ruch pociągu",
+        "D": "Drugi maszynista, a gdy go nie ma – kierownik pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 64 ust. 13",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "eeda9659-d77d-4143-8af7-474fbe7c804f",
+      "question": "Kiedy kierownik pociągu powinien zatrzymać pociąg z powodu cofania?",
+      "answers": {
+        "A": "Gdy pociąg jest cofany bez rozkazu pisemnego dyżurnego ruchu",
+        "B": "Gdy pociąg jest cofany bez wcześniejszego powiadomienia kierownika pociągu",
+        "C": "Gdy pociąg jest cofany bez sygnału zezwalającego na semaforze",
+        "D": "Gdy pociąg jest cofany bez zgody maszynisty drugiego pojazdu trakcyjnego"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 64 ust. 21 pkt 1 lit. d",
+      "section_ref": "§ 64"
+    },
+    {
+      "uuid": "1a02e25a-e007-4fc0-959e-07b5278adfde",
+      "question": "W jakich przypadkach popychacz może być użyty na odcinkach, na których popychanie nie zostało przewidziane wewnętrznym rozkładem jazdy?",
+      "answers": {
+        "A": "Na podstawie rozkazu pisemnego dyżurnego ruchu, bez żadnych ograniczeń",
+        "B": "W razie uszkodzenia pojazdu trakcyjnego w pociągu lub w innych szczególnych przypadkach, na odcinkach, na których popychanie nie zostało zakazane",
+        "C": "Wyłącznie za zgodą naczelnika stacji, na wszystkich szlakach bez wyjątku",
+        "D": "Na podstawie telefonogramu zapowiadawczego, po uzyskaniu zgody dyżurnego ruchu sąsiedniej stacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 66 ust. 2",
+      "section_ref": "§ 66"
+    },
+    {
+      "uuid": "21323d30-bbed-45cc-a3e1-c7b0bb8c6552",
+      "question": "Jakie jest ograniczenie prędkości pociągu popychanego?",
+      "answers": {
+        "A": "Prędkość pociągu popychanego nie może przekraczać 40 km/h",
+        "B": "Prędkość pociągu popychanego nie może przekraczać 80 km/h",
+        "C": "Prędkość pociągu popychanego nie może przekraczać 50 km/h",
+        "D": "Prędkość pociągu popychanego nie może przekraczać 60 km/h"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 66 ust. 3",
+      "section_ref": "§ 66"
+    },
+    {
+      "uuid": "1abdf4a0-7289-4f3e-b1c9-1dd6a1ca390e",
+      "question": "Które z poniższych składów nie mogą być popychane?",
+      "answers": {
+        "A": "Pociągi, w których skład wchodzą wagony z uszkodzonym oświetleniem",
+        "B": "Pociągi, w których na końcu znajduje się wagon z uszkodzeniem uniemożliwiającym włączenie go w innym miejscu w pociągu",
+        "C": "Pociągi przewożące materiały niebezpieczne klasy 1",
+        "D": "Pociągi przekraczające dopuszczalny nacisk na oś"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 66 ust. 5 pkt 3",
+      "section_ref": "§ 66"
+    },
+    {
+      "uuid": "0154ca74-79f6-4bff-95ec-54f3b800ef2f",
+      "question": "Gdy popychanie pociągu ma odbywać się tylko do określonego kilometra na szlaku i popychacz ma powrócić na stację wyprawienia, jakie słowa należy dodać po numerze pociągu w telefonogramach zapowiadawczych?",
+      "answers": {
+        "A": "Z popychaczem niesprzęgniętym",
+        "B": "Z popychaczem do stacji ...",
+        "C": "Z popychaczem sprzęgniętym",
+        "D": "Z popychaczem do kilometra ..."
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 66 ust. 12",
+      "section_ref": "§ 66"
+    },
+    {
+      "uuid": "8910e0e2-c45f-4d43-9cce-0310df9f31c2",
+      "question": "Z jaką maksymalną prędkością maszynista powinien pchać pociąg przez przejazdy kolejowo-drogowe i przejścia, które nie są obsługiwane lub nie są zabezpieczone w inny sposób?",
+      "answers": {
+        "A": "10 km/h",
+        "B": "20 km/h",
+        "C": "30 km/h",
+        "D": "40 km/h"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 67 ust. 8 pkt 2",
+      "section_ref": "§ 67"
+    },
+    {
+      "uuid": "b7ed6a37-d622-4565-becf-8f24327d5f29",
+      "question": "Komu powinien zgłosić pracownik zauważony wypadek kolejowy lub przeszkodę dla ruchu?",
+      "answers": {
+        "A": "Dyżurnemu ruchu najbliższego posterunku ruchu",
+        "B": "Naczelnikowi sekcji eksploatacji",
+        "C": "Kierownikowi pociągu",
+        "D": "Dróżnikowi przejazdowemu"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 69 ust. 2",
+      "section_ref": "§ 69"
+    },
+    {
+      "uuid": "c8615b25-2695-4eb4-b2e4-731c307c2dd4",
+      "question": "Jakie dwie czynności powinna wykonać drużyna pociągowa po stwierdzeniu zagrożenia bezpieczeństwa ruchu, gdy po tym samym torze zbliża się pociąg jadący w przeciwnym kierunku?",
+      "answers": {
+        "A": "Stosować radiotelefoniczny system alarmowy i wykonać hamowanie nagłe",
+        "B": "Podawać sygnały wzrokowe i wezwać pomoc",
+        "C": "Zatrzymać pociąg i zgłosić to naczelnikowi sekcji eksploatacji",
+        "D": "Wyłączyć napięcie w sieci trakcyjnej i nadać sygnał alarmowy"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 69 ust. 5",
+      "section_ref": "§ 69"
+    },
+    {
+      "uuid": "b86f320b-4070-408c-b460-7bd17fadf7f8",
+      "question": "Co należy zrobić w pierwszej kolejności w razie wypadku z pociągiem na szlaku?",
+      "answers": {
+        "A": "Zbadać stan urządzeń hamulcowych",
+        "B": "Osłonić sygnałami \"Stój\" przede wszystkim sąsiednie tory, jeżeli powstała na nich przeszkoda do jazdy",
+        "C": "Zgłosić wypadek naczelnikowi sekcji eksploatacji",
+        "D": "Zabezpieczyć ślady wypadku i mienie kolejowe"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 69 ust. 6",
+      "section_ref": "§ 69"
+    },
+    {
+      "uuid": "cde10774-fe4b-451a-a2b8-421b2235623c",
+      "question": "Kiedy pracownik, który zauważył zagrożenie bezpieczeństwa ruchu, może opuścić miejsce, z którego można zapobiec wypadkowi?",
+      "answers": {
+        "A": "Po przybyciu naczelnika sekcji eksploatacji",
+        "B": "Po zgłoszeniu zagrożenia dyżurnemu ruchu",
+        "C": "Gdy wykonał wszystkie czynności zmierzające do uniknięcia wypadku lub zmniejszenia jego skutków",
+        "D": "Po upływie 30 minut od zauważenia zagrożenia"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 69 ust. 7",
+      "section_ref": "§ 69"
+    },
+    {
+      "uuid": "e68cd3e2-030d-4e06-bfde-2c8892aec088",
+      "question": "Co powinien zrobić dyżurny ruchu po otrzymaniu zgłoszenia o wypadku wymagającym wstrzymania ruchu pociągów?",
+      "answers": {
+        "A": "Niezwłocznie przybyć na miejsce wypadku i ocenić sytuację",
+        "B": "Zamknąć dany tor lub szlak i powiadomić zainteresowanych pracowników oraz właściwe jednostki",
+        "C": "Polecić drużynie pociągowej wykonanie hamowania nagłego",
+        "D": "Nadać sygnał alarmowy za pomocą urządzeń radiołączności pociągowej"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 69 ust. 8",
+      "section_ref": "§ 69"
+    },
+    {
+      "uuid": "5e646dc8-1266-43a2-994d-d2b591dcfe2a",
+      "question": "Jakie działania powinien podjąć dyżurny ruchu, gdy stwierdzi, że pociąg bez pozwolenia wyjechał na szlak?",
+      "answers": {
+        "A": "Natychmiast nadać sygnał \"Alarm\" za pomocą urządzeń radiołączności pociągowej i podjąć działania zapobiegające wypadkowi",
+        "B": "Zamknąć szlak i powiadomić naczelnika sekcji eksploatacji",
+        "C": "Polecić dróżnikom przejazdowym wystawienie tarcz zatrzymania na wszystkich przejazdach",
+        "D": "Wstrzymać wyprawianie kolejnych pociągów i nadać sygnały ostrzegawcze"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 69 ust. 10 pkt 1",
+      "section_ref": "§ 69"
+    },
+    {
+      "uuid": "3bae825d-32cc-46c2-9e09-db6f42cc74c7",
+      "question": "Jaką dodatkową informację powinien podać dyżurny ruchu dróżnikom przejazdowym przy poleceniu zatrzymania pociągu na szlaku dwutorowym?",
+      "answers": {
+        "A": "Numer toru szlakowego, po którym jedzie pociąg wymagający zatrzymania",
+        "B": "Numer pociągu i przewidywany czas przejazdu",
+        "C": "Rodzaj zagrożenia bezpieczeństwa ruchu",
+        "D": "Masę pociągu i jego prędkość"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 69 ust. 10 pkt 1 lit. a",
+      "section_ref": "§ 69"
+    },
+    {
+      "uuid": "38f7516c-0b9f-4127-bd27-47b1cc57357b",
+      "question": "Gdzie powinny być przechowywane przybory sygnałowe stanowiące wyposażenie posterunków?",
+      "answers": {
+        "A": "W zamkniętych szafkach, chronionych przed dostępem osób nieuprawnionych",
+        "B": "W miejscach łatwo dostępnych, umożliwiających natychmiastowe ich użycie",
+        "C": "W kabinie dyżurnego ruchu, pod jego bezpośrednim nadzorem",
+        "D": "W magazynie posterunku, skatalogowane i opisane"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 69 ust. 11",
+      "section_ref": "§ 69"
+    },
+    {
+      "uuid": "305098a0-bc26-44cf-af5e-03b3d5f39865",
+      "question": "Co powinien zrobić pracownik, który zauważył przeszkodę dla ruchu lub zagrożenie bezpieczeństwa ruchu?",
+      "answers": {
+        "A": "Samodzielnie usunąć przeszkodę i dopiero po jej usunięciu zgłosić zdarzenie.",
+        "B": "Zgłosić to dyżurnemu ruchu najbliższego posterunku ruchu.",
+        "C": "Niezwłocznie powiadomić naczelnika sekcji eksploatacji.",
+        "D": "Zatrzymać ruch pociągów i zabezpieczyć miejsce zdarzenia."
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 69 ust. 2",
+      "section_ref": "§ 69"
+    },
+    {
+      "uuid": "9c205a63-f70d-4e26-81f3-f34b0333564a",
+      "question": "Kogo powinien zawiadomić dyżurny ruchu posterunku po otrzymaniu zgłoszenia o zagrożeniu bezpieczeństwa ruchu?",
+      "answers": {
+        "A": "Wyłącznie dyżurnych ruchu sąsiednich stacji.",
+        "B": "Naczelnika sekcji eksploatacji i maszynistów pociągów na szlaku.",
+        "C": "Dyżurnych ruchu sąsiednich stacji pośrednich posterunków ruchu, dróżników przejazdowych i innych zainteresowanych pracowników.",
+        "D": "Dróżników przejazdowych i maszynistów pociągów jadących w obu kierunkach."
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 69 ust. 2",
+      "section_ref": "§ 69"
+    },
+    {
+      "uuid": "c99b3c4f-3b23-41d1-a1a9-5a2681896643",
+      "question": "Jakie czynności powinna wykonać drużyna pociągowa, gdy stwierdzi zagrożenie bezpieczeństwa ruchu, któremu można zapobiec lub zmniejszyć jego skutki poprzez zatrzymanie pociągu?",
+      "answers": {
+        "A": "Podać sygnały 'Stój' i wezwać pomoc przez radio.",
+        "B": "Stosować radiotelefoniczny system alarmowy i wykonać hamowanie nagłe.",
+        "C": "Wykonać hamowanie nagłe i zawiadomić dyżurnego ruchu.",
+        "D": "Zatrzymać pociąg i osłonić go sygnałami 'Stój' z obu stron."
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 69 ust. 5",
+      "section_ref": "§ 69"
+    },
+    {
+      "uuid": "92d449c5-8c1c-4500-a75d-1f4075f94002",
+      "question": "W jakiej kolejności należy osłaniać tory sygnałami 'Stój' w razie wypadku z pociągiem na szlaku?",
+      "answers": {
+        "A": "Najpierw tor, na którym powstał wypadek, a następnie sąsiednie tory.",
+        "B": "Jednocześnie wszystkie tory w obu kierunkach.",
+        "C": "Najpierw sąsiednie tory, jeśli powstała na nich przeszkoda, a następnie tor, na którym nastąpił wypadek.",
+        "D": "Najpierw tory w kierunku jazdy pociągu, a następnie tory w kierunku przeciwnym."
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 69 ust. 6",
+      "section_ref": "§ 69"
+    },
+    {
+      "uuid": "bee489b7-e3e7-401e-8b58-0674e5ff6d3d",
+      "question": "Kiedy pracownik, który zauważył zagrożenie bezpieczeństwa ruchu, może opuścić miejsce zdarzenia?",
+      "answers": {
+        "A": "Po przybyciu dyżurnego ruchu lub naczelnika sekcji eksploatacji.",
+        "B": "Po wykonaniu wszystkich czynności zmierzających do uniknięcia wypadku lub zmniejszenia jego skutków.",
+        "C": "Po poinformowaniu dyżurnego ruchu o zagrożeniu.",
+        "D": "Po upływie czasu wystarczającego na zatrzymanie pociągów zagrożonych wypadkiem."
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 69 ust. 7",
+      "section_ref": "§ 69"
+    },
+    {
+      "uuid": "24b94e23-8c07-428e-935a-162b5de452ae",
+      "question": "Co powinien zrobić dyżurny ruchu po otrzymaniu zgłoszenia o wypadku lub przeszkodzie wymagającej wstrzymania ruchu pociągów?",
+      "answers": {
+        "A": "Wstrzymać wyprawianie pociągów i oczekiwać na przybycie naczelnika sekcji.",
+        "B": "Zamknąć dany tor lub szlak oraz powiadomić zainteresowanych pracowników i właściwe jednostki.",
+        "C": "Powiadomić drużyny pociągowe rozkazami pisemnymi i zamknąć szlak.",
+        "D": "Nadać sygnał 'Alarm' i polecić dróżnikom przejazdowym zatrzymanie pociągów."
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 69 ust. 8",
+      "section_ref": "§ 69"
+    },
+    {
+      "uuid": "3bb362f9-a835-442e-ae1a-5796166519a3",
+      "question": "Jakie czynności powinien podjąć członek drużyny pociągowej do czasu przybycia naczelnika sekcji eksploatacji na miejsce wypadku?",
+      "answers": {
+        "A": "Osłonić miejsce wypadku sygnałami, zgłosić wypadek dyżurnemu ruchu, zapewnić pomoc poszkodowanym oraz zabezpieczyć ślady i mienie.",
+        "B": "Wyłącznie osłonić miejsce wypadku sygnałami i czekać na przybycie odpowiednich służb.",
+        "C": "Zabezpieczyć mienie kolejowe i ładunek, a następnie oczekiwać na dyspozycje dyżurnego ruchu.",
+        "D": "Zgłosić wypadek dyżurnemu ruchu i opuścić miejsce zdarzenia po zakończeniu obowiązków służbowych."
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 69 ust. 9",
+      "section_ref": "§ 69"
+    },
+    {
+      "uuid": "54ce2d8f-1945-4760-9364-68321afe7730",
+      "question": "Co powinien zrobić dyżurny ruchu, gdy stwierdzi, że pociąg bez pozwolenia wyjechał na szlak lub że jazda pociągu bezpośrednio zagraża bezpieczeństwu ruchu?",
+      "answers": {
+        "A": "Niezwłocznie zamknąć szlak i powiadomić naczelnika sekcji eksploatacji.",
+        "B": "Natychmiast nadać sygnał 'Alarm' za pomocą urządzeń radiołączności pociągowej i podjąć działania zapobiegające wypadkowi lub zmniejszające jego skutki.",
+        "C": "Polecić maszyniście zatrzymanie pociągu i powiadomić dyżurnych ruchu sąsiednich stacji.",
+        "D": "Wydać rozkazy pisemne drużynom pociągowym i wstrzymać wyprawianie pociągów ze stacji."
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 69 ust. 10 pkt 1",
+      "section_ref": "§ 69"
+    },
+    {
+      "uuid": "6356f943-a05e-44bd-a49f-5373a3accdb0",
+      "question": "Jaka jest maksymalna prędkość cofania pociągu przez przejazdy kolejowo-drogowe i przejścia, które nie są obsługiwane lub nie są zabezpieczone w inny sposób?",
+      "answers": {
+        "A": "30 km/h",
+        "B": "10 km/h",
+        "C": "20 km/h",
+        "D": "5 km/h"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 70 ust. 2",
+      "section_ref": "§ 70"
+    },
+    {
+      "uuid": "2afb67fa-b659-424f-964d-23958d8138e0",
+      "question": "Jaka jest maksymalna prędkość cofania pociągu na szlaku po uzgodnieniu z dyżurnym ruchu (pociąg zwykły, niezestawiony z zespołów trakcyjnych)?",
+      "answers": {
+        "A": "20 km/h",
+        "B": "60 km/h",
+        "C": "5 km/h",
+        "D": "30 km/h"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 70 ust. 2",
+      "section_ref": "§ 70"
+    },
+    {
+      "uuid": "23068ff3-5e63-4cad-a199-9916f87207e4",
+      "question": "Jaka jest maksymalna prędkość cofania pociągu bez uzgodnienia z dyżurnym ruchu, gdy poprzedza go właściwy pracownik z przyborami sygnałowymi?",
+      "answers": {
+        "A": "10 km/h",
+        "B": "20 km/h",
+        "C": "30 km/h",
+        "D": "5 km/h"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 70 ust. 4",
+      "section_ref": "§ 70"
+    },
+    {
+      "uuid": "e779c722-1a19-457e-9458-e1f8dfb76977",
+      "question": "W jakich okolicznościach cofanie pociągu jest zabronione na jednotorowym odcinku linii kolejowej bez obsady stacji i mijanek?",
+      "answers": {
+        "A": "Gdy widoczność jest mniejsza niż 100 m",
+        "B": "Gdy pociąg nie ma kierownika pociągu",
+        "C": "Gdy nie otrzymano pozwolenia dyżurnego ruchu odcinkowego",
+        "D": "Gdy pociąg jedzie bez drużyny konduktorskiej"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 70 ust. 4 pkt 4",
+      "section_ref": "§ 70"
+    },
+    {
+      "uuid": "e050a5bd-6c18-4f55-8cbe-b4b76a633962",
+      "question": "Gdzie należy zatrzymać cofany pociąg przed posterunkiem zapowiadawczym, gdy nie widać semafora przy sąsiednim torze?",
+      "answers": {
+        "A": "Obok semafora wjazdowego przy sąsiednim torze z prawej strony w kierunku cofania",
+        "B": "W odległości 200 m przed pierwszym rozjazdem na drodze cofanego pociągu",
+        "C": "Przed urządzeniem sygnałowym ważnym dla cofanego pociągu",
+        "D": "W odległości 100 m przed pierwszym rozjazdem na drodze cofanego pociągu"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 70 ust. 5 pkt 2 lit. c",
+      "section_ref": "§ 70"
+    },
+    {
+      "uuid": "4061b9fa-352d-4fcd-bb51-53f73d4a5aad",
+      "question": "Kogo powinien powiadomić pracownik przewoźnika, jeśli po zatrzymaniu pociągu stwierdzi, że część pociągu może jechać dalej?",
+      "answers": {
+        "A": "Wyłącznie dyżurnego ruchu tylnego posterunku następczego za pomocą urządzeń łączności",
+        "B": "Dyżurnego ruchu tylnego posterunku następczego oraz, o ile jest to możliwe, dyżurnego ruchu najbliższego przedniego posterunku zapowiadawczego",
+        "C": "Dyżurnego ruchu najbliższego przedniego posterunku zapowiadawczego i kierownika pociągu",
+        "D": "Maszynistę i dyżurnego ruchu odcinkowego za pomocą urządzeń łączności"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 70 ust. 6",
+      "section_ref": "§ 70"
+    },
+    {
+      "uuid": "9d243833-c642-47e6-b22f-236525962001",
+      "question": "Co powinien zrobić dyżurny ruchu posterunku zapowiadawczego po otrzymaniu zawiadomienia o podzieleniu lub rozerwaniu pociągu i pozostawieniu jego części na szlaku?",
+      "answers": {
+        "A": "Wysłać lokomotywę z pomocą na szlak",
+        "B": "Zamknąć tor szlakowy",
+        "C": "Wezwać drużynę konduktorską do zabezpieczenia wagonów",
+        "D": "Zatrzymać ruch na sąsiednich torach"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 70 ust. 7",
+      "section_ref": "§ 70"
+    },
+    {
+      "uuid": "e6e59181-2836-484e-a1fd-8bfe2f7075cb",
+      "question": "Kto powinien zostać wysłany po pozostałą na szlaku część pociągu?",
+      "answers": {
+        "A": "Lokomotywa z dyżurującą drużyną trakcyjną ze stacji",
+        "B": "Lokomotywa ratunkowa z dyżurnym ruchu na pokładzie",
+        "C": "Lokomotywa z tą samą drużyną, która przyprowadziła na stację część pociągu",
+        "D": "Lokomotywa z drużyną wyznaczoną przez dyżurnego ruchu odcinkowego"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 70 ust. 12",
+      "section_ref": "§ 70"
+    },
+    {
+      "uuid": "763b09b3-a5f1-4c34-932a-dad3878d00b1",
+      "question": "Kiedy tory szlaku, na który zbiegły wagony, można uznać za wolne do jazdy?",
+      "answers": {
+        "A": "Po upływie jednej godziny od momentu zbiegnięcia wagonów i zgłoszeniu tego faktu dyżurnemu ruchu",
+        "B": "Po upewnieniu się, że wagony nie pozostały na szlaku i że sąsiedni tor szlaku dwutorowego również jest wolny od przeszkody do jazdy",
+        "C": "Po przybyciu pociągu pomocniczego i oczyszczeniu toru z ewentualnych szczątków",
+        "D": "Natychmiast po zatrzymaniu zbiegłych wagonów na torze żeberkowym lub wykolejeniu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 71 ust. 10",
+      "section_ref": "§ 71"
+    },
+    {
+      "uuid": "b6d81a36-9808-4284-9efc-96bd8b93a620",
+      "question": "Co należy zrobić z uszkodzonym wagonem w pociągu, jeśli usunięcie uszkodzenia bez wyłączenia wagonu jest niemożliwe?",
+      "answers": {
+        "A": "Zmniejszyć prędkość do 30 km/h i dojechać do najbliższej stacji",
+        "B": "Wyłączyć wagon z pociągu",
+        "C": "Zawiadomić dyżurnego ruchu i kontynuować jazdę z normalną prędkością",
+        "D": "Natychmiast zatrzymać pociąg i wezwać rewidenta taboru kolejowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 76 ust. 1",
+      "section_ref": "§ 76"
+    },
+    {
+      "uuid": "16800a78-8706-45ac-9e2e-ae32fef048b6",
+      "question": "Kto decyduje, czy uszkodzenie wagonu może ujemnie wpłynąć na bezpieczeństwo ruchu, gdy brak właściwego pracownika przewoźnika kolejowego?",
+      "answers": {
+        "A": "Rewident taboru kolejowego",
+        "B": "Dyżurny ruchu najbliższej stacji",
+        "C": "Kierownik pociągu",
+        "D": "Maszynista"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 76 ust. 1",
+      "section_ref": "§ 76"
+    },
+    {
+      "uuid": "c1ab9c0b-7084-4ab7-b3b9-40548a634c2e",
+      "question": "Kto bada wagony wykolejone przed dopuszczeniem ich do dalszej jazdy w pociągu?",
+      "answers": {
+        "A": "Maszynista po dokonaniu oględzin zewnętrznych",
+        "B": "Dyżurny ruchu stacji",
+        "C": "Rewident taboru kolejowego",
+        "D": "Kierownik pociągu lub maszynista przy obsadzie jednoosobowej"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 76 ust. 2",
+      "section_ref": "§ 76"
+    },
+    {
+      "uuid": "20bd961c-4e41-4ab5-bd46-cc5187f33db7",
+      "question": "Z jaką maksymalną prędkością należy dowieźć wagony wykolejone na szlaku do najbliższej stacji, gdy dokładne zbadanie na szlaku jest niemożliwe?",
+      "answers": {
+        "A": "20 km/h",
+        "B": "30 km/h",
+        "C": "40 km/h",
+        "D": "50 km/h"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 76 ust. 2",
+      "section_ref": "§ 76"
+    },
+    {
+      "uuid": "15ffdd92-7270-4583-9a09-1091ef5c1779",
+      "question": "Jaką prędkość wjazdu na stację powinien zachować pociąg z zagrzanym czopem osi zestawu kołowego?",
+      "answers": {
+        "A": "Nie większą niż 5 km/h",
+        "B": "5-10 km/h",
+        "C": "10-20 km/h",
+        "D": "Nie większą niż 20 km/h"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 76 ust. 4 pkt 2",
+      "section_ref": "§ 76"
+    },
+    {
+      "uuid": "c0c2d7d5-78f9-4488-99e7-8655f705cb4a",
+      "question": "Co powinien zrobić pracownik drużyny pociągowej obserwujący wjazd na stację wagonu z zagrzanym czopem osi zestawu kołowego?",
+      "answers": {
+        "A": "Obserwować wagon i natychmiast zatrzymać pociąg, gdyby wagon się wykolejał",
+        "B": "Obserwować wagon i zawiadomić dyżurnego ruchu o ewentualnym wykolejeniu",
+        "C": "Obserwować wagon i wyłączyć hamulce, gdyby wagon się wykolejał",
+        "D": "Obserwować wagon i zmniejszyć prędkość do 5 km/h, gdyby wagon się wykolejał"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 76 ust. 4 pkt 3",
+      "section_ref": "§ 76"
+    },
+    {
+      "uuid": "411ad2da-281c-447a-a100-bd1ef5de48b2",
+      "question": "Co należy zrobić z pociągiem z zagrzanym czopem osi, gdy istnieje niebezpieczeństwo złamania osi?",
+      "answers": {
+        "A": "Zmniejszyć prędkość do 10 km/h i dojechać do najbliższej stacji",
+        "B": "Zawiadomić dyżurnego ruchu i kontynuować jazdę z prędkością 5-10 km/h",
+        "C": "Zażądać pomocy",
+        "D": "Wyłączyć hamulce i jechać z prędkością nie większą niż 20 km/h"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 76 ust. 4",
+      "section_ref": "§ 76"
+    },
+    {
+      "uuid": "4ad94a87-d6f0-4f78-bd42-aad0ce47c3de",
+      "question": "Jaką maksymalną prędkość powinien zachować pociąg z kołami mającymi płaskie miejsca lub nalepyw drodze do najbliższej stacji?",
+      "answers": {
+        "A": "10 km/h",
+        "B": "20 km/h",
+        "C": "30 km/h",
+        "D": "40 km/h"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 76 ust. 6",
+      "section_ref": "§ 76"
+    },
+    {
+      "uuid": "5cac037c-6c76-47a3-bbb4-65d4c2fb2644",
+      "question": "Kogo należy powiadomić, gdy podczas przejazdu pociągu słychać silne rytmiczne uderzenia kół o szyny?",
+      "answers": {
+        "A": "Maszynistę pociągu przez radio",
+        "B": "Kierownika pociągu",
+        "C": "Dyżurnego ruchu najbliższego posterunku ruchu",
+        "D": "Rewidenta taboru kolejowego na sąsiedniej stacji"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 76 ust. 6",
+      "section_ref": "§ 76"
+    },
+    {
+      "uuid": "a9c3c42a-37ef-4564-907b-337c1fb7d38c",
+      "question": "Po czym można poznać, że w jadącym pociągu w stanie odhamowanym hamuje wagon i jego koła ślizgają się po szynie?",
+      "answers": {
+        "A": "Po szumie, pisku oraz iskrzeniu i dymieniu między klockami hamulcowymi a obręczami kół",
+        "B": "Po iskrzeniu pomiędzy kołem a szyną",
+        "C": "Po rytmicznych stukach kół o szyny",
+        "D": "Po pochyleniu wagonu na jedną stronę i nierównej jeździe"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 76 ust. 8",
+      "section_ref": "§ 76"
+    },
+    {
+      "uuid": "861a968f-90f4-4086-b7f4-3ea6ebfaf60b",
+      "question": "Co należy zrobić po natychmiastowym zatrzymaniu pociągu, w którym wagon ślizga się kołami po szynie z powodu zbyt silnego hamowania?",
+      "answers": {
+        "A": "Wyłączyć hamulce i wyluzować, a następnie jechać z prędkością najwyżej 20 km/h do najbliższej stacji",
+        "B": "Wyłączyć hamulce i wyluzować, a następnie jechać z prędkością najwyżej 30 km/h do najbliższej stacji",
+        "C": "Wezwać rewidenta taboru kolejowego i czekać na miejscu",
+        "D": "Zawiadomić dyżurnego ruchu i kontynuować jazdę bez zmian prędkości"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 76 ust. 8",
+      "section_ref": "§ 76"
+    },
+    {
+      "uuid": "f8da9f88-d3bf-41ed-bb49-42a05ee0fdb5",
+      "question": "Co powinien uczynić dyżurny ruchu, który zauważył brak zderzaka przy wagonie w pociągu?",
+      "answers": {
+        "A": "Natychmiast zatrzymać pociąg i wezwać rewidenta taboru kolejowego",
+        "B": "Bezzwłocznie zawiadomić dyżurnego ruchu przedniej stacji",
+        "C": "Bezzwłocznie zawiadomić maszynistę pociągu i polecić zmniejszenie prędkości",
+        "D": "Bezzwłocznie zawiadomić dyżurnego ruchu, który powinien zatrzymać najbliższy pociąg wyjeżdżający na zagrożony szlak"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 76 ust. 10",
+      "section_ref": "§ 76"
+    },
+    {
+      "uuid": "446c11ab-303e-477a-9a30-153815b03dce",
+      "question": "Kogo należy powiadomić o niekompletnym lub niewłaściwym osygnalizowaniu pociągu w celu usunięcia nieprawidłowości?",
+      "answers": {
+        "A": "Maszynistę",
+        "B": "Dyżurnego ruchu",
+        "C": "Rewidenta taboru",
+        "D": "Dróżnika przejazdowego"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 77 ust. 1",
+      "section_ref": "§ 77"
+    },
+    {
+      "uuid": "3cab5255-79ef-4cae-bb84-2ae2d5c4b406",
+      "question": "Do kiedy najpóźniej powinno nastąpić prawidłowe osygnalizowanie pociągu, którego osygnalizowanie jest niekompletne?",
+      "answers": {
+        "A": "Na najbliższej stacji węzłowej",
+        "B": "Na stacji rozkładowego lub planowanego postoju",
+        "C": "Na najbliższym posterunku następczym",
+        "D": "Na stacji końcowej pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 77 ust. 1",
+      "section_ref": "§ 77"
+    },
+    {
+      "uuid": "efb8044d-58d7-4396-a5e2-3014c1a9a75f",
+      "question": "Na jakich szlakach prawidłowe osygnalizowanie czoła lub końca pociągu jadącego w porze ciemnej należy dokonać na najbliższej stacji?",
+      "answers": {
+        "A": "Na szlakach jednotorowych z blokadą półsamoczynną",
+        "B": "Na szlakach wyposażonych w wieloodstępową (samoczynną) blokadę liniową",
+        "C": "Na szlakach dwutorowych z blokadą ręczną",
+        "D": "Na szlakach z posterunkami odgałęźnymi"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 77 ust. 1",
+      "section_ref": "§ 77"
+    },
+    {
+      "uuid": "2077cc1c-4605-41b8-8c1e-8d921f583c24",
+      "question": "Co należy uznać, gdy pracownik obsługujący semafor nie stwierdził z całą pewnością, że pociąg ma sygnał końca pociągu?",
+      "answers": {
+        "A": "Że pociąg wjechał w całości",
+        "B": "Że nastąpiła awaria sygnalizatora końcowego",
+        "C": "Że mogło nastąpić rozerwanie pociągu",
+        "D": "Że maszynista zapomniał włączyć sygnał"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 77 ust. 2",
+      "section_ref": "§ 77"
+    },
+    {
+      "uuid": "32763994-b0c9-421f-9dea-c0212a98a98a",
+      "question": "Do jakiej prędkości należy polecić zmniejszenie jazdy drużynie pociągowej jadącej po torach sąsiadujących z torem, po którym przejechał pociąg bez sygnału końca pociągu?",
+      "answers": {
+        "A": "Do 40 km/h",
+        "B": "Do 30 km/h",
+        "C": "Do 20 km/h",
+        "D": "Do 10 km/h"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 77 ust. 2",
+      "section_ref": "§ 77"
+    },
+    {
+      "uuid": "aa085ad3-9978-4c1f-ab47-9e7fe1a4b8cc",
+      "question": "W jaki sposób należy zawiadomić drużynę pociągową o konieczności zmniejszenia prędkości na torach sąsiadujących z torem pociągu bez sygnału końca pociągu?",
+      "answers": {
+        "A": "Ustnie przez dyżurnego ruchu",
+        "B": "Sygnałem na semaforze",
+        "C": "Rozkazem pisemnym",
+        "D": "Telefonogramem do maszynisty"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 77 ust. 2",
+      "section_ref": "§ 77"
+    },
+    {
+      "uuid": "6ba38ed1-3b56-40ab-946b-66222cb50e72",
+      "question": "Jaki sygnał powinien być nastawiony na semaforze wyjazdowym po przejechaniu pociągu bez sygnału końca pociągu obok tego semafora?",
+      "answers": {
+        "A": "Sygnał zezwalający na jazdę z ograniczoną prędkością",
+        "B": "Sygnał „Stój”",
+        "C": "Sygnał ostrzegawczy",
+        "D": "Sygnał zastępczy"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 77 ust. 3",
+      "section_ref": "§ 77"
+    },
+    {
+      "uuid": "ccb8ee40-9687-41ee-b0d2-90fab8751d48",
+      "question": "Kogo powinien zawiadomić dyżurny ruchu, który stwierdził, że pociąg wyjechał bez sygnału końca pociągu?",
+      "answers": {
+        "A": "Dyżurnego ruchu najbliższej przedniej stacji, dyżurnych ruchu pośrednich posterunków następczych i dróżników przejazdowych",
+        "B": "Tylko dyżurnego ruchu najbliższej przedniej stacji",
+        "C": "Tylko dyspozytora liniowego",
+        "D": "Maszynistę pociągu i dyspozytora liniowego"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 77 ust. 3",
+      "section_ref": "§ 77"
+    },
+    {
+      "uuid": "d0169fc6-0d47-4aff-954c-e662cda54930",
+      "question": "Co powinien zrobić dyżurny ruchu przedniej stacji po otrzymaniu zawiadomienia, że pociąg wyjechał bez sygnału końca pociągu?",
+      "answers": {
+        "A": "Wyprawić pociąg ratunkowy na szlak",
+        "B": "Zatrzymać pociąg i po sprawdzeniu, że wjechał w całości, powiadomić dyżurnego ruchu tylnej stacji",
+        "C": "Zamknąć semafor wyjazdowy i wstrzymać ruch na szlaku na 30 minut",
+        "D": "Zawiadomić wyłącznie dyspozytora liniowego o zdarzeniu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 77 ust. 3",
+      "section_ref": "§ 77"
+    },
+    {
+      "uuid": "fbf683e9-bbe0-40e7-ba50-8d90a5154e6f",
+      "question": "Za co należy uważać tor szlakowy do czasu otrzymania zawiadomienia, że pociąg bez sygnału końca pociągu przyjechał w całości?",
+      "answers": {
+        "A": "Za tor zamknięty dla ruchu",
+        "B": "Za tor zajęty",
+        "C": "Za tor uszkodzony",
+        "D": "Za tor wyłączony z eksploatacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 77 ust. 3",
+      "section_ref": "§ 77"
+    },
+    {
+      "uuid": "4f524876-a119-428f-a6e3-73d349928e3d",
+      "question": "Co nie wolno robić po przejechaniu pociągu bez sygnału końca pociągu obok obsługiwanego semafora wjazdowego lub odstępowego?",
+      "answers": {
+        "A": "Zawiadamiać dyżurnego ruchu tylnej stacji",
+        "B": "Nastawiać sygnału „Stój” na tym semaforze ani obsłużyć bloku liniowego",
+        "C": "Zakładać zamknięć pomocniczych na urządzenia",
+        "D": "Powiadamiać dróżników przejazdowych na szlaku"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 77 ust. 4",
+      "section_ref": "§ 77"
+    },
+    {
+      "uuid": "caabf34f-a851-44ca-a330-0fbad9a0d115",
+      "question": "Kogo powinien natychmiast zawiadomić dróżnik przejazdowy, który zauważył brak sygnału końca pociągu?",
+      "answers": {
+        "A": "Dyżurnego ruchu najbliższego tylnego i przedniego posterunku następczego",
+        "B": "Dyspozytora liniowego i maszynistę pociągu",
+        "C": "Nastawniczego najbliższej stacji i kierownika pociągu",
+        "D": "Tylko dyżurnego ruchu najbliższego przedniego posterunku następczego"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 77 ust. 5",
+      "section_ref": "§ 77"
+    },
+    {
+      "uuid": "6338a594-07e5-4314-ad9a-c8b0395778fb",
+      "question": "Co powinien zrobić nastawniczy po wjeździe pociągu bez sygnału końca pociągu, jeżeli zachodzi konieczność przestawienia zwrotnic?",
+      "answers": {
+        "A": "Samodzielnie nastawić sygnał „Stój” i rozwiązać drogę przebiegu",
+        "B": "Uzyskać pozwolenie dyżurnego ruchu na nastawienie sygnału „Stój” i rozwiązanie drogi przebiegu",
+        "C": "Zawiadomić maszynistę o konieczności wycofania pociągu",
+        "D": "Zabezpieczyć zwrotnice zamknięciami pomocniczymi i czekać na polecenie dyspozytora"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 77 ust. 6",
+      "section_ref": "§ 77"
+    },
+    {
+      "uuid": "0aff9bfe-aeb3-4efe-8581-86a55c5b78b7",
+      "question": "W jakim przypadku nastawniczy może bez zezwolenia dyżurnego ruchu nastawić sygnał „Stój” na semaforze wjazdowym po wjeździe pociągu bez sygnału końca pociągu?",
+      "answers": {
+        "A": "Gdy pociąg zatrzymał się na stacji",
+        "B": "W razie grożącego niebezpieczeństwa",
+        "C": "Gdy zachodzi konieczność przestawienia zwrotnic",
+        "D": "Gdy upłynęło 10 minut od wjazdu pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 77 ust. 6",
+      "section_ref": "§ 77"
+    },
+    {
+      "uuid": "a79f5e63-d29b-4054-900a-d2cb656fe11d",
+      "question": "Jakim telefonogramem należy zawiadomić dyżurnego ruchu tylnej stacji o przejeździe pociągu bez sygnału końca pociągu obok semafora wjazdowego lub odstępowego?",
+      "answers": {
+        "A": "Telefonogramem według wzoru nr 10",
+        "B": "Telefonogramem według wzoru nr 20",
+        "C": "Telefonogramem według wzoru nr 30",
+        "D": "Telefonogramem według wzoru nr 40"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 77 ust. 4",
+      "section_ref": "§ 77"
+    },
+    {
+      "uuid": "ad862da4-e650-43e1-a163-cfe227e13a1e",
+      "question": "Jaka jest maksymalna dopuszczalna prędkość jazdy pojazdu pomocniczego na szlaku?",
+      "answers": {
+        "A": "Prędkość nie większa niż 40 km/h, niezależnie od prędkości obowiązującej na szlaku",
+        "B": "Prędkość nie większa od prędkości obowiązującej na danym szlaku albo nakazanej sygnałami, przepisami lub zarządzeniami",
+        "C": "Prędkość nie większa niż 20 km/h przy zbliżaniu się do przejazdów kolejowo-drogowych",
+        "D": "Prędkość ustalona przez dyżurnego ruchu dla każdego wyjazdu pojazdu pomocniczego odrębnie"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 80 ust. 7",
+      "section_ref": "§ 80"
+    },
+    {
+      "uuid": "296d048d-e4b5-4f45-b09d-7a6c80596803",
+      "question": "Pod jakim warunkiem może odbywać się ruch pojazdów pomocniczych?",
+      "answers": {
+        "A": "Pod warunkiem, że nie wpłynie ujemnie na ruch pociągów",
+        "B": "Pod warunkiem uzyskania zgody dyspozytora liniowego",
+        "C": "Pod warunkiem, że szlak jest wolny od ruchu przez co najmniej 30 minut",
+        "D": "Pod warunkiem zamknięcia toru dla ruchu pociągów"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 82 ust. 1",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "0c89e5da-53a8-41b5-89d1-3495c02d1c18",
+      "question": "Kto udziela zezwolenia na wjazd pojazdu pomocniczego na tor i jazdę po tym torze?",
+      "answers": {
+        "A": "Dyspozytor liniowy",
+        "B": "Dyżurny ruchu",
+        "C": "Nastawniczy okręgu graniczącego ze szlakiem",
+        "D": "Maszynista pojazdu pomocniczego"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 82 ust. 2",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "d7797e89-3fde-4f24-b57f-34fe66c128c8",
+      "question": "Według jakich zasad odbywa się ruch manewrowy pojazdów pomocniczych w granicach stacji?",
+      "answers": {
+        "A": "Według zasad ustalonych dla jazd manewrowych niepilotowanych pojazdów trakcyjnych",
+        "B": "Według zasad ustalonych dla jazd manewrowych pilotowanych pojazdów trakcyjnych",
+        "C": "Według zasad prowadzenia ruchu pociągów roboczych",
+        "D": "Według zasad ustalonych dla pociągów pasażerskich"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 82 ust. 3",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "01b75192-c3e3-40a5-ab22-f30ebac07630",
+      "question": "Z kim należy porozumieć się przed wyprawieniem pojazdu pomocniczego na szlak?",
+      "answers": {
+        "A": "Z sąsiednim posterunkiem zapowiadawczym i z właściwym dyspozytorem",
+        "B": "Wyłącznie z dyspozytorem liniowym",
+        "C": "Z dyżurnym ruchu stacji następnej i dyspozytorem",
+        "D": "Z dyżurnym ruchu i maszynistą pojazdu pomocniczego"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 82 ust. 4",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "671a9fc2-8d43-4aff-a748-a7fcdad1f0c5",
+      "question": "Kogo dyspozytor liniowy powinien zawiadomić o jeździe pojazdu pomocniczego poza sąsiednią stację?",
+      "answers": {
+        "A": "Dyżurnych ruchu pośrednich stacji i stacji końcowej jazdy pojazdu pomocniczego",
+        "B": "Wyłącznie dyżurnego ruchu stacji końcowej jazdy",
+        "C": "Dyżurnych ruchu stacji końcowej i nastawniczych posterunków nastawczych",
+        "D": "Dyżurnych ruchu wszystkich stacji na trasie oraz dyspozytora centralnego"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 82 ust. 5",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "11e367e5-2a3d-4323-ac27-147cc12e787f",
+      "question": "Od jakiego numeru rozpoczyna się numerowanie pojazdu pomocniczego kursującego między stacjami (bez opracowanego rozkładu jazdy) w kierunku, dla którego stosuje się numery nieparzyste?",
+      "answers": {
+        "A": "Od numeru 1",
+        "B": "Od numeru 11",
+        "C": "Od numeru 21",
+        "D": "Od numeru 101"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 82 ust. 6 pkt 1",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "37291c74-eaff-489b-89d1-c80f55c1beb4",
+      "question": "Jak numeruje się pojazd pomocniczy kursujący do określonego miejsca na szlaku i z powrotem?",
+      "answers": {
+        "A": "Według zasad prowadzenia ruchu pociągów roboczych po torze zamkniętym, poczynając od 1 względnie 2",
+        "B": "Poczynając od numeru 11 względnie 12, kolejnym numerem nieparzystym lub parzystym",
+        "C": "Według zasad prowadzenia ruchu pociągów pasażerskich, poczynając od 100",
+        "D": "Poczynając od numeru 1 względnie 2, każdorazowo ustalonym przez dyspozytora"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 82 ust. 6 pkt 2",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "910fe423-ea5d-4aa3-b9e6-b533544a28f5",
+      "question": "W jaki sposób oznacza się w numerze pojazd pomocniczy jadący z przyczepami?",
+      "answers": {
+        "A": "Po numerze dodaje się wyrazy: z przyczepą lub z liczbą przyczepami",
+        "B": "Przed numerem dodaje się literę P oznaczającą przyczepę",
+        "C": "Numer pojazdu poprzedza się symbolem przyczepy ustalonym przez dyspozytora",
+        "D": "Numer zmienia się na parzysty lub nieparzysty zależnie od liczby przyczep"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 82 ust. 6 pkt 3",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "acd7cc1e-97ef-4daf-88ec-ffcddc34f8df",
+      "question": "Po którym torze powinna odbywać się jazda pojazdu pomocniczego na szlaku dwutorowym z ruchem jednokierunkowym?",
+      "answers": {
+        "A": "Po torze prawym (w kierunku zasadniczym) dla danego kierunku jazdy",
+        "B": "Po torze lewym (w kierunku przeciwnym do zasadniczego)",
+        "C": "Po dowolnym torze, wedle decyzji dyżurnego ruchu",
+        "D": "Po torze wskazanym przez dyspozytora liniowego przed każdą jazdą"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 82 ust. 7",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "36cac61b-295e-4384-bb4d-9a1a768a622f",
+      "question": "W jakim przypadku jazda pojazdu pomocniczego po torze lewym na szlaku dwutorowym do sąsiedniej stacji jest dozwolona?",
+      "answers": {
+        "A": "Tylko po wprowadzeniu po tym torze ruchu jednotorowego dwukierunkowego",
+        "B": "Tylko po zamknięciu tego toru dla ruchu pociągów",
+        "C": "Po uzyskaniu zezwolenia dyspozytora liniowego i dyżurnego ruchu",
+        "D": "Wyłącznie w przypadku powrotu pojazdu wyprawionego do określonego miejsca"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 82 ust. 7 pkt 2",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "e07329d7-4166-4ecc-a3a9-b00d66de8ed3",
+      "question": "W jakiej sytuacji wyprawienie pojazdu pomocniczego, który może spowodować opóźnienie pociągu, jest dopuszczalne?",
+      "answers": {
+        "A": "Po uzyskaniu zezwolenia dyspozytora liniowego",
+        "B": "Po uzyskaniu zgody dyżurnego ruchu i maszynisty zagrożonego pociągu",
+        "C": "Wyłącznie w przypadku, gdy opóźnienie pociągu nie przekroczy 5 minut",
+        "D": "Po uzgodnieniu z sąsiednim posterunkiem zapowiadawczym"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 82 ust. 8",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "863ef2f7-68ad-4d98-944e-6000faa25927",
+      "question": "Co powinien zrobić maszynista pojazdu pomocniczego zatrzymany przed semaforem wjazdowym wskazującym sygnał Stój, jeśli nie otrzyma zezwolenia na wjazd ani ręcznego sygnału Stój?",
+      "answers": {
+        "A": "Porozumieć się z dyżurnym ruchu za pomocą urządzeń łączności lub przez posłańca z pracownikiem obsługi najbliższego posterunku nastawczego i ustalić warunki dalszej jazdy",
+        "B": "Samodzielnie wjechać na stację z prędkością nie większą niż 20 km/h",
+        "C": "Czekać w miejscu zatrzymania co najmniej 10 minut, a następnie powtórzyć sygnał Rp 1",
+        "D": "Niezwłocznie zawiadomić dyspozytora liniowego i oczekiwać na jego decyzję"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 82 ust. 12 pkt 5",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "bec5cd44-6282-4c63-934c-722c0fdc8bc3",
+      "question": "Kiedy należy niezwłocznie zawiadomić dyżurnego ruchu w czasie pracy pojazdu pomocniczego na szlaku?",
+      "answers": {
+        "A": "Gdy nastąpi uszkodzenie pojazdu, przekroczenie czasu jazdy o więcej niż 10 min. lub nieprzewidziany postój dłuższy niż 10 min.",
+        "B": "Gdy nastąpi uszkodzenie pojazdu lub przekroczenie czasu jazdy o więcej niż 5 min.",
+        "C": "Wyłącznie gdy nastąpi uszkodzenie pojazdu uniemożliwiające dalszą jazdę",
+        "D": "Gdy nieprzewidziany postój na szlaku wyniesie więcej niż 15 min. lub nastąpi uszkodzenie pojazdu"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 82 ust. 12 pkt 11",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "e929e104-d257-4572-873f-7b5eff3eb547",
+      "question": "Pod jakim warunkiem ruch pojazdów pomocniczych może się odbywać?",
+      "answers": {
+        "A": "Pod warunkiem, że nie wpłynie ujemnie na ruch pociagow",
+        "B": "Pod warunkiem uzyskania zgody dyspozytora liniowego",
+        "C": "Pod warunkiem, że nie wpłynie ujemnie na ruch manewrowy",
+        "D": "Pod warunkiem zamknięcia toru szlakowego"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 82 ust. 1",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "87898334-a406-4c08-9acf-354ec65c5ae6",
+      "question": "Kto udziela zezwolenia na wjazd pojazdu pomocniczego na tor i jazdę po tym torze?",
+      "answers": {
+        "A": "Dyspozytor liniowy",
+        "B": "Dyżurny ruchu",
+        "C": "Nastawniczy okręgu graniczącego ze szlakiem",
+        "D": "Maszynista pojazdu trakcyjnego"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 82 ust. 2",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "90fa35c4-ac70-4ca1-b043-29504f09705b",
+      "question": "Według jakich zasad odbywa się ruch manewrowy pojazdów pomocniczych w granicach stacji?",
+      "answers": {
+        "A": "Według zasad ustalonych dla pociagow roboczych",
+        "B": "Według zasad ustalonych dla jazd manewrowych niepilotowanych pojazdów trakcyjnych",
+        "C": "Według zasad ustalonych dla jazd manewrowych pilotowanych pojazdów trakcyjnych",
+        "D": "Według zasad prowadzenia ruchu pociagow po torze zamkniętym"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 82 ust. 3",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "21f8bcad-6942-42ac-a74d-0e1a99f7d61c",
+      "question": "Z kim należy się porozumieć przed wyprawieniem pojazdu pomocniczego na szlak?",
+      "answers": {
+        "A": "Z sąsiednim posterunkiem zapowiadawczym i z właściwym dyspozytorem",
+        "B": "Z dyżurnym ruchu stacji sąsiedniej i dyspozytorem liniowym",
+        "C": "Z dyspozytorem liniowym i maszynistą pojazdu trakcyjnego",
+        "D": "Z nastawniczym okręgu graniczącego ze szlakiem i dyspozytorem liniowym"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 82 ust. 4",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "6b1c6a1d-c9d1-4723-bcab-6d88078d80b1",
+      "question": "Kogo dyspozytor liniowy powinien zawiadomić o jeździe pojazdu pomocniczego poza sąsiednią stację?",
+      "answers": {
+        "A": "Dyżurnych ruchu pośrednich stacji i stacji końcowej jazdy pojazdu pomocniczego",
+        "B": "Dyżurnych ruchu wszystkich stacji na szlaku oraz dyspozytora regionalnego",
+        "C": "Nastawniczych okręgów granicznych i dróżników przejazdowych",
+        "D": "Dyżurnych ruchu stacji krańcowych i posterunków nastawczych"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 82 ust. 5",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "2adef921-46b6-4db0-8778-bd60fbd3a31c",
+      "question": "Jak numeruje się pojazdy pomocnicze kursujące między stacjami, gdy nie opracowano dla nich rozkładu jazdy?",
+      "answers": {
+        "A": "Poczynając od 1 względnie 2, kolejnym nieparzystym lub parzystym numerem zależnie od kierunku jazdy",
+        "B": "Poczynając od 11 względnie 12, kolejnym w ciągu doby numerem nieparzystym lub parzystym, zależnie od kierunku jazdy",
+        "C": "Poczynając od 101 względnie 102, kolejnym numerem nieparzystym lub parzystym zależnie od kierunku",
+        "D": "Poczynając od 21 względnie 22, kolejnym w ciągu doby numerem nieparzystym lub parzystym, zależnie od kierunku jazdy"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 82 ust. 6 pkt 1",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "ed2f0a8f-48b8-4be0-8004-92a0658b30f8",
+      "question": "Jak numeruje się pojazdy pomocnicze kursujące do określonego miejsca na szlaku i z powrotem?",
+      "answers": {
+        "A": "Poczynając od 11 względnie 12, kolejnym numerem nieparzystym lub parzystym zależnie od kierunku jazdy",
+        "B": "Poczynając od 1 względnie 2, kolejnym w ciągu doby numerem nieparzystym lub parzystym, zależnie od kierunku, w którym pojazd rozpocznie jazdę pierwszy raz na danym szlaku",
+        "C": "Poczynając od 21 względnie 22, kolejnym w ciągu doby numerem nieparzystym lub parzystym, zależnie od kierunku jazdy",
+        "D": "Poczynając od 1 względnie 2, kolejnym w ciągu doby numerem nieparzystym lub parzystym, niezależnie od kierunku jazdy"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 82 ust. 6 pkt 2",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "06088fb9-cdb8-4816-9363-588886070da7",
+      "question": "Jak oznacza się w numeracji pojazd pomocniczy jadący z przyczepami?",
+      "answers": {
+        "A": "Przed numerem dodaje się literę P oznaczającą pojazd z przyczepą",
+        "B": "Po numerze dodaje się wyrazy: z przyczepą lub z liczbą przyczepami",
+        "C": "Numer pojazdu mnoży się przez liczbę przyczep",
+        "D": "Po numerze dodaje się literę P i liczbę przyczep"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 82 ust. 6 pkt 3",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "28a0ffaa-4600-4616-b93f-53239425a62f",
+      "question": "Po jakim torze powinny odbywać się jazdy pojazdów pomocniczych na szlakach dwutorowych z ruchem jednokierunkowym?",
+      "answers": {
+        "A": "Po torze lewym (w kierunku zasadniczym) dla danego kierunku jazdy",
+        "B": "Po torze prawym (w kierunku zasadniczym) dla danego kierunku jazdy",
+        "C": "Po torze dowolnym, z pierwszeństwem toru prawego",
+        "D": "Po torze lewym, z wyjątkiem powrotu pojazdu wyprawionego do określonego miejsca na szlaku"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 82 ust. 7",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "8037b19a-7ea9-4818-949f-bfca77069cb2",
+      "question": "W jakich przypadkach pojazd pomocniczy może jechać po torze lewym do sąsiedniej stacji?",
+      "answers": {
+        "A": "Po zamknięciu tego toru dla ruchu pociagow",
+        "B": "Tylko po wprowadzeniu po tym torze ruchu jednotorowego dwukierunkowego",
+        "C": "Po uzyskaniu zezwolenia dyspozytora liniowego",
+        "D": "Tylko w porze dziennej i przy dobrej widoczności"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 82 ust. 7 pkt 2",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "973b9e78-5209-40a4-829f-418165191b95",
+      "question": "Kiedy może nastąpić wyprawienie pojazdu pomocniczego, który może spowodować opóźnienie pociągu?",
+      "answers": {
+        "A": "Po uzyskaniu zezwolenia dyżurnego ruchu",
+        "B": "Po uzyskaniu zezwolenia dyspozytora liniowego",
+        "C": "Po porozumieniu z sąsiednim posterunkiem zapowiadawczym",
+        "D": "Po uzyskaniu zezwolenia nastawniczego okręgu graniczącego ze szlakiem"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 82 ust. 8",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "14195cb3-8f9c-4859-97a3-7b3456809c2d",
+      "question": "W jakim odstępie czasu i odległości pojazd pomocniczy bez przyczep może być wyprawiony za pociaagiem, którego przyjazdu przedni posterunek ruchu nie potwierdził?",
+      "answers": {
+        "A": "W odstępie 3 minut i w odległości nie mniejszej niż 500 m",
+        "B": "W odstępie 5 minut i w odległości nie mniejszej niż 1000 m",
+        "C": "W odstępie 10 minut i w odległości nie mniejszej niż 1000 m",
+        "D": "W odstępie 5 minut i w odległości nie mniejszej niż 2000 m"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 82 ust. 12 pkt 6",
+      "section_ref": "§ 82"
+    },
+    {
+      "uuid": "dfa0e76b-54d3-4ef7-8634-301ab5f3fffe",
+      "question": "Co jest zabronione podczas jazdy pojazdu pomocniczego z przyczepami w odniesieniu do pracowników?",
+      "answers": {
+        "A": "Przewóz pracowników na załadowanych przyczepach",
+        "B": "Wsiadanie i wysiadanie",
+        "C": "Przewóz pracowników w pozycji stojącej",
+        "D": "Przewóz pracowników bez kamizelek odblaskowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 83 ust. 2 pkt 4 lit. b",
+      "section_ref": "§ 83"
+    },
+    {
+      "uuid": "7fdb0086-e534-47b2-a942-01925d64f036",
+      "question": "Kto powinien zawiadamiać dróżników przejazdowych o odjeździe pociągu na szlak?",
+      "answers": {
+        "A": "Maszynista pociągu",
+        "B": "Dyżurny ruchu posterunku zapowiadawczego",
+        "C": "Kierownik pociągu",
+        "D": "Pracownik obsługujący rogatki"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 1",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "62ee96a8-9ad2-4053-b0f2-1f0eeadf7baa",
+      "question": "W jaki sposób należy zawiadamiać pracowników obsługujących rogatki o mającej nastąpić jeździe pociągu przez przejazdy kolejowo-drogowe w obrębie posterunku ruchu?",
+      "answers": {
+        "A": "Sygnałem dzwonkowym zgodnie z zasadami ogólnymi",
+        "B": "Wyłącznie telefonicznie, niezależnie od regulaminu",
+        "C": "W sposób ustalony w regulaminie technicznym danego posterunku ruchu",
+        "D": "Rozkazem pisemnym przekazanym przez maszynistę"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 84 ust. 2",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "9975aab8-7a2f-4499-b770-93aaadcc5f5c",
+      "question": "Kto nadaje sygnał dzwonkowy \"Alarm\" w razie stwierdzenia wypadku kolejowego lub zagrożenia bezpieczeństwa ruchu na szlaku?",
+      "answers": {
+        "A": "Wyłącznie dyżurny ruchu",
+        "B": "Wyłącznie dróżnik przejazdowy",
+        "C": "Dyżurny ruchu lub dróżnik przejazdowy",
+        "D": "Maszynista pociągu lub kierownik pociągu"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 84 ust. 4",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "f0ee696f-e650-42d3-abcf-e6867be8e68a",
+      "question": "Kto powinien zgłosić się natychmiast po nadaniu sygnału dzwonkowego \"Alarm\" z powodu wypadku kolejowego na szlaku?",
+      "answers": {
+        "A": "Tylko dróżnicy przejazdowi na danym szlaku",
+        "B": "Dyżurni ruchu sąsiednich posterunków zapowiadawczych i wszyscy dróżnicy przejazdowi",
+        "C": "Dyżurni ruchu wszystkich posterunków oraz maszyniści pociągów na szlaku",
+        "D": "Kierownicy pociągów i dyżurni ruchu sąsiednich posterunków"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 4",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "67286d92-3ebf-45f0-8e75-d6b3a3b2366d",
+      "question": "Na ile minut przed dojazdem pociągu do przejazdu kolejowo-drogowego rogatki powinny być zamknięte, jeśli przejazd znajduje się blisko posterunku nadającego zawiadomienie?",
+      "answers": {
+        "A": "Co najmniej na 5 minut",
+        "B": "Co najmniej na 1 minutę",
+        "C": "Co najmniej na 2 minuty",
+        "D": "Co najmniej na 3 minuty"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 84 ust. 6",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "f1946c31-772c-4e36-9e98-3b01da39eaa3",
+      "question": "Na ile minut przed dojazdem czoła pociągu do przejazdu kolejowo-drogowego rogatki (zarówno nastawiane z miejsca, jak i z odległości) powinny być zamknięte?",
+      "answers": {
+        "A": "Co najmniej na 1 minutę",
+        "B": "Co najmniej na 5 minut",
+        "C": "Co najmniej na 3 minuty",
+        "D": "Co najmniej na 2 minuty"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 84 ust. 7",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "9e198d4f-2cc1-410b-a0d1-d4eaa2ca1633",
+      "question": "Na szlakach jednotorowych, jak dróżnik przejazdowy potwierdza odbiór sygnału dzwonkowego o odjeździe pociągu?",
+      "answers": {
+        "A": "Wysyła potwierdzenie przez specjalne urządzenie strażnicze",
+        "B": "Zgłasza się do telefonu, podając numer posterunku oraz swoje nazwisko",
+        "C": "Odpowiada sygnałem dzwonkowym zwrotnym",
+        "D": "Zapisuje potwierdzenie w dzienniku pracy i informuje dyżurnego telefonicznie"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 8 pkt 1 lit. b",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "d4abe07e-fb59-4550-bad5-bb90862f1432",
+      "question": "Na szlakach dwu i więcej torowych, jeżeli od odjazdu ostatniego pociągu upłynął czas nie większy niż 60 minut, w jaki sposób dyżurny ruchu zawiadamia dróżników przejazdowych o odjeździe pociągu?",
+      "answers": {
+        "A": "Przez nadanie sygnału dzwonkowego i wywołanie każdego dróżnika z osobna",
+        "B": "Wyłącznie telefonicznie, podając numer pociągu",
+        "C": "Tylko przez nadanie sygnału dzwonkowego o odjeździe pociągu",
+        "D": "Przez nadanie sygnału dzwonkowego i wywołanie wszystkich dróżników znakiem z dodatku 3"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 84 ust. 8 pkt 2 lit. a",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "c5a76529-906c-408b-bec0-5868ebaf485f",
+      "question": "Co dyżurny ruchu powinien zanotować w dzienniku ruchu, gdy nieotrzymał potwierdzenia odbioru sygnału dzwonkowego za pomocą specjalnego urządzenia strażnicowego?",
+      "answers": {
+        "A": "Pełną treść zdarzenia i numer dróżnika przejazdowego w rubryce 8",
+        "B": "Skrót \"- dr. XX\" w rubryce 8 dziennika ruchu",
+        "C": "Skrót \"- dr. XX\" w rubryce 7 dziennika ruchu",
+        "D": "Czas zdarzenia i skrót \"brak potwierdzenia\" w dzienniku telefonicznym"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 84 ust. 9",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "5a4945de-0ce5-4d00-ac52-ab34d3aae423",
+      "question": "Jeżeli pociąg nie odjedzie po zawiadomieniu dróżników przejazdowych, jak dyżurny ruchu odwołuje odjazd?",
+      "answers": {
+        "A": "Nadaje sygnał dzwonkowy odwołujący i zapisuje czas w rubryce 7",
+        "B": "Zawiadamia telefonicznie i zapisuje czas odwołania oraz wyraz \"odwołany\" w rubryce 8",
+        "C": "Wysyła rozkaz pisemny do maszynisty i notuje to w dzienniku telefonicznym",
+        "D": "Zawiadamia sygnałem dzwonkowym i zapisuje przyczynę odwołania w rubryce 8"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 11",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "43ca29fb-7339-4af7-9967-8fcf11b17de8",
+      "question": "Jeżeli dróżnika przejazdowego nie można zawiadomić o odjeździe pociągu, jaką prędkość jazdy na przejeździe kolejowo-drogowym lub przejściu musi zachować pociąg?",
+      "answers": {
+        "A": "Do 10 km/h",
+        "B": "Do 30 km/h",
+        "C": "Do 20 km/h",
+        "D": "Do 40 km/h"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 84 ust. 16",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "ae823cc5-000d-4501-ba80-182496afab0b",
+      "question": "Jak powinien postąpić dróżnik przejazdowy, który nie otrzymał zawiadomienia o odjeździe zbliżającego się pociągu i nie może porozumieć się z dyżurnym ruchu?",
+      "answers": {
+        "A": "Otworzyć rogatki i zatrzymać ruch kolejowy, oczekując na polecenia",
+        "B": "Pozostawić rogatki otwarte i obserwować szlak w obu kierunkach",
+        "C": "Zamknąć rogatki i przepuszczać pojazdy drogowe po upewnieniu się, że nie zbliża się pociąg",
+        "D": "Zamknąć rogatki i nie przepuszczać żadnych pojazdów drogowych do czasu nawiązania łączności"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 84 ust. 17",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "ddd11106-d431-4c8a-9141-66b6ee01b998",
+      "question": "W przypadku niedziałania urządzeń zabezpieczenia ruchu na przejazdach kolejowo-drogowych kategorii A, gdy nie ma możliwości zapewnienia pracownika kierującego ruchem drogowym, jakie ograniczenie prędkości czoła pociągów obowiązuje na całej szerokości przejazdu?",
+      "answers": {
+        "A": "Do 10 km/h",
+        "B": "Do 40 km/h",
+        "C": "Do 30 km/h",
+        "D": "Do 20 km/h"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 84 ust. 19 pkt 1",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "9d25c6d6-7ba8-47bd-a26a-eb62eaa79670",
+      "question": "Kto powinien zawiadomić dróżnika przejazdowego o odjeździe pociągu na szlak?",
+      "answers": {
+        "A": "Maszynista pociągu przed odjazdem",
+        "B": "Dyżurny ruchu posterunku zapowiadawczego",
+        "C": "Kierownik pociągu przed wyprawieniem",
+        "D": "Dróżnik przejazdowy sąsiedniego posterunku"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 1",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "bd07e88b-984d-436a-a162-7be8678c64bf",
+      "question": "Na ile minut przed dojazdem pociągu do przejazdu kolejowo-drogowego lub przejścia, znajdującego się blisko posterunku nadającego zawiadomienie, należy wykonać zawiadomienie dróżnika przejazdowego?",
+      "answers": {
+        "A": "Co najmniej na 5 minut",
+        "B": "Co najmniej na 2 minuty",
+        "C": "Co najmniej na 3 minuty",
+        "D": "Co najmniej na 4 minuty"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 84 ust. 6",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "dff55b44-f005-47b4-998b-f51b78f2a950",
+      "question": "Na ile minut przed dojazdem czoła pociągu do przejazdu kolejowo-drogowego lub przejścia powinny być zamknięte rogatki?",
+      "answers": {
+        "A": "Przynajmniej na 5 minut",
+        "B": "Przynajmniej na 3 minuty",
+        "C": "Przynajmniej na 1 minutę",
+        "D": "Przynajmniej na 2 minuty"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 84 ust. 7",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "8c225300-1480-474d-816b-f2f7c9fbac2b",
+      "question": "Na szlakach jednotorowych, co robi dróżnik przejazdowy po otrzymaniu sygnału dzwonkowego o odjeździe pociągu?",
+      "answers": {
+        "A": "Zamyka rogatki i czeka na dalsze polecenia dyżurnego ruchu",
+        "B": "Bezzwłocznie zgłasza się do telefonu, podając numer posterunku oraz swoje nazwisko",
+        "C": "Zapisuje numer pociągu w dzienniku pracy i zamyka rogatki",
+        "D": "Powiadamia sąsiednich dróżników przejazdowych o nadjeżdżającym pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 8 pkt 1 lit. b",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "dbf61799-cce6-42a7-989e-65bf72dc204c",
+      "question": "Na szlakach dwu i więcej torowych, jeżeli od odjazdu ostatniego pociągu upłynął czas nie większy niż 60 minut, w jaki sposób dyżurny ruchu zawiadamia dróżników przejazdowych?",
+      "answers": {
+        "A": "Telefonicznie podając numer pociągu i czas odjazdu",
+        "B": "Tylko przez nadanie sygnału dzwonkowego o odjeździe pociągu",
+        "C": "Sygnałem dzwonkowym, a następnie wywołuje każdego dróżnika z osobna",
+        "D": "Rozkazem pisemnym przekazywanym przez sąsiednie posterunki"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 8 pkt 2 lit. a",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "c9c71d9f-a241-4e80-b060-c7f5ddaab3c8",
+      "question": "Jeżeli dróżnik przejazdowy nie zgłosił się na sygnał dzwonkowy o odjeździe pociągu, co powinien zrobić dyżurny ruchu?",
+      "answers": {
+        "A": "Wstrzymać odjazd pociągu do czasu uzyskania potwierdzenia od dróżnika",
+        "B": "Zgłosić brak potwierdzenia do regulaminu i wyprawić pociąg z ograniczeniem prędkości",
+        "C": "Wywołać go oddzielnie i zawiadomić o odjeździe pociągu, podając numer wyprawianego pociągu",
+        "D": "Nadać sygnał dzwonkowy ponownie i odnotować brak odpowiedzi w dzienniku ruchu"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 84 ust. 8 pkt 1",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "e01a590c-ec81-4f00-9e7b-7ec1b73a361d",
+      "question": "Jeżeli dyżurny ruchu korzysta ze specjalnych urządzeń łączności strażnicowej do zawiadamiania dróżników, a nie otrzymał potwierdzenia za pomocą tego urządzenia, co powinien zrobić?",
+      "answers": {
+        "A": "Uzyskać potwierdzenie telefonicznie",
+        "B": "Wstrzymać odjazd pociągu do czasu uzyskania potwierdzenia",
+        "C": "Nadać sygnał dzwonkowy ponownie i odczekać odpowiedni czas",
+        "D": "Zawiadomić sąsiedni posterunek zapowiadawczy o braku potwierdzenia"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 84 ust. 9",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "0116b5f3-eed7-4750-8ecb-25717dec8866",
+      "question": "Jeżeli pociąg nie odjedzie po zawiadomieniu dróżników przejazdowych, w jaki sposób dyżurny ruchu zaznacza odwołanie odjazdu w dzienniku ruchu?",
+      "answers": {
+        "A": "Wpisując wyraz \"odwołany\" i przekreślając poprzedni zapis",
+        "B": "Wpisując czas odwołania i wyraz \"odwołany\" w rubryce 8",
+        "C": "Zaznaczając ukośną kreską w rubryce odwołania",
+        "D": "Wpisując czas odwołania i przyczynę odwołania w rubryce 7"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 11",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "dec10c1b-2854-4d16-9671-a872a8d6ac53",
+      "question": "Jeżeli dróżnika przejazdowego nie można zawiadomić o odjeździe pociągu, jakie ograniczenie prędkości należy wprowadzić na przejeździe kolejowo-drogowym lub przejściu?",
+      "answers": {
+        "A": "Do 10 km/h",
+        "B": "Do 40 km/h",
+        "C": "Do 30 km/h",
+        "D": "Do 20 km/h"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 84 ust. 16",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "b8a94a03-120a-48f0-ad90-4ba60073249a",
+      "question": "Maszynista zbliżający się do przejazdu kolejowo-drogowego zauważył niezamknięcie rogatki i brak dróżnika przejazdowego, o czym nie był zawiadomiony rozkazem pisemnym. Jaki sygnał powinien dawać i do jakiej prędkości ograniczyć jazdę?",
+      "answers": {
+        "A": "Sygnał Rp 1 \"Baczność\" i zmniejszyć prędkość do 30 km/h",
+        "B": "Sygnał Rp 1 \"Baczność\" i zmniejszyć prędkość, o ile jest to możliwe, do 20 km/h",
+        "C": "Sygnał Rp 2 \"Stój\" i natychmiast zatrzymać pociąg przed przejazdem",
+        "D": "Sygnał Rp 1 \"Baczność\" i zmniejszyć prędkość do 10 km/h"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 21",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "f40203f0-5b02-4b31-a6d6-9ba232913e97",
+      "question": "O jakich okolicznościach dyżurni ruchu powinni zawiadamiać telefonicznie dróżników przejazdowych?",
+      "answers": {
+        "A": "O zamknięciu lub otwarciu toru szlakowego",
+        "B": "O planowanych robotach konserwacyjnych na szlaku",
+        "C": "O zmianie numerów pociągów w rozkładzie jazdy",
+        "D": "O przekroczeniu dopuszczalnej prędkości przez pociąg na szlaku"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 84 ust. 22 pkt 2",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "227ed805-917e-4ee8-a9c1-8673ba42396c",
+      "question": "Jak często dyżurni ruchu powinni sprawdzać obecność dróżników przejazdowych i prawidłowe działanie łączności oraz urządzeń, gdy zawiadomienia wykonuje się tylko sygnałami dzwonkowymi?",
+      "answers": {
+        "A": "Co najmniej dwa razy w ciągu doby",
+        "B": "Co najmniej sześć razy w ciągu doby",
+        "C": "Co najmniej cztery razy w ciągu doby",
+        "D": "Co najmniej raz na dobę"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 84 ust. 15",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "d09b1f8e-944c-4c82-87eb-e8bc5df4f6bd",
+      "question": "Kto powinien zawiadomić dróżników przejazdowych o odejściu (przejeździe) pociągu na szlak?",
+      "answers": {
+        "A": "Maszynista pociągu",
+        "B": "Dyżurny ruchu posterunku zapowiadawczego",
+        "C": "Kierownik pociągu",
+        "D": "Nastawniczy"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 1",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "82670010-62a1-45de-93da-5885ae2be594",
+      "question": "W jaki sposób zawiadamia się pracowników obsługujących rogatki o mającej nastąpić jeździe pociągu przez przejazdy w obrębie posterunku ruchu?",
+      "answers": {
+        "A": "Rozkazem pisemnym wydawanym maszyniście",
+        "B": "Telefonicznie przez dyżurnego ruchu sąsiedniego posterunku",
+        "C": "W sposób ustalony w regulaminie technicznym tego posterunku ruchu",
+        "D": "Sygnałem dzwonkowym zgodnie z dodatkiem 3"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 84 ust. 2",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "4e22e393-ff2c-4d49-89c1-fc3504d3ca36",
+      "question": "Jakim sygnałem dzwonkowym wzywane są wszystkie posterunki włączone do łącza strażniczego w razie wypadku kolejowego lub zagrożenia bezpieczeństwa na szlaku?",
+      "answers": {
+        "A": "Alarm",
+        "B": "Baczność",
+        "C": "Odjazd",
+        "D": "Stop"
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 84 ust. 4",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "1335587a-7202-4e99-9dbe-79b3c1158539",
+      "question": "Kto zgłasza się natychmiast na sygnał dzwonkowy „Alarm” nadany przez łącze strażnicze?",
+      "answers": {
+        "A": "Maszyniści pociągów będących na szlaku i dyżurny ruchu najbliższego posterunku",
+        "B": "Dyżurni ruchu sąsiednich posterunków zapowiadawczych i wszyscy dróżnicy przejazdowi",
+        "C": "Wszyscy pracownicy obsługi posterunków ruchu na szlaku",
+        "D": "Nastawniczy sąsiednich posterunków i kierownicy pociągów"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 4",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "f243e646-e926-4b8b-9eed-1f5243808d63",
+      "question": "Na ile minut przed dojazdem pociągu do przejazdu lub przejścia położonego blisko posterunku nadającego zawiadomienie należy nadać zawiadomienie o odejściu pociągu?",
+      "answers": {
+        "A": "Co najmniej na 5 minut",
+        "B": "Co najmniej na 2 minuty",
+        "C": "Co najmniej na 3 minuty",
+        "D": "Co najmniej na 10 minut"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 84 ust. 6",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "6e719e2d-c608-44ba-8ef5-cc23297859dc",
+      "question": "Na ile minut przed dojazdem czoła pociągu do przejazdu kolejowo-drogowego powinny być zamknięte rogatki (nastawiane zarówno z miejsca, jak i z odległości)?",
+      "answers": {
+        "A": "Przynajmniej na 3 minuty",
+        "B": "Przynajmniej na 5 minut",
+        "C": "Przynajmniej na 1 minutę",
+        "D": "Przynajmniej na 2 minuty"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 84 ust. 7",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "c6596f32-58db-4ffb-bf9b-742586ac1982",
+      "question": "Co robi dróżnik przejazdowy po otrzymaniu sygnału dzwonkowego o odejściu pociągu na szlaku jednotorowym?",
+      "answers": {
+        "A": "Natychmiast zamyka rogatki bez dalszych czynności",
+        "B": "Bezzwłocznie zgłasza się do telefonu podając numer posterunku oraz swoje nazwisko",
+        "C": "Wpisuje godzinę sygnału do dziennika pracy i zamyka rogatki",
+        "D": "Czeka na potwierdzenie numeru pociągu od dyżurnego ruchu przed zamknięciem rogatek"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 8 pkt 1 lit. b",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "74c6e418-1244-480e-bb07-96241322b3df",
+      "question": "Jak dyżurny ruchu zawiadamia dróżników przejazdowych na szlaku dwu i więcej torowym, jeżeli od odjazdu ostatniego pociągu upłynął czas nie większy niż 60 minut?",
+      "answers": {
+        "A": "Przez nadanie sygnału dzwonkowego oraz wywołanie wszystkich dróżników znakiem z dodatku 3 ust. 9",
+        "B": "Wyłącznie przez nadanie sygnału dzwonkowego o odejściu pociągu",
+        "C": "Telefonicznie, podając numer pociągu każdemu dróżnikowi oddzielnie",
+        "D": "Rozkazem pisemnym przekazywanym przez aparat telefoniczny"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 8 pkt 2 lit. a",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "f08ec2de-bd9b-429d-8d3f-4d3255de54e1",
+      "question": "Jak dyżurny ruchu postępuje, gdy dróżnik przejazdowy nie zgłosił się na sygnał dzwonkowy o odejściu pociągu na szlaku jednotorowym?",
+      "answers": {
+        "A": "Przekazuje informację przez sąsiedni posterunek zapowiadawczy",
+        "B": "Wpisuje brak zgłoszenia do dziennika ruchu i wyprawia pociąg z ograniczeniem prędkości do 20 km/h",
+        "C": "Wywołuje dróżnika oddzielnie i zawiadamia go o odejściu pociągu, podając numer wyprawianego pociągu",
+        "D": "Wstrzymuje odjazd pociągu do czasu uzyskania potwierdzenia od dróżnika"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 84 ust. 8 pkt 1",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "d9390e75-2ebd-4d9a-8f43-cb0af7b214cd",
+      "question": "Gdzie dyżurny ruchu notuje brak potwierdzenia odebrania sygnału dzwonkowego przez dróżnika przejazdowego za pomocą specjalnego urządzenia łączności strażniczej?",
+      "answers": {
+        "A": "W rubryce 8 dziennika ruchu",
+        "B": "W dzienniku telefonicznym",
+        "C": "W rubryce 7 dziennika ruchu",
+        "D": "W dzienniku pracy dróżnika przejazdowego"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 84 ust. 9",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "0dc29f1b-ad94-44d2-9ded-be4ee8465fe1",
+      "question": "Do jakiej prędkości należy ograniczyć jazdę pociągu na całej szerokości przejazdu kolejowo-drogowego lub przejścia, gdy dyżurny ruchu nie mógł zawiadomić dróżnika przejazdowego o odejściu pociągu?",
+      "answers": {
+        "A": "Do 10 km/h",
+        "B": "Do 30 km/h",
+        "C": "Do 40 km/h",
+        "D": "Do 20 km/h"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 84 ust. 16",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "ddbeac4f-b9ee-4579-a6c9-7d51e669795d",
+      "question": "Co należy zrobić, gdy dróżników przejazdowych nie można zawiadomić o zmianie zasadniczego kierunku jazdy po torze szlakowym lub o jeździe pociągu po torze zamkniętym?",
+      "answers": {
+        "A": "Maszynista samodzielnie podaje sygnał Rp 1 i zmniejsza prędkość do 20 km/h na każdym przejezie kolejowo-drogowym",
+        "B": "Drużyny pociągów wyprawianych w czasie trwania tych okoliczności należy uprzedzić rozkazem pisemnym",
+        "C": "Dyżurny ruchu wydaje zgodę ustną na przejazd przez każdy przejazd z ograniczeniem prędkości 40 km/h",
+        "D": "Pociąg jest wstrzymywany do czasu zawiadomienia wszystkich dróżników przejazdowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 23",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "9bee518d-1673-4b32-bd89-150b6beed6ba",
+      "question": "Kto powinien zawiadomić dróżników przejazdowych o odjeździe pociągu na szlak?",
+      "answers": {
+        "A": "Maszynista pociągu",
+        "B": "Dyżurny ruchu posterunku zapowiadawczego",
+        "C": "Kierownik pociągu",
+        "D": "Nastawniczy"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 1",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "d0f8b69d-46ea-4054-9b88-5c4cb1b8ae24",
+      "question": "W jakim czasie należy nadawać zawiadomienie dróżnikom przejazdowym o jeździe pociągu, gdy przejazd kolejowo-drogowy znajduje się blisko posterunku nadającego zawiadomienie?",
+      "answers": {
+        "A": "Co najmniej na 5 minut przed dojazdem pociągu do przejazdu",
+        "B": "Co najmniej na 2 minuty przed dojazdem pociągu do przejazdu",
+        "C": "Co najmniej na 3 minuty przed dojazdem pociągu do przejazdu",
+        "D": "Co najmniej na 10 minut przed dojazdem pociągu do przejazdu"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 84 ust. 6",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "e0bf4260-7929-480e-b1d9-66273b41b906",
+      "question": "Na ile minut przed dojazdem czoła pociągu do przejazdu kolejowo-drogowego powinny być zamknięte rogatki?",
+      "answers": {
+        "A": "Przynajmniej na 5 minut",
+        "B": "Przynajmniej na 3 minuty",
+        "C": "Przynajmniej na 1 minutę",
+        "D": "Przynajmniej na 2 minuty"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 84 ust. 7",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "7697b4de-e492-4e99-946a-f50ae2f9778a",
+      "question": "Na szlakach jednotorowych, co robi dróżnik przejazdowy po otrzymaniu sygnału dzwonkowego o odjeździe pociągu?",
+      "answers": {
+        "A": "Zamyka rogatki bez konieczności zgłaszania się do telefonu",
+        "B": "Bezzwłocznie zgłasza się do telefonu podając numer posterunku i swoje nazwisko",
+        "C": "Czeka na osobne wywołanie przez dyżurnego ruchu",
+        "D": "Wystawia sygnał zatrzymania dla pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 8 pkt 1 lit. b",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "b0feec0d-5bb8-4ef5-a86f-25f7bdb6ef21",
+      "question": "Na szlakach dwu i więcej torowych, jeżeli od odjazdu ostatniego pociągu upłynął czas nie większy niż 60 minut, w jaki sposób dyżurny ruchu zawiadamia dróżników przejazdowych?",
+      "answers": {
+        "A": "Telefonicznie, podając numer pociągu i czas odjazdu",
+        "B": "Tylko przez nadanie sygnału dzwonkowego o odjeździe pociągu",
+        "C": "Przez nadanie sygnału dzwonkowego i wywołanie wszystkich dróżników znakiem wywoławczym",
+        "D": "Rozkazem pisemnym przekazanym dróżnikowi przez maszynistę"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 8 pkt 2 lit. a",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "6cbba455-048c-49f6-a916-b5b51f166e93",
+      "question": "Jeżeli pociąg nie odjedzie po zawiadomieniu dróżników przejazdowych, jak dyżurny ruchu zaznacza odwołanie odjazdu w dzienniku ruchu?",
+      "answers": {
+        "A": "Wpisuje czas odwołania i wyraz \"odwołany\"",
+        "B": "Przekreśla poprzedni wpis i wpisuje nową godzinę odjazdu",
+        "C": "Wpisuje wyraz \"anulowany\" i swój podpis",
+        "D": "Wpisuje czas odwołania i wyraz \"cofnięty\""
+      },
+      "correct": "A",
+      "explanation": "Ir-1 § 84 ust. 11",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "ee621639-779e-428d-82e7-120c62770968",
+      "question": "Jeżeli dróżnika przejazdowego nie można zawiadomić o odjeździe pociągu, jaką prędkość musi zachować maszynista na całej szerokości przejazdu kolejowo-drogowego?",
+      "answers": {
+        "A": "Do 10 km/h",
+        "B": "Do 30 km/h",
+        "C": "Do 40 km/h",
+        "D": "Do 20 km/h"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 84 ust. 16",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "03b5bcb6-0841-4021-a273-9e01a8c4792d",
+      "question": "Dróżnik przejazdowy, który nie otrzymał zawiadomienia o odjeździe zbliżającego się pociągu, powinien w czasie przerwy w łączności pozostawić rogatki w jakim położeniu?",
+      "answers": {
+        "A": "Otwarte, ostrzegając użytkowników drogi o zbliżającym się pociągu",
+        "B": "Zamknięte, przepuszczając pojazdy drogowe po upewnieniu się, że nie zbliża się pociąg",
+        "C": "Zamknięte przez cały czas przerwy bez możliwości przepuszczania pojazdów",
+        "D": "Otwarte, gdyż brak zawiadomienia oznacza brak pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 17",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "90466800-74eb-4450-8821-439d0a800fb7",
+      "question": "W razie wypadku kolejowego lub zagrożenia bezpieczeństwa ruchu na szlaku, jakim sygnałem dzwonkowym wzywa się wszystkie posterunki włączone do telefonicznego łącza strażnicowego?",
+      "answers": {
+        "A": "Sygnałem \"Pogotowie\"",
+        "B": "Sygnałem \"Alarm\"",
+        "C": "Sygnałem \"Uwaga\"",
+        "D": "Sygnałem \"Stop\""
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 4",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "1b1ade37-3305-4670-9e2a-85e0669afadf",
+      "question": "W przypadku niedziałania urządzeń zabezpieczenia ruchu na przejazdach kolejowo-drogowych kategorii A, gdy nie ma możliwości zapewnienia pracownika do kierowania ruchem drogowym, jakie ograniczenie prędkości obowiązuje pociągi?",
+      "answers": {
+        "A": "Do 10 km/h na całej szerokości przejazdu",
+        "B": "Do 40 km/h na całej szerokości przejazdu",
+        "C": "Do 30 km/h na całej szerokości przejazdu",
+        "D": "Do 20 km/h na całej szerokości przejazdu"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 84 ust. 19 pkt 1",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "eba58f4f-00c2-493a-b0d0-bbaa1b3ecfec",
+      "question": "Jak często po przyjęciu dyżuru powinni dyżurni ruchu sprawdzać obecność dróżników przejazdowych i działanie łączności, gdy zawiadomienia wykonuje się tylko sygnałami dzwonkowymi?",
+      "answers": {
+        "A": "Co najmniej sześć razy w ciągu doby",
+        "B": "Co najmniej dwa razy w ciągu doby",
+        "C": "Co najmniej cztery razy w ciągu doby",
+        "D": "Co najmniej raz na dobę"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 84 ust. 15",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "01cece5f-ca24-4fde-9f3c-3f5f7f4c3e4c",
+      "question": "Maszynista zbliżający się do przejazdu kolejowo-drogowego zauważył niezamkniętą rogatką i brak dróżnika, o czym nie był zawiadomiony rozkazem pisemnym. Do jakiej prędkości powinien ograniczyć jazdę, o ile jest to możliwe?",
+      "answers": {
+        "A": "Do 10 km/h",
+        "B": "Do 40 km/h",
+        "C": "Do 30 km/h",
+        "D": "Do 20 km/h"
+      },
+      "correct": "D",
+      "explanation": "Ir-1 § 84 ust. 21",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "2514d5b8-f616-4860-8cda-036bf6f9bf87",
+      "question": "Kto powinien zawiadamiać dróżników przejazdowych o odjeździe pociągu na szlak?",
+      "answers": {
+        "A": "Maszynista pociągu",
+        "B": "Dyżurny ruchu posterunku zapowiadawczego",
+        "C": "Kierownik pociągu",
+        "D": "Dyżurny techniczny stacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 1",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "8e22060e-5e67-49e0-a6f7-60e8f522ed51",
+      "question": "Jak należy zawiadamiać pracowników obsługujących rogatki o mającej nastąpić jeździe pociągu przez przejazdy kolejowo-drogowe znajdujące się w obrębie posterunku ruchu?",
+      "answers": {
+        "A": "Rozkazem pisemnym wydawanym drużynie pociągowej",
+        "B": "Sygnałem dzwonkowym nadawanym przez radiotelefon",
+        "C": "W sposób ustalony w regulaminie technicznym danego posterunku ruchu",
+        "D": "Telefonicznie, podając numer pociągu i czas odjazdu"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 84 ust. 2",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "8e94e2b1-45f5-4597-8748-6d6d8c6ed56b",
+      "question": "Jaki sygnał dzwonkowy należy nadać na łączu strażnicowym w razie stwierdzenia wypadku kolejowego lub zagrożenia bezpieczeństwa ruchu na szlaku?",
+      "answers": {
+        "A": "\"Uwaga\"",
+        "B": "\"Alarm\"",
+        "C": "\"Stop\"",
+        "D": "\"Niebezpieczeństwo\""
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 4",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "7f4ad0dc-ab5a-4b1c-9d3f-cfa302690c8b",
+      "question": "Kto powinien zgłosić się natychmiast na sygnał dzwonkowy \"Alarm\" nadany na łączu strażnicowym?",
+      "answers": {
+        "A": "Wyłącznie dyżurni ruchu sąsiednich posterunków zapowiadawczych",
+        "B": "Wyłącznie wszyscy dróżnicy przejazdowi na szlaku",
+        "C": "Dyżurni ruchu sąsiednich posterunków zapowiadawczych i wszyscy dróżnicy przejazdowi",
+        "D": "Maszyniści pociągów jadących po szlaku oraz dyżurni ruchu"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 84 ust. 4",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "6b387ebc-b7b8-4179-bcee-2ec6e3ee18ac",
+      "question": "Na ile minut przed dojazdem pociągu do przejazdu lub przejścia znajdującego się blisko posterunku nadającego zawiadomienie należy wykonać zawiadomienie o jeździe pociągu?",
+      "answers": {
+        "A": "Co najmniej na 5 minut",
+        "B": "Co najmniej na 2 minuty",
+        "C": "Co najmniej na 3 minuty",
+        "D": "Co najmniej na 10 minut"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 84 ust. 6",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "2460512a-550a-4d5c-a48d-ffcff62494c3",
+      "question": "Na ile minut przed dojazdem czoła pociągu do przejazdu kolejowo-drogowego powinny być zamknięte rogatki?",
+      "answers": {
+        "A": "Przynajmniej na 1 minutę",
+        "B": "Przynajmniej na 2 minuty",
+        "C": "Przynajmniej na 3 minuty",
+        "D": "Przynajmniej na 5 minut"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 7",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "c98c2565-ccfc-47b2-9464-3d875f7e36ff",
+      "question": "Na szlakach dwu i więcej torowych, jeżeli od odjazdu ostatniego pociągu upłynął czas nie większy niż 60 minut, w jaki sposób dyżurny ruchu zawiadamia dróżników przejazdowych o odjeździe kolejnego pociągu?",
+      "answers": {
+        "A": "Telefonicznie, podając numer pociągu i czas odjazdu",
+        "B": "Przez nadanie sygnału dzwonkowego o odjeździe pociągu",
+        "C": "Przez wywołanie każdego dróżnika z osobna i podanie numeru pociągu",
+        "D": "Rozkazem pisemnym przekazanym dróżnikom przed odjazdem pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 8 pkt 2 lit. a",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "b5c05eeb-84d8-4a33-9e4f-932d0eaca5d3",
+      "question": "Jak dyżurny ruchu rejestruje zgłoszenia dróżników przejazdowych po odebraniu sygnału dzwonkowego o odjeździe pociągu (szlak jednotorowy)?",
+      "answers": {
+        "A": "Wpisując imię i nazwisko dróżnika w dzienniku telefonicznym",
+        "B": "Ukośną kreską w odpowiedniej rubryce dziennika ruchu",
+        "C": "Numerem posterunku dróżnika w rubryce 8 dziennika ruchu",
+        "D": "Znaczkiem potwierdzenia w dzienniku pracy dróżnika przejazdowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 8 pkt 1 lit. b",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "08d5bebe-d8dc-49ea-8f58-f5346b4bd62d",
+      "question": "Jeżeli dróżnik przejazdowy nie zgłosił się na sygnał dzwonkowy o odjeździe pociągu, jak powinien postąpić dyżurny ruchu?",
+      "answers": {
+        "A": "Opóźnić odjazd pociągu do czasu uzyskania potwierdzenia od dróżnika",
+        "B": "Wywołać dróżnika oddzielnie i zawiadomić go o odjeździe pociągu, podając numer pociągu",
+        "C": "Wydać maszyniście rozkaz pisemny o niezawiadomieniu dróżnika",
+        "D": "Przekazać zawiadomienie przez sąsiedni posterunek zapowiadawczy"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 8 pkt 1",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "081f6b77-abfc-4944-bc1d-f703535e9407",
+      "question": "Jeżeli dróżnika przejazdowego nie można zawiadomić o odjeździe pociągu, do jakiej prędkości należy ograniczyć jazdę pociągu na szerokości przejazdu kolejowo-drogowego?",
+      "answers": {
+        "A": "Do 10 km/h",
+        "B": "Do 30 km/h",
+        "C": "Do 20 km/h",
+        "D": "Do 15 km/h"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 84 ust. 16",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "2e75e2ad-f632-48e8-b6b5-c5b2a012a7a0",
+      "question": "Co powinien zrobić maszynista, który zbliżając się do przejazdu kolejowo-drogowego zauważył niezamknięcie rogatki i brak dróżnika przejazdowego, o czym nie był zawiadomiony rozkazem pisemnym?",
+      "answers": {
+        "A": "Zatrzymać pociąg przed przejazdem i oczekiwać na dalsze dyspozycje",
+        "B": "Dawać sygnał Rp 1 \"Baczność\", zmniejszyć prędkość do 20 km/h i zawiadomić dyżurnego ruchu najbliższej stacji",
+        "C": "Zmniejszyć prędkość do 10 km/h i podać sygnał alarmowy przez radiotelefon",
+        "D": "Kontynuować jazdę z dotychczasową prędkością, podając sygnały ostrzegawcze"
+      },
+      "correct": "B",
+      "explanation": "Ir-1 § 84 ust. 21",
+      "section_ref": "§ 84"
+    },
+    {
+      "uuid": "1f6a6c20-fe82-4fa3-8e2e-4e6665432106",
+      "question": "Jeżeli pociąg nie odjedzie po zawiadomieniu dróżników przejazdowych o odjeździe, w jaki sposób dyżurny ruchu odwołuje odjazd pociągu?",
+      "answers": {
+        "A": "Wysyła rozkaz pisemny do każdego dróżnika przejazdowego",
+        "B": "Nadaje sygnał dzwonkowy \"Odwołanie\" na łączu strażnicowym",
+        "C": "Zawiadamia dróżników telefonicznie o odwołaniu odjazdu pociągu",
+        "D": "Zawiadamia dróżników przez radiotelefon w sieci Radio-stop"
+      },
+      "correct": "C",
+      "explanation": "Ir-1 § 84 ust. 11",
+      "section_ref": "§ 84"
     }
   ]
 }
