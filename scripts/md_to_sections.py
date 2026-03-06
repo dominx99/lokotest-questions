@@ -70,6 +70,11 @@ def parse_sections(md_text: str) -> list[dict]:
 
         text = "\n".join(lines[title_end:end_line]).strip()
 
+        # Skip sections marked as "uchylony" (revoked)
+        next_content = lines[start_line + 1].strip() if start_line + 1 < len(lines) else ""
+        if next_content.lower() == "uchylony":
+            continue
+
         sections.append({
             "id": section_id,
             "title": title,
