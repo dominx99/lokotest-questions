@@ -1,0 +1,744 @@
+{
+  "instruction": "Ir-5",
+  "timestamp": "2026-03-06T21:56:07.057662",
+  "summary": {
+    "total": 43,
+    "ok": 0,
+    "fix": 0,
+    "delete": 0,
+    "new": 43
+  },
+  "results": [
+    {
+      "uuid": "cf216399-3ba9-4708-864f-9b2e4c45aa4d",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Co określa instrukcja o użytkowaniu urządzeń radiołączności pociągowej?",
+        "answers": {
+          "A": "Zasady posługiwania się sprzętem radiotelefonicznym wykorzystywanym w analogowej sieci radiołączności pociągowej",
+          "B": "Zasady posługiwania się sprzętem radiotelefonicznym wykorzystywanym w cyfrowej sieci radiołączności pociągowej",
+          "C": "Zasady obsługi technicznej i konserwacji urządzeń radiołączności pociągowej",
+          "D": "Zasady projektowania i budowy analogowej sieci radiołączności pociągowej"
+        },
+        "correct": "A",
+        "explanation": "Ir-5 § 1 ust. 1",
+        "section_ref": "§ 1"
+      }
+    },
+    {
+      "uuid": "f21bacf5-67ac-4bf9-bb54-482eff0afa7e",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Znajomość instrukcji o użytkowaniu urządzeń radiołączności pociągowej obowiązuje pracowników, którym przydzielono do użytku radiotelefony przenośne dostosowane do pracy w:",
+        "answers": {
+          "A": "cyfrowej sieci radiołączności pociągowej",
+          "B": "analogowej sieci radiołączności pociągowej",
+          "C": "sieci radiołączności dyspozytorskiej",
+          "D": "sieci radiołączności manewrowej"
+        },
+        "correct": "B",
+        "explanation": "Ir-5 § 1 ust. 3 pkt 2",
+        "section_ref": "§ 1"
+      }
+    },
+    {
+      "uuid": "23c5f3a5-6cb4-4878-bfd5-b44cf721e64b",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Jak prowadzący pojazd kolejowy z napędem odpowiada na wywołanie słyszane przez radio?",
+        "answers": {
+          "A": "Pozostawia mikrofon na zaczepu i odpowiada na wezwanie.",
+          "B": "Zdejmuje mikrofon z zaczepu i odpowiada na wezwanie.",
+          "C": "Zdejmuje mikrofon z zaczepu i czeka na potwierdzenie wolnego kanału.",
+          "D": "Nawiązuje łączność przez zmianę kanału radiowego i odpowiada na wezwanie."
+        },
+        "correct": "B",
+        "explanation": "Ir-5 § 10 ust. 2",
+        "section_ref": "§ 10"
+      }
+    },
+    {
+      "uuid": "8853d8ef-599f-47c8-9773-fcf4a79e8088",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "W jakim przypadku przekazanie rozkazu przez radiotelefon prowadzącemu pojazd kolejowy z napędem nie wymaga zatrzymania pojazdu?",
+        "answers": {
+          "A": "Gdy obsada pojazdu jest jednoosobowa i posterunek ruchu wyposażony jest w rejestrator rozmów",
+          "B": "Gdy obsada pojazdu jest dwuosobowa, a posterunek ruchu przekazujący rozkaz lub pojazd wyposażony jest w rejestrator rozmów",
+          "C": "Gdy obsada pojazdu jest dwuosobowa i wyłącznie pojazd wyposażony jest w rejestrator rozmów",
+          "D": "Gdy posterunek ruchu jest wyposażony w rejestrator rozmów, niezależnie od obsady pojazdu"
+        },
+        "correct": "B",
+        "explanation": "Ir-5 § 13 ust. 2 pkt 1",
+        "section_ref": "§ 13"
+      }
+    },
+    {
+      "uuid": "d39922ec-e139-46d5-ad0e-5a5da3af33c7",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Czy prowadzący pojazd kolejowy z napędem może odmówić przyjęcia rozkazu przez radiotelefon w czasie jazdy?",
+        "answers": {
+          "A": "Nie, prowadzący pojazd jest zawsze zobowiązany do przyjęcia rozkazu bez względu na okoliczności",
+          "B": "Tak, zawsze gdy uzna to za stosowne, bez podawania przyczyny",
+          "C": "Tak, jeżeli uzna, że brak jest dostatecznego czasu na przyjęcie rozkazu i zastosowanie się do jego treści",
+          "D": "Tak, ale tylko jeżeli otrzyma na to zgodę dyżurnego ruchu"
+        },
+        "correct": "C",
+        "explanation": "Ir-5 § 13 ust. 3",
+        "section_ref": "§ 13"
+      }
+    },
+    {
+      "uuid": "37e8d16f-79b3-4543-a935-62a9f87b19ac",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Komu dyżurny ruchu przekazuje rozkazy, gdy w pociągu jest więcej czynnych pojazdów trakcyjnych?",
+        "answers": {
+          "A": "Prowadzącemu ostatni pojazd kolejowy z napędem",
+          "B": "Wszystkim prowadzącym pojazdy kolejowe z napędem jednocześnie",
+          "C": "Prowadzącemu pojazd kolejowy z napędem wyznaczonemu przez kierownika pociągu",
+          "D": "Prowadzącemu pierwszy pojazd kolejowy z napędem"
+        },
+        "correct": "D",
+        "explanation": "Ir-5 § 13 ust. 6",
+        "section_ref": "§ 13"
+      }
+    },
+    {
+      "uuid": "6c89c00a-eaa5-423a-9119-5d1a68020213",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Do czego mogą być czasowo wykorzystywane urządzenia radiołączności pociągowej w czasie przerwy w łączności przewodowej?",
+        "answers": {
+          "A": "Do zastępowania pisemnych rozkazów wydawanych przez dyżurnego ruchu",
+          "B": "Do zapowiadania pociągów według zasad określonych instrukcją o prowadzeniu ruchu pociągów Ir-1",
+          "C": "Do przekazywania informacji wymagających doręczonych rozkazów",
+          "D": "Do zdalnego sterowania urządzeniami srk na posterunkach ruchu"
+        },
+        "correct": "B",
+        "explanation": "Ir-5 § 13 ust. 7",
+        "section_ref": "§ 13"
+      }
+    },
+    {
+      "uuid": "f0019e97-8f2c-4397-970a-eeb0645e9d09",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "W jakich przypadkach dyżurny ruchu powinien niezwłocznie nawiązać łączność z prowadzącym pojazd kolejowy z napędem po obserwacji przejeżdżającego pociągu?",
+        "answers": {
+          "A": "Wyłącznie gdy stwierdzi brak sygnału końcowego",
+          "B": "Gdy stwierdzi nieprawidłowości, takie jak grzanie osi, przesunięcie ładunku lub brak sygnału końcowego",
+          "C": "Tylko gdy potrzebuje przekazać rozkaz dotyczący zmiany trasy przejazdu",
+          "D": "Gdy pociąg przekroczy dopuszczalną prędkość na szlaku"
+        },
+        "correct": "B",
+        "explanation": "Ir-5 § 15 ust. 1",
+        "section_ref": "§ 15"
+      }
+    },
+    {
+      "uuid": "6019e866-bbdd-4663-99fe-c19f5594998c",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Co jest obowiązkiem dyżurnego ruchu w przypadku każdego wywołania skierowanego do niego przez radiotelefon?",
+        "answers": {
+          "A": "Powinien zgłosić się na każde wywołanie skierowane do niego",
+          "B": "Powinien zgłosić się tylko na wywołania od prowadzących pojazdy kolejowe z napędem",
+          "C": "Powinien zgłosić się tylko na wywołania od dyspozytora zarządcy infrastruktury",
+          "D": "Powinien zgłosić się tylko na wywołania dotyczące zagrożenia bezpieczeństwa ruchu"
+        },
+        "correct": "A",
+        "explanation": "Ir-5 § 15 ust. 2",
+        "section_ref": "§ 15"
+      }
+    },
+    {
+      "uuid": "58afcac0-ec6b-461f-a454-b379b59890c4",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Jeżeli dyżurny ruchu nie może samodzielnie nawiązać łączności z prowadzącym pojazd kolejowy przed jego wyjazdem na szlak, komu przekazuje treść informacji?",
+        "answers": {
+          "A": "Bezpośrednio maszyniście pociągu jadącego z naprzeciwka",
+          "B": "Przedstawicielowi przewoźnika kolejowego",
+          "C": "Dyspozytorowi, który zobowiązuje dyżurnego ruchu innego posterunku do przekazania informacji",
+          "D": "Kierownikowi pociągu, który przekazuje informację dalej"
+        },
+        "correct": "C",
+        "explanation": "Ir-5 § 15 ust. 3",
+        "section_ref": "§ 15"
+      }
+    },
+    {
+      "uuid": "553a3f5b-3fa8-4ae4-a726-f2260ed9505f",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Co powinien zrobić dyżurny ruchu, gdy odbierze informację o zagrożeniu bezpieczeństwa ruchu lub wezwanie o pomoc?",
+        "answers": {
+          "A": "Natychmiast podjąć wszelkie środki stosownie do obowiązujących instrukcji oraz powiadomić dyspozytora",
+          "B": "Zapisać informację w dzienniku ruchu i oczekiwać na dalsze instrukcje dyspozytora",
+          "C": "Przekazać informację prowadzącym pojazdy na sąsiednim szlaku i czekać na ich reakcję",
+          "D": "Natychmiast zatrzymać wszystkie pociągi na swoim posterunku i powiadomić przewoźnika"
+        },
+        "correct": "A",
+        "explanation": "Ir-5 § 15 ust. 4",
+        "section_ref": "§ 15"
+      }
+    },
+    {
+      "uuid": "067e398e-6f12-49f0-8ee3-34d7c95890a9",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Jeżeli informacja odebrana z pociągu ma być przekazana do wiadomości przedstawicielowi przewoźnika kolejowego, w jaki sposób dyżurny ruchu ją przekazuje?",
+        "answers": {
+          "A": "Bezpośrednio, korzystając z połączenia telefonicznego z przedstawicielem przewoźnika",
+          "B": "Za pośrednictwem dyspozytora zarządcy infrastruktury",
+          "C": "Za pośrednictwem kierownika pociągu znajdującego się na stacji",
+          "D": "Bezpośrednio przez radiotelefon do pojazdu przewoźnika znajdującego się na szlaku"
+        },
+        "correct": "B",
+        "explanation": "Ir-5 § 15 ust. 5",
+        "section_ref": "§ 15"
+      }
+    },
+    {
+      "uuid": "2eaee45e-f089-4ded-b54f-b67bd1ebbb1d",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Do kogo powinny być przekazywane wszystkie informacje dotyczące bezpieczeństwa ruchu ze szlaku?",
+        "answers": {
+          "A": "Do prowadzących pojazdy kolejowe z napędem jadących na szlaku oraz dyżurnych ruchu posterunków ruchu przyległych do tego szlaku",
+          "B": "Wyłącznie do prowadzących pojazdy kolejowe z napędem jadących na szlaku",
+          "C": "Do dyżurnych ruchu posterunków ruchu przyległych do szlaku oraz dyspozytora regionalnego",
+          "D": "Do prowadzących pojazdy kolejowe z napędem jadących na szlaku oraz do dyspozytora regionalnego"
+        },
+        "correct": "A",
+        "explanation": "Ir-5 § 17 ust. 2",
+        "section_ref": "§ 17"
+      }
+    },
+    {
+      "uuid": "36845578-ee08-48e0-b870-e0183a66cd36",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Komu pracownik znajdujący się na szlaku powinien przekazać informację o ujawnionej usterce dotyczącej pojazdu kolejowego?",
+        "answers": {
+          "A": "Wyłącznie dyżurnym ruchu posterunków ruchu przyległych do danego szlaku",
+          "B": "Prowadzącemu pojazd kolejowy z napędem oraz dyżurnym ruchu posterunków ruchu przyległych do danego szlaku",
+          "C": "Prowadzącemu pojazd kolejowy z napędem oraz dyspozytorowi regionalnemu",
+          "D": "Wyłącznie prowadzącemu pojazd kolejowy z napędem, którego usterka dotyczy"
+        },
+        "correct": "B",
+        "explanation": "Ir-5 § 17 ust. 3",
+        "section_ref": "§ 17"
+      }
+    },
+    {
+      "uuid": "02b3b23d-a0cb-462a-8597-804d42f2b0dc",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Co dyżurny ruchu zobowiązany jest sprawdzić, przyjmując dyżur, w zakresie stanu zewnętrznego urządzeń radiotelefonicznych?",
+        "answers": {
+          "A": "Plomby na poszczególnych zespołach, przewody połączeniowe, lampki i diody sygnalizacyjne, wyświetlacze itp.",
+          "B": "Stan naładowania akumulatora, przewody połączeniowe, plomby na poszczególnych zespołach.",
+          "C": "Kompletność urządzeń, stan przewodów połączeniowych, gniazda i przełączniki.",
+          "D": "Nawiązanie łączności z każdym prowadzącym pojazd kolejowy z napędem w rejonie."
+        },
+        "correct": "A",
+        "explanation": "Ir-5 § 18 ust. 1 pkt 1",
+        "section_ref": "§ 18"
+      }
+    },
+    {
+      "uuid": "409e6905-524e-4c0a-bdd9-ee2dda072e4b",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "W jaki sposób dyżurny ruchu sprawdza działanie urządzeń radiotelefonicznych przy przyjmowaniu dyżuru?",
+        "answers": {
+          "A": "Przez odsłuchanie nagrań z poprzedniej zmiany.",
+          "B": "Przez nawiązanie łączności z sąsiednim posterunkiem ruchu lub uprawnionymi pracownikami.",
+          "C": "Przez nawiązanie łączności z prowadzącym pojazd kolejowy z napędem z obu kabin sterowniczych.",
+          "D": "Przez sprawdzenie stanu naładowania akumulatorów urządzeń radiotelefonicznych."
+        },
+        "correct": "B",
+        "explanation": "Ir-5 § 18 ust. 1 pkt 2",
+        "section_ref": "§ 18"
+      }
+    },
+    {
+      "uuid": "b1fb260f-8ad5-4aba-8602-6eacdaa5d6be",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Gdzie dyżurny ruchu odnotowuje wynik sprawdzenia urządzeń radiotelefonicznych przy przyjmowaniu dyżuru?",
+        "answers": {
+          "A": "W książce pokładowej pojazdu kolejowego z napędem.",
+          "B": "W księdze zdania i przyjęcia dyżuru za podpisem osoby zdającej i przyjmującej.",
+          "C": "W dzienniku telefonicznym.",
+          "D": "W raporcie przekazywanym do nadzoru."
+        },
+        "correct": "C",
+        "explanation": "Ir-5 § 18 ust. 1 pkt 3",
+        "section_ref": "§ 18"
+      }
+    },
+    {
+      "uuid": "6a25fae7-2d53-4641-b955-e69a32c747f7",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Co prowadzący pojazd kolejowy z napędem zobowiązany jest sprawdzić, obejmując pracę na pojeździe, w zakresie stanu zewnętrznego urządzeń radiołączności?",
+        "answers": {
+          "A": "Stan naładowania akumulatora oraz prawidłowość działania urządzenia przez nawiązanie łączności.",
+          "B": "Plomby na poszczególnych zespołach, przewody połączeniowe, lampki sygnalizacyjne oraz kompletność urządzeń.",
+          "C": "Wyświetlacze, diody sygnalizacyjne i przewody połączeniowe oraz dziennik telefoniczny.",
+          "D": "Gniazda, przełączniki, antenę oraz stan naładowania akumulatora."
+        },
+        "correct": "B",
+        "explanation": "Ir-5 § 18 ust. 2 pkt 1",
+        "section_ref": "§ 18"
+      }
+    },
+    {
+      "uuid": "654f10b7-6f16-4845-8d35-9d49e31a86ac",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Gdzie prowadzący pojazd kolejowy z napędem odnotowuje wynik sprawdzenia prawidłowości działania urządzeń radiołączności przy obejmowaniu pracy na pojeździe?",
+        "answers": {
+          "A": "W dzienniku telefonicznym posterunku ruchu.",
+          "B": "W książce zdania i przyjęcia dyżuru za podpisem osoby zdającej i przyjmującej dyżur.",
+          "C": "W raporcie przekazywanym dyżurnemu ruchu.",
+          "D": "W książce pokładowej pojazdu kolejowego z napędem, za podpisem prowadzącego pojazd."
+        },
+        "correct": "D",
+        "explanation": "Ir-5 § 18 ust. 2 pkt 3",
+        "section_ref": "§ 18"
+      }
+    },
+    {
+      "uuid": "dd219919-33aa-42e6-a5fc-fbdabcb68ae1",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Co prowadzący pojazd kolejowy z napędem, przyjmując pojazd od przekazującego, jest zobowiązany odnotować w książce pokładowej w przypadku przyjęcia pojazdu z niesprawnymi urządzeniami radiołączności lub zerwanymi plombami?",
+        "answers": {
+          "A": "Godzinę przyjęcia pojazdu; podpisują przekazujący i przyjmujący pojazd.",
+          "B": "Datę i przyczynę niesprawności; podpisuje wyłącznie przyjmujący pojazd.",
+          "C": "Numer raportu usterki przekazanego do służby utrzymania.",
+          "D": "Godzinę przyjęcia pojazdu; podpisuje wyłącznie dyżurny ruchu."
+        },
+        "correct": "A",
+        "explanation": "Ir-5 § 18 ust. 3 pkt 3",
+        "section_ref": "§ 18"
+      }
+    },
+    {
+      "uuid": "ba24a2be-e1fb-48d7-8efe-d89afaa24195",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Kogo prowadzący pojazd kolejowy z napędem zobowiązany jest zawiadomić o niesprawnym działaniu urządzeń radiołączności?",
+        "answers": {
+          "A": "Dyżurnego ruchu posterunku ruchu, na którym przyjmuje od przekazującego pojazd kolejowy z napędem.",
+          "B": "Dyżurnego ruchu sąsiedniego posterunku ruchu.",
+          "C": "Dyżurnego ruchu posterunku ruchu, na którym obejmuje pracę.",
+          "D": "Pracowników nadzoru i kontroli właściwych dla danego odcinka linii."
+        },
+        "correct": "C",
+        "explanation": "Ir-5 § 18 ust. 3 pkt 4",
+        "section_ref": "§ 18"
+      }
+    },
+    {
+      "uuid": "7b0427fa-ebc3-4b16-9784-3c39b26a6d19",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Gdzie pracownik, któremu przydzielono radiotelefon przenośny, odnotowuje wynik sprawdzenia prawidłowości działania urządzenia?",
+        "answers": {
+          "A": "W dzienniku telefonicznym posterunku ruchu.",
+          "B": "W książce pokładowej pojazdu kolejowego z napędem.",
+          "C": "W książce zdania i przyjęcia dyżuru za podpisem osoby zdającej i przyjmującej dyżur.",
+          "D": "W raporcie przekazywanym prowadzącemu pojazd kolejowy z napędem."
+        },
+        "correct": "C",
+        "explanation": "Ir-5 § 18 ust. 4 pkt 3",
+        "section_ref": "§ 18"
+      }
+    },
+    {
+      "uuid": "e96ff2fd-3912-483b-b848-64517b981d19",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Co regulują wewnętrzne przepisy w zakresie radiołączności pociągowej?",
+        "answers": {
+          "A": "Zasady nawiązywania łączności radiowej oraz opis systemu radiołączności pociągowej",
+          "B": "Zakres wykorzystywania analogowej sieci radiołączności pociągowej",
+          "C": "Zasady utrzymywania urządzeń radiołączności pociągowej oraz szkolenia personelu w zakresie obsługi tych urządzeń",
+          "D": "Opis systemu radiołączności pociągowej oraz zasady szkolenia personelu"
+        },
+        "correct": "C",
+        "explanation": "Ir-5 § 2 ust. 2",
+        "section_ref": "§ 2"
+      }
+    },
+    {
+      "uuid": "6e91803e-52b2-470a-880d-16c77256d59b",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Co powinien zrobić dyżurny ruchu w pierwszej kolejności po stwierdzeniu uszkodzenia obsługiwanego radiotelefonu?",
+        "answers": {
+          "A": "Zawiadomić dyspozytora i dyżurnych ruchu sąsiednich posterunków ruchu",
+          "B": "Dokonać odpowiedniego zapisu w dzienniku uszkodzeń urządzeń łączności",
+          "C": "Wymienić uszkodzony radiotelefon na sprawny w macierzystej jednostce organizacyjnej",
+          "D": "Powiadomić prowadzących pojazdy kolejowe z napędem radiotelefonicznie"
+        },
+        "correct": "B",
+        "explanation": "Ir-5 § 20 ust. 1 pkt 1",
+        "section_ref": "§ 20"
+      }
+    },
+    {
+      "uuid": "d72ab8cf-4e92-49eb-ace1-f9a79bf25209",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Kogo dyżurny ruchu powinien zawiadomić o uszkodzeniu radiotelefonu stacjonarnego?",
+        "answers": {
+          "A": "Wyłącznie dyspozytora przewoźnika kolejowego",
+          "B": "Dyspozytora, dyżurnych ruchu sąsiednich posterunków ruchu lub wyznaczonego pracownika zarządcy infrastruktury",
+          "C": "Dyspozytora i personel utrzymania urządzeń radiołączności",
+          "D": "Dyżurnych ruchu sąsiednich posterunków ruchu i prowadzących pojazdy kolejowe z napędem"
+        },
+        "correct": "B",
+        "explanation": "Ir-5 § 20 ust. 1 pkt 2",
+        "section_ref": "§ 20"
+      }
+    },
+    {
+      "uuid": "efe350c8-d2b9-4190-8248-b146ccf03ebd",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Jeżeli usterka urządzeń radiołączności zaistniała na pojeździe kolejowym z napędem z dwuosobową obsadą, co powinien zrobić prowadzący pojazd na najbliższym posterunku ruchu?",
+        "answers": {
+          "A": "Zatrzymać pociąg i oczekiwać na naprawę radiotelefonu",
+          "B": "Powiadomić dyżurnego ruchu i kontynuować jazdę",
+          "C": "Wezwać do kabiny kierownika pociągu i kontynuować jazdę",
+          "D": "Powiadomić dyspozytora przewoźnika kolejowego i oczekiwać na dosłanie pomocnika maszynisty"
+        },
+        "correct": "B",
+        "explanation": "Ir-5 § 20 ust. 2",
+        "section_ref": "§ 20"
+      }
+    },
+    {
+      "uuid": "996f202b-8f02-4d6b-a520-626fe4866e1b",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Jeżeli usterka radiołączności zaistniała na pojeździe z jednoosobową obsadą i jest to pociąg pasażerski, co powinien zrobić prowadzący pojazd?",
+        "answers": {
+          "A": "Zatrzymać pociąg i oczekiwać na naprawę radiotelefonu lub dosłanie pomocnika maszynisty",
+          "B": "Powiadomić dyspozytora i kontynuować jazdę bez żadnych dodatkowych czynności",
+          "C": "Wezwać do kabiny kierownika pociągu i kontynuować jazdę",
+          "D": "Zatrzymać pociąg i wezwać inny pojazd trakcyjny ze sprawnym radiotelefonem"
+        },
+        "correct": "C",
+        "explanation": "Ir-5 § 20 ust. 3 pkt 1",
+        "section_ref": "§ 20"
+      }
+    },
+    {
+      "uuid": "67c0484d-f7b6-4098-afb9-e6597957d454",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Jeżeli usterka radiołączności zaistniała na pojeździe z jednoosobową obsadą i jest to pociąg towarowy, co umożliwia dalszą jazdę?",
+        "answers": {
+          "A": "Wezwanie do kabiny kierownika pociągu i powiadomienie dyżurnego ruchu",
+          "B": "Wyłącznie dokonanie naprawy radiotelefonu przed odjazdem",
+          "C": "Naprawa radiotelefonu lub dosłanie pomocnika maszynisty albo innego pojazdu trakcyjnego ze sprawnym radiotelefonem",
+          "D": "Powiadomienie dyspozytora i zgoda na jazdę z uszkodzonym radiotelefonem bez dodatkowych warunków"
+        },
+        "correct": "C",
+        "explanation": "Ir-5 § 20 ust. 3 pkt 2",
+        "section_ref": "§ 20"
+      }
+    },
+    {
+      "uuid": "80b10bdf-a7e9-4f61-be5a-9b1fe4949f52",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Gdzie odnotowuje się usterkę w działaniu urządzeń radiołączności na pojeździe kolejowym z napędem?",
+        "answers": {
+          "A": "Wyłącznie w dzienniku telefonicznym dyżurnego ruchu",
+          "B": "W książce pokładowej pojazdu kolejowego z napędem, a zgłoszenie dyżurnemu ruchu — w dzienniku telefonicznym",
+          "C": "W dzienniku uszkodzeń urządzeń łączności i w dzienniku telefonicznym dyżurnego ruchu",
+          "D": "W książce napraw pojazdu i w dzienniku uszkodzeń urządzeń łączności"
+        },
+        "correct": "B",
+        "explanation": "Ir-5 § 20 ust. 4",
+        "section_ref": "§ 20"
+      }
+    },
+    {
+      "uuid": "c403742a-0b66-43a0-8933-e0a5c62ce00e",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Co prowadzący pojazd kolejowy z napędem powinien zrobić po przyjeździe do jednostki macierzystej w przypadku niesprawności urządzeń radiołączności?",
+        "answers": {
+          "A": "Zgłosić niesprawność dyżurnemu ruchu i odnotować usterkę w dzienniku telefonicznym",
+          "B": "Zgłosić niesprawność dyspozytorowi i odnotować usterkę w książce napraw pojazdu",
+          "C": "Zgłosić niesprawność dyspozytorowi i odnotować usterkę w książce pokładowej pojazdu",
+          "D": "Zgłosić niesprawność personelowi utrzymania urządzeń radiołączności i odnotować usterkę w książce napraw pojazdu"
+        },
+        "correct": "B",
+        "explanation": "Ir-5 § 20 ust. 5",
+        "section_ref": "§ 20"
+      }
+    },
+    {
+      "uuid": "1846e7e8-02b6-47cb-ba32-53c15a7f4f40",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Co zobowiązany jest zrobić pracownik utrzymania urządzeń radiołączności po dokonanej naprawie radiotelefonu przewoźnego zainstalowanego na pojeździe trakcyjnym?",
+        "answers": {
+          "A": "Wnieść zapis do dziennika uszkodzeń urządzeń łączności",
+          "B": "Wnieść zapis do książki pokładowej pojazdu z napędem",
+          "C": "Powiadomić dyspozytora przewoźnika kolejowego o dokonanej naprawie",
+          "D": "Wnieść zapis do dziennika telefonicznego dyżurnego ruchu"
+        },
+        "correct": "B",
+        "explanation": "Ir-5 § 20 ust. 7",
+        "section_ref": "§ 20"
+      }
+    },
+    {
+      "uuid": "03fd0b57-ff67-4bbb-b374-36b5445b9d60",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "W jakich przypadkach radiołączność pociągowa umożliwia łączność między dyżurnymi ruchu sąsiednich posterunków ruchu?",
+        "answers": {
+          "A": "Wyłącznie w przypadku zagrożenia bezpieczeństwa ruchu kolejowego",
+          "B": "W przypadku wystąpienia przerwy w łączności przewodowej lub zagrożenia bezpieczeństwa ruchu kolejowego",
+          "C": "W przypadku wystąpienia przerwy w łączności przewodowej lub potrzeby skomunikowania pociągów",
+          "D": "W przypadku wystąpienia awarii urządzeń detekcji stanów awaryjnych taboru"
+        },
+        "correct": "B",
+        "explanation": "Ir-5 § 3 ust. 1 pkt 2",
+        "section_ref": "§ 3"
+      }
+    },
+    {
+      "uuid": "c1115a90-02a9-45f3-864f-60cac69460c7",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "W jakich przypadkach pracownicy dokonujący obchodu torów mogą korzystać z radiołączności pociągowej do kontaktu z dyżurnymi ruchu?",
+        "answers": {
+          "A": "W przypadku potrzeby skomunikowania pociągów pasażerskich",
+          "B": "W przypadku wystąpienia przerwy w łączności przewodowej",
+          "C": "Wyłącznie w przypadkach zagrożenia bezpieczeństwa",
+          "D": "W przypadku zdarzeń kolejowych oraz potrzeby skomunikowania pociągów"
+        },
+        "correct": "C",
+        "explanation": "Ir-5 § 3 ust. 1 pkt 4",
+        "section_ref": "§ 3"
+      }
+    },
+    {
+      "uuid": "28360237-06c7-4977-a64d-bc562534a172",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Na jakim kanale należy realizować bezpośrednią łączność między prowadzącym pojazd kolejowy z napędem a dyspozytorem?",
+        "answers": {
+          "A": "Na kanale nr 1",
+          "B": "Na kanale nr 5",
+          "C": "Na kanale nr 8",
+          "D": "Na kanale nr 10"
+        },
+        "correct": "C",
+        "explanation": "Ir-5 § 3 ust. 2",
+        "section_ref": "§ 3"
+      }
+    },
+    {
+      "uuid": "c943303f-a811-4c16-9818-9bcb6b6ddb15",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "W jakich sytuacjach dopuszczalna jest bezpośrednia łączność między prowadzącym pojazd kolejowy z napędem a dyspozytorem na kanale ratunkowym?",
+        "answers": {
+          "A": "W akcjach ratowniczych, awaryjnych lub mających bezpośredni wpływ na sprawność ruchu kolejowego",
+          "B": "W przypadku zagrożenia bezpieczeństwa ruchu i zdarzeń kolejowych oraz potrzeby skomunikowania pociągów",
+          "C": "W przypadku wystąpienia przerwy w łączności przewodowej lub zagrożenia bezpieczeństwa ruchu kolejowego",
+          "D": "W przypadku nadzoru i kontroli analogowej sieci radiołączności pociągowej"
+        },
+        "correct": "A",
+        "explanation": "Ir-5 § 3 ust. 2",
+        "section_ref": "§ 3"
+      }
+    },
+    {
+      "uuid": "eb0de479-36aa-4bbf-94fc-2f2a24c4cb83",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Które z wymienionych pojazdów kolejowych z napędem powinny być wyposażone w radiotelefony przewoźne?",
+        "answers": {
+          "A": "Pojazdy trakcyjne, drezyny do pomiaru geometrii toru oraz pojazdy szynowo-drogowe",
+          "B": "Pojazdy trakcyjne, wagony osobowe oraz drezyny do pomiaru geometrii toru",
+          "C": "Pojazdy trakcyjne, pojazdy szynowo-drogowe oraz wagony z urządzeniami detekcji stanów awaryjnych",
+          "D": "Pojazdy trakcyjne, drezyny motorowe oraz pojazdy szynowo-drogowe"
+        },
+        "correct": "A",
+        "explanation": "Ir-5 § 3 ust. 4",
+        "section_ref": "§ 3"
+      }
+    },
+    {
+      "uuid": "9fb0fed5-2839-4dc0-bf6d-5849701dfeab",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "W jakich przypadkach drużyna konduktorska może korzystać z radiołączności pociągowej do kontaktu z dyżurnym ruchu?",
+        "answers": {
+          "A": "Wyłącznie w przypadkach zagrożenia bezpieczeństwa ruchu kolejowego",
+          "B": "W przypadkach zagrożenia bezpieczeństwa ruchu i zdarzeń kolejowych oraz potrzeby skomunikowania pociągów pasażerskich",
+          "C": "W przypadku wystąpienia przerwy w łączności przewodowej lub zagrożenia bezpieczeństwa ruchu kolejowego",
+          "D": "W przypadkach zagrożenia bezpieczeństwa ruchu, zdarzeń kolejowych oraz awarii urządzeń trakcyjnych"
+        },
+        "correct": "B",
+        "explanation": "Ir-5 § 3 ust. 1 pkt 7",
+        "section_ref": "§ 3"
+      }
+    },
+    {
+      "uuid": "d7aa0aaf-4482-4bde-975c-23d17626d56a",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Do której grupy użytkowników analogowej sieci radiołączności pociągowej należą dyżurni ruchu posterunków ruchu?",
+        "answers": {
+          "A": "Do pierwszej grupy użytkowników",
+          "B": "Do drugiej grupy użytkowników",
+          "C": "Do trzeciej grupy użytkowników",
+          "D": "Do grupy użytkowników specjalnych"
+        },
+        "correct": "B",
+        "explanation": "Ir-5 § 5 ust. 1 pkt 2",
+        "section_ref": "§ 5"
+      }
+    },
+    {
+      "uuid": "1657226f-90c5-46d9-8b19-7a83663a5465",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Co jest wymagane do nawiązania łączności z żądanym abonentem w analogowej sieci radiołączności pociągowej?",
+        "answers": {
+          "A": "Wyłącznie głosowe wywołanie abonenta",
+          "B": "Wysłanie sygnału wywoławczego dotyczącego danej grupy użytkowników, a następnie głosowe wywołanie abonenta",
+          "C": "Wysłanie sygnału wywoławczego bez konieczności głosowego wywołania abonenta",
+          "D": "Głosowe wywołanie abonenta poprzedzone podaniem numeru grupy użytkowników"
+        },
+        "correct": "B",
+        "explanation": "Ir-5 § 5 ust. 2",
+        "section_ref": "§ 5"
+      }
+    },
+    {
+      "uuid": "74796d12-b484-4f9f-b249-89245d8da8f5",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Który rodzaj radiotelefonu jest instalowany na pojazdach kolejowych z napędem?",
+        "answers": {
+          "A": "Radiotelefon stacjonarny",
+          "B": "Radiotelefon przewoźny",
+          "C": "Radiotelefon przenośny",
+          "D": "Radiotelefon dyżurny"
+        },
+        "correct": "B",
+        "explanation": "Ir-5 § 6 ust. 1 pkt 2",
+        "section_ref": "§ 6"
+      }
+    },
+    {
+      "uuid": "3ba36204-adb5-40e2-bd77-102001d200c8",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Komu przydzielany jest radiotelefon przenośny?",
+        "answers": {
+          "A": "Dyżurnym ruchu na posterunkach następczych",
+          "B": "Maszynistom pojazdów trakcyjnych na stałe",
+          "C": "Uprawnionym pracownikom do użytku na czas wykonywanej pracy",
+          "D": "Pracownikom stanowisk kontroli urządzeń do wykrywania stanów awaryjnych taboru"
+        },
+        "correct": "C",
+        "explanation": "Ir-5 § 6 ust. 1 pkt 3",
+        "section_ref": "§ 6"
+      }
+    },
+    {
+      "uuid": "9de64a33-ec6c-4a59-a616-374a8ca08fd6",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Co zawiera warunki techniczne dotyczące prawidłowej obsługi i bezpiecznej eksploatacji urządzeń radiołączności pociągowej?",
+        "answers": {
+          "A": "Regulaminy techniczne stacji",
+          "B": "Instrukcje techniczne lub instrukcje obsługi danego typu radiotelefonu",
+          "C": "Zarządzenia wewnętrzne zarządcy infrastruktury",
+          "D": "Rozkazy pisemne wydawane przez dyżurnego ruchu"
+        },
+        "correct": "B",
+        "explanation": "Ir-5 § 6 ust. 2",
+        "section_ref": "§ 6"
+      }
+    },
+    {
+      "uuid": "35f992fc-63e4-4770-abd4-67112ec32d6d",
+      "status": "NEW",
+      "problems": [],
+      "changes": {
+        "question": "Jak dyżurny ruchu odpowiada na wywołanie radiowe prowadzącego pojazd kolejowy z napędem?",
+        "answers": {
+          "A": "Zdejmuje mikrofon z zaczepu i odpowiada na wezwanie.",
+          "B": "Czeka na powtórne wywołanie i dopiero wtedy zdejmuje mikrofon z zaczepu.",
+          "C": "Odpowiada na wezwanie bez konieczności zdejmowania mikrofonu z zaczepu.",
+          "D": "Przełącza kanał radiowy i odpowiada na wezwanie."
+        },
+        "correct": "A",
+        "explanation": "Ir-5 § 9 ust. 2",
+        "section_ref": "§ 9"
+      }
+    }
+  ]
+}

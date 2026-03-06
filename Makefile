@@ -1,4 +1,4 @@
-.PHONY: pdfs-to-markdowns pdf-to-markdown clean-markdowns sections section xlsx-to-json json-to-xlsx toc view apply-verification deficits mark-verified unmark-verified
+.PHONY: pdfs-to-markdowns pdf-to-markdown clean-markdowns sections section xlsx-to-json json-to-xlsx toc view apply-verification deficits mark-verified unmark-verified fresh-questions
 
 INSTRUCTIONS_DIR := instructions
 
@@ -82,3 +82,8 @@ mark-verified:
 # Usage: make unmark-verified ONLY=Ir-1
 unmark-verified:
 	uv run python scripts/mark_verified.py --unmark $(ONLY)
+
+# Create empty pytania.json for a new instruction (no existing XLSX)
+# Usage: make fresh-questions ONLY=Ir-5
+fresh-questions:
+	uv run python scripts/fresh_questions.py $(ONLY)
