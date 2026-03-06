@@ -96,7 +96,7 @@
       "uuid": "486aa33f-1449-43e2-9330-1ee18db5c052",
       "question": "Co regulują odrębne przepisy w zakresie objętym Instrukcją Ir-8?",
       "answers": {
-        "A": "Postępowanie w razie katastrofy budowlanej oraz postępowanie w razie poważnej awarii lub szkody w środowisku",
+        "A": "Postępowanie w razie katastrofy budowlanej oraz postępowanie w razie poważnej awarii, szkody w środowisku albo bezpośredniego zagrożenia szkodą w środowisku",
         "B": "Postępowanie w razie wypadku z udziałem pociągu pasażerskiego",
         "C": "Zasady powiadamiania Urzędu Transportu Kolejowego o zdarzeniach",
         "D": "Tryb powoływania komisji kolejowych w przypadku zdarzeń transgranicznych"
@@ -187,9 +187,9 @@
       "uuid": "df66cf87-a1db-4cd9-83b1-4234b820bf6e",
       "question": "Spośród jakich osób wskazuje się członków komisji kolejowej do badania wypadku lub incydentu?",
       "answers": {
-        "A": "Spośród pracowników wyznaczonych przez Prezesa UTK",
+        "A": "Spośród pracowników wyznaczonych przez Prezesa Urzędu Transportu Kolejowego",
         "B": "Spośród pracowników bezpośrednio związanych z powstaniem zdarzenia",
-        "C": "Spośród osób upoważnionych zgodnie z § 10 ust. 1–3",
+        "C": "Spośród pracowników wpisanych do wykazu uprawnionych do udziału w pracach komisji kolejowej",
         "D": "Spośród pracowników wskazanych przez Przewodniczącego PKBWK"
       },
       "correct": "C",
@@ -224,7 +224,7 @@
     },
     {
       "uuid": "69fe84c3-5cb5-4c55-bc6d-f087693b1dfc",
-      "question": "W przypadkach niewymienionych w ust. 3 (wypadki w ruchu pociągowym i incydenty z prawdopodobną przyczyną po stronie PKP PLK S.A.), skąd dopuszcza się wyznaczanie przedstawicieli PKP PLK S.A. do składu komisji kolejowej?",
+      "question": "W przypadkach innych niż wypadki w ruchu pociągowym oraz incydenty z prawdopodobną przyczyną po stronie zarządcy infrastruktury, skąd dopuszcza się wyznaczanie przedstawicieli PKP PLK S.A. do składu komisji kolejowej?",
       "answers": {
         "A": "Ze szczebla zakładu linii kolejowych",
         "B": "Ze szczebla centrali PKP PLK S.A.",
@@ -239,10 +239,10 @@
       "uuid": "e217f2d1-96ec-4d5a-bd82-8243660a9568",
       "question": "Kto dodatkowo bierze udział w pracach komisji kolejowej powołanej na okoliczność zdarzenia z przesyłkami zawierającymi towary niebezpieczne?",
       "answers": {
-        "A": "Przedstawiciel Głównego Inspektoratu Sanitarnego",
+        "A": "Uprawnieni doradcy ds. bezpieczeństwa przewozu koleją towarów niebezpiecznych zarządcy infrastruktury oraz przewoźnika, nadawcy lub właściciela wagonu — na wniosek Prezesa Urzędu Transportu Kolejowego",
         "B": "Uprawnieni doradcy ds. bezpieczeństwa przewozu koleją towarów niebezpiecznych zarządcy infrastruktury oraz przewoźnika, nadawcy lub właściciela wagonu",
-        "C": "Inspektor ochrony środowiska właściwego dla miejsca zdarzenia",
-        "D": "Pracownik ds. ochrony przeciwpożarowej zarządcy infrastruktury"
+        "C": "Inspektor lub specjalista ds. ochrony środowiska właściwego dla miejsca zdarzenia zakładu linii kolejowych oraz przewoźnika, nadawcy lub właściciela wagonu",
+        "D": "Pracownik ds. ochrony przeciwpożarowej właściwego dla miejsca zdarzenia zakładu linii kolejowych oraz przewoźnika, nadawcy lub właściciela wagonu"
       },
       "correct": "B",
       "explanation": "Ir-8 § 11 ust. 5",
@@ -330,10 +330,10 @@
       "uuid": "d355c3c3-a040-4800-8b5c-f802f0bdb0e9",
       "question": "Kto powołuje przewodniczącego komisji kolejowej?",
       "answers": {
-        "A": "Prezes Urzędu Transportu Kolejowego",
-        "B": "Kierownik jednostki organizacyjnej zarządcy infrastruktury albo użytkownika bocznicy kolejowej właściwej dla miejsca wypadku lub incydentu",
-        "C": "Członkowie komisji kolejowej w drodze głosowania",
-        "D": "Naczelnik stacji właściwej dla miejsca wypadku lub incydentu"
+        "A": "Prezes Urzędu Transportu Kolejowego właściwy dla miejsca wypadku lub incydentu",
+        "B": "Kierownik jednostki organizacyjnej zarządcy infrastruktury albo użytkownika bocznicy kolejowej biorącej udział w transporcie kolejowym, właściwej dla miejsca wypadku lub incydentu",
+        "C": "Członkowie komisji kolejowej w drodze głosowania spośród wyznaczonych członków komisji",
+        "D": "Naczelnik stacji właściwej dla miejsca wypadku lub incydentu, spośród wyznaczonych członków komisji"
       },
       "correct": "B",
       "explanation": "Ir-8 § 12 ust. 2",
@@ -371,7 +371,7 @@
       "answers": {
         "A": "Nie, komisja może działać wyłącznie na miejscu zdarzenia",
         "B": "Tak, ale tylko w miejscach wskazanych przez organ nadzoru",
-        "C": "Tak, w miejscu wskazanym w § 15 ust. 2 lub innym miejscu mającym związek ze zdarzeniem",
+        "C": "Tak, na stacji postoju lub stacji docelowej pociągu albo w innym miejscu mającym związek ze zdarzeniem",
         "D": "Tak, wyłącznie w siedzibie zarządcy infrastruktury"
       },
       "correct": "C",
@@ -551,9 +551,9 @@
       "uuid": "c756119c-0f3c-4fa8-bac9-cb37d9fd419a",
       "question": "Kto może uzupełnić skład komisji kolejowej w przypadku decyzji o badaniu wypadku na stacji postoju lub stacji docelowej pociągu?",
       "answers": {
-        "A": "Dyspozytor zarządcy infrastruktury po uzgodnieniu z członkami komisji",
+        "A": "Dyspozytor zarządcy infrastruktury po uzgodnieniu z przewodniczącym komisji zakresu czynności oraz możliwości ich wykonania na stacji postoju lub stacji docelowej pociągu",
         "B": "Kierownicy jednostek organizacyjnych właściwych dla miejsca badania — po uzgodnieniu z przewodniczącym komisji zakresu czynności oraz możliwości ich wykonania na stacji postoju lub stacji docelowej",
-        "C": "Pracownicy przewoźnika kolejowego wskazani przez kierownika drużyny trakcyjnej",
+        "C": "Pracownicy przewoźnika kolejowego wskazani przez kierownika drużyny trakcyjnej, po uzgodnieniu z przewodniczącym komisji zakresu czynności oraz możliwości ich wykonania na stacji postoju lub stacji docelowej pociągu",
         "D": "Kierownicy jednostek organizacyjnych właściwych dla miejsca wypadku — po uzgodnieniu z przewodniczącym komisji zakresu czynności oraz możliwości ich wykonania na miejscu wypadku"
       },
       "correct": "B",
@@ -564,10 +564,10 @@
       "uuid": "fda6c162-5c45-4d99-ba9f-a63d3e3ac849",
       "question": "Co przewodniczący komisji kolejowej bierze pod uwagę, podejmując decyzje o rodzaju i zakresie czynności komisji?",
       "answers": {
-        "A": "Skutki i okoliczności wypadku lub incydentu oraz opinie członków komisji kolejowej",
-        "B": "Konieczność zebrania dowodów oraz potrzebę możliwie najszybszego przywrócenia normalnego ruchu kolejowego",
+        "A": "Skutki i okoliczności wypadku lub incydentu, opinie członków komisji kolejowej oraz konieczność zebrania niezbędnych dowodów rzeczowych i przeprowadzenia badań w celu wiarygodnego określenia przyczyn zdarzenia",
+        "B": "Konieczność zebrania niezbędnych dowodów rzeczowych i przeprowadzenia badań w celu wiarygodnego określenia przyczyn wypadku lub incydentu oraz potrzebę możliwie najszybszego przywrócenia normalnego ruchu kolejowego",
         "C": "Skutki i okoliczności zdarzenia, opinie członków komisji, konieczność zebrania dowodów i przeprowadzenia badań oraz potrzebę możliwie najszybszego przywrócenia normalnego ruchu kolejowego",
-        "D": "Wyłącznie opinie członków komisji kolejowej i dyspozytora zarządcy infrastruktury"
+        "D": "Wyłącznie opinie członków komisji kolejowej i dyspozytora zarządcy infrastruktury, konieczność zebrania dowodów rzeczowych oraz potrzebę możliwie najszybszego przywrócenia normalnego ruchu kolejowego w miejscu zdarzenia"
       },
       "correct": "C",
       "explanation": "Ir-8 § 15 ust. 5",
@@ -616,10 +616,10 @@
       "uuid": "cfe01087-9cee-47f7-abab-b754951ee14a",
       "question": "Co komisja kolejowa sprawdza w kabinie prowadzącego pociąg lub pojazd kolejowy na miejscu zdarzenia?",
       "answers": {
-        "A": "Stan oświetlenia kabiny i widoczność sygnałów z miejsca maszynisty",
+        "A": "Stan oświetlenia kabiny i widoczność sygnałów kolejowych ze stanowiska maszynisty oraz działanie oświetlenia awaryjnego",
         "B": "Stan nastawienia lub położenia urządzeń i przełączników, ze szczególnym uwzględnieniem pozycji nastawnika i hamulca",
-        "C": "Prawidłowość funkcjonowania urządzeń sterowania ruchem i systemu hamowania",
-        "D": "Zapisy w dokumentach związanych z prowadzeniem ruchu kolejowego"
+        "C": "Prawidłowość funkcjonowania urządzeń sterowania ruchem, systemu hamowania pojazdów kolejowych oraz urządzeń łączności",
+        "D": "Zapisy w dokumentach związanych z prowadzeniem ruchu kolejowego oraz dokumentach pojazdów kolejowych biorących udział w zdarzeniu"
       },
       "correct": "B",
       "explanation": "Ir-8 § 16 ust. 1 pkt 5",
@@ -629,10 +629,10 @@
       "uuid": "6cce9cb7-39b7-4044-a52e-037089b25825",
       "question": "Co komisja kolejowa ustala przy wypadkach lub incydentach na przejazdach w zakresie widoczności?",
       "answers": {
-        "A": "Widoczność sygnałów kolejowych ze stanowiska prowadzącego pociąg",
+        "A": "Widoczność sygnałów kolejowych ze stanowiska prowadzącego pociąg oraz widoczność wskaźników na szlaku przed miejscem zdarzenia",
         "B": "Widoczność przejazdu z drogi, ze stanowiska kierującego pojazdem drogowym i z posterunku pracownika obsługi przejazdu",
-        "C": "Widoczność rogatek z miejsca dyżurnego ruchu",
-        "D": "Widoczność przejazdu z kabiny maszynisty przy różnych warunkach oświetlenia"
+        "C": "Widoczność rogatek z miejsca dyżurnego ruchu oraz widoczność sygnałów dźwiękowych i świetlnych przejazdu kolejowo-drogowego",
+        "D": "Widoczność przejazdu z kabiny maszynisty przy różnych warunkach oświetlenia i widoczność osygnalizowania pojazdu kolejowego"
       },
       "correct": "B",
       "explanation": "Ir-8 § 16 ust. 1 pkt 6 lit. d",
@@ -642,23 +642,10 @@
       "uuid": "24a40854-ec68-432b-abf6-da0eb3429374",
       "question": "Kto dokonuje odczytania i zabezpieczenia zapisów urządzeń rejestrujących na potrzeby postępowania?",
       "answers": {
-        "A": "Przewodniczący komisji kolejowej osobiście",
+        "A": "Przewodniczący komisji kolejowej osobiście, bez udziału innych członków komisji, przy zachowaniu ciągłości dokumentacji postępowania",
         "B": "Wyznaczony przez komisję kolejową pracownik jednostki organizacyjnej zarządcy infrastruktury, użytkownika bocznicy lub przewoźnika użytkującego urządzenie, z udziałem członków komisji",
-        "C": "Inspektor z Urzędu Transportu Kolejowego wskazany przez komisję",
-        "D": "Pracownik Policji lub Straży Ochrony Kolei obecny na miejscu zdarzenia"
-      },
-      "correct": "B",
-      "explanation": "Ir-8 § 16 ust. 1 pkt 8",
-      "section_ref": "§ 16"
-    },
-    {
-      "uuid": "d3058977-c0c8-49f5-9ebf-3bd5b4d55f06",
-      "question": "Jakie zapisy urządzeń rejestrujących komisja kolejowa zleca odczytać w szczególności?",
-      "answers": {
-        "A": "Wyłącznie zapisy rejestratorów jazdy pojazdów kolejowych",
-        "B": "Zapisy rejestratorów na pojeździe kolejowym, urządzeń rejestrujących stany awaryjne, stany urządzeń sterowania ruchem, czynności pracowników i prowadzone rozmowy, a także zapisy z systemów telewizji przemysłowej i użytkowej",
-        "C": "Zapisy rejestratorów jazdy i dokumentów przewozowych w formie elektronicznej",
-        "D": "Zapisy urządzeń sterowania ruchem i systemów łączności dyspozytorskiej"
+        "C": "Inspektor z Urzędu Transportu Kolejowego wskazany przez komisję, w obecności co najmniej jednego przedstawiciela strony, której urządzenie dotyczy",
+        "D": "Pracownik Policji lub Straży Ochrony Kolei obecny na miejscu zdarzenia, w asyście wyznaczonego pracownika zarządcy infrastruktury lub przewoźnika"
       },
       "correct": "B",
       "explanation": "Ir-8 § 16 ust. 1 pkt 8",
@@ -681,10 +668,10 @@
       "uuid": "aa8d658e-45f5-4de2-88f9-3129057998a5",
       "question": "Jakie parametry techniczne pojazdu kolejowego komisja kolejowa mierzy wstępnie na miejscu zdarzenia?",
       "answers": {
-        "A": "Masę pojazdu i rozstaw osi",
+        "A": "Masę pojazdu, rozstaw osi oraz stan połączeń między pojazdami kolejowymi przed zdarzeniem i po nim",
         "B": "Parametry profilu okręgu tocznego kół pojazdu, stan i położenie maźnic oraz wideł maźniczych i resorów",
-        "C": "Ciśnienie w układzie hamulcowym i stan okładzin hamulcowych",
-        "D": "Wymiary skrajni pojazdu i grubość obrzeży kół"
+        "C": "Ciśnienie w układzie hamulcowym, stan okładzin hamulcowych i prawidłowość funkcjonowania systemu hamowania pojazdu",
+        "D": "Wymiary skrajni pojazdu, grubość obrzeży kół oraz stan nawierzchni kolejowej w miejscu zdarzenia"
       },
       "correct": "B",
       "explanation": "Ir-8 § 16 ust. 1 pkt 12",
@@ -694,10 +681,10 @@
       "uuid": "06d8d9fa-925a-44d8-8d95-191a112c8a46",
       "question": "Co komisja kolejowa określa w przypadku przewozu towarów na miejscu zdarzenia?",
       "answers": {
-        "A": "Wartość towaru i wysokość ubezpieczenia przesyłki",
+        "A": "Wartość towaru, wysokość ubezpieczenia przesyłki oraz stan opakowania pod kątem ewentualnych uszkodzeń powstałych w wyniku zdarzenia",
         "B": "Rodzaj przesyłki, sposób jej opakowania i zabezpieczenia, nadawcę przesyłki oraz ewentualną obecność konwojenta",
-        "C": "Liczbę wagonów towarowych i ich numery seryjne",
-        "D": "Kategorię niebezpieczeństwa towaru i wymagane dokumenty przewozowe"
+        "C": "Liczbę wagonów towarowych, ich numery seryjne oraz rozmieszczenie w składzie pociągu biorącego udział w zdarzeniu",
+        "D": "Kategorię niebezpieczeństwa towaru, wymagane dokumenty przewozowe i instrukcje postępowania w razie wypadku"
       },
       "correct": "B",
       "explanation": "Ir-8 § 16 ust. 1 pkt 13",
@@ -707,10 +694,10 @@
       "uuid": "7abc591c-c458-4ef0-a3f9-60155be78f91",
       "question": "Od kogo komisja kolejowa może żądać sporządzenia protokołu ustalenia stanu hamulców w pociągu lub składzie manewrowym?",
       "answers": {
-        "A": "Od producenta pojazdów kolejowych lub autoryzowanego serwisu",
-        "B": "Od Urzędu Transportu Kolejowego lub właściwego organu nadzoru",
+        "A": "Od producenta pojazdów kolejowych lub autoryzowanego serwisu wskazanego przez zarządcę infrastruktury albo przewoźnika kolejowego",
+        "B": "Od Urzędu Transportu Kolejowego lub właściwego organu nadzoru nad bezpieczeństwem ruchu kolejowego działającego na podstawie przepisów prawa",
         "C": "Od przewoźnika kolejowego, użytkownika bocznicy kolejowej lub zarządcy infrastruktury wykonującego przewozy technologiczne dla potrzeb własnych",
-        "D": "Od dyżurnego ruchu lub nastawniczego odpowiedzialnego za dany szlak"
+        "D": "Od dyżurnego ruchu lub nastawniczego odpowiedzialnego za dany szlak, jako osób bezpośrednio nadzorujących ruch w chwili zdarzenia"
       },
       "correct": "C",
       "explanation": "Ir-8 § 16 ust. 2",
@@ -756,110 +743,6 @@
       "section_ref": "§ 17"
     },
     {
-      "uuid": "e913c3b3-8b60-4f09-855d-fe3cc14fcecc",
-      "question": "Gdzie przeprowadzane są kontrolne badania lekarskie pracowników zatrudnionych na stanowiskach związanych z prowadzeniem i bezpieczeństwem ruchu kolejowego, którzy mogli przyczynić się do zdarzenia?",
-      "answers": {
-        "A": "W zakładowym gabinecie lekarskim na podstawie skierowania komisji kolejowej",
-        "B": "W szpitalu kolejowym wskazanym przez przewodniczącego komisji",
-        "C": "We właściwych terenowo kolejowych ośrodkach medycyny pracy na podstawie skierowania wydanego przez pracodawcę",
-        "D": "W Centrum Naukowym Medycyny Kolejowej na podstawie skierowania wydanego przez komisję kolejową"
-      },
-      "correct": "C",
-      "explanation": "Ir-8 § 17 ust. 2 pkt 1",
-      "section_ref": "§ 17"
-    },
-    {
-      "uuid": "6a43cc42-751e-4adf-b53c-052a53a222b6",
-      "question": "Gdzie przeprowadzane są powypadkowe badania psychologiczne pracowników związanych ze zdarzeniem kolejowym?",
-      "answers": {
-        "A": "W zakładowej przychodni psychologicznej właściwej dla miejsca zamieszkania pracownika",
-        "B": "W Samodzielnej Pracowni Psychologii Pracy Centrum Naukowego Medycyny Kolejowej",
-        "C": "We właściwych terenowo kolejowych ośrodkach medycyny pracy",
-        "D": "W szpitalu wskazanym przez Policję prowadzącą dochodzenie"
-      },
-      "correct": "B",
-      "explanation": "Ir-8 § 17 ust. 2 pkt 1",
-      "section_ref": "§ 17"
-    },
-    {
-      "uuid": "8546deef-29da-4a6e-9df9-96aa49dd6820",
-      "question": "Jaka jest minimalna długość odcinka toru przed i za miejscem wykolejenia, na którym należy wykonać pomiar szerokości i przechyłki toru bez obciążenia (gdy tor nie został zniszczony)?",
-      "answers": {
-        "A": "Co najmniej 50 m przed i za miejscem wykolejenia",
-        "B": "Co najmniej 75 m przed i za miejscem wykolejenia",
-        "C": "Co najmniej 100 m przed i za miejscem wykolejenia",
-        "D": "Co najmniej 200 m przed i za miejscem wykolejenia"
-      },
-      "correct": "C",
-      "explanation": "Ir-8 § 17 ust. 2 pkt 10",
-      "section_ref": "§ 17"
-    },
-    {
-      "uuid": "18c3437e-da3d-40ad-98ae-caa5c84f95a5",
-      "question": "Co jaki odstęp wykonuje się pomiar szerokości i przechyłki toru bez obciążenia na łukach o promieniu R≤300 m w miejscu wykolejenia?",
-      "answers": {
-        "A": "Co 1 m",
-        "B": "Co 2,5 m",
-        "C": "Co 5 m",
-        "D": "Co 10 m"
-      },
-      "correct": "B",
-      "explanation": "Ir-8 § 17 ust. 2 pkt 10",
-      "section_ref": "§ 17"
-    },
-    {
-      "uuid": "0cd997f4-a380-4335-8ec8-65d74b8c7a1f",
-      "question": "Kto sporządza dokładny szkic miejsca zdarzenia kolejowego?",
-      "answers": {
-        "A": "Przewodniczący komisji kolejowej",
-        "B": "Wyznaczony przez komisję kolejową pracownik zarządcy infrastruktury",
-        "C": "Przedstawiciel zarządcy infrastruktury na wniosek komisji kolejowej i przy jej udziale",
-        "D": "Przedstawiciel Urzędu Transportu Kolejowego na wniosek komisji kolejowej"
-      },
-      "correct": "C",
-      "explanation": "Ir-8 § 17 ust. 4",
-      "section_ref": "§ 17"
-    },
-    {
-      "uuid": "9b6d6e38-fca9-4995-8c9d-46d93fccb0e0",
-      "question": "Co w szczególności należy wskazać na szkicu miejsca zdarzenia kolejowego?",
-      "answers": {
-        "A": "Tylko rozkład jazdy pociągów i dane tachografów",
-        "B": "Układ i numery torów, usytuowanie i położenie sygnalizatorów, wskaźników, zwrotnic, wykolejnic, budynków nastawni, pojazdów kolejowych z kierunkiem jazdy oraz śladów zdarzenia",
-        "C": "Wyłącznie dane o pojazdach kolejowych biorących udział w zdarzeniu i dane osobowe maszynistów",
-        "D": "Stan nawierzchni drogi i dane meteorologiczne z chwili zdarzenia"
-      },
-      "correct": "B",
-      "explanation": "Ir-8 § 17 ust. 5",
-      "section_ref": "§ 17"
-    },
-    {
-      "uuid": "b7bf75f0-c6f8-4097-9be2-2c098cfd304d",
-      "question": "Co należy wykonać, gdy wypadek lub incydent został spowodowany urwaniem się części pojazdu kolejowego lub uszkodzeniem elementów nawierzchni?",
-      "answers": {
-        "A": "Sporządzić protokół na wzorze z Załącznika nr 5 oraz zabezpieczyć urwaną część",
-        "B": "Wykonać fotografię i szkic przekroju urwanej, złamanej lub pękniętej części z uwidocznieniem rodzaju i rozmiaru uszkodzenia oraz struktury materiału",
-        "C": "Zlecić analizę metalograficzną w laboratorium kolejowym i dołączyć wyniki do akt",
-        "D": "Wykonać pomiary geometryczne uszkodzonego elementu i zestawić je z normami technicznymi"
-      },
-      "correct": "B",
-      "explanation": "Ir-8 § 17 ust. 7",
-      "section_ref": "§ 17"
-    },
-    {
-      "uuid": "50530fe6-30dd-46fd-880c-3de4b26922ad",
-      "question": "Jakie działanie należy podjąć przy stwierdzeniu nierównomiernego rozmieszczenia ładunku na wagonie?",
-      "answers": {
-        "A": "Sporządzić opis słowny rozmieszczenia ładunku i dołączyć go do protokołu komisji",
-        "B": "Dokonać pomiarów obciążenia osi, wózków i kół w celu udokumentowania przekroczenia dopuszczalnych granic obciążeń",
-        "C": "Zważyć cały wagon z ładunkiem na najbliższej wadze kolejowej",
-        "D": "Wykazać procentowe odchylenie rozmieszczenia ładunku od norm określonych w przepisach o ładunkach"
-      },
-      "correct": "B",
-      "explanation": "Ir-8 § 17 ust. 8 pkt 1",
-      "section_ref": "§ 17"
-    },
-    {
       "uuid": "e7bbea3d-0549-47f1-8a90-5779bb1b7eea",
       "question": "Jaką decyzję podejmuje przewodniczący komisji kolejowej w przypadku przypuszczenia, że jedną z przyczyn zdarzenia było nieprawidłowe działanie urządzeń sterowania ruchem kolejowym?",
       "answers": {
@@ -870,32 +753,6 @@
       },
       "correct": "B",
       "explanation": "Ir-8 § 17 ust. 2 pkt 6",
-      "section_ref": "§ 17"
-    },
-    {
-      "uuid": "cca9d948-6d04-4e0d-a811-f740db0dfad8",
-      "question": "Czy wagony ładowne, co do których istnieje podejrzenie, że sposób ich załadowania mógł być przyczyną zdarzenia, powinny być przemieszczane przed oględzinami?",
-      "answers": {
-        "A": "Tak, należy je niezwłocznie przestawić na tor boczny, aby odblokować linię",
-        "B": "Tak, ale tylko za zgodą przewodniczącego komisji kolejowej",
-        "C": "Nie powinny być przemieszczane przed dokonaniem oględzin przez przedstawiciela przewoźnika",
-        "D": "Nie powinny być przemieszczane przed uzyskaniem zgody Urzędu Transportu Kolejowego"
-      },
-      "correct": "C",
-      "explanation": "Ir-8 § 17 ust. 8",
-      "section_ref": "§ 17"
-    },
-    {
-      "uuid": "9d43f29d-6378-4f67-ace7-dec2c6b21263",
-      "question": "Kto zleca odczytanie, opisanie i zabezpieczenie zapisów urządzeń rejestrujących po wypadku lub incydencie kolejowym?",
-      "answers": {
-        "A": "Przewodniczący komisji kolejowej zleca te czynności wyznaczonym pracownikom posiadającym wymagane kompetencje i niezbędne oprzyrządowanie",
-        "B": "Dyżurny ruchu zleca te czynności pracownikom zarządcy infrastruktury posiadającym odpowiednie uprawnienia służbowe",
-        "C": "Kierownik zakładu zleca te czynności pracownikom działu technicznego posiadającym stosowne upoważnienie",
-        "D": "Przedstawiciel Policji zleca te czynności biegłym sądowym posiadającym odpowiednie kwalifikacje zawodowe"
-      },
-      "correct": "A",
-      "explanation": "Ir-8 § 17 ust. 2 pkt 2",
       "section_ref": "§ 17"
     },
     {
@@ -1046,7 +903,7 @@
       "question": "Kogo komisja kolejowa ma obowiązek niezwłocznie poddać badaniu na zawartość alkoholu w organizmie?",
       "answers": {
         "A": "Wyłącznie maszynistę prowadzącego pojazd trakcyjny",
-        "B": "Pracowników mających bezpośredni związek z powstaniem zdarzenia",
+        "B": "Pracowników mających związek z powstałym zdarzeniem",
         "C": "Wszystkich pracowników obecnych na miejscu zdarzenia",
         "D": "Wyłącznie pracowników zatrudnionych na stanowiskach kierowniczych"
       },
@@ -1120,26 +977,13 @@
       "section_ref": "§ 17"
     },
     {
-      "uuid": "bff502bb-b9db-430f-80a6-eb1ab1a52a2b",
-      "question": "Na jakiej długości przed i za miejscem wykolejenia wykonuje się pomiar szerokości i przechyłki toru bez obciążenia?",
-      "answers": {
-        "A": "Co najmniej 50 m przed i 20 m za miejscem wykolejenia",
-        "B": "Co najmniej 100 m przed i za miejscem wykolejenia",
-        "C": "Co najmniej 200 m przed i za miejscem wykolejenia",
-        "D": "Co najmniej 75 m przed i za miejscem wykolejenia"
-      },
-      "correct": "B",
-      "explanation": "Ir-8 § 17 ust. 2 pkt 10",
-      "section_ref": "§ 17"
-    },
-    {
       "uuid": "b9363339-294e-4051-b3ff-b8e9a5453f2f",
       "question": "Co umieszcza się na szkicu miejsca zdarzenia sporządzanym przez przedstawiciela zarządcy infrastruktury?",
       "answers": {
-        "A": "Wyłącznie układ i numery torów oraz rozmieszczenie pojazdów kolejowych",
+        "A": "Wyłącznie układ i numery torów oraz sygnalizatory, bez wskazania kierunku jazdy pojazdów i śladów zdarzenia",
         "B": "Kilometraż, układ i numery torów, sygnalizatory, wskaźniki, zwrotnice, wykolejnice, budynki nastawni i inne posterunki techniczne, pojazdy kolejowe z kierunkiem jazdy oraz ślady zdarzenia",
-        "C": "Kilometraż, dane meteorologiczne oraz rozmieszczenie pracowników w chwili zdarzenia",
-        "D": "Numery torów, nazwy stacji oraz dane osobowe pracowników pełniących dyżur"
+        "C": "Kilometraż, dane meteorologiczne, warunki atmosferyczne oraz rozmieszczenie pracowników z podziałem na stanowiska w chwili zdarzenia",
+        "D": "Numery torów, nazwy i kilometraż stacji, dane pracowników pełniących dyżur oraz wyniki ostatnich przeglądów technicznych urządzeń srk"
       },
       "correct": "B",
       "explanation": "Ir-8 § 17 ust. 5",
@@ -1224,32 +1068,6 @@
       "section_ref": "§ 17"
     },
     {
-      "uuid": "a7ec4332-aecf-4532-ae33-d0b00d020fb6",
-      "question": "Gdzie przeprowadzane są powypadkowe badania psychologiczne pracowników związanych z prowadzeniem i bezpieczeństwem ruchu kolejowego?",
-      "answers": {
-        "A": "We właściwych terenowo kolejowych ośrodkach medycyny pracy",
-        "B": "W Samodzielnej Pracowni Psychologii Pracy Centrum Naukowego Medycyny Kolejowej",
-        "C": "W zakładowych gabinetach psychologicznych wskazanych przez pracodawcę",
-        "D": "W placówkach wskazanych przez komisję kolejową"
-      },
-      "correct": "B",
-      "explanation": "Ir-8 § 17 ust. 2 pkt 1",
-      "section_ref": "§ 17"
-    },
-    {
-      "uuid": "b74a4df6-b2ce-412a-af78-ee28e4040d8a",
-      "question": "Kto zleca odczytanie, opisanie i zabezpieczenie zapisów urządzeń rejestrujących po wypadku lub incydencie?",
-      "answers": {
-        "A": "Przewodniczący komisji kolejowej",
-        "B": "Zarządca infrastruktury kolejowej",
-        "C": "Komisja kolejowa",
-        "D": "Pracodawca użytkujący urządzenia rejestrujące"
-      },
-      "correct": "C",
-      "explanation": "Ir-8 § 17 ust. 2 pkt 2",
-      "section_ref": "§ 17"
-    },
-    {
       "uuid": "156c5ca5-6940-4b99-9927-a167560bf848",
       "question": "W ilu miejscach należy wykonywać pomiary pojazdu trakcyjnego podczas badania okoliczności wykolejenia?",
       "answers": {
@@ -1289,26 +1107,13 @@
       "section_ref": "§ 17"
     },
     {
-      "uuid": "7381caa2-45f9-4962-ae8e-00ffdb124424",
-      "question": "Co powinno być wskazane na szkicu miejsca zdarzenia?",
-      "answers": {
-        "A": "Wyłącznie układ torów i położenie sygnalizatorów",
-        "B": "Kilometraż oraz dane istotne dla ustalenia przyczyn zdarzenia, w tym układ i numery torów, sygnalizatory, wskaźniki, zwrotnice, wykolejnice, budynki nastawni oraz pojazdy kolejowe z kierunkiem jazdy i ślady zdarzenia",
-        "C": "Kilometraż, prędkość pociągu i dane pracowników odpowiedzialnych za zdarzenie",
-        "D": "Rozmieszczenie pojazdów kolejowych i stan połączenia wagonów po zdarzeniu"
-      },
-      "correct": "B",
-      "explanation": "Ir-8 § 17 ust. 5",
-      "section_ref": "§ 17"
-    },
-    {
       "uuid": "4c79da4e-1215-420a-86f0-90d8b238d407",
       "question": "Co należy wykonać, jeżeli wypadek został spowodowany urwaniem się części pojazdu kolejowego lub uszkodzeniem elementów nawierzchni?",
       "answers": {
-        "A": "Protokół ze szczegółowym opisem usterki podpisany przez komisję kolejową",
+        "A": "Protokół ze szczegółowym opisem usterki, zawierający datę, miejsce i okoliczności uszkodzenia, podpisany przez wszystkich członków komisji kolejowej",
         "B": "Fotografię oraz szkic przekroju urwanej, złamanej lub pękniętej części z uwidocznieniem rodzaju i rozmiaru uszkodzenia oraz struktury materiału",
-        "C": "Ekspertyzę laboratoryjną zleconą wyznaczonym pracownikom",
-        "D": "Pomiar parametrów geometrycznych uszkodzonego elementu w miejscu zdarzenia"
+        "C": "Ekspertyzę laboratoryjną zleconą przez komisję kolejową wyznaczonym pracownikom posiadającym wymagane kompetencje i oprzyrządowanie pomiarowe",
+        "D": "Pomiar parametrów geometrycznych uszkodzonego elementu w miejscu zdarzenia oraz porównanie wyników z dopuszczalnymi wartościami granicznymi określonymi w dokumentacji"
       },
       "correct": "B",
       "explanation": "Ir-8 § 17 ust. 7",
@@ -1344,10 +1149,10 @@
       "uuid": "85037a3d-e1c7-4c6b-b394-d21c448b5db6",
       "question": "Co komisja kolejowa sporządza po dokonaniu wstępnej analizy wypadku na podstawie zebranego materiału dowodowego?",
       "answers": {
-        "A": "Protokół ustaleń końcowych zawierający wnioski i zalecenia bezpieczeństwa",
+        "A": "Protokół ustaleń końcowych zawierający wnioski i zalecenia bezpieczeństwa, sporządzany po zakończeniu wszystkich wysłuchań pracowników kolejowych i czynności wyjaśniających",
         "B": "Pisemny plan prowadzenia dalszego postępowania zawierający w szczególności wstępną hipotezę przyczyn, plan wysłuchań oraz plan czynności wyjaśniających",
-        "C": "Sprawozdanie z oględzin miejsca wypadku przekazywane niezwłocznie Prezesowi UTK",
-        "D": "Raport tymczasowy opisujący przebieg wypadku i wstępne ustalenia dotyczące strat materialnych"
+        "C": "Sprawozdanie z dotychczasowych oględzin i badań miejsca wypadku, zawierające opis zebranego materiału dowodowego i wstępne wnioski komisji kolejowej",
+        "D": "Raport tymczasowy opisujący przebieg wypadku, wstępne ustalenia dotyczące jego przyczyn oraz wykaz czynności przeprowadzonych przez komisję kolejową"
       },
       "correct": "B",
       "explanation": "Ir-8 § 19 ust. 1",
@@ -1370,10 +1175,10 @@
       "uuid": "4b0698ce-8232-4889-bb88-aae898b631fd",
       "question": "W jakim przypadku można odstąpić od sporządzenia planu prowadzenia dalszego postępowania w sprawie wypadku?",
       "answers": {
-        "A": "Gdy wypadek nie spowodował ofiar śmiertelnych ani poważnych obrażeń ciała u pasażerów",
+        "A": "Gdy wypadek nie spowodował ofiar śmiertelnych ani poważnych obrażeń ciała u pasażerów i nie powstały istotne straty w infrastrukturze kolejowej",
         "B": "Gdy zebrany materiał dowodowy w wystarczający sposób wskazuje na przebieg i przyczyny wypadku oraz umożliwia przygotowanie protokołu ustaleń końcowych",
-        "C": "Gdy postępowanie trwa dłużej niż 30 dni od daty wypadku i nie ustalono nowych okoliczności",
-        "D": "Gdy wszyscy pracownicy kolejowi mający związek z wypadkiem zostali już wysłuchani"
+        "C": "Gdy postępowanie trwa dłużej niż 30 dni od daty wypadku, nie ustalono nowych okoliczności i komisja kolejowa podjęła decyzję o zakończeniu czynności wyjaśniających",
+        "D": "Gdy wszyscy pracownicy kolejowi mający związek z wypadkiem zostali już wysłuchani i złożyli pisemne oświadczenia potwierdzające okoliczności zdarzenia"
       },
       "correct": "B",
       "explanation": "Ir-8 § 19 ust. 2",
@@ -1383,10 +1188,10 @@
       "uuid": "ccc84699-ee64-4ed4-81b3-8e25efa06a7e",
       "question": "Kto może zarządzić wykonanie badań budowli, urządzeń i pojazdów kolejowych po wypadku lub incydencie?",
       "answers": {
-        "A": "Przewodniczący komisji kolejowej, działając samodzielnie bez konsultacji z członkami",
+        "A": "Przewodniczący komisji kolejowej, działając samodzielnie, w zakresie określonym w przepisach wewnętrznych zarządcy infrastruktury, przewoźnika kolejowego lub użytkownika bocznicy kolejowej",
         "B": "Komisja kolejowa, w zakresie określonym w przepisach wewnętrznych zarządcy infrastruktury, przewoźnika kolejowego lub użytkownika bocznicy kolejowej",
-        "C": "Właściwy organ nadzoru nad transportem kolejowym, na wniosek stron wypadku",
-        "D": "Jednostka notyfikowana wskazana przez zarządcę infrastruktury kolejowej"
+        "C": "Właściwy organ nadzoru nad transportem kolejowym, w zakresie określonym w przepisach wewnętrznych zarządcy infrastruktury, przewoźnika kolejowego lub użytkownika bocznicy kolejowej, na wniosek stron wypadku",
+        "D": "Jednostka notyfikowana wskazana przez zarządcę infrastruktury kolejowej, w zakresie określonym w przepisach wewnętrznych zarządcy infrastruktury, przewoźnika kolejowego lub użytkownika bocznicy kolejowej"
       },
       "correct": "B",
       "explanation": "Ir-8 § 20 ust. 1",
@@ -1539,10 +1344,10 @@
       "uuid": "2c95700e-9382-4daf-b764-0b104a8f393a",
       "question": "Z czym są związane przyczyny systemowe wypadku lub incydentu kolejowego?",
       "answers": {
-        "A": "Z nienależytym utrzymaniem infrastruktury i pojazdów kolejowych oraz usterkami konstrukcyjnymi",
-        "B": "Z niedostatecznymi kwalifikacjami lub błędami pracowników oraz nieodpowiednimi cechami osobowymi",
+        "A": "Z nienależytym utrzymaniem infrastruktury i pojazdów kolejowych oraz usterkami konstrukcyjnymi lub montażowymi i wadami materiałowymi elementów tych obiektów",
+        "B": "Z niedostatecznymi kwalifikacjami lub błędami pracowników polegającymi na nieprzestrzeganiu obowiązujących przepisów wskutek ich nieznajomości, niedbalstwa, omyłki lub lekkomyślności",
         "C": "Ze stosowaniem uregulowań prawnych, systemu zarządzania bezpieczeństwem, systemów zarządzania utrzymaniem lub przepisów wewnętrznych podmiotów uczestniczących w zdarzeniu",
-        "D": "Z nieprzestrzeganiem obowiązujących przepisów przez pasażerów i osoby nieuprawnione"
+        "D": "Z nieprzestrzeganiem obowiązujących przepisów przez pasażerów, osoby nieuprawnione, użytkowników przejazdów kolejowo-drogowych oraz inne osoby przebywające w miejscach niedozwolonych"
       },
       "correct": "C",
       "explanation": "Ir-8 § 22 ust. 1 pkt 4",
@@ -1852,9 +1657,9 @@
       "question": "Jakie dokumenty stanowiące wyciągi lub kopie należy włączyć do akt postępowania?",
       "answers": {
         "A": "Wyciągi z dzienników ruchu, książek ostrzeżeń doraźnych, książek kontroli urządzeń srk, dzienników oględzin rozjazdów",
-        "B": "Wyciągi z planów działań komisji kolejowej i raportów z jazdy",
-        "C": "Wyciągi z kosztorysów strat i decyzji administracyjnych",
-        "D": "Wyciągi z protokołów konfrontacji i wizji lokalnych"
+        "B": "Wyciągi z planów działań komisji kolejowej, raportów z jazdy, kart próby hamulca i rozkazów pisemnych",
+        "C": "Wyciągi z kosztorysów strat spowodowanych zdarzeniem, decyzji administracyjnych i dokumentów do ich uzyskania",
+        "D": "Wyciągi z protokołów konfrontacji, wizji lokalnych, oględzin urządzeń, prób i doświadczeń oraz ekspertyz"
       },
       "correct": "A",
       "explanation": "Ir-8 § 28 ust. 1 pkt 10",
@@ -2082,19 +1887,6 @@
       "section_ref": "§ 2"
     },
     {
-      "uuid": "9978e565-c541-4d7d-8874-bc2a4fffbb1f",
-      "question": "Jaki minimalny próg finansowy kwalifikuje wypadek jako poważny wypadek ze względu na zniszczenie mienia?",
-      "answers": {
-        "A": "150 tysięcy euro",
-        "B": "3 tysiące euro",
-        "C": "2 miliony euro",
-        "D": "500 tysięcy euro"
-      },
-      "correct": "C",
-      "explanation": "Ir-8 § 2 ust. 7 pkt 2",
-      "section_ref": "§ 2"
-    },
-    {
       "uuid": "7daf4fd4-dfa7-4f30-81a1-137fed58b806",
       "question": "Ile godzin musi trwać wstrzymanie ruchu kolejowego na głównej linii, aby wypadek zakwalifikować jako znaczący wypadek ze względu na zakłócenie ruchu?",
       "answers": {
@@ -2137,10 +1929,10 @@
       "uuid": "df14c484-77d8-4099-a5f1-a57ad4e47332",
       "question": "Kogo zalicza się do pasażerów w statystykach zdarzeń kolejowych?",
       "answers": {
-        "A": "Każdą osobę odbywającą podróż koleją wraz z obsadą pociągu",
+        "A": "Każdą osobę odbywającą podróż koleją, w tym obsadę pociągu, a także osoby usiłujące wsiąść do lub wysiąść z pociągu będącego w ruchu",
         "B": "Każdą osobę, z wyłączeniem obsady pociągu, odbywającą podróż koleją, a także osoby usiłujące wsiąść do lub wysiąść z pociągu będącego w ruchu",
-        "C": "Wyłącznie osoby posiadające ważny bilet kolejowy",
-        "D": "Każdą osobę znajdującą się na obszarze kolejowym w chwili zdarzenia"
+        "C": "Wyłącznie osoby posiadające ważny bilet kolejowy lub inny dokument uprawniający do przejazdu, przebywające w pociągu lub usiłujące wsiąść do pociągu będącego w ruchu",
+        "D": "Każdą osobę znajdującą się na obszarze kolejowym w chwili zdarzenia, z wyłączeniem pracowników zarządcy infrastruktury i personelu obsługi pociągu oraz użytkowników przejazdów"
       },
       "correct": "B",
       "explanation": "Ir-8 § 2 ust. 33",
@@ -2203,7 +1995,7 @@
       "question": "Kto pełni funkcję dyżurnego ruchu?",
       "answers": {
         "A": "Pracownik zarządcy infrastruktury regulujący i koordynujący całokształt pracy związanej z ruchem kolejowym w obrębie wyznaczonego obszaru linii kolejowej",
-        "B": "Pracownik zarządcy infrastruktury odpowiedzialny za bezpieczne prowadzenie ruchu kolejowego na posterunku zapowiadawczym i przyległych szlakach",
+        "B": "Pracownik zarządcy infrastruktury odpowiedzialny za bezpieczne prowadzenie ruchu kolejowego na posterunku zapowiadawczym (następczym) i przyległych szlakach (odstępach)",
         "C": "Osoba lub zespół osób prowadzących postępowanie w sprawie wypadku lub incydentu kolejowego",
         "D": "Osoba będąca przedstawicielem zarządcy infrastruktury kierująca akcją ratowniczą do czasu usunięcia skutków zdarzenia"
       },
@@ -2293,10 +2085,10 @@
       "uuid": "1880d4ed-d9ed-4ad6-9899-4acdc60ba8d8",
       "question": "Kto wchodzi w skład zespołu ustalającego straty po zdarzeniu kolejowym?",
       "answers": {
-        "A": "Wyłącznie pracownicy Dyrekcji Generalnej PKP PLK S.A.",
+        "A": "Wyłącznie pracownicy Dyrekcji Generalnej PKP PLK S.A. posiadający upoważnienie Prezesa Zarządu do reprezentowania spółki w postępowaniach wyjaśniających",
         "B": "Upoważnieni przedstawiciele właściwego terytorialnie zakładu linii kolejowych oraz innych jednostek organizacyjnych biorących udział w transporcie kolejowym",
-        "C": "Wyłącznie pracownicy zakładu linii kolejowych właściwego dla miejsca zdarzenia",
-        "D": "Przedstawiciele Urzędu Transportu Kolejowego oraz właściwego zakładu linii kolejowych"
+        "C": "Wyłącznie pracownicy zakładu linii kolejowych właściwego dla miejsca zdarzenia, wskazani imiennie przez dyrektora zakładu w zarządzeniu o powołaniu komisji",
+        "D": "Przedstawiciele Urzędu Transportu Kolejowego oraz właściwego zakładu linii kolejowych, powoływani decyzją Prezesa UTK na wniosek zarządcy infrastruktury"
       },
       "correct": "B",
       "explanation": "Ir-8 § 30 ust. 2",
@@ -2306,10 +2098,10 @@
       "uuid": "c1a9aea6-4b16-4957-81d1-38fd0ae62772",
       "question": "W jakich okolicznościach do składu zespołu ustalającego straty mogą być powołani reprezentanci ubezpieczyciela?",
       "answers": {
-        "A": "Gdy zdarzenie dotyczy pociągu pasażerskiego",
-        "B": "Gdy wartość strat przekracza 100 000 zł",
+        "A": "Gdy zdarzenie dotyczy pociągu pasażerskiego przewożącego powyżej liczby osób określonej w umowie ubezpieczenia odpowiedzialności cywilnej PKP PLK S.A.",
+        "B": "Gdy wartość strat zostanie wyceniona przez komisję kolejową na kwotę przekraczającą limity odpowiedzialności określone w umowie ubezpieczenia PKP PLK S.A.",
         "C": "Gdy może nastąpić przekroczenie udziałów własnych (franszyz redukcyjnych) zawartych w umowach ubezpieczenia odpowiedzialności cywilnej PKP PLK S.A.",
-        "D": "Gdy zdarzenie nastąpiło z winy pracownika jednostki zewnętrznej"
+        "D": "Gdy zdarzenie nastąpiło z winy pracownika zewnętrznego podmiotu posiadającego odrębną polisę ubezpieczenia odpowiedzialności cywilnej wobec PKP PLK S.A."
       },
       "correct": "C",
       "explanation": "Ir-8 § 30 ust. 3",
@@ -2358,10 +2150,10 @@
       "uuid": "3298b5fe-dedd-4166-9bac-ed4f784f7ecd",
       "question": "Jakie służby dyżurny ruchu jest zobowiązany wezwać po otrzymaniu zgłoszenia o wydarzeniu kolejowym?",
       "answers": {
-        "A": "Wyłącznie Pogotowie Ratunkowe i Państwową Straż Pożarną",
+        "A": "Wyłącznie Pogotowie Ratunkowe i Państwową Straż Pożarną, bezpośrednio lub za pośrednictwem dyspozytora w zakładzie linii kolejowych",
         "B": "Pogotowie Ratunkowe, Państwową Straż Pożarną, Policję, Straż Ochrony Kolei oraz inne służby ratowniczo-techniczne – stosownie do potrzeb",
-        "C": "Pogotowie Ratunkowe, Policję oraz jednostki naprawcze kolejowe",
-        "D": "Straż Ochrony Kolei, dyspozytora liniowego oraz naczelnika sekcji eksploatacji"
+        "C": "Pogotowie Ratunkowe, Policję oraz jednostki naprawcze lub ratownictwa technicznego, bezpośrednio lub za pośrednictwem dyspozytora w zakładzie linii kolejowych",
+        "D": "Straż Ochrony Kolei, dyspozytora liniowego oraz naczelnika sekcji eksploatacji i inne służby ratowniczo-techniczne stosownie do rodzaju zdarzenia"
       },
       "correct": "B",
       "explanation": "Ir-8 § 32 ust. 1 pkt 1",
@@ -2371,10 +2163,10 @@
       "uuid": "2966628b-a82d-48af-b2b7-328df264fd67",
       "question": "Komu dyżurny ruchu jest zobowiązany niezwłocznie zgłosić wydarzenie kolejowe?",
       "answers": {
-        "A": "Wyłącznie dyspozytorowi liniowemu i Policji",
+        "A": "Wyłącznie dyspozytorowi liniowemu i Policji, z odnotowaniem zgłoszeń w Dzienniku telefonicznym (R-138)",
         "B": "Właściwemu dyspozytorowi liniowemu, wyznaczonemu naczelnikowi sekcji eksploatacji oraz dyspozytorowi w zakładzie linii kolejowych",
-        "C": "Dyżurującemu Dyrektorowi Zakładu Linii Kolejowych i dyspozytorowi liniowemu",
-        "D": "Naczelnikowi sekcji eksploatacji i Straży Ochrony Kolei"
+        "C": "Dyżurującemu Dyrektorowi Zakładu Linii Kolejowych i dyspozytorowi liniowemu oraz wyznaczonemu naczelnikowi sekcji eksploatacji",
+        "D": "Naczelnikowi sekcji eksploatacji i Straży Ochrony Kolei, a następnie dyspozytorowi w zakładzie linii kolejowych i dyspozytorowi liniowemu"
       },
       "correct": "B",
       "explanation": "Ir-8 § 32 ust. 1 pkt 2",
@@ -2462,10 +2254,10 @@
       "uuid": "307624f6-44f9-4085-ad01-a1b0be57ef87",
       "question": "Które z poniższych działań stanowi sytuację potencjalnie niebezpieczną w kategorii złośliwych lub chuligańskich działań?",
       "answers": {
-        "A": "Uszkodzenie pojazdu trakcyjnego wymagające jego wyłączenia z eksploatacji",
-        "B": "Usterka w taborze stwierdzona podczas postoju pociągu",
-        "C": "Obrzucenie kamieniami obiektów lub pojazdów kolejowych niestanowiące zagrożenia dla życia lub zdrowia prowadzącego pojazd",
-        "D": "Nieprawidłowe działanie elementów infrastruktury kolejowej"
+        "A": "Uszkodzenie pojazdu trakcyjnego powodujące konieczność jego naprawy lub wyłączenia z eksploatacji, w tym defekty i naprawy pojazdów trakcyjnych",
+        "B": "Usterka w taborze stwierdzona podczas postoju pociągu powodująca konieczność wymiany lub naprawy pojazdu kolejowego",
+        "C": "Obrzucenie kamieniami obiektów lub pojazdów kolejowych niestanowiące zagrożenia dla życia lub zdrowia prowadzącego pojazd kolejowy",
+        "D": "Nieprawidłowe działanie elementów infrastruktury kolejowej powodujące konieczność wyłączenia urządzeń z eksploatacji"
       },
       "correct": "C",
       "explanation": "Ir-8 § 33 ust. 1 pkt 7",
@@ -2709,10 +2501,10 @@
       "uuid": "19fc6959-5f20-4294-8460-7e66830833e5",
       "question": "Kto jest uprawniony do ostatecznego ustalenia strat powstałych w wyniku sytuacji potencjalnie niebezpiecznej?",
       "answers": {
-        "A": "Dyrektor Generalny PKP PLK S.A.",
+        "A": "Dyrektor Generalny PKP PLK S.A. w porozumieniu z kierownikami jednostek organizacyjnych biorących udział w transporcie kolejowym na terenie wystąpienia zdarzenia",
         "B": "Zespół powołany przez Dyrektora Zakładu Linii Kolejowych właściwego terytorialnie lub kierownika innej jednostki organizacyjnej biorącej udział w transporcie kolejowym",
-        "C": "Komisja powoływana przez Prezesa Urzędu Transportu Kolejowego",
-        "D": "Rzeczoznawca wskazany przez ubezpieczyciela PKP PLK S.A."
+        "C": "Komisja powoływana przez Prezesa Urzędu Transportu Kolejowego właściwego terytorialnie dla miejsca wystąpienia sytuacji potencjalnie niebezpiecznej",
+        "D": "Rzeczoznawca wskazany przez ubezpieczyciela PKP PLK S.A. właściwego dla umowy ubezpieczenia odpowiedzialności cywilnej obowiązującej w miejscu zdarzenia"
       },
       "correct": "B",
       "explanation": "Ir-8 § 36 ust. 1",
@@ -2735,10 +2527,10 @@
       "uuid": "7d8ee992-44b2-4f2e-8934-8e23ab7a8bde",
       "question": "W jakim przypadku do składu zespołu ustalającego straty mogą być powołani reprezentanci ubezpieczyciela oraz rzeczoznawcy?",
       "answers": {
-        "A": "Gdy wartość szkody przekracza kwotę ustaloną w regulaminie wewnętrznym PKP PLK S.A.",
+        "A": "Gdy wartość szkody przekracza kwotę ustaloną w regulaminie wewnętrznym PKP PLK S.A. dla danej jednostki organizacyjnej biorącej udział w postępowaniu wyjaśniającym",
         "B": "Gdy może nastąpić przekroczenie udziałów własnych (franszyz redukcyjnych) zawartych w umowach ubezpieczenia odpowiedzialności cywilnej PKP PLK S.A.",
-        "C": "Gdy postępowanie dotyczy infrastruktury kolejowej objętej gwarancją wykonawcy",
-        "D": "Gdy w zdarzeniu uczestniczył co najmniej jeden przewoźnik zagraniczny"
+        "C": "Gdy postępowanie dotyczy infrastruktury kolejowej objętej gwarancją wykonawcy robót budowlanych na podstawie umowy zawartej z PKP PLK S.A. lub innym zarządcą infrastruktury",
+        "D": "Gdy w zdarzeniu uczestniczył co najmniej jeden przewoźnik zagraniczny lub podmiot mający siedzibę poza granicami Rzeczypospolitej Polskiej prowadzący działalność transportową"
       },
       "correct": "B",
       "explanation": "Ir-8 § 36 ust. 3",
@@ -2774,7 +2566,7 @@
       "uuid": "412ba321-85f1-4e8d-b9d1-a3cae3b3bd5f",
       "question": "W jakim celu prowadzona jest statystyka zdarzeń i sytuacji potencjalnie niebezpiecznych na drogach kolejowych zarządzanych przez PKP PLK S.A.?",
       "answers": {
-        "A": "W celu planowania i monitorowania działań na rzecz poprawy bezpieczeństwa ruchu kolejowego oraz wypełnienia obowiązku wobec instytucji kontrolnych i statystycznych",
+        "A": "W celu planowania i monitorowania działań na rzecz poprawy bezpieczeństwa ruchu kolejowego wynikających z ustanowionego w Spółce Systemu Zarządzania Bezpieczeństwem (SMS) oraz wypełnienia obowiązku wobec instytucji kontrolnych i statystycznych",
         "B": "Wyłącznie w celu wypełnienia obowiązku wobec Prezesa Urzędu Transportu Kolejowego i Państwowej Komisji Badania Wypadków Kolejowych",
         "C": "W celu rozliczania pracowników zakładów linii kolejowych odpowiedzialnych za powstanie zdarzeń",
         "D": "W celu sporządzania rocznych raportów bezpieczeństwa przekazywanych do organów Unii Europejskiej"
@@ -2970,9 +2762,9 @@
       "question": "Z jakich części składa się roczny raport o bezpieczeństwie na sieci PKP PLK S.A.?",
       "answers": {
         "A": "Statystyka zdarzeń kolejowych, analiza przyczyn zdarzeń oraz działania podejmowane na rzecz poprawy bezpieczeństwa ruchu kolejowego",
-        "B": "Statystyka zdarzeń kolejowych, analiza kosztów zdarzeń oraz wnioski pokontrolne",
-        "C": "Analiza przyczyn zdarzeń, rejestr wypadków i awarii oraz plan działań naprawczych",
-        "D": "Statystyka zdarzeń kolejowych, ocena stanu infrastruktury oraz sprawozdanie finansowe"
+        "B": "Statystyka zdarzeń kolejowych, analiza kosztów zdarzeń kolejowych oraz działania podejmowane przez zarządców infrastruktury na rzecz poprawy bezpieczeństwa",
+        "C": "Rejestr wypadków i incydentów kolejowych, analiza przyczyn zdarzeń oraz wnioski pokontrolne przedkładane Prezesowi Urzędu Transportu Kolejowego",
+        "D": "Statystyka zdarzeń kolejowych, ocena ryzyka na sieci kolejowej oraz sprawozdanie z działalności Biura Bezpieczeństwa w roku sprawozdawczym"
       },
       "correct": "A",
       "explanation": "Ir-8 § 40 ust. 2",
@@ -3123,7 +2915,7 @@
     },
     {
       "uuid": "12568489-529b-458a-808c-1ad87592225d",
-      "question": "Komu instruktorzy poszczególnych branż są zobowiązani powiadomić o zagrożeniu dla bezpieczeństwa ruchu kolejowego stwierdzonym podczas wykonywania obowiązków służbowych?",
+      "question": "Kogo instruktorzy poszczególnych branż są zobowiązani powiadomić o zagrożeniu dla bezpieczeństwa ruchu kolejowego stwierdzonym podczas wykonywania obowiązków służbowych?",
       "answers": {
         "A": "Naczelnikowi sekcji eksploatacji właściwemu terytorialnie",
         "B": "Dyżurnemu ruchu najbliższej stacji",
@@ -3151,10 +2943,10 @@
       "uuid": "af9d10e1-71d7-4997-b482-e47dad0975b2",
       "question": "Co określa częstotliwość kontroli w zakresie bezpieczeństwa ruchu kolejowego na szczeblu jednostki organizacyjnej?",
       "answers": {
-        "A": "Roczny plan finansowy jednostki organizacyjnej zatwierdzany przez zarząd PKP PLK S.A.",
-        "B": "Decyzja Prezesa Urzędu Transportu Kolejowego wydawana dla każdej jednostki odrębnie",
+        "A": "Roczny plan finansowy jednostki organizacyjnej zatwierdzany przez zarząd PKP PLK S.A. na podstawie wyników audytu wewnętrznego przeprowadzonego przez Biuro Bezpieczeństwa w ramach SMS",
+        "B": "Decyzja Prezesa Urzędu Transportu Kolejowego wydawana odrębnie dla każdej jednostki organizacyjnej po przeprowadzeniu zewnętrznej kontroli w zakresie bezpieczeństwa ruchu kolejowego",
         "C": "Program poprawy bezpieczeństwa ruchu kolejowego danej jednostki organizacyjnej opracowany na podstawie programu sporządzonego przez Biuro Bezpieczeństwa w ramach SMS",
-        "D": "Harmonogram kontroli ustalany corocznie przez Państwową Komisję Badania Wypadków Kolejowych"
+        "D": "Harmonogram kontroli ustalany corocznie przez Państwową Komisję Badania Wypadków Kolejowych na podstawie rocznego sprawozdania o stanie bezpieczeństwa ruchu kolejowego"
       },
       "correct": "C",
       "explanation": "Ir-8 § 42 ust. 6",
@@ -3164,10 +2956,10 @@
       "uuid": "324d5df9-87c5-4263-8a2c-b161394d9151",
       "question": "Zgodnie z czym pracownicy nadzoru nad bezpieczeństwem ruchu kolejowego opracowują własne plany kontroli stanowisk pracy?",
       "answers": {
-        "A": "Zgodnie z wytycznymi Prezesa Urzędu Transportu Kolejowego i postanowieniami Ik-2",
+        "A": "Zgodnie z wytycznymi Prezesa Urzędu Transportu Kolejowego oraz postanowieniami Instrukcji kontroli w zakresie bezpieczeństwa ruchu kolejowego Ik-2",
         "B": "Zgodnie z wytycznymi kierownika jednostki organizacyjnej oraz postanowieniami Instrukcji kontroli w zakresie bezpieczeństwa ruchu kolejowego Ik-2",
-        "C": "Zgodnie z własnym uznaniem, z uwzględnieniem wymagań Systemu Zarządzania Bezpieczeństwem",
-        "D": "Zgodnie z wytycznymi Biura Bezpieczeństwa i postanowieniami instrukcji Ia-3"
+        "C": "Zgodnie z własnym uznaniem, z uwzględnieniem wymagań Systemu Zarządzania Bezpieczeństwem oraz aktualnych wyników przeprowadzonych kontroli wewnętrznych",
+        "D": "Zgodnie z wytycznymi Biura Bezpieczeństwa oraz postanowieniami Instrukcji o zasadach postępowania w przypadku naruszenia obowiązków pracowniczych Ia-3"
       },
       "correct": "B",
       "explanation": "Ir-8 § 42 ust. 7",
@@ -3333,10 +3125,10 @@
       "uuid": "443fa700-6192-4709-95da-d14fd9449f58",
       "question": "W jakich przypadkach Dyrektor Zakładu Linii Kolejowych jest obowiązany opracować i przedstawić pracownikom Biuletyn Informacyjny?",
       "answers": {
-        "A": "W przypadku każdego zdarzenia, niezależnie od jego rodzaju i skutków",
-        "B": "Wyłącznie na polecenie Dyrektora Biura Bezpieczeństwa",
+        "A": "W przypadku każdego zdarzenia zaistniałego na obszarze zakładu, niezależnie od jego rodzaju, skutków oraz bez konieczności wydania zalecenia przez komisję kolejową lub Biuro Bezpieczeństwa",
+        "B": "Wyłącznie na polecenie Dyrektora Biura Bezpieczeństwa, bez możliwości zobowiązania przez komisję kolejową, organy administracji państwowej ani Członka Zarządu właściwego ds. SMS",
         "C": "W przypadku wydania stosownego zalecenia przez komisję kolejową lub rekomendacji organów administracji państwowej, a także na polecenie Członka Zarządu właściwego ds. SMS lub Dyrektora Biura Bezpieczeństwa",
-        "D": "Wyłącznie w przypadku wypadków z ofiarami śmiertelnymi na obszarze zakładu"
+        "D": "Wyłącznie w przypadku wypadków z ofiarami śmiertelnymi lub poważnych incydentów, na wniosek komisji kolejowej złożony do Dyrektora Zakładu Linii Kolejowych w terminie 7 dni od zdarzenia"
       },
       "correct": "C",
       "explanation": "Ir-8 § 45 ust. 4",
@@ -3471,19 +3263,6 @@
       "correct": "B",
       "explanation": "Ir-8 § 6 ust. 7",
       "section_ref": "§ 6"
-    },
-    {
-      "uuid": "c2b91283-953f-4f18-a5eb-ef6999a08ac1",
-      "question": "Co jest zobowiązany zrobić kierownik jednostki organizacyjnej, który dowiedział się o zatajeniu zdarzenia?",
-      "answers": {
-        "A": "Zgłosić i zarejestrować zdarzenie, powołać komisję kolejową oraz przeprowadzić postępowanie wyjaśniające na okoliczność zatajenia",
-        "B": "Zgłosić i zarejestrować zdarzenie oraz niezwłocznie poinformować właściwy organ nadzoru kolejowego",
-        "C": "Powołać komisję kolejową oraz sporządzić protokół zatajenia i przekazać go do archiwum",
-        "D": "Przeprowadzić postępowanie wyjaśniające i wydać decyzję o odpowiedzialności pracownika"
-      },
-      "correct": "A",
-      "explanation": "Ir-8 § 7 ust. 2",
-      "section_ref": "§ 7"
     },
     {
       "uuid": "71ef8d4a-779f-4631-9824-33cbf8a75d55",
@@ -3655,19 +3434,6 @@
       "section_ref": "§ 2"
     },
     {
-      "uuid": "1ff09454-844d-4ce6-9b05-66fc6d0bb1bd",
-      "question": "Jak długo musi być wstrzymany ruch kolejowy na głównej linii, aby wypadek zakwalifikować jako znaczący wypadek?",
-      "answers": {
-        "A": "Co najmniej 2 godziny",
-        "B": "Co najmniej 4 godziny",
-        "C": "Co najmniej 6 godzin",
-        "D": "Co najmniej 8 godzin"
-      },
-      "correct": "C",
-      "explanation": "Ir-8 § 2 ust. 8 pkt 3",
-      "section_ref": "§ 2"
-    },
-    {
       "uuid": "df2288cd-69d6-45cd-a56e-4d4ab87f9039",
       "question": "Co to jest kolizja w rozumieniu przepisów kolejowych?",
       "answers": {
@@ -3678,19 +3444,6 @@
       },
       "correct": "B",
       "explanation": "Ir-8 § 2 ust. 10",
-      "section_ref": "§ 2"
-    },
-    {
-      "uuid": "3bb4a774-3147-47fa-8a84-87620b36ff2f",
-      "question": "Co to jest wykolejenie?",
-      "answers": {
-        "A": "Niezamierzone zejście pojazdu kolejowego z toru spowodowane nadmierną prędkością",
-        "B": "Utrata kontaktu powierzchni tocznej koła pojazdu kolejowego z powierzchnią toczną główki szyny",
-        "C": "Dynamiczne zetknięcie się pojazdów kolejowych jadących po tym samym torze z przeciwnych kierunków",
-        "D": "Odkształcenie toru wymagające wstrzymania ruchu lub ograniczenia prędkości"
-      },
-      "correct": "B",
-      "explanation": "Ir-8 § 2 ust. 11",
       "section_ref": "§ 2"
     },
     {
@@ -3730,19 +3483,6 @@
       },
       "correct": "B",
       "explanation": "Ir-8 § 2 ust. 54",
-      "section_ref": "§ 2"
-    },
-    {
-      "uuid": "20ac603b-43b1-48fa-b103-0977686a35fe",
-      "question": "Czym jest dyżurny ruchu?",
-      "answers": {
-        "A": "Pracownik bieżącego nadzoru zarządcy infrastruktury, regulujący i koordynujący całokształt pracy związanej z ruchem kolejowym w obrębie wyznaczonego obszaru linii kolejowej",
-        "B": "Pracownik zarządcy infrastruktury odpowiedzialny za bezpieczne prowadzenie ruchu kolejowego na posterunku zapowiadawczym i przyległych szlakach",
-        "C": "Osoba lub zespół osób prowadzących postępowanie w sprawie wypadku lub incydentu kolejowego",
-        "D": "Osoba będąca przedstawicielem zarządcy infrastruktury kierująca i odpowiedzialna za prowadzenie akcji ratowniczej"
-      },
-      "correct": "B",
-      "explanation": "Ir-8 § 2 ust. 57",
       "section_ref": "§ 2"
     },
     {
@@ -3837,19 +3577,6 @@
       "section_ref": "§ 2"
     },
     {
-      "uuid": "60277610-ecca-4871-9194-32962ac6216d",
-      "question": "Ile godzin musi trwać wstrzymanie ruchu kolejowego na głównej linii, aby zakłócenie ruchu mogło być kwalifikowane jako kryterium „znaczącego wypadku”?",
-      "answers": {
-        "A": "Co najmniej 3 godziny.",
-        "B": "Co najmniej 4 godziny.",
-        "C": "Co najmniej 6 godzin.",
-        "D": "Co najmniej 12 godzin."
-      },
-      "correct": "C",
-      "explanation": "Ir-8 § 2 ust. 8 pkt 3",
-      "section_ref": "§ 2"
-    },
-    {
       "uuid": "54367c3e-05f2-447b-b8da-1fa0e5124ef0",
       "question": "Jak definiuje się „pasażera” dla celów statystyki zdarzeń kolejowych?",
       "answers": {
@@ -3868,7 +3595,7 @@
       "answers": {
         "A": "Urządzenie, które utraciło całkowitą zdolność realizacji podstawowych funkcji określonych dokumentacją techniczną.",
         "B": "Defekt systemu sygnalizacji, w wyniku którego nadawana informacja jest mniej rygorystyczna od wymaganej.",
-        "C": "Odkształcenie toru wymagające wstrzymania ruchu lub ograniczenia prędkości.",
+        "C": "Urządzenie realizujące funkcje niezgodnie z jego dokumentacją techniczną w danym cyklu roboczym.",
         "D": "Urządzenie realizujące funkcje niezgodnie z jego dokumentacją techniczną."
       },
       "correct": "B",
@@ -3954,32 +3681,6 @@
       "section_ref": "§ 2"
     },
     {
-      "uuid": "1c2e5140-d74b-48a8-bb0d-5ff70165e6ad",
-      "question": "Co to jest zderzenie w rozumieniu definicji kolizji?",
-      "answers": {
-        "A": "Niezamierzone, dynamiczne zetknięcie się pojazdów kolejowych jadących po tym samym torze w tym samym kierunku",
-        "B": "Zetknięcie się pojazdów kolejowych w miejscu połączenia lub przecięcia się torów",
-        "C": "Dynamiczne zetknięcie się pojazdów kolejowych jadących po tym samym torze z przeciwnych kierunków",
-        "D": "Najechanie na przeszkodę znajdującą się na torze lub w skrajni pojazdu kolejowego"
-      },
-      "correct": "C",
-      "explanation": "Ir-8 § 2 ust. 10 pkt 1",
-      "section_ref": "§ 2"
-    },
-    {
-      "uuid": "7f637f63-29b7-41ab-9236-76b14926e252",
-      "question": "Jak definiuje się wykolejenie pojazdu kolejowego?",
-      "answers": {
-        "A": "Utrata kontaktu powierzchni tocznej koła pojazdu kolejowego z powierzchnią toczną główki szyny",
-        "B": "Pęknięcie koła w całym przekroju, które stwarza ryzyko wypadku",
-        "C": "Odkształcenie toru wymagające wstrzymania ruchu lub ograniczenia prędkości",
-        "D": "Niezamierzone, dynamiczne zetknięcie się pojazdu kolejowego będącego w ruchu ze stojącym pojazdem"
-      },
-      "correct": "A",
-      "explanation": "Ir-8 § 2 ust. 11",
-      "section_ref": "§ 2"
-    },
-    {
       "uuid": "fcf3de05-32ae-45af-aca6-b4ed55c08163",
       "question": "Jaka minimalna wartość szkód (w euro) kwalifikuje wypadek z udziałem pojazdu kolejowego jako znaczący wypadek ze względu na szkody materialne?",
       "answers": {
@@ -3990,19 +3691,6 @@
       },
       "correct": "C",
       "explanation": "Ir-8 § 2 ust. 8 pkt 2",
-      "section_ref": "§ 2"
-    },
-    {
-      "uuid": "87b7ea88-4ff1-420b-b458-3e28eafb801e",
-      "question": "W jakim czasie od wypadku osoba musi ponieść śmierć wskutek doznanych obrażeń, aby być zaliczoną do kategorii „zabitych”?",
-      "answers": {
-        "A": "W ciągu 7 dni",
-        "B": "W ciągu 14 dni",
-        "C": "W ciągu 30 dni",
-        "D": "W ciągu 90 dni"
-      },
-      "correct": "C",
-      "explanation": "Ir-8 § 2 ust. 30",
       "section_ref": "§ 2"
     },
     {
@@ -4029,19 +3717,6 @@
       },
       "correct": "B",
       "explanation": "Ir-8 § 2 ust. 48",
-      "section_ref": "§ 2"
-    },
-    {
-      "uuid": "b4e33db6-8bc3-4893-80b6-825666e12b93",
-      "question": "Czym jest defekt sygnalizacji?",
-      "answers": {
-        "A": "Całkowita utrata zdolności realizacji podstawowych funkcji sterowania przez urządzenie",
-        "B": "Defekt systemu sygnalizacji, w wyniku którego nadawana informacja jest mniej rygorystyczna od wymaganej",
-        "C": "Praca urządzenia sterowania niezgodna z jego dokumentacją techniczną w jednym cyklu roboczym",
-        "D": "Sytuacja, w której pociąg kontynuuje jazdę bez zezwolenia i przejeżdża poza punkt niebezpieczny"
-      },
-      "correct": "B",
-      "explanation": "Ir-8 § 2 ust. 18",
       "section_ref": "§ 2"
     },
     {
@@ -4214,19 +3889,6 @@
       "section_ref": "§ 43"
     },
     {
-      "uuid": "48995a69-1c1b-4439-ba0c-4dce74b3d699",
-      "question": "Co powinien zrobić dyżurny ruchu w pierwszej kolejności, gdy zbliżający się po sąsiednim torze pociąg jest zagrożony w wyniku zdarzenia?",
-      "answers": {
-        "A": "Zamknąć tor i powiadomić dyspozytora liniowego",
-        "B": "Zatrzymać zbliżający się pociąg, włącznie z nadaniem sygnału A 1r „Alarm”",
-        "C": "Niezwłocznie zawiadomić centrum powiadamiania ratunkowego (nr 112)",
-        "D": "Zgłosić zdarzenie dyspozytorowi w zakładzie linii kolejowych"
-      },
-      "correct": "B",
-      "explanation": "Ir-8 § 4 ust. 1 pkt 1",
-      "section_ref": "§ 4"
-    },
-    {
       "uuid": "e595b615-cac6-4fee-b69d-736d898e1e6f",
       "question": "Pod jaki numer telefonu dyżurny ruchu powinien niezwłocznie zawiadomić centrum powiadamiania ratunkowego po otrzymaniu zgłoszenia o zdarzeniu?",
       "answers": {
@@ -4243,10 +3905,10 @@
       "uuid": "b9e3137e-1da6-45f6-aeec-4e8b170d8411",
       "question": "Jakie informacje dyżurny ruchu podaje centrum powiadamiania ratunkowego w przypadku wykolejenia wagonu z towarem niebezpiecznym?",
       "answers": {
-        "A": "Wyłącznie rodzaj zdarzenia i przybliżoną liczbę poszkodowanych",
-        "B": "Wyłącznie informację o pożarze lub wybuchu bądź zagrożeniu nimi",
+        "A": "Wyłącznie rodzaj zdarzenia i przybliżoną liczbę poszkodowanych, bez podawania informacji o charakterze towaru znajdującego się w wykoleionym wagonie",
+        "B": "Wyłącznie informację o pożarze lub wybuchu bądź zagrożeniu nimi, bez wskazywania szczegółów dotyczących rodzaju towaru niebezpiecznego",
         "C": "Informacje pozwalające na zidentyfikowanie towaru niebezpiecznego, np. na podstawie napisów i nalepek ostrzegawczych oraz numerów na pomarańczowej tablicy",
-        "D": "Wyłącznie nazwę towaru niebezpiecznego według nazwy podanej w dokumentach przewozowych"
+        "D": "Wyłącznie nazwę towaru niebezpiecznego według nazwy podanej w dokumentach przewozowych, bez informacji o nalepkach ostrzegawczych i tablicach"
       },
       "correct": "C",
       "explanation": "Ir-8 § 4 ust. 1 pkt 3 lit. e",
@@ -4321,10 +3983,10 @@
       "uuid": "ffea59a3-1e82-4049-9e95-2fa966ff7268",
       "question": "Kogo niezwłocznie powiadamia dyspozytor Ekspozytury Zarządzania Ruchem Kolejowym o każdym zdarzeniu?",
       "answers": {
-        "A": "Wyłącznie Dyrektora Zakładu Linii Kolejowych i Państwowego Powiatowego Inspektora Sanitarnego",
-        "B": "Dyspozytora Dyspozytury Głównej CZRKol, właściwy Inspektorat Bezpieczeństwa Ruchu Kolejowego oraz oddział terenowy Urzędu Transportu Kolejowego",
-        "C": "Wyłącznie Przewodniczącego Państwowej Komisji Badania Wypadków Kolejowych",
-        "D": "Komendanta Głównego Państwowej Straży Pożarnej i Wojskowe Centrum Zarządzania Kryzysowego"
+        "A": "Wyłącznie Dyrektora Zakładu Linii Kolejowych i Państwowego Powiatowego Inspektora Sanitarnego właściwego terytorialnie dla miejsca zdarzenia",
+        "B": "Dyspozytora Dyspozytury Głównej Centrum Zarządzania Ruchem Kolejowym, właściwy Inspektorat Bezpieczeństwa Ruchu Kolejowego oraz oddział terenowy Urzędu Transportu Kolejowego",
+        "C": "Wyłącznie Przewodniczącego Państwowej Komisji Badania Wypadków Kolejowych oraz dyspozytora Komendy Głównej Straży Ochrony Kolei",
+        "D": "Komendanta Głównego Państwowej Straży Pożarnej i Wojskowe Centrum Zarządzania Kryzysowego właściwe terytorialnie dla miejsca zdarzenia"
       },
       "correct": "B",
       "explanation": "Ir-8 § 4 ust. 3 pkt 1",
@@ -4347,10 +4009,10 @@
       "uuid": "c7f2f307-0e1b-435e-8d18-4c4b95be7ac7",
       "question": "Kiedy dyspozytor lub inny wyznaczony pracownik właściwego przewoźnika kolejowego jest zobowiązany powiadomić najbliższy urząd celny?",
       "answers": {
-        "A": "Gdy w zdarzeniu uczestniczył wagon z towarem niebezpiecznym",
-        "B": "Gdy poszkodowani zostali skierowani do szpitala",
-        "C": "Gdy w zdarzeniu zostali poszkodowani pracownicy celni lub zostały uszkodzone zamknięcia celne bądź towary podlegające ocleniu",
-        "D": "Gdy w zdarzeniu uczestniczyły pojazdy kolejowe zagranicznych przewoźników"
+        "A": "Gdy w zdarzeniu uczestniczył wagon z towarem niebezpiecznym i zachodzi konieczność przeładunku lub przepompowywania towaru z uszkodzonych cystern",
+        "B": "Gdy poszkodowani zostali skierowani do szpitala, a ich dane osobowe wymagają przekazania organom ścigania lub służbom ratowniczym",
+        "C": "Gdy w zdarzeniu zostali poszkodowani pracownicy celni wykonujący czynności służbowe na obszarze kolejowym lub zostały uszkodzone zamknięcia celne bądź towary podlegające ocleniu",
+        "D": "Gdy w zdarzeniu uczestniczyły pojazdy kolejowe zagranicznych przewoźników i zachodzi konieczność powiadomienia właściwych organów kraju przewoźnika"
       },
       "correct": "C",
       "explanation": "Ir-8 § 4 ust. 5 pkt 2",
@@ -4367,58 +4029,6 @@
       },
       "correct": "B",
       "explanation": "Ir-8 § 4 ust. 1 pkt 1",
-      "section_ref": "§ 4"
-    },
-    {
-      "uuid": "e4d4f7af-17a6-446d-9ec7-f4a6bbf64bf7",
-      "question": "Jakie informacje dyżurny ruchu powinien podać przy zgłoszeniu wykolejenia wagonu z towarem niebezpiecznym do centrum powiadamiania ratunkowego?",
-      "answers": {
-        "A": "Wyłącznie rodzaj zdarzenia i przybliżoną liczbę poszkodowanych",
-        "B": "Nazwisko kierownika pociągu oraz numer wagonu",
-        "C": "Informacje pozwalające na zidentyfikowanie towaru niebezpiecznego, np. napisy i nalepki ostrzegawcze oraz numery na pomarańczowej tablicy",
-        "D": "Jedynie informację o zagrożeniu pożarem lub wybuchem"
-      },
-      "correct": "C",
-      "explanation": "Ir-8 § 4 ust. 1 pkt 3 lit. e",
-      "section_ref": "§ 4"
-    },
-    {
-      "uuid": "51e4d3ad-2990-4e22-a0dc-0d78b8df884e",
-      "question": "Komu dyżurny ruchu zgłasza zdarzenie w zakresie spraw bezpieczeństwa i ochrony kolei?",
-      "answers": {
-        "A": "Dyspozytorowi Dyspozytury Głównej Centrum Zarządzania Ruchem Kolejowym",
-        "B": "Właściwej terytorialnie jednostce Straży Ochrony Kolei (komendantowi zmiany lub dyżurnemu zmiany)",
-        "C": "Państwowemu Powiatowemu Inspektorowi Sanitarnemu",
-        "D": "Rzecznikowi prasowemu PKP PLK S.A."
-      },
-      "correct": "B",
-      "explanation": "Ir-8 § 4 ust. 1 pkt 5",
-      "section_ref": "§ 4"
-    },
-    {
-      "uuid": "3b7b25d2-c16b-420d-b481-0e547517ba45",
-      "question": "W jakim dokumencie dyżurny ruchu rejestruje wszelkie zgłoszenia, powiadomienia, wezwania i żądania związane ze zdarzeniem?",
-      "answers": {
-        "A": "Dzienniku dyspozytora ruchu (R 217)",
-        "B": "Systemie Ewidencji Pracy Eksploatacyjnej (SEPE)",
-        "C": "Dzienniku telefonicznym (R-138)",
-        "D": "Raporcie dobowym dyżurnego ruchu"
-      },
-      "correct": "C",
-      "explanation": "Ir-8 § 4 ust. 1",
-      "section_ref": "§ 4"
-    },
-    {
-      "uuid": "db387b93-b782-459b-94fc-44facbe066a9",
-      "question": "Kiedy dyżurny ruchu powiadamia dyspozytora zasilania elektroenergetycznego po zdarzeniu?",
-      "answers": {
-        "A": "Zawsze, niezależnie od miejsca zdarzenia",
-        "B": "Tylko gdy doszło do wykolejenia wagonu z towarem niebezpiecznym",
-        "C": "Wyłącznie gdy zdarzenie nastąpiło w pobliżu stacji rozrządowej",
-        "D": "Jeżeli zdarzenie nastąpiło na torach zelektryfikowanych"
-      },
-      "correct": "D",
-      "explanation": "Ir-8 § 4 ust. 1 pkt 6",
       "section_ref": "§ 4"
     },
     {
@@ -4474,24 +4084,11 @@
       "section_ref": "§ 4"
     },
     {
-      "uuid": "d01d6d68-c82e-4b47-9b74-afeb277b8323",
-      "question": "Co zobowiązany jest zrobić dyspozytor właściwego przewoźnika kolejowego, gdy w zdarzeniu poszkodowani zostali pracownicy celni lub uszkodzone zostały zamknięcia celne?",
-      "answers": {
-        "A": "Powiadomić Państwowego Powiatowego Inspektora Sanitarnego",
-        "B": "Zgłosić zdarzenie dyspozytorowi koordynatorowi Ekspozytury Zarządzania Ruchem Kolejowym",
-        "C": "Powiadomić najbliższy urząd celny",
-        "D": "Niezwłocznie zawiadomić centrum powiadamiania ratunkowego pod numer 112"
-      },
-      "correct": "C",
-      "explanation": "Ir-8 § 4 ust. 5 pkt 2",
-      "section_ref": "§ 4"
-    },
-    {
       "uuid": "fc2e0115-e49d-435c-ba66-17eed090517c",
       "question": "Co powinien zrobić dyżurny ruchu w pierwszej kolejności, gdy zbliżający się pociąg na sąsiednim torze jest zagrożony skutkami zdarzenia?",
       "answers": {
         "A": "Natychmiast zamknąć tory, na których powstała przeszkoda dla ruchu.",
-        "B": "Zatrzymać zbliżający się pociąg, skład manewrowy lub pojazd trakcyjny, włącznie z nadaniem sygnału A 1r „Alarm”.",
+        "B": "Zatrzymać zbliżający się pociąg, skład manewrowy lub pojazd trakcyjny, włącznie z uzasadnionym nadaniem sygnału A 1r „Alarm”.",
         "C": "Zgłosić zdarzenie dyspozytorowi liniowemu oraz naczelnikowi sekcji eksploatacji.",
         "D": "Powiadomić centrum powiadamiania ratunkowego pod numer 112."
       },
@@ -4578,19 +4175,6 @@
       "section_ref": "§ 4"
     },
     {
-      "uuid": "4f24b0c6-fa9a-42b3-9baa-dfac57260053",
-      "question": "Kogo dyspozytor Ekspozytury Zarządzania Ruchem Kolejowym powiadamia o każdym zdarzeniu niezwłocznie po jego zgłoszeniu?",
-      "answers": {
-        "A": "Dyspozytora Dyspozytury Głównej Centrum Zarządzania Ruchem Kolejowym, właściwy terenowo Inspektorat Bezpieczeństwa Ruchu Kolejowego oraz oddział terenowy Urzędu Transportu Kolejowego.",
-        "B": "Wyłącznie dyspozytora Dyspozytury Głównej Centrum Zarządzania Ruchem Kolejowym.",
-        "C": "Dyspozytora koordynatora Ekspozytury Zarządzania Ruchem Kolejowym oraz właściwego Dyrektora Zakładu Linii Kolejowych.",
-        "D": "Przewodniczącego Państwowej Komisji Badania Wypadków Kolejowych oraz Dyrektora Biura Bezpieczeństwa."
-      },
-      "correct": "A",
-      "explanation": "Ir-8 § 4 ust. 3 pkt 1",
-      "section_ref": "§ 4"
-    },
-    {
       "uuid": "c686568c-17fe-43e3-b713-4236975fa0e3",
       "question": "Kogo dyspozytor Dyspozytury Głównej Centrum Zarządzania Ruchem Kolejowym powiadamia, jeżeli zdarzenie spowodowało poważne zakłócenia w ruchu pociągów?",
       "answers": {
@@ -4649,7 +4233,7 @@
         "A": "Sygnał „Stój”",
         "B": "Sygnał „Baczność”",
         "C": "Sygnał „Alarm”",
-        "D": "Sygnał „Zwolnij”'"
+        "D": "Sygnał „Zwolnij”"
       },
       "correct": "C",
       "explanation": "Ir-8 § 5 ust. 2 pkt 1",
@@ -4745,6 +4329,71 @@
       "correct": "A",
       "explanation": "Ir-8 § 5 ust. 5 pkt 2",
       "section_ref": "§ 5"
+    },
+    {
+      "uuid": "9dd150f9-e59b-4ef4-887b-acf92e47e5e7",
+      "question": "Jakie zapisy znajdujące się bezpośrednio na pojeździe kolejowym komisja kolejowa zleca odczytać i zabezpieczyć?",
+      "answers": {
+        "A": "Zapisy urządzeń sterowania ruchem kolejowym i stany awaryjne infrastruktury",
+        "B": "Zapisy rejestratorów znajdujących się na pojeździe kolejowym oraz urządzeń rejestrujących stany awaryjne w pojazdach kolejowych",
+        "C": "Zapisy systemów telewizji przemysłowej i użytkowej zainstalowanych w pojeździe",
+        "D": "Zapisy dokumentów przewozowych i rozmów dyspozytorskich prowadzonych w czasie jazdy"
+      },
+      "correct": "B",
+      "explanation": "Ir-8 § 16 ust. 1 pkt 8",
+      "section_ref": "§ 16"
+    },
+    {
+      "uuid": "72506d90-ad59-42d8-b7e9-e063d2906086",
+      "question": "Jakie zapisy spoza samego pojazdu kolejowego komisja kolejowa zleca odczytać i zabezpieczyć w ramach postępowania?",
+      "answers": {
+        "A": "Wyłącznie zapisy dokumentów przewozowych i ksiąg ruchu posterunków",
+        "B": "Zapisy dotyczące czynności pracowników kolejowych i prowadzonych rozmów oraz zapisy z systemów telewizji przemysłowej i użytkowej",
+        "C": "Zapisy parametrów profilu okręgu tocznego kół i stanu maźnic pojazdu kolejowego",
+        "D": "Wyłącznie zapisy urządzeń łączności radiotelefonicznej maszynisty z dyżurnym ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-8 § 16 ust. 1 pkt 8",
+      "section_ref": "§ 16"
+    },
+    {
+      "uuid": "6c1de76d-262a-4885-bfb9-3c12fe8ba0b0",
+      "question": "Jakie jest pierwsze działanie, które musi podjąć kierownik jednostki organizacyjnej po uzyskaniu informacji o zatajeniu zdarzenia?",
+      "answers": {
+        "A": "Powołać komisję kolejową i wszcząć postępowanie wyjaśniające",
+        "B": "Zgłosić i zarejestrować zdarzenie zgodnie z postanowieniami instrukcji",
+        "C": "Sporządzić protokół zatajenia i przekazać go do właściwego organu",
+        "D": "Zawiadomić prokuratora o podejrzeniu popełnienia przestępstwa"
+      },
+      "correct": "B",
+      "explanation": "Ir-8 § 7 ust. 2 pkt 1",
+      "section_ref": "§ 7"
+    },
+    {
+      "uuid": "fba22c31-519f-47a2-9251-62b8ffa34382",
+      "question": "Co jest zobowiązany powołać kierownik jednostki organizacyjnej, który dowiedział się o zatajeniu zdarzenia?",
+      "answers": {
+        "A": "Zespół kontrolny złożony z przedstawicieli zarządcy infrastruktury",
+        "B": "Grupę dochodzeniową do spraw wyjaśniania wypadków",
+        "C": "Komisję kolejową",
+        "D": "Komisję ekspertów ds. bezpieczeństwa ruchu kolejowego"
+      },
+      "correct": "C",
+      "explanation": "Ir-8 § 7 ust. 2 pkt 2",
+      "section_ref": "§ 7"
+    },
+    {
+      "uuid": "f6c386fb-048d-459d-a1c4-c2cab3133be6",
+      "question": "W jakim celu kierownik jednostki organizacyjnej jest zobowiązany przeprowadzić postępowanie wyjaśniające po ujawnieniu zatajenia zdarzenia?",
+      "answers": {
+        "A": "Na okoliczność przyczyn i okoliczności samego zdarzenia kolejowego",
+        "B": "Na okoliczność zatajenia lub próby zatajenia zdarzenia",
+        "C": "Na okoliczność ustalenia wysokości szkód wyrządzonych przez zdarzenie",
+        "D": "Na okoliczność sprawdzenia prawidłowości działania urządzeń zabezpieczenia ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-8 § 7 ust. 2 pkt 3",
+      "section_ref": "§ 7"
     }
   ]
 }
