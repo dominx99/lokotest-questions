@@ -2,59 +2,17 @@
   "instruction": "Ir-9",
   "timestamp": "2026-03-05T20:59:46.891451",
   "summary": {
-    "total": 41,
+    "total": 17,
     "ok": 17,
-    "fix": 19,
-    "delete": 2,
-    "new": 3
+    "fix": 0,
+    "delete": 0,
+    "new": 0
   },
   "results": [
-    {
-      "uuid": "16c74df4-c43f-427b-8310-b23dfb730c06",
-      "status": "FIX",
-      "problems": [
-        "Pytanie zawiera referencję 'zgodnie z Ir-9' — należy ją usunąć (zasada 2)"
-      ],
-      "changes": {
-        "question": "Wskaż czynność zabronioną po sprzęgnięciu lub rozprzęgnięciu taboru kolejowego podczas manewrów."
-      }
-    },
     {
       "uuid": "b7bebb15-57f4-4a77-bd97-3cea3ba3a402",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "fc4b6963-1288-4400-9e92-445e7b74c9bd",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź A ma ponad 100 znaków i jest ponad 1,5x dłuższa od najdłuższego dystraktora — należy wyrównać dystraktory w górę (zasada 6)"
-      ],
-      "changes": {
-        "answers": {
-          "A": "Upewnić się osobiście, że pracownik obsługujący zwrotnice albo manewrowy wyznaczony do obsługi zwrotnic dał pozwolenie na jazdę manewrową oraz czy nie ma przeszkód do jazdy",
-          "B": "Sprawdzić sygnał na sygnalizatorze nastawni i poczekać na potwierdzenie od pracownika posterunku nastawczego, że droga przebiegu jest przygotowana",
-          "C": "Poczekać na pisemne potwierdzenie od maszynisty, że pojazd trakcyjny jest sprawny technicznie i gotowy do wykonania ruchu manewrowego",
-          "D": "Sprawdzić, czy lokomotywa ma sprawny hamulec zespolony oraz czy wszystkie wagony składu manewrowego zostały prawidłowo sprzęgnięte"
-        }
-      }
-    },
-    {
-      "uuid": "6a0951c1-2026-4561-a119-ec00f94e40df",
-      "status": "FIX",
-      "problems": [
-        "Pytanie zawiera referencję 'zgodnie z § 10 ust. 28' — należy ją usunąć (zasada 2)",
-        "Poprawna odpowiedź B ma ponad 100 znaków i jest ponad 1,5x dłuższa od najdłuższego dystraktora — należy wyrównać dystraktory w górę (zasada 6)"
-      ],
-      "changes": {
-        "question": "Które z poniższych przypadków jazdy manewrowej mogą odbywać się bez drużyny manewrowej?",
-        "answers": {
-          "A": "Jazda lokomotywy luzem, przejazd ciągnionych składów pociągowych z torów przyjazdowych oraz jazda manewrowa składów złożonych wyłącznie z wagonów towarowych",
-          "B": "Jazda pojazdów pomocniczych, taboru specjalnego, pojazdów trakcyjnych bez doczepionego taboru lub ciągnących nie więcej niż cztery wagony towarowe albo dwa wagony pasażerskie bez podróżnych",
-          "C": "Jazda manewrowa po torach bocznicowych w porze nocnej, przejazdy składów pociągowych z torów kierunkowych oraz jazda pojazdów trakcyjnych pchających dowolną liczbę wagonów",
-          "D": "Jazda manewrowa z pisemnym zezwoleniem dyżurnego ruchu, przejazd składów pasażerskich z podróżnymi oraz jazda pojazdów trakcyjnych ciągnących nie więcej niż sześć wagonów"
-        }
-      }
     },
     {
       "uuid": "70131363-0647-4d0f-9ead-ec037eb78259",
@@ -97,16 +55,6 @@
       "problems": []
     },
     {
-      "uuid": "f5b66bee-828a-4aba-9e91-85e0cb44570f",
-      "status": "FIX",
-      "problems": [
-        "Pytanie zawiera referencję do paragrafu i ustępu ('zgodnie z § 13 ust. 2'), co narusza zasadę 2 — referencje należą wyłącznie do pola explanation."
-      ],
-      "changes": {
-        "question": "Co jest właściwym zachowaniem pracownika przy sprzęganiu lub rozprzęganiu pojazdów kolejowych?"
-      }
-    },
-    {
       "uuid": "f7961c77-3b49-4f59-aaab-f1e108dfdf0a",
       "status": "OK",
       "problems": []
@@ -127,238 +75,14 @@
       "problems": []
     },
     {
-      "uuid": "7c60dccd-8be3-4dcf-903c-c4fd33d3c95e",
-      "status": "FIX",
-      "problems": [
-        "Pytanie odwołuje się do 'pracownika posterunku nastawczego' (ust. 2), ale explanation wskazuje ust. 9 który mówi o dyżurnym ruchu dysponującym lub nastawniczym w jego zastępstwie. Należy ujednolicić pytanie z ust. 9.",
-        "Odpowiedź A pomija element 'zgłoszenia wydającemu polecenie' wynikający z ust. 9."
-      ],
-      "changes": {
-        "question": "Co należy zrobić po otrzymaniu polecenia przerwania manewrów i zwolnienia toru wydanego przez dyżurnego ruchu dysponującego lub nastawniczego w jego zastępstwie?",
-        "answers": {
-          "A": "Niezwłocznie wykonać polecenie i zgłosić jego wykonanie wydającemu",
-          "B": "Kontynuować manewry z prędkością nie większą niż 5 km/h aż do ich zakończenia",
-          "C": "Przekazać polecenie kierownikowi manewrów i czekać na jego decyzję",
-          "D": "Przerwać manewry dopiero po zakończeniu bieżącego ruchu manewrowego"
-        }
-      }
-    },
-    {
-      "uuid": "a9089b7b-c475-4c0a-a9f5-4630412f6429",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź A ma ponad 100 znaków i jest ponad 1,5x dłuższa od najdłuższego dystraktora. Należy wyrównać dystraktory w górę do długości poprawnej odpowiedzi."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Tylko gdy droga przebiegu dla pociągu jest zabezpieczona zwrotnicami ochronnymi, wykolejnicami lub sygnalizatorami zabraniającymi jazd manewrowych",
-          "B": "Tylko gdy prędkość manewrów nie przekracza 20 km/h, pociąg jest jeszcze odległy, a kierownik manewrów zapewnił dobrą widoczność na torze",
-          "C": "Tylko gdy kierownik manewrów uzyskał ustną zgodę maszynisty pociągu oraz potwierdził to pisemnym rozkazem przekazanym dyżurnemu ruchu",
-          "D": "Tylko gdy manewry odbywają się w kierunku przeciwnym do jazdy pociągu i nie przekraczają granicy najbliższego posterunku następczego"
-        }
-      }
-    },
-    {
       "uuid": "95be42da-2146-40d5-bc0c-4fbe68a6c074",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "0d91ebbf-b9d9-41ee-905c-d40bd870e711",
-      "status": "FIX",
-      "problems": [
-        "Pytanie zawiera referencję do paragrafu: 'zgodnie z § 19 ust. 3 pkt 1' - narusza zasadę 2"
-      ],
-      "changes": {
-        "question": "Jaki obowiązek wobec pracowników wykonuje drużyna manewrowa przed dojechaniem do wagonów, przy których odbywają się czynności ładunkowe?"
-      }
-    },
-    {
-      "uuid": "4b6d2aca-93ba-43ea-aa2b-10681147d97d",
-      "status": "DELETE",
-      "problems": [
-        "Pytanie zawiera referencję do paragrafu: 'zgodnie z § 19 ust. 3' - narusza zasadę 2",
-        "Poprawna odpowiedź A jest zbyt długa (ok. 248 znaków) i ponad 1,5x dłuższa od najdłuższego dystraktora - narusza zasadę 6",
-        "Poprawna odpowiedź A zawiera wyliczenie kilku podpunktów (pkt 1, 2, 5 i 7 z ust. 3) - narusza zasadę 5",
-        "Odpowiedź A jest niekompletnym wylistowaniem wymagań ust. 3 (pomija pkt 3, 4, 6), co czyni pytanie niejednoznacznym"
-      ]
-    },
-    {
-      "uuid": "4ba3ffa7-60fa-4d80-9672-bb0921064713",
-      "status": "NEW",
-      "problems": [
-        "Rozbicie pytania uuid=4b6d2aca-93ba-43ea-aa2b-10681147d97d - pytanie testujące wymaganie odsunięcia pojazdów drogowych (pkt 2)"
-      ],
-      "changes": {
-        "question": "Czego powinna zażądać drużyna manewrowa w odniesieniu do pojazdów drogowych przed dojechaniem do wagonów, przy których odbywają się czynności ładunkowe?",
-        "answers": {
-          "A": "Odsunięcia od składu manewrowego na bezpieczną odległość wszelkich pojazdów drogowych",
-          "B": "Usunięcia pojazdów drogowych z terenu bocznicy kolejowej",
-          "C": "Ustawienia pojazdów drogowych równolegle do składu manewrowego",
-          "D": "Przemieszczenia pojazdów drogowych na wyznaczone stanowiska postojowe"
-        },
-        "correct": "A",
-        "explanation": "Ir-9 § 19 ust. 3 pkt 2",
-        "section_ref": "§ 19"
-      }
-    },
-    {
-      "uuid": "498811c5-928f-4681-8ae1-486c48ef5b56",
-      "status": "NEW",
-      "problems": [
-        "Rozbicie pytania uuid=4b6d2aca-93ba-43ea-aa2b-10681147d97d - pytanie testujące wymaganie dotyczące drzwi wagonów i pracowników (pkt 3)"
-      ],
-      "changes": {
-        "question": "Czego powinna zażądać drużyna manewrowa w odniesieniu do drzwi wagonów i pracowników ładunkowych przed dojechaniem do wagonów, przy których odbywają się czynności ładunkowe?",
-        "answers": {
-          "A": "Pozamykania drzwi wagonów, ale pracownicy mogą w nich pozostać",
-          "B": "Pozamykania drzwi wagonów i opuszczenia wagonów przez pracowników wykonujących czynności ładunkowe",
-          "C": "Otwarcia wszystkich drzwi wagonów i opuszczenia wagonów przez wszystkie osoby bez wyjątku",
-          "D": "Pozamykania drzwi wagonów i opuszczenia wagonów przez wszystkie osoby łącznie z konwojentami przesyłek"
-        },
-        "correct": "B",
-        "explanation": "Ir-9 § 19 ust. 3 pkt 3",
-        "section_ref": "§ 19"
-      }
-    },
-    {
-      "uuid": "b7d75b57-5ce5-4e23-a3bd-03340eb20360",
-      "status": "NEW",
-      "problems": [
-        "Rozbicie pytania uuid=4b6d2aca-93ba-43ea-aa2b-10681147d97d - pytanie testujące wymaganie zabezpieczenia wagonów na torach ładunkowych (pkt 7)"
-      ],
-      "changes": {
-        "question": "Dlaczego drużyna manewrowa powinna upewnić się, że wagony stojące na torach ładunkowych są odpowiednio zabezpieczone przed dojechaniem do nich?",
-        "answers": {
-          "A": "Aby nie nastąpiło zbiegnięcie wagonów w momencie dojeżdżania pojazdu trakcyjnego lub składu manewrowego",
-          "B": "Aby nie nastąpiło uszkodzenie ładunku znajdującego się w wagonach w czasie manewrów",
-          "C": "Aby nie nastąpiło przemieszczenie wagonów na sąsiedni tor w czasie czynności ładunkowych",
-          "D": "Aby nie nastąpiło samoczynne otwarcie drzwi wagonów w czasie dojazdu pojazdu trakcyjnego"
-        },
-        "correct": "A",
-        "explanation": "Ir-9 § 19 ust. 3 pkt 7",
-        "section_ref": "§ 19"
-      }
-    },
-    {
       "uuid": "01a1adad-0e48-42f9-b891-468a6d9b8139",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "dc5ffe62-f7d0-4c02-8789-2935f6ca8042",
-      "status": "FIX",
-      "problems": [
-        "Dystraktory z niewłaściwych kategorii semantycznych (zasada 3): pytanie dotyczy definicji czynności (manewry), a dystraktory A to definicja miejsca (bocznica), B to definicja planu (plan pracy manewrowej), D to definicja urządzenia (hamulec torowy). Zastąpiono dystraktory definicjami czynności/procesów z § 2 (rozrządzanie wagonów) oraz zmodyfikowanymi wersjami definicji manewrów (Priorytet 2)."
-      ],
-      "changes": {
-        "answers": {
-          "A": "rozstawianie wagonów na odpowiednie tory, najczęściej w celu zestawiania pociągu",
-          "B": "wszelkie zamierzone ruchy pojazdów kolejowych oraz związane z nimi czynności na torach, w tym wjazd, wyjazd i przejazd pociągu",
-          "C": "wszelkie zamierzone ruchy pojazdów kolejowych oraz związane z nimi czynności na torach z wyjątkiem wjazdu, wyjazdu i przejazdu pociągu",
-          "D": "wszelkie zamierzone i niezamierzone ruchy pojazdów kolejowych oraz związane z nimi czynności na torach stacyjnych i szlakowych"
-        }
-      }
-    },
-    {
-      "uuid": "36c7a2c0-a150-40f4-b564-ea8db232ddc1",
-      "status": "FIX",
-      "problems": [
-        "Dystraktory z niewłaściwych kategorii semantycznych (zasada 3): pytanie dotyczy definicji planu/dokumentu (plan pracy manewrowej), a dystraktor A to definicja czynności (manewry), C to sfabrykowana definicja nieodpowiadająca żadnemu ustępowi § 2 i zawierająca błąd gramatyczny ('może zmieścić się i postój'), D to definicja miejsca (bocznica). Zastąpiono dystraktory definicją dokumentu z § 2 (regulamin techniczny) oraz zmodyfikowanymi wersjami definicji planu pracy manewrowej (Priorytet 2)."
-      ],
-      "changes": {
-        "answers": {
-          "A": "dokument zawierający szczegółowe postanowienia dotyczące pracy posterunku ruchu lub odcinka zdalnego prowadzenia ruchu, uwzględniający warunki miejscowe w zakresie czynności związanych z prowadzeniem ruchu pociągów i manewrów",
-          "B": "przyjęty do realizacji porządek wykonania pracy manewrowej, w określonym przedziale czasu, ustalony przez kierującego manewrami i podany do wiadomości uczestnikom manewrów",
-          "C": "przyjęty do realizacji porządek wykonania pracy manewrowej, w określonym przedziale czasu, ustalony przez dyżurnego ruchu i podany do wiadomości maszyniście",
-          "D": "ustalony przez kierującego manewrami ogólny zarys organizacji pracy na stacji, obowiązujący przez cały rok kalendarzowy"
-        }
-      }
-    },
-    {
-      "uuid": "c7a4f028-3b5e-4d54-97c6-917e4aa75bc2",
-      "status": "FIX",
-      "problems": [
-        "Dystraktory z niewłaściwych kategorii semantycznych (zasada 3): pytanie dotyczy definicji miejsca/obszaru (rejon manewrowy), a dystraktor B to definicja urządzenia (hamulec torowy), C to definicja planu (plan pracy manewrowej), D to definicja osoby (rewident taboru). Zastąpiono dystraktory definicją miejsca z § 2 (bocznica kolejowa) oraz zmodyfikowanymi wersjami definicji rejonu manewrowego (Priorytet 2)."
-      ],
-      "changes": {
-        "answers": {
-          "A": "obszar stacji wydzielony pod względem organizacji i technologii manewrów, w którym zasadniczo zatrudniona jest jedna drużyna manewrowa z lokomotywą manewrową lub innym urządzeniem technicznym służącym do manewrów",
-          "B": "droga kolejowa połączona z linią kolejową i służąca do wykonywania załadunku i wyładunku wagonów lub wykonywania czynności utrzymaniowych pojazdów kolejowych lub postoju pojazdów kolejowych",
-          "C": "obszar stacji wydzielony pod względem organizacji i technologii ruchu pociągów, w którym zasadniczo zatrudniony jest jeden dyżurny ruchu",
-          "D": "obszar stacji obejmujący wszystkie tory główne i boczne, na którym prowadzony jest ruch pociągów i manewry przez jednego dyżurnego ruchu"
-        }
-      }
-    },
-    {
-      "uuid": "a4767c05-cc27-4bcb-a4eb-dbbe0800b57e",
-      "status": "FIX",
-      "problems": [
-        "Dystraktor D z niewłaściwej kategorii semantycznej (zasada 3): pytanie dotyczy definicji typu pojazdu (pojazd pomocniczy), a dystraktor D to definicja urządzenia (hamulec torowy). Zastąpiono D definicją pojazdu/składu z § 2 (skład manewrowy, ust. 20)."
-      ],
-      "changes": {
-        "answers": {
-          "D": "pojazdy kolejowe sprzęgnięte z pojazdem kolejowym z napędem lub zespół trakcyjny wykonujący manewry"
-        }
-      }
-    },
-    {
-      "uuid": "fcc910a1-3497-42dc-840d-dc26c7b9f443",
-      "status": "FIX",
-      "problems": [
-        "Dystraktory z niewłaściwych kategorii semantycznych (zasada 3): pytanie dotyczy definicji grupy pojazdów/wagonów (odprzęg), a dystraktor A to definicja urządzenia (hamulec torowy), B to definicja miejsca (bocznica), D to definicja czynności (manewry). Zastąpiono dystraktory definicjami grup pojazdów/wagonów z § 2 (skład manewrowy, skład pociągu, pociąg) oraz zmodyfikowaną wersją."
-      ],
-      "changes": {
-        "answers": {
-          "A": "pojazdy kolejowe sprzęgnięte z pojazdem kolejowym z napędem lub zespół trakcyjny wykonujący manewry",
-          "B": "zestawione pojazdy kolejowe bez czynnego pojazdu trakcyjnego przygotowane do pociągu lub znajdujące się w nim",
-          "C": "jeden wagon lub grupa wagonów połączonych ze sobą, odczepionych od lokomotywy lub od pozostałych przy tej lokomotywie pojazdów, a następnie staczanych z górki rozrządowej lub odrzuconych",
-          "D": "skład wagonów lub innych pojazdów kolejowych sprzęgniętych z czynnym pojazdem trakcyjnym lub pojazd trakcyjny - osygnalizowany i przygotowany do jazdy lub znajdujący się w drodze"
-        }
-      }
-    },
-    {
-      "uuid": "55aa8197-1821-476b-98ff-edd26ae6a3ef",
-      "status": "FIX",
-      "problems": [
-        "Dystraktory z niewłaściwych kategorii semantycznych (zasada 3): pytanie dotyczy definicji osoby/roli (rewident taboru), a dystraktor A to definicja urządzenia (hamulec torowy), C to definicja miejsca (rejon manewrowy), D to definicja dokumentu (regulamin techniczny). Zastąpiono dystraktory definicją osoby z § 2 (maszynista, ust. 6a) oraz zmodyfikowanymi wersjami definicji ról (Priorytet 2)."
-      ],
-      "changes": {
-        "answers": {
-          "A": "pracownik posiadający licencję maszynisty i świadectwo maszynisty spełniający wymogi kwalifikacyjne i zdrowotne",
-          "B": "pracownik wykonujący czynności związane z obsługą techniczną wagonów, elektrycznych zespołów trakcyjnych i autobusów szynowych",
-          "C": "pracownik wykonujący czynności związane z prowadzeniem ruchu pociągów i manewrów na posterunku ruchu",
-          "D": "pracownik wykonujący czynności związane z obsługą hamulców i kontrolą stanu technicznego urządzeń trakcyjnych"
-        }
-      }
-    },
-    {
-      "uuid": "2d71491c-cda0-4a07-8a3b-3718dc61f09b",
-      "status": "FIX",
-      "problems": [
-        "Dystraktor B z niewłaściwej kategorii semantycznej (zasada 3): pytanie dotyczy definicji hamulca/urządzenia (hamulec postojowy), a dystraktor B to definicja typu wagonu (wagon z przekroczoną skrajnią). Zastąpiono B zmodyfikowaną wersją definicji hamulca (Priorytet 2)."
-      ],
-      "changes": {
-        "answers": {
-          "B": "hamulec mechaniczny uruchamiany automatycznie po zatrzymaniu pojazdu, działający na wszystkie osie wagonu"
-        }
-      }
-    },
-    {
-      "uuid": "a1ec3c07-b333-49b6-9c61-03134cb4621f",
-      "status": "FIX",
-      "problems": [
-        "Dystraktory z niewłaściwych kategorii semantycznych (zasada 3): pytanie dotyczy definicji parametru toru (długość użyteczna toru), a dystraktor A to definicja urządzenia (hamulec torowy), C to definicja grupy wagonów (odprzęg), D to definicja hamulca (hamulec postojowy). Zastąpiono dystraktory zmodyfikowanymi wersjami definicji długości użytecznej toru (Priorytet 2), testującymi dokładną znajomość definicji.",
-        "Poprawna odpowiedź B ma ponad 100 znaków i jest ponad 1,5x dłuższa od najdłuższego dystraktora (zasada 6). Wyrównano dystraktory w górę do zbliżonej długości."
-      ],
-      "changes": {
-        "answers": {
-          "A": "długość części toru przeznaczona na postój pociągu lub wagonów, mierzona pomiędzy ukresami lub pomiędzy początkiem i końcem peronu, z uwzględnieniem miejsca usytuowania semafora wjazdowego i wyjazdowego na danym torze stacyjnym",
-          "B": "długość części toru przeznaczona na postój pociągu lub wagonów, mierzona pomiędzy punktem ustawienia semafora, tarczy zaporowej lub manewrowej a ukresem, końcem odcinka izolowanego, punktem zwalniającym przebieg pociągu, miejscem usytuowania wykolejnicy lub miejscem przejazdu kolejowo-drogowego lub przejścia, jeżeli są one czynne w czasie postoju pociągu lub wagonu",
-          "C": "długość części toru przeznaczona na postój pociągu lub wagonów, mierzona pomiędzy punktem ustawienia semafora wjazdowego a semaforem wyjazdowym, z uwzględnieniem końca odcinka izolowanego oraz miejsca usytuowania wykolejnicy na torze sąsiednim",
-          "D": "długość całkowita toru stacyjnego mierzona pomiędzy rozjazdami granicznymi, obejmująca część toru przeznaczoną na postój pociągu lub wagonów oraz odcinki toru przed semaforem wjazdowym i za semaforem wyjazdowym"
-        }
-      }
     },
     {
       "uuid": "ea06794c-5f52-43c2-acc2-8615466344b5",
@@ -369,68 +93,6 @@
       "uuid": "b21a7e20-d65c-41f4-9871-ea66fcee3ef6",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "df49f2e8-9501-4828-b74b-bc8131986191",
-      "status": "DELETE",
-      "problems": [
-        "Treść pytania dotyczy karty rozrządowej, która nie jest w ogóle wymieniona w § 26. Paragraf 26 dotyczy wyłącznie zachowania ostrożności na torach zelektryfikowanych."
-      ]
-    },
-    {
-      "uuid": "815472fb-75ec-42fd-b287-a69eabd8dd68",
-      "status": "FIX",
-      "problems": [
-        "Pytanie zawiera referencję do instrukcji i paragrafu ('według Ir-9 §7') — naruszenie zasady 2. Usunięto referencję z treści pytania."
-      ],
-      "changes": {
-        "question": "Jaką funkcję pełni i za co odpowiada kierownik manewrów?"
-      }
-    },
-    {
-      "uuid": "973673ea-00b4-4bc0-8e21-9aafc13efc23",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź B ma >100 znaków i jest >1,5x dłuższa od najdłuższego dystraktora — należy wyrównać dystraktory w górę do porównywalnej długości"
-      ],
-      "changes": {
-        "answers": {
-          "A": "Natychmiast przystąpić do pracy manewrowej bez informowania kogokolwiek o wynikach sprawdzania torów",
-          "B": "Zgłosić informację o stanie torów, pojazdów kolejowych oraz zauważonych nieprawidłowościach lub przeszkodach kierownikowi manewrów",
-          "C": "Sporządzić pisemny raport o stanie torów i pojazdów kolejowych i przekazać go dyżurnemu ruchu",
-          "D": "Powiadomić maszynistę o stanie torów, pojazdów kolejowych oraz zauważonych nieprawidłowościach"
-        }
-      }
-    },
-    {
-      "uuid": "fb774ce7-c423-4ba0-bf50-a9b4c98013e0",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź B ma >100 znaków i jest >1,5x dłuższa od najdłuższego dystraktora — należy wyrównać dystraktory w górę do porównywalnej długości"
-      ],
-      "changes": {
-        "answers": {
-          "A": "Czy pojazdy kolejowe są prawidłowo oznakowane i przygotowane do odjazdu zgodnie z rozkładem jazdy",
-          "B": "Czy nie pozostawiono pojazdów kolejowych poza ukresami torów oraz czy pojazdy kolejowe są zabezpieczone przed zbiegnięciem",
-          "C": "Wyłącznie czy sprzęgi hamulcowe są pozawieszane na wsporniki i nie zwisają niżej niż 140 mm ponad główkę szyny",
-          "D": "Czy pojazdy kolejowe mają właściwe numery ewidencyjne i kompletne dokumenty przewozowe"
-        }
-      }
-    },
-    {
-      "uuid": "68c7637f-289c-4076-9343-65b5fb3dedda",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź B (~155 znaków) jest ponad 1,5x dłuższa od najdłuższego dystraktora (~85 znaków) — naruszenie zasady 6. Wyrównanie dystraktorów w górę przez rozbudowanie ich o wiarygodne szczegóły z treści paragrafu."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Gdy polecenie zostało wydane przez kierownika manewrów ustnie, a nie za pomocą sygnału, nawet jeżeli plan pracy manewrowej był wcześniej omówiony i uzgodniony z maszynistą",
-          "B": "Gdy nie był omówiony plan pracy manewrowej albo podany sygnał lub polecenia zostały wydane w sposób niezgodny z przepisami lub w sposób budzący wątpliwości",
-          "C": "Gdy prędkość manewrów przekracza dopuszczalną wartość określoną w regulaminie technicznym, a kierownik manewrów nie wydał polecenia zmniejszenia prędkości jazdy",
-          "D": "Gdy maszynista nie ma pewności co do prawidłowego nastawienia zwrotnic na drodze przebiegu i nie może osobiście potwierdzić ich położenia przed rozpoczęciem jazdy"
-        }
-      }
     }
   ]
 }

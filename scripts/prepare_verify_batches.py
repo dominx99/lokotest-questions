@@ -62,6 +62,7 @@ Jeśli explanation jest puste lub brak go — znajdź właściwy paragraf/ustęp
 a następnie zaproponuj **osobne pytania** (status NEW) — po jednym na każdy podpunkt/człon wyliczenia. \
 Każde nowe pytanie powinno testować wiedzę o jednym konkretnym aspekcie definicji/wyliczenia. \
 Wygeneruj UUID dla każdego nowego pytania za pomocą pythona: `import uuid; str(uuid.uuid4())`.
+- **Ogólnikowe odpowiedzi** (zasada 8): oznacz FIX i zastąp ogólnikową treść konkretnymi informacjami z paragrafu.
 - **Poprawna najdłuższa** (zasada 6): oznacz FIX. Wyrównaj dystraktory w górę \
 (nie modyfikuj poprawnej odpowiedzi tylko dla wyrównania długości). \
 Jeśli poprawna jest **krótsza** od dystraktorów — to NIE jest problem, oznacz OK.
