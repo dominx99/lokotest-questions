@@ -11,11 +11,22 @@ Usage:
 from __future__ import annotations
 
 import json
+import re
 import sys
 from datetime import datetime
 from pathlib import Path
 
 INSTRUCTIONS_DIR = Path("instructions")
+
+
+def fix_polish_quotes(text: str) -> str:
+    """Fix Polish „..." quotes where closing quote is ASCII " (U+0022).
+
+    Agents sometimes produce „text" with U+201E opener and ASCII " closer,
+    which breaks JSON parsing because ASCII " is the JSON string delimiter.
+    Replace the ASCII closer with U+201D (right double quotation mark).
+    """
+    return re.sub(r'\u201e([^"\u201d\u201e]*)"', '\u201e\\1\u201d', text)
 
 
 def load_json(path: Path) -> dict:
@@ -59,7 +70,8 @@ def main() -> None:
     new_questions = []
     for f in json_files:
         try:
-            data = json.loads(f.read_text(encoding="utf-8"))
+            raw = fix_polish_quotes(f.read_text(encoding="utf-8"))
+            data = json.loads(raw)
             if isinstance(data, list):
                 new_questions.extend(data)
             else:

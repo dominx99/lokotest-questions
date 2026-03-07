@@ -64,7 +64,9 @@ Następnie użyj narzędzia **Write** aby zapisać plik `%(output_path)s` z tabl
 ]
 ```
 
-WAŻNE: Do zapisu pliku użyj narzędzia Write (NIE Bash z python3). Plik musi zawierać TYLKO tablicę JSON, bez dodatkowego tekstu.
+WAŻNE:
+- Do zapisu pliku użyj narzędzia Write (NIE Bash z python3). Plik musi zawierać TYLKO tablicę JSON, bez dodatkowego tekstu.
+- NIE UŻYWAJ polskich cudzysłowów „..." w treściach JSON — używaj zwykłych cudzysłowów \\\"...\\\" (escaped) lub w ogóle pomijaj cudzysłowy wewnętrzne. Polskie „ zamykane ASCII-owym " psuje składnię JSON.
 """
 
 
