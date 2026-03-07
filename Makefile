@@ -1,4 +1,4 @@
-.PHONY: pdfs-to-markdowns pdf-to-markdown clean-markdowns sections section xlsx-to-json json-to-xlsx toc view apply-verification deficits mark-verified unmark-verified fresh-questions
+.PHONY: pdfs-to-markdowns pdf-to-markdown clean-markdowns sections section xlsx-to-json json-to-xlsx toc view apply-verification deficits mark-verified unmark-verified fresh-questions new
 
 INSTRUCTIONS_DIR := instructions
 
@@ -87,3 +87,7 @@ unmark-verified:
 # Usage: make fresh-questions ONLY=Ir-5
 fresh-questions:
 	uv run python scripts/fresh_questions.py $(ONLY)
+
+# Full pipeline for a new instruction: PDF → Markdown → sections → empty questions
+# Usage: make new ONLY=Ir-1a
+new: pdf-to-markdown section fresh-questions
