@@ -25,6 +25,14 @@ def extract_section_ref(explanation: str) -> str | None:
     return None
 
 
+def extract_section(explanation: str) -> int | None:
+    """Extract section number from explanation text, e.g. 'Ir-1 § 12 ust. 1' -> 12."""
+    m = re.search(r"§\s*(\d+)", explanation)
+    if m:
+        return int(m.group(1))
+    return None
+
+
 def convert_xlsx(xlsx_path: Path, instruction_name: str) -> dict:
     """Convert a single XLSX file to a questions dict."""
     wb = openpyxl.load_workbook(xlsx_path, read_only=True, data_only=True)
@@ -52,6 +60,7 @@ def convert_xlsx(xlsx_path: Path, instruction_name: str) -> dict:
             "correct": str(correct).strip() if correct else "",
             "explanation": explanation_str.strip(),
             "section_ref": extract_section_ref(explanation_str),
+            "section": extract_section(explanation_str),
         })
 
     wb.close()

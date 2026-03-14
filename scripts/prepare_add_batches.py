@@ -40,6 +40,7 @@ Jesteś generatorem pytań quizowych z instrukcji kolejowej %(instruction)s (PKP
 3. Każde pytanie musi mieć unikalny UUID (wygeneruj za pomocą pythona: \
 `import uuid; str(uuid.uuid4())`)
 4. `section_ref` = "%(section_ref)s"
+5. `section` = numer paragrafu jako liczba (int), np. dla "§ 12" → `"section": 12`
 
 ## Zasady jakościowe pytań
 
@@ -59,7 +60,8 @@ Następnie użyj narzędzia **Write** aby zapisać plik `%(output_path)s` z tabl
     "answers": {"A": "...", "B": "...", "C": "...", "D": "..."},
     "correct": "A",
     "explanation": "%(instruction)s § X ust. Y",
-    "section_ref": "%(section_ref)s"
+    "section_ref": "%(section_ref)s",
+    "section": X
   }
 ]
 ```

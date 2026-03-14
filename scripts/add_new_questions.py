@@ -101,6 +101,7 @@ def main() -> None:
                 "correct": q.get("correct", ""),
                 "explanation": q.get("explanation", ""),
                 "section_ref": q.get("section_ref", ""),
+                "section": q.get("section"),
             },
         })
 

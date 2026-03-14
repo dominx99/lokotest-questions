@@ -32,6 +32,8 @@ def save_json(path: Path, data: dict) -> None:
 def recalculate_section_ref(q: dict) -> None:
     m = re.search(r"§\s*(\d+\w?)", q.get("explanation", ""))
     q["section_ref"] = f"§ {m.group(1)}" if m else None
+    m_num = re.search(r"§\s*(\d+)", q.get("explanation", ""))
+    q["section"] = int(m_num.group(1)) if m_num else None
 
 
 def apply_one(
