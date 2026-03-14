@@ -1,0 +1,1993 @@
+{
+  "instruction": "Ir-5a",
+  "questions": [
+    {
+      "uuid": "8c07171d-d5ab-41df-a229-6eb9cab228bc",
+      "question": "Czego dotyczy instrukcja Ir-5a?",
+      "answers": {
+        "A": "Zasad posługiwania się terminalami stacjonarnymi i mobilnymi użytkowanymi w sieci GSM-R",
+        "B": "Zasad prowadzenia ruchu pociągów na liniach kolejowych zarządzanych przez PLK S.A.",
+        "C": "Zasad eksploatacji i utrzymania urządzeń srk na liniach kolejowych",
+        "D": "Zasad korzystania z radiołączności analogowej w transporcie kolejowym"
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 1 ust. 1",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "1ab2ff79-b25f-4b73-9ad5-e159d6e75b24",
+      "question": "Którzy pracownicy są zobowiązani do znajomości instrukcji Ir-5a?",
+      "answers": {
+        "A": "Wyłącznie pracownicy zajmujący stanowiska kierownicze w PKP PLK S.A.",
+        "B": "Pracownicy zatrudnieni na stanowiskach, na których zainstalowane są terminale stacjonarne lub mobilne (kabinowe)",
+        "C": "Wszyscy pracownicy zatrudnieni przez przewoźników kolejowych korzystających z linii PLK S.A.",
+        "D": "Wyłącznie pracownicy służby telekomunikacji odpowiedzialni za utrzymanie sieci GSM-R"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 1 ust. 3 pkt 1",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "8abdfe13-b3b3-49df-93a8-25e0a5bda6d1",
+      "question": "Co zawiera instrukcja Ir-5a?",
+      "answers": {
+        "A": "Opis sieci GSM-R, zasady nawiązywania w niej łączności oraz zakres jej wykorzystywania",
+        "B": "Opis sieci GSM-R, procedury awaryjne oraz wykaz uprawnionych użytkowników sieci",
+        "C": "Zasady nawiązywania łączności, taryfikator opłat oraz harmonogram rozbudowy sieci",
+        "D": "Opis sieci GSM-R, zasady jej utrzymania oraz procedury zgłaszania usterek"
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 1 ust. 4",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "69a10e86-8222-40bf-b731-64f29284af56",
+      "question": "Jakie znaki wywoławcze stosuje się dla terminali kabinowych w sieci GSM-R?",
+      "answers": {
+        "A": "Nazwy posterunków ruchu",
+        "B": "Numery pociągów",
+        "C": "Stanowisko użytkownika",
+        "D": "Numery terminali"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 10 ust. 4",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "1b3119bf-993e-479f-bd06-0d611c05799f",
+      "question": "Jakie znaki wywoławcze stosuje się dla terminali stacjonarnych FDS w sieci GSM-R?",
+      "answers": {
+        "A": "Numery pociągów",
+        "B": "Stanowisko użytkownika",
+        "C": "Nazwy posterunków ruchu",
+        "D": "Numery terminali"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 10 ust. 4",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "b4678117-6270-4ba1-a131-c312e745e710",
+      "question": "Co dzieje się z trwającym połączeniem w sieci GSM-R, gdy nadejdzie połączenie o wyższym priorytecie?",
+      "answers": {
+        "A": "Trwające połączenie zostaje wstrzymane i umieszczone w kolejce oczekujących",
+        "B": "Trwające połączenie zostaje przerwane",
+        "C": "Nowe połączenie jest odrzucane do czasu zakończenia trwającego połączenia",
+        "D": "Oba połączenia są realizowane równocześnie"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 10 ust. 2",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "5af03ffa-277e-4695-8d15-a60f72ebb566",
+      "question": "Co dzieje się z połączeniem przychodzącym na terminal FDS o takim samym lub niższym priorytecie, gdy terminal jest zajęty innym połączeniem?",
+      "answers": {
+        "A": "Połączenie jest automatycznie odrzucane",
+        "B": "Połączenie przerywa trwające połączenie",
+        "C": "Połączenie widoczne jest na ekranie terminala FDS w kolejce połączeń oczekujących",
+        "D": "Połączenie jest przekierowywane na inny terminal"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 10 ust. 3",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "bb9bbf2d-a030-4fd4-8b51-44adacdc9c9e",
+      "question": "Przed porozumiewaniem sie w sieci GSM-R, w jakim przypadku można pominac identyfikacje osoby nawiazujacej kontakt?",
+      "answers": {
+        "A": "Gdy rozmówca jest już znany z wcześniejszych kontaktów",
+        "B": "Gdy połączenie dotyczy przekazania meldunku potwierdzającego",
+        "C": "W przypadku bardzo pilnych komunikatów o najwyższym priorytecie związanych z bezpieczeństwem",
+        "D": "Gdy połączenie jest inicjowane przez dyżurnego ruchu"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 10 ust. 6",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "1b7d4d70-c0dc-4e13-8a48-8831609e9355",
+      "question": "Kiedy dyżurnemu ruchu wolno wyłączyć terminal FDS podczas pełnienia dyżuru?",
+      "answers": {
+        "A": "Nigdy — terminal FDS nie może być wyłączony podczas dyżuru",
+        "B": "Gdy konserwacja wymaga wyłączenia i wszystkie role z obszaru odpowiedzialności zostały przejęte na innym terminalu",
+        "C": "Wyłącznie na polecenie kierownika sekcji",
+        "D": "Gdy nadchodzi połączenie REC i terminal wymaga restartu"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 10 ust. 9",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "dfad6fea-8fe2-4fc7-bb0c-1424d6ad45fa",
+      "question": "W jaki sposób maszynista nawiazuje polaczenie z dyżurnym ruchu w sieci GSM-R?",
+      "answers": {
+        "A": "Przez reczne wybranie numeru dyżurnego ruchu na klawiaturze terminala kabinowego",
+        "B": "Za pomoca odpowiedniego przycisku na pulpicie terminala kabinowego, a siec GSM-R nawiazuje polaczenie automatycznie na podstawie polozenia geograficznego",
+        "C": "Przez wybranie funkcji LDA i reczne potwierdzenie polaczenia z wlasciwym posterunkiem",
+        "D": "Za pomoca terminala przenosnego po zgloszeniu sie do centrum dyspozytorskiego"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 10 ust. 11",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "4730904f-01ed-49a0-8bee-3b54599b271c",
+      "question": "Jakie skutki dla trwających połączeń punkt-punkt ma zainicjowanie połączenia grupowego z wykorzystaniem funkcji \"maszyniści w pobliżu\"?",
+      "answers": {
+        "A": "Trwające połączenia punkt-punkt zostają zawieszone do czasu zakończenia połączenia grupowego",
+        "B": "Trwające połączenia punkt-punkt zostają przerwane",
+        "C": "Trwające połączenia punkt-punkt nie są w żaden sposób zakłócane",
+        "D": "Trwające połączenia punkt-punkt są przekierowane do uczestników grupy"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 11 ust. 2",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "8382ecec-dd0e-47f0-b163-6b2cee6342b1",
+      "question": "Z kim pracownicy dysponujący terminalem przenośnym mogą nawiązywać łączność w normalnych warunkach pracy?",
+      "answers": {
+        "A": "Ze wszystkimi użytkownikami sieci GSM-R na terenie całej linii kolejowej",
+        "B": "Wyłącznie z maszynistami pociągów, bez możliwości kontaktu z dyżurnymi ruchu",
+        "C": "Z dyżurnymi ruchu odpowiedzialnymi za obszar ich obowiązków oraz maszynistami pociągów znajdującymi się w tym obszarze",
+        "D": "Wyłącznie z dyżurnymi ruchu odpowiedzialnymi za obszar ich obowiązków, bez możliwości kontaktu z maszynistami"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 12 ust. 1",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "786c5d40-c262-4fce-9824-6d8a7a5d511b",
+      "question": "W jaki sposób pracownicy z terminalem przenośnym nawiązują łączność w sytuacji zagrożenia bezpieczeństwa?",
+      "answers": {
+        "A": "Poprzez indywidualne połączenie z dyżurnym ruchu odpowiedzialnym za dany obszar",
+        "B": "Za pomocą kolejowego połączenia alarmowego REC ze wszystkimi użytkownikami w danym obszarze",
+        "C": "Poprzez indywidualne połączenie z maszynistami pociągów w danym obszarze",
+        "D": "Za pomocą wewnętrznych regulacji przewoźnika obowiązujących drużynę pociągową"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 12 ust. 2",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "f07a602f-b87d-4498-ae45-a784666b028c",
+      "question": "Co maszynista zobowiązany jest zrobić podczas zbliżania się do sygnalizatora informującego, że kolejny semafor wskazuje sygnał \"Stój\"?",
+      "answers": {
+        "A": "Zatrzymać pociąg przed sygnalizatorem i oczekiwać na zmianę wskazania semafora",
+        "B": "Nawiązać łączność z dyżurnym ruchu, powtórzyć wskazania semafora i zapytać o dyspozycje",
+        "C": "Zmniejszyć prędkość do 20 km/h i kontynuować jazdę do momentu zatrzymania pociągu",
+        "D": "Powiadomić kierownika pociągu i wspólnie podjąć decyzję o dalszej jeździe"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 13 ust. 2",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "9f710df1-baf9-4f26-9c1a-028f916f1306",
+      "question": "Do jakiego celu przeznaczone są terminale stacjonarne FDS?",
+      "answers": {
+        "A": "Do łączności pomiędzy dyżurnymi ruchu",
+        "B": "Do łączności pomiędzy maszynistami a dyspozytorem",
+        "C": "Do łączności pomiędzy kierownikami pociągów",
+        "D": "Do łączności pomiędzy pracownikami służby drogowej"
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 14 ust. 1",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "bc716b51-1761-48f5-becf-0e05627527e8",
+      "question": "Kto jest zobowiązany do niezwłocznego powiadomienia zainteresowanych pracowników za pomocą kolejowego połączenia alarmowego REC po rozpoznaniu zagrożenia bezpieczeństwa ruchu kolejowego?",
+      "answers": {
+        "A": "Wyłącznie dyżurny ruchu odpowiedzialny za dany odcinek",
+        "B": "Każdy użytkownik terminala GSM-R",
+        "C": "Wyłącznie maszynista prowadzący pociąg",
+        "D": "Wyłącznie pracownicy służb ratowniczych"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 15 ust. 1",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "fb825694-2d88-43c0-ab32-9976cff68f98",
+      "question": "Kto uczestniczy w kolejowym połączeniu alarmowym REC?",
+      "answers": {
+        "A": "Tylko dyżurni ruchu i maszyniści na danym obszarze",
+        "B": "Tylko użytkownicy terminali mobilnych na danym obszarze",
+        "C": "Wszyscy użytkownicy sieci GSM-R na określonym obszarze",
+        "D": "Tylko inicjator połączenia i dyżurny ruchu właściwy dla danego obszaru"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 15 ust. 2",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "6f98c3eb-d8c4-43ac-8588-a70393eae39b",
+      "question": "Czy drużyna konduktorska należy do użytkowników sieci GSM-R, dla których dostępne jest kolejowe połączenie alarmowe REC?",
+      "answers": {
+        "A": "Nie, drużyna konduktorska nie jest wymieniona wśród uprawnionych użytkowników",
+        "B": "Tak, ale tylko w pociągach pasażerskich dalekobieżnych",
+        "C": "Tak, drużyna konduktorska jest jednym z uprawnionych użytkowników",
+        "D": "Tak, ale tylko gdy pełni funkcję kierownika pociągu"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 15 ust. 3 pkt 3",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "7954b0d1-afdb-4955-853c-d841ab602afa",
+      "question": "W jaki sposób inicjuje się kolejowe połączenie alarmowe REC z terminala mobilnego?",
+      "answers": {
+        "A": "Przez naciśnięcie i przytrzymanie przez około 5 sekund przycisku w kolorze czerwonym, a następnie potwierdzenie",
+        "B": "Przez naciśnięcie i przytrzymanie przez około 2 sekundy przycisku w kolorze czerwonym, a następnie potwierdzenie",
+        "C": "Przez naciśnięcie i przytrzymanie przez około 2 sekundy przycisku w kolorze zielonym, a następnie potwierdzenie",
+        "D": "Przez wybranie dedykowanej ikony na ekranie i naciśnięcie przycisku PTT"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 15 ust. 4",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "e7be84c2-b169-4634-9a48-f47820a14d3c",
+      "question": "Od czego uzależniony jest obszar objęty kolejowym połączeniem alarmowym REC inicjowanym z terminala mobilnego?",
+      "answers": {
+        "A": "Od ustawień operatora sieci GSM-R dla danego obszaru odpowiedzialności",
+        "B": "Od lokalizacji użytkownika terminala mobilnego GSM-R, w której zostało zainicjowane połączenie",
+        "C": "Od numeru funkcyjnego inicjatora połączenia alarmowego",
+        "D": "Od zasięgu stacji bazowej GSM-R najbliższej miejscu inicjowania połączenia"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 15 ust. 5",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "ba1bdeb3-b5be-4507-affc-bd78fd72cf24",
+      "question": "Co jest prezentowane na wyświetlaczu terminala stacjonarnego FDS uczestniczącego w kolejowym połączeniu alarmowym REC?",
+      "answers": {
+        "A": "Czas zestawienia połączenia alarmowego",
+        "B": "Lokalizacja użytkownika inicjującego połączenie alarmowe",
+        "C": "Liczba użytkowników uczestniczących w połączeniu alarmowym",
+        "D": "Numer funkcyjny inicjującego kolejowe połączenie alarmowe REC"
+      },
+      "correct": "D",
+      "explanation": "Ir-5a § 15 ust. 6",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "b1cee125-e878-4d47-a246-094b1ee7ae3c",
+      "question": "Ile faz obejmuje kolejowe połączenie alarmowe REC?",
+      "answers": {
+        "A": "Dwie fazy: inicjowania i zakończenia",
+        "B": "Cztery fazy: ostrzeżenia, nawiązania, przekazywania informacji i zakończenia",
+        "C": "Trzy fazy: ostrzeżenia, przekazywania informacji i zakończenia połączenia",
+        "D": "Dwie fazy: ostrzeżenia i przekazywania informacji"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 15 ust. 9",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "59e9f998-4208-4749-a41d-4d74788a8d71",
+      "question": "Jak długo trwa charakterystyczny sygnał dźwiękowy poprzedzający kolejowe połączenie alarmowe REC?",
+      "answers": {
+        "A": "2 sekundy",
+        "B": "10 sekund",
+        "C": "30 sekund",
+        "D": "5 sekund"
+      },
+      "correct": "D",
+      "explanation": "Ir-5a § 15 ust. 10 pkt 1",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "a0b37de8-b165-4205-bcf1-4bdf549b2220",
+      "question": "Co dzieje się z trwającymi połączeniami głosowymi w momencie zestawienia kolejowego połączenia alarmowego REC?",
+      "answers": {
+        "A": "Zostają wstrzymane i wznowione po zakończeniu połączenia alarmowego",
+        "B": "Zostają przerwane",
+        "C": "Pozostają aktywne równolegle do połączenia alarmowego",
+        "D": "Zostają przekierowane do dyżurnego ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 15 ust. 10 pkt 1",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "9b639ccd-a04b-4c16-be2e-15c930d59d34",
+      "question": "Co zobowiązany jest zrobić maszynista po odebraniu połączenia alarmowego REC na terminalu pojazdu kolejowego?",
+      "answers": {
+        "A": "Zwolnić do prędkości 20 km/h i oczekiwać na dalsze polecenia dyżurnego ruchu",
+        "B": "Natychmiast zatrzymać pojazd, a następnie oczekiwać na informacje weryfikujące przyczynę nadania połączenia REC",
+        "C": "Zatrzymać pojazd na najbliższym posterunku ruchu i poinformować dyżurnego",
+        "D": "Kontynuować jazdę i jednocześnie oczekiwać na informacje o przyczynie alarmu"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 15 ust. 10 pkt 2",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "d8facf5f-e474-466c-82ae-7ee92d3a3e2d",
+      "question": "Przez jaki maksymalny czas terminal mobilny ponawia próby zestawienia kolejowego połączenia alarmowego w przypadku niepowodzenia?",
+      "answers": {
+        "A": "60 sekund",
+        "B": "10 sekund",
+        "C": "30 sekund",
+        "D": "5 sekund"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 15 ust. 10 pkt 3",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "d6e885c6-5e39-4e7f-8135-51da9cfcb5f4",
+      "question": "Kto może zakończyć kolejowe połączenie alarmowe REC?",
+      "answers": {
+        "A": "Wyłącznie inicjator połączenia lub dyżurny ruchu",
+        "B": "Użytkownik terminala mobilnego inicjującego, użytkownik terminala stacjonarnego uczestniczącego lub sieć GSM-R automatycznie",
+        "C": "Wyłącznie sieć GSM-R automatycznie po czasie określonym w systemie",
+        "D": "Wyłącznie użytkownik terminala stacjonarnego uczestniczącego w połączeniu"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 15 ust. 12 pkt 1",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "ac646d16-12ea-44be-851e-c2775c3721f6",
+      "question": "W jakich przypadkach zabrania się zakończenia połączenia REC użytkownikom sieci GSM-R?",
+      "answers": {
+        "A": "Gdy połączenie trwa dłużej niż 30 sekund bez przekazania komunikatu",
+        "B": "Gdy połączenie zostało zainicjowane przez inny posterunek ruchu",
+        "C": "Gdy zainicjowano połączenie bez poinformowania innych o przyczynie jego nadania lub odebrano połączenie bez uzyskania informacji o przyczynie jego zainicjowania",
+        "D": "Gdy w połączeniu uczestniczy więcej niż 10 użytkowników terminali mobilnych"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 15 ust. 12 pkt 2",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "872d5a6a-5761-45a6-885c-5051c71a1846",
+      "question": "Co zawiera potwierdzenie wysyłane automatycznie przez terminal mobilny do sieci GSM-R po opuszczeniu lub zakończeniu kolejowego połączenia alarmowego?",
+      "answers": {
+        "A": "Czas zestawienia, czas zakończenia i numer funkcyjny inicjatora",
+        "B": "Czas zestawienia, lokalizację inicjatora i numer funkcyjny inicjatora",
+        "C": "Numer funkcyjny inicjatora, liczba uczestników i czas trwania połączenia",
+        "D": "Czas zestawienia, czas zakończenia i lokalizację terminala w momencie inicjowania"
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 15 ust. 15",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "662f5407-8805-4db3-a8a2-0cfdf322f82e",
+      "question": "Co jest obowiązkiem dyżurnego ruchu po otrzymaniu informacji związanych z odebraniem połączenia REC?",
+      "answers": {
+        "A": "Odnotowanie zdarzenia wyłącznie w dzienniku ruchu, przez całą szerokość strony",
+        "B": "Przekazanie informacji do centrum zarządzania ruchem i oczekiwanie na instrukcje",
+        "C": "Dokonanie stosownych odpisów w dzienniku ruchu i dzienniku telefonicznym",
+        "D": "Niezwłoczne poinformowanie maszynistow na danym obszarze o przyczynie alarmu"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 15 ust. 23",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "32e8c1cc-76a6-4ddc-93e5-de5d09cc53bb",
+      "question": "Kto jest zobowiązany do niezwłocznego powiadomienia zainteresowanych pracowników o zagrożeniu bezpieczeństwa w ruchu kolejowym za pomocą połączenia alarmowego REC?",
+      "answers": {
+        "A": "Wyłącznie dyżurny ruchu po potwierdzeniu zagrożenia",
+        "B": "Każdy użytkownik terminala GSM-R po rozpoznaniu lub uzyskaniu informacji o zagrożeniu",
+        "C": "Wyłącznie maszynista pojazdu znajdującego się w strefie zagrożenia",
+        "D": "Wyłącznie pracownicy grup ratowniczych i drużyna konduktorska"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 15 ust. 1",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "ce3fd960-8f6f-48f1-ab83-ae354fa35340",
+      "question": "Kto uczestniczy w kolejowym połączeniu alarmowym REC?",
+      "answers": {
+        "A": "Wyłącznie dyżurni ruchu i maszyniści na danej linii",
+        "B": "Wszyscy użytkownicy sieci GSM-R na określonym obszarze",
+        "C": "Tylko użytkownicy terminali mobilnych w zasięgu sygnału",
+        "D": "Wyłącznie użytkownicy wskazani przez inicjatora połączenia"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 15 ust. 2",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "27e128b0-2e5e-4993-9ee6-e591ebe9100a",
+      "question": "Który z wymienionych podmiotów NIE jest wymieniony wśród użytkowników mających dostęp do kolejowego połączenia alarmowego REC?",
+      "answers": {
+        "A": "Drużyna konduktorska",
+        "B": "Grupy ratownicze",
+        "C": "Dróżnicy przejazdowi",
+        "D": "Pracownicy stacji obsługi taboru"
+      },
+      "correct": "D",
+      "explanation": "Ir-5a § 15 ust. 3",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "58501834-cff3-4603-94c5-e96da2060888",
+      "question": "Jak należy zainicjować kolejowe połączenie alarmowe REC z terminala mobilnego?",
+      "answers": {
+        "A": "Wybrać odpowiednie menu na ekranie dotykowym i zatwierdzić wybor",
+        "B": "Nacisnąć i przytrzymać przez około 2 sekundy czerwony przycisk, a następnie potwierdzić zainicjowanie połączenia",
+        "C": "Nacisnąć jednocześnie przyciski PTT i zielonego słuchawki przez 3 sekundy",
+        "D": "Nacisnąć i przytrzymać przez około 5 sekund czerwony przycisk bez dodatkowego potwierdzenia"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 15 ust. 4",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "d97d9708-619b-4ca0-b048-0015fb775247",
+      "question": "Od czego uzależniony jest obszar objęty kolejowym połączeniem alarmowym REC zainicjowanym z terminala mobilnego?",
+      "answers": {
+        "A": "Od mocy nadajnika terminala mobilnego i warunków atmosferycznych",
+        "B": "Od ustawień operatora sieci GSM-R dla danej linii kolejowej",
+        "C": "Od lokalizacji użytkownika terminala mobilnego, w której zostało zainicjowane połączenie",
+        "D": "Od liczby aktywnych terminali w danej strefie sieci GSM-R"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 15 ust. 5",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "020893e2-2d04-47cc-bf87-8f237b56c833",
+      "question": "Co prezentowane jest na wyświetlaczu terminala stacjonarnego FDS uczestniczącego w kolejowym połączeniu alarmowym REC?",
+      "answers": {
+        "A": "Lokalizacja geograficzna inicjatora połączenia alarmowego",
+        "B": "Numer funkcyjny inicjującego kolejowe połączenie alarmowe REC",
+        "C": "Czas trwania połączenia alarmowego od momentu jego zainicjowania",
+        "D": "Liczba terminali aktualnie uczestniczących w połączeniu alarmowym"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 15 ust. 6",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "59df8779-9315-4985-b627-a1257ca6911b",
+      "question": "Ile faz obejmuje kolejowe połączenie alarmowe REC?",
+      "answers": {
+        "A": "Dwie fazy: ostrzeżenia i zakończenia połączenia",
+        "B": "Cztery fazy: inicjowania, ostrzeżenia, przekazywania informacji i zakończenia",
+        "C": "Trzy fazy: ostrzeżenia, przekazywania informacji i zakończenia połączenia",
+        "D": "Pięć faz: inicjowania, ostrzeżenia, potwierdzenia, przekazywania informacji i zakończenia"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 15 ust. 9",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "a2837927-5197-437e-8593-567639f534bc",
+      "question": "Jak długo trwa charakterystyczny sygnał dźwiękowy poprzedzający kolejowe połączenie alarmowe REC?",
+      "answers": {
+        "A": "2 sekundy",
+        "B": "10 sekund",
+        "C": "3 sekundy",
+        "D": "5 sekund"
+      },
+      "correct": "D",
+      "explanation": "Ir-5a § 15 ust. 10 pkt 1",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "0a898787-d1c6-4527-b45f-c6f3e3cbe37f",
+      "question": "Co musi zrobić maszynista po odebraniu połączenia alarmowego REC na terminalu pojazdu kolejowego?",
+      "answers": {
+        "A": "Zmniejszyć prędkość do 40 km/h i oczekiwać na dalsze polecenia",
+        "B": "Natychmiast zatrzymać pojazd, a następnie oczekiwać na informacje weryfikujące przyczynę nadania połączenia REC",
+        "C": "Zatrzymać pojazd na najbliższej stacji i zameldować się u dyżurnego ruchu",
+        "D": "Kontynuować jazdę z zachowaniem szczegolnej ostrożności do chwili uzyskania dodatkowych informacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 15 ust. 10 pkt 2",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "8db95d87-5cea-4927-b736-7eebb0dceb52",
+      "question": "Przez jaki maksymalny czas terminal mobilny ponawia próby zestawienia kolejowego połączenia alarmowego w przypadku niepowodzenia?",
+      "answers": {
+        "A": "60 sekund lub do momentu rezygnacji użytkownika",
+        "B": "15 sekund lub do momentu rezygnacji użytkownika",
+        "C": "30 sekund lub do momentu rezygnacji użytkownika",
+        "D": "45 sekund lub do momentu rezygnacji użytkownika"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 15 ust. 10 pkt 3",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "bbee2072-fba0-49ab-a182-79ef690dce8c",
+      "question": "W jakim czasie terminal mobilny informuje o nieudanej próbie nawiązania kolejowego połączenia alarmowego?",
+      "answers": {
+        "A": "W czasie krótszym niż 5 sekund",
+        "B": "W czasie krótszym niż 2 sekundy",
+        "C": "W czasie krótszym niż 10 sekund",
+        "D": "W czasie krótszym niż 30 sekund"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 15 ust. 10 pkt 4",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "08933dd2-a10c-4c74-9f3b-1623f22b7ad0",
+      "question": "Kto może zakończyć kolejowe połączenie alarmowe REC?",
+      "answers": {
+        "A": "Wyłącznie inicjator połączenia lub operator sieci GSM-R",
+        "B": "Wyłącznie dyżurny ruchu uczestniczący w połączeniu",
+        "C": "Użytkownik terminala mobilnego inicjującego połączenie, użytkownik terminala stacjonarnego uczestniczącego w połączeniu lub sieć GSM-R",
+        "D": "Wyłącznie sieć GSM-R po automatycznym wykryciu braku aktywności"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 15 ust. 12 pkt 1",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "f953bce3-73b2-4f18-ae6b-c5f9c92f2792",
+      "question": "Kiedy zabrania się zakończenia połączenia REC użytkownikom sieci GSM-R?",
+      "answers": {
+        "A": "Gdy połączenie trwa dłużej niż 5 minut bez aktywnej wymiany informacji",
+        "B": "Gdy połączenie REC zostało zainicjowane bez poinformowania innych użytkowników o przyczynie jego nadania oraz gdy nie uzyskano informacji o przyczynie jego zainicjowania przez innego użytkownika",
+        "C": "Gdy inicjator połączenia nie jest dyżurnym ruchu na danym terenie",
+        "D": "Gdy połączenie jest nadawane jednocześnie z sygnałem Radio-Stop na tej samej linii"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 15 ust. 12 pkt 2",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "9e52aea5-13a4-4545-b7d0-4525ae377f30",
+      "question": "Co zawiera potwierdzenie wysyłane automatycznie do sieci GSM-R przez terminal mobilny po zakończeniu połączenia alarmowego?",
+      "answers": {
+        "A": "Lokalizację inicjatora, czas zestawienia i czas zakończenia połączenia",
+        "B": "Czas zestawienia połączenia, czas zakończenia połączenia i numer funkcyjny inicjatora",
+        "C": "Numer funkcyjny inicjatora, listę uczestników i czas trwania połączenia",
+        "D": "Przyczyne nadania połączenia, numer funkcyjny inicjatora i czas zestawienia"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 15 ust. 15",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "5db26a54-e034-4e56-a45d-2f380e06bc46",
+      "question": "Co powoduje zainicjowanie połączenia alarmowego REC w odniesieniu do automatycznego zatrzymania pociągu?",
+      "answers": {
+        "A": "Powoduje automatyczne zatrzymanie wszystkich pociągów w obszarze objętym połączeniem",
+        "B": "Powoduje automatyczne zatrzymanie wyłącznie pociągów wyposażonych w terminal kabinowy GSM-R",
+        "C": "Nie powoduje samoczynnego zatrzymania pociągu",
+        "D": "Powoduje automatyczne zmniejszenie prędkości do 20 km/h przez system sterowania"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 15 ust. 17",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "6ff1ece7-166b-47ce-a184-13bdb6838917",
+      "question": "W jakim przypadku zatrzymanie pociągu nie jest wymagane przed przekazaniem maszyniście treści rozkazu pisemnego przez łączność GSM-R?",
+      "answers": {
+        "A": "Gdy pociąg porusza się z prędkością mniejszą niż 40 km/h",
+        "B": "Gdy obsada trakcyjna pojazdu kolejowego jest dwuosobowa",
+        "C": "Gdy rozkaz przekazywany jest przez dyżurnego ruchu",
+        "D": "Gdy pociąg jedzie po torze głównym dodatkowym"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 16 ust. 2",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "0665119f-b48f-45d3-9d0c-2f14277f22aa",
+      "question": "Czy maszynista może odmówić przyjęcia rozkazu pisemnego przekazywanego przez łączność GSM-R w czasie jazdy?",
+      "answers": {
+        "A": "Nie, maszynista jest zobowiązany przyjąć rozkaz pisemny niezależnie od okoliczności",
+        "B": "Tak, ale wyłącznie gdy pociąg przekracza prędkość 60 km/h",
+        "C": "Tak, jeżeli uzna, że brak jest dostatecznego czasu na jego przyjęcie i zastosowanie się do jego treści",
+        "D": "Tak, ale tylko za zgodą dyżurnego ruchu stacji następnej"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 16 ust. 3",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "b4e24b3f-0698-4776-8b01-ffec720a2bd5",
+      "question": "Co należy sprawdzić przed przystąpieniem do pracy z terminalem kabinowym lub mobilnym?",
+      "answers": {
+        "A": "Stan zewnętrzny urządzenia oraz czy terminal jest włączony",
+        "B": "Stan zewnętrzny urządzenia oraz poziom naładowania baterii",
+        "C": "Numer funkcyjny oraz stan zewnętrzny urządzenia",
+        "D": "Czy terminal jest zalogowany do sieci GSM-R oraz włączony"
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 17 ust. 1",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "b45bb97b-ad6d-4578-9b40-d8af3c15cf46",
+      "question": "Co należy zrobić po włączeniu terminala, przed sprawdzeniem widoczności numeru na wyświetlaczu?",
+      "answers": {
+        "A": "Wykonać połączenie testowe na numer 909 999",
+        "B": "Wprowadzić numer funkcyjny",
+        "C": "Zalogować się do sieci GSM-R",
+        "D": "Sprawdzić domyślne poziomy dźwięków"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 17 ust. 2",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "1ff91901-01be-4bd9-8b71-5f12cf2b3084",
+      "question": "Jakie jest pierwsze zdarzenie inicjowane przez włączenie terminala kabinowego?",
+      "answers": {
+        "A": "Zalogowanie do sieci GSM-R",
+        "B": "Automatyczne ustawienie domyślnych poziomów dźwięków",
+        "C": "Automatyczne testowanie terminala kabinowego",
+        "D": "Krótkotrwałe podświetlenie wyświetlacza"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 17 ust. 3 pkt 1",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "fb0a88ea-160e-4b07-86da-338b24bd2f11",
+      "question": "Na jaki numer należy wykonać połączenie testowe po poprawnym zalogowaniu numeru funkcyjnego?",
+      "answers": {
+        "A": "112",
+        "B": "999 909",
+        "C": "909 999",
+        "D": "990 999"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 17 ust. 4",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "d156b61a-743e-47de-b830-1c4e0e1ff278",
+      "question": "Jakie połączenia umożliwia obsluzyc włączony i zalogowany do sieci terminal mobilny?",
+      "answers": {
+        "A": "Połączenia głosowe punkt-punkt oraz odpowiednie połączenia grupowe",
+        "B": "Tylko połączenia głosowe punkt-punkt",
+        "C": "Połączenia grupowe oraz połączenia danych",
+        "D": "Połączenia głosowe punkt-punkt oraz połączenia SMS"
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 17 ust. 5",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "0d0f709e-780a-4b49-b3f9-76f46397119f",
+      "question": "Jaki priorytet ma ręczny tryb wyboru sieci radiowej względem trybu automatycznego?",
+      "answers": {
+        "A": "Ręczny tryb ma niższy priorytet niż automatyczny",
+        "B": "Oba tryby mają równy priorytet",
+        "C": "Ręczny tryb ma priorytet nad automatycznym",
+        "D": "Priorytet zależy od dostępności sieci"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 17 ust. 7",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "b3b9b909-ec33-4dd7-8628-73f355802a01",
+      "question": "Kiedy tryb ręcznego wyboru sieci nie jest dostępny?",
+      "answers": {
+        "A": "Gdy terminal jest w trybie oszczędzania energii",
+        "B": "W trakcie aktywnego połączenia głosowego",
+        "C": "Gdy dostępna jest tylko jedna siec radiowa",
+        "D": "W trakcie automatycznego testowania terminala"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 17 ust. 7",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "ea009640-ca49-48f6-a490-47f7a6bae9af",
+      "question": "W jaki sposób sygnalizowane jest przelogowanie terminala mobilnego do innej sieci radiowej?",
+      "answers": {
+        "A": "Tylko dźwiękowo",
+        "B": "Tylko wizualnie",
+        "C": "Dźwiękowo i wizualnie",
+        "D": "Poprzez komunikat tekstowy na wyświetlaczu"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 17 ust. 8",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "c9152f21-d5cd-4c90-a515-3b7f4e2700a0",
+      "question": "W jakiej kolejności prezentowane są dostępne sieci na wyświetlaczu terminala mobilnego — jaką pozycję zajmują zagraniczne sieci GSM-R?",
+      "answers": {
+        "A": "Pierwszą",
+        "B": "Drugą",
+        "C": "Trzecią",
+        "D": "Czwartą"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 17 ust. 9 pkt 2",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "b5faa790-b8d8-48a4-b3a4-c00d1ffc8c4f",
+      "question": "Co maszynista zobowiązany jest zrobić w momencie wjeżdżania w obszar sieci GSM-R oznaczony wskaznikiem W33?",
+      "answers": {
+        "A": "Wykonac połączenie testowe na numer 909 999",
+        "B": "Wylogować terminal z aktualnej sieci publicznej",
+        "C": "Przełączyć terminal w tryb GSM-R",
+        "D": "Zalogować numer funkcyjny CT=2"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 17 ust. 10",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "2f7c8da3-f824-46aa-8e56-0def10b56fbc",
+      "question": "W jaki sposób potwierdzane jest poprawne zalogowanie do sieci GSM-R?",
+      "answers": {
+        "A": "Sygnałem dźwiękowym, a nazwa sieci prezentowana jest na wyświetlaczu",
+        "B": "Sygnałem wizualnym, a numer funkcyjny prezentowany jest na wyświetlaczu",
+        "C": "Sygnałem dźwiękowym i wizualnym jednocześnie",
+        "D": "Automatycznym połączeniem testowym na numer 909 999"
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 17 ust. 11",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "ef9999e8-34df-4da6-ac0c-8a9da1613e00",
+      "question": "Co maszynista powinien zrobić, jeśli numer funkcyjny CT=2 jest zajęty i po poprawnym wpisaniu numeru wciaz otrzymuje komunikat o zajętości?",
+      "answers": {
+        "A": "Skontaktować się z dyspozytorem liniowym i zażądać numeru zastępczego",
+        "B": "Nawiązać łączność z użytkownikiem zajętego numeru i zwrócić się o jego wyrejestrowanie",
+        "C": "Niezwłocznie uruchomić wymuszoną rejestrację numeru funkcyjnego",
+        "D": "Zarejestrować numer funkcyjny CT=3 bez zgody dyżurnego ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 17 ust. 13",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "8ad3a352-4cc6-492a-b0f3-0f4acff17a1f",
+      "question": "Co pracownik użytkujący terminal GSM-R jest zobowiązany zrobić przed rozpoczęciem pracy?",
+      "answers": {
+        "A": "Sprawdzić zewnętrzny stan urządzenia oraz jego działanie przez nawiązanie połączenia z innym dostępnym użytkownikiem",
+        "B": "Zalogować się do terminala zgodnie z instrukcją obsługi FDS i aktywować odpowiednie role",
+        "C": "Powiadomić dyspozytora zakładowego o gotowości do pracy i wpisać to do dokumentacji",
+        "D": "Sprawdzić zewnętrzny stan urządzenia i odnotować wynik sprawdzenia w dokumentacji niezależnie od jego poprawności"
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 18 ust. 1",
+      "section_ref": "§ 18",
+      "section": 18
+    },
+    {
+      "uuid": "5799e5be-d1e6-45dc-8d57-844c29267bfd",
+      "question": "W jakich sytuacjach użytkownik niezalogowany do terminala stacjonarnego może realizować połączenia?",
+      "answers": {
+        "A": "W każdej sytuacji, gdyż brak logowania nie ogranicza funkcjonalności terminala",
+        "B": "Wyłącznie w sytuacjach awaryjnych",
+        "C": "Tylko po uprzednim powiadomieniu dyspozytora zakładowego",
+        "D": "Tylko w godzinach nocnych, gdy ruch pociągów jest ograniczony"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 18 ust. 3",
+      "section_ref": "§ 18",
+      "section": 18
+    },
+    {
+      "uuid": "a967d6f5-9c1f-474b-8ecd-e0e521bada69",
+      "question": "Jaki rodzaj połączeń może inicjować użytkownik niezalogowany do terminala GSM-R?",
+      "answers": {
+        "A": "Połączenia grupowe oraz punkt-punkt, wybierając numer za pomocą klawiatury numerycznej",
+        "B": "Wyłącznie połączenia głosowe typu punkt-punkt, wybierając numer za pomocą klawiatury numerycznej",
+        "C": "Wyłącznie połączenia alarmowe do dyspozytora zakładowego",
+        "D": "Połączenia głosowe i transmisję danych, wybierając numer za pomocą klawiatury numerycznej"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 18 ust. 3",
+      "section_ref": "§ 18",
+      "section": 18
+    },
+    {
+      "uuid": "f0334569-8e83-4f09-b9dd-37e9b8d5af9c",
+      "question": "Co się dzieje po aktywowaniu roli przez użytkownika terminala stacjonarnego?",
+      "answers": {
+        "A": "Terminal automatycznie nawiązuje połączenie z dyspozytorem zakładowym",
+        "B": "Użytkownik uzyskuje dostęp do połączeń grupowych w ramach przypisanej roli",
+        "C": "Użytkownik terminala stacjonarnego przypisuje do stanowiska numer funkcyjny, pod którym jest osiągalny",
+        "D": "Terminal blokuje możliwość przekazania roli innemu użytkownikowi"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 18 ust. 4",
+      "section_ref": "§ 18",
+      "section": 18
+    },
+    {
+      "uuid": "7a0e9ba2-2b04-40fb-9691-e4ab21896818",
+      "question": "W jakich przypadkach dyżurny ruchu powinien niezwłocznie nawiązać łączność z maszynistą?",
+      "answers": {
+        "A": "Gdy stwierdzi nieprawidłowości w wyniku obserwacji przejeżdżającego pociągu lub dla przekazania rozkazów pisemnych",
+        "B": "Wyłącznie gdy stwierdzi grzanie osi lub brak sygnału końca pociągu",
+        "C": "Tylko w celu przekazania rozkazów pisemnych dotyczących zmiany trasy pociągu",
+        "D": "Gdy otrzyma polecenie od dyspozytora liniowego o nawiązaniu łączności z maszynistą"
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 19 ust. 2",
+      "section_ref": "§ 19",
+      "section": 19
+    },
+    {
+      "uuid": "344f51fd-4add-4d93-a891-c9f2394911fd",
+      "question": "W jaki sposób dyżurny ruchu przekazuje informacje o zagrożeniu maszynistom pociągów wyprawianych na szlak, jeżeli nie ma przeciwwskazań do ich wyprawienia?",
+      "answers": {
+        "A": "Wyłącznie przez telefon bezpośrednio przed odjazdem pociągu",
+        "B": "Przez terminal lub odpowiednim rozkazem",
+        "C": "Przez dyspozytora liniowego, który kontaktuje się z maszynistą",
+        "D": "Ustnie na stacji przed wyjazdem pociągu na szlak"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 19 ust. 3",
+      "section_ref": "§ 19",
+      "section": 19
+    },
+    {
+      "uuid": "a6214e06-1993-4084-ab4f-c08dc9de4d33",
+      "question": "Która instrukcja reguluje organizację i użytkowanie sieci GSM-R?",
+      "answers": {
+        "A": "Ie-124",
+        "B": "Ie-16",
+        "C": "Ir-5",
+        "D": "Ir-1"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 2 pkt 3",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "14a6c538-d77f-422f-844e-e733092d422f",
+      "question": "Która instrukcja dotyczy prowadzenia ruchu pociągów z wykorzystaniem systemu ERTMS/ETCS poziomu 2?",
+      "answers": {
+        "A": "Ir-1",
+        "B": "Ir-1a",
+        "C": "Ir-1b",
+        "D": "Ir-2"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 2 pkt 7",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "05e8c790-090d-4d4b-9138-93013b57992e",
+      "question": "Która instrukcja reguluje użytkowanie urządzeń radiołączności pociągowej?",
+      "answers": {
+        "A": "Ie-1",
+        "B": "Ir-2",
+        "C": "Ie-16",
+        "D": "Ir-5"
+      },
+      "correct": "D",
+      "explanation": "Ir-5a § 2 pkt 10",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "2e2a75a9-8fc9-45d1-9333-bc9dd9db7500",
+      "question": "W którym z poniższych przypadków maszyniści NIE są zobowiązani do wzajemnego przekazywania sobie informacji?",
+      "answers": {
+        "A": "Stwierdzenie pożaru w pociągu",
+        "B": "Zauważenie usterek w sieci trakcyjnej",
+        "C": "Stwierdzenie opóźnienia pociągu wynikającego z rozkładu jazdy",
+        "D": "Stwierdzenie nieprawidłowości w osygnalizowaniu czoła pociągu"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 20 ust. 1",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "240078c9-9875-40e4-a4cb-3e672481d5af",
+      "question": "Maszynista stwierdził, że mijany pociąg jedzie po torze, na którym stoi inny pojazd kolejowy. Kiedy obowiązek poinformowania o tym drugiego maszynisty NIE dotyczy?",
+      "answers": {
+        "A": "Gdy pociąg jedzie po szlaku jednotorowym",
+        "B": "Gdy szlak jest wyposażony w wieloodstępową (samoczynną) blokadę liniową",
+        "C": "Gdy mijany pojazd jedzie z prędkością mniejszą niż dopuszczalna",
+        "D": "Gdy stojący pojazd kolejowy nie jest widoczny z kabiny maszynisty"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 20 ust. 1 pkt 2",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "4dbd92b7-9bc2-4ef8-a2b7-8cfa25ef9d67",
+      "question": "Komu pracownik znajdujący się na szlaku powinien przekazać ujawnione usterki dotyczące pojazdów kolejowych?",
+      "answers": {
+        "A": "Dyżurnym ruchu posterunków ruchu przyległych do danego szlaku",
+        "B": "Wszystkim użytkownikom sieci GSM-R przy użyciu połączenia alarmowego REC",
+        "C": "Dyżurnemu ruchu stacji macierzystej pracownika",
+        "D": "Maszyniście pociągu przejeżdżającego przez dany szlak"
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 21 ust. 2",
+      "section_ref": "§ 21",
+      "section": 21
+    },
+    {
+      "uuid": "28f1e9a5-9473-4f15-84b0-aa60f82e688a",
+      "question": "Jakie połączenie należy użyć do przekazania informacji dotyczących bezpośredniego zagrożenia bezpieczeństwa ruchu kolejowego?",
+      "answers": {
+        "A": "Połączenie grupowe do wybranej grupy dyżurnych ruchu",
+        "B": "Połączenie indywidualne do najbliższego posterunku ruchu",
+        "C": "Połączenie alarmowe REC do wszystkich użytkowników sieci GSM-R",
+        "D": "Połączenie priorytetowe do dyspozytora regionalnego"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 21 ust. 3",
+      "section_ref": "§ 21",
+      "section": 21
+    },
+    {
+      "uuid": "66f038f1-57d6-4822-a9bf-a114759e3d78",
+      "question": "Jakim numerem CT korzystają pociągi robocze, które nie rejestrują się w systemie GSM-R numerem CT=2?",
+      "answers": {
+        "A": "CT=1 przypisanym do urządzenia terminalowego",
+        "B": "CT=3 przypisanym do karty SIM",
+        "C": "CT=4 nadawanym przez dyżurnego ruchu",
+        "D": "CT=2 używanym zastępczo"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 22 ust. 1",
+      "section_ref": "§ 22",
+      "section": 22
+    },
+    {
+      "uuid": "40c1eeb1-c526-45e8-af98-42ddbcf690ee",
+      "question": "Gdzie dyżurny ruchu notuje numer CT=3 pociągu roboczego podczas jego wyprawiania?",
+      "answers": {
+        "A": "W kolumnie 5 dziennika ruchu",
+        "B": "W kolumnie 9 dziennika ruchu",
+        "C": "W kolumnie 7 dziennika ruchu",
+        "D": "W rozkazie jazdy pociągu"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 22 ust. 2",
+      "section_ref": "§ 22",
+      "section": 22
+    },
+    {
+      "uuid": "bc17ceae-66e6-460a-b780-8ebe335c8010",
+      "question": "Na wysokości jakiego wskaźnika użytkownicy terminali mobilnych przełączają się ręcznie z sieci analogowej VHF 150 MHz na sieć GSM-R?",
+      "answers": {
+        "A": "Wskaźnika W33",
+        "B": "Wskaźnika W34",
+        "C": "Wskaźnika W32",
+        "D": "Wskaźnika W35"
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 23 ust. 1",
+      "section_ref": "§ 23",
+      "section": 23
+    },
+    {
+      "uuid": "004a5db9-ba7c-4888-bed9-11f588f70a2f",
+      "question": "Co jest zobowiązana zrobić drużyna trakcyjna i konduktorska po minięciu wskaźnika W33?",
+      "answers": {
+        "A": "Przełączyć urządzenia łączności w tryb analogowej radiołączności pociągowej VHF 150 MHz",
+        "B": "Przełączyć urządzenia łączności w tryb ERTMS/GSM-R, zarejestrować odpowiedni numer funkcyjny oraz sprawdzić na terminalu poprawność jego wprowadzenia",
+        "C": "Nawiązać łączność z najbliższym posterunkiem ruchu pracującym w systemie GSM-R",
+        "D": "Powiadomić dyżurnego ruchu najbliższego posterunku ruchu o zmianie systemu radiołączności"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 23 ust. 1",
+      "section_ref": "§ 23",
+      "section": 23
+    },
+    {
+      "uuid": "59a9c863-b123-496a-b755-3253b74b899c",
+      "question": "Na wysokości jakiego wskaźnika użytkownicy terminali mobilnych przełączają się z sieci GSM-R na sieć analogową VHF 150 MHz?",
+      "answers": {
+        "A": "Wskaźnika W33",
+        "B": "Wskaźnika W35",
+        "C": "Wskaźnika W34",
+        "D": "Wskaźnika W32"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 23 ust. 2",
+      "section_ref": "§ 23",
+      "section": 23
+    },
+    {
+      "uuid": "a667c86a-f087-48ec-8c3b-04ef37aa7c9d",
+      "question": "Jaki dodatkowy obowiązek ma maszynista po minięciu wskaźnika W34?",
+      "answers": {
+        "A": "Zarejestrować numer funkcyjny w systemie ERTMS/GSM-R i sprawdzić poprawność jego wprowadzenia",
+        "B": "Powiadomić dyżurnego ruchu o zakończeniu przełączania systemu radiołączności",
+        "C": "Nawiązac łączność z najbliższym posterunkiem ruchu pracującym w systemie VHF 150 MHz celem sprawdzenia poprawności działania urządzeń",
+        "D": "Przełączyć urządzenia łączności w tryb ERTMS/GSM-R i sprawdzić poprawność działania terminalu"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 23 ust. 2",
+      "section_ref": "§ 23",
+      "section": 23
+    },
+    {
+      "uuid": "5bf39ee2-f053-447c-881d-237708ce1a5a",
+      "question": "Co powinien zrobić dyżurny ruchu w pierwszej kolejności po stwierdzeniu uszkodzenia terminala FDS?",
+      "answers": {
+        "A": "Zawiadomić dyspozytora liniowego i wyznaczonego pracownika zarządcy infrastruktury",
+        "B": "Dokonać odpowiedniego zapisu w Dzienniku uszkodzeń urządzeń łączności (R-366) i powiadomić służby serwisowe",
+        "C": "Wylogować się z systemu i przekazać dyżur innemu użytkownikowi terminala",
+        "D": "Zawiadomić dyżurnych ruchu sąsiednich posterunków ruchu o uszkodzeniu"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 24 ust. 1 pkt 1",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "fb4748a7-5f15-48dc-bf77-51d8b0d58f58",
+      "question": "Kiedy dozwolona jest zmiana obszaru odpowiedzialności przez użytkownika terminala stacjonarnego?",
+      "answers": {
+        "A": "W przypadku wystąpienia awarii terminala FDS na sąsiednim stanowisku dyżurnego ruchu w ramach jednego odcinka ZPR",
+        "B": "W przypadku stwierdzenia uszkodzenia terminala przenośnego przez bezpośredniego użytkownika",
+        "C": "W każdym przypadku, gdy dyspozytor liniowy wyda stosowną decyzję",
+        "D": "W przypadku awarii sieci GSM-R na określonym obszarze"
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 24 ust. 2",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "8bfb9fe1-9e3a-4729-8323-0c46fb9cf265",
+      "question": "Jaki jest domyślny sposób postępowania przy przekazaniu dyżuru na terminalu stacjonarnym FDS?",
+      "answers": {
+        "A": "Wylogowanie się z systemu po upewnieniu się, że rolę przejął inny użytkownik",
+        "B": "Powiadomienie służb serwisowych i dokonanie zapisu w dzienniku uszkodzeń",
+        "C": "Korzystanie z funkcji \"Zaloguj jako...\" dostepnej na terminalu stacjonarnym FDS",
+        "D": "Zawiadomienie dyspozytora liniowego o przekazaniu dyżuru"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 24 ust. 3",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "ad7dfd7d-3477-41cc-b2b6-6655d5b989e8",
+      "question": "Co jest obowiązkiem bezpośredniego użytkownika w przypadku stwierdzenia uszkodzenia terminala przenośnego?",
+      "answers": {
+        "A": "Powiadomić służby serwisowe i dokonać zapisu w Dzienniku uszkodzeń urządzeń łączności",
+        "B": "Wymienić terminal na sprawny; do czasu wymiany nie może wykonywać pracy w torach czynnych",
+        "C": "Zawiadomić dyspozytora liniowego i oczekiwać na dalsze instrukcje",
+        "D": "Skorzystać z funkcji \"Zaloguj jako...\" na terminalu stacjonarnym i przejąć obowiązki z innego stanowiska"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 24 ust. 4",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "d7dd5a3b-f878-4d59-b50b-17005b200a3f",
+      "question": "W jaki sposób obsługa pociągów jest informowana o zmianie rodzaju łączności na łączność analogową?",
+      "answers": {
+        "A": "Przez dyspozytora liniowego drogą radiową przed wjazdem na odcinek",
+        "B": "Przez dyżurnych ruchu sąsiednich posterunków ruchu w trakcie jazdy",
+        "C": "Rozkazem pisemnym wydanym na pierwszym posterunku danego odcinka, na cały odcinek stosowania łączności analogowej",
+        "D": "Rozkazem pisemnym wydanym na każdym posterunku odcinka osobno"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 24 ust. 5",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "6dbe1f30-1c91-4317-a093-a1511bf37997",
+      "question": "Czy pojazdy kolejowe bez urządzeń łączności GSM-R mogą poruszać się po odcinkach linii objętych siecią GSM-R?",
+      "answers": {
+        "A": "Tak, bez żadnych ograniczeń",
+        "B": "Tak, ale wyłącznie za zgodą maszynisty",
+        "C": "Zasadniczo nie mogą poruszać się po takich odcinkach",
+        "D": "Tak, jeśli prędkość jazdy nie przekracza 40 km/h"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 25 ust. 1",
+      "section_ref": "§ 25",
+      "section": 25
+    },
+    {
+      "uuid": "b36fec29-dd66-4db4-bc2a-31573f42e883",
+      "question": "Co powinien zrobić maszynista po przełączeniu z łączności analogowej na sieć GSM-R i stwierdzeniu usterki urządzeń łączności?",
+      "answers": {
+        "A": "Zatrzymać pociąg i czekać na polecenia",
+        "B": "Natychmiast powiadomić wszelkimi dostępnymi środkami dyżurnego ruchu posterunku, do którego się zbliża",
+        "C": "Kontynuować jazdę i zgłosić usterkę na najbliższej stacji",
+        "D": "Przełączyć się z powrotem na łączność analogową i kontynuować jazdę"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 25 ust. 2 pkt 1",
+      "section_ref": "§ 25",
+      "section": 25
+    },
+    {
+      "uuid": "8617db8b-aeda-406c-9681-c67bf5fb60b7",
+      "question": "Pociąg zbliża się do posterunku, a dyżurny ruchu nie został powiadomiony o usterce łączności GSM-R. Gdzie należy zatrzymać pociąg?",
+      "answers": {
+        "A": "Na peronie stacji",
+        "B": "Przed semaforem wyjazdowym",
+        "C": "Przed pierwszym obsługiwanym sygnalizatorem",
+        "D": "W odległości 200 m przed stacją"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 25 ust. 2 pkt 2",
+      "section_ref": "§ 25",
+      "section": 25
+    },
+    {
+      "uuid": "0942291a-e1ba-4bc0-aff5-1f9102693608",
+      "question": "Czy pociąg z usterką łączności GSM-R może kontynuować jazdę, jeśli na sygnalizatorze podany jest sygnał zezwalający, a dyżurny ruchu nie został powiadomiony?",
+      "answers": {
+        "A": "Tak, sygnał zezwalający zawsze upoważnia do jazdy",
+        "B": "Tak, ale tylko z ograniczoną prędkością",
+        "C": "Nie, pociąg nie może kontynuować jazdy nawet przy sygnale zezwalającym",
+        "D": "Tak, jeśli trasa jest wolna"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 25 ust. 2 pkt 2",
+      "section_ref": "§ 25",
+      "section": 25
+    },
+    {
+      "uuid": "f2a85baa-9875-43a6-8946-50480214238d",
+      "question": "Co zapisuje dyżurny ruchu w dzienniku telefonicznym R-138 po uzyskaniu informacji o usterce łączności GSM-R?",
+      "answers": {
+        "A": "Numer trasy pociągu oraz datę i godzinę zdarzenia",
+        "B": "Serię i numer pojazdu trakcyjnego oraz numer EVN pojazdu",
+        "C": "Imię i nazwisko maszynisty oraz numer licencji",
+        "D": "Numer pociągu, kierunek jazdy i godzinę zdarzenia"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 25 ust. 2 pkt 3",
+      "section_ref": "§ 25",
+      "section": 25
+    },
+    {
+      "uuid": "0b166549-2a94-40be-99b9-1d4d5652b237",
+      "question": "Do kogo dyżurny ruchu przekazuje zgłoszenie o usterce łączności GSM-R po odnotowaniu go w dzienniku R-138?",
+      "answers": {
+        "A": "Do dyspozytora liniowego oraz zakładowego",
+        "B": "Wyłącznie do dyspozytora liniowego",
+        "C": "Do centrum zarządzania siecią GSM-R",
+        "D": "Do dyspozytora zakładowego oraz dyżurnego ruchu sąsiedniego posterunku"
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 25 ust. 2 pkt 3",
+      "section_ref": "§ 25",
+      "section": 25
+    },
+    {
+      "uuid": "8685d367-5ca3-43c4-bd52-d38c639b8d59",
+      "question": "Na jakiej podstawie dyżurny ruchu może zezwolić na kontynuację jazdy pociągu z uszkodzonym terminalem kabinowym?",
+      "answers": {
+        "A": "Na podstawie sprawności blokad liniowych i zgody dyspozytora zakładowego",
+        "B": "Na podstawie wykorzystania terminala przenośnego zarejestrowanego w sieci GSM-R na numer CT=2, po uzyskaniu zgody dyspozytora liniowego",
+        "C": "Na podstawie decyzji maszynisty i sprawności urządzeń bezpieczeństwa",
+        "D": "Na podstawie zgody dyspozytora liniowego i włączonej radiołacznosci analogowej"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 25 ust. 2 pkt 4",
+      "section_ref": "§ 25",
+      "section": 25
+    },
+    {
+      "uuid": "bc55700c-8074-4b1a-abb1-99290cf880d9",
+      "question": "Jakie warunki muszą być spełnione, aby pociąg pasażerski mógł warunkowo kontynuować jazdę z łącznością analogową przy braku możliwości naprawy terminala kabinowego?",
+      "answers": {
+        "A": "Sprawne urządzenia blokad liniowych oraz zgoda dyspozytora liniowego",
+        "B": "Sprawne urządzenia blokad liniowych oraz zgoda dyspozytora zakładowego",
+        "C": "Zgoda dyspozytora liniowego oraz prędkość nie większa niz 60 km/h",
+        "D": "Zgoda dyspozytora zakładowego oraz dostępny terminal przenośny"
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 25 ust. 2 pkt 5",
+      "section_ref": "§ 25",
+      "section": 25
+    },
+    {
+      "uuid": "72fe6ca6-39ae-4e04-8f00-24fb7857cf59",
+      "question": "Na jakim kanale radiowym odbywa sie jazda pociagu pasazerskiego z laczonoscią analogową przy usterce GSM-R?",
+      "answers": {
+        "A": "Na kanale awaryjnym wskazanym przez dyspozytora liniowego",
+        "B": "Na kanale domyslnym sieci GSM-R",
+        "C": "Na kanale radiowym zgodnym ze wskazaniami w wewnetrznym rozkladzie jazdy",
+        "D": "Na kanale wybranym przez maszyniste"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 25 ust. 2 pkt 5",
+      "section_ref": "§ 25",
+      "section": 25
+    },
+    {
+      "uuid": "0f3eeda5-dc8c-4fb8-88fe-b1895150744a",
+      "question": "Co się dzieje z pociągiem, gdy dyspozytor liniowy nie wyraża zgody na dalszą jazdę z uszkodzonymi urządzeniami łączności GSM-R?",
+      "answers": {
+        "A": "Pociąg musi wrócić do stacji wyjazdu",
+        "B": "Dyspozytor wydaje polecenie zatrzymania pociągu na wskazanej stacji; dalsza jazda możliwa jest po naprawie lub wymianie urządzeń łączności lub pojazdu",
+        "C": "Pociąg jest kierowany na bocznicę do czasu naprawy",
+        "D": "Maszynista decyduje samodzielnie o dalszej jeździe na własną odpowiedzialnosc"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 25 ust. 2 pkt 6",
+      "section_ref": "§ 25",
+      "section": 25
+    },
+    {
+      "uuid": "122a6f3f-cbb1-44b5-8816-f7134472a624",
+      "question": "Jak powinien postępować maszynista, który stwierdzi usterkę urządzeń łączności GSM-R już wewnątrz obszaru objętego siecią, przed powiadomieniem dyżurnego ruchu?",
+      "answers": {
+        "A": "Zatrzymać pociąg w miejscu usterki i wezwać pomoc techniczną",
+        "B": "Prowadzić pociąg na widoczność oraz zatrzymać się przed najbliższym obsługiwanym sygnalizatorem",
+        "C": "Kontynuować jazdę z maksymalną prędkością do najblizszej stacji",
+        "D": "Prowadzic pociąg wedlug rozkładu jazdy i zgłosic usterkę po dotarciu do stacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 25 ust. 3 pkt 2",
+      "section_ref": "§ 25",
+      "section": 25
+    },
+    {
+      "uuid": "0a005297-d8c2-40a7-9e58-801fb8292520",
+      "question": "Co powinien zrobić dyżurny ruchu, gdy stwierdzi obecność pociągu niezarejestrowanego w sieci GSM-R na ekranie terminala?",
+      "answers": {
+        "A": "Natychmiast wstrzymać ruch na całej linii",
+        "B": "Powiadomić dyspozytora liniowego i czekać na dalsze instrukcje",
+        "C": "Zatrzymać taki pociąg na najbliższym posterunku ruchu w celu wyjaśnienia sytuacji i dalszego postępowania",
+        "D": "Zignorować sytuację, jeśli pociąg nie jest widoczny na ekranie"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 25 ust. 4",
+      "section_ref": "§ 25",
+      "section": 25
+    },
+    {
+      "uuid": "2b8b317a-b065-4004-9a47-8104aedd28fc",
+      "question": "Jaki komunikat dyżurny ruchu podaje przed zainicjowaniem testowego połączenia alarmowego REC?",
+      "answers": {
+        "A": "Uwaga, za chwilę będzie testowany sygnał Alarm GSM-R",
+        "B": "Uwaga, za chwilę zostanie przeprowadzony test łączności kolejowej",
+        "C": "Alarm testowy, proszę o zgłaszanie czy wszyscy odebrali sygnał?",
+        "D": "Uwaga, testowanie połączenia alarmowego REC zostało zakończone"
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 26 ust. 1",
+      "section_ref": "§ 26",
+      "section": 26
+    },
+    {
+      "uuid": "23215714-add4-49e6-9762-9c3bf566df6c",
+      "question": "Przez jakie rodzaje połączeń dyżurny ruchu podaje komunikat zapowiadający test sygnału Alarm GSM-R?",
+      "answers": {
+        "A": "Przez połączenie indywidualne lub grupowe",
+        "B": "Przez połączenie rozsiewcze lub grupowe",
+        "C": "Przez połączenie alarmowe lub rozsiewcze",
+        "D": "Przez połączenie indywidualne lub alarmowe"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 26 ust. 1",
+      "section_ref": "§ 26",
+      "section": 26
+    },
+    {
+      "uuid": "d578acc4-31ee-4883-8d35-512723ac158e",
+      "question": "Czy podczas testowania połączenia alarmowego REC obowiązuje procedura zatrzymania wszystkich pojazdów kolejowych będących w zasięgu tego połączenia?",
+      "answers": {
+        "A": "Tak, procedura zatrzymania obowiązuje zawsze",
+        "B": "Tak, ale tylko w przypadku gdy test trwa dłużej niż 2 minuty",
+        "C": "Nie, procedura zatrzymania nie obowiązuje podczas testowania",
+        "D": "Tak, ale tylko na liniach o prędkości powyżej 160 km/h"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 26 ust. 1",
+      "section_ref": "§ 26",
+      "section": 26
+    },
+    {
+      "uuid": "12e0b2d3-95e6-4e38-bae7-8238c41ae09a",
+      "question": "Jak często należy przeprowadzać test kolejowego połączenia alarmowego REC?",
+      "answers": {
+        "A": "Nie rzadziej niż raz na 3 miesiące",
+        "B": "Nie rzadziej niż raz na 12 miesięcy",
+        "C": "Nie rzadziej niż raz na 6 miesięcy",
+        "D": "Nie rzadziej niż raz na miesiąc"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 26 ust. 2",
+      "section_ref": "§ 26",
+      "section": 26
+    },
+    {
+      "uuid": "dcfa4489-079e-4012-8265-2603346c5a3b",
+      "question": "W jakim dokumencie odpisuje się wyniki testów kolejowego połączenia alarmowego REC?",
+      "answers": {
+        "A": "W Dzienniku ruchu pociągów (R-1)",
+        "B": "W Dzienniku uszkodzeń urządzeń łączności (R-366)",
+        "C": "W Książce kontroli urządzeń srk (R-50)",
+        "D": "W Dzienniku dyżurnego ruchu (R-21)"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 26 ust. 3",
+      "section_ref": "§ 26",
+      "section": 26
+    },
+    {
+      "uuid": "93d4d077-536c-4667-bf8a-b72addb97cbb",
+      "question": "Co oznacza wyświetlenie numeru CT=3 na wyświetlaczu urządzenia mobilnego CabRadio po zalogowaniu do sieci GSM-R?",
+      "answers": {
+        "A": "Urządzenie wymaga ponownego uruchomienia i rejestracji w sieci GSM-R",
+        "B": "Kolejowe połączenie alarmowe REC jest niedostępne na tym urządzeniu",
+        "C": "Urządzenie jest dostępne w sieci GSM-R, ale nie obsługuje połączeń alarmowych",
+        "D": "Kolejowe połączenie REC jest dostępne na tym urządzeniu"
+      },
+      "correct": "D",
+      "explanation": "Ir-5a § 26 ust. 4",
+      "section_ref": "§ 26",
+      "section": 26
+    },
+    {
+      "uuid": "34ac362f-ba3a-4fd9-adba-6530a29f803d",
+      "question": "Jakiemu szkoleniu podlegają przewoznicy kolejowi korzystający po raz pierwszy z linii kolejowych objętych działaniem GSM-R?",
+      "answers": {
+        "A": "Cyklicznemu szkoleniu co 2 lata w zakresie procedury sprawdzania działania połączenia alarmowego REC",
+        "B": "Jednorazowemu szkoleniu w zakresie procedury sprawdzania prawidłowości działania kolejowego połączenia alarmowego REC",
+        "C": "Jednorazowemu szkoleniu w zakresie obsługi urządzeń radiowych GSM-R na stacjach",
+        "D": "Cyklicznemu szkoleniu co rok w zakresie procedury awaryjnego zatrzymywania pociągów"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 26 ust. 5",
+      "section_ref": "§ 26",
+      "section": 26
+    },
+    {
+      "uuid": "b4c9231a-845f-4570-9219-bef94d2c1745",
+      "question": "Co to jest kolejowe połączenie alarmowe (REC)?",
+      "answers": {
+        "A": "Grupowe połączenie alarmowe o najwyższym priorytecie odbierane automatycznie, obejmujące wszystkich użytkowników GSM-R na zdefiniowanym obszarze, przerywające wszystkie trwające połączenia.",
+        "B": "Połączenie głosowe umożliwiające jednokierunkową komunikację w obrębie zdefiniowanej grupy użytkowników, w którym jedynie inicjator wywołania może mówić.",
+        "C": "Połączenie głosowe umożliwiające dwukierunkową komunikację w obrębie zdefiniowanej grupy użytkowników znajdujących się na określonym obszarze.",
+        "D": "Indywidualne połączenie alarmowe o najwyższym priorytecie kierowane do właściwego dyżurnego ruchu z wykorzystaniem numeru skróconego."
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 3 ust. 7",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "b47fd1f5-e2c3-4add-9464-cdcba4e902d8",
+      "question": "Czym różni się połączenie rozsiewcze (VBS) od połączenia grupowego (VGCS)?",
+      "answers": {
+        "A": "Połączenie rozsiewcze jest dwukierunkowe, a połączenie grupowe jednokierunkowe.",
+        "B": "Połączenie rozsiewcze umożliwia jednokierunkową komunikację — jedynie inicjator może mówić, pozostałe osoby tylko słuchają. Połączenie grupowe umożliwia dwukierunkową komunikację.",
+        "C": "Połączenie rozsiewcze obejmuje całą sieć GSM-R, a połączenie grupowe tylko wybrany obszar.",
+        "D": "Połączenie rozsiewcze jest realizowane przez numer funkcyjny, a połączenie grupowe przez numer skrócony 12XY."
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 3 ust. 13 i 15",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "86656257-801f-4e37-82a7-9bc4b501f9c2",
+      "question": "Ile cyfr może mieć maksymalnie krajowy numer EIRENE (numer funkcyjny)?",
+      "answers": {
+        "A": "8",
+        "B": "10",
+        "C": "12",
+        "D": "16"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 3 ust. 6",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "de9078f6-76cb-430c-8c07-2c06f72830db",
+      "question": "Do czego służy numer funkcyjny w sieci GSM-R?",
+      "answers": {
+        "A": "Do identyfikacji pojazdu kolejowego w systemie ERTMS/ETCS.",
+        "B": "Do nawiązania połączenia między użytkownikami tej samej sieci GSM-R poprzez numer ściśle powiązany z funkcją użytkownika.",
+        "C": "Do określenia lokalizacji użytkownika w sieci GSM-R na podstawie komórki radiowej.",
+        "D": "Do inicjowania kolejowego połączenia alarmowego REC na zdefiniowanym obszarze."
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 3 ust. 6",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "b95e9bdd-16e7-4c58-96c4-54f303c85435",
+      "question": "Co oznacza skrót SDC w sieci GSM-R?",
+      "answers": {
+        "A": "System danych cyfrowych.",
+        "B": "Numer skrócony 12XY zależny od lokalizacji.",
+        "C": "Stały dyżurny centrum łączności.",
+        "D": "Standard danych kolejowych."
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 3 ust. 21",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "4b2d68b6-77a6-460b-9886-ed34227b8700",
+      "question": "Czym jest terminal kabinowy (Cab Radio)?",
+      "answers": {
+        "A": "Terminal mobilny przystosowany do noszenia przez użytkownika, zasilany z wewnętrznej baterii akumulatorów.",
+        "B": "Urządzenie telekomunikacyjne zainstalowane w budynku, umożliwiające komunikację z użytkownikami terminali mobilnych sieci GSM-R.",
+        "C": "Terminal mobilny wyposażony w kartę SIM, instalowany w pojeździe kolejowym, zasilany z pokładowego źródła energii i posiadający antenę taborową.",
+        "D": "Urządzenie radiokomunikacyjne służące do komunikowania się w sieci analogowej VHF 150 MHz."
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 3 ust. 24",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "632a3147-3219-4087-b68d-74012fe071dd",
+      "question": "Co oznacza wskaźnik W 33?",
+      "answers": {
+        "A": "Koniec obowiązującego do danego miejsca systemu ERTMS/GSM-R.",
+        "B": "Początek obowiązywania systemu ERTMS/ETCS oznaczający miejsce zmiany systemu radiołączności pociągowej na system ERTMS/GSM-R.",
+        "C": "Miejsce zmiany systemu łączności z GSM-R na analogową sieć VHF 150 MHz.",
+        "D": "Granicę obszaru zdalnego prowadzenia ruchu (ZPR)."
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 3 ust. 27",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "834e3d3c-1ee6-46fa-8a08-944fa82c1c35",
+      "question": "Czym jest ZPR?",
+      "answers": {
+        "A": "Zbiór parametrów radiowych przypisanych do terminala mobilnego sieci GSM-R.",
+        "B": "Zdalny posterunek ruchu zarządzający ruchem na wybranej stacji.",
+        "C": "Odcinek linii kolejowej przystosowany do zdalnego prowadzenia ruchu pociągów z jednego miejsca.",
+        "D": "Zona połaczenia rozsiewczego obejmująca kilka odcinków linii kolejowych."
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 3 ust. 30",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "2117524c-5d0d-4864-aa03-7dc737aed6c0",
+      "question": "W jakim paśmie częstotliwości pracuje sieć GSM-R?",
+      "answers": {
+        "A": "VHF 150 MHz",
+        "B": "UHF 450 MHz",
+        "C": "GSM 1800 MHz",
+        "D": "GSM-R 900 MHz"
+      },
+      "correct": "D",
+      "explanation": "Ir-5a § 3 ust. 22",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "2d5d937b-b169-474e-bb77-3eb169326e40",
+      "question": "Co to jest adresowanie zależne od lokalizacji (LDA)?",
+      "answers": {
+        "A": "Zaawansowany mechanizm kierowania połączeń głosowych z wykorzystaniem numeru 12XY i współrzędnych geograficznych lub urządzeń przytorowych.",
+        "B": "Mechanizm automatycznego kierowania połączeń głosowych od maszynisty do właściwego dyżurnego ruchu z wykorzystaniem numeru 12XY i komórki radiowej, w której zostało zainicjowane połączenie.",
+        "C": "Numer użytkownika sieci GSM-R pozwalający na nawiązanie połączenia z innym użytkownikiem sieci.",
+        "D": "Mechanizm grupowego połączenia alarmowego obejmujący wszystkich użytkowników na zdefiniowanym obszarze."
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 3 ust. 2",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "2021bc74-e955-4e6b-bf7b-c06c6062b971",
+      "question": "Czym jest adresowanie zależne od lokalizacji (LDA)?",
+      "answers": {
+        "A": "Zaawansowany mechanizm kierowania połączeń głosowych z wykorzystaniem numeru 12XY i współrzędnych geograficznych lub komórki radiowej oraz urządzeń przytorowych.",
+        "B": "Mechanizm automatycznego kierowania połączeń głosowych od maszynisty do właściwego dyżurnego ruchu z wykorzystaniem numeru wybierania skróconego 12XY i lokalizacji użytkownika, tj. komórki radiowej, w której zostało zainicjowane połączenie.",
+        "C": "Grupowe połączenie alarmowe w sieci GSM-R o najwyższym priorytecie odbierane automatycznie, obejmujące wszystkich użytkowników na zdefiniowanym obszarze.",
+        "D": "Połączenie głosowe realizowane z wykorzystaniem numeru funkcyjnego pozwalające na nawiązanie połączenia z użytkownikiem sieci GSM-R poprzez jego numer funkcyjny."
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 3 ust. 2",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "6d672523-4859-46a1-b7bf-7a93c3cac465",
+      "question": "Czym różni się adresowanie rozszerzone zależne od lokalizacji (eLDA) od zwykłego adresowania zależnego od lokalizacji (LDA)?",
+      "answers": {
+        "A": "eLDA wykorzystuje numer 12XY i wyłącznie współrzędne geograficzne, LDA wykorzystuje numer 12XY i komórkę radiową oraz urządzenia przytorowe.",
+        "B": "eLDA kieruje połączenia do dyspozytora, LDA kieruje połączenia do posterunku ruchu.",
+        "C": "eLDA jest zaawansowanym mechanizmem wykorzystującym numer 12XY i lokalizację opartą na współrzędnych geograficznych lub urządzeniach przytorowych i komórce radiowej, LDA wykorzystuje wyłącznie komórkę radiową, w której zainicjowano połączenie.",
+        "D": "eLDA jest stosowane tylko na szlakach, LDA tylko na stacjach."
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 3 ust. 1 i 2",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "56c5b24d-1aea-453f-9967-161156367cbe",
+      "question": "Czym jest kolejowe połączenie alarmowe REC (Railway Emergency Call)?",
+      "answers": {
+        "A": "Grupowe połączenie alarmowe w sieci GSM-R o najwyższym priorytecie odbierane automatycznie, obejmujące wszystkich użytkowników sieci GSM-R na zdefiniowanym obszarze, przerywające wszystkie trwające połączenia.",
+        "B": "Połączenie głosowe umożliwiające jednokierunkową komunikację w obrębie zdefiniowanej grupy użytkowników na określonym obszarze, gdzie jedynie inicjator może mówić.",
+        "C": "Połączenie głosowe umożliwiające dwukierunkową komunikację w obrębie zdefiniowanej grupy użytkowników znajdujących się na określonym obszarze.",
+        "D": "Grupowe połączenie alarmowe w sieci GSM-R o najwyższym priorytecie odbierane ręcznie, obejmujące wybranych użytkowników sieci GSM-R na zdefiniowanym obszarze."
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 3 ust. 7",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "20ad9096-40e0-4d2f-8151-530d9aec1731",
+      "question": "Jaki jest publiczny numer alarmowy wskazany w przepisach o sieci GSM-R?",
+      "answers": {
+        "A": "999",
+        "B": "911",
+        "C": "112",
+        "D": "110"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 3 ust. 18",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "e898c778-e13b-47da-b6f7-5c937924cdf7",
+      "question": "Czym jest połączenie rozsiewcze (Voice Broadcast Service)?",
+      "answers": {
+        "A": "Połączenie głosowe umożliwiające dwukierunkową komunikację w obrębie zdefiniowanej grupy użytkowników znajdujących się na określonym obszarze.",
+        "B": "Połączenie głosowe umożliwiające jednokierunkową komunikację w obrębie zdefiniowanej grupy użytkowników na określonym obszarze, gdzie jedynie inicjator wywołania może mówić, a pozostałe osoby mogą tylko słuchać.",
+        "C": "Łączność głosowa w sieci GSM-R, w której może uczestniczyć określona przez inicjatora liczba uczestników połączenia.",
+        "D": "Połączenie głosowe umożliwiające dwukierunkową komunikację w obrębie zdefiniowanej grupy użytkowników, gdzie każdy uczestnik może mówić i słuchać."
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 3 ust. 15",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "68f26178-aec0-4a0c-a175-ce38f56eb6b5",
+      "question": "Czym jest terminal kabinowy (Cab Radio)?",
+      "answers": {
+        "A": "Terminal mobilny wyposażony w kartę SIM przystosowany do noszenia przez użytkownika i zasilany z wewnętrznej baterii akumulatorów.",
+        "B": "Urządzenie telekomunikacyjne zainstalowane w budynku lub innym obiekcie stałym, umożliwiające komunikację z użytkownikami terminali mobilnych i stacjonarnych sieci GSM-R.",
+        "C": "Terminal mobilny wyposażony w kartę SIM, instalowany w pojeździe kolejowym, zasilany z pokładowego źródła energii elektrycznej i posiadający antenę taborową.",
+        "D": "Urządzenie odpowiedniego typu służące do komunikowania się w sieci analogowej VHF 150 MHz."
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 3 ust. 24",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "22a21cd0-eec5-4607-bed7-4222f6c8695f",
+      "question": "Czym jest krajowy numer EIRENE (NEN), zwany też numerem funkcyjnym?",
+      "answers": {
+        "A": "Numer użytkownika sieci GSM-R składający się maksymalnie z 12 cyfr, tworzony zgodnie z planem numeracyjnym GSM-R, ściśle powiązany z funkcją użytkownika, wykorzystywany do nawiązania połączenia między użytkownikami tej samej sieci GSM-R.",
+        "B": "Numer użytkownika sieci analogowej VHF składający się maksymalnie z 6 cyfr, tworzony zgodnie z planem numeracyjnym PLK, ściśle powiązany z lokalizacją użytkownika.",
+        "C": "Numer skrócony 12XY zależny od lokalizacji, przypisany do danego dyżurnego ruchu na określonym obszarze.",
+        "D": "Numer użytkownika sieci GSM-R składający się maksymalnie z 8 cyfr, tworzony zgodnie z planem numeracyjnym UIC, niezależny od funkcji użytkownika."
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 3 ust. 6",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "13449838-41e2-49bc-95ad-f3f6f8edc8c1",
+      "question": "Czym jest wskaźnik W 33?",
+      "answers": {
+        "A": "Wskaźnik końca obowiązywania systemu ERTMS/GSM-R oznaczający koniec obowiązującego do tego miejsca systemu ERTMS/GSM-R.",
+        "B": "Wskaźnik początku obowiązywania systemu ERTMS/GSM-R oznaczający miejsce zmiany systemu radiołączności pociągowej i obowiązujący od tego miejsca system ERTMS/GSM-R.",
+        "C": "Wskaźnik początku obowiązywania systemu analogowego VHF oznaczający miejsce zmiany systemu radiołączności pociągowej.",
+        "D": "Wskaźnik początku odcinka zdalnego prowadzenia ruchu oznaczający miejsce zmiany systemu prowadzenia ruchu pociągów."
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 3 ust. 27",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "15200e2b-ac61-4c40-ab44-45e67d820f84",
+      "question": "Co to jest ZPR — odcinek zdalnego prowadzenia ruchu?",
+      "answers": {
+        "A": "Zdefiniowana powierzchnia terenu objęta zasięgiem stacji bazowych sieci GSM-R przypisanych dla obsługi danej lokalizacji posterunku lub szlaku kolejowego.",
+        "B": "Odcinek/odcinki linii kolejowych objęte zasięgiem komórek radiowych, na których realizowana jest dana usługa łączności głosowej.",
+        "C": "Odcinek linii kolejowej przystosowany do zdalnego prowadzenia ruchu pociągów z jednego miejsca (nastawni zdalnego sterowania).",
+        "D": "Odcinek linii kolejowej wyposażony w system ERTMS/ETCS umożliwiający automatyczną kontrolę prowadzenia pociągu przez maszynistę."
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 3 ust. 30",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "8b085fd4-d979-4476-a398-ec5613806022",
+      "question": "Jaką usługę w sieci GSM-R określa termin \"Voice Group Call Service\"?",
+      "answers": {
+        "A": "Połączenia głosowe punkt-punkt między wybranymi użytkownikami",
+        "B": "Połączenia grupowe",
+        "C": "Połączenia rozsiewcze",
+        "D": "Połączenia konferencyjne"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 4 ust. 1 pkt 3",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "5206c693-162c-4aa3-940c-9fa4110735fc",
+      "question": "Jaką usługę w sieci GSM-R określa termin \"Voice Broadcast Service\"?",
+      "answers": {
+        "A": "Połączenia grupowe",
+        "B": "Połączenia konferencyjne",
+        "C": "Połączenia rozsiewcze",
+        "D": "Połączenia głosowe punkt-punkt między wybranymi użytkownikami"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 4 ust. 1 pkt 5",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "f3886efd-7f3d-4878-b722-d40eb7f39f5b",
+      "question": "Na czym polega adresowanie funkcyjne (Functional Addressing) w sieci GSM-R?",
+      "answers": {
+        "A": "Połączenia są kierowane na podstawie lokalizacji geograficznej odbiorcy",
+        "B": "Dyżurny ruchu wywołuje maszynistę pociągu poprzez numer pociągu i nazwę funkcji adresata",
+        "C": "Połączenia są automatycznie przekierowywane do dyspozytora w przypadku braku odpowiedzi",
+        "D": "Połączenia realizowane są z wykorzystaniem prywatnego numeru abonenta"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 4 ust. 1 pkt 6",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "9a905cf2-1c27-4a32-813c-3cfcd68288d3",
+      "question": "Jakie pojazdy kolejowe mogą zasadniczo wjeżdżać w obszar funkcjonowania sieci GSM-R?",
+      "answers": {
+        "A": "Wyłącznie pojazdy trakcyjne wyposażone w radiotelefony analogowe",
+        "B": "Wyłącznie pojazdy kolejowe wyposażone w czynne i sprawne urządzenia łączności GSM-R",
+        "C": "Wszystkie pojazdy kolejowe, niezależnie od wyposażenia w urządzenia łączności",
+        "D": "Wyłącznie pojazdy kolejowe posiadające ważne świadectwo sprawności technicznej"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 4 ust. 4",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "f34855fe-4fc4-401e-ae6d-3a53028a333a",
+      "question": "Czemu powinna służyć komunikacja głosowa między użytkownikami sieci GSM-R?",
+      "answers": {
+        "A": "Przekazywaniu zwięzłych informacji, zezwoleń oraz poleceń niezbędnych do wykonywania powierzonych obowiązków, w celu zapewnienia bezpieczeństwa w prowadzeniu ruchu kolejowego",
+        "B": "Przekazywaniu wszelkich informacji związanych z eksploatacją infrastruktury kolejowej, w tym danych administracyjnych i organizacyjnych",
+        "C": "Przekazywaniu wyłącznie poleceń służbowych w zakresie regulacji ruchu pociągów na obszarze stacji",
+        "D": "Przekazywaniu zwięzłych informacji technicznych dotyczących stanu pojazdów trakcyjnych i infrastruktury"
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 4 ust. 5",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "3e412c88-7adb-4c28-a5db-67301966241d",
+      "question": "Kto jest wyposażany w terminale przenośne sieci GSM-R?",
+      "answers": {
+        "A": "Wszyscy pracownicy zarządcy infrastruktury i przewoźników kolejowych",
+        "B": "Wyłącznie maszyniści pojazdów trakcyjnych dopuszczonych do ruchu",
+        "C": "Uprawnieni pracownicy zarządcy infrastruktury i przewoźników kolejowych na potrzeby realizowanych zadań",
+        "D": "Wyłącznie dyżurni ruchu i pracownicy służby automatyki kolejowej"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 4 ust. 3",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "ca291209-0483-47aa-a861-4f470c598b83",
+      "question": "Który terminal sieci GSM-R jest instalowany na stałe w pojazdach kolejowych?",
+      "answers": {
+        "A": "Terminal stacjonarny FDS",
+        "B": "Terminal kabinowy",
+        "C": "Terminal przenośny",
+        "D": "Terminal dyspozytorski"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 5 ust. 1 pkt 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "9c13f182-60df-4adc-8caa-7551c6226548",
+      "question": "Gdzie instalowany jest terminal stacjonarny FDS sieci GSM-R?",
+      "answers": {
+        "A": "Na stałe w pojazdach kolejowych",
+        "B": "Przydzielany uprawnionym pracownikom do użytku na czas wykonywanej pracy",
+        "C": "W pomieszczeniach dyżurnych ruchu i dyspozytorów zarządcy infrastruktury",
+        "D": "W nastawniach i posterunkach odgałęznych"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 5 ust. 1 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "0ecfd6ec-a24c-4dfd-a85e-0da38aa72317",
+      "question": "Jaki numer funkcyjny przypisany jest maszyniście prowadzącemu w sieci GSM-R?",
+      "answers": {
+        "A": "02",
+        "B": "03",
+        "C": "01",
+        "D": "05"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 6 ust. 2",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "14f1bbf4-73de-4d36-84be-a43c4f66eb26",
+      "question": "Ilu użytkowników może jednocześnie zarejestrować się do danego numeru funkcyjnego w sieci GSM-R?",
+      "answers": {
+        "A": "Tylko jeden, bez wyjątków",
+        "B": "Tylko jeden, z wyjątkiem dyżurnych ruchu obsługujących terminale stacjonarne FDS, którzy mogą przyjmować role w trybie równoległym",
+        "C": "Dwóch, jeśli obaj posiadają odpowiedni profil na karcie SIM",
+        "D": "Tylko jeden, z wyjątkiem maszynistów prowadzących, którzy mogą przyjmować role w trybie równoległym"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 6 ust. 3",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "4f94cd12-bf21-4142-a4fc-7bc735fcba80",
+      "question": "Jaki numer funkcyjny CT jest automatycznie przypisywany do stanowiska dyżurnego ruchu po aktywacji roli na terminalu FDS?",
+      "answers": {
+        "A": "CT=1",
+        "B": "CT=5",
+        "C": "CT=7",
+        "D": "CT=9"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 7 ust. 1",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "079d9c45-3e29-4d7b-a7b4-89c7ed913f5a",
+      "question": "Czy ta sama rola na terminalu FDS może być dostępna na kilku terminalach zainstalowanych na tym samym posterunku technicznym?",
+      "answers": {
+        "A": "Nie, każdy terminal FDS ma przypisany unikalny zestaw ról niedostępnych na innych terminalach",
+        "B": "Tak, te same role są dostępne na wszystkich terminalach FDS zainstalowanych na danym posterunku technicznym",
+        "C": "Tak, ale tylko na dwóch terminalach jednocześnie",
+        "D": "Nie, role są przypisane wyłącznie do terminala głównego posterunku"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 7 ust. 2",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "598e35f2-77dd-4742-b730-1223f75076a3",
+      "question": "W jaki sposób można inicjować połączenia punkt-punkt z innymi użytkownikami sieci GSM-R za pomocą terminala stacjonarnego FDS?",
+      "answers": {
+        "A": "Wyłącznie za pomocą klawiatury numerycznej lub listy Train List",
+        "B": "Za pomocą klawiatury numerycznej, listy Train List, listy ostatnio zrealizowanych połączeń lub interfejsu graficznego",
+        "C": "Wyłącznie za pomocą interfejsu graficznego lub listy ostatnio zrealizowanych połączeń",
+        "D": "Za pomocą klawiatury numerycznej, listy Train List lub przycisków szybkiego wybierania"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 7 ust. 3",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "72b874cf-8c6e-4d2b-9d10-03c382682b50",
+      "question": "Co umożliwia terminal stacjonarny FDS w zakresie wyboru numeru pociągu?",
+      "answers": {
+        "A": "Wybranie numeru pociągu wyłącznie z obszaru odpowiedzialności danego dyżurnego ruchu",
+        "B": "Wybranie dowolnego numeru pociągu zarejestrowanego w sieci GSM-R w danym momencie",
+        "C": "Wybranie numeru pociągu wyłącznie spośród ostatnich 10 zarejestrowanych połączeń",
+        "D": "Wybranie numeru pociągu wyłącznie z listy pociągów przypisanych do danego posterunku"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 7 ust. 4",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "28ddd9af-90bc-4049-9590-564432d5c103",
+      "question": "Co prezentuje funkcjonalnosc Train List na terminalu stacjonarnym FDS?",
+      "answers": {
+        "A": "Liste wszystkich zarejestrowanych uzytkownikow sieci GSM-R w calym kraju",
+        "B": "Liste numerow funkcyjnych uzytkownikow znajdujacych sie na zdefiniowanym obszarze odpowiedzialnosci",
+        "C": "Liste ostatnio zrealizowanych polaczen punkt-punkt z druzyna pociagowa",
+        "D": "Liste ról dostepnych do aktywacji na danym terminalu FDS"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 7 ust. 5",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "1e3ced12-1de9-4400-a15c-501fd194cd6b",
+      "question": "W jaki sposób w systemie GSM-R zdefiniowane są obszary odpowiedzialności dyżurnych ruchu?",
+      "answers": {
+        "A": "Poprzez przypisanie numerów pociągów do właściwych ról na terminalach FDS",
+        "B": "Poprzez przypisanie numerów funkcyjnych CT do poszczególnych posterunków technicznych",
+        "C": "Poprzez przypisanie identyfikatorów komórek radiowych do właściwych ról na terminalach FDS",
+        "D": "Poprzez przypisanie adresów IP terminali FDS do stref odpowiedzialności dyżurnych"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 7 ust. 6",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "87960b05-70df-48ea-b1f3-5e769430e88d",
+      "question": "Kiedy dopuszczalne jest pozostawienie w systemie niezalogowanej roli?",
+      "answers": {
+        "A": "W przypadku awarii terminala FDS na danym posterunku",
+        "B": "W przypadku niedostępności użytkownika w momencie przekazywania roli pomiędzy posterunkami zdalnego sterowania i posterunkami zdalnie sterowanymi",
+        "C": "W przypadku planowej przerwy technicznej trwającej nie dłużej niż 15 minut",
+        "D": "W przypadku czasowego wyłączenia posterunku z ruchu na czas nie dłuższy niż 1 godzinę"
+      },
+      "correct": "B",
+      "explanation": "Ir-5a § 7 ust. 8",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "a758135d-1fae-4fa0-8116-1afa151cd339",
+      "question": "Na jakiej podstawie użytkownik terminala stacjonarnego identyfikuje rozmówcę przed odebraniem połączenia?",
+      "answers": {
+        "A": "Na podstawie numeru funkcyjnego widocznego na wyświetlaczu terminala FDS",
+        "B": "Na podstawie numeru SDC widocznego na wyświetlaczu terminala FDS",
+        "C": "Na podstawie numeru CT=7 widocznego na wyświetlaczu terminala FDS",
+        "D": "Na podstawie numeru z rozkładu jazdy widocznego na wyświetlaczu terminala FDS"
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 8 ust. 2",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "1b178ba4-2bed-461e-8260-e70fd9a819fd",
+      "question": "Jaki jest podstawowy sposób nawiązywania przez maszynistę łączności z dyżurnym ruchu?",
+      "answers": {
+        "A": "Wybranie numeru CT=7 z klawiatury numerycznej",
+        "B": "Wybranie numeru SDC z klawiatury numerycznej",
+        "C": "Korzystanie z dedykowanego przycisku szybkiego wybierania numeru skróconego",
+        "D": "Przekierowanie połączenia przez centralę GSM-R"
+      },
+      "correct": "C",
+      "explanation": "Ir-5a § 8 ust. 4",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "5ecb2c5f-d5a8-4209-a1ff-abaff73afd86",
+      "question": "Na jakiej podstawie identyfikowany jest każdy użytkownik w terminalu FDS?",
+      "answers": {
+        "A": "Na podstawie indywidualnego numeru osobowego PLK S.A., który jest jednocześnie nazwą użytkownika w procedurze logowania",
+        "B": "Na podstawie indywidualnego numeru służbowego nadawanego przez dyżurnego ruchu przy każdym logowaniu",
+        "C": "Na podstawie unikalnego identyfikatora stacji GSM-R przypisanego do posterunku ruchu",
+        "D": "Na podstawie hasła jednorazowego generowanego przez system przy każdej sesji pracy"
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 9 ust. 2",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "3ec6f4b9-1114-4286-b22f-78d119345eee",
+      "question": "Co należy uwzględnić podczas powiadamiania służb ratunkowych na numer alarmowy 112 w kontekście sieci GSM-R?",
+      "answers": {
+        "A": "Brak możliwości oddzwonienia z sieci zewnętrznej na numer w sieci GSM-R",
+        "B": "Brak możliwości nawiązania połączenia głosowego z numerem 112 z terminalu GSM-R",
+        "C": "Konieczność podania kodu autoryzacyjnego operatorowi numeru alarmowego",
+        "D": "Obowiązek użycia dedykowanego kanału awaryjnego sieci GSM-R do połaczeń z numerem 112"
+      },
+      "correct": "A",
+      "explanation": "Ir-5a § 9 ust. 3",
+      "section_ref": "§ 9",
+      "section": 9
+    }
+  ]
+}
