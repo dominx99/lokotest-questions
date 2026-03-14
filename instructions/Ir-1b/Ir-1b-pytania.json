@@ -115,7 +115,7 @@
     },
     {
       "uuid": "a3c7e1f4-8b2d-4a9e-b5f6-1c3d7e9a2b4f",
-      "question": "Jak prowadzi sie pociagi wyposażone w urządzenia pokładowe systemu ERTMS/ETCS w przypadku ich awarii lub niesprawności?",
+      "question": "Jak prowadzi się pociągi wyposażone w urządzenia pokładowe systemu ERTMS/ETCS w przypadku ich awarii lub niesprawności?",
       "answers": {
         "A": "Z odizolowanymi urządzeniami pokładowymi systemu ERTMS/ETCS",
         "B": "Z urządzeniami pokładowymi systemu ERTMS/ETCS w trybie awaryjnym",
@@ -688,34 +688,6 @@
       "section": 29
     },
     {
-      "uuid": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
-      "question": "Jaki jest język operacyjny stosowany w komunikacji na sieci PLK SA?",
-      "answers": {
-        "A": "Język angielski",
-        "B": "Język polski",
-        "C": "Język niemiecki",
-        "D": "Język francuski"
-      },
-      "correct": "B",
-      "explanation": "Ir-1b § 29 Dodatek ust. 1",
-      "section_ref": "§ 29",
-      "section": 29
-    },
-    {
-      "uuid": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
-      "question": "Jaki rodzaj komunikacji ma pierwszeństwo przed wszystkimi innymi rodzajami komunikacji?",
-      "answers": {
-        "A": "Komunikacja w sprawach handlowych",
-        "B": "Komunikacja w sprawach organizacyjnych",
-        "C": "Komunikacja w sprawach dotyczących bezpieczeństwa",
-        "D": "Komunikacja w sprawach technicznych"
-      },
-      "correct": "C",
-      "explanation": "Ir-1b § 29 Dodatek ust. 2",
-      "section_ref": "§ 29",
-      "section": 29
-    },
-    {
       "uuid": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
       "question": "Jakie cechy muszą posiadać komunikaty przekazywane w sprawach dotyczących bezpieczeństwa, aby zapewnić poprawne zrozumienie ich treści?",
       "answers": {
@@ -726,62 +698,6 @@
       },
       "correct": "B",
       "explanation": "Ir-1b § 29 Dodatek ust. 3",
-      "section_ref": "§ 29",
-      "section": 29
-    },
-    {
-      "uuid": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f80",
-      "question": "W jaki sposób dyżurni ruchu przedstawiają się podczas komunikacji radiowej?",
-      "answers": {
-        "A": "Podając imię i nazwisko oraz stanowisko służbowe",
-        "B": "Podając numer rozkładowy pociągu oraz jego lokalizację",
-        "C": "Podając obszar działania lub lokalizację",
-        "D": "Podając numer służbowy oraz nazwę posterunku"
-      },
-      "correct": "C",
-      "explanation": "Ir-1b § 29 Dodatek ust. 4 pkt 3 lit. a",
-      "section_ref": "§ 29",
-      "section": 29
-    },
-    {
-      "uuid": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8091",
-      "question": "W jaki sposób maszyniści przedstawiają się podczas komunikacji radiowej?",
-      "answers": {
-        "A": "Podając obszar działania lub lokalizację",
-        "B": "Podając imię, nazwisko i numer licencji maszynisty",
-        "C": "Podając numer rozkładowy pociągu oraz jego lokalizację",
-        "D": "Podając nazwę przewoźnika i numer składu"
-      },
-      "correct": "C",
-      "explanation": "Ir-1b § 29 Dodatek ust. 4 pkt 3 lit. b",
-      "section_ref": "§ 29",
-      "section": 29
-    },
-    {
-      "uuid": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f809102",
-      "question": "Czyim obowiązkiem jest upewnienie się, że rozmowa prowadzona jest z maszynistą pociągu znajdującym się na jego obszarze działania?",
-      "answers": {
-        "A": "Maszynisty",
-        "B": "Dyżurnego ruchu",
-        "C": "Kierownika pociągu",
-        "D": "Dyspozytora"
-      },
-      "correct": "B",
-      "explanation": "Ir-1b § 29 Dodatek ust. 4 pkt 3 lit. c",
-      "section_ref": "§ 29",
-      "section": 29
-    },
-    {
-      "uuid": "07b8c9d0-e1f2-4a3b-4c5d-6e7f80910213",
-      "question": "Jakie wyrażenie stosuje się do potwierdzenia, że nadany komunikat został odebrany?",
-      "answers": {
-        "A": "Prawidłowo",
-        "B": "Odbiór",
-        "C": "Otrzymano",
-        "D": "Powtórz"
-      },
-      "correct": "C",
-      "explanation": "Ir-1b § 29 Dodatek ust. 6",
       "section_ref": "§ 29",
       "section": 29
     },
@@ -1220,20 +1136,6 @@
       "section": 16
     },
     {
-      "uuid": "a3c7e1f2-4b8d-4a9e-b6c3-d5f2e8a1b7c4",
-      "question": "W jaki sposób prowadzi się pociągi wyposażone w urządzenia pokładowe systemu ERTMS/ETCS w przypadku ich awarii lub niesprawności?",
-      "answers": {
-        "A": "Z odizolowanymi urządzeniami pokładowymi systemu ERTMS/ETCS",
-        "B": "Z urządzeniami pokładowymi systemu ERTMS/ETCS przełączonymi w tryb awaryjny",
-        "C": "Z urządzeniami pokładowymi systemu ERTMS/ETCS pracującymi w trybie ograniczonym",
-        "D": "Z urządzeniami pokładowymi systemu ERTMS/ETCS przełączonymi w tryb diagnostyczny"
-      },
-      "correct": "A",
-      "explanation": "Ir-1b § 17 ust. 1",
-      "section_ref": "§ 17",
-      "section": 17
-    },
-    {
       "uuid": "b4d8f2a3-5c9e-4b0f-c7d4-e6a3f9b2c8d5",
       "question": "Co jest zobowiązany zrobić maszynista w przypadku wystąpienia usterki lub awarii urządzeń pokładowych systemu ERTMS/ETCS poziomu 2?",
       "answers": {
@@ -1276,20 +1178,6 @@
       "section": 17
     },
     {
-      "uuid": "e7a1c5d6-8f2b-4e3c-f0a7-b9d6c2e5f1a8",
-      "question": "Z jaką maksymalną prędkością maszynista prowadzi pociąg podczas jazdy bez nadzoru urządzeń pokładowych systemu ERTMS/ETCS poziomu 2?",
-      "answers": {
-        "A": "40 km/h",
-        "B": "80 km/h",
-        "C": "120 km/h",
-        "D": "160 km/h"
-      },
-      "correct": "D",
-      "explanation": "Ir-1b § 17 ust. 3",
-      "section_ref": "§ 17",
-      "section": 17
-    },
-    {
       "uuid": "f8b2d6e7-9a3c-4f4d-a1b8-c0e7d3f6a2b9",
       "question": "W oparciu o co maszynista prowadzi pociąg w trakcie jazdy bez nadzoru urządzeń pokładowych systemu ERTMS/ETCS poziomu 2?",
       "answers": {
@@ -1300,20 +1188,6 @@
       },
       "correct": "C",
       "explanation": "Ir-1b § 17 ust. 3",
-      "section_ref": "§ 17",
-      "section": 17
-    },
-    {
-      "uuid": "a9c3e7f8-0b4d-4a5e-b2c9-d1f8e4a7b3c0",
-      "question": "Gdzie dyżurny ruchu zapisuje informacje o zatrzymaniu pociągu przez system ERTMS/ETCS poziomu 2?",
-      "answers": {
-        "A": "W rubryce „Uwagi” dziennika ruchu",
-        "B": "W rubryce „Uwagi” książki kontroli ruchu",
-        "C": "W rubryce „Uwagi” rejestru pociągów",
-        "D": "W rubryce „Uwagi” książki przebiegów pociągowych"
-      },
-      "correct": "A",
-      "explanation": "Ir-1b § 17 ust. 4",
       "section_ref": "§ 17",
       "section": 17
     },
@@ -1342,104 +1216,6 @@
       },
       "correct": "B",
       "explanation": "Ir-1b § 17 ust. 5 lit. b",
-      "section_ref": "§ 17",
-      "section": 17
-    },
-    {
-      "uuid": "d2f6b0c1-3e7a-4d8b-e5f2-a4c1b7d0e6f3",
-      "question": "Do jakiej prędkości maszynista zobowiązany jest ograniczyć prędkość pociągu jadącego w trybie „Odpowiedzialność Personelu” (SR), dojeżdżając do semafora, od którego dalsza jazda ma odbywać się w trybie „Pełny Nadzór” (FS)?",
-      "answers": {
-        "A": "20 km/h",
-        "B": "40 km/h",
-        "C": "60 km/h",
-        "D": "80 km/h"
-      },
-      "correct": "B",
-      "explanation": "Ir-1b § 17 ust. 6",
-      "section_ref": "§ 17",
-      "section": 17
-    },
-    {
-      "uuid": "e3a7c1d2-4f8b-4e9c-f6a3-b5d2c8e1f7a4",
-      "question": "Jaką prędkość określa dyżurny ruchu w instrukcji europejskiej nr 5 wydawanej maszyniście, gdy pociąg zatrzymał się przed przejazdem kolejowo-drogowym w odległości mniejszej niż obowiązująca droga hamowania?",
-      "answers": {
-        "A": "10 km/h",
-        "B": "20 km/h",
-        "C": "30 km/h",
-        "D": "40 km/h"
-      },
-      "correct": "B",
-      "explanation": "Ir-1b § 17 ust. 7",
-      "section_ref": "§ 17",
-      "section": 17
-    },
-    {
-      "uuid": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f80910213",
-      "question": "Ile czasu maszynista powinien oczekiwać na nowe „Zezwolenie Na Jazdę” (MA) po zatrzymaniu pociągu przed semaforem odstępowym samoczynnej blokady liniowej?",
-      "answers": {
-        "A": "Nie dłużej niż 1 minutę",
-        "B": "Nie dłużej niż 2 minuty",
-        "C": "Nie dłużej niż 3 minuty",
-        "D": "Nie dłużej niż 5 minut"
-      },
-      "correct": "A",
-      "explanation": "Ir-1b § 17 ust. 5",
-      "section_ref": "§ 17",
-      "section": 17
-    },
-    {
-      "uuid": "b8c9d0e1-f2a3-4b4c-5d6e-7f8091021324",
-      "question": "W jakim trybie RBC przekazuje „Zezwolenie Na Jazdę” (MA), gdy najbliższy odstęp blokadowy jest zajęty przez pociąg lub wykazuje zajętość na skutek nieprawidłowej pracy urządzeń srk?",
-      "answers": {
-        "A": "W trybie „Jazda Na Widoczność z ETCS” (OS)",
-        "B": "W trybie „Pełny Nadzór” (FS)",
-        "C": "W trybie „Odpowiedzialność Personelu” (SR)",
-        "D": "W trybie „Jazda Manewrowa” (SH)"
-      },
-      "correct": "A",
-      "explanation": "Ir-1b § 17 ust. 5 lit. b",
-      "section_ref": "§ 17",
-      "section": 17
-    },
-    {
-      "uuid": "c9d0e1f2-a3b4-4c5d-6e7f-809102132435",
-      "question": "Do jakiej prędkości maszynista zobowiązany jest ograniczyć prędkość pociągu jadącego w trybie „Odpowiedzialności Personelu” (SR), dojeżdżając do semafora, od którego dalsza jazda ma odbywać się w trybie „Pełnego Nadzoru” (FS)?",
-      "answers": {
-        "A": "Do 40 km/h",
-        "B": "Do 30 km/h",
-        "C": "Do 20 km/h",
-        "D": "Do 60 km/h"
-      },
-      "correct": "A",
-      "explanation": "Ir-1b § 17 ust. 6",
-      "section_ref": "§ 17",
-      "section": 17
-    },
-    {
-      "uuid": "d0e1f2a3-b4c5-4d6e-7f80-910213243546",
-      "question": "W jakiej odległości od semafora maszynista powinien obsłużyć przycisk „START” na pulpicie ERTMS/ETCS (DMI), jadąc w trybie „Odpowiedzialności Personelu” (SR) w celu wznowienia jazdy pod nadzorem RBC?",
-      "answers": {
-        "A": "W odległości około 150 metrów",
-        "B": "W odległości około 100 metrów",
-        "C": "W odległości około 200 metrów",
-        "D": "W odległości około 50 metrów"
-      },
-      "correct": "A",
-      "explanation": "Ir-1b § 17 ust. 6",
-      "section_ref": "§ 17",
-      "section": 17
-    },
-    {
-      "uuid": "e1f2a3b4-c5d6-4e7f-8091-021324354657",
-      "question": "Jaką prędkość dyżurny ruchu określa w Instrukcji europejskiej nr 5 w przypadku, gdy pociąg zatrzymał się przed przejazdem kolejowo-drogowym w odległości mniejszej niż obowiązująca droga hamowania, a UZK sygnalizują usterkę kategorii pierwszej lub krytycznej?",
-      "answers": {
-        "A": "20 km/h",
-        "B": "30 km/h",
-        "C": "40 km/h",
-        "D": "10 km/h"
-      },
-      "correct": "A",
-      "explanation": "Ir-1b § 17 ust. 7",
       "section_ref": "§ 17",
       "section": 17
     },
@@ -2382,62 +2158,6 @@
       "section": 29
     },
     {
-      "uuid": "25a086e2-f721-495a-960d-dbcb1d247366",
-      "question": "Jakie wyrażenie stosuje się, gdy komunikat odczytany zwrotnie dokładnie odpowiada nadanemu?",
-      "answers": {
-        "A": "Otrzymano",
-        "B": "Odbiór",
-        "C": "Prawidłowo",
-        "D": "Powtórz"
-      },
-      "correct": "C",
-      "explanation": "Ir-1b § 29 Dodatek ust. 6",
-      "section_ref": "§ 29",
-      "section": 29
-    },
-    {
-      "uuid": "4a187a07-ec0d-4cb4-957a-8d21eb6a0077",
-      "question": "Jakie wyrażenie stosuje się, gdy komunikat odczytany zwrotnie nie odpowiada nadanemu?",
-      "answers": {
-        "A": "Powtórz",
-        "B": "Bez odbioru",
-        "C": "Błąd (oraz ponowne powtórzenie)",
-        "D": "Czekaj"
-      },
-      "correct": "C",
-      "explanation": "Ir-1b § 29 Dodatek ust. 6",
-      "section_ref": "§ 29",
-      "section": 29
-    },
-    {
-      "uuid": "a556edc6-57dc-41ef-ae2e-7a3d45f70dab",
-      "question": "Jakie wyrażenie stosuje się do wskazania, że komunikacja została zakończona?",
-      "answers": {
-        "A": "Czekaj",
-        "B": "Będę wywoływać znowu",
-        "C": "Otrzymano",
-        "D": "Bez odbioru"
-      },
-      "correct": "D",
-      "explanation": "Ir-1b § 29 Dodatek ust. 6",
-      "section_ref": "§ 29",
-      "section": 29
-    },
-    {
-      "uuid": "c7b6f331-62f7-4cb7-8ec3-58c7c9663103",
-      "question": "Jakie wyrażenie stosuje się, gdy łączność została tymczasowo przerwana, ale połączenie nie jest zerwane?",
-      "answers": {
-        "A": "Bez odbioru",
-        "B": "Będę wywoływać znowu",
-        "C": "Czekaj",
-        "D": "Powtórz"
-      },
-      "correct": "C",
-      "explanation": "Ir-1b § 29 Dodatek ust. 6",
-      "section_ref": "§ 29",
-      "section": 29
-    },
-    {
       "uuid": "f106d162-0910-4b2d-864a-8b14e516613b",
       "question": "Co oznacza pole „B” w nagłówku formularza instrukcji europejskiej?",
       "answers": {
@@ -2514,7 +2234,7 @@
         "A": "balisą wysyłającą różne komunikaty zależne od wskazań sygnalizatorów przytorowych",
         "B": "balisą wysyłającą stałe komunikaty do urządzeń pokładowych systemu ERTMS/ETCS",
         "C": "balisą instalowaną tymczasowo w torze na okres obowiązywania ograniczenia prędkości",
-        "D": "urządzeniem odczytującym stany urządzeń sterowania ruchem kolejowym"
+        "D": "balisą wysyłającą komunikaty dotyczące aktualnej pozycji pociągu, zmieniane w zależności od aktualnej sytuacji ruchowej"
       },
       "correct": "B",
       "explanation": "Ir-1b § 2 ust. 5",
@@ -2528,7 +2248,7 @@
         "A": "balisą wysyłającą stałe komunikaty dotyczące aktualnej pozycji pociągu i ograniczeń prędkości",
         "B": "balisą instalowaną tymczasowo w torze na okres obowiązywania ograniczenia prędkości",
         "C": "balisą wysyłającą różne komunikaty zależne od wskazań sygnalizatorów przytorowych",
-        "D": "urządzeniem odczytującym stany urządzeń sterowania ruchem kolejowym na podstawie wskazań sygnalizatorów"
+        "D": "balisą wysyłającą stałe komunikaty dotyczące aktualnej pozycji pociągu, niezależnie od wskazań sygnalizatorów przytorowych"
       },
       "correct": "C",
       "explanation": "Ir-1b § 2 ust. 6",
@@ -2564,27 +2284,13 @@
       "section": 2
     },
     {
-      "uuid": "384c530b-9290-4d09-aaa9-7396b9ef774d",
-      "question": "Na kim spoczywa odpowiedzialność za prowadzenie pojazdu trakcyjnego w trybie pracy „Jazda Manewrowa” (SH)?",
-      "answers": {
-        "A": "na dyżurnym ruchu",
-        "B": "na maszyniście",
-        "C": "na Centrum Sterowania Radiowego (RBC)",
-        "D": "na kierowniku pociągu"
-      },
-      "correct": "B",
-      "explanation": "Ir-1b § 2 ust. 23",
-      "section_ref": "§ 2",
-      "section": 2
-    },
-    {
       "uuid": "31c213f2-02a0-42df-98c3-5b8e1b15fd6b",
       "question": "Do czego służy Centrum Sterowania Radiowego (RBC)?",
       "answers": {
-        "A": "do przesyłania punktowo danych w postaci telegramów do urządzeń pokładowych systemu ERTMS/ETCS",
-        "B": "do odczytywania stanów urządzeń sterowania ruchem kolejowym na podstawie wskazań sygnalizatorów",
+        "A": "do określenia i przekazania parametrów jazdy dla pociągów wyposażonych w urządzenia pokładowe systemu ERTMS/ETCS poziomu 1",
+        "B": "do odczytywania stanów urządzeń sterowania ruchem kolejowym na podstawie wskazań sygnalizatorów przytorowych i przekazywania ich do urządzeń pokładowych",
         "C": "do określenia i przekazania parametrów jazdy dla pociągów wyposażonych w urządzenia pokładowe systemu ERTMS/ETCS poziomu 2",
-        "D": "do zapewnienia łączności głosowej pomiędzy pracownikami prowadzącymi ruch kolejowy a pracownikami obsługi pociągów"
+        "D": "do określenia i przekazania parametrów jazdy dla pojazdów poruszających się po liniach niewyposażonych w urządzenia przytorowe systemu ERTMS/ETCS"
       },
       "correct": "C",
       "explanation": "Ir-1b § 2 ust. 9",
@@ -2616,20 +2322,6 @@
       },
       "correct": "C",
       "explanation": "Ir-1b § 2 ust. 26",
-      "section_ref": "§ 2",
-      "section": 2
-    },
-    {
-      "uuid": "e2f2e0a6-5383-48f7-9689-19b0078e50b2",
-      "question": "Jaka jest zasadnicza maksymalna prędkość jazdy w trybie pracy „Odpowiedzialność Personelu” (SR)?",
-      "answers": {
-        "A": "25 km/h",
-        "B": "30 km/h",
-        "C": "40 km/h",
-        "D": "50 km/h"
-      },
-      "correct": "C",
-      "explanation": "Ir-1b § 2 ust. 25",
       "section_ref": "§ 2",
       "section": 2
     },
@@ -2704,86 +2396,16 @@
       "section": 2
     },
     {
-      "uuid": "d63bf26c-3688-47c0-85e4-53aa931588bf",
-      "question": "Z jakich elementów składa się Europejski System Zarządzania Ruchem Kolejowym (ERTMS)?",
-      "answers": {
-        "A": "systemu kontroli pociągu (ETCS), łączności radiowej (RMR) i automatycznego prowadzenia pociągu (ATO)",
-        "B": "systemu kontroli pociągu (ETCS), łączności radiowej (GSM-R) i systemu sygnalizacji przytorowej",
-        "C": "systemu sterowania ruchem (SRK), łączności radiowej (RMR) i automatycznego hamowania pociągu (AHP)",
-        "D": "systemu kontroli pociągu (ETCS), blokady liniowej i automatycznego prowadzenia pociągu (ATO)"
-      },
-      "correct": "A",
-      "explanation": "Ir-1b § 2 ust. 2",
-      "section_ref": "§ 2",
-      "section": 2
-    },
-    {
-      "uuid": "0d44b076-3eb6-4498-8571-c922ffc7c231",
-      "question": "Czym jest balisa nieprzełączalna?",
-      "answers": {
-        "A": "balisą wysyłającą różne komunikaty zależne od wskazań sygnalizatorów przytorowych",
-        "B": "balisą wysyłającą stałe komunikaty do urządzeń pokładowych systemu ERTMS/ETCS",
-        "C": "grupą balis zainstalowanych w torze na okres obowiązywania ograniczenia prędkości",
-        "D": "urządzeniem odczytującym stany urządzeń sterowania ruchem kolejowym"
-      },
-      "correct": "B",
-      "explanation": "Ir-1b § 2 ust. 5",
-      "section_ref": "§ 2",
-      "section": 2
-    },
-    {
-      "uuid": "30902b7c-c983-4688-a7cf-4cb1ec12e828",
-      "question": "Czym jest balisa przełączalna?",
-      "answers": {
-        "A": "balisą wysyłającą stałe komunikaty dotyczące pozycji pociągu i ograniczeń prędkości",
-        "B": "grupą balis zainstalowanych w torze na okres obowiązywania ograniczenia prędkości",
-        "C": "balisą wysyłającą różne komunikaty zależne od wskazań sygnalizatorów przytorowych",
-        "D": "urządzeniem odczytującym stany urządzeń sterowania ruchem kolejowym"
-      },
-      "correct": "C",
-      "explanation": "Ir-1b § 2 ust. 6",
-      "section_ref": "§ 2",
-      "section": 2
-    },
-    {
-      "uuid": "72d3455f-3475-4095-b171-8ddfeba476c8",
-      "question": "Z ilu balis może składać się grupa balis?",
-      "answers": {
-        "A": "od jednej do czterech",
-        "B": "od jednej do ośmiu",
-        "C": "od dwóch do sześciu",
-        "D": "od dwóch do dziesięciu"
-      },
-      "correct": "B",
-      "explanation": "Ir-1b § 2 ust. 4",
-      "section_ref": "§ 2",
-      "section": 2
-    },
-    {
       "uuid": "89f73f63-5ba8-46c2-ac36-113b27947356",
       "question": "Czym jest Centrum Sterowania Radiowego (RBC)?",
       "answers": {
         "A": "głównym elementem urządzeń pokładowych systemu ERTMS/ETCS poziomu 2",
         "B": "głównym elementem urządzeń przytorowych systemu ERTMS/ETCS poziomu 2",
         "C": "elementem urządzeń przytorowych systemu ERTMS/ETCS poziomu 1",
-        "D": "cyfrowym naziemnym systemem łączności radiowej systemu ERTMS/GSM-R"
+        "D": "elementem urządzeń pokładowych systemu ERTMS/ETCS poziomu 1"
       },
       "correct": "B",
       "explanation": "Ir-1b § 2 ust. 9",
-      "section_ref": "§ 2",
-      "section": 2
-    },
-    {
-      "uuid": "97605d8f-59ac-4492-9924-c8d45c0fcc5c",
-      "question": "Jaka jest maksymalna prędkość jazdy w trybie pracy „Jazda Manewrowa” (SH)?",
-      "answers": {
-        "A": "do 15 km/h",
-        "B": "do 20 km/h",
-        "C": "do 25 km/h",
-        "D": "do 40 km/h"
-      },
-      "correct": "C",
-      "explanation": "Ir-1b § 2 ust. 23",
       "section_ref": "§ 2",
       "section": 2
     },
@@ -3012,20 +2634,6 @@
       "section": 2
     },
     {
-      "uuid": "68a8eb74-0d9b-4d2c-bbf9-3c5e47914bcd",
-      "question": "Jaka jest polska nazwa trybu pracy oznaczonego jako „TR”?",
-      "answers": {
-        "A": "Po Zatrzymaniu Przez System",
-        "B": "Zatrzymanie Przez System",
-        "C": "Cofanie",
-        "D": "Odłączenie Systemu"
-      },
-      "correct": "B",
-      "explanation": "Ir-1b § 2 ust. 21 tabela poz. 11",
-      "section_ref": "§ 2",
-      "section": 2
-    },
-    {
       "uuid": "7cb49e74-fb14-48d3-9294-7d3dc81e2efb",
       "question": "Jakie oznaczenie ma tryb pracy „Gotowość”?",
       "answers": {
@@ -3082,20 +2690,6 @@
       "section": 2
     },
     {
-      "uuid": "b5798b81-46cd-4c1e-bb21-070696c39b2e",
-      "question": "W jakich urządzenia muszą być wyposażone pojazdy trakcyjne poruszające się w trybie „Linia Niewyposażona” (UN) po liniach zarządzanych przez PLK S.A., oprócz urządzeń pokładowych systemu ERTMS/ETCS?",
-      "answers": {
-        "A": "W urządzenia systemu SHP, urządzenia spełniające funkcję RADIO-STOP oraz urządzenia obowiązującego systemu radiołączności pociągowej",
-        "B": "W urządzenia systemu BKJP, urządzenia spełniające funkcję RADIO-STOP oraz urządzenia obowiązującego systemu radiołączności pociągowej",
-        "C": "W urządzenia systemu SHP, urządzenia samoczynnego hamowania oraz urządzenia obowiązującego systemu radiołączności pociągowej",
-        "D": "W urządzenia systemu SHP, urządzenia spełniające funkcję RADIO-STOP oraz urządzenia systemu łączności przewodowej"
-      },
-      "correct": "A",
-      "explanation": "Ir-1b § 2 ust. 24",
-      "section_ref": "§ 2",
-      "section": 2
-    },
-    {
       "uuid": "3de5bff1-bc2d-40ba-9813-b067e15c86a2",
       "question": "Co kontrolują urządzenia pokładowe systemu ERTMS/ETCS poziomu 2 w trakcie pracy w trybie „Pełny Nadzór” (FS)?",
       "answers": {
@@ -3106,20 +2700,6 @@
       },
       "correct": "A",
       "explanation": "Ir-1b § 2 ust. 22",
-      "section_ref": "§ 2",
-      "section": 2
-    },
-    {
-      "uuid": "9d2f3c6f-0239-41a8-b6a0-fcb48a4c0570",
-      "question": "Czym są linie niewyposażone w rozumieniu instrukcji Ir-1b?",
-      "answers": {
-        "A": "Liniami kolejowymi wyposażonymi zarówno w urządzenia srk warstwy podstawowej, jak i w urządzenia przytorowe systemu ERTMS/ETCS",
-        "B": "Liniami kolejowymi wyposażonymi w urządzenia srk warstwy podstawowej, ale niewyposażonymi w urządzenia przytorowe systemu ERTMS/ETCS",
-        "C": "Liniami kolejowymi niewyposażonymi w żadne urządzenia srk ani w urządzenia systemu ERTMS/ETCS",
-        "D": "Liniami kolejowymi wyposażonymi wyłącznie w urządzenia przytorowe systemu ERTMS/ETCS bez urządzeń srk warstwy podstawowej"
-      },
-      "correct": "B",
-      "explanation": "Ir-1b § 2 ust. 14",
       "section_ref": "§ 2",
       "section": 2
     },
@@ -3390,48 +2970,6 @@
       "section": 4
     },
     {
-      "uuid": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8091a2",
-      "question": "Dla jakiej prędkości należy podać procent wymaganej masy hamującej w wewnętrznym rozkładzie jazdy, w przypadku pociągów z największą dozwoloną prędkością równą lub większą niż 160 km/h?",
-      "answers": {
-        "A": "Dla prędkości 160 km/h",
-        "B": "Dla największej dozwolonej prędkości danego pociągu",
-        "C": "Dla prędkości 200 km/h",
-        "D": "Dla prędkości maksymalnej na danym odcinku linii"
-      },
-      "correct": "A",
-      "explanation": "Ir-1b § 4 ust. 6 pkt 1",
-      "section_ref": "§ 4",
-      "section": 4
-    },
-    {
-      "uuid": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8091a2b3",
-      "question": "Dla jakiej prędkości należy podać procent wymaganej masy hamującej w wewnętrznym rozkładzie jazdy, w przypadku pociągów z największą dozwoloną prędkością mniejszą niż 160 km/h?",
-      "answers": {
-        "A": "Dla największej dozwolonej prędkości danego pociągu",
-        "B": "Dla prędkości 160 km/h",
-        "C": "Dla prędkości 120 km/h",
-        "D": "Dla prędkości maksymalnej na danym odcinku linii"
-      },
-      "correct": "A",
-      "explanation": "Ir-1b § 4 ust. 6 pkt 2",
-      "section_ref": "§ 4",
-      "section": 4
-    },
-    {
-      "uuid": "b8c9d0e1-f2a3-4b4c-5d6e-7f8091a2b3c4",
-      "question": "Kiedy jest dopuszczalne wprowadzanie lub zmiana danych o pociągu w urządzeniach pokładowych systemu ERTMS/ETCS poziomu 2?",
-      "answers": {
-        "A": "Wyłącznie w czasie postoju pociągu",
-        "B": "W czasie jazdy pociągu z prędkością do 40 km/h",
-        "C": "W czasie jazdy pociągu w trybie Odpowiedzialność Personelu",
-        "D": "W dowolnym momencie, po uzgodnieniu z dyżurnym ruchu"
-      },
-      "correct": "A",
-      "explanation": "Ir-1b § 4 ust. 10",
-      "section_ref": "§ 4",
-      "section": 4
-    },
-    {
       "uuid": "c9d0e1f2-a3b4-4c5d-6e7f-8091a2b3c4d5",
       "question": "Jakiego numeru pociągu maszynista jest zobowiązany użyć, wprowadzając dane do urządzeń pokładowych systemu ERTMS/ETCS poziomu 2?",
       "answers": {
@@ -3442,20 +2980,6 @@
       },
       "correct": "A",
       "explanation": "Ir-1b § 4 ust. 9 pkt 1",
-      "section_ref": "§ 4",
-      "section": 4
-    },
-    {
-      "uuid": "d0e1f2a3-b4c5-4d6e-7f80-91a2b3c4d5e6",
-      "question": "O czym maszynista jest zobowiązany poinformować kierownika pociągu w trakcie przygotowania pociągu do jazdy?",
-      "answers": {
-        "A": "O wyposażeniu pojazdu trakcyjnego w urządzenia systemu ERTMS/ETCS poziomu 2 i ich stanie",
-        "B": "O numerze pociągu wprowadzonym do urządzeń pokładowych systemu ERTMS/ETCS",
-        "C": "O procencie rzeczywistej masy hamującej pociągu i kategorii pociągu",
-        "D": "O identyfikatorze sieci ERTMS/GSM-R oraz numerze telefonu RBC"
-      },
-      "correct": "A",
-      "explanation": "Ir-1b § 4 ust. 9 pkt 4",
       "section_ref": "§ 4",
       "section": 4
     },
@@ -3488,20 +3012,6 @@
       "section": 4
     },
     {
-      "uuid": "a3b4c5d6-e7f8-4091-a2b3-c4d5e6f7a8b9",
-      "question": "Kiedy dyżurny ruchu nie może wydać zgody na wykonywanie procedury „Start Misji”?",
-      "answers": {
-        "A": "Gdy aktywna kabina nie znajduje się na czole pociągu",
-        "B": "Gdy pociąg nie ma obliczonej wymaganej masy hamującej",
-        "C": "Gdy maszynista nie poinformował kierownika pociągu o stanie urządzeń ERTMS/ETCS",
-        "D": "Gdy pociąg nie posiada ważnego rozkładu jazdy"
-      },
-      "correct": "A",
-      "explanation": "Ir-1b § 4 ust. 11 pkt 6",
-      "section_ref": "§ 4",
-      "section": 4
-    },
-    {
       "uuid": "263d604c-1f2e-409d-aa02-fd6d997b22e3",
       "question": "Gdzie należy wskazać linie lub odcinki linii wyposażone w czynne i dopuszczone do eksploatacji urządzenia systemu ERTMS/ETCS poziomu 2?",
       "answers": {
@@ -3530,34 +3040,6 @@
       "section": 5
     },
     {
-      "uuid": "f9a787d9-d0af-4e92-86eb-2b62ef37b5bb",
-      "question": "Jakim skrótem dyżurny ruchu odnotowuje w rubryce „Uwagi” dziennika ruchu zgłoszenie maszynisty o posiadaniu czynnych urządzeń pokładowych systemu ERTMS/ETCS poziomu 2?",
-      "answers": {
-        "A": "ETCS 2",
-        "B": "ERTMS 2",
-        "C": "ETCS/L2",
-        "D": "E2"
-      },
-      "correct": "A",
-      "explanation": "Ir-1b § 5 ust. 3",
-      "section_ref": "§ 5",
-      "section": 5
-    },
-    {
-      "uuid": "24449726-afb8-4cf6-8020-702842553c45",
-      "question": "Jaką informacją należy uzupełnić telefonogramy zapowiadawcze dotyczące wyprawienia pociągu w obszar sąsiedniego Centrum Sterowania Radiowego (RBC)?",
-      "answers": {
-        "A": "„z ETCS 2”",
-        "B": "„ETCS aktywny”",
-        "C": "„pod nadzorem RBC”",
-        "D": "„z ERTMS 2”"
-      },
-      "correct": "A",
-      "explanation": "Ir-1b § 5 ust. 4",
-      "section_ref": "§ 5",
-      "section": 5
-    },
-    {
       "uuid": "01df5ee3-60b8-4c08-adf3-7d30d96898bd",
       "question": "Ruch pociągów z prędkością większą niż 160 km/h może odbywać się wyłącznie pod:",
       "answers": {
@@ -3568,48 +3050,6 @@
       },
       "correct": "A",
       "explanation": "Ir-1b § 5 ust. 7",
-      "section_ref": "§ 5",
-      "section": 5
-    },
-    {
-      "uuid": "a607efb6-1bfa-45eb-8a53-ef1515317144",
-      "question": "Co mają pierwszeństwo przed wskazaniami pulpitu pokładowego systemu ERTMS/ETCS (DMI), niezależnie od trybu pracy urządzeń pokładowych?",
-      "answers": {
-        "A": "Instrukcje europejskie oraz rozkazy pisemne",
-        "B": "Sygnały nadawane przez semafory przytorowe",
-        "C": "Polecenia dyżurnego ruchu przekazane drogą radiową",
-        "D": "Wskazania tachografu pokładowego i systemu rejestracji jazdy"
-      },
-      "correct": "A",
-      "explanation": "Ir-1b § 5 ust. 6 pkt 2",
-      "section_ref": "§ 5",
-      "section": 5
-    },
-    {
-      "uuid": "162ab7d8-1809-4a8e-aa51-82eb2152dfda",
-      "question": "Do czego zobowiązany jest dyżurny ruchu przed nastawieniem drogi przebiegu prowadzącej poza obszar objęty systemem ERTMS/ETCS poziomu 2?",
-      "answers": {
-        "A": "Do powiadomienia maszynisty o przewidywanym wyjeździe do obszaru nie objętego systemem ERTMS/ETCS poziomu 2",
-        "B": "Do nakazania maszyniście dezaktywacji kabiny pojazdu trakcyjnego wyposażonego w urządzenia pokładowe ERTMS/ETCS",
-        "C": "Do powiadomienia sąsiedniego posterunku zapowiadawczego o wyjeździe pociągu poza obszar ERTMS/ETCS poziomu 2",
-        "D": "Do nakazania maszyniście ponownego wykonania procedury „Start misji” przed wyjazdem z obszaru ERTMS/ETCS poziomu 2"
-      },
-      "correct": "A",
-      "explanation": "Ir-1b § 5 ust. 10",
-      "section_ref": "§ 5",
-      "section": 5
-    },
-    {
-      "uuid": "f804aeb9-967f-43f2-88d8-d401feb1fb00",
-      "question": "Gdzie można wykonywać dzielenie i łączenie pociągów z czynnymi urządzeniami pokładowymi systemu ERTMS/ETCS poziomu 2?",
-      "answers": {
-        "A": "Jedynie na torach stacyjnych objętych systemem ERTMS/ETCS poziomu 2",
-        "B": "Na dowolnych torach stacyjnych wyposażonych w semafory przytorowe",
-        "C": "Jedynie na torach szlakowych objętych systemem ERTMS/ETCS poziomu 2",
-        "D": "Na torach stacyjnych wyznaczonych przez dyżurnego ruchu w regulaminie technicznym"
-      },
-      "correct": "A",
-      "explanation": "Ir-1b § 5 ust. 14",
       "section_ref": "§ 5",
       "section": 5
     },
@@ -3638,20 +3078,6 @@
       },
       "correct": "A",
       "explanation": "Ir-1b § 5 ust. 4",
-      "section_ref": "§ 5",
-      "section": 5
-    },
-    {
-      "uuid": "f05f88be-defa-4894-8dd4-f78e8a4bc3db",
-      "question": "Ruch pociągów z prędkością większą niż 160 km/h może odbywać się wyłącznie pod:",
-      "answers": {
-        "A": "pełnym nadzorem czynnego i sprawnie działającego systemu ERTMS/ETCS poziomu 2",
-        "B": "częściowym nadzorem systemu ERTMS/ETCS poziomu 1",
-        "C": "pełnym nadzorem systemu samoczynnego hamowania pociągów",
-        "D": "częściowym nadzorem czynnego systemu ERTMS/ETCS poziomu 2"
-      },
-      "correct": "A",
-      "explanation": "Ir-1b § 5 ust. 7",
       "section_ref": "§ 5",
       "section": 5
     },

@@ -3,7 +3,7 @@
 Expected input:  instructions/{name}/{name}-pytania.json
 Expected output: instructions/{name}/{name}-pytania.xlsx
 
-Writes columns A-H (UUID, Question, A-D, Correct, Explanation).
+Writes columns A-I (UUID, Question, A-D, Correct, Explanation, Section).
 """
 
 import argparse
@@ -14,7 +14,7 @@ from pathlib import Path
 import openpyxl
 
 
-HEADERS = ["UUID", "Question", "A", "B", "C", "D", "Correct", "Explanation"]
+HEADERS = ["UUID", "Question", "A", "B", "C", "D", "Correct", "Explanation", "Section"]
 
 
 def convert_json(json_path: Path, xlsx_path: Path) -> int:
@@ -38,6 +38,7 @@ def convert_json(json_path: Path, xlsx_path: Path) -> int:
             answers.get("D", ""),
             q.get("correct", ""),
             q.get("explanation", ""),
+            q.get("section"),
         ])
 
     wb.save(xlsx_path)
