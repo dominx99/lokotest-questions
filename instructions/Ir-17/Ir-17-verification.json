@@ -2,10 +2,11 @@
   "instruction": "Ir-17",
   "timestamp": "2026-03-14T22:14:55.602771",
   "summary": {
-    "total": 154,
+    "total": 136,
     "ok": 136,
-    "fix": 6,
-    "delete": 12
+    "fix": 0,
+    "delete": 0,
+    "new": 0
   },
   "results": [
     {
@@ -54,13 +55,6 @@
       "problems": []
     },
     {
-      "uuid": "32f50c2f-40e2-48f6-bd92-23e2ea2a8897",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=f4e641a8 — identyczna treść i ta sama poprawna odpowiedź (1,5 m); f4e641a8 ma lepszy dobór dystraktorów (zawiera opcję 1,2 m, co jest bardziej wiarygodnym dystraktorem)"
-      ]
-    },
-    {
       "uuid": "12e98c64-b929-4071-8882-c5f05bd018bd",
       "status": "OK",
       "problems": []
@@ -106,57 +100,14 @@
       "problems": []
     },
     {
-      "uuid": "b641a0b3-7aef-4f70-b3d1-9ced53b8997e",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=96c15aeb — identyczna treść sensu (warunki ustawiania parkanów zamiast żywopłotów) i ta sama poprawna odpowiedź; pytanie 96c15aeb jest bardziej precyzyjne w sformułowaniu"
-      ]
-    },
-    {
-      "uuid": "ec102dee-42ad-4d92-b207-3193f3cbb29f",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=9e13443f — identyczna treść sensu (liczba rzędów i odległość między nimi w żywopłocie) i ta sama poprawna odpowiedź; pytanie 9e13443f jest bardziej szczegółowe i precyzyjne"
-      ]
-    },
-    {
       "uuid": "ead72e71-f63e-47f4-ae1a-1355bd85ac42",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "7762c715-0a4a-45b3-8c55-914731583e3a",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=7035f1a3 — identyczna treść sensu (kąt ustawienia przenośnych zasłon odśnieżnych) i ta sama poprawna odpowiedź (90°)"
-      ]
-    },
-    {
-      "uuid": "2fc7a61f-77d6-4f1b-802a-5b721510b65b",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=82a11ad5 — identyczna treść sensu (typowa wysokość zasłony odśnieżnej z siatki z tworzywa sztucznego) i ta sama poprawna odpowiedź (1,30 m)"
-      ]
-    },
-    {
       "uuid": "9633ef8f-fa2f-4d01-91c9-3e5580395cdb",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "48c07161-6f6c-4fb0-aa6e-30817fa3456e",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź B (~128 znaków) jest ponad 1,5× dłuższa od najdłuższego dystraktora D (~73 znaki) — należy wyrównać dystraktory w górę zgodnie z zasadą 6."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Przeprowadzenie pisemnego egzaminu z zasad bhp dla wszystkich pracowników zatrudnionych przy robotach zimowych, obejmującego imienny podział pracy i wymagania bhp",
-          "B": "Dokonanie pouczenia w formie instruktażu na miejscu pracy, obejmującego imienny podział pracy, kolejność wykonywania zadań i wymagania bhp",
-          "C": "Zgłoszenie gotowości do robót odśnieżnych do dyżurnego ruchu oraz przekazanie mu imiennego wykazu pracowników i zakresu planowanych zadań",
-          "D": "Sprawdzenie stanu technicznego sprzętu odśnieżnego, sporządzenie protokołu i przekazanie go dyżurnemu odpowiedzialnemu za organizację robót zimowych"
-        }
-      }
     },
     {
       "uuid": "27fa7579-c9c2-421a-956c-7e36eb4f22fa",
@@ -354,21 +305,6 @@
       "problems": []
     },
     {
-      "uuid": "c7b5c4b7-f414-486a-a637-08d355e9c3cf",
-      "status": "FIX",
-      "problems": [
-        "Błąd gramatyczny w odpowiedzi D: 'Dyspozytorze Głównej' powinno być 'Dyspozytury Głównej'"
-      ],
-      "changes": {
-        "answers": {
-          "A": "Koordynatorowi akcji zimowej",
-          "B": "Kierownikowi akcji zimowej",
-          "C": "Dyspozytorowi w Zakładzie Linii Kolejowych",
-          "D": "Dyspozytury Głównej"
-        }
-      }
-    },
-    {
       "uuid": "761d09b6-a43d-4912-b348-d790abd75c4a",
       "status": "OK",
       "problems": []
@@ -489,21 +425,6 @@
       "problems": []
     },
     {
-      "uuid": "33a6dcf0-0ca2-4485-aab4-f5585c64a9fb",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź A ma 136 znaków i jest ponad 1,5× dłuższa od najdłuższego dystraktora (~78 znaków) — naruszenie zasady 6. Należy wyrównać dystraktory w górę, rozbudowując je o treść z paragrafu."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Do szybkiego topienia śniegu i lodu w rozjazdach, zwłaszcza z przestrzeni między iglicą a opornicą, siodełek iglicowych, krzyżownic oraz zamknięć nastawczych",
-          "B": "Do powolnego rozmrażania zamkniętych kanałów pędni rozjazdowych i napędów zwrotnicowych, zwłaszcza w przypadku zamarznięcia zamknięć nastawczych lub siodełek iglicowych",
-          "C": "Wyłącznie do likwidacji oblodzenia szyn w torze przed rozjazdem i za rozjazdem, a także siodełek iglicowych, krzyżownic i zamknięć nastawczych",
-          "D": "Do ogrzewania urządzeń elektrycznych sterowania rozjazdami w ekstremalnych warunkach zimowych oraz kanałów pędni rozjazdowych i zamknięć nastawczych"
-        }
-      }
-    },
-    {
       "uuid": "9864ba85-9a71-4113-9321-5bc9dfc1e817",
       "status": "OK",
       "problems": []
@@ -527,21 +448,6 @@
       "uuid": "9796ddb8-eb76-4049-bb03-778b377192c1",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "13c8225f-5bd7-4871-abc3-786122518a79",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź B (~253 znaki) jest ponad 1,5× dłuższa od najdłuższego dystraktora (~102 znaki) — dystraktory należy rozbudować do porównywalnej długości z treści paragrafu."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Na całej długości peronu, na szerokości strefy zagrożenia wraz z pasem bezpieczeństwa, powiększonej co najmniej o 1,6 m, przy uwzględnieniu dojść do wyposażenia infrastruktury pasażerskiej",
-          "B": "Na długości odpowiadającej co najmniej długości najdłuższego składu pociągu pasażerskiego zatrzymującego się przy danej krawędzi peronowej oraz na długości dojścia do miejsca zatrzymywania się pociągów i dojść do wyposażenia infrastruktury pasażerskiej",
-          "C": "Na długości odpowiadającej co najmniej długości najkrótszego składu pociągu pasażerskiego zatrzymującego się przy danej krawędzi peronowej oraz na długości dojścia do miejsca zatrzymywania się pociągów i dojść do wyposażenia infrastruktury pasażerskiej",
-          "D": "Na długości odpowiadającej połowie długości najdłuższego składu pociągu pasażerskiego zatrzymującego się przy danej krawędzi peronowej oraz na długości dojścia do miejsca zatrzymywania się pociągów i dojść do wyposażenia infrastruktury pasażerskiej"
-        }
-      }
     },
     {
       "uuid": "00778dab-7ac9-46f5-b4db-2efc945919fa",
@@ -614,20 +520,6 @@
       "problems": []
     },
     {
-      "uuid": "0147011b-ff8d-4d54-9a9b-ba01b5405090",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=7a323b4a-116c-42ab-bb41-0aebb2ee766a — identyczne pytanie o tym, co jest niezbędne do sprawnego funkcjonowania kolei w trudnych warunkach atmosferycznych; wersja 7a323b4a jest dokładniejsza (pełne sformułowanie z § 3 ust. 1 w poprawnej odpowiedzi)."
-      ]
-    },
-    {
-      "uuid": "84ae4334-dd41-4778-9b93-467e238be3b6",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=053a1104-9735-4cf3-83e5-92066629ec15 — oba pytania brzmią identycznie i mają tę samą poprawną odpowiedź (planowanie strategii i inicjowanie działań przez Biuro Eksploatacji). Ponadto dystraktory w tym pytaniu są słabej jakości: odpowiedź B ('Nadzorowanie realizacji umów dotyczących zimowego utrzymania infrastruktury pasażerskiej') jest zgodna z § 3 ust. 2 pkt 1 lit. j i stanowi poprawną odpowiedź dla Biura Eksploatacji, co czyni pytanie niejednoznacznym."
-      ]
-    },
-    {
       "uuid": "6d0970ee-d7bf-446b-8fca-9081ba4c3bfc",
       "status": "OK",
       "problems": []
@@ -638,49 +530,14 @@
       "problems": []
     },
     {
-      "uuid": "10c964f5-b375-4ff4-8237-d3e61f98de65",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=dfda46dd-69ba-457d-981c-b38c4dc37fd1 — oba pytania brzmią identycznie i mają tę samą poprawną odpowiedź (Koordynator i kierownik akcji zimowej). Wersja dfda46dd zachowywana jako lepsza."
-      ]
-    },
-    {
-      "uuid": "458ed2fd-f02c-4ee8-a1d1-44232fcdcf47",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=d287dab0-8c50-4b98-84b1-5b359023e30e — oba pytania brzmią identycznie i mają tę samą poprawną odpowiedź (właściwe jednostki zarządzania kryzysowego oraz podmioty krajowego systemu ratowniczo-gaśniczego). Wersja d287dab0 zachowywana jako lepsza (dokładniejsze dystraktory)."
-      ]
-    },
-    {
-      "uuid": "36c06a60-2f36-4a44-964f-709362e41bdc",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=81ea8608-c8ee-454d-ba44-179badca7295 — oba pytania dotyczą zadań komórki ds. zaplecza technicznego, ratownictwa i ochrony przeciwpożarowej w akcji zimowej. Wersja 81ea8608 jest dokładniejsza (poprawna odpowiedź ściślej oddaje brzmienie § 3 ust. 2 pkt 4 lit. d: 'zagwarantowanie personelu do ich obsługi')."
-      ]
-    },
-    {
       "uuid": "8ef3dcb6-b731-40ae-8af8-ed7775fe2de4",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "8d11e02c-f632-4425-bcf8-345e8bfefef6",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=f8930700-e532-4099-b34f-bbde2f6d1606 — oba pytania dotyczą informacji przekazywanych przez dyspozytora ZLK do Ekspozytury ZRK i mają tę samą poprawną odpowiedź. Wersja f8930700 jest zachowywana."
-      ]
-    },
-    {
       "uuid": "036e8bb8-86ca-4698-85b5-3cc37ec90be6",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "65f52a41-d42e-4c2e-8c61-8785f19083ce",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=d3ed606d-aa14-46d4-ad49-30e0b5b95177 — oba pytania dotyczą zadań komórek organizacyjnych Centrali Spółki ds. automatyki i telekomunikacji, energetyki oraz dróg kolejowych i mają tę samą poprawną odpowiedź. Wersja d3ed606d zachowywana jako lepsza."
-      ]
     },
     {
       "uuid": "760e8b8e-0096-47c5-b076-f32637b8f18d",
@@ -696,21 +553,6 @@
       "uuid": "053a1104-9735-4cf3-83e5-92066629ec15",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "7926e49e-3ef4-4597-8ec4-50c23e939c68",
-      "status": "FIX",
-      "problems": [
-        "Niejednoznaczność: dystraktror A ('Nadzorowania realizacji umów dotyczących zimowego utrzymania infrastruktury pasażerskiej') jest zgodny z § 3 ust. 2 pkt 1 lit. j i stanowi poprawne zadanie Biura Eksploatacji — tym samym pytanie ma dwie prawidłowe odpowiedzi (A i B). Należy zastąpić dystraktror A zadaniem należącym do innej jednostki."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Monitorowania i kontrolowania zadań realizowanych przez podmioty gospodarcze i osoby fizyczne w ramach zawartych umów",
-          "B": "Nadzoru nad przestrzeganiem standardów w zakresie zimowego utrzymania infrastruktury pasażerskiej",
-          "C": "Koordynowania działań mających na celu wyposażenie jednostek organizacyjnych w sprzęt do usuwania skutków zimy",
-          "D": "Przygotowywania planu prowadzenia robót zimowych na terenie każdego zakładu"
-        }
-      }
     },
     {
       "uuid": "0208b38f-1b63-415b-aed8-254e357c2461",
@@ -756,21 +598,6 @@
       "uuid": "cf46884e-715a-49e7-870d-1e2e81df6ecc",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "d9710bd8-9a0c-438e-8619-b9f28a0024ec",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź A (~145 znaków) jest ponad 1,5× dłuższa niż najdłuższy dystraktor B (~84 znaki) — naruszenie zasady 6. Należy wyrównać dystraktory w górę do porównywalnej długości, opierając się na treści paragrafu."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Unieruchomienia górek rozrządowych wskutek zaśnieżenia, przymarznięcia ruchomych części rozjazdowych lub urządzeń nastawczych, zablokowania hamulców torowych",
-          "B": "Awarie urządzeń ogrzewania rozjazdów wskutek zaśnieżenia lub przymarznięcia ruchomych części, powodujące unieruchomienie górek rozrządowych i przerwy w rozrządzie",
-          "C": "Awarie sieci trakcyjnej oraz uszkodzenia zewnętrznych urządzeń sterowania ruchem powodujące unieruchomienie górek rozrządowych i wstrzymanie pracy",
-          "D": "Utknięcia pociągów w zaspach i czas zamknięcia toru skutkujące unieruchomieniem górek rozrządowych oraz wstrzymaniem normalnej pracy stacji"
-        }
-      }
     },
     {
       "uuid": "fe0fa41d-7204-40eb-be8d-3373ad8424fb",
