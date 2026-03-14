@@ -132,9 +132,9 @@
       "question": "Co należy dołączyć do Regulaminu tymczasowego prowadzenia ruchu, gdy planowane roboty wymagają fazowania?",
       "answers": {
         "A": "Schematy układów torowych z oznaczonymi torami wyłączonymi z ruchu pociągów i zwrotnicami zamkniętymi na zamki zwrotnicowe oraz schematy sekcjonowania sieci trakcyjnej z zaznaczeniem kolejnych faz",
-        "B": "Szczegółowy harmonogram robót z podaniem dat i godzin poszczególnych faz oraz listę pracowników odpowiedzialnych za każdą z nich",
-        "C": "Wykaz ograniczeń prędkości dla każdej fazy robót wraz z mapą przebiegu trasy zastępczej komunikacji autobusowej",
-        "D": "Projekt tymczasowej organizacji ruchu drogowego w rejonie prowadzonych robót z wyznaczeniem objazdów"
+        "B": "Szczegółowy harmonogram robót z podaniem dat i godzin poszczególnych faz wraz z wykazem ograniczeń w prowadzeniu ruchu wynikających z poszczególnych etapów fazowania",
+        "C": "Wykaz ograniczeń prędkości dla każdej fazy robót z podaniem ich lokalizacji oraz czasu obowiązywania i wynikających z nich ograniczeń w prowadzeniu ruchu",
+        "D": "Projekt tymczasowej organizacji ruchu drogowego w rejonie prowadzonych robót z wyznaczeniem objazdów i zaznaczeniem kolejnych faz realizacji zamknięcia"
       },
       "correct": "A",
       "explanation": "Ir-19 § 10 ust. 4",
@@ -244,8 +244,8 @@
       "question": "Co należy dobudować przy braku semaforów wyjazdowych na czas prowadzenia robót?",
       "answers": {
         "A": "Tymczasowy semafor wyjazdowy ze wskaźnikiem W24",
-        "B": "Sygnalizator sygnału zastepczego \"Sz\" ze wskaźnikiem W 24 i sygnałem \"Stój\"",
-        "C": "Sygnalizator sygnału zastepczego \"Sz\" bez wskaźnika i z sygnałem \"Stój\"",
+        "B": "Sygnalizator sygnału zastępczego \"Sz\" ze wskaźnikiem W 24 i sygnałem \"Stój\"",
+        "C": "Sygnalizator sygnału zastępczego \"Sz\" bez wskaźnika i z sygnałem \"Stój\"",
         "D": "Przenośny semafor z sygnałem zezwalającym i wskaźnikiem W24"
       },
       "correct": "B",
@@ -285,10 +285,10 @@
       "uuid": "a83bc1ff-592a-459b-910a-a6aab0afeefc",
       "question": "Kto podejmuje decyzję o jednoczesnym zamknięciu kilku szlaków powodującym spadek przepustowości o 50% lub więcej?",
       "answers": {
-        "A": "Dyrektor Centrum Realizacji Inwestycji po uzgodnieniu z Dyrektorem Zakładu Linii Kolejowych",
-        "B": "Dyrektor Zakładu Linii Kolejowych po uzgodnieniu z Członkiem Zarządu ds. eksploatacji",
+        "A": "Dyrektor Centrum Realizacji Inwestycji po uzgodnieniu z Dyrektorem Zakładu Linii Kolejowych i właściwym Członkiem Zarządu ds. utrzymania infrastruktury",
+        "B": "Dyrektor Zakładu Linii Kolejowych po uzgodnieniu z Członkiem Zarządu ds. eksploatacji i Dyrektorem Centrum Realizacji Inwestycji",
         "C": "Członek Zarządu - dyrektor ds. eksploatacji po uzgodnieniu z właściwym Członkiem Zarządu ds. utrzymania infrastruktury lub ds. realizacji inwestycji",
-        "D": "Prezes Zarządu po uzgodnieniu z Dyrektorem Centrum Realizacji Inwestycji"
+        "D": "Prezes Zarządu po uzgodnieniu z Dyrektorem Centrum Realizacji Inwestycji i Dyrektorem Zakładu Linii Kolejowych"
       },
       "correct": "C",
       "explanation": "Ir-19 § 12 ust. 2",
@@ -356,9 +356,9 @@
       "question": "Co musi zawierać treść Zawiadomienia o zarządzeniu zamknięcia w odniesieniu do celu zamknięcia?",
       "answers": {
         "A": "Cel zamknięcia z odniesieniem do postanowień regulaminu tymczasowego prowadzenia ruchu w czasie wykonywania robót, jeśli był sporządzany, podając numer regulaminu",
-        "B": "Cel zamknięcia z podaniem szacowanych kosztów robót i harmonogramu prac",
-        "C": "Cel zamknięcia z odniesieniem do decyzji zarządcy infrastruktury i numeru zlecenia",
-        "D": "Cel zamknięcia z podaniem nazwy projektu budowlanego i numerem pozwolenia na budowę"
+        "B": "Cel zamknięcia z odniesieniem do harmonogramu prac i planu organizacji ruchu w czasie wykonywania robót, jeśli był sporządzany, podając numer harmonogramu",
+        "C": "Cel zamknięcia z odniesieniem do decyzji zarządcy infrastruktury dotyczącej prowadzenia ruchu w czasie wykonywania robót, jeśli była wydana, podając jej numer",
+        "D": "Cel zamknięcia z odniesieniem do postanowień instrukcji bezpieczeństwa prowadzenia ruchu w czasie wykonywania robót, jeśli była sporządzana, podając numer instrukcji"
       },
       "correct": "A",
       "explanation": "Ir-19 § 13 pkt 2 lit. c",
@@ -467,10 +467,10 @@
       "uuid": "dff55348-3e73-4842-a80a-23dc50767e83",
       "question": "Jak definiuje się aplikanta w kolejowym planowaniu przepustowości?",
       "answers": {
-        "A": "Jednostka organizacyjna zarządcy infrastruktury odpowiedzialna za realizację zadania inwestycyjnego",
-        "B": "Podmiot realizujący prace na podstawie umowy z PLK S.A.",
+        "A": "Jednostka organizacyjna Zarządcy infrastruktury wyznaczona przez Zarząd Spółki, odpowiedzialna za realizację zadania inwestycyjnego lub będąca użytkownikiem infrastruktury, na obszarze której planowane są roboty",
+        "B": "Podmiot realizujący prace na podstawie umowy z PLK S.A., zobowiązany do podjęcia realizacji zamknięcia po udzieleniu na nie zgody przez Centrum Zarządzania Ruchem Kolejowym",
         "C": "Przewoźnik kolejowy, międzynarodowe ugrupowanie interesów gospodarczych obejmujące przewoźników kolejowych lub inny podmiot zainteresowany uzyskaniem zdolności przepustowej",
-        "D": "Osoba upoważniona przez Zamawiającego do pełnienia funkcji Inżyniera kontraktu"
+        "D": "Osoba upoważniona przez Zamawiającego do pełnienia funkcji Inżyniera kontraktu, nadzorująca realizację zadania inwestycyjnego w imieniu Zamawiającego"
       },
       "correct": "C",
       "explanation": "Ir-19 § 2 ust. 1",
@@ -498,7 +498,7 @@
         "A": "Harmonogram zamknięć torowych powstały w oparciu o zgłoszone zamknięcia torowe i ograniczenia eksploatacyjne, stanowiący podstawę do konstrukcji zastępczego rozkładu jazdy pociągów",
         "B": "Harmonogram zamknięć torowych powstały w oparciu o zamknięcia torowe zaplanowane w okresowym harmonogramie, uwzględniający rezygnacje i zamknięcia dodatkowe",
         "C": "Harmonogram zamknięć torowych powstały w wyniku planowania długoterminowego, stanowiący podstawę do konstrukcji rocznego rozkładu jazdy pociągów",
-        "D": "Harmonogram zamknięć torowych zatwierdzany przez Centrum Zarządzania Ruchem Kolejowym na każdy tydzień eksploatacyjny"
+        "D": "Harmonogram zamknięć torowych powstały w oparciu o zamknięcia torowe zaplanowane w okresowym harmonogramie zamknięć torowych, uwzględniający rezygnację z zamknięcia oraz zamknięcia dodatkowe, awaryjne zgłaszane przez wnioskodawców"
       },
       "correct": "C",
       "explanation": "Ir-19 § 2 ust. 9",
@@ -510,9 +510,9 @@
       "question": "Czym różni się okresowy harmonogram zamknięć torowych od sieciowego harmonogramu zamknięć torowych?",
       "answers": {
         "A": "Okresowy powstaje w oparciu o zgłoszone zamknięcia i ograniczenia eksploatacyjne i stanowi podstawę do zastępczego rozkładu jazdy, a sieciowy powstaje w wyniku planowania długoterminowego i stanowi podstawę do rocznego rozkładu jazdy",
-        "B": "Okresowy jest zatwierdzany przez zarządcę, a sieciowy przez Centrum Zarządzania Ruchem Kolejowym",
-        "C": "Okresowy obejmuje zamknięcia planowe, a sieciowy zamknięcia operatywne i awaryjne",
-        "D": "Okresowy dotyczy zamknięć całodobowych, a sieciowy zamknięć godzinowych"
+        "B": "Okresowy jest wydawany przez zarządcę jako podstawa do opracowania zmienionej organizacji ruchu pociągów, a sieciowy przez Centrum Zarządzania Ruchem Kolejowym jako podstawa do udzielania zgody na zamknięcia",
+        "C": "Okresowy obejmuje zamknięcia planowe zgłoszone zgodnie z terminami w Załączniku nr 1, a sieciowy obejmuje zamknięcia operatywne, dodatkowe i awaryjne zgłaszane poza terminami przez wnioskodawców",
+        "D": "Okresowy dotyczy zamknięć całodobowych trwających powyżej 7 dni na liniach głównych, a sieciowy dotyczy zamknięć godzinowych na liniach stycznych i bocznych sieci kolejowej"
       },
       "correct": "A",
       "explanation": "Ir-19 § 2 ust. 5 i 9",
@@ -548,20 +548,6 @@
       "section": 2
     },
     {
-      "uuid": "b03df9d1-f688-4f20-bd07-e59353d59ec3",
-      "question": "Kto jest zamawiającym w rozumieniu zasad dotyczących zamknięć torowych?",
-      "answers": {
-        "A": "Podmiot realizujący prace na podstawie umowy z PLK S.A.",
-        "B": "Centrum Zarządzania Ruchem Kolejowym wydające zgodę na realizację zamknięcia",
-        "C": "Jednostka organizacyjna zarządcy infrastruktury wyznaczona przez Zarząd Spółki, odpowiedzialna za realizację zadania inwestycyjnego lub będąca użytkownikiem infrastruktury",
-        "D": "Dyrektor Zakładu Linii Kolejowych PLK S.A. lub Naczelnik Sekcji Eksploatacji"
-      },
-      "correct": "C",
-      "explanation": "Ir-19 § 2 ust. 15",
-      "section_ref": "§ 2",
-      "section": 2
-    },
-    {
       "uuid": "af57701a-0a88-44d2-8e3c-6565c0f37a28",
       "question": "Czym jest zamknięcie operatywne terminowe?",
       "answers": {
@@ -572,34 +558,6 @@
       },
       "correct": "B",
       "explanation": "Ir-19 § 2 ust. 19",
-      "section_ref": "§ 2",
-      "section": 2
-    },
-    {
-      "uuid": "8c64c8f1-7e4e-42d9-af9f-b4727fa3a019",
-      "question": "Kim jest aplikant w rozumieniu przepisów o transporcie kolejowym?",
-      "answers": {
-        "A": "Podmiot realizujący prace na podstawie umowy z PLK S.A.",
-        "B": "Przewoźnik kolejowy lub inny podmiot zainteresowany uzyskaniem zdolności przepustowej",
-        "C": "Jednostka organizacyjna zarządcy infrastruktury odpowiedzialna za realizację zadania inwestycyjnego",
-        "D": "Osoba upoważniona przez Zamawiającego do pełnienia funkcji Inżyniera kontraktu"
-      },
-      "correct": "B",
-      "explanation": "Ir-19 § 2 ust. 1",
-      "section_ref": "§ 2",
-      "section": 2
-    },
-    {
-      "uuid": "33c15556-38f3-496b-a9fe-2e32d027b451",
-      "question": "Co to jest przerwa technologiczna?",
-      "answers": {
-        "A": "Zamknięcie toru przez dyżurnego ruchu na podstawie pisemnego zawiadomienia o zarządzeniu zamknięcia",
-        "B": "Harmonogram zamknięć torowych stanowiący podstawę do konstrukcji rocznego rozkładu jazdy pociągów",
-        "C": "Ustalone przez zarządcę czasowe ograniczenie w udostępnianiu infrastruktury kolejowej aplikantom i przewoźnikom kolejowym",
-        "D": "Zgoda Centrum Zarządzania Ruchem Kolejowym na realizację zamknięcia"
-      },
-      "correct": "C",
-      "explanation": "Ir-19 § 2 ust. 7",
       "section_ref": "§ 2",
       "section": 2
     },
@@ -663,27 +621,13 @@
       "uuid": "77345d8e-4f15-4628-b660-3160330c7ea3",
       "question": "Kto jest Zamawiającym w rozumieniu zasad dotyczących zamknięć torowych?",
       "answers": {
-        "A": "Podmiot realizujący prace na podstawie umowy z PLK S.A.",
-        "B": "Przewoźnik kolejowy zainteresowany uzyskaniem zdolności przepustowej",
-        "C": "Centrum Zarządzania Ruchem Kolejowym wydające zgody na realizację zamknięcia",
+        "A": "Podmiot realizujący prace na podstawie umowy z PLK S.A., zobowiązany do podjęcia realizacji zamknięcia po udzieleniu na nie zgody przez Centrum Zarządzania Ruchem Kolejowym",
+        "B": "Przewoźnik kolejowy lub inny podmiot zainteresowany uzyskaniem zdolności przepustowej infrastruktury kolejowej, składający wniosek o uwzględnienie zamknięcia w rozkładzie jazdy",
+        "C": "Centrum Zarządzania Ruchem Kolejowym wydające zgodę na realizację zamknięcia w postaci Okresowego harmonogramu zamknięć torowych poprzez zakwalifikowanie w odpowiednich kategoriach",
         "D": "Jednostka organizacyjna zarządcy infrastruktury odpowiedzialna za realizację zadania inwestycyjnego lub będąca użytkownikiem infrastruktury, na obszarze której planowane są roboty"
       },
       "correct": "D",
       "explanation": "Ir-19 § 2 ust. 15",
-      "section_ref": "§ 2",
-      "section": 2
-    },
-    {
-      "uuid": "d144fb66-d5d3-4cb8-988f-377d487a650c",
-      "question": "Co to jest sieciowy harmonogram zamknięć torowych?",
-      "answers": {
-        "A": "Harmonogram zamknięć torowych powstały w oparciu o zgłoszone zamknięcia, stanowiący podstawę do konstrukcji zastępczego rozkładu jazdy",
-        "B": "Harmonogram zamknięć torowych powstały w wyniku planowania długoterminowego, stanowiący podstawę do konstrukcji rocznego rozkładu jazdy",
-        "C": "Harmonogram uwzględniający rezygnację z zamknięcia oraz zamknięcia dodatkowe i awaryjne zgłaszane przez wnioskodawców",
-        "D": "Harmonogram zamknięć torowych wydawany przez Dyrektora Zakładu Linii Kolejowych PLK S.A."
-      },
-      "correct": "B",
-      "explanation": "Ir-19 § 2 ust. 9",
       "section_ref": "§ 2",
       "section": 2
     },
@@ -899,7 +843,7 @@
     },
     {
       "uuid": "ddffd1ff-043a-45c7-8886-1069d8891f9f",
-      "question": "Najpóźniej na ile miesięcy przed wejściem w życie Rocznego Rozkładu Jazdy Pociągów musi nastąpić publikacja korekty Sieciowego harmonogramu zamknięć torowych?",
+      "question": "Na co najmniej ile miesięcy przed wejściem w życie Rocznego Rozkładu Jazdy Pociągów musi nastąpić publikacja korekty Sieciowego harmonogramu zamknięć torowych?",
       "answers": {
         "A": "6 miesięcy",
         "B": "12 miesięcy",
@@ -982,20 +926,6 @@
       "section": 4
     },
     {
-      "uuid": "e2fb030d-8562-4aa3-97a1-5d1f4ce89e17",
-      "question": "Co obejmuje korekta Sieciowego harmonogramu zamknięć torowych?",
-      "answers": {
-        "A": "Wyłącznie dodanie nowych zamknięć torowych lub usunięcie zaplanowanych",
-        "B": "Dodanie nowych zamknięć, zmianę terminów zaplanowanych zamknięć lub ich usunięcie",
-        "C": "Wyłącznie zmianę terminów i lokalizacji zaplanowanych zamknięć torowych",
-        "D": "Aktualizację danych technicznych zamknięć bez zmiany ich terminów i lokalizacji"
-      },
-      "correct": "B",
-      "explanation": "Ir-19 § 4 ust. 11",
-      "section_ref": "§ 4",
-      "section": 4
-    },
-    {
       "uuid": "82b39106-e73f-459a-afbb-0adf654bb6ee",
       "question": "Nie później niż na ile miesięcy przed wejściem w życie Rocznego Rozkładu Jazdy Centrum Realizacji Inwestycji przekazuje skoordynowany harmonogram zamknięć torowych do Centrum Zarządzania Ruchem Kolejowym (faza 1a opracowania projektu)?",
       "answers": {
@@ -1066,76 +996,6 @@
       "section": 4
     },
     {
-      "uuid": "61a23877-4715-478c-8936-3afa77d24756",
-      "question": "Ile miesięcy przed wejściem w życie Rocznego Rozkładu Jazdy Pociągów musi nastąpić publikacja Sieciowego harmonogramu zamknięć torowych?",
-      "answers": {
-        "A": "Co najmniej 12 miesięcy",
-        "B": "Co najmniej 22 miesiące",
-        "C": "Najpóźniej na 24 miesiące",
-        "D": "Najpóźniej na 34 miesiące"
-      },
-      "correct": "C",
-      "explanation": "Ir-19 § 4 ust. 1",
-      "section_ref": "§ 4",
-      "section": 4
-    },
-    {
-      "uuid": "d82da687-9477-4650-9c06-ab3cce1a5064",
-      "question": "Ile miesięcy przed wejściem w życie Rocznego Rozkładu Jazdy Pociągów musi nastąpić publikacja korekty Sieciowego harmonogramu zamknięć torowych?",
-      "answers": {
-        "A": "Najpóźniej na 24 miesiące",
-        "B": "Co najmniej 12 miesięcy",
-        "C": "Najpóźniej na 34 miesiące",
-        "D": "Co najmniej 22 miesiące"
-      },
-      "correct": "B",
-      "explanation": "Ir-19 § 4 ust. 2",
-      "section_ref": "§ 4",
-      "section": 4
-    },
-    {
-      "uuid": "429121df-510c-4aec-b311-37f22ef1ae72",
-      "question": "Z kim konsultowane są projekt Sieciowego harmonogramu zamknięć torowych i projekt jego korekty?",
-      "answers": {
-        "A": "Z Centrum Zarządzania Ruchem Kolejowym i Zakładami Linii Kolejowych",
-        "B": "Z aplikantami oraz głównymi operatorami obiektów infrastruktury usługowej",
-        "C": "Z Biurem Sprzedaży Centrali Spółki i Centrum Realizacji Inwestycji",
-        "D": "Z Członkiem Zarządu i dyrektorami regionów"
-      },
-      "correct": "B",
-      "explanation": "Ir-19 § 4 ust. 3",
-      "section_ref": "§ 4",
-      "section": 4
-    },
-    {
-      "uuid": "fe1545a6-a527-4a70-9a9b-79ad281fb9d3",
-      "question": "Ile dni kalendarzowych od dnia publikacji projektu Sieciowego harmonogramu zamknięć torowych mają zainteresowane podmioty na zgłoszenie uwag?",
-      "answers": {
-        "A": "7 dni kalendarzowych",
-        "B": "21 dni kalendarzowych",
-        "C": "14 dni kalendarzowych",
-        "D": "30 dni kalendarzowych"
-      },
-      "correct": "C",
-      "explanation": "Ir-19 § 4 ust. 5",
-      "section_ref": "§ 4",
-      "section": 4
-    },
-    {
-      "uuid": "116d42bb-e7e6-4d63-8b6b-ca19d5f2f27a",
-      "question": "W jakim terminie zgłaszający zamknięcia torowe mają obowiązek przedstawić pisemne stanowisko do zbiorczego zestawienia uwag?",
-      "answers": {
-        "A": "W terminie 14 dni kalendarzowych od dnia otrzymania zestawienia",
-        "B": "W terminie 7 dni kalendarzowych od dnia otrzymania zestawienia",
-        "C": "W terminie 21 dni kalendarzowych od dnia otrzymania zestawienia",
-        "D": "W terminie 30 dni kalendarzowych od dnia otrzymania zestawienia"
-      },
-      "correct": "B",
-      "explanation": "Ir-19 § 4 ust. 7",
-      "section_ref": "§ 4",
-      "section": 4
-    },
-    {
       "uuid": "aee17f24-3dfc-4b02-9377-01f1354f7067",
       "question": "Na czym polega korekta Sieciowego harmonogramu zamknięć torowych?",
       "answers": {
@@ -1179,7 +1039,7 @@
     },
     {
       "uuid": "ac33016e-931b-4163-ac17-05685ad6b0e4",
-      "question": "Nie później niż na ile miesięcy przed wejściem w życie Rocznego Rozkładu Jazdy Region Centrum Realizacji Inwestycji (faza 1a) przekazuje skoordynowany harmonogram do Centrum Zarządzania Ruchem Kolejowym?",
+      "question": "Nie później niż na ile miesięcy przed wejściem w życie Rocznego Rozkładu Jazdy właściwa komórka organizacyjna w Biurze Centrum Realizacji Inwestycji przekazuje skoordynowany harmonogram do Centrum Zarządzania Ruchem Kolejowym w fazie 1a opracowania projektu Sieciowego harmonogramu zamknięć torowych?",
       "answers": {
         "A": "Nie później niż na 24 miesiące",
         "B": "Nie później niż na 22 miesiące",
@@ -1402,34 +1262,6 @@
       "section": 4
     },
     {
-      "uuid": "0b2c1ab1-29b7-469e-a94a-a6203565bd3e",
-      "question": "Kto ponosi odpowiedzialność za sieciową koordynację zamknięć torowych w Centrum Zarządzania Ruchem Kolejowym?",
-      "answers": {
-        "A": "Dyrektor Centrum Zarządzania Ruchem Kolejowym",
-        "B": "Dyrektor Biura Eksploatacji i Obsługi Pasażerskiej Centrali Spółki",
-        "C": "Zastępca Dyrektora ds. rozkładów jazdy Centrum Zarządzania Ruchem Kolejowym",
-        "D": "Zastępca Dyrektora ds. eksploatacji Zakładu Linii Kolejowych"
-      },
-      "correct": "C",
-      "explanation": "Ir-19 § 4 ust. 15 pkt 3",
-      "section_ref": "§ 4",
-      "section": 4
-    },
-    {
-      "uuid": "8cc8fa8e-f8ac-4a1a-aed9-076d60c3107c",
-      "question": "Jakie skutki ma niepoprawne sporządzenie projektu Sieciowego harmonogramu zamknięć torowych lub jego korekty na etapie opracowania?",
-      "answers": {
-        "A": "Projekt jest zwracany do korekty z wyznaczonym terminem poprawienia",
-        "B": "Proponowane zamknięcia są odrzucane bez możliwości ich ujęcia po przekazaniu do Biura Eksploatacji i Obsługi Pasażerskiej",
-        "C": "Opracowanie jest odsyłane do ponownej koordynacji przez Centrum Zarządzania Ruchem Kolejowym",
-        "D": "Proponowane zamknięcia są zawieszane do czasu uzupełnienia brakujących danych"
-      },
-      "correct": "B",
-      "explanation": "Ir-19 § 4 ust. 14",
-      "section_ref": "§ 4",
-      "section": 4
-    },
-    {
       "uuid": "9c2f8de1-9874-40fb-955a-5b0bdacb7355",
       "question": "Ile najbliższych okresów obejmuje planowanie okresowe?",
       "answers": {
@@ -1468,20 +1300,6 @@
       },
       "correct": "B",
       "explanation": "Ir-19 § 5 ust. 4",
-      "section_ref": "§ 5",
-      "section": 5
-    },
-    {
-      "uuid": "b0daf0fd-f718-48ee-bab2-ced33492d810",
-      "question": "Po ilu godzinach trwania planowanego zamknięcia torowego należy poddać szczegółowej analizie postulowany czas zamknięcia w aspekcie przyjętej technologii robót?",
-      "answers": {
-        "A": "Po 6 godzinach",
-        "B": "Po 8 godzinach",
-        "C": "Po 10 godzinach",
-        "D": "Po 12 godzinach"
-      },
-      "correct": "D",
-      "explanation": "Ir-19 § 5 ust. 6",
       "section_ref": "§ 5",
       "section": 5
     },
@@ -1556,20 +1374,6 @@
       "section": 5
     },
     {
-      "uuid": "deef5b5f-11f2-4eed-a941-521cd51edfaa",
-      "question": "Kto bierze udział w naradach organizowanych przez CZRK w fazie 3 planowania okresowego w celu ostatecznej koordynacji zamknięć torowych?",
-      "answers": {
-        "A": "Naczelnik Ekspozytury CZRK lub wyznaczony pracownik, pracownik ds. koordynacji zamknięć torowych, Zastępca Dyrektora ZLK ds. eksploatacyjnych lub wyznaczony pracownik, przedstawiciel RCRI oraz przedstawiciele wykonawców robót",
-        "B": "Dyrektor CZRK, Dyrektor ZLK, przedstawiciel Ministerstwa Infrastruktury oraz przedstawiciele wykonawców robót",
-        "C": "Wyłącznie pracownicy CZRK odpowiedzialni za koordynację zamknięć torowych na obszarze Ekspozytury",
-        "D": "Naczelnik Ekspozytury CZRK, Dyrektor ZLK, Dyrektor RCRI oraz przedstawiciele zarządów zagranicznych zarządców infrastruktury"
-      },
-      "correct": "A",
-      "explanation": "Ir-19 § 5 ust. 8 pkt 4",
-      "section_ref": "§ 5",
-      "section": 5
-    },
-    {
       "uuid": "9390edf7-457a-4698-9304-cd00d8eb52a8",
       "question": "Gdzie CZRK publikuje okresowy harmonogram zamknięć torowych po zakończeniu konstrukcji zmienionego rozkładu jazdy?",
       "answers": {
@@ -1580,48 +1384,6 @@
       },
       "correct": "B",
       "explanation": "Ir-19 § 5 ust. 8 pkt 5 lit. b",
-      "section_ref": "§ 5",
-      "section": 5
-    },
-    {
-      "uuid": "46b7b6a4-de00-46b2-a74a-0e444e44692d",
-      "question": "Ile najbliższych okresów obejmuje planowanie okresowe?",
-      "answers": {
-        "A": "Dwa najbliższe okresy",
-        "B": "Trzy najbliższe okresy",
-        "C": "Cztery najbliższe okresy",
-        "D": "Pięć najbliższych okresów"
-      },
-      "correct": "B",
-      "explanation": "Ir-19 § 5 ust. 1",
-      "section_ref": "§ 5",
-      "section": 5
-    },
-    {
-      "uuid": "5126abfa-6a0f-4242-963b-11799485495e",
-      "question": "Jaki jest cel planowania okresowego?",
-      "answers": {
-        "A": "Analiza ograniczeń eksploatacyjnych i zamknięć torowych dla trzech najbliższych zmienionych organizacji ruchu pod kątem optymalizacji zamknięć torowych",
-        "B": "Analiza ograniczeń eksploatacyjnych i zamknięć torowych dla najbliższego roku pod kątem optymalizacji zamknięć torowych",
-        "C": "Analiza potrzeb finansowych na realizację zamknięć torowych dla trzech najbliższych zmienionych organizacji ruchu",
-        "D": "Analiza ograniczeń infrastrukturalnych i zamknięć torowych dla dwóch najbliższych zmienionych organizacji ruchu pod kątem optymalizacji zamknięć torowych"
-      },
-      "correct": "A",
-      "explanation": "Ir-19 § 5 ust. 3",
-      "section_ref": "§ 5",
-      "section": 5
-    },
-    {
-      "uuid": "1bdd8b36-53cc-4ca0-8d7a-d626f3efcd33",
-      "question": "Co stanowi planowanie okresowe w kontekście rozkładu jazdy pociągów?",
-      "answers": {
-        "A": "Podstawę do opracowania rocznego rozkładu jazdy pociągów",
-        "B": "Podstawę do opracowania zastępczego rozkładu jazdy pociągów, uwzględnienia i wdrożenia zamknięć torowych",
-        "C": "Uzupełnienie zastępczego rozkładu jazdy pociągów bez możliwości wdrożenia zamknięć torowych",
-        "D": "Podstawę do zawieszenia zastępczego rozkładu jazdy pociągów i otwarcia zamknięć torowych"
-      },
-      "correct": "B",
-      "explanation": "Ir-19 § 5 ust. 4",
       "section_ref": "§ 5",
       "section": 5
     },
@@ -1650,34 +1412,6 @@
       },
       "correct": "B",
       "explanation": "Ir-19 § 5 ust. 7",
-      "section_ref": "§ 5",
-      "section": 5
-    },
-    {
-      "uuid": "f1e929cd-c63b-4ea4-9adc-5f820d86dc27",
-      "question": "Jakie linie stanowią wyjątek od zasady planowania prac w przerwach ruchu dla zamknięć nieprzekraczających 6 godzin?",
-      "answers": {
-        "A": "Linie z ruchem wyłącznie pasażerskim",
-        "B": "Linie z ruchem mieszanym (pasażerskim i towarowym)",
-        "C": "Linie z ruchem wyłącznie towarowym",
-        "D": "Linie jednotorowe z intensywnym ruchem pociągów"
-      },
-      "correct": "C",
-      "explanation": "Ir-19 § 5 ust. 7",
-      "section_ref": "§ 5",
-      "section": 5
-    },
-    {
-      "uuid": "1e5811c7-0951-4ac6-844d-4f181564433b",
-      "question": "Co robi Region Centrum Realizacji Inwestycji w fazie 1a planowania okresowego?",
-      "answers": {
-        "A": "Dokonuje oceny możliwości realizacji zamknięć torowych oraz ich wstępnej koordynacji na własnym obszarze i styku z sąsiednimi Regionami",
-        "B": "Sporządza harmonogram zamknięć torowych dla potrzeb zewnętrznych podmiotów gospodarczych",
-        "C": "Organizuje narady w celu ostatecznej koordynacji zamknięć torowych na obszarze Ekspozytury",
-        "D": "Przekazuje wnioskodawcom zatwierdzony projekt okresowego harmonogramu zamknięć torowych"
-      },
-      "correct": "A",
-      "explanation": "Ir-19 § 5 ust. 8 pkt 1",
       "section_ref": "§ 5",
       "section": 5
     },
@@ -1906,48 +1640,6 @@
       "section": 7
     },
     {
-      "uuid": "82b600ef-94c8-43c6-8e4d-4d9894e6e28b",
-      "question": "Jaką zasadę przyjmuje się przy prowadzeniu ruchu pociągów na szlaku objętym robotami torowymi?",
-      "answers": {
-        "A": "Ruch pociągów prowadzi się tylko w jednym kierunku po torze czynnym szlaku.",
-        "B": "Ruch pociągów prowadzi się w obu kierunkach po jednym torze czynnym tego szlaku.",
-        "C": "Ruch pociągów jest zawieszany na czas trwania robót na całym szlaku.",
-        "D": "Ruch pociągów prowadzi się w obu kierunkach po obydwu torach szlaku naprzemiennie."
-      },
-      "correct": "B",
-      "explanation": "Ir-19 § 8 ust. 1",
-      "section_ref": "§ 8",
-      "section": 8
-    },
-    {
-      "uuid": "9d30de6a-75cd-4dc5-9a43-2da968635df0",
-      "question": "Po ilu kolejnych dniach długotrwałego całodobowego zamknięcia toru szlak powinien być technicznie przystosowany do prowadzenia wymaganego potoku ruchu?",
-      "answers": {
-        "A": "Ponad 14 kolejnych dni.",
-        "B": "Ponad 60 kolejnych dni.",
-        "C": "Ponad 30 kolejnych dni.",
-        "D": "Ponad 7 kolejnych dni."
-      },
-      "correct": "C",
-      "explanation": "Ir-19 § 8 ust. 1",
-      "section_ref": "§ 8",
-      "section": 8
-    },
-    {
-      "uuid": "fe53eef0-cc7f-4606-9597-7ac7ca82f2e1",
-      "question": "Jaki minimalny procent pociągów powinno zapewniać przystosowanie szlaku do prowadzenia ruchu w czasie zamknięcia jednego toru?",
-      "answers": {
-        "A": "Co najmniej 75% pociągów w stosunku do maksymalnego rozkładowego obciążenia godzinnego.",
-        "B": "Co najmniej 25% pociągów w stosunku do maksymalnego rozkładowego obciążenia godzinnego.",
-        "C": "Co najmniej 50% pociągów w stosunku do maksymalnego rozkładowego obciążenia godzinnego.",
-        "D": "Co najmniej 30% pociągów w stosunku do maksymalnego rozkładowego obciążenia godzinnego."
-      },
-      "correct": "C",
-      "explanation": "Ir-19 § 8 ust. 2",
-      "section_ref": "§ 8",
-      "section": 8
-    },
-    {
       "uuid": "228bafb4-d573-43ac-a603-727b3cf9baab",
       "question": "Do czego zaleca się przystosowanie semaforów na posterunkach ruchu podczas zamknięcia toru?",
       "answers": {
@@ -2000,48 +1692,6 @@
       },
       "correct": "B",
       "explanation": "Ir-19 § 8 ust. 5",
-      "section_ref": "§ 8",
-      "section": 8
-    },
-    {
-      "uuid": "2b1360ab-162e-4abb-9085-46639e545699",
-      "question": "Kto jest odpowiedzialny za zabezpieczenie przed zbiegnięciem taboru, pociągów roboczych i maszyn oraz za jego usunięcie przed ponownym uruchomieniem toru?",
-      "answers": {
-        "A": "Dyżurny ruchu posterunku zarządzającego torem zamkniętym.",
-        "B": "Kierownik robót.",
-        "C": "Wykonawca robót.",
-        "D": "Pracownik zarządcy infrastruktury wyznaczony do nadzoru."
-      },
-      "correct": "C",
-      "explanation": "Ir-19 § 8 ust. 11",
-      "section_ref": "§ 8",
-      "section": 8
-    },
-    {
-      "uuid": "71218b24-7749-4775-adf0-7977a8ae03c0",
-      "question": "Gdzie należy podstawowo wyznaczać tory na postój pociągów roboczych i maszyn?",
-      "answers": {
-        "A": "Na torach stacyjnych odległych od miejsca robót o co najmniej dwa szlaki.",
-        "B": "Na torach postojowych wyznaczonych w regulaminie tymczasowym.",
-        "C": "Na posterunkach przyległych do szlaku z torem zamkniętym.",
-        "D": "Na zamkniętym torze szlakowym w miejscu robót."
-      },
-      "correct": "C",
-      "explanation": "Ir-19 § 8 ust. 10",
-      "section_ref": "§ 8",
-      "section": 8
-    },
-    {
-      "uuid": "fa70e870-5dd7-414b-a831-bd037b9faa8f",
-      "question": "Kiedy należy dokonać funkcjonalnego sprawdzenia działania urządzeń srk, rozjazdów oraz urządzeń radiołączności na posterunkach przyległych do zamkniętego szlaku?",
-      "answers": {
-        "A": "W tygodniu poprzedzającym zamknięcie toru.",
-        "B": "W dniu poprzedzającym zamknięcie i bezpośrednio przed zamknięciem toru.",
-        "C": "Wyłącznie bezpośrednio przed zamknięciem toru.",
-        "D": "W ciągu 48 godzin przed planowanym zamknięciem toru."
-      },
-      "correct": "B",
-      "explanation": "Ir-19 § 8 ust. 14",
       "section_ref": "§ 8",
       "section": 8
     },
@@ -2117,7 +1767,7 @@
     },
     {
       "uuid": "1755382d-7e28-4547-b039-33b32b5af6c7",
-      "question": "Jaki wskaznik stosuje sie przy zabudowie semaforow przystosowanych do sygnalizowania jazd po torze w kierunku przeciwnym do zasadniczego?",
+      "question": "Jaki wskaźnik stosuje się przy zabudowie semaforów przystosowanych do sygnalizowania jazd po torze w kierunku przeciwnym do zasadniczego?",
       "answers": {
         "A": "W 4",
         "B": "W 14",
@@ -2126,34 +1776,6 @@
       },
       "correct": "C",
       "explanation": "Ir-19 § 8 ust. 3",
-      "section_ref": "§ 8",
-      "section": 8
-    },
-    {
-      "uuid": "a933d861-fee7-40fe-8e11-63b7e9535bff",
-      "question": "Co powinien zapewniać układ torowy posterunków zapowiadawczych przyległych do szlaku zamkniętego?",
-      "answers": {
-        "A": "Mozliwosc postoju pociagów roboczych bez ograniczen czasowych",
-        "B": "Mozliwosc krzyżowania pociagów",
-        "C": "Mozliwosc prowadzenia ruchu z predkoscia maksymalna",
-        "D": "Mozliwosc obslugi pociagów pasazerskich na obu torach"
-      },
-      "correct": "B",
-      "explanation": "Ir-19 § 8 ust. 4",
-      "section_ref": "§ 8",
-      "section": 8
-    },
-    {
-      "uuid": "74e9740d-dd14-4a18-9e80-fd080e5a8c70",
-      "question": "Jaką zasadę przyjmuje się w zakresie liczby szlaków, na których jednocześnie mogą być prowadzone roboty wymagające zamknięć torowych?",
-      "answers": {
-        "A": "Roboty mogą być prowadzone na dowolnej liczbie szlaków jednoczesnie",
-        "B": "Roboty powinny być prowadzone tylko na dwóch szlakach",
-        "C": "Roboty powinny być prowadzone tylko na jednym szlaku",
-        "D": "Roboty mogą być prowadzone maksymalnie na trzech szlakach"
-      },
-      "correct": "C",
-      "explanation": "Ir-19 § 8 ust. 5",
       "section_ref": "§ 8",
       "section": 8
     },
@@ -2182,20 +1804,6 @@
       },
       "correct": "B",
       "explanation": "Ir-19 § 8 ust. 7",
-      "section_ref": "§ 8",
-      "section": 8
-    },
-    {
-      "uuid": "5d453f1e-e384-4384-afd2-6b051144b135",
-      "question": "Jakie środki należy wykorzystać na liniach, gdzie łącznie z robotami nawierzchniowymi prowadzone są roboty w sieci trakcyjnej, aby uniknąć wyłączenia napięcia nad torem czynnym?",
-      "answers": {
-        "A": "Zabudowę izolatorów dzielczych",
-        "B": "Zabudowę semaforow dwukierunkowych",
-        "C": "Zabudowę tymczasowych posterunków odstępowych",
-        "D": "Zabudowę liniowej blokady dwukierunkowej"
-      },
-      "correct": "A",
-      "explanation": "Ir-19 § 8 ust. 8",
       "section_ref": "§ 8",
       "section": 8
     },

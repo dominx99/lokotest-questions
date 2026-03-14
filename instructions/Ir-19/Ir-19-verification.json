@@ -2,10 +2,11 @@
   "instruction": "Ir-19",
   "timestamp": "2026-03-14T22:16:13.013933",
   "summary": {
-    "total": 168,
+    "total": 129,
     "ok": 129,
-    "fix": 11,
-    "delete": 28
+    "fix": 0,
+    "delete": 0,
+    "new": 0
   },
   "results": [
     {
@@ -54,21 +55,6 @@
       "problems": []
     },
     {
-      "uuid": "ec1ebe5d-40f0-46af-b2bf-3913557ab5b0",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź A (196 znaków) jest ponad 1,5× dłuższa od najdłuższego dystraktora B (128 znaków) — należy wyrównać dystraktory w górę."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Schematy układów torowych z oznaczonymi torami wyłączonymi z ruchu pociągów i zwrotnicami zamkniętymi na zamki zwrotnicowe oraz schematy sekcjonowania sieci trakcyjnej z zaznaczeniem kolejnych faz",
-          "B": "Szczegółowy harmonogram robót z podaniem dat i godzin poszczególnych faz wraz z wykazem ograniczeń w prowadzeniu ruchu wynikających z poszczególnych etapów fazowania",
-          "C": "Wykaz ograniczeń prędkości dla każdej fazy robót z podaniem ich lokalizacji oraz czasu obowiązywania i wynikających z nich ograniczeń w prowadzeniu ruchu",
-          "D": "Projekt tymczasowej organizacji ruchu drogowego w rejonie prowadzonych robót z wyznaczeniem objazdów i zaznaczeniem kolejnych faz realizacji zamknięcia"
-        }
-      }
-    },
-    {
       "uuid": "6da1c81a-4646-484e-b77e-610b4c806873",
       "status": "OK",
       "problems": []
@@ -104,22 +90,6 @@
       "problems": []
     },
     {
-      "uuid": "be0ff6de-8fd3-4785-ab87-cf523537f1f4",
-      "status": "FIX",
-      "problems": [
-        "Literówka: 'zastepczego' → 'zastępczego' w treści pytania oraz w odpowiedziach A, B i C"
-      ],
-      "changes": {
-        "question": "Co należy dobudować przy braku semaforów wyjazdowych na czas prowadzenia robót?",
-        "answers": {
-          "A": "Tymczasowy semafor wyjazdowy ze wskaźnikiem W24",
-          "B": "Sygnalizator sygnału zastępczego \"Sz\" ze wskaźnikiem W 24 i sygnałem \"Stój\"",
-          "C": "Sygnalizator sygnału zastępczego \"Sz\" bez wskaźnika i z sygnałem \"Stój\"",
-          "D": "Przenośny semafor z sygnałem zezwalającym i wskaźnikiem W24"
-        }
-      }
-    },
-    {
       "uuid": "fb7483d1-cb36-4948-824a-6c45006730fd",
       "status": "OK",
       "problems": []
@@ -128,21 +98,6 @@
       "uuid": "198a7cc7-ed00-4cee-a23f-c0fa11073641",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "a83bc1ff-592a-459b-910a-a6aab0afeefc",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź C (ok. 147 znaków) jest ponad 1,5× dłuższa od najdłuższego dystraktora (ok. 92 znaki) — należy wyrównać dystraktory w górę, rozbudowując je o treść z paragrafu"
-      ],
-      "changes": {
-        "answers": {
-          "A": "Dyrektor Centrum Realizacji Inwestycji po uzgodnieniu z Dyrektorem Zakładu Linii Kolejowych i właściwym Członkiem Zarządu ds. utrzymania infrastruktury",
-          "B": "Dyrektor Zakładu Linii Kolejowych po uzgodnieniu z Członkiem Zarządu ds. eksploatacji i Dyrektorem Centrum Realizacji Inwestycji",
-          "C": "Członek Zarządu - dyrektor ds. eksploatacji po uzgodnieniu z właściwym Członkiem Zarządu ds. utrzymania infrastruktury lub ds. realizacji inwestycji",
-          "D": "Prezes Zarządu po uzgodnieniu z Dyrektorem Centrum Realizacji Inwestycji i Dyrektorem Zakładu Linii Kolejowych"
-        }
-      }
     },
     {
       "uuid": "fca1693a-9921-49bc-a2ce-c7a8d2184298",
@@ -163,21 +118,6 @@
       "uuid": "cb6d2d40-3a59-4546-8284-bf47c9f30637",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "e0e5a774-74e2-4ef8-bfa1-151a16985c1c",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź A ma 162 znaki, najdłuższy dystraktor 83 znaki — stosunek 1.95×, przekracza próg 1.5×. Dystraktory B, C, D należy wyrównać w górę do porównywalnej długości (~160 znaków), zachowując tę samą strukturę zdania ale zmieniając kluczowe elementy na niepoprawne."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Cel zamknięcia z odniesieniem do postanowień regulaminu tymczasowego prowadzenia ruchu w czasie wykonywania robót, jeśli był sporządzany, podając numer regulaminu",
-          "B": "Cel zamknięcia z odniesieniem do harmonogramu prac i planu organizacji ruchu w czasie wykonywania robót, jeśli był sporządzany, podając numer harmonogramu",
-          "C": "Cel zamknięcia z odniesieniem do decyzji zarządcy infrastruktury dotyczącej prowadzenia ruchu w czasie wykonywania robót, jeśli była wydana, podając jej numer",
-          "D": "Cel zamknięcia z odniesieniem do postanowień instrukcji bezpieczeństwa prowadzenia ruchu w czasie wykonywania robót, jeśli była sporządzana, podając numer instrukcji"
-        }
-      }
     },
     {
       "uuid": "41027094-dd99-404e-ada0-96760574673b",
@@ -215,49 +155,9 @@
       "problems": []
     },
     {
-      "uuid": "dff55348-3e73-4842-a80a-23dc50767e83",
-      "status": "FIX",
-      "problems": [
-        "Zasada 6: poprawna odpowiedź C (172 znaki) jest >1,5× dłuższa od najdłuższego dystraktora A (99 znaków) — wyrównaj dystraktory w górę."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Jednostka organizacyjna Zarządcy infrastruktury wyznaczona przez Zarząd Spółki, odpowiedzialna za realizację zadania inwestycyjnego lub będąca użytkownikiem infrastruktury, na obszarze której planowane są roboty",
-          "B": "Podmiot realizujący prace na podstawie umowy z PLK S.A., zobowiązany do podjęcia realizacji zamknięcia po udzieleniu na nie zgody przez Centrum Zarządzania Ruchem Kolejowym",
-          "D": "Osoba upoważniona przez Zamawiającego do pełnienia funkcji Inżyniera kontraktu, nadzorująca realizację zadania inwestycyjnego w imieniu Zamawiającego"
-        }
-      }
-    },
-    {
       "uuid": "5ab8deb0-7fe0-4212-a402-e887fd2d46ae",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "7e5b29b9-ae12-43de-a814-65ac5f76a994",
-      "status": "FIX",
-      "problems": [
-        "Zasada 3: dystraktor D ('Harmonogram zamknięć torowych zatwierdzany przez Centrum Zarządzania Ruchem Kolejowym na każdy tydzień eksploatacyjny') nie jest definicją żadnego harmonogramu z paragrafu — zastąp go definicją tygodniowego harmonogramu zamknięć torowych (ust. 10)."
-      ],
-      "changes": {
-        "answers": {
-          "D": "Harmonogram zamknięć torowych powstały w oparciu o zamknięcia torowe zaplanowane w okresowym harmonogramie zamknięć torowych, uwzględniający rezygnację z zamknięcia oraz zamknięcia dodatkowe, awaryjne zgłaszane przez wnioskodawców"
-        }
-      }
-    },
-    {
-      "uuid": "b624d1b3-5a28-44a0-b5c3-c125d2a8e458",
-      "status": "FIX",
-      "problems": [
-        "Zasada 6: poprawna odpowiedź A (233 znaki) jest >1,5× dłuższa od najdłuższego dystraktora B (96 znaków) — wyrównaj dystraktory w górę."
-      ],
-      "changes": {
-        "answers": {
-          "B": "Okresowy jest wydawany przez zarządcę jako podstawa do opracowania zmienionej organizacji ruchu pociągów, a sieciowy przez Centrum Zarządzania Ruchem Kolejowym jako podstawa do udzielania zgody na zamknięcia",
-          "C": "Okresowy obejmuje zamknięcia planowe zgłoszone zgodnie z terminami w Załączniku nr 1, a sieciowy obejmuje zamknięcia operatywne, dodatkowe i awaryjne zgłaszane poza terminami przez wnioskodawców",
-          "D": "Okresowy dotyczy zamknięć całodobowych trwających powyżej 7 dni na liniach głównych, a sieciowy dotyczy zamknięć godzinowych na liniach stycznych i bocznych sieci kolejowej"
-        }
-      }
     },
     {
       "uuid": "945a703a-9800-4689-9712-e2e4c08d0840",
@@ -270,30 +170,9 @@
       "problems": []
     },
     {
-      "uuid": "b03df9d1-f688-4f20-bd07-e59353d59ec3",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=77345d8e — oba pytają o definicję Zamawiającego (ust. 15) z tą samą poprawną odpowiedzią; pytanie 77345d8e jest precyzyjniejsze (pełniejsza definicja z ust. 15), więc to pytanie jest gorsze i podlega usunięciu."
-      ]
-    },
-    {
       "uuid": "af57701a-0a88-44d2-8e3c-6565c0f37a28",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "8c64c8f1-7e4e-42d9-af9f-b4727fa3a019",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=dff55348 — oba pytają o definicję aplikanta (ust. 1) z tą samą poprawną odpowiedzią; pytanie dff55348 jest pełniejsze (zawiera wzmiankę o międzynarodowym ugrupowaniu interesów gospodarczych), więc to pytanie jest gorsze i podlega usunięciu."
-      ]
-    },
-    {
-      "uuid": "33c15556-38f3-496b-a9fe-2e32d027b451",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=5ab8deb0 — oba pytają o definicję przerwy technologicznej (ust. 7) z tą samą poprawną odpowiedzią; pytanie 5ab8deb0 jest precyzyjniejsze (uwzględnia godzinowe ograniczenie w dobie), więc to pytanie jest gorsze i podlega usunięciu."
-      ]
     },
     {
       "uuid": "323bb187-409a-4f4f-a19c-92e1855a2090",
@@ -314,27 +193,6 @@
       "uuid": "935b83dc-1b69-40ea-bf56-db121e3819f6",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "77345d8e-4f15-4628-b660-3160330c7ea3",
-      "status": "FIX",
-      "problems": [
-        "Zasada 6: poprawna odpowiedź D (179 znaków) jest >1,5× dłuższa od najdłuższego dystraktora C (76 znaków) — wyrównaj dystraktory w górę."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Podmiot realizujący prace na podstawie umowy z PLK S.A., zobowiązany do podjęcia realizacji zamknięcia po udzieleniu na nie zgody przez Centrum Zarządzania Ruchem Kolejowym",
-          "B": "Przewoźnik kolejowy lub inny podmiot zainteresowany uzyskaniem zdolności przepustowej infrastruktury kolejowej, składający wniosek o uwzględnienie zamknięcia w rozkładzie jazdy",
-          "C": "Centrum Zarządzania Ruchem Kolejowym wydające zgodę na realizację zamknięcia w postaci Okresowego harmonogramu zamknięć torowych poprzez zakwalifikowanie w odpowiednich kategoriach"
-        }
-      }
-    },
-    {
-      "uuid": "d144fb66-d5d3-4cb8-988f-377d487a650c",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=7e5b29b9 — oba pytają o definicję sieciowego harmonogramu zamknięć torowych (ust. 9) z tą samą poprawną odpowiedzią; pytanie 7e5b29b9 jest zachowane (po poprawce dystraktorów), więc to pytanie podlega usunięciu."
-      ]
     },
     {
       "uuid": "78a6aa62-6964-4d62-b540-32671ddf0dc5",
@@ -412,16 +270,6 @@
       "problems": []
     },
     {
-      "uuid": "ddffd1ff-043a-45c7-8886-1069d8891f9f",
-      "status": "FIX",
-      "problems": [
-        "Błędne sformułowanie pytania: użyto 'Najpóźniej na ile miesięcy', tymczasem § 4 ust. 2 mówi 'co najmniej 12 miesięcy' — pytanie powinno brzmieć 'Na co najmniej ile miesięcy'."
-      ],
-      "changes": {
-        "question": "Na co najmniej ile miesięcy przed wejściem w życie Rocznego Rozkładu Jazdy Pociągów musi nastąpić publikacja korekty Sieciowego harmonogramu zamknięć torowych?"
-      }
-    },
-    {
       "uuid": "9be0b61a-5884-4cd6-9af2-f974d81b230c",
       "status": "OK",
       "problems": []
@@ -445,13 +293,6 @@
       "uuid": "7e170d38-b157-41e7-9e87-a48df2c9335e",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "e2fb030d-8562-4aa3-97a1-5d1f4ce89e17",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=aee17f24-3dfc-4b02-9377-01f1354f7067 — oba pytają o to, na czym polega korekta Sieciowego harmonogramu zamknięć torowych, i obie poprawne odpowiedzi wskazują te same trzy elementy (dodanie nowych zamknięć, zmiana terminów, usunięcie). Zachowane zostaje pytanie aee17f24, które ma precyzyjniejszą treść odpowiedzi."
-      ]
     },
     {
       "uuid": "82b39106-e73f-459a-afbb-0adf654bb6ee",
@@ -479,41 +320,6 @@
       "problems": []
     },
     {
-      "uuid": "61a23877-4715-478c-8936-3afa77d24756",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=ba5e60df-8fed-415b-90a5-0edf84193a36 — oba pytają o termin publikacji Sieciowego harmonogramu zamknięć torowych przed wejściem w życie Rocznego Rozkładu Jazdy Pociągów i obie poprawne odpowiedzi wskazują 24 miesiące. Zachowane zostaje pytanie ba5e60df."
-      ]
-    },
-    {
-      "uuid": "d82da687-9477-4650-9c06-ab3cce1a5064",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=ddffd1ff-043a-45c7-8886-1069d8891f9f (po poprawce FIX) — oba dotyczą terminu publikacji korekty Sieciowego harmonogramu zamknięć torowych i obie poprawne odpowiedzi wskazują 12 miesięcy. Zachowane zostaje pytanie ddffd1ff."
-      ]
-    },
-    {
-      "uuid": "429121df-510c-4aec-b311-37f22ef1ae72",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=9be0b61a-5884-4cd6-9af2-f974d81b230c — oba pytają o to, z kim konsultowane są projekt Sieciowego harmonogramu zamknięć torowych i projekt jego korekty, i obie poprawne odpowiedzi wskazują aplikantów oraz głównych operatorów obiektów infrastruktury usługowej. Zachowane zostaje pytanie 9be0b61a, które ma bardziej zróżnicowane dystraktory."
-      ]
-    },
-    {
-      "uuid": "fe1545a6-a527-4a70-9a9b-79ad281fb9d3",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=1cd856d9-0b0a-4f9b-8dca-959be94b3544 — oba pytają o termin (14 dni kalendarzowych) na zgłoszenie uwag do projektu Sieciowego harmonogramu zamknięć torowych od dnia jego publikacji. Zachowane zostaje pytanie 1cd856d9, które ma dokładniejszą treść pytania."
-      ]
-    },
-    {
-      "uuid": "116d42bb-e7e6-4d63-8b6b-ca19d5f2f27a",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=eba7182c-b518-4ba5-ace6-10547047c804 — oba pytają o termin (7 dni kalendarzowych) na przedstawienie pisemnego stanowiska do zbiorczego zestawienia uwag przez zgłaszających zamknięcia torowe. Zachowane zostaje pytanie eba7182c, które ma dokładniejszą treść pytania i odpowiedzi."
-      ]
-    },
-    {
       "uuid": "aee17f24-3dfc-4b02-9377-01f1354f7067",
       "status": "OK",
       "problems": []
@@ -527,16 +333,6 @@
       "uuid": "275ac211-dd1b-42a1-bc00-fd755dc025f2",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "ac33016e-931b-4163-ac17-05685ad6b0e4",
-      "status": "FIX",
-      "problems": [
-        "Pytanie błędnie przypisuje przekazanie skoordynowanego harmonogramu do CZRK Regionowi Centrum Realizacji Inwestycji, podczas gdy zgodnie z § 4 ust. 10 pkt 1 lit. d robi to właściwa komórka organizacyjna w Biurze Centrum Realizacji Inwestycji (Region przekazuje harmonogram do komórki Biura CRI, a ta przekazuje do CZRK)."
-      ],
-      "changes": {
-        "question": "Nie później niż na ile miesięcy przed wejściem w życie Rocznego Rozkładu Jazdy właściwa komórka organizacyjna w Biurze Centrum Realizacji Inwestycji przekazuje skoordynowany harmonogram do Centrum Zarządzania Ruchem Kolejowym w fazie 1a opracowania projektu Sieciowego harmonogramu zamknięć torowych?"
-      }
     },
     {
       "uuid": "f49d5157-3667-48a7-8693-af4ad8f9a3fc",
@@ -614,20 +410,6 @@
       "problems": []
     },
     {
-      "uuid": "0b2c1ab1-29b7-469e-a94a-a6203565bd3e",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=28b90d87-8d8f-4451-ac34-1ac557c0a1a2 — oba pytania dotyczą odpowiedzialności za sieciową koordynację zamknięć torowych w Centrum Zarządzania Ruchem Kolejowym (§ 4 ust. 15 pkt 3) i mają tę samą poprawną odpowiedź."
-      ]
-    },
-    {
-      "uuid": "8cc8fa8e-f8ac-4a1a-aed9-076d60c3107c",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=275ac211-dd1b-42a1-bc00-fd755dc025f2 — oba pytania dotyczą skutków niepoprawnego sporządzenia projektu Sieciowego harmonogramu zamknięć torowych (§ 4 ust. 14) i mają tę samą poprawną odpowiedź."
-      ]
-    },
-    {
       "uuid": "9c2f8de1-9874-40fb-955a-5b0bdacb7355",
       "status": "OK",
       "problems": []
@@ -641,13 +423,6 @@
       "uuid": "c4a5508e-895d-421d-b6fa-9edbd9603383",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "b0daf0fd-f718-48ee-bab2-ced33492d810",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=e9237f5a-e2d1-4b76-8066-53886c1c4bab testującego ten sam fakt z § 5 ust. 6. Pytanie e9237f5a jest precyzyjniejsze, ponieważ odpowiedź D brzmi 'Dłużej niż 12 godzin', wiernie oddając treść 'trwających dłużej niż 12 godzin', podczas gdy odpowiedź D tego pytania ('Po 12 godzinach') jest mniej precyzyjna."
-      ]
     },
     {
       "uuid": "3315389b-2682-49ad-9391-f0f75da0e6e1",
@@ -675,37 +450,9 @@
       "problems": []
     },
     {
-      "uuid": "deef5b5f-11f2-4eed-a941-521cd51edfaa",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=6641415e-5c8c-43c7-b80b-1984136af932 testującego ten sam fakt z § 5 ust. 8 pkt 4. Pytanie 6641415e jest dokładniejsze: wymienia obydwu pracowników ds. koordynacji zamknięć torowych (w Ekspozyturze CZRK oraz w CZRK), zgodnie z literami b) i e) ust. 8 pkt 4, podczas gdy odpowiedź A tego pytania pomija punkt e) (pracownika ds. koordynacji w CZRK)."
-      ]
-    },
-    {
       "uuid": "9390edf7-457a-4698-9304-cd00d8eb52a8",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "46b7b6a4-de00-46b2-a74a-0e444e44692d",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=9c2f8de1-9874-40fb-955a-5b0bdacb7355 — identyczne pytanie ('Ile najbliższych okresów obejmuje planowanie okresowe?') z identyczną poprawną odpowiedzią (B: 'Trzy najbliższe okresy')."
-      ]
-    },
-    {
-      "uuid": "5126abfa-6a0f-4242-963b-11799485495e",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=486a3026-b263-4f4a-a490-5d2bc64f5d83 — identyczne pytanie ('Jaki jest cel planowania okresowego?') z identyczną poprawną odpowiedzią. Pytanie 486a3026 jest lepsze, ponieważ jego poprawna odpowiedź A precyzyjniej odzwierciedla treść ust. 3 (zawiera doprecyzowanie 'ujętych i nieujętych w Sieciowym harmonogramie'), a dystraktory są bardziej szczegółowe."
-      ]
-    },
-    {
-      "uuid": "1bdd8b36-53cc-4ca0-8d7a-d626f3efcd33",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=c4a5508e-895d-421d-b6fa-9edbd9603383 — identyczny sens pytania i identyczna poprawna odpowiedź B. Pytanie c4a5508e jest precyzyjniejsze, ponieważ zawiera w treści słowo 'zastępczego', wiernie oddając brzmienie § 5 ust. 4."
-      ]
     },
     {
       "uuid": "e9237f5a-e2d1-4b76-8066-53886c1c4bab",
@@ -716,20 +463,6 @@
       "uuid": "4d6d37a8-b0d2-4a70-bb99-7c1181f258a2",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "f1e929cd-c63b-4ea4-9adc-5f820d86dc27",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=9ae3136c-7309-4dda-b19f-86bd8097a7b0 — identyczny sens pytania ('Jakie linie stanowią wyjątek od zasady planowania prac w przerwach ruchu?') i identyczna poprawna odpowiedź ('Linie z ruchem wyłącznie towarowym'). Pytanie 9ae3136c ma lepsze dystraktory (transgraniczne, o małym natężeniu ruchu)."
-      ]
-    },
-    {
-      "uuid": "1e5811c7-0951-4ac6-844d-4f181564433b",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=f3947c23-a567-4ed4-9c08-d93f2587617f — identyczny sens pytania ('Co robi Region Centrum Realizacji Inwestycji w fazie 1a planowania okresowego?') i identyczna poprawna odpowiedź. Pytanie f3947c23 ma lepsze dystraktory nawiązujące do konkretnych działań z innych faz planowania opisanych w § 5 ust. 8."
-      ]
     },
     {
       "uuid": "5a2c14e5-ebfd-4614-80ce-cd62367c3b3b",
@@ -812,27 +545,6 @@
       "problems": []
     },
     {
-      "uuid": "82b600ef-94c8-43c6-8e4d-4d9894e6e28b",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=d2a69bae-524a-4ba8-9b1b-fffa11cc65c5 — ta sama treść (zasada prowadzenia ruchu na szlaku objętym robotami torowymi) i ta sama poprawna odpowiedź B; pytanie d2a69bae jest bardziej precyzyjne (doprecyzowuje 'przy zamknięciu jednego toru')."
-      ]
-    },
-    {
-      "uuid": "9d30de6a-75cd-4dc5-9a43-2da968635df0",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=737f0cc2-69e7-4b92-95ba-f5f8f005f2b7 — ta sama treść (po ilu dniach długotrwałego zamknięcia całodobowego szlak powinien być przystosowany technicznie) i ta sama poprawna odpowiedź C (ponad 30 kolejnych dni); pytanie 737f0cc2 jest bardziej precyzyjne."
-      ]
-    },
-    {
-      "uuid": "fe53eef0-cc7f-4606-9597-7ac7ca82f2e1",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=e5f15fcc-6d08-44da-ac9f-ade6d85d6ba2 — ta sama treść (minimalny procent pociągów przy zamknięciu jednego toru) i ta sama poprawna odpowiedź C (co najmniej 50%); pytanie e5f15fcc jest bardziej precyzyjne i kompletne."
-      ]
-    },
-    {
       "uuid": "228bafb4-d573-43ac-a603-727b3cf9baab",
       "status": "OK",
       "problems": []
@@ -851,27 +563,6 @@
       "uuid": "26a55fa9-e5db-410b-9d93-656898ac338e",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "2b1360ab-162e-4abb-9085-46639e545699",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=999cfac9-338d-46e3-a9e5-5a7eb30c02c0 — ta sama treść (kto jest odpowiedzialny za zabezpieczenie przed zbiegnięciem taboru i usunięcie go przed ponownym uruchomieniem) i ta sama poprawna odpowiedź C (Wykonawca robót); pytanie 999cfac9 jest bardziej zwięzłe i precyzyjne."
-      ]
-    },
-    {
-      "uuid": "71218b24-7749-4775-adf0-7977a8ae03c0",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=c8113583-fa45-49ef-8cca-a2310841c779 — identyczna treść pytania (gdzie wyznaczać tory na postój pociągów roboczych i maszyn) i ta sama poprawna odpowiedź (posterunki przyległe do szlaku z torem zamkniętym); pytanie c8113583 ma bardziej precyzyjne odpowiedzi."
-      ]
-    },
-    {
-      "uuid": "fa70e870-5dd7-414b-a831-bd037b9faa8f",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=298bd6ce-f29f-440d-934b-e05cdff798e0 — ta sama treść (kiedy przeprowadzić sprawdzenie urządzeń srk, rozjazdów i radiołączności) i ta sama poprawna odpowiedź B/C (w dniu poprzedzającym i bezpośrednio przed zamknięciem); pytanie 298bd6ce jest bardziej precyzyjne (wskazuje 'posterunki zapowiadawcze' i wymienia 'łączność przewodową')."
-      ]
     },
     {
       "uuid": "6c0fc6a5-bde4-46a8-9661-19071490b9b5",
@@ -899,30 +590,6 @@
       "problems": []
     },
     {
-      "uuid": "1755382d-7e28-4547-b039-33b32b5af6c7",
-      "status": "FIX",
-      "problems": [
-        "Literówki w treści pytania: 'wskaznik' → 'wskaźnik', 'stosuje sie' → 'stosuje się', 'semaforow' → 'semaforów'."
-      ],
-      "changes": {
-        "question": "Jaki wskaźnik stosuje się przy zabudowie semaforów przystosowanych do sygnalizowania jazd po torze w kierunku przeciwnym do zasadniczego?"
-      }
-    },
-    {
-      "uuid": "a933d861-fee7-40fe-8e11-63b7e9535bff",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=6bf8f89e-bc17-460f-96ee-7fcffe161f85 — identyczna treść pytania (co powinien zapewniać układ torowy posterunków zapowiadawczych przyległych do szlaku zamkniętego) i ta sama poprawna odpowiedź B (możliwość krzyżowania pociągów); dodatkowo pytanie zawiera liczne literówki w dystraktorach (Mozliwosc, pociagów, predkoscia, obslugi, pasazerskich)."
-      ]
-    },
-    {
-      "uuid": "74e9740d-dd14-4a18-9e80-fd080e5a8c70",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=c423e4ed-5cbc-466f-957f-186e42c1c3a2 — ta sama treść (zasada dotycząca liczby szlaków z jednoczesnym zamknięciem torowym) i ta sama poprawna odpowiedź (tylko jeden szlak); dodatkowo pytanie zawiera literówki w dystraktorach (jednoczesnie) i niejasne sformułowania."
-      ]
-    },
-    {
       "uuid": "59ed75d4-1e39-44e9-9409-134356fdccfb",
       "status": "OK",
       "problems": []
@@ -931,13 +598,6 @@
       "uuid": "dddf7f28-b0cb-4ea4-a639-751d6b8ee3e1",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "5d453f1e-e384-4384-afd2-6b051144b135",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=6c0fc6a5-bde4-46a8-9661-19071490b9b5 — oba pytania dotyczą §8 ust. 8 (środki stosowane przy robotach w sieci trakcyjnej łącznie z robotami nawierzchniowymi). Dodatkowo odpowiedź A ('Zabudowę izolatorów dzielczych') jest niepełna — §8 ust. 8 nakazuje wykorzystać 'wszystkie możliwe środki w tym zabudowę izolatorów dzielczych', a nie tylko zabudowę izolatorów dzielczych. Pytanie 6c0fc6a5 jest poprawne i pełniejsze."
-      ]
     },
     {
       "uuid": "c8113583-fa45-49ef-8cca-a2310841c779",
