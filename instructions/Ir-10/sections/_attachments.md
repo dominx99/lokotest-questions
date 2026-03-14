@@ -1,0 +1,3107 @@
+---
+id: "_attachments"
+title: "Załączniki"
+chapter: ""
+---
+
+**Załącznik nr 1 - Skrajnia taboru statyczna**
+
+Skrajnia taboru typu G1
+
+Skrajnia taboru typu G2
+
+Skrajnia taboru typu GA
+
+Skrajnia taboru typu GB
+
+**Załącznik nr 2 - Skrajnia ładunkowa**
+
+Załącznik nr 2
+Skrajnia ładunkowa obowiązująca w PKP Polskie Linie Kolejowe S.A.
+
+|Col1|Col2|0 0|0|0|0|0|Col8|0 0|Col10|0 00|Col12|0 0|0|0|0|0|0|0|0|00|Col22|0 0|0|0|0|0|Col28|Col29|Col30|Col31|Col32|Col33|Col34|Col35|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||1<br>2|3|4|5|6||7<br>8||9<br>**10**||1<br>2|3|4|5|6|7|8|9|**20**||1<br>2|3|4|5|6|||||||||
+||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||||||
+|||||~~69~~|~~0~~||||||||||||||||||||||||||~~**00**~~<br>~~00~~||||
+||||||||||||||||||||||||||||||||~~00~~<br>||||
+||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||~~00~~<br>~~00~~||||
+||||||||||||||||||||||||||||||||~~00~~<br>||||
+||||||||||||||||||||||||||||||||~~00~~<br>||||
+||||||||||||||||||||||||||||||||~~00~~<br>||||
+||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||~~**00**~~<br>||||
+||||||||~~3~~|~~5~~|||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||~~**00**~~<br>~~00~~||||
+|||||||||~~5~~|~~5~~||||||||||||||||||||||~~00~~<br>||||
+||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||0||5||0||||||~~00~~<br>~~00~~||||
+||||||||||||||||||||||50||80||65||||||~~00~~<br>||||
+||||||||||||||||||||||||3||4||||||~~00~~<br>||||
+||||||||||||||||||||||||||||||||~~00~~<br>||||
+||||||||||||||||||||||||||||||||~~**00**~~<br>||||
+||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||~~00~~||||
+|||||||||~~14~~|~~95~~||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||~~**000**~~<br>~~00~~||||
+|||||||1|22|0|||||||||||||||||||||||~~00~~<br>||||
+||||||||||||||||||||||||||||||||||||
+|||||83|1,|5|||||||||||||||||||||||||~~00~~||||
+||||||||||||||||||||||||||||||||~~00~~||||
+||||6|78|,5||||||||||||||||||||||||||~~00~~<br>~~00~~||||
+||||6|78|,5||||||||||||||||||||||||||||||
+|||0|||||||||||||||||||||||||||||~~00~~<br>||||
+|||1||||||||||||||||30|||||||||||||~~00~~<br>||||
+|||||||||||||||||||4|||||||||||||~~00~~<br>||||
+||||||||||||||||||||||||||||||||~~0~~<br>||||
+||||||||||||||||||||||||||||||||||||
+
+**Szerokości (połówkowe) od osi toru skrajni ładunkowej**
+
+|Wysokość<br>od główki<br>szyny<br>[mm]|Szerokość<br>od osi<br>toru<br>[mm]|Wysokość<br>od główki<br>szyny<br>[mm]|Szerokość<br>od osi<br>toru<br>[mm]|Wysokość<br>od główki<br>szyny<br>[mm]|Szerokość<br>od osi<br>toru<br>[mm]|Wysokość<br>od główki<br>szyny<br>[mm]|Szerokość<br>od osi<br>toru<br>[mm]|
+|---|---|---|---|---|---|---|---|
+|3500|1575|3800|1398|4100|1149|4400|899|
+|- <br>510<br>520<br>530<br>540<br>3550|- <br>1569<br>1563<br>1557<br>1551<br>1545|805<br>810<br>820<br>830<br>840<br>3850|1395<br>1391<br>1382<br>1374<br>1366<br>1357|- <br>110<br>120<br>130<br>140<br>4150|- <br>1141<br>1132<br>1124<br>1116<br>1107|- <br>410<br>420<br>430<br>440<br>4450|- <br>890<br>882<br>874<br>865<br>857|
+|560<br>570<br>580<br>590|1540<br>1534<br>1528<br>1522|860<br>870<br>880<br>890|1349<br>1341<br>1332<br>1324|160<br>170<br>180<br>190|1099<br>1090<br>1082<br>1074|460<br>470<br>480<br>490|849<br>840<br>832<br>823|
+|3600|1516|3900|1316|4200|1065|4500|815|
+|610<br>620<br>630<br>640<br>3650|1510<br>1504<br>1498<br>1492<br>1486|910<br>920<br>930<br>940<br>3950|1307<br>1299<br>1291<br>1282<br>1274|210<br>220<br>230<br>240<br>4250|1057<br>1049<br>1040<br>1032<br>1024|510<br>520<br>530<br>540<br>4550|807<br>798<br>790<br>782<br>773|
+|660<br>670<br>680<br>690|1481<br>1475<br>1469<br>1463|960<br>970<br>980<br>990|1266<br>1257<br>1249<br>1241|260<br>270<br>280<br>290|1015<br>1007<br>999<br>990|560<br>570<br>580<br>590|765<br>757<br>748<br>740|
+|3700|1457|4000|1232|4300|982|4600|732|
+|710<br>720<br>730<br>740<br>3750|1451<br>1445<br>1439<br>1433<br>1427|010<br>020<br>030<br>040<br>4050|1224<br>1216<br>1207<br>1199<br>1191|310<br>320<br>330<br>340<br>4350|974<br>965<br>957<br>949<br>940|610<br>620<br>630<br>640<br>4650|723<br>715<br>707<br>698<br>690|
+|760<br>770<br>780<br>790|1422<br>1416<br>1410<br>1404|060<br>070<br>080<br>090|1182<br>1174<br>1166<br>1157|360<br>370<br>380<br>390|932<br>924<br>915<br>907|||
+
+**Załącznik nr 3 - Międzynarodowa skrajnia ładunkowa**
+
+|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|Col19|Col20|Col21|Col22|Col23|Col24|Col25|Col26|Col27|Col28|Col29|Col30|Col31|Col32|Col33|Col34|Col35|Col36|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||0<br>0|0|0|0|0||0<br>|0<br>|0<br>**0**||0<br>0|0|0|0|0|0|0|0|**0**||0<br>0|0|0|0|60|||||||||
+|||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||~~00~~||||
+|||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||~~**00**~~<br>~~00~~||||
+|||||||||||||||||||||||||||||||||~~00~~<br>||||
+|||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||~~00~~||||
+||||~~4~~|~~0~~||||||||||||||||||||||||||||~~00~~||||
+|||||||||||||||||||||||||||||||||~~00~~<br>~~00~~||||
+|||||||||||||||||||||||||||||||||~~00~~<br>||||
+|||||||||||||||||||||||||||||||||~~00~~<br>||||
+|||||||||||||||||||||||||||||||||~~00~~<br>||||
+|||||||||||||||||||||||||||||||||||||
+|||||||1|00|0||||||||||||||||||||||||~~**00**~~<br>||||
+|||||||||||||||||||||||||||||||||~~00~~||||
+|||||||||||||||||||||||||||||||||~~00~~||||
+|||||||||||||||||||||||||||||||||~~00~~||||
+|||||||||||||||||||||||||||||||||~~00~~||||
+|||||||||||||||||||||||||||||||||~~00~~||||
+|||||||||||||||||||||||||||||||||~~00~~||||
+|||||||||||||||||||||||||||||||||~~00~~<br>~~00~~||||
+|||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||~~00~~||||
+|||||||||||||||||||||||||||||||||~~**00**~~<br>~~00~~||||
+|||||||||||||||||||||||||||||||||~~00~~<br>||||
+|||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||~~00~~||||
+|||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||~~00~~||||
+|||||||||||||||||||||||5||0||0||||||~~00~~<br>~~00~~||||
+|||||||||||||||||||||||17||00||28||||||~~00~~<br>||||
+||||||||||~~15~~|~~75~~||||||||||||||4||4||||||~~00~~<br>||||
+|||||||||||||||||||||||||||||||||~~00~~<br>||||
+|||||||||||||||||||||||||||||||||~~**00**~~<br>||||
+|||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||~~00~~||||
+|||||||||||||||||||||||||||||||||~~00~~||||
+|||||||||||||||||||||||||||||||||~~00~~||||
+|||||||||||||||||||||||||||||||||~~00~~||||
+||||||||||~~14~~|~~90~~||||||||||||||||||||||~~00~~||||
+|||||||||||||||||||||||||||||||||~~00~~||||
+|||||||||1|41|0||||||||||||||||||||||~~00~~||||
+|||||||||||||||||||||||||||||||||~~00~~||||
+||||||||1|22|5|||||||||||||||||||||||~~00~~||||
+|||||||||||||||||||||||||||||||||~~**000**~~<br>~~00~~||||
+||||||||~~1~~|~~18~~|~~0~~|||||||||||||||||||||||~~00~~<br>||||
+|||||||||||||||||||||||||||||||||||||
+||||||83|1,|5|||||||||||||||||||||||||~~00~~||||
+|||||||||||||||||||||||||||||||||~~00~~||||
+|||||6|78|,5||||||||||||||||||||||||||~~00~~||||
+|||||6|78|,5||||||||||||||||||||||||||||||
+||||0||||||||0|||||||||||||||||||||~~00~~<br>~~00~~||||
+||||1||||||||13|||||00|||30|||||||||||||~~00~~<br>||||
+||||||||||||||30|||4|||4|||||||||||||~~00~~<br>||||
+|||||||||||||||||||||||||||||||||||||
+||||||||||||||2|||||||||||||||||||~~0~~<br>||||
+|||||||||||||||||||||||||||||||||||||
+
+**Szerokość od osi toru międzynarodowej skrajni ładunkowej RIV**
+
+|Wysokość<br>od główki<br>szyny<br>[mm]|Szerokość<br>od osi<br>toru<br>[mm]|Wysokość<br>od główki<br>szyny<br>[mm]|Szerokość<br>od osi<br>toru<br>[mm]|Wysokość<br>od główki<br>szyny<br>[mm]|Szerokość<br>od osi<br>toru<br>[mm]|Wysokość<br>od główki<br>szyny<br>[mm]|Szerokość<br>od osi<br>toru<br>[mm]|
+|---|---|---|---|---|---|---|---|
+|<br>||3450|1461|3750|1260|4050|893|
+|3175<br>430 } <br>180<br>190|<br>1575<br>1573<br>1570|460<br>470<br>480<br>490|1456<br>1450<br>1445<br>1439|760<br>770<br>780<br>790|1252<br>1243<br>1234<br>1226|060<br>070<br>080<br>090|871<br>850<br>829<br>807|
+|3200|1567|3500|1434|3800|1217|4100|786|
+|210<br>220<br>230<br>240<br>3250|1563<br>1560<br>1557<br>1553<br>1549|510<br>520<br>530<br>540<br>3550|1428<br>1422<br>1416<br>1410<br>1404|810<br>820<br>830<br>840<br>3850|1207<br>1198<br>1189<br>1179<br>1169|110<br>120<br>130<br>140<br>4150|764<br>743<br>721<br>700<br>679|
+|260<br>270<br>280<br>290|1546<br>1542<br>1538<br>1534|560<br>570<br>580<br>590|1398<br>1392<br>1385<br>1379|860<br>870<br>880<br>890|1159<br>1149<br>1139<br>1128|160<br>170<br>180<br>190|657<br>636<br>614<br>593|
+|3300|1530|3600|1372|3900|1118|4200|571|
+|310<br>320<br>330<br>340<br>3350|1526<br>1522<br>1518<br>1513<br>1509|610<br>620<br>630<br>640<br>3650|1366<br>1359<br>1352<br>1345<br>1338|910<br>920<br>930<br>940<br>3950|1107<br>1096<br>1085<br>1073<br>1062|210<br>220<br>230<br>240<br>4250|550<br>529<br>507<br>486<br>464|
+|360<br>370<br>380<br>390|1505<br>1500<br>1495<br>1491|660<br>670<br>680<br>690|1331<br>1323<br>1316<br>1308|960<br>970<br>980<br>990|1050<br>1038<br>1025<br>1013|260<br>270<br>4280|443<br>421<br>400|
+|3400|1486|3700|1301|4000|1000|||
+|410<br>420<br>430<br>440<br>3450|1481<br>1476<br>1471<br>1466<br>1461|710<br>720<br>730<br>740<br>3750|1293<br>1285<br>1277<br>1269<br>1260|010<br>020<br>030<br>040<br>4050|979<br>957<br>936<br>914<br>893|||
+
+**Załącznik nr 4 - Wytyczne ładowania**
+
+**Tablica 21** Ograniczenia szerokości ładunkowej
+
+Najmniejsze dozwolone odstępy [cm] między ładunkiem, a skrajnią ładunkową - mierzone poziomo,
+dla części ładunku, leżących między osiami skrajnymi lub czopami skrętu wózków wagonu
+
+|Rozstaw<br>osi<br>skrajnych<br>lub czopów<br>skrętu<br>w ózków|Dla odstępu rozpatrywanego przekroju poprzecznego od najbliższej osi skrajnej lub od<br>najbliższego czopa skrętu|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|Col19|Col20|Col21|Col22|Col23|Col24|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**[m]**|**0,5**|**1**|**1,5**|**2**|**2,5**|**3**|**3,5**|**4**|**4,5**|**5**|**5,5**|**6**|**6,5**|**7**|**7,5**|**8**|**9**|**10**|**11**|**12**|**13**|**14**|**15**|
+|7,5|0|0|0|0|0|0|0|0||||||||||||||||
+|8|0|0|0|0|0|1|1|1||||||||||||||||
+|9|0|0|0|0|1|1|1|2|2|||||||||||||||
+|10|0|0|0|1|1|2|2|2|3|3||||||||||||||
+|11|0|0|0|1|2|2|3|3|3|4|4|||||||||||||
+|12|0|0|1|2|2|3|4|4|4|5|5|5||||||||||||
+|13|0|0|1|2|3|4|4|5|5|6|6|6|6|||||||||||
+|14|0|0|1|2|3|4|5|6|6|7|7|7|7|7||||||||||
+|15|0|0|2|3|4|5|6|6|7|8|8|8|9|9|9|||||||||
+|16|0|1|2|3|4|5|6|7|8|9|9|10|10|10|10|10||||||||
+|17|0|1|2|4|5|6|7|8|9|10|10|11|11|12|12|12|12|||||||
+|18|0|1|3|4|5|7|8|9|10|11|11|12|13|13|13|14|14|||||||
+|19|0|1|3|4|6|7|8|10|11|12|12|13|14|14|15|15|16|16||||||
+|19,5|0|1|3|5|6|7|9|10|11|12|13|14|14|15|16|16|16|17||||||
+|20|0|1|3|5|6|8|9|10|12|13|14|14|15|16|16|17|17|18||||||
+|20,5|0|1|3|5|7|8|9|11|12|13|14|15|16|16|17|18|19|19|19|||||
+|21|0|2|3|5|7|8|10|11|12|14|15|16|16|17|18|19|20|21|21|||||
+|21,5|0|2|4|5|7|9|10|12|13|14|15|16|17|18|19|20|22|23|23|||||
+|22|0|2|4|6|7|9|11|12|13|15|16|17|18|19|21|22|23|24|25|||||
+|24|0|2|4|6|8|10|12|14|15|17|18|20|22|24|26|27|29|31|32|32||||
+|26|0|3|5|7|9|11|13|15|17|19|22|24|27|29|31|32|35|38|39|40|41|||
+|28|0|3|6|8|10|13|15|17|20|23|26|28|31|33|36|38|41|44|47|48|49|50||
+|30|1|3|6|9|11|14|16|19|23|26|29|32|35|38|41|43|47|51|54|56|58|59|59|
+
+Dla wartości innych od wartości zasadniczych, podanych w niniejszej tablicy, należy stosować
+najbliższe wyższe wartości
+**Uwagi:**
+1) Najmniejsze dopuszczalne odstępy między ładunkiem a skrajnią ładunków należy powiększyć
+
+  - 5 cm dla części ładunków leżących niżej niż 430 mm ponad główką szyny.
+2) Najmniejsze dopuszczalne odstępy poziome dla jednostek ładunkowych, które mogłyby przesuwać się w kierunku poprzecznym, należy powiększyć:
+
+  - o 10 cm w przypadku ładunków w stosach (np. maty ze stali zbrojeniowej), które wystają ponad
+kłonice;
+
+  - o 5 cm w przypadku z napompowanymi oponami, bez obwiązania części leżących
+wyżej niż 3200 mm ponad główkę szyny (nie obowiązuje dla pojazdów załadowanych
+na 2 poziomie wagonu dwupodłogowego).
+3) Dla ładunków na wagonach z wózkami najmniejsze odstępy poziome (dla części ładunku leżących między czopami skrętu) należy powiększyć:
+
+  - przy rozstawie osi skrajnych wózka ponad 4,0 do 6,0 o 1 cm;
+
+  - przy rozstawie osi skrajnych wózka ponad 6,0 o 2 cm.
+
+4) Przy użyciu wagonu ochronnego lub wagonu pośredniego patrz Wytyczne ładowania Tablica 25.
+
+**Ograniczenia szerokości ładunkowej - Wytyczne ładowania Tablica 23**
+Najmniejsze dozwolone odstępy w cm między skrajnią ładunkową a częścią ładunku wystającą poza
+osie lub czopy skrętu wagonu
+
+|Rozstaw osi<br>skrajnych lub<br>czopów<br>skrętu<br>wózków|Dla odstępu rozpatrywanego przekroju poprzecznego od najbliższej osi skrajnej lub od najbliższego<br>czopa skrętu|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|Col19|Col20|Col21|Col22|Col23|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**[m]**|**0,5**|**1**|**1,5**|**1,75**|**2**|**2,25**|**2,5**|**3**|**3,5**|**4**|**4,5**|**5**|**5,5**|**6**|**6,5**|**7**|**7,5**|**8**|**8,5**|**9**|**9,5**|**10**|
+|7,5|0|0|2|3|3|4|5|7|9|11|13|16|18|21|23|26|29|32|37|42|46|52|
+|8|0|0|2|3|4|4|5|7|9|11|14|16|18|21|23|26|29|33|38|42|47|53|
+|9|0|0|2|3|4|5|6|7|10|12|14|16|19|21|24|27|30|35|39|44|49|55|
+|10|0|0|2|3|4|5|6|8|10|12|14|17|19|22|25|27|32|36|41|46|52|57|
+|11|0|0|2|3|4|5|6|8|10|13|15|17|20|23|25|29|34|38|43|49|54|59|
+|12|0|1|2|3|4|5|6|9|11|13|15|18|21|23|26|31|36|41|46|51|56|62|
+|13|0|1|3|4|5|6|7|9|11|14|16|19|21|24|28|33|38|43|48|53|59|65|
+|14|0|1|3|4|5|6|7|9|12|14|17|19|22|25|30|35|40|45|50|56|62|68|
+|15|0|1|3|4|5|6|8|10|12|15|18|20|23|27|32|37|42|47|53|59|65|71|
+|16|0|1|3|4|6|7|8|10|13|16|18|21|24|29|34|39|44|50|55|67|67|74|
+|17|0|1|4|5|6|7|8|11|13|16|19|22|25|30|36|41|46|52|58|64|70|77|
+|18|0|2|4|5|6|7|9|11|14|17|20|23|27|32|38|43|49|55|61|67|73|80|
+|19|0|2|4|5|7|8|9|12|15|18|21|24|29|34|40|45|51|57|63|70|76|83|
+|19,5|0|2|4|5|7|8|9|12|15|18|21|24|30|35|41|46|52|58|65|71|77|84|
+|20|0|2|4|6|7|8|10|12|15|18|21|25|30|36|42|47|53|60|66|72|79|86|
+|20,5|0|2|5|6|7|8|10|13|16|19|22|26|31|37|43|48|55|61|67|74|80|87|
+|21|0|2|5|6|7|8|10|13|16|19|22|27|32|38|44|50|56|62|68|75|82|89|
+|21,5|0|2|5|6|7|8|10|13|16|19|23|28|33|39|45|51|57|63|70|77|83|90|
+|22|0|2|5|6|8|9|11|13|17|20|23|28|34|40|46|52|58|65|71|78|85|92|
+|24|0|3|5|7|8|10|11|15|18|21|26|31|37|44|50|56|63|70|77|84|91|98|
+|26|0|3|6|8|9|11|12|16|19|23|29|35|41|47|54|61|68|75|82|89|97|105|
+|28|0|3|7|8|10|12|13|17|20|25|31|38|44|51|58|65|72|80|87|95|103|111|
+|30|0|4|7|9|11|12|14|18|22|28|34|41|48|55|62|70|77|85|93|101|109|118|
+
+Dla wartości innych od wartości podanych w niniejszej tabeli, należy stosować najbliższe wyższe
+wartości.
+
+**Uwagi** :
+
+1. Najmniejsze dopuszczalne odstępy między ładunkiem a skrajnią ładunków należy powiększyć
+
+  - 5 cm dla części ładunków leżących niżej niż 430 mm ponad główką szyny.
+
+2. Najmniejsze dopuszczalne odstępy poziome dla jednostek ładunkowych, które mogłyby przesuwać się w kierunku poprzecznym, należy powiększyć:
+
+  - o 10 cm w przypadku ładunków w stosach (np. maty ze stali zbrojeniowej), które wystają ponad kłonice,
+
+  - o 5 cm w przypadku z napompowanymi oponami, bez obwiązania części leżących wyżej niż 3200 mm ponad główkę szyny.
+
+**Ograniczenia szerokości ładunkowej - Wytyczne ładowania Tablica 25**
+Najmniejsze dozwolone odstępy [cm] między ładunkiem, a ścianami bocznymi wagonu lub kłonicami
+
+|Rozstaw<br>osi<br>skrajnych<br>lub<br>czopów<br>skrętu<br>w agonu<br>nośnego|Odległość między ładunkiem a ścianami bocznymi lub kłonicami¹⁾ w cm|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|
+|---|---|---|---|---|---|---|---|---|---|---|
+|<br>Rozstaw<br>osi<br>skrajnych<br>lub<br>czopów<br>skrętu<br>w agonu<br>nośnego|przy wagonie ochronnym<br>odległość rozpatrywanego przekroju poprzecznego<br>od najbliższej osi skrajnej lub od najbliższego czopa skrętu wagonu nośnego|przy wagonie ochronnym<br>odległość rozpatrywanego przekroju poprzecznego<br>od najbliższej osi skrajnej lub od najbliższego czopa skrętu wagonu nośnego|przy wagonie ochronnym<br>odległość rozpatrywanego przekroju poprzecznego<br>od najbliższej osi skrajnej lub od najbliższego czopa skrętu wagonu nośnego|przy wagonie ochronnym<br>odległość rozpatrywanego przekroju poprzecznego<br>od najbliższej osi skrajnej lub od najbliższego czopa skrętu wagonu nośnego|przy wagonie ochronnym<br>odległość rozpatrywanego przekroju poprzecznego<br>od najbliższej osi skrajnej lub od najbliższego czopa skrętu wagonu nośnego|przy wagonie ochronnym<br>odległość rozpatrywanego przekroju poprzecznego<br>od najbliższej osi skrajnej lub od najbliższego czopa skrętu wagonu nośnego|przy wagonie ochronnym<br>odległość rozpatrywanego przekroju poprzecznego<br>od najbliższej osi skrajnej lub od najbliższego czopa skrętu wagonu nośnego|przy wagonie ochronnym<br>odległość rozpatrywanego przekroju poprzecznego<br>od najbliższej osi skrajnej lub od najbliższego czopa skrętu wagonu nośnego|przy wagonie ochronnym<br>odległość rozpatrywanego przekroju poprzecznego<br>od najbliższej osi skrajnej lub od najbliższego czopa skrętu wagonu nośnego|przy<br>w agonie<br>pośrednim<br> <br>|
+|**[m]**|**3**|**4**|**5**|**6**|**6,5**|**7**|**8**|**9**|**10**||
+|**4**|26||||||||||
+|**6**|26|**31**|**38**|**45**|**49**|**53**|**61**|**70**|**80**||
+|**8**|26|32|**39**|**47**|**50**|**55**|**63**|**72**|**83**||
+|**10**|28|34|41|**49**|**54**|**58**|**67**|**77**|**88**|**24**|
+|**12**|29|36|44|52|**57**|**61**|**71**|**81**|**93**|**28**|
+|**14**|31|38|47|56|60|**65**|**76**|**86**|**98**|**33**|
+|**16**|33|41|50|59|64|**69**|**80**|**92**|**104**|**38**|
+|**18**|34|43|53|63|68|**73**|**85**|**97**|**110**|**44**|
+|**20**|36|46|56|67|72|**78**|**90**|**102**|**116**|**51**|
+|**25**|41|52|64|76|83|**89**|**103**|**117**|**132**|**71**|
+|**30**|46|58|72|86|93|**100**|**116**|**131**|**148**|**95**|
+|Dla wartości inny ch od watrości zasadniczy ch, podany ch w niniejszej tablicy, należy stosować najbliższe wy ższe wartości|Dla wartości inny ch od watrości zasadniczy ch, podany ch w niniejszej tablicy, należy stosować najbliższe wy ższe wartości|Dla wartości inny ch od watrości zasadniczy ch, podany ch w niniejszej tablicy, należy stosować najbliższe wy ższe wartości|Dla wartości inny ch od watrości zasadniczy ch, podany ch w niniejszej tablicy, należy stosować najbliższe wy ższe wartości|Dla wartości inny ch od watrości zasadniczy ch, podany ch w niniejszej tablicy, należy stosować najbliższe wy ższe wartości|Dla wartości inny ch od watrości zasadniczy ch, podany ch w niniejszej tablicy, należy stosować najbliższe wy ższe wartości|Dla wartości inny ch od watrości zasadniczy ch, podany ch w niniejszej tablicy, należy stosować najbliższe wy ższe wartości|Dla wartości inny ch od watrości zasadniczy ch, podany ch w niniejszej tablicy, należy stosować najbliższe wy ższe wartości|Dla wartości inny ch od watrości zasadniczy ch, podany ch w niniejszej tablicy, należy stosować najbliższe wy ższe wartości|Dla wartości inny ch od watrości zasadniczy ch, podany ch w niniejszej tablicy, należy stosować najbliższe wy ższe wartości|Dla wartości inny ch od watrości zasadniczy ch, podany ch w niniejszej tablicy, należy stosować najbliższe wy ższe wartości|
+
+Ładunki, dla których należy zastosować najmniejsze wartości wydrukowane **z pogrubieniem**, uważa się za przesyłki nadzwyczajne.
+
+**Załącznik nr 5 - Tablica odchyleń punktu wewnętrznego (Di)**
+
+Odchylenia punktu wewnętrznego na łukach oblicza się według wzoru:
+
+_Di_ = 1000( _ani_ - _ni_ 2 ) + _c_ +
+
+[ _mm_
+
+_R_
+
+1000( _an_ - _n_ 2 ) 1000 _p_ 2
+
+_ani_ - _ni_ 2 ) + _c_ + 1000 _p_ 2 [ _mm_ ]
+
+2 _R_ 8 _R_
+
+_i_  - _ni_ 2 ) + _c_ + 1000 _p_
+
+_R_ 8 _R_
+
+gdzie: a - rozstaw osi skrajnych, względnie czopów skrętu wózków lub mostu nośnego wagonu [m], ni - odległość rozpatrywanego punktu wewnętrznego od najbliższej osi skrajnej, względnie czopa skrętu wózków lub mostu nośnego wagonu [m],
+R - promień łuku [m],
+p - rozstaw osi skrajnych wózka [m],
+c – współczynnik,
+1000 - współczynnik przeliczeniowy [m] na [mm].
+
+Przy obliczeniu wartości odchyleń punktu wewnętrznego na łukach, podanych w niniejszej tablicy,
+
+nie uwzględniono ostatniego członu powyższego wzoru, tj. D [′] =
+
+1000 𝑝 [2]
+
+~~,~~ który stanowi odchylenie
+8𝑅
+
+wagonu na wózkach na łukach i ma zastosowanie tylko w przypadku użycia do przewozu takiego
+wagonu.
+
+Odchylenie wagonów na wózkach na łukach, w zależności od rozstawu osi w wózku, podane są
+w załączniku nr 7.
+
+Przy obliczaniu odchyleń na łuku punktu wewnętrznego ładunku, załadowanego na wagon
+na wózkach, należy do odpowiednich wartości niniejszej tablicy dodać odpowiednie wartości podane
+w załączniku nr 7.
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|
+|6|>1000|43|43|43|43|-|-|-|-|-|-|-|-|-|-|-|-|
+|6|1000|47|49|51|51|51|51|51|51|51|51|51|51|51|51|51|51|
+|6|800|49|52|54|55|55|55|55|55|55|55|55|55|55|55|55|55|
+|6|700|49|53|55|55|55|55|55|55|55|55|55|55|55|55|55|55|
+|6|600|51|55|58|58|58|58|58|58|58|58|58|58|58|58|58|58|
+|6|500|53|58|61|62|62|62|62|62|62|62|62|62|62|62|62|62|
+|6|400|53|59|63|64|64|64|64|64|64|64|64|64|64|64|64|64|
+|6|350|53|60|64|66|66|66|66|66|66|66|66|66|66|66|66|66|
+|6|300|53|61|66|68|68|68|68|68|68|68|68|68|68|68|68|68|
+|6|250|53|63|69|71|71|71|71|71|71|71|71|71|71|71|71|71|
+|6|200|53|65|73|75|75|75|75|75|75|75|75|75|75|75|75|75|
+|6|180|53|67|75|78|78|78|78|78|78|78|78|78|78|78|78|78|
+|6|160|53|69|78|81|81|81|81|81|81|81|81|81|81|81|81|81|
+|6|150|55|72|82|85|85|85|85|85|85|85|85|85|85|85|85|85|
+|6,5|>1000|43|43|43|43|43|ni=3,25|ni=3,25|ni=3,25|ni=3,25|ni=3,25|ni=3,25|ni=3,25|ni=3,25|ni=3,25|ni=3,25|ni=3,25|
+|6,5|1000|47|50|51|52|52|52|52|52|52|52|52|52|52|52|52|52|
+|6,5|800|49|52|54|55|55|55|55|55|55|55|55|55|55|55|55|55|
+|6,5|700|49|53|55|56|56|56|56|56|56|56|56|56|56|56|56|56|
+|6,5|600|51|55|58|60|60|60|60|60|60|60|60|60|60|60|60|60|
+|6,5|500|53|58|62|63|63|63|63|63|63|63|63|63|63|63|63|63|
+|6,5|400|53|60|64|66|66|66|66|66|66|66|66|66|66|66|66|66|
+|6,5|350|53|61|66|68|68|68|68|68|68|68|68|68|68|68|68|68|
+|6,5|300|53|62|68|70|70|70|70|70|70|70|70|70|70|70|70|70|
+|6,5|250|53|64|71|74|74|74|74|74|74|74|74|74|74|74|74|74|
+|6,5|200|53|67|75|69|79|79|79|79|79|79|79|79|79|79|79|79|
+|6,5|180|53|68|78|82|82|82|82|82|82|82|82|82|82|82|82|82|
+|6,5|160|53|70|81|86|86|86|86|86|86|86|86|86|86|86|86|86|
+|6,5|150|55|74|85|90|91|91|91|91|91|91|91|91|91|91|91|91|
+|7|>1000|43|43|43|43|43|ni=3,5|ni=3,5|ni=3,5|ni=3,5|ni=3,5|ni=3,5|ni=3,5|ni=3,5|ni=3,5|ni=3,5|ni=3,5|
+|7|1000|47|50|52|53|53|53|53|53|53|53|53|53|53|53|53|53|
+|7|800|49|53|55|56|57|57|57|57|57|57|57|57|57|57|57|57|
+|7|700|49|53|56|57|58|58|58|58|58|58|58|58|58|58|58|58|
+|7|600|51|56|59|61|61|61|61|61|61|61|61|61|61|61|61|61|
+|7|500|53|59|63|65|65|65|65|65|65|65|65|65|65|65|65|65|
+|7|400|53|60|65|68|68|68|68|68|68|68|68|68|68|68|68|68|
+|7|350|53|61|67|70|70|70|70|70|70|70|70|70|70|70|70|70|
+|7|300|53|63|70|73|73|73|73|73|73|73|73|73|73|73|73|73|
+|7|250|53|65|73|77|77|77|77|77|77|77|77|77|77|77|77|77|
+|7|200|53|68|78|83|83|83|83|83|83|83|83|83|83|83|83|83|
+|7|180|53|70|81|86|87|87|87|87|87|87|87|87|87|87|87|87|
+|7|160|53|72|84|90|91|91|91|91|91|91|91|91|91|91|91|91|
+|7|150|55|75|89|95|96|96|96|96|96|96|96|96|96|96|96|96|
+|7,2|>1000|43|43|43|43|43|ni=3,6|ni=3,6|ni=3,6|ni=3,6|ni=3,6|ni=3,6|ni=3,6|ni=3,6|ni=3,6|ni=3,6|ni=3,6|
+|7,2|1000|47|50|52|53|53|53|53|53|53|53|53|53|53|53|53|53|
+|7,2|800|49|53|55|57|57|57|57|57|57|57|57|57|57|57|57|57|
+|7,2|700|49|53|56|58|58|58|58|58|58|58|58|58|58|58|58|58|
+|7,2|600|51|56|69|61|62|62|62|62|62|62|62|62|62|62|62|62|
+|7,2|500|53|59|63|65|66|66|66|66|66|66|66|66|66|66|66|66|
+|7,2|400|53|61|66|69|69|69|69|69|69|69|69|69|69|69|69|69|
+|7,2|350|53|62|68|71|71|71|71|71|71|71|71|71|71|71|71|71|
+|7,2|300|53|63|70|74|75|75|75|75|75|75|75|75|75|75|75|75|
+|7,2|250|53|65|74|78|79|79|79|79|79|79|79|79|79|79|79|79|
+|7,2|200|53|68|79|84|85|85|85|85|85|85|85|85|85|85|85|85|
+|7,2|180|53|70|82|88|89|89|89|89|89|89|89|89|89|89|89|89|
+|7,2|160|53|72|85|92|94|94|94|94|94|94|94|94|94|94|94|94|
+|7,2|150|55|76|90|97|99|99|99|99|99|99|99|99|99|99|99|99|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|
+|7,5|.>1000|43|43|43|43|43|ni=3,75|ni=3,75|ni=3,75|ni=3,75|ni=3,75|ni=3,75|ni=3,75|ni=3,75|ni=3,75|ni=3,75|ni=3,75|
+|7,5|1000|47|50|52|54|54|54|54|54|54|54|54|54|54|54|54|54|
+|7,5|800|49|53|56|57|58|58|58|58|58|58|58|58|58|58|58|58|
+|7,5|700|49|54|57|59|59|59|59|59|59|59|59|59|59|59|59|59|
+|7,5|600|51|56|60|62|63|63|63|63|63|63|63|63|63|63|63|63|
+|7,5|500|53|59|64|66|67|67|67|67|67|67|67|67|67|67|67|67|
+|7,5|400|53|61|67|70|70|70|70|70|70|70|70|70|70|70|70|70|
+|7,5|350|53|62|69|72|73|73|73|73|73|73|73|73|73|73|73|73|
+|7,5|300|53|64|71|75|76|76|76|76|76|76|76|76|76|76|76|76|
+|7,5|250|53|66|75|80|81|81|81|81|81|81|81|81|81|81|81|81|
+|7,5|200|53|69|80|87|88|88|88|88|88|88|88|88|88|88|88|88|
+|7,5|180|53|71|83|90|92|92|92|92|92|92|92|92|92|92|92|92|
+|7,5|160|53|73|87|95|97|97|97|97|97|97|97|97|97|97|97|97|
+|7,5|150|55|77|92|100|102|102|102|102|102|102|102|102|102|102|102|102|
+|8|>1000|43|43|43|43|43|-|-|-|-|-|-|-|-|-|-|-|
+|8|1000|47|50|53|54|55|55|55|55|55|55|55|55|55|55|55|55|
+|8|800|49|53|56|58|59|59|59|59|59|59|59|59|59|59|59|59|
+|8|700|49|54|57|60|60|60|60|60|60|60|60|60|60|60|60|60|
+|8|600|51|57|61|63|64|64|64|64|64|64|64|64|64|64|64|64|
+|8|500|53|60|65|68|69|69|69|69|69|69|69|69|69|69|69|69|
+|8|400|53|62|68|71|73|73|73|73|73|73|73|73|73|73|73|73|
+|8|350|53|63|70|74|76|76|76|76|76|76|76|76|76|76|76|76|
+|8|300|53|65|73|78|80|80|80|80|80|80|80|80|80|80|80|80|
+|8|250|53|67|77|83|85|85|85|85|85|85|85|85|85|85|85|85|
+|8|200|53|70|83|90|93|93|93|93|93|93|93|93|93|93|93|93|
+|8|180|53|72|86|95|97|97|97|97|97|97|97|97|97|97|97|97|
+|8|160|53|75|90|100|103|103|103|103|103|103|103|103|103|103|103|103|
+|8|150|55|79|95|105|109|109|109|109|109|109|109|109|109|109|109|109|
+|8,2<br>|>1000|43|43|43|43|43|43|ni=4,1|ni=4,1|ni=4,1|ni=4,1|ni=4,1|ni=4,1|ni=4,1|ni=4,1|ni=4,1|ni=4,1|
+|8,2<br>|1000|47|50|53|55|55|55|55|55|55|55|55|55|55|55|55|55|
+|8,2<br>|800|49|53|57|59|59|59|59|59|59|59|59|59|59|59|59|59|
+|8,2<br>|700|49|54|58|60|61|61|61|61|61|61|61|61|61|61|61|61|
+|8,2<br>|600|51|57|61|64|65|65|65|65|65|65|65|65|65|65|65|65|
+|8,2<br>|500|53|60|65|68|70|70|70|70|70|70|70|70|70|70|70|70|
+|8,2<br>|400|53|62|68|72|74|74|74|74|74|74|74|74|74|74|74|74|
+|8,2<br>|350|53|63|71|75|77|77|77|77|77|77|77|77|77|77|77|77|
+|8,2<br>|300|53|65|74|79|81|81|81|81|81|81|81|81|81|81|81|81|
+|8,2<br>|250|53|67|78|84|86|86|86|86|86|86|86|86|86|86|86|86|
+|8,2<br>|200|53|71|84|92|95|95|95|95|95|95|95|95|95|95|95|95|
+|8,2<br>|180|53|73|87|96|100|100|100|100|100|100|100|100|100|100|100|100|
+|8,2<br>|160|53|75|92|102|105|105|105|105|105|105|105|105|105|105|105|105|
+|8,2<br>|150|55|79|97|107|111|111|111|111|111|111|111|111|111|111|111|111|
+|8,5|>1000|43|43|43|43|43|43|ni=4,25|ni=4,25|ni=4,25|ni=4,25|ni=4,25|ni=4,25|ni=4,25|ni=4,25|ni=4,25|ni=4,25|
+|8,5|1000|47|51|53|55|56|56|56|56|56|56|56|56|56|56|56|56|
+|8,5|800|49|54|57|59|60|60|60|60|60|60|60|60|60|60|60|60|
+|8,5|700|49|54|58|61|62|62|62|62|62|62|62|62|62|62|62|62|
+|8,5|600|51|57|62|65|66|66|66|66|66|66|66|66|66|66|66|66|
+|8,5|500|53|60|66|69|71|71|71|71|71|71|71|71|71|71|71|71|
+|8,5|400|53|62|69|73|75|75|75|75|75|75|75|75|75|75|75|75|
+|8,5|350|53|64|71|76|79|79|79|79|79|79|79|79|79|79|79|79|
+|8,5|300|53|65|75|80|83|83|83|83|83|83|83|83|83|83|83|83|
+|8,5|250|53|68|78|86|89|89|89|89|89|89|89|89|89|89|89|89|
+|8,5|200|53|72|85|94|98|98|98|98|98|98|98|98|98|98|98|98|
+|8,5|180|53|74|89|99|103|103|103|103|103|103|103|103|103|103|103|103|
+|8,5|160|53|76|93|104|109|109|109|109|109|109|109|109|109|109|109|109|
+|8,5|150|55|80|99|110|115|116|116|116|116|116|116|116|116|116|116|116|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|
+|9|>1000|43|43|43|43|43|43|ni=4,5|ni=4,5|ni=4,5|ni=4,5|ni=4,5|ni=4,5|ni=4,5|ni=4,5|ni=4,5|ni=4,5|
+|9|1000|47|51|54|56|57|57|57|57|57|57|57|57|57|57|57|57|
+|9|800|49|54|58|60|61|61|61|61|61|61|61|61|61|61|61|61|
+|9|700|49|55|59|62|63|63|63|63|63|63|63|63|63|63|63|63|
+|9|600|51|58|63|66|68|68|68|68|68|68|68|68|68|68|68|68|
+|9|500|53|61|67|71|73|74|74|74|74|74|74|74|74|74|74|74|
+|9|400|53|63|70|75|78|79|79|79|79|79|79|79|79|79|79|79|
+|9|350|53|64|73|79|81|82|82|82|82|82|82|82|82|82|82|82|
+|9|300|53|66|76|83|86|87|87|87|87|87|87|87|87|87|87|87|
+|9|250|53|69|81|89|93|93|93|93|93|93|93|93|93|93|93|93|
+|9|200|53|73|88|98|103|103|103|103|103|103|103|103|103|103|103|103|
+|9|180|53|75|92|103|108|109|109|109|109|109|109|109|109|109|109|109|
+|9|160|53|78|97|109|115|116|116|116|116|116|116|116|116|116|116|116|
+|9|150|55|82|102|115|122|123|123|123|123|123|123|123|123|123|123|123|
+|9,5|>1000|43|43|43|43|43|43|ni=4,75|ni=4,75|ni=4,75|ni=4,75|ni=4,75|ni=4,75|ni=4,75|ni=4,75|ni=4,75|ni=4,75|
+|9,5|1000|47|51|54|57|58|59|59|59|59|59|59|59|59|59|59|59|
+|9,5|800|49|54|58|61|63|63|63|63|63|63|63|63|63|63|63|63|
+|9,5|700|49|55|60|63|65|65|65|65|65|65|65|65|65|65|65|65|
+|9,5|600|61|58|63|67|69|70|70|70|70|70|70|70|70|70|70|70|
+|9,5|500|53|61|68|72|75|75|75|75|75|75|75|75|75|75|75|75|
+|9,5|400|53|63|72|77|80|81|81|81|81|81|81|81|81|81|81|81|
+|9,5|350|53|65|74|81|84|85|85|85|85|85|85|85|85|85|85|85|
+|9,5|300|53|67|78|85|90|90|90|90|90|90|90|90|90|90|90|90|
+|9,5|250|53|70|83|92|97|98|98|98|98|98|98|98|98|98|98|98|
+|9,5|200|53|74|90|102|108|109|109|109|109|109|109|109|109|109|109|109|
+|9,5|180|53|76|95|107|114|116|116|116|116|116|116|116|116|116|116|116|
+|9,5|160|53|79|100|114|122|123|123|123|123|123|123|123|123|123|123|123|
+|9,5|150|55|84|105|120|129|131|131|131|131|131|131|131|131|131|131|131|
+|10|>1000|43|43|43|43|43|43|-|-|-|-|-|-|-|-|-|-|
+|10|1000|46|51|55|56|59|59|59|59|59|59|59|59|59|59|59|59|
+|10|800|49|54|59|62|64|64|64|64|64|64|64|64|64|64|64|64|
+|10|700|49|55|60|64|66|67|67|67|67|67|67|67|67|67|67|67|
+|10|600|51|58|64|68|71|72|72|72|72|72|72|72|72|72|72|72|
+|10|500|53|62|69|74|77|78|78|78|78|78|78|78|78|78|78|78|
+|10|400|53|64|73|79|83|84|84|84|84|84|84|84|84|84|84|84|
+|10|350|53|66|76|83|87|89|89|89|89|89|89|89|89|89|89|89|
+|10|300|53|68|80|88|93|95|95|95|95|95|95|95|95|95|95|95|
+|10|250|53|72|85|95|101|103|103|103|103|103|103|103|103|103|103|103|
+|10|200|53|75|93|105|113|115|115|115|115|115|115|115|115|115|115|115|
+|10|180|53|78|97|111|120|122|122|122|122|122|122|122|122|122|122|122|
+|10|160|53|81|103|119|128|131|131|131|131|131|131|131|131|131|131|131|
+|10|150|55|85|106|123|133|136|136|136|136|136|136|136|136|136|136|136|
+|10,2|>1000|43|43|43|43|43|43|43|ni=5,1|ni=5,1|ni=5,1|ni=5,1|ni=5,1|ni=5,1|ni=5,1|ni=5,1|ni=5,1|
+|10,2|1000|47|51|55|58|59|60|60|60|60|60|60|60|60|60|60|60|
+|10,2|800|49|55|59|62|64|65|65|65|65|65|65|65|65|65|65|65|
+|10,2|700|49|55|61|64|67|67|67|67|67|67|67|67|67|67|67|67|
+|10,2|600|51|59|65|69|72|73|73|73|73|73|73|73|73|73|73|73|
+|10,2|500|53|62|69|74|78|79|79|79|79|79|79|79|79|79|79|79|
+|10,2|400|53|64|73|80|84|85|85|85|85|85|85|85|85|85|85|85|
+|10,2|350|53|66|76|84|88|90|90|90|90|90|90|90|90|90|90|90|
+|10,2|300|53|68|80|89|94|96|96|96|96|96|96|96|96|96|96|96|
+|10,2|250|53|71|86|96|102|105|105|105|105|105|105|105|105|105|105|105|
+|10,2|200|53|76|94|107|115|118|118|118|118|118|118|118|118|118|118|118|
+|10,2|180|53|78|98|113|122|125|125|125|125|125|125|125|125|125|125|125|
+|10,2|160|53|82|104|120|130|134|134|134|134|134|134|134|134|134|134|134|
+|10,2|150|55|86|110|127|138|142|142|142|142|142|142|142|142|142|142|142|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|Col19|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15||
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|
+|10,4|>1000|43|43|43|43|43|43|43|ni=5,2|ni=5,2|ni=5,2|ni=5,2|ni=5,2|ni=5,2|ni=5,2|ni=5,2|ni=5,2|ni=5,2|
+|10,4|1000|47|52|55|58|60|60|60|60|60|60|60|60|60|60|60|60|60|
+|10,4|800|49|55|59|63|65|66|66|66|66|66|66|66|66|66|66|66|66|
+|10,4|700|49|56|61|65|67|68|68|68|68|68|68|68|68|68|68|68|68|
+|10,4|600|51|59|65|69|72|73|73|73|73|73|73|73|73|73|73|73|73|
+|10,4|500|53|62|70|75|78|80|80|80|80|80|80|80|80|80|80|80|80|
+|10,4|400|53|65|74|81|85|87|87|87|87|87|87|87|87|87|87|87|87|
+|10,4|350|53|66|77|85|89|91|91|91|91|91|91|91|91|91|91|91|91|
+|10,4|300|53|69|81|90|96|98|98|98|98|98|98|98|98|98|98|98|98|
+|10,4|250|53|72|86|97|104|107|107|107|107|107|107|107|107|107|107|107|107|
+|10,4|200|53|76|95|108|117|120|120|120|120|120|120|120|120|120|120|120|120|
+|10,4|180|53|79|100|115|124|128|128|128|128|128|128|128|128|128|128|128|128|
+|10,4|160|53|82|105|122|133|137|137|137|137|137|137|137|137|137|137|137|137|
+|10,4|150|55|87|111|129|141|145|145|145|145|145|145|145|145|145|145|145|145|
+|10,5|>1000|43|43|43|43|43|43|43|ni=5,25|ni=5,25|ni=5,25|ni=5,25|ni=5,25|ni=5,25|ni=5,25|ni=5,25|ni=5,25|ni=5,25|
+|10,5|1000|47|52|55|58|60|61|61|61|61|61|61|61|61|61|61|61|61|
+|10,5|800|49|55|59|63|65|66|66|66|66|66|66|66|66|66|66|66|66|
+|10,5|700|49|56|61|65|67|68|68|68|68|68|68|68|68|68|68|68|68|
+|10,5|600|51|59|65|70|73|74|74|74|74|74|74|74|74|74|74|74|74|
+|10,5|500|53|62|70|75|79|80|80|80|80|80|80|80|80|80|80|80|80|
+|10,5|400|53|65|74|81|85|87|87|87|87|87|87|87|87|87|87|87|87|
+|10,5|350|53|66|77|85|90|92|92|92|92|92|92|92|92|92|92|92|92|
+|10,5|300|53|69|81|90|96|99|99|99|99|99|99|99|99|99|99|99|99|
+|10,5|250|53|73|87|98|105|108|108|108|108|108|108|108|108|108|108|108|108|
+|10,5|200|53|77|95|109|118|122|122|122|122|122|122|122|122|122|122|122|122|
+|10,5|180|53|79|100|115|125|129|129|129|129|129|129|129|129|129|129|129|129|
+|10,5|160|53|83|106|123|134|139|139|139|139|139|139|139|139|139|139|139|139|
+|10,5|150|55|87|112|130|142|147|147|147|147|147|147|147|147|147|147|147|147|
+|11|>1000|43|43|43|43|43|43|43|ni=5,5|ni=5,5|ni=5,5|ni=5,5|ni=5,5|ni=5,5|ni=5,5|ni=5,5|ni=5,5|ni=5,5|
+|11|1000|47|52|56|59|61|62|62|62|62|62|62|62|62|62|62|62|62|
+|11|800|49|55|60|64|66|68|68|68|68|68|68|68|68|68|68|68|68|
+|11|700|49|56|62|66|69|70|70|70|70|70|70|70|70|70|70|70|70|
+|11|600|51|59|66|71|74|76|76|76|76|76|76|76|76|76|76|76|76|
+|11|500|53|63|71|77|81|83|83|83|83|83|83|83|83|83|83|83|83|
+|11|400|53|65|75|83|88|90|91|91|91|91|91|91|91|91|91|91|91|
+|11|350|53|67|79|87|93|96|96|96|96|96|96|96|96|96|96|96|96|
+|11|300|53|70|83|93|100|103|103|103|103|103|103|103|103|103|103|103|103|
+|11|250|53|73|89|101|109|113|113|113|113|113|113|113|113|113|113|113|113|
+|11|200|53|78|98|113|123|128|128|128|128|128|128|128|128|128|128|128|128|
+|11|180|53|81|103|120|131|136|137|137|137|137|137|137|137|137|137|137|137|
+|11|160|53|84|109|128|140|147|147|147|147|147|147|147|147|147|147|147|147|
+|11|150|55|89|115|135|149|155|156|156|156|156|156|156|156|156|156|156|156|
+|11,2|>1000|43|43|43|43|43|43|43|ni=5,6|ni=5,6|ni=5,6|ni=5,6|ni=5,6|ni=5,6|ni=5,6|ni=5,6|ni=5,6|ni=5,6|
+|11,2|1000|47|52|56|59|61|62|63|63|63|63|63|63|63|63|63|63|63|
+|11,2|800|49|55|60|64|67|68|68|68|68|68|68|68|68|68|68|68|68|
+|11,2|700|49|56|62|66|69|71|71|71|71|71|71|71|71|71|71|71|71|
+|11,2|600|51|59|66|71|75|77|77|77|77|77|77|77|77|77|77|77|77|
+|11,2|500|53|63|71|77|82|84|84|84|84|84|84|84|84|84|84|84|84|
+|11,2|400|53|66|76|84|89|92|92|92|92|92|92|92|92|92|92|92|92|
+|11,2|350|53|67|79|88|94|97|98|98|98|98|98|98|98|98|98|98|98|
+|11,2|300|53|70|84|94|101|105|105|105|105|105|105|105|105|105|105|105|105|
+|11,2|250|53|73|90|102|110|114|116|116|116|116|116|116|116|116|116|116|116|
+|11,2|200|53|78|99|114|125|130|131|131|131|131|131|131|131|131|131|131|131|
+|11,2|180|53|81|104|121|133|139|140|140|140|140|140|140|140|140|140|140|140|
+|11,2|160|53|85|110|130|143|150|151|151|151|151|151|151|151|151|151|151|151|
+|11,2|150|55|89|117|137|151|158|160|160|160|160|160|160|160|160|160|160|160|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|
+|11,4|>1000|43|43|43|43|43|43|43|ni=5,7|ni=5,7|ni=5,7|ni=5,7|ni=5,7|ni=5,7|ni=5,7|ni=5,7|ni=5,7|
+|11,4|1000|47|52|56|59|62|63|63|63|63|63|63|63|63|63|63|63|
+|11,4|800|49|55|61|65|67|69|69|69|69|69|69|69|69|69|69|69|
+|11,4|700|49|56|62|67|70|72|72|72|72|72|72|72|72|72|72|72|
+|11,4|600|51|60|67|72|77|78|78|78|78|78|78|78|78|78|78|78|
+|11,4|500|53|63|72|78|82|85|85|85|85|85|85|85|85|85|85|85|
+|11,4|400|53|66|77|84|90|93|93|93|93|93|93|93|93|93|93|93|
+|11,4|350|53|68|80|89|95|99|98|98|98|98|98|98|98|98|98|98|
+|11,4|300|53|70|84|95|102|106|107|107|107|107|107|107|107|107|107|107|
+|11,4|250|53|74|90|103|110|117|118|118|118|118|118|118|118|118|118|118|
+|11,4|200|53|79|100|116|127|133|134|134|134|134|134|134|134|134|134|134|
+|11,4|180|53|82|105|123|135|142|143|143|143|143|143|143|143|143|143|143|
+|11,4|160|53|84|112|132|145|153|154|154|154|154|154|154|154|154|154|154|
+|11,4|150|55|90|118|139|154|162|164|164|164|164|164|164|164|164|164|164|
+|11,5|>1000|43|43|43|43|43|43|43|ni=5,75|ni=5,75|ni=5,75|ni=5,75|ni=5,75|ni=5,75|ni=5,75|ni=5,75|ni=5,75|
+|11,5|1000|47|52|56|60|62|63|63|63|63|63|63|63|63|63|63|63|
+|11,5|800|49|55|61|65|68|69|70|70|70|70|70|70|70|70|70|70|
+|11,5|700|49|56|62|67|70|72|72|72|72|72|72|72|72|72|72|72|
+|11,5|600|51|60|67|72|76|78|78|78|78|78|78|78|78|78|78|78|
+|11,5|500|53|63|72|78|83|85|86|86|86|86|86|86|86|86|86|86|
+|11,5|400|53|66|77|85|90|93|94|94|94|94|94|94|94|94|94|94|
+|11,5|350|53|68|80|89|96|99|100|100|100|100|100|100|100|100|100|100|
+|11,5|300|53|71|85|95|103|107|108|108|108|108|108|108|108|108|108|108|
+|11,5|250|53|74|91|104|113|118|119|119|119|119|119|119|119|119|119|119|
+|11,5|200|53|79|100|117|128|134|136|136|136|136|136|136|136|136|136|136|
+|11,5|180|53|82|106|124|136|143|145|145|145|145|145|145|145|145|145|145|
+|11,5|160|53|86|112|133|147|154|156|156|156|156|156|156|156|156|156|156|
+|11,5|150|55|90|119|140|155|164|166|166|166|166|166|166|166|166|166|166|
+|11,8|>1000|43|43|43|43|43|43|43|ni=5,9|ni=5,9|ni=5,9|ni=5,9|ni=5,9|ni=5,9|ni=5,9|ni=5,9|ni=5,9|
+|11,8|1000|47|52|57|60|62|64|64|64|64|64|64|64|64|64|64|64|
+|11,8|800|49|56|61|65|68|70|71|71|71|71|71|71|71|71|71|71|
+|11,8|700|49|57|63|68|71|73|74|74|74|74|74|74|74|74|74|74|
+|11,8|600|51|60|67|73|77|79|80|80|80|80|80|80|80|80|80|80|
+|11,8|500|53|64|72|79|84|87|88|88|88|88|88|88|88|88|88|88|
+|11,8|400|53|65|77|86|92|95|96|96|96|96|96|96|96|96|96|96|
+|11,8|350|53|68|81|91|97|101|103|103|103|103|103|103|103|103|103|103|
+|11,8|300|53|71|86|97|105|110|111|111|111|111|111|111|111|111|111|111|
+|11,8|250|53|74|91|106|115|121|122|122|122|122|122|122|122|122|122|122|
+|11,8|200|53|80|102|119|131|138|140|140|140|140|140|140|140|140|140|140|
+|11,8|180|53|83|107|126|139|147|150|150|150|150|150|150|150|150|150|150|
+|11,8|160|53|87|114|135|150|159|162|162|162|162|162|162|162|162|162|162|
+|11,8|150|55|91|121|143|159|169|171|171|171|171|171|171|171|171|171|171|
+|12|>1000|43|43|43|43|43|43|43|ni=6|ni=6|ni=6|ni=6|ni=6|ni=6|ni=6|ni=6|ni=6|
+|12|1000|47|52|57|60|63|64|65|65|65|65|65|65|65|65|65|65|
+|12|800|49|56|61|66|69|71|71|71|71|71|71|71|71|71|71|71|
+|12|700|49|57|63|68|72|74|75|75|75|75|75|75|75|75|75|75|
+|12|600|51|60|68|73|78|80|81|81|81|81|81|81|81|81|81|81|
+|12|500|53|64|73|80|85|88|89|89|89|89|89|89|89|89|89|89|
+|12|400|53|67|78|87|93|97|98|98|98|98|98|98|98|98|98|98|
+|12|350|53|69|81|91|99|103|104|104|104|104|104|104|104|104|104|104|
+|12|300|53|71|86|98|106|111|113|113|113|113|113|113|113|113|113|113|
+|12|250|53|75|93|107|117|123|125|125|125|125|125|125|125|125|125|125|
+|12|200|53|80|103|120|133|140|143|143|143|143|143|143|143|143|143|143|
+|12|180|53|83|108|128|142|150|153|153|153|153|153|153|153|153|153|153|
+|12|160|53|87|115|137|153|162|165|165|165|165|165|165|165|165|165|165|
+|12|150|55|92|122|145|162|172|175|175|175|175|175|175|175|175|175|175|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|
+|12,2|>1000|43|43|43|43|43|43|43|43|ni=6,1|ni=6,1|ni=6,1|ni=6,1|ni=6,1|ni=6,1|ni=6,1|ni=6,1|
+|12,2|1000|47|52|57|61|63|65|65|65|65|65|65|65|65|65|65|65|
+|12,2|800|49|56|62|66|69|71|72|72|72|72|72|72|72|72|72|72|
+|12,2|700|49|57|63|69|72|75|75|75|75|75|75|75|75|75|75|75|
+|12,2|600|51|60|68|74|78|81|82|82|82|82|82|82|82|82|82|82|
+|12,2|500|53|64|73|80|86|89|90|90|90|90|90|90|90|90|90|90|
+|12,2|400|53|67|78|87|94|98|99|99|99|99|99|99|99|99|99|99|
+|12,2|350|53|69|82|92|100|104|106|106|106|106|106|106|106|106|106|106|
+|12,2|300|53|72|67|99|108|113|115|115|115|115|115|115|115|115|115|115|
+|12,2|250|53|75|94|108|118|125|127|127|127|127|127|127|127|127|127|127|
+|12,2|200|53|81|104|122|135|143|146|146|146|146|146|146|146|146|146|146|
+|12,2|180|53|84|110|130|144|153|156|156|156|156|156|156|156|156|156|156|
+|12,2|160|53|88|117|139|155|165|169|169|169|169|169|169|169|169|169|169|
+|12,2|150|55|93|123|157|165|175|179|179|179|179|179|179|179|179|179|179|
+|12,5|>1000|43|43|43|43|43|43|43|43|ni=6,25|ni=6,25|ni=6,25|ni=6,25|ni=6,25|ni=6,25|ni=6,25|ni=6,25|
+|12,5|1000|47|53|57|61|64|66|66|66|66|66|66|66|66|66|66|66|
+|12,5|800|49|56|62|67|70|72|73|73|73|73|73|73|73|73|73|73|
+|12,5|700|49|57|64|69|73|76|77|77|77|77|77|77|77|77|77|77|
+|12,5|600|51|60|68|75|79|82|83|83|83|83|83|83|83|83|83|83|
+|12,5|500|53|64|74|81|87|90|92|92|92|92|92|92|92|92|92|92|
+|12,5|400|53|67|79|88|95|100|102|102|102|102|102|102|102|102|102|102|
+|12,5|350|53|69|83|94|101|106|109|109|109|109|109|109|109|109|109|109|
+|12,5|300|53|72|88|100|109|115|118|118|118|118|118|118|118|118|118|118|
+|12,5|250|53|76|95|110|121|128|131|131|131|131|131|131|131|131|131|131|
+|12,5|200|53|82|105|124|138|147|150|150|150|150|150|150|150|150|150|150|
+|12,5|180|53|85|111|132|147|157|161|161|161|161|161|161|161|161|161|161|
+|12,5|160|53|88|119|142|159|170|175|175|175|175|175|175|175|175|175|175|
+|12,5|150|55|94|125|150|169|180|185|186|186|186|186|186|186|186|186|186|
+|12,8|>1000|43|43|43|43|43|43|43|43|ni=6,4|ni=6,4|ni=6,4|ni=6,4|ni=6,4|ni=6,4|ni=6,4|ni=6,4|
+|12,8|1000|47|53|58|62|64|66|67|67|67|67|67|67|67|67|67|67|
+|12,8|800|49|56|62|67|71|73|74|74|74|74|74|74|74|74|74|74|
+|12,8|700|49|57|64|70|74|77|78|78|78|78|78|78|78|78|78|78|
+|12,8|600|51|60|69|75|80|83|85|85|85|85|85|85|85|85|85|85|
+|12,8|500|53|65|74|82|88|92|94|94|94|94|94|94|94|94|94|94|
+|12,8|400|53|67|80|90|97|102|104|104|104|104|104|104|104|104|104|104|
+|12,8|350|53|70|84|95|103|109|111|111|111|111|111|111|111|111|111|111|
+|12,8|300|53|72|89|102|112|118|121|121|121|121|121|121|121|121|121|121|
+|12,8|250|53|76|96|112|123|131|134|135|135|135|135|135|135|135|135|135|
+|12,8|200|53|82|107|126|141|150|155|155|155|155|155|155|155|155|155|155|
+|12,8|180|53|85|113|135|151|161|166|167|167|167|167|167|167|167|167|167|
+|12,8|160|53|89|120|145|163|175|180|180|180|180|180|180|180|180|180|180|
+|12,8|150|55|95|127|153|173|185|191|192|192|192|192|192|192|192|192|192|
+|13|>1000|43|43|43|43|43|43|43|43|ni=6,5|ni=6,5|ni=6,5|ni=6,5|ni=6,5|ni=6,5|ni=6,5|ni=6,5|
+|13|1000|47|53|58|62|65|67|68|68|68|68|68|68|68|68|68|68|
+|13|800|49|56|63|68|71|74|75|75|75|75|75|75|75|75|75|75|
+|13|700|49|57|65|70|75|77|79|80|80|80|80|80|80|80|80|80|
+|13|600|51|61|69|76|81|84|86|86|86|86|86|86|86|86|86|86|
+|13|500|53|65|75|83|89|93|95|95|95|95|95|95|95|95|95|95|
+|13|400|53|68|80|90|98|103|105|106|106|106|106|106|106|106|106|106|
+|13|350|53|70|84|96|104|110|113|113|113|113|113|113|113|113|113|113|
+|13|300|53|73|90|103|113|120|123|123|123|123|123|123|123|123|123|123|
+|13|250|53|77|97|113|125|133|137|137|137|137|137|137|137|137|137|137|
+|13|200|53|83|108|128|143|153|158|158|158|158|158|158|158|158|158|158|
+|13|180|53|86|114|136|153|164|170|170|170|170|170|170|170|170|170|170|
+|13|160|53|90|122|147|165|178|184|184|184|184|184|184|184|184|184|184|
+|13|150|55|95|127|155|175|189|195|196|196|196|196|196|196|196|196|196|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|
+|13,2|>1000|43|43|43|43|43|43|43|43|ni=6,6|ni=6,6|ni=6,6|ni=6,6|ni=6,6|ni=6,6|ni=6,6|ni=6,6|
+|13,2|1000|47|53|58|62|65|67|68|69|69|69|69|69|69|69|69|69|
+|13,2|800|49|57|63|68|72|75|76|76|76|76|76|76|76|76|76|76|
+|13,2|700|49|58|65|71|75|78|80|80|80|80|80|80|80|80|80|80|
+|13,2|600|61|61|70|76|82|85|87|87|87|87|87|87|87|87|87|87|
+|13,2|500|53|65|75|83|90|94|96|96|96|96|96|96|96|96|96|96|
+|13,2|400|53|68|81|92|99|104|107|107|107|107|107|107|107|107|107|107|
+|13,2|350|53|70|85|97|105|111|115|115|115|115|115|115|115|115|115|115|
+|13,2|300|53|73|90|104|114|121|125|125|125|125|125|125|125|125|125|125|
+|13,2|250|53|77|98|114|126|135|139|140|140|140|140|140|140|140|140|140|
+|13,2|200|53|83|109|129|145|155|161|162|162|162|162|162|162|162|162|162|
+|13,2|180|53|87|115|138|155|167|173|174|174|174|174|174|174|174|174|174|
+|13,2|160|53|91|123|148|168|181|188|189|189|189|189|189|189|189|189|189|
+|13,2|150|65|96|130|157|178|191|199|201|201|201|201|201|201|201|201|201|
+|13,5|>1000|43|43|43|43|43|43|43|43|ni=6,75|ni=6,75|ni=6,75|ni=6,75|ni=6,75|ni=6,75|ni=6,75|ni=6,75|
+|13,5|1000|47|53|58|63|66|68|69|70|70|70|70|70|70|70|70|70|
+|13,5|800|49|57|63|69|73|75|77|77|77|77|77|77|77|77|77|77|
+|13,5|700|49|58|65|71|76|79|81|81|81|81|81|81|81|81|81|81|
+|13,5|600|51|61|70|77|83|86|88|89|89|89|89|89|89|89|89|89|
+|13,5|500|53|65|76|84|91|95|98|98|98|98|98|98|98|98|98|98|
+|13,5|400|53|68|82|92|100|106|109|110|110|110|110|110|110|110|110|110|
+|13,5|350|53|71|86|98|107|114|117|118|118|118|118|118|118|118|118|118|
+|13,5|300|53|74|91|105|116|124|128|129|129|129|129|129|129|129|129|129|
+|13,5|250|53|78|99|116|129|138|143|144|144|144|144|144|144|144|144|144|
+|13,5|200|53|84|110|132|148|159|165|167|167|167|167|167|167|167|167|167|
+|13,5|180|53|88|117|140|158|171|178|179|179|179|179|179|179|179|179|179|
+|13,5|160|53|92|125|151|172|186|193|195|195|195|195|195|195|195|195|195|
+|13,5|150|55|97|132|160|182|197|205|207|207|207|207|207|207|207|207|207|
+|13,8|>1000|43|43|43|43|43|43|43|43|ni=6,9|ni=6,9|ni=6,9|ni=6,9|ni=6,9|ni=6,9|ni=6,9|ni=6,9|
+|13,8|1000|47|53|59|63|66|69|70|71|71|71|71|71|71|71|71|71|
+|13,8|800|49|57|64|69|73|76|78|79|79|79|79|79|79|79|79|79|
+|13,8|700|49|58|66|72|77|80|82|83|83|83|83|83|83|83|83|83|
+|13,8|600|51|62|71|78|84|88|90|91|91|91|91|91|91|91|91|91|
+|13,8|500|53|66|76|85|92|97|100|100|100|100|100|100|100|100|100|100|
+|13,8|400|53|69|82|93|102|108|111|112|112|112|112|112|112|112|112|112|
+|13,8|350|53|71|87|99|109|116|120|121|121|121|121|121|121|121|121|121|
+|13,8|300|53|74|92|107|118|126|131|132|132|132|132|132|132|132|132|132|
+|13,8|250|53|78|100|118|131|141|146|148|148|148|148|148|148|148|148|148|
+|13,8|200|53|85|112|134|151|163|170|172|172|172|172|172|172|172|172|172|
+|13,8|180|53|88|118|143|162|175|183|185|185|185|185|185|185|185|185|185|
+|13,8|160|53|93|127|154|175|190|199|202|202|202|202|202|202|202|202|202|
+|13,8|150|55|98|134|163|186|202|211|214|214|214|214|214|214|214|214|214|
+|14|>1000|43|43|43|43|43|43|43|43|-|-|-|-|-|-|-|-|
+|14|1000|47|53|59|63|67|69|71|71|71|71|71|71|71|71|71|71|
+|14|800|49|57|64|69|74|77|79|79|79|79|79|79|79|79|79|79|
+|14|700|49|58|66|72|77|81|83|84|84|84|84|84|84|84|84|84|
+|14|600|51|62|71|78|84|88|91|92|92|92|92|92|92|92|92|92|
+|14|500|53|66|77|86|93|98|101|102|102|102|102|102|102|102|102|102|
+|14|400|53|69|83|94|103|109|113|114|114|114|114|114|114|114|114|114|
+|14|350|53|71|87|100|110|117|121|123|123|123|123|123|123|123|123|123|
+|14|300|53|75|93|108|120|128|133|135|135|135|135|135|135|135|135|135|
+|14|250|53|79|101|119|133|143|149|151|151|151|151|151|151|151|151|151|
+|14|200|53|85|113|135|153|165|173|175|175|175|175|175|175|175|175|175|
+|14|180|53|89|120|145|164|178|186|189|189|189|189|189|189|189|189|189|
+|14|160|53|93|128|156|178|193|203|206|206|206|206|206|206|206|206|206|
+|14|150|55|99|135|165|189|205|215|219|219|219|219|219|219|219|219|219|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|
+|14,5|>1000|43|43|43|43|43|43|43|43|43|ni=7,25|ni=7,25|ni=7,25|ni=7,25|ni=7,25|ni=7,25|ni=7,25|
+|14,5|1000|47|54|59|64|68|71|72|73|73|73|73|73|73|73|73|73|
+|14,5|800|49|57|64|70|75|79|81|82|82|82|82|82|82|82|82|82|
+|14,5|700|49|59|67|74|79|83|85|86|86|86|86|86|86|86|86|86|
+|14,5|600|51|62|72|80|86|90|93|95|95|95|95|95|95|95|95|95|
+|14,5|500|53|66|78|87|95|100|104|105|105|105|105|105|105|105|105|105|
+|14,5|400|53|70|84|96|105|112|117|118|118|118|118|118|118|118|118|118|
+|14,5|350|53|72|89|102|113|121|126|128|128|128|128|128|128|128|128|128|
+|14,5|300|53|75|95|110|123|132|138|140|140|140|140|140|140|140|140|140|
+|14,5|250|53|80|103|122|137|148|155|158|158|158|158|158|158|158|158|158|
+|14,5|200|53|87|115|139|158|172|180|184|184|184|184|184|184|184|184|184|
+|14,5|180|53|90|122|149|170|185|195|199|199|199|199|199|199|199|199|199|
+|14,5|160|53|96|131|161|184|201|212|217|217|217|217|217|217|217|217|217|
+|14,5|150|55|100|139|170|195|214|225|230|231|231|231|231|231|231|231|231|
+|14,8|>1000|43|43|43|43|43|43|43|43|43|ni=7,4|ni=7,4|ni=7,4|ni=7,4|ni=7,4|ni=7,4|ni=7,4|
+|14,8|1000|47|54|60|65|68|71|73|74|74|74|74|74|74|74|74|74|
+|14,8|800|49|58|65|71|76|79|82|83|83|83|83|83|83|83|83|83|
+|14,8|700|49|59|67|74|80|84|87|88|88|88|88|88|88|88|88|88|
+|14,8|600|51|62|72|80|87|92|95|96|96|96|96|96|96|96|96|96|
+|14,8|500|53|67|78|88|96|102|106|107|108|108|108|108|108|108|108|108|
+|14,8|400|53|70|85|97|107|114|119|121|121|121|121|121|121|121|121|121|
+|14,8|350|53|73|89|103|115|123|128|131|131|131|131|131|131|131|131|131|
+|14,8|300|53|76|96|112|125|135|141|144|144|144|144|144|144|144|144|144|
+|14,8|250|53|80|104|124|139|151|158|162|162|162|162|162|162|162|162|162|
+|14,8|200|53|87|117|141|161|175|185|189|190|190|190|190|190|190|190|190|
+|14,8|180|53|96|124|151|173|189|200|205|205|205|205|205|205|205|205|205|
+|14,8|160|53|96|133|163|188|206|218|223|224|224|224|224|224|224|224|224|
+|14,8|150|55|101|141|173|199|219|231|237|238|238|238|238|238|238|238|238|
+|15|>1000|43|43|43|43|43|43|43|43|43|ni=7,5|ni=7,5|ni=7,5|ni=7,5|ni=7,5|ni=7,5|ni=7,5|
+|15|1000|47|54|60|65|69|72|74|75|75|75|75|75|75|75|75|75|
+|15|800|49|58|65|71|76|80|83|84|84|84|84|84|84|84|84|84|
+|15|700|49|59|67|75|80|85|87|89|89|89|89|89|89|89|89|89|
+|15|600|51|63|73|81|88|93|96|98|98|98|98|98|98|98|98|98|
+|15|500|53|67|79|89|97|103|107|109|109|109|109|109|109|109|109|109|
+|15|400|53|70|85|98|108|115|120|123|123|123|123|123|123|123|123|123|
+|15|350|53|73|90|104|116|124|130|133|133|133|133|133|133|133|133|133|
+|15|300|53|76|96|113|126|136|143|146|146|146|146|146|146|146|146|146|
+|15|250|53|81|105|125|141|153|161|165|165|165|165|165|165|165|165|165|
+|15|200|53|88|118|143|163|173|188|193|193|193|193|193|193|193|193|193|
+|15|180|53|92|125|153|175|192|203|208|209|209|209|209|209|209|209|209|
+|15|160|53|97|134|165|190|209|222|228|229|229|229|229|229|229|229|229|
+|15|150|55|102|142|175|199|222|235|242|243|243|243|243|243|243|243|243|
+|15,2|>1000|43|43|43|43|43|43|43|43|43|ni=7,6|ni=7,6|ni=7,6|ni=7,6|ni=7,6|ni=7,6|ni=7,6|
+|15,2|1000|47|54|60|65|69|72|74|76|76|76|76|76|76|76|76|76|
+|15,2|800|49|58|65|72|77|81|83|85|85|85|85|85|85|85|85|85|
+|15,2|700|49|59|68|75|81|85|88|90|90|90|90|90|90|90|90|90|
+|15,2|600|51|63|73|81|88|93|97|99|99|99|99|99|99|99|99|99|
+|15,2|500|53|67|79|89|98|104|108|110|111|111|111|111|111|111|111|111|
+|15,2|400|53|71|86|99|109|117|122|125|125|125|125|125|125|125|125|125|
+|15,2|350|53|73|91|105|117|126|132|135|135|135|135|135|135|135|135|135|
+|15,2|300|53|77|97|114|128|138|145|149|149|149|149|149|149|149|149|149|
+|15,2|250|53|81|106|126|142|155|163|168|168|168|168|168|168|168|168|168|
+|15,2|200|53|88|119|144|165|180|191|196|197|197|197|197|197|197|197|197|
+|15,2|180|53|92|126|155|177|195|206|212|213|213|213|213|213|213|213|213|
+|15,2|160|53|97|138|167|193|212|225|232|233|233|233|233|233|233|233|233|
+|15,2|150|55|103|143|177|205|225|239|247|248|248|248|248|248|248|248|248|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|
+|15,4|>1000|43|43|43|43|43|43|43|43|43|ni=7,7|ni=7,7|ni=7,7|ni=7,7|ni=7,7|ni=7,7|ni=7,7|
+|15,4|1000|47|54|60|65|70|73|75|76|76|76|76|76|76|76|76|76|
+|15,4|800|49|58|66|72|77|81|84|86|86|86|86|86|86|86|86|86|
+|15,4|700|49|59|68|75|81|86|89|91|91|91|91|91|91|91|91|91|
+|15,4|600|51|63|73|82|89|94|98|100|100|100|100|100|100|100|100|100|
+|15,4|500|51|67|80|90|99|105|109|112|112|112|112|112|112|112|112|112|
+|15,4|400|53|71|86|99|110|118|123|126|127|127|127|127|127|127|127|127|
+|15,4|350|53|73|91|106|118|127|133|137|138|138|138|138|138|138|138|138|
+|15,4|300|53|77|98|115|129|140|147|151|152|152|152|152|152|152|152|152|
+|15,4|250|53|82|106|127|144|157|166|170|171|171|171|171|171|171|171|171|
+|15,4|200|53|89|120|146|167|183|194|200|201|201|201|201|201|201|201|201|
+|15,4|180|53|93|127|156|179|197|210|216|218|218|218|218|218|218|218|218|
+|15,4|160|53|98|137|169|195|215|229|237|238|238|238|238|238|238|238|238|
+|15,4|150|55|103|145|179|207|229|243|251|253|253|253|253|253|253|253|253|
+|15,5|>1000|43|43|43|43|43|43|43|43|43|ni=7,75|ni=7,75|ni=7,75|ni=7,75|ni=7,75|ni=7,75|ni=7,75|
+|15,5|1000|47|54|60|66|70|73|75|77|77|77|77|77|77|77|77|77|
+|15,5|800|49|58|66|72|78|81|84|86|86|86|86|86|86|86|86|86|
+|15,5|700|49|59|68|76|82|86|90|91|92|92|92|92|92|92|92|92|
+|15,5|600|51|63|73|82|89|95|98|100|101|101|101|101|101|101|101|101|
+|15,5|500|53|67|80|90|99|105|110|112|113|113|113|113|113|113|113|113|
+|15,5|400|53|71|87|100|110|118|124|127|128|128|128|128|128|128|128|128|
+|15,5|350|53|74|91|106|119|128|134|138|139|139|139|139|139|139|139|139|
+|15,5|300|53|77|98|115|130|140|148|152|153|153|153|153|153|153|153|153|
+|15,5|250|53|82|107|128|145|158|167|172|173|173|173|173|173|173|173|173|
+|15,5|200|53|89|120|146|168|184|195|202|203|203|203|203|203|203|203|203|
+|15,5|180|53|93|128|157|181|199|211|218|220|220|220|220|220|220|220|220|
+|15,5|160|53|98|137|170|197|217|231|239|241|241|241|241|241|241|241|241|
+|15,5|150|55|104|145|180|209|230|245|252|255|255|255|255|255|255|255|255|
+|15,6|>1000|43|43|43|43|43|43|43|43|43|ni=7,8|ni=7,8|ni=7,8|ni=7,8|ni=7,8|ni=7,8|ni=7,8|
+|15,6|1000|47|54|60|66|70|73|76|77|77|77|77|77|77|77|77|77|
+|15,6|800|49|58|66|72|78|82|85|87|87|87|87|87|87|87|87|87|
+|15,6|700|49|59|68|76|82|87|90|92|92|92|92|92|92|92|92|92|
+|15,6|600|51|63|74|82|90|95|99|101|102|102|102|102|102|102|102|102|
+|15,6|500|53|67|80|91|99|106|110|113|114|114|114|114|114|114|114|114|
+|15,6|400|53|71|87|100|111|119|125|128|129|129|129|129|129|129|129|129|
+|15,6|350|53|74|92|107|119|129|135|139|140|140|140|140|140|140|140|140|
+|15,6|300|53|77|98|116|130|141|149|153|154|154|154|154|154|154|154|154|
+|15,6|250|53|82|107|128|146|159|168|173|175|175|175|175|175|175|175|175|
+|15,6|200|53|89|121|147|169|185|197|203|205|205|205|205|205|205|205|205|
+|15,6|180|53|94|128|157|182|200|213|220|222|222|222|222|222|222|222|222|
+|15,6|160|53|98|138|171|198|218|233|241|243|243|243|243|243|243|243|243|
+|15,6|150|55|104|146|181|210|232|247|256|258|258|258|258|258|258|258|258|
+|16,0|>1000|43|43|43|43|43|43|43|43|43|-|-|-|-|-|-|-|
+|16,0|1000|47|54|61|66|71|74|77|78|79|79|79|79|79|79|79|79|
+|16,0|800|49|58|66|73|79|83|86|88|89|89|89|89|89|89|89|89|
+|16,0|700|49|60|69|77|83|88|92|94|95|95|95|95|95|95|95|95|
+|16,0|600|51|63|74|83|91|97|101|103|104|104|104|104|104|104|104|104|
+|16,0|500|53|68|81|92|101|108|113|116|117|117|117|117|117|117|117|117|
+|16,0|400|53|72|88|102|113|122|128|132|133|133|133|133|133|133|133|133|
+|16,0|350|53|74|93|109|121|131|139|143|144|144|144|144|144|144|144|144|
+|16,0|300|53|78|100|118|133|145|153|158|160|160|160|160|160|160|160|160|
+|16,0|250|53|83|109|131|149|163|173|179|181|181|181|181|181|181|181|181|
+|16,0|200|53|90|123|150|173|190|203|210|213|213|213|213|213|213|213|213|
+|16,0|180|53|95|131|161|186|206|220|228|231|231|231|231|231|231|231|231|
+|16,0|160|53|100|140|175|203|225|240|250|253|253|253|253|253|253|253|253|
+|16,0|150|55|105|149|185|215|239|255|265|269|269|269|269|269|269|269|269|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|
+|16,5|>1000|43|43|43|43|43|43|43|43|43|43|ni=8,25|ni=8,25|ni=8,25|ni=8,25|ni=8,25|ni=8,25|
+|16,5|1000|47|55|61|67|72|75|78|80|81|81|81|81|81|81|81|81|
+|16,5|800|49|59|67|74|80|85|88|90|91|91|91|91|91|91|91|91|
+|16,5|700|49|60|70|78|85|90|94|96|97|97|97|97|97|97|97|97|
+|16,5|600|51|64|75|85|93|99|103|106|108|108|108|108|108|108|108|108|
+|16,5|500|53|68|82|93|103|110|116|119|121|121|121|121|121|121|121|121|
+|16,5|400|53|72|89|103|115|125|132|136|138|138|138|138|138|138|138|138|
+|16,5|350|53|75|94|111|124|135|143|148|150|150|150|150|150|150|150|150|
+|16,5|300|53|79|101|120|136|149|158|164|166|166|166|166|166|166|166|166|
+|16,5|250|53|84|111|134|153|168|179|186|189|189|189|189|189|189|189|189|
+|16,5|200|53|92|125|154|178|197|210|219|223|223|223|223|223|223|223|223|
+|16,5|180|53|96|133|165|192|213|228|238|242|242|242|242|242|242|242|242|
+|16,5|160|53|101|143|179|209|233|250|261|265|266|266|266|266|266|266|266|
+|16,5|150|55|107|152|190|222|247|265|277|282|282|282|282|282|282|282|282|
+|17,0|>1000|43|43|43|43|43|43|43|43|43|43|ni=8,5|ni=8,5|ni=8,5|ni=8,5|ni=8,5|ni=8,5|
+|17,0|1000|47|55|62|68|73|77|80|82|83|83|83|83|83|83|83|83|
+|17,0|800|49|59|68|75|81|86|90|93|94|94|94|94|94|94|94|94|
+|17,0|700|49|60|70|79|86|92|96|99|100|100|100|100|100|100|100|100|
+|17,0|600|51|64|76|86|94|101|106|109|111|111|111|111|111|111|111|111|
+|17,0|500|53|69|83|95|105|113|119|123|125|125|125|125|125|125|125|125|
+|17,0|400|53|73|90|105|118|128|135|140|143|143|143|143|143|143|143|143|
+|17,0|350|53|76|96|113|127|139|147|153|156|156|156|156|156|156|156|156|
+|17,0|300|53|80|103|123|140|153|163|170|173|173|173|173|173|173|173|173|
+|17,0|250|53|85|113|137|157|173|185|193|197|197|197|197|197|197|197|197|
+|17,0|200|53|93|128|158|183|203|218|228|233|233|233|233|233|233|233|233|
+|17,0|180|53|97|136|170|197|220|236|247|253|254|254|254|254|254|254|254|
+|17,0|160|53|103|147|184|215|240|259|272|278|279|279|279|279|279|279|279|
+|17,0|150|55|109|155|195|229|255|275|289|295|296|296|296|296|296|296|296|
+|17,5|>1000|43|43|43|43|43|43|43|43|43|43|ni=8,75|ni=8,75|ni=8,75|ni=8,75|ni=8,75|ni=8,75|
+|17,5|1000|47|55|62|69|74|78|81|84|85|85|85|85|85|85|85|85|
+|17,5|800|49|59|68|76|83|88|92|95|96|97|97|97|97|97|97|97|
+|17,5|700|49|61|71|80|87|94|98|101|103|104|104|104|104|104|104|104|
+|17,5|600|51|65|77|87|96|103|108|112|114|115|115|115|115|115|115|115|
+|17,5|500|53|69|84|96|107|115|122|126|129|129|129|129|129|129|129|129|
+|17,5|400|53|73|92|107|120|131|139|145|148|149|149|149|149|149|149|149|
+|17,5|350|53|76|97|115|130|142|151|158|161|163|163|163|163|163|163|163|
+|17,5|300|53|80|105|125|143|157|168|175|180|180|180|180|180|180|180|180|
+|17,5|250|53|86|115|140|161|178|191|200|205|206|206|206|206|206|206|206|
+|17,5|200|53|94|130|162|188|209|225|237|243|244|244|244|244|244|244|244|
+|17,5|180|53|99|139|174|203|226|245|257|264|266|266|266|266|266|266|266|
+|17,5|160|53|104|150|189|222|248|268|283|290|292|292|292|292|292|292|292|
+|17,5|150|55|110|159|200|235|264|285|300|309|311|311|311|311|311|311|311|
+|18,0|>1000|43|43|43|43|43|43|43|43|43|43|-|-|-|-|-|-|
+|18,0|1000|47|55|63|69|75|79|83|85|87|87|87|87|87|87|87|87|
+|18,0|800|49|59|69|77|84|89|94|97|99|99|99|99|99|99|99|99|
+|18,0|700|49|61|72|81|89|95|100|104|106|107|107|107|107|107|107|107|
+|18,0|600|51|65|78|88|98|105|111|115|118|118|118|118|118|118|118|118|
+|18,0|500|53|70|85|98|109|118|125|130|133|134|134|134|134|134|134|134|
+|18,0|400|53|74|93|109|123|134|143|149|153|154|154|154|154|154|154|154|
+|18,0|350|53|77|99|117|133|146|156|163|167|169|169|169|169|169|169|169|
+|18,0|300|53|81|106|128|146|161|173|181|186|188|188|188|188|188|188|188|
+|18,0|250|53|87|117|143|165|183|197|207|213|215|215|215|215|215|215|215|
+|18,0|200|53|96|133|165|193|215|233|245|253|255|255|255|255|255|255|255|
+|18,0|180|53|100|142|178|208|233|253|267|275|278|278|278|278|278|278|278|
+|18,0|160|53|106|153|193|228|256|278|293|303|306|306|306|306|306|306|306|
+|18,0|150|55|112|162|205|242|272|295|312|322|325|325|325|325|325|325|325|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|
+|18,5|>1000|43|43|43|43|43|43|43|43|43|43|43|ni=9,25|ni=9,25|ni=9,25|ni=9,25|ni=9,25|
+|18,5|1000|47|56|63|70|76|81|84|87|89|90|90|90|90|90|90|90|
+|18,5|800|49|60|69|78|85|91|96|99|101|102|102|102|102|102|102|102|
+|18,5|700|49|61|72|82|90|97|102|106|109|110|110|110|110|110|110|110|
+|18,5|600|51|65|78|90|99|107|113|118|121|122|122|122|122|122|122|122|
+|18,5|500|53|70|86|99|111|120|128|133|137|138|138|138|138|138|138|138|
+|18,5|400|53|75|94|111|125|137|147|154|158|160|160|160|160|160|160|160|
+|18,5|350|53|78|100|119|136|149|160|168|173|175|175|175|175|175|175|175|
+|18,5|300|53|82|108|130|150|165|178|187|193|195|196|196|196|196|196|196|
+|18,5|250|53|88|119|146|169|188|203|214|221|224|224|224|224|224|224|224|
+|18,5|200|53|97|135|167|198|222|241|254|263|267|267|267|267|267|267|267|
+|18,5|180|53|101|145|182|214|240|261|276|286|290|291|291|291|291|291|291|
+|18,5|160|53|108|156|199|234|264|287|305|315|320|320|320|320|320|320|320|
+|18,5|150|55|114|165|210|249|280|305|324|335|340|341|341|341|341|341|341|
+|19,0|>1000|43|43|43|43|43|43|43|43|43|43|43|ni=9,5|ni=9,5|ni=9,5|ni=9,5|ni=9,5|
+|19,0|1000|47|56|64|71|77|82|86|89|91|92|92|92|92|92|92|92|
+|19,0|800|49|60|70|79|86|93|98|101|104|105|105|105|105|105|105|105|
+|19,0|700|49|62|73|83|92|99|105|109|112|113|113|113|113|113|113|113|
+|19,0|600|51|66|79|91|101|109|116|121|124|126|126|126|126|126|126|126|
+|19,0|500|53|71|87|101|113|123|131|137|141|143|143|143|143|143|143|143|
+|19,0|400|53|75|95|113|128|140|150|158|163|166|166|166|166|166|166|166|
+|19,0|350|53|79|101|121|139|153|164|173|179|181|182|182|182|182|182|182|
+|19,0|300|53|83|110|133|153|170|183|193|200|203|203|203|203|203|203|203|
+|19,0|250|53|89|121|149|173|193|209|221|229|233|233|233|233|233|233|233|
+|19,0|200|53|98|138|173|203|228|248|263|273|278|279|279|279|279|279|279|
+|19,0|180|53|103|147|186|220|247|270|286|297|303|304|304|304|304|304|304|
+|19,0|160|53|109|159|203|240|272|297|315|328|334|335|335|335|335|335|335|
+|19,0|150|55|115|169|215|255|289|315|335|349|355|356|356|356|356|356|356|
+|19,5|>1000|43|43|43|43|43|43|43|43|43|43|43|ni=9,75|ni=9,75|ni=9,75|ni=9,75|ni=9,75|
+|19,5|1000|47|56|64|72|78|83|87|91|93|94|94|94|94|94|94|94|
+|19,5|800|49|60|71|80|88|94|99|104|106|108|108|108|108|108|108|108|
+|19,5|700|49|62|74|84|93|101|107|111|115|116|117|117|117|117|117|117|
+|19,5|600|51|66|80|92|103|111|118|123|128|130|130|130|130|130|130|130|
+|19,5|500|53|71|88|102|115|125|134|140|145|147|148|148|148|148|148|148|
+|19,5|400|53|76|97|115|130|143|154|162|168|171|172|172|172|172|172|172|
+|19,5|350|53|79|103|124|141|156|169|178|184|188|189|189|189|189|189|189|
+|19,5|300|53|84|111|135|156|174|188|199|206|210|211|211|211|211|211|211|
+|19,5|250|53|90|123|152|177|198|215|228|237|242|243|243|243|243|243|243|
+|19,5|200|53|99|140|177|208|234|255|272|283|289|291|291|291|291|291|291|
+|19,5|180|53|104|150|190|225|254|278|296|308|315|317|317|317|317|317|317|
+|19,5|160|53|111|162|208|247|279|306|326|340|348|350|350|350|350|350|350|
+|19,5|150|53|117|172|220|262|297|325|347|362|370|372|372|372|372|372|372|
+|20,0|>1000|43|43|43|43|43|43|43|43|43|43|43|-|-|-|-|-|
+|20,0|1000|47|56|65|72|79|84|89|92|95|96|97|97|97|97|97|97|
+|20,0|800|49|61|71|81|89|96|101|106|109|111|111|111|111|111|111|111|
+|20,0|700|49|62|75|85|95|102|109|114|117|120|120|120|120|120|120|120|
+|20,0|600|51|67|81|93|104|113|121|127|131|133|134|134|134|134|134|134|
+|20,0|500|53|72|89|104|117|128|137|144|149|152|153|153|153|153|153|153|
+|20,0|400|53|77|98|117|133|147|158|167|173|177|178|178|178|178|178|178|
+|20,0|350|53|80|104|126|144|160|173|183|190|194|196|196|196|196|196|196|
+|20,0|300|53|85|113|138|160|178|193|205|213|218|220|220|220|220|220|220|
+|20,0|250|53|91|125|155|181|203|221|235|245|251|253|253|253|253|253|253|
+|20,0|200|53|100|143|180|213|240|263|280|293|300|303|303|303|303|303|303|
+|20,0|180|53|106|153|195|231|261|286|306|320|328|331|331|331|331|331|331|
+|20,0|160|53|112|165|212|253|287|315|337|353|362|365|365|365|365|365|365|
+|20,0|150|55|119|175|225|269|305|335|359|375|385|389|389|389|389|389|389|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|
+|20,4|>1000|43|43|43|43|43|43|43|43|43|43|43|43|ni=10,2|ni=10,2|ni=10,2|ni=10,2|
+|20,4|1000|47|57|65|73|80|85|90|94|96|98|99|99|99|99|99|99|
+|20,4|800|49|61|72|81|90|97|103|107|111|113|114|114|114|114|114|114|
+|20,4|700|49|63|75|86|96|104|111|116|120|122|123|123|123|123|123|123|
+|20,4|600|51|67|82|94|106|115|123|129|134|136|138|138|138|138|138|138|
+|20,4|500|53|72|90|105|118|130|139|147|152|155|157|157|157|157|157|157|
+|20,4|400|53|77|99|118|135|149|161|170|177|181|183|183|183|183|183|183|
+|20,4|350|53|81|105|127|147|163|176|187|195|199|201|201|201|201|201|201|
+|20,4|300|53|85|114|140|162|181|197|209|218|224|226|226|226|226|226|226|
+|20,4|250|53|92|126|157|184|207|226|240|251|258|261|261|261|261|261|261|
+|20,4|200|53|101|145|183|217|245|269|287|301|309|313|313|313|313|313|313|
+|20,4|180|53|107|156|198|235|267|293|313|328|338|342|342|342|342|342|342|
+|20,4|160|53|113|168|216|258|293|323|346|363|373|378|378|378|378|378|378|
+|20,4|150|55|120|178|229|274|312|343|368|386|397|402|402|402|402|402|402|
+|20,5|>1000|43|43|43|43|43|43|43|43|43|43|43|43|ni=10,25|ni=10,25|ni=10,25|ni=10,25|
+|20,5|1000|47|57|65|73|80|86|90|94|97|99|99|99|99|99|99|99|
+|20,5|800|49|61|72|82|90|97|103|108|111|114|114|115|115|115|115|115|
+|20,5|700|49|63|75|86|96|104|111|116|120|123|124|124|124|124|124|124|
+|20,5|600|51|67|82|95|106|115|123|130|134|137|138|138|138|138|138|138|
+|20,5|500|53|72|90|105|119|130|140|147|153|156|158|158|158|158|158|158|
+|20,5|400|53|77|99|118|135|150|162|171|178|182|184|184|184|184|184|184|
+|20,5|350|53|63|106|128|147|164|177|188|196|201|203|203|203|203|203|203|
+|20,5|300|53|85|115|140|163|182|198|210|220|225|228|228|228|228|228|228|
+|20,5|250|53|92|127|158|185|208|227|242|253|260|263|263|263|263|263|263|
+|20,5|200|53|102|146|184|218|247|271|289|303|312|315|316|316|316|316|316|
+|20,5|180|53|107|156|199|236|268|295|315|331|340|345|345|345|345|345|345|
+|20,5|160|53|114|168|217|259|295|325|348|365|376|381|381|381|381|381|381|
+|20,5|150|55|120|179|230|275|314|345|370|389|400|405|406|406|406|406|406|
+|21,0|>1000|43|43|43|43|43|43|43|43|43|43|43|43|ni=10,5|ni=10,5|ni=10,5|ni=10,5|
+|21,0|1000|47|57|65|74|81|87|92|96|99|101|102|102|102|102|102|102|
+|21,0|800|49|61|73|83|91|99|105|110|114|116|118|118|118|118|118|118|
+|21,0|700|49|63|76|87|97|106|113|119|123|126|127|128|128|128|128|128|
+|21,0|600|51|68|83|96|108|118|126|133|138|141|143|143|143|143|143|143|
+|21,0|500|53|73|91|107|121|133|143|151|157|161|163|163|163|163|163|163|
+|21,0|400|53|78|100|120|138|153|165|175|183|188|190|191|191|191|191|191|
+|21,0|350|53|81|107|130|150|167|181|193|201|207|210|210|210|210|210|210|
+|21,0|300|53|85|116|143|166|186|203|216|226|233|236|237|237|237|237|237|
+|21,0|250|53|93|129|161|189|213|233|249|261|269|273|273|273|273|273|273|
+|21,0|200|53|103|148|188|223|253|278|298|313|323|328|328|328|328|328|328|
+|21,0|180|53|108|158|203|242|275|303|325|342|353|358|359|359|359|359|359|
+|21,0|160|53|115|172|222|265|303|334|359|378|390|397|397|397|397|397|397|
+|21,0|150|55|122|182|235|382|322|355|382|402|415|422|423|423|423|423|423|
+|21,5|>1000|43|43|43|43|43|43|43|43|43|43|43|43|ni=10,75|ni=10,75|ni=10,75|ni=10,75|
+|21,5|1000|47|57|66|75|82|88|93|98|101|103|104|105|105|105|105|105|
+|21,5|800|49|62|73|84|93|100|107|112|116|119|121|121|121|121|121|121|
+|21,5|700|49|64|77|89|99|108|115|121|126|129|131|131|131|131|131|131|
+|21,5|600|51|68|83|97|109|120|128|135|141|145|147|147|147|147|147|147|
+|21,5|500|53|73|92|108|123|135|146|154|161|165|168|168|168|168|168|168|
+|21,5|400|53|78|102|122|140|156|169|180|188|193|197|197|197|197|197|197|
+|21,5|350|53|82|109|132|153|171|186|198|207|214|217|218|218|218|218|218|
+|21,5|300|53|887|118|145|170|190|208|222|233|240|245|246|246|246|246|246|
+|21,5|250|53|94|131|164|193|218|239|256|269|278|283|284|284|284|284|284|
+|21,5|200|53|104|150|192|288|259|285|307|323|334|340|342|342|342|342|342|
+|21,5|180|53|110|161|207|247|282|311|335|353|365|372|374|374|374|374|374|
+|21,5|160|53|117|175|226|272|311|343|370|390|404|412|414|414|414|414|414|
+|21,5|150|53|124|185|240|289|330|365|394|415|430|439|441|441|441|441|441|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|
+|22,0|>1000|43|43|43|43|43|43|43|43|43|43|43|43|-|-|-|-|
+|22,0|1000|47|57|67|75|83|89|95|99|103|105|107|107|107|107|107|107|
+|22,0|800|49|62|74|84|94|102|109|114|119|122|124|124|124|124|124|124|
+|22,0|700|49|64|77|90|100|110|117|124|129|132|134|135|135|135|135|135|
+|22,0|600|51|68|84|98|111|122|131|138|144|148|151|152|152|152|152|152|
+|22,0|500|53|74|93|110|125|138|149|158|165|170|173|174|174|174|174|174|
+|22,0|400|53|79|103|124|143|159|173|184|193|199|203|204|204|204|204|204|
+|22,0|350|53|83|110|134|156|174|190|203|213|220|224|226|226|226|226|226|
+|22,0|300|53|88|120|148|173|195|213|228|240|247|253|255|255|255|255|255|
+|22,0|250|53|95|133|167|197|223|245|263|277|280|293|295|295|295|295|295|
+|22,0|200|53|105|153|195|233|165|195|315|333|345|353|355|355|355|355|355|
+|22,0|180|53|111|164|211|253|289|320|345|364|378|386|389|389|389|389|389|
+|22,0|160|53|118|178|231|278|318|353|381|403|418|428|431|431|431|431|431|
+|22,0|150|53|125|189|245|295|339|375|405|429|445|453|459|459|459|459|459|
+|22,5|>1000|43|43|43|43|43|43|43|43|43|43|43|43|43|ni=11,25|ni=11,25|ni=11,25|
+|22,5|1000|47|58|67|76|84|91|96|101|105|108|109|110|110|110|110|110|
+|22,5|800|49|62|74|85|95|104|111|117|121|125|127|128|128|128|128|128|
+|22,5|700|49|64|78|91|102|111|120|126|132|136|138|139|139|139|139|139|
+|22,5|600|51|69|85|100|113|124|133|141|148|152|155|156|156|156|156|156|
+|22,5|500|53|74|94|111|127|140|152|161|169|174|178|179|179|179|179|179|
+|22,5|400|53|80|104|126|145|162|177|189|198|205|209|211|211|211|211|211|
+|22,5|350|53|84|111|136|159|178|194|208|219|226|231|234|234|234|234|234|
+|22,5|300|53|89|121|150|176|199|218|233|246|255|261|264|264|264|264|264|
+|22,5|250|53|96|135|170|201|228|251|270|285|296|303|306|306|306|306|306|
+|22,5|200|53|107|155|199|238|272|300|324|343|357|365|369|369|369|369|369|
+|22,5|180|53|113|167|215|258|296|328|354|373|390|400|404|404|404|404|404|
+|22,5|160|53|120|181|236|284|326|262|392|415|433|443|448|448|448|448|448|
+|22,5|150|55|127|192|250|302|347|385|417|442|460|472|477|477|477|477|477|
+|23,0|>1000|43|43|43|43|43|43|43|43|43|43|43|43|43|ni=11,5|ni=11,5|ni=11,5|
+|23,0|1000|47|58|68|77|85|92|98|103|107|110|112|113|113|113|113|113|
+|23,0|800|49|63|75|86|96|105|113|119|124|128|130|131|132|132|132|132|
+|23,0|700|49|65|79|92|103|113|122|129|135|139|142|143|143|143|143|143|
+|23,0|600|51|69|86|101|114|126|136|144|151|156|159|161|161|161|161|161|
+|23,0|500|53|75|95|113|129|143|155|165|173|179|183|185|185|185|185|185|
+|23,0|400|53|80|105|128|148|165|180|193|203|210|215|218|218|218|218|218|
+|23,0|350|53|84|113|139|161|181|199|213|224|233|239|241|242|242|242|242|
+|23,0|300|53|90|123|153|180|203|223|240|253|263|270|273|273|273|273|273|
+|23,0|250|53|97|137|173|205|233|257|277|293|305|313|317|317|317|317|317|
+|23,0|200|53|108|158|203|243|278|308|333|353|368|378|383|384|384|384|384|
+|23,0|180|53|114|170|220|264|303|336|364|386|403|414|420|420|420|420|420|
+|23,0|160|53|122|184|240|290|334|372|403|428|447|459|465|466|466|466|466|
+|23,0|150|53|129|195|255|309|355|395|429|455|475|489|495|496|496|496|496|
+|23,5|>1000|43|43|43|43|43|43|43|43|43|43|43|43|43|ni=11,75|ni=11,75|ni=11,75|
+|23,5|1000|47|58|68|78|86|93|99|105|109|112|114|116|116|116|116|116|
+|23,5|800|49|63|76|87|98|107|114|121|126|130|133|135|135|135|135|135|
+|23,5|700|49|65|80|93|105|115|124|131|137|142|145|147|147|147|147|147|
+|23,5|600|51|70|87|102|116|128|138|147|154|160|163|165|166|166|166|166|
+|23,5|500|53|75|96|114|131|145|158|168|177|183|188|190|191|191|191|191|
+|23,5|400|53|81|107|130|150|168|184|197|208|216|222|225|225|225|225|225|
+|23,5|350|53|85|114|141|164|185|203|218|230|239|246|249|250|250|250|250|
+|23,5|300|53|90|125|155|183|207|228|245|260|270|278|282|283|283|283|283|
+|23,5|250|53|98|139|176|209|238|263|284|301|314|323|328|329|329|329|329|
+|23,5|200|53|109|160|207|248|284|315|342|363|379|390|397|398|398|398|398|
+|23,5|180|53|115|172|224|270|310|345|374|397|415|528|435|436|436|436|436|
+|23,5|160|53|123|187|245|297|342|381|414|440|461|475|483|484|484|484|484|
+|23,5|150|55|130|199|260|315|364|405|440|469|490|505|514|515|515|515|515|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|
+|24,0|>1000|43|43|43|43|43|43|43|43|43|43|43|43|43|-|-|-|
+|24,0|1000|47|58|69|79|97|94|101|106|111|114|117|118|119|119|119|119|
+|24,0|800|49|63|76|88|99|108|116|123|129|133|136|138|139|139|139|139|
+|24,0|700|49|65|80|94|106|117|126|134|140|145|149|151|152|152|152|152|
+|24,0|600|51|70|88|103|118|130|141|150|158|163|168|170|171|171|171|171|
+|24,0|500|53|76|97|116|133|148|161|172|181|188|193|196|197|197|197|197|
+|24,0|400|53|82|108|132|153|172|188|202|213|222|228|232|233|233|233|233|
+|24,0|350|53|86|116|143|167|189|207|223|236|246|253|257|259|259|259|259|
+|24,0|300|53|91|126|158|186|211|233|251|265|278|286|291|293|293|293|293|
+|24,0|250|53|99|141|179|213|243|269|291|309|323|333|339|341|341|341|341|
+|24,0|200|53|110|163|210|253|290|323|350|373|390|403|410|413|413|413|413|
+|24,0|180|53|117|175|228|275|317|353|383|408|428|442|450|453|453|453|453|
+|24,0|160|53|125|190|250|303|350|390|425|453|475|490|500|503|503|503|503|
+|24,0|150|55|132|202|265|322|372|415|452|482|505|522|532|535|535|535|535|
+|24,5|>1000|43|43|43|43|43|43|43|43|43|43|43|43|43|43|ni=12,25|ni=12,25|
+|24,5|1000|47|59|69|79|88|96|102|108|113|117|119|121|122|122|122|122|
+|24,5|800|49|64|77|89|100|110|118|125|131|136|139|142|143|143|143|143|
+|24,5|700|49|66|81|95|107|119|128|136|143|149|152|155|156|156|156|156|
+|24,5|600|51|70|88|105|119|132|143|153|161|167|172|175|176|176|176|176|
+|24,5|500|53|76|98|117|135|150|164|175|185|192|198|201|203|203|203|203|
+|24,5|400|53|82|109|133|155|175|192|206|218|227|234|238|240|240|240|240|
+|24,5|350|53|86|117|145|170|192|211|228|241|252|260|265|267|267|267|267|
+|24,5|300|53|92|128|160|190|215|238|257|273|285|295|300|303|303|303|303|
+|24,5|250|53|100|143|182|217|248|275|298|317|332|343|350|353|353|353|353|
+|24,5|200|53|112|165|214|258|297|331|359|383|402|415|424|428|428|428|428|
+|24,5|180|53|118|178|232|281|324|361|393|420|440|456|465|470|470|470|470|
+|24,5|160|43|126|193|254|309|358|400|436|465|488|506|517|522|522|522|522|
+|24,5|150|53|134|205|270|329|380|425|464|495|520|539|550|555|556|556|556|
+|25,0|>1000|43|43|43|43|43|43|43|43|43|43|43|43|43|43|ni=12,5|ni=12,5|
+|25,0|1000|47|59|70|80|89|97|104|110|115|119|122|124|125|125|125|125|
+|25,0|800|49|64|78|90|101|111|120|128|134|139|143|145|146|146|146|146|
+|25,0|700|49|66|82|96|109|120|130|139|146|152|156|159|160|160|160|160|
+|25,0|600|51|71|89|106|121|134|146|156|164|171|176|179|181|181|181|181|
+|25,0|500|53|77|99|119|137|153|167|179|189|197|203|207|209|209|209|209|
+|25,0|400|53|83|110|135|158|178|195|210|223|233|240|245|248|248|248|248|
+|25,0|350|53|87|119|147|173|196|216|233|247|259|267|273|276|276|276|276|
+|25,0|300|53|93|130|163|193|220|243|263|280|293|303|310|313|313|313|313|
+|25,0|250|53|101|145|185|221|253|281|305|325|341|353|361|365|365|365|365|
+|25,0|200|53|113|168|218|263|303|338|368|393|413|428|438|443|443|443|443|
+|25,0|180|53|120|181|236|286|331|370|403|431|453|470|481|486|486|486|486|
+|25,0|160|53|128|197|259|315|365|409|447|478|503|522|534|540|541|541|541|
+|25,0|150|55|135|209|275|335|389|435|475|509|535|555|569|575|576|576|576|
+|25,5|>1000|43|43|43|43|43|43|43|43|43|43|43|43|43|43|ni=12,75|ni=12,75|
+|25,5|1000|47|59|70|81|90|98|105|112|117|121|124|127|128|128|128|128|
+|25,5|800|49|64|78|91|103|113|122|130|136|142|146|149|150|150|150|150|
+|25,5|700|49|66|82|97|110|122|132|141|149|155|160|163|165|165|165|165|
+|25,5|600|51|71|90|107|123|136|148|159|168|175|180|184|186|186|186|186|
+|25,5|500|53|77|100|120|139|155|170|182|193|201|208|212|215|215|215|215|
+|25,5|400|53|83|112|137|160|181|199|215|228|238|247|252|255|256|256|256|
+|25,5|350|53|88|120|149|176|199|220|238|253|265|274|281|284|285|285|285|
+|25,5|300|53|94|131|165|196|224|248|269|286|300|311|319|323|324|324|324|
+|25,5|250|53|102|147|188|225|258|287|312|333|350|363|372|377|378|378|378|
+|25,5|200|53|114|170|222|268|309|345|377|403|424|440|452|458|459|459|459|
+|25,5|180|53|121|183|240|292|338|378|413|442|465|483|496|503|505|505|505|
+|25,5|160|53|130|200|264|322|373|418|458|490|517|537|551|559|561|561|561|
+|25,5|150|53|137|212|280|242|397|445|487|522|550|572|587|595|597|597|597|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|przesyłka powoduje odchylenie na łuku (Di) [ mm]|
+|26,0|>1000|43|43|43|43|43|43|43|43|43|43|43|43|43|43|-|-|
+|26,0|1000|47|59|71|81|91|99|107|113|119|123|127|129|131|131|131|131|
+|26,0|800|49|64|79|92|104|114|124|132|139|144|149|152|154|154|154|154|
+|26,0|700|49|67|83|98|112|124|135|144|152|158|163|167|169|170|170|170|
+|26,0|600|51|72|91|108|124|138|151|162|171|178|184|188|191|192|192|192|
+|26,0|500|53|78|101|122|141|158|173|186|197|206|213|218|221|222|222|222|
+|26,0|400|53|84|113|139|163|184|203|219|233|244|253|259|263|264|264|264|
+|26,0|350|53|89|121|151|179|203|224|243|259|271|281|289|293|294|294|294|
+|26,0|300|53|95|133|168|200|228|253|275|293|308|320|328|333|335|335|335|
+|26,0|250|53|103|149|191|229|263|293|319|341|359|373|383|389|391|391|391|
+|26,0|200|53|115|173|225|273|315|353|385|413|435|453|465|473|475|475|475|
+|26,0|180|53|122|186|245|197|345|386|422|453|478|497|511|520|522|522|522|
+|26,0|160|53|131|203|268|328|381|428|468|503|531|553|568|578|581|581|581|
+|26,0|150|55|139|215|285|349|405|455|499|535|565|589|605|615|619|619|619|
+|26,5|>1000|43|43|43|43|43|43|43|43|43|43|43|43|43|43|43|ni=13,25|
+|26,5|1000|47|59|71|82|92|101|108|115|121|126|129|132|134|135|135|135|
+|26,5|800|49|65|79|93|105|116|126|134|141|147|152|155|158|159|159|159|
+|26,5|700|49|67|84|99|113|126|137|146|155|161|167|171|173|174|174|174|
+|26,5|600|51|72|92|110|126|140|153|165|174|182|188|193|196|197|197|197|
+|26,5|500|53|78|102|123|143|160|176|189|201|210|218|223|227|228|228|228|
+|26,5|400|53|85|114|141|165|187|207|223|238|250|259|266|270|272|272|272|
+|26,5|350|53|89|123|154|181|206|229|248|264|278|289|296|301|303|303|303|
+|26,5|300|53|95|135|170|203|232|258|280|300|315|328|337|343|345|345|345|
+|26,5|250|53|104|151|194|233|268|299|326|349|368|393|394|401|404|404|404|
+|26,5|200|53|117|175|229|278|322|360|394|423|447|465|479|488|492|492|492|
+|26,5|180|53|124|189|249|303|351|395|432|464|490|511|526|536|539|539|539|
+|26,5|160|53|132|206|273|334|389|437|479|515|545|568|586|597|601|601|601|
+|26,5|150|55|140|219|290|355|414|465|510|519|580|605|624|635|640|640|640|
+|27,0|>1000|43|43|43|43|43|43|43|43|43|43|43|43|43|43|43|ni=13,5|
+|27,0|1000|47|60|72|83|93|102|110|117|123|128|132|135|137|138|138|138|
+|27,0|800|49|65|80|94|106|118|128|136|144|150|155|159|161|163|163|163|
+|27,0|700|49|67|85|100|115|127|139|149|157|164|170|175|177|179|179|179|
+|27,0|600|51|73|93|111|128|143|156|168|178|186|193|198|201|203|203|203|
+|27,0|500|53|79|103|125|145|163|179|193|205|215|223|229|233|235|235|235|
+|27,0|400|53|85|115|143|168|190|210|228|243|255|265|273|278|280|281|281|
+|27,0|350|53|90|124|156|184|210|233|253|270|284|296|304|310|313|313|313|
+|27,0|300|53|96|136|173|206|236|263|286|306|323|336|346|353|356|357|357|
+|27,0|250|53|105|153|197|237|273|305|333|357|377|393|405|413|417|417|417|
+|27,0|200|53|118|178|233|283|328|368|403|433|458|478|493|503|508|509|509|
+|27,0|180|53|125|192|253|308|358|403|442|475|503|525|542|553|558|559|559|
+|27,0|160|53|134|209|278|340|397|447|490|528|559|584|603|615|622|623|623|
+|27,0|150|55|142|222|295|362|422|475|522|562|595|622|542|655|662|663|663|
+|27,5|>1000|43|43|43|43|43|43|43|43|43|43|43|43|43|43|43|ni=13,75|
+|27,5|1000|47|60|72|84|94|103|111|119|125|130|134|138|140|142|142|142|
+|27,5|800|49|65|81|95|108|119|129|139|146|153|158|162|165|167|167|167|
+|27,5|700|49|68|85|101|116|129|141|151|160|168|174|178|182|183|184|184|
+|27,5|600|51|73|93|112|129|145|158|170|181|190|195|202|206|208|208|208|
+|27,5|500|53|79|104|126|147|165|182|196|209|219|228|234|239|241|242|242|
+|27,5|400|53|86|117|145|170|193|214|232|248|261|272|280|285|288|289|289|
+|27,5|350|53|91|126|158|187|214|237|258|276|291|303|312|319|322|323|323|
+|27,5|300|53|97|138|175|219|240|268|292|313|330|345|355|363|367|368|368|
+|27,5|250|53|106|155|200|241|278|311|340|365|386|403|416|425|430|431|431|
+|27,5|200|53|119|180|237|288|334|375|412|443|469|490|507|519|524|526|526|
+|27,5|180|53|126|195|257|314|365|411|451|486|515|539|557|570|576|578|578|
+|27,5|160|53|136|212|283|347|404|456|501|540|573|600|620|634|642|644|644|
+|27,5|150|55|144|225|300|369|430|485|534|575|610|639|660|675|684|686|686|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|
+|28,0|>1000|43|43|43|43|43|43|43|43|43|43|43|43|43|43|43|-|
+|28,0|1000|47|60|73|84|95|104|113|120|127|132|137|140|143|144|145|145|
+|28,0|800|49|66|81|96|109|121|131|141|149|156|161|166|169|170|171|171|
+|28,0|700|49|68|86|102|117|131|143|154|163|171|177|182|186|188|189|189|
+|28,0|600|51|73|94|113|131|147|161|173|184|193|201|207|211|213|214|214|
+|28,0|500|53|80|105|128|149|168|185|200|213|224|233|240|245|248|249|249|
+|28,0|400|53|87|118|147|173|197|218|237|253|267|278|287|293|297|298|298|
+|28,0|350|53|91|127|160|190|217|241|263|281|297|310|320|327|331|333|333|
+|28,0|300|53|98|140|178|213|245|273|298|320|338|353|365|373|378|380|380|
+|28,0|250|53|107|157|203|245|283|317|347|373|395|413|427|437|443|445|445|
+|28,0|200|53|120|183|240|293|340|383|420|453|480|503|520|533|540|543|543|
+|28,0|180|53|128|197|261|320|372|420|461|497|528|553|572|586|595|597|597|
+|28,0|160|53|137|215|287|353|412|465|512|553|587|615|637|653|662|665|665|
+|28,0|150|55|145|229|305|375|439|495|545|589|625|655|679|695|705|709|709|
+|28,5|>1000|43|43|43|43|43|43|43|43|43|43|43|43|43|43|43|43|
+|28,5|1000|47|61|73|85|96|106|114|122|129|135|139|143|146|148|148|148|
+|28,5|800|49|66|82|97|110|122|133|143|151|159|164|169|173|175|176|176|
+|28,5|700|49|68|87|103|119|133|145|156|166|174|181|186|190|193|194|194|
+|28,5|600|51|74|95|115|132|149|163|176|188|197|205|211|216|218|220|220|
+|28,5|500|53|80|106|129|151|170|188|203|217|228|238|245|251|254|256|256|
+|28,5|400|53|87|119|148|175|200|222|241|258|272|284|294|300|305|307|307|
+|28,5|350|53|92|129|162|193|221|246|268|287|303|317|328|336|341|343|343|
+|28,5|300|53|99|141|180|216|249|278|304|326|345|361|374|383|389|381|391|
+|28,5|250|53|108|159|206|249|288|323|354|381|404|423|438|449|456|459|459|
+|28,5|200|53|122|185|244|298|347|390|429|463|492|515|534|548|557|560|561|
+|28,5|180|53|129|200|265|324|379|428|471|508|540|567|588|603|613|617|617|
+|28,5|160|53|139|218|292|359|420|475|523|565|601|631|654|672|683|687|688|
+|28,5|150|55|147|232|310|382|447|505|557|602|641|672|697|716|727|732|732|
+|29,0|>1000|43|43|43|43|43|43|43|43|43|43|43|43|43|43|43|43|
+|29,0|1000|47|61|74|86|97|107|116|124|131|137|142|146|149|151|152|152|
+|29,0|800|49|66|83|98|111|124|135|145|154|161|168|173|176|179|180|180|
+|29,0|700|49|69|87|105|120|135|147|159|169|177|185|190|195|197|199|199|
+|29,0|600|51|74|96|116|134|151|166|179|191|201|209|216|221|224|226|226|
+|29,0|500|53|81|107|131|153|173|191|207|221|233|243|251|257|261|263|263|
+|29,0|400|53|88|120|150|178|203|225|245|263|278|290|300|308|313|315|316|
+|29,0|350|53|93|130|164|196|224|250|273|293|310|324|336|344|351|353|353|
+|29,0|300|53|100|143|183|220|253|283|310|333|353|370|383|393|400|403|403|
+|29,0|250|53|109|161|209|253|293|329|361|389|413|433|449|461|469|473|473|
+|29,0|200|53|123|188|248|303|353|398|438|473|503|528|548|563|573|578|579|
+|29,0|180|53|131|203|270|331|386|436|481|520|553|581|603|620|631|636|637|
+|29,0|160|53|140|222|297|365|428|484|534|578|615|647|672|690|703|709|710|
+|29,0|150|55|149|235|315|389|455|515|569|616|656|689|716|736|749|755|756|
+|29,5|>1000|43|43|43|43|43|43|43|43|43|43|43|43|43|43|43|43|
+|29,5|1000|47|61|74|87|98|108|117|126|133|139|144|149|152|154|155|156|
+|29,5|800|49|67|83|99|113|125|137|147|156|164|171|176|180|183|184|185|
+|29,5|700|49|69|88|106|122|136|150|161|172|181|188|194|199|202|204|204|
+|29,5|600|51|75|97|117|136|153|168|182|194|205|213|220|226|230|232|232|
+|29,5|500|53|81|108|132|155|175|194|210|225|237|248|256|263|267|270|270|
+|29,5|400|53|88|122|152|180|206|229|250|268|283|297|307|315|321|324|325|
+|29,5|350|53|94|131|166|199|228|254|278|299|316|331|344|353|359|363|364|
+|29,5|300|53|100|145|185|223|257|288|315|340|360|378|392|403|410|415|416|
+|29,5|250|53|110|163|212|257|298|335|368|397|422|443|460|473|482|487|488|
+|29,5|200|53|124|190|252|308|359|405|447|483|514|540|562|578|589|595|597|
+|29,5|180|53|132|206|274|336|393|445|490|531|565|595|618|636|649|656|657|
+|29,5|160|53|142|225|301|372|435|493|545|590|629|662|689|709|723|731|733|
+|29,5|150|55|150|239|320|395|464|525|580|529|671|706|734|756|770|779|781|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|Na wagonie bez wózków (p = 0) i odległości punktu wewnętrznego (ni) od osi skrajnej w metrach|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
+|Rozstaw<br>osi [m]|Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|przesyłka powoduje odchylenie na łuku (Di) [mm]|
+|30,0|>1000|43|43|43|43|43|43|43|43|43|43|43|43|43|43|43|43|
+|30,0|1000|47|61|75|87|99|109|119|127|135|141|147|151|155|157|159|159|
+|30,0|800|49|67|84|99|114|127|139|149|159|167|174|179|184|187|189|189|
+|30,0|700|49|70|89|107|123|138|152|164|175|184|192|198|203|207|209|210|
+|30,0|600|51|75|98|118|138|155|171|185|198|208|218|225|231|235|238|238|
+|30,0|500|53|82|109|134|157|178|197|214|229|242|253|262|269|274|277|278|
+|30,0|400|53|89|123|154|183|209|233|254|273|289|303|314|323|329|333|334|
+|30,0|350|53|94|133|169|201|231|258|283|304|323|339|351|361|369|373|374|
+|30,0|300|53|101|146|188|226|261|293|321|346|368|386|401|413|421|426|428|
+|30,0|250|53|111|165|215|261|303|341|375|405|431|453|471|485|495|501|503|
+|30,0|200|53|125|193|255|313|365|413|455|493|525|553|575|593|605|613|615|
+|30,0|180|53|133|208|278|342|400|453|500|542|578|608|633|653|667|675|678|
+|30,0|160|53|143|228|306|378|443|503|556|603|643|678|706|728|743|753|756|
+|30,0|150|55|152|242|325|402|472|535|592|642|685|722|752|775|792|802|805|
+
+**Załącznik nr 6 - Tablica odchyleń punktu zewnętrznego (Da)**
+
+Odchylenia punktu zewnętrznego na łukach oblicza się według wzoru:
+
+#### Da = 1000( ana + na 2) + c (2 na + a ) −
+
+#### [ mm _R_
+
+#### 1000( an + n 2) (2 n + a ) 1000 p 2
+
+#### ana + na 2) + c (2 na + a ) − 1000 p 2 [ mm ] 2 R a 8 R
+
+#### a + na 2) + c (2 na + a _R a_
+
+#### + a ) 1000 p − a 8 R
+
+gdzie: a - rozstaw osi skrajnych, względnie czopów skrętu wózków lub mostu nośnego wagonu [m],
+
+na - odległość rozpatrywanego punktu zewnętrznego od najbliższej osi skrajnej, względnie
+
+czopa skrętu wózków lub mostu nośnego wagonu [m],
+
+R - promień łuku [m],
+
+p - rozstaw osi skrajnych wózka [m],
+
+c - współczynnik
+
+1000 współczynnik przeliczeniowy [m] na [mm].
+
+Przy obliczaniu wartości odchyleń punktu zewnętrznego na łukach, podanych
+
+#### 1000 p 2 w niniejszej tablicy, nie uwzględniono ostatniego członu powyższego wzoru, tj.: D’ =
+#### 8 R
+
+, który
+
+stanowi odchylenie na łukach wagonu na wózkach i ma zastosowanie tylko w przypadku użycia
+
+do przewozu takiego wagonu.
+
+Odchylenia na łukach wagonów na wózkach, w zależności od rozstawu osi w wózkach, podane
+
+są w Załączniku nr 7.
+
+Przy obliczaniu odchyleń na łuku punktu zewnętrznego ładunku, załadowanego
+
+na wagon na wózkach, należy od odpowiednich wartości niniejszej tablicy odjąć odpowiednie
+
+wartości podane w Załączniku nr 7.
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi|<br> <br>Promień<br>łuku R<br>[m]|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego  na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego  na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego  na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego  na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego  na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego  na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego  na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego  na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego  na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego  na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego  na od osi skrajnej  w  metrach|
+|Rozstaw<br>osi|<br> <br>Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|
+|Rozstaw<br>osi|<br> <br>Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|
+|<br>6,0|>1000|43|57|71|85|99|113|128|142|156|170|184|
+|<br>6,0|1000|47|65|85|107|128|151|176|200|226|254|281|
+|<br>6,0|800|49|69|91|114|138|164|191|219|248|278|310|
+|<br>6,0|700|49|70|92|116|142|169|197|227|258|290|324|
+|<br>6,0|600|51|73|97|124|151|180|212|244|278|315|352|
+|<br>6,0|500|53|77|103|132|162|195|230|226|304|345|387|
+|<br>6,0|400|53|79|107|139|172|209|248|289|332|379|427|
+|<br>6,0|350|53|80|110|144|180|219|260|305|352|403|456|
+|<br>6,0|300|53|82|114|150|189|232|278|327|379|435|494|
+|<br>6,0|250|53|84|120|160|203|251|303|357|418|482|548|
+|<br>6,0|200|53|88|128|174|223|279|340|404|475|549|628|
+|<br>6,0|180|53|90|133|181|234|294|359|429|505|587|680|
+|<br>6,0|160|53|92|139|191|249|313|384|461|544|634|730|
+|<br>6,0|150|55|97|145|200|262|330|405|487|575|670|772|
+|<br>6,5|>1000|43|56|69|82|95|108|121|134|147|160|173|
+|<br>6,5|1000|47|64|84|104|125|147|170|194|219|245|272|
+|<br>6,5|800|49|68|89|111|134|159|185|212|240|270|301|
+|<br>6,5|700|49|69|90|114|138|164|191|220|251|282|315|
+|<br>6,5|600|51|72|96|121|148|176|206|238|271|306|343|
+|<br>6,5|500|53|76|102|129|159|191|224|260|298|337|379|
+|<br>6,5|400|53|78|106|136|170|205|243|284|327|373|420|
+|<br>6,5|350|53|79|109|142|177|215|256|301|347|397|450|
+|<br>6,5|300|53|81|113|148|187|229|274|323|375|430|489|
+|<br>6,5|250|53|84|120|159|202|249|301|356|415|479|546|
+|<br>6,5|200|53|88|128|173|223|279|339|403|473|548|628|
+|<br>6,5|180|53|90|133|181|235|294|359|430|505|587|674|
+|<br>6,5|160|53|91|139|191|249|314|385|462|546|635|732|
+|<br>6,5|150|55|97|145|201|263|331|400|481|569|663|764|
+|<br>7,0|>1000|43|55|67|79|91|103|115|128|140|152|164|
+|<br>7,0|1000|47|64|82|101|122|143|165|189|213|238|264|
+|<br>7,0|800|49|67|87|109|131|155|180|207|234|263|293|
+|<br>7,0|700|49|68|89|11|135|161|187|215|245|276|308|
+|<br>7,0|600|51|71|94|119|145|173|202|235|266|300|336|
+|<br>7,0|500|53|75|100|127|156|187|220|255|292|331|372|
+|<br>7,0|400|53|77|105|135|167|202|240|280|322|367|415|
+|<br>7,0|350|53|79|108|140|175|213|254|298|344|394|445|
+|<br>7,0|300|53|81|112|147|186|227|272|321|372|427|486|
+|<br>7,0|250|53|84|119|158|202|248|300|355|414|477|544|
+|<br>7,0|200|53|88|128|173|224|279|339|404|475|549|629|
+|<br>7,0|180|53|90|133|182|235|295|359|431|507|589|677|
+|<br>7,0|160|53|93|139|192|250|316|386|465|549|639|736|
+|<br>7,0|150|55|97|146|202|264|333|409|492|581|676|778|
+|<br>7,2|>1000|43|54|66|78|90|101|125|125|136|149|160|
+|<br>7,2|1000|17|63|81|100|120|142|164|187|211|236|262|
+|<br>7,2|800|49|67|87|105|130|154|179|205|232|261|291|
+|<br>7,2|700|49|68|88|111|134|159|186|214|243|274|306|
+|<br>7,2|600|51|71|94|118|144|171|201|231|264|298|334|
+|<br>7,2|500|53|75|100|127|155|186|219|254|291|329|370|
+|<br>7,2|400|53|77|105|134|167|202|239|279|321|366|413|
+|<br>7,2|350|53|79|108|140|175|213|253|296|343|392|444|
+|<br>7,2|300|53|81|112|147|185|227|272|320|372|427|488|
+|<br>7,2|250|53|84|119|158|201|248|300|355|414|477|546|
+|<br>7,2|200|53|88|128|174|224|279|339|405|475|550|630|
+|<br>7,2|180|53|90|133|182|236|295|361|432|508|590|678|
+|<br>7,2|160|53|93|139|193|252|316|389|467|549|641|738|
+|<br>7,2|150|55|97|147|203|265|335|411|493|582|678|781|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|
+|<br>7,5|>1000|43|54|65|77|88|99|111|122|133|145|156|
+|<br>7,5|1000|47|63|81|100|119|140|161|184|208|232|258|
+|<br>7,5|800|49|67|87|107|129|152|177|202|229|258|287|
+|<br>7,5|700|49|67|88|110|133|158|184|211|240|271|303|
+|<br>7,5|600|51|71|93|117|143|170|199|229|261|295|331|
+|<br>7,5|500|53|75|99|126|154|185|218|252|288|327|367|
+|<br>7,5|400|53|77|104|134|166|201|238|277|319|364|411|
+|<br>7,5|350|53|79|108|140|174|212|252|295|341|391|442|
+|<br>7,5|300|53|81|112|147|185|227|272|320|371|426|484|
+|<br>7,5|250|53|84|119|158|201|248|299|354|413|176|543|
+|<br>7,5|200|53|88|128|173|224|279|339|404|475|550|630|
+|<br>7,5|180|53|90|133|182|236|296|362|432|509|591|679|
+|<br>7,5|160|53|93|140|193|252|318|390|467|552|643|739|
+|<br>7,5|150|55|98|148|204|267|337|413|496|586|682|785|
+|<br>8,0|>1000|43|54|64|74|85|96|106|117|128|138|149|
+|<br>8,0|1000|47|63|80|98|117|137|158|180|203|228|253|
+|<br>8,0|800|49|66|85|105|127|150|174|199|225|253|282|
+|<br>8,0|700|49|67|87|108|131|155|181|208|237|267|298|
+|<br>8,0|600|51|71|92|116|141|168|196|226|258|292|327|
+|<br>8,0|500|53|75|99|125|153|183|215|249|285|324|364|
+|<br>8,0|400|53|77|104|133|165|199|236|275|317|362|409|
+|<br>8,0|350|53|78|107|139|174|211|251|294|340|389|441|
+|<br>8,0|300|53|81|112|147|185|226|271|319|371|426|484|
+|<br>8,0|250|53|84|119|158|201|248|299|354|414|477|544|
+|<br>8,0|200|53|88|128|174|225|281|341|407|478|553|634|
+|<br>8,0|180|53|91|133|184|238|299|365|436|513|596|684|
+|<br>8,0|160|53|93|141|195|255|321|394|472|558|649|746|
+|<br>8,0|150|55|99|149|206|270|340|417|501|592|689|792|
+|<br>8,2|>1000|43|53|63|74|84|94|105|115|125|136|146|
+|<br>8,2|1000|47|62|79|97|116|136|157|179|202|226|251|
+|<br>8,2|800|49|66|85|105|126|149|173|198|224|252|280|
+|<br>8,2|700|49|67|87|108|131|155|180|207|236|265|297|
+|<br>8,2|600|51|70|92|115|140|167|195|225|257|290|324|
+|<br>8,2|500|53|74|98|124|151|182|215|248|284|322|362|
+|<br>8,2|400|53|77|104|133|163|199|236|275|317|361|408|
+|<br>8,2|350|53|78|107|139|172|211|251|294|340|389|440|
+|<br>8,2|300|53|81|112|147|184|226|271|319|371|426|484|
+|<br>8,2|250|53|84|119|158|201|249|300|355|414|477|545|
+|<br>8,2|200|53|88|129|175|226|282|342|408|479|555|636|
+|<br>8,2|180|53|91|135|184|239|300|356|438|515|598|686|
+|<br>8,2|160|53|94|142|196|256|323|396|475|560|652|749|
+|<br>8,2|150|55|99|150|207|271|342|419|502|594|692|796|
+|8,5|>1000|43|52|62|72|82|92|102|112|122|132|142|
+|8,5|1000|47|62|79|96|115|135|156|177|200|224|248|
+|8,5|800|49|66|84|104|125|148|171|196|222|250|278|
+|8,5|700|49|67|86|107|130|154|179|206|234|264|295|
+|8,5|600|51|70|92|115|140|166|194|224|256|289|323|
+|8,5|500|53|74|98|124|152|182|214|247|283|321|361|
+|8,5|400|53|77|103|133|164|199|235|275|316|361|407|
+|8,5|350|53|78|107|139|172|211|251|294|340|389|440|
+|8,5|300|53|81|112|147|185|227|272|320|371|426|484|
+|8,5|250|53|84|119|159|202|248|301|356|415|479|546|
+|8,5|200|53|89|130|176|227|282|344|410|481|557|639|
+|8,5|180|53|91|136|186|240|302|368|440|518|608|690|
+|8,5|160|53|95|143|198|258|325|398|178|564|656|754|
+|8,5|150|55|99|151|209|273|345|422|507|595|696|801|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|
+|<br>9,0|>1000|43|52|61|71|80|90|99|109|118|128|137|
+|<br>9,0|1000|47|62|78|95|114|133|153|175|197|221|245|
+|<br>9,0|800|49|66|84|103|124|146|169|194|220|247|275|
+|<br>9,0|700|49|6|86|107|129|153|177|204|232|261|292|
+|<br>9,0|600|51|70|91|114|139|165|193|222|254|287|321|
+|<br>9,0|500|53|74|98|123|151|181|212|246|282|320|359|
+|<br>9,0|400|53|77|103|132|164|198|235|274|316|360|407|
+|<br>9,0|350|53|78|107|139|173|211|251|294|340|389|441|
+|<br>9,0|300|53|81|112|147|186|227|272|321|372|428|486|
+|<br>9,0|250|53|84|121|160|204|251|303|359|418|482|549|
+|<br>9,0|200|53|89|131|178|230|286|248|414|486|563|644|
+|<br>9,0|180|53|92|137|188|244|306|373|446|524|608|697|
+|<br>9,0|160|53|96|145|200|262|330|404|485|571|664|763|
+|<br>9,0|150|55|100|153|212|277|349|428|514|606|705|810|
+|9,5|>1000|43|51|60|69|78|87|96|105|114|123|132|
+|9,5|1000|47|62|78|95|113|132|152|173|195|218|242|
+|9,5|800|49|66|83|103|123|145|168|192|218|244|272|
+|9,5|700|49|67|86|106|128|152|176|203|233|259|290|
+|9,5|600|51|70|91|114|138|164|192|221|252|285|319|
+|9,5|500|53|74|98|123|151|180|212|245|281|318|358|
+|9,5|400|53|77|103|133|164|198|235|274|316|360|407|
+|9,5|350|53|79|107|139|174|211|252|295|341|390|442|
+|9,5|300|53|81|113|148|187|229|274|322|374|429|488|
+|9,5|250|53|85|121|161|205|253|305|362|428|485|553|
+|9,5|200|53|90|132|180|232|289|352|419|491|568|651|
+|9,5|180|53|93|139|190|247|309|377|451|530|615|705|
+|9,5|160|53|97|147|203|266|335|410|497|579|672|773|
+|9,5|150|55|102|155|215|281|355|434|520|613|714|821|
+|<br>10,0|>1000|43|51|60|68|77|83|94|102|111|119|128|
+|<br>10,0|1000|47|61|77|94|112|131|150|171|193|216|240|
+|<br>10,0|800|49|65|83|102|122|144|167|191|216|243|271|
+|<br>10,0|700|49|66|86|105|127|151|175|201|229|258|288|
+|<br>10,0|600|51|70|91|113|138|164|191|220|251|284|318|
+|<br>10,0|500|53|74|98|123|151|180|212|245|281|318|358|
+|<br>10,0|400|53|77|104|133|165|199|236|275|317|361|408|
+|<br>10,0|350|53|79|108|140|175|212|253|296|342|391|442|
+|<br>10,0|300|53|81|114|149|188|230|276|324|377|432|491|
+|<br>10,0|250|53|85|122|162|207|255|308|364|425|489|558|
+|<br>10,0|200|53|91|134|182|235|293|356|424|497|575|658|
+|<br>10,0|180|53|94|140|192|250|314|382|457|537|622|713|
+|<br>10,0|160|53|98|149|206|270|339|416|498|587|682|783|
+|<br>10,0|150|55|103|157|218|286|360|441|529|623|724|832|
+|<br>10,2|>1000|43|51|59|67|76|84|93|101|109|118|125|
+|<br>10,2|1000|47|67|77|94|111|130|150|170|192|215|239|
+|<br>10,2|800|49|65|83|102|122|143|166|190|215|242|270|
+|<br>10,2|700|49|66|85|105|127|150|175|201|228|257|288|
+|<br>10,2|600|51|70|91|113|137|162|191|220|251|284|318|
+|<br>10,2|500|53|74|98|123|151|180|212|245|280|317|357|
+|<br>10,2|400|53|77|104|133|165|199|236|275|316|360|408|
+|<br>10,2|350|53|79|108|140|175|213|253|297|342|391|444|
+|<br>10,2|300|53|81|114|149|188|231|276|325|377|432|492|
+|<br>10,2|250|53|86|122|163|207|256|309|365|426|490|560|
+|<br>10,2|200|53|91|134|182|236|294|357|426|498|576|660|
+|<br>10,2|180|53|94|141|193|251|315|384|460|539|624|717|
+|<br>10,2|160|53|98|149|207|271|342|418|500|589|684|785|
+|<br>10,2|150|55|103|158|219|188|362|444|532|627|723|836|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|
+|<br>10,4|>1000|43|51|59|67|75|83|92|100|108|116|124|
+|<br>10,4|1000|47|61|77|93|111|130|149|170|192|214|238|
+|<br>10,4|800|49|65|82|103|122|143|166|190|215|243|269|
+|<br>10,4|700|49|66|85|106|127|150|175|201|558|258|288|
+|<br>10,4|600|51|70|91|113|137|163|191|220|251|284|318|
+|<br>10,4|500|53|75|98|123|151|180|212|245|281|318|358|
+|<br>10,4|400|53|78|104|133|165|199|236|276|317|362|409|
+|<br>10,4|350|53|80|108|140|175|213|254|297|344|393|445|
+|<br>10,4|300|53|83|114|150|189|231|277|326|379|435|493|
+|<br>10,4|250|53|87|122|163|208|257|310|367|428|493|561|
+|<br>10,4|200|53|92|135|184|237|296|359|428|501|580|663|
+|<br>10,4|180|53|96|142|195|253|317|386|462|542|629|720|
+|<br>10,4|160|53|99|150|208|273|344|421|504|593|689|791|
+|<br>10,4|150|55|104|159|221|289|365|447|535|630|732|841|
+|<br>10,5|>1000|43|51|59|67|75|83|91|99|107|115|123|
+|<br>10,5|1000|47|61|77|93|111|130|149|170|191|214|238|
+|<br>10,5|800|49|65|83|102|122|143|166|190|215|241|269|
+|<br>10,5|700|49|66|85|105|127|150|175|201|228|258|288|
+|<br>10,5|600|53|70|91|113|137|163|191|220|251|283|318|
+|<br>10,5|500|53|74|97|123|150|180|212|245|280|318|358|
+|<br>10,5|400|53|77|104|133|165|199|236|276|317|362|409|
+|<br>10,5|350|53|79|108|140|175|213|254|297|344|393|445|
+|<br>10,5|300|53|82|114|150|189|232|277|327|379|435|494|
+|<br>10,5|250|53|86|123|163|209|258|311|368|428|494|563|
+|<br>10,5|200|53|91|135|183|238|297|360|429|502|582|665|
+|<br>10,5|180|53|95|142|194|254|318|388|463|543|630|722|
+|<br>10,5|160|53|99|151|208|274|345|422|504|595|391|793|
+|<br>10,5|150|55|104|159|221|290|365|448|537|632|734|843|
+|<br>11,0|>1000|43|50|58|66|73|81|89|97|104|112|120|
+|<br>11,0|1000|47|61|76|93|110|129|148|169|190|213|236|
+|<br>11,0|800|49|65|82|101|121|143|165|180|214|240|268|
+|<br>11,0|700|49|66|85|105|127|150|174|200|228|258|287|
+|<br>11,0|600|51|70|91|113|137|163|191|220|251|283|317|
+|<br>11,0|500|53|74|98|123|151|180|212|245|281|318|358|
+|<br>11,0|400|53|77|104|134|166|200|237|277|319|363|410|
+|<br>11,0|350|53|79|109|141|176|215|255|299|346|396|448|
+|<br>11,0|300|53|82|115|151|191|234|280|329|352|438|498|
+|<br>11,0|250|53|86|124|165|211|261|314|372|433|499|568|
+|<br>11,0|200|53|92|137|186|241|302|365|435|509|589|673|
+|<br>11,0|180|53|96|144|198|258|325|393|470|551|639|731|
+|<br>11,0|160|53|100|153|213|278|350|425|513|604|701|804|
+|<br>11,0|150|55|105|162|224|295|372|455|545|642|745|855|
+|<br>11,2<br>|>1000|43|50|58|65|73|81|88|96|103|111|119|
+|<br>11,2<br>|1000|47|61|77|93|110|129|148|167|190|212|236|
+|<br>11,2<br>|800|49|65|83|101|121|143|165|189|214|240|268|
+|<br>11,2<br>|700|49|66|85|105|127|150|173|200|228|257|287|
+|<br>11,2<br>|600|51|70|91|113|138|164|191|220|251|283|318|
+|<br>11,2<br>|500|53|74|98|123|151|181|212|246|281|319|358|
+|<br>11,2<br>|400|53|77|104|134|166|201|238|278|320|364|411|
+|<br>11,2<br>|350|53|79|109|141|177|215|256|300|347|697|449|
+|<br>11,2<br>|300|53|82|115|151|191|235|281|331|384|440|500|
+|<br>11,2<br>|250|53|87|124|166|212|262|315|373|435|501|570|
+|<br>11,2<br>|200|53|93|137|187|242|302|367|437|512|592|676|
+|<br>11,2<br>|180|53|96|145|199|259|325|396|472|554|642|735|
+|<br>11,2<br>|160|53|100|154|214|280|352|431|516|608|704|809|
+|<br>11,2<br>|150|55|106|163|227|297|374|458|549|646|750|860|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|Przesyłka powoduje odchylenie na łuku (Da) [ mm]|
+|<br>11,4|>1000|43|50|58|65|73|81|87|94|102|110|117|
+|<br>11,4|1000|47|61|76|93|110|128|148|168|190|212|235|
+|<br>11,4|800|49|65|82|101|121|142|165|189|214|240|267|
+|<br>11,4|700|49|66|84|105|127|150|174|200|228|256|287|
+|<br>11,4|600|51|70|91|113|137|163|191|220|251|283|318|
+|<br>11,4|500|53|74|97|123|151|181|212|246|281|319|359|
+|<br>11,4|400|53|77|104|134|166|201|238|278|320|365|412|
+|<br>11,4|350|53|79|108|142|177|216|257|301|348|398|450|
+|<br>11,4|300|53|82|115|152|192|235|282|332|385|442|501|
+|<br>11,4|250|53|87|124|167|213|263|317|375|437|503|573|
+|<br>11,4|200|53|92|137|188|243|304|369|439|514|595|680|
+|<br>11,4|180|53|96|144|200|261|327|398|475|557|646|739|
+|<br>11,4|160|53|100|154|215|282|355|434|520|611|709|813|
+|<br>11,4|150|55|106|164|228|299|376|461|552|650|754|865|
+|<br>11,5|>1000|43|50|57|65|72|79|87|94|102|109|116|
+|<br>11,5|1000|47|61|76|93|110|128|148|168|189|212|235|
+|<br>11,5|800|49|65|82|101|121|142|165|188|213|240|267|
+|<br>11,5|700|49|66|85|105|127|150|174|200|228|256|286|
+|<br>11,5|600|51|70|91|113|137|163|191|220|251|283|317|
+|<br>11,5|500|53|74|98|123|151|181|212|246|282|319|359|
+|<br>11,5|400|53|77|105|134|166|201|239|278|321|365|413|
+|<br>11,5|350|53|79|109|142|176|216|257|301|348|398|451|
+|<br>11,5|300|53|82|116|152|192|236|282|332|396|442|502|
+|<br>11,5|250|53|97|125|168|213|263|318|376|438|514|574|
+|<br>11,5|200|53|93|139|189|244|305|370|441|516|596|682|
+|<br>11,5|180|53|97|146|201|261|328|399|476|559|647|741|
+|<br>11,5|160|53|101|155|216|283|357|436|521|613|711|816|
+|<br>11,5|150|55|106|164|229|300|378|463|554|653|757|867|
+|<br>11,8|>1000|43|50|57|64|71|79|86|93|100|107|115|
+|<br>11,8|1000|47|61|76|93|110|128|147|168|189|211|234|
+|<br>11,8|800|49|65|82|101|121|142|165|188|213|240|267|
+|<br>11,8|700|49|66|85|105|127|150|174|200|227|256|287|
+|<br>11,8|600|51|70|91|113|137|163|191|220|251|284|318|
+|<br>11,8|500|53|74|97|124|152|181|213|246|282|320|360|
+|<br>11,8|400|53|77|104|135|157|202|240|279|322|367|414|
+|<br>11,8|350|53|80|108|143|179|217|259|303|350|400|454|
+|<br>11,8|300|53|93|115|153|194|237|284|334|388|445|505|
+|<br>11,8|250|63|87|124|168|215|265|320|378|441|507|580|
+|<br>11,8|200|53|94|138|190|246|307|373|444|520|601|687|
+|<br>11,8|180|53|97|146|203|264|330|403|480|566|653|747|
+|<br>11,8|160|53|102|155|216|287|360|440|526|619|718|823|
+|<br>11,8|150|55|107|166|231|303|382|467|558|657|762|872|
+|<br>12,0|>1000|43|56|57|64|71|78|85|92|99|106|113|
+|<br>12,0|1000|47|61|76|92|109|128|147|167|188|211|234|
+|<br>12,0|800|49|65|82|101|121|142|165|188|213|239|267|
+|<br>12,0|700|49|66|85|105|127|150|174|200|228|256|287|
+|<br>12,0|600|51|70|91|113|137|163|191|220|251|284|318|
+|<br>12,0|500|53|74|98|124|151|181|213|247|282|320|360|
+|<br>12,0|400|53|77|105|135|167|202|240|280|322|368|415|
+|<br>12,0|350|53|80|110|143|179|218|259|304|351|401|454|
+|<br>12,0|300|53|83|117|154|194|238|285|335|389|446|507|
+|<br>12,0|250|53|88|126|169|216|266|321|380|443|509|580|
+|<br>12,0|200|53|94|140|192|248|309|375|447|523|604|690|
+|<br>12,0|180|53|97|148|204|265|330|405|483|567|656|751|
+|<br>12,0|160|53|402|158|219|288|362|444|530|623|722|828|
+|<br>12,0|150|55|108|167|233|305|384|470|563|662|768|880|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej w metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej w metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej w metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej w metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej w metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej w metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej w metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej w metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej w metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej w metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej w metrach|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|Przesyłka powoduje odchylenie na łuku (Da)  [mm]|
+|<br>12,2|>1000|43|50|56|63|70|77|84|91|98|105|112|
+|<br>12,2|1000|47|61|76|92|110|128|147|167|189|210|234|
+|<br>12,2|800|49|65|82|101|121|143|164|188|213|239|267|
+|<br>12,2|700|49|66|85|105|127|151|174|200|228|256|287|
+|<br>12,2|600|51|70|91|113|138|164|191|221|251|284|318|
+|<br>12,2|500|53|74|98|124|152|182|213|247|283|320|361|
+|<br>12,2|400|53|78|105|136|168|203|241|281|323|368|416|
+|<br>12,2|350|53|80|110|145|180|219|260|305|352|402|456|
+|<br>12,2|300|53|83|117|154|195|239|286|337|391|447|509|
+|<br>12,2|250|53|88|127|170|217|268|323|382|445|511|583|
+|<br>12,2|200|53|94|140|193|249|311|377|449|525|606|694|
+|<br>12,2|180|53|98|149|205|267|335|408|486|570|658|756|
+|<br>12,2|160|53|102|159|221|290|364|445|533|626|724|838|
+|<br>12,2|150|55|108|167|234|307|387|473|566|667|770|885|
+|<br>12,5|>1000|43|49|56|63|70|77|83|90|97|104|111|
+|<br>12,5|1000|47|61|76|92|109|127|147|167|188|210|233|
+|<br>12,5|800|49|65|82|101|121|142|164|188|213|239|267|
+|<br>12,5|700|49|66|85|105|127|151|174|200|228|256|288|
+|<br>12,5|600|51|70|91|113|138|164|191|221|252|284|319|
+|<br>12,5|500|53|74|98|124|152|182|214|248|284|322|362|
+|<br>12,5|400|53|78|106|136|169|204|242|282|325|370|418|
+|<br>12,5|350|53|80|111|144|180|220|261|306|354|405|458|
+|<br>12,5|300|53|83|118|155|196|240|288|339|393|451|512|
+|<br>12,5|250|53|88|127|171|218|270|325|385|228|515|587|
+|<br>12,5|200|53|95|141|194|251|314|381|453|530|612|699|
+|<br>12,5|180|53|99|149|207|270|338|411|491|575|666|762|
+|<br>12,5|160|53|103|159|223|293|368|450|538|632|731|840|
+|<br>12,5|150|55|109|169|237|310|391|478|572|672|779|893|
+|<br>12,8|>1000|43|49|56|63|69|76|83|89|96|102|109|
+|<br>12,8|1000|47|61|76|92|109|127|147|167|188|209|233|
+|<br>12,8|800|49|64|82|101|121|142|165|188|213|239|267|
+|<br>12,8|700|49|66|85|105|127|150|175|201|228|257|288|
+|<br>12,8|600|51|70|91|114|138|164|192|221|252|285|319|
+|<br>12,8|500|53|75|99|125|153|183|215|248|285|323|363|
+|<br>12,8|400|53|78|106|136|170|205|243|283|326|372|420|
+|<br>12,8|350|53|80|11|145|182|221|263|308|356|407|460|
+|<br>12,8|300|53|84|118|156|195|242|290|341|395|453|515|
+|<br>12,8|250|53|88|128|172|221|272|327|387|451|519|591|
+|<br>12,8|200|53|95|143|196|254|316|384|456|534|617|705|
+|<br>12,8|180|53|99|151|209|273|341|415|495|580|671|768|
+|<br>12,8|160|53|104|161|225|296|372|454|543|638|739|847|
+|<br>12,8|150|55|110|171|239|313|395|483|577|678|786|901|
+|<br>13,0|>1000|43|49|56|62|69|75|82|88|95|101|108|
+|<br>13,0|1000|47|61|76|92|109|127|146|167|188|210|233|
+|<br>13,0|800|49|65|82|101|121|142|165|188|213|239|267|
+|<br>13,0|700|49|66|85|105|127|150|175|201|228|257|288|
+|<br>13,0|600|51|70|91|114|138|164|192|222|253|285|320|
+|<br>13,0|500|53|75|99|125|153|183|215|249|285|323|363|
+|<br>13,0|400|53|78|106|137|170|205|243|284|327|373|421|
+|<br>13,0|350|53|81|111|145|182|221|264|309|357|408|462|
+|<br>13,0|300|53|84|119|157|198|243|291|342|397|455|517|
+|<br>13,0|250|53|89|129|173|221|273|329|389|453|521|593|
+|<br>13,0|200|53|96|144|197|255|318|386|459|537|620|708|
+|<br>13,0|180|53|100|152|210|274|343|418|498|584|675|772|
+|<br>13,0|160|53|104|162|227|297|374|457|547|642|744|852|
+|<br>13,0|150|55|110|172|240|316|398|486|581|683|791|906|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|
+|<br>13,2|>1000|43|49|55|61|68|75|81|88|94|100|107|
+|<br>13,2|1000|47|61|76|92|109|127|146|167|188|210|233|
+|<br>13,2|800|49|65|82|101|122|142|165|188|213|239|267|
+|<br>13,2|700|49|66|85|105|127|150|175|201|228|257|288|
+|<br>13,2|600|51|70|91|114|138|165|192|222|253|286|320|
+|<br>13,2|500|53|75|99|125|153|183|215|250|286|324|364|
+|<br>13,2|400|53|78|106|137|170|206|244|285|328|374|422|
+|<br>13,2|350|53|81|112|146|183|222|265|30|358|410|463|
+|<br>13,2|300|53|84|119|158|199|244|292|344|399|457|519|
+|<br>13,2|250|53|89|129|174|222|274|331|391|455|524|596|
+|<br>13,2|200|53|96|145|198|256|320|388|462|540|624|712|
+|<br>13,2|180|53|100|153|212|275|345|420|501|587|679|777|
+|<br>13,2|160|53|105|163|228|299|377|460|550|646|749|857|
+|<br>13,2|150|55|111|173|242|317|400|489|592|687|796|912|
+|<br>13,5|>1000|43|49|55|61|68|74|80|87|93|99|105|
+|<br>13,5|1000|47|61|76|92|109|127|146|166|188|210|233|
+|<br>13,5|800|49|65|82|101|121|142|165|188|213|240|267|
+|<br>13,5|700|49|66|85|105|127|151|175|201|229|258|288|
+|<br>13,5|600|51|70|91|114|139|165|193|222|254|287|321|
+|<br>13,5|500|53|75|99|125|154|184|216|250|287|325|365|
+|<br>13,5|400|53|78|107|138|171|207|245|286|330|376|424|
+|<br>13,5|350|53|81|112|147|184|224|266|312|360|412|466|
+|<br>13,5|300|53|84|120|158|200|246|294|246|401|460|522|
+|<br>13,5|250|53|90|130|175|224|276|333|294|459|528|600|
+|<br>13,5|200|53|96|146|200|259|323|392|466|545|629|718|
+|<br>13,5|180|53|102|154|213|278|348|421|506|593|685|783|
+|<br>13,5|160|53|107|165|231|302|380|465|555|652|755|868|
+|<br>13,5|150|55|112|175|245|321|404|493|590|694|803|920|
+|<br>13,8|>1000|43|49|55|61|67|73|79|86|92|98|104|
+|<br>13,8|1000|47|61|76|92|109|127|146|166|188|210|233|
+|<br>13,8|800|49|65|82|101|121|143|165|188|214|240|267|
+|<br>13,8|700|49|66|85|106|128|151|176|201|229|58|289|
+|<br>13,8|600|51|70|91|115|139|165|193|222|254|288|322|
+|<br>13,8|500|53|75|99|126|154|185|217|250|288|326|367|
+|<br>13,8|400|53|78|107|138|172|208|247|288|331|678|422|
+|<br>13,8|350|53|81|113|147|185|225|268|314|363|414|467|
+|<br>13,8|300|53|85|121|159|202|247|296|349|404|463|525|
+|<br>13,8|250|53|90|131|176|225|279|336|397|462|531|605|
+|<br>13,8|200|53|97|147|201|261|326|395|470|549|634|724|
+|<br>13,8|180|53|102|156|215|281|352|428|510|598|691|790|
+|<br>13,8|160|53|107|167|233|305|384|470|561|658|762|872|
+|<br>13,8|150|55|113|176|247|325|408|499|596|701|811|928|
+|<br>14,0|>1000|43|49|55|61|67|73|79|85|91|97|103|
+|<br>14,0|1000|47|61|76|92|109|127|146|167|188|210|233|
+|<br>14,0|800|49|65|82|101|121|143|165|189|214|240|268|
+|<br>14,0|700|49|65|86|106|130|151|176|202|231|259|289|
+|<br>14,0|600|51|70|92|115|139|166|194|224|255|288|323|
+|<br>14,0|500|53|75|99|126|154|185|217|252|288|327|368|
+|<br>14,0|400|53|79|107|139|172|209|247|289|332|379|428|
+|<br>14,0|350|53|81|113|148|185|226|269|315|364|416|470|
+|<br>14,0|300|53|85|121|160|202|248|297|350|406|465|528|
+|<br>14,0|250|53|90|132|177|227|280|338|399|465|534|608|
+|<br>14,0|200|53|97|148|203|263|328|398|473|553|635|728|
+|<br>14,0|180|53|102|157|217|283|354|431|513|601|695|794|
+|<br>14,0|160|53|107|168|234|308|387|473|565|663|764|878|
+|<br>14,0|150|55|113|178|249|327|411|502|600|705|816|934|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|
+|<br>14,5|>1000|43|48|54|60|66|72|78|84|89|95|101|
+|<br>14,5|1000|47|61|76|92|109|127|146|167|188|210|233|
+|<br>14,5|800|49|65|82|101|122|143|166|189|223|241|269|
+|<br>14,5|700|49|66|86|106|128|152|177|203|231|260|291|
+|<br>14,5|600|51|70|92|115|140|167|195|225|261|289|324|
+|<br>14,5|500|53|75|100|127|155|186|219|254|290|329|370|
+|<br>14,5|400|53|79|108|140|174|211|250|291|335|382|431|
+|<br>14,5|350|53|82|114|149|187|228|272|318|368|420|475|
+|<br>14,5|300|53|86|122|162|205|251|301|354|410|470|533|
+|<br>14,5|250|53|91|133|179|230|281|342|404|471|541|615|
+|<br>14,5|200|53|99|150|206|267|330|404|480|561|647|738|
+|<br>14,5|180|53|103|159|220|287|357|438|521|611|705|806|
+|<br>14,5|160|53|108|170|238|311|391|480|574|673|779|891|
+|<br>14,5|150|55|115|180|253|332|418|511|610|716|829|948|
+|<br>14,8|>1000|43|48|54|60|66|71|77|83|89|94|100|
+|<br>14,8|1000|47|61|76|92|109|127|147|167|188|210|233|
+|<br>14,8|800|49|65|83|102|122|143|166|190|215|242|269|
+|<br>14,8|700|49|66|86|196|129|152|177|203|231|261|291|
+|<br>14,8|600|51|71|92|116|141|167|196|226|257|290|326|
+|<br>14,8|500|53|75|100|127|156|187|220|255|292|331|371|
+|<br>14,8|400|53|79|109|141|175|212|251|293|337|384|433|
+|<br>14,8|350|53|82|115|150|188|229|273|320|370|423|478|
+|<br>14,8|300|53|86|123|163|206|253|303|357|413|474|537|
+|<br>14,8|250|53|91|134|181|231|286|345|408|474|545|619|
+|<br>14,8|200|53|99|151|207|269|336|407|484|565|652|743|
+|<br>14,8|180|53|103|160|222|290|363|442|526|616|711|812|
+|<br>14,8|160|53|109|172|241|316|397|485|579|679|786|898|
+|<br>14,8|150|55|115|182|255|336|422|516|616|723|836|940|
+|<br>15,0|>1000|43|48|54|60|65|71|77|82|88|94|99|
+|<br>15,0|1000|47|61|76|92|109|127|147|167|188|210|233|
+|<br>15,0|800|49|65|83|102|122|143|166|190|215|242|269|
+|<br>15,0|700|49|67|86|107|129|152|177|204|232|261|292|
+|<br>15,0|600|51|71|92|116|141|167|196|226|258|291|326|
+|<br>15,0|500|53|75|100|128|156|187|221|255|292|332|372|
+|<br>15,0|400|53|79|109|141|175|212|252|294|338|386|435|
+|<br>15,0|350|53|82|115|151|189|230|275|321|371|424|480|
+|<br>15,0|300|53|86|123|164|207|254|305|358|415|476|539|
+|<br>15,0|250|53|92|135|182|233|288|347|410|477|548|623|
+|<br>15,0|200|53|100|152|209|271|338|410|487|569|656|748|
+|<br>15,0|180|53|104|161|224|292|363|445|529|620|716|817|
+|<br>15,0|160|53|110|172|242|318|400|488|583|684|791|904|
+|<br>15,0|150|55|116|183|257|338|425|519|620|727|741|962|
+|<br>15,2|>1000|43|48|54|59|65|71|76|82|87|93|99|
+|<br>15,2|1000|47|61|76|92|109|128|147|167|188|211|233|
+|<br>15,2|800|49|65|83|102|122|144|166|190|216|242|270|
+|<br>15,2|700|49|67|86|107|129|153|178|204|232|262|292|
+|<br>15,2|600|51|71|93|116|141|168|197|227|259|292|327|
+|<br>15,2|500|53|76|101|128|157|189|221|256|294|333|374|
+|<br>15,2|400|53|80|109|141|176|214|253|295|340|387|437|
+|<br>15,2|350|55|83|116|151|190|232|276|323|373|426|482|
+|<br>15,2|300|53|86|124|164|208|256|306|360|417|478|542|
+|<br>15,2|250|53|92|135|183|234|290|348|412|479|550|626|
+|<br>15,2|200|53|100|152|210|272|340|412|490|572|659|752|
+|<br>15,2|180|53|104|162|225|294|368|447|533|624|720|822|
+|<br>15,2|160|53|110|174|244|320|403|492|586|638|795|909|
+|<br>15,2|150|55|116|184|259|340|428|523|624|732|846|968|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|
+|<br>15,4|>1000|43|48|54|59|65|70|76|81|87|92|98|
+|<br>15,4|1000|47|61|76|92|110|128|147|167|188|211|234|
+|<br>15,4|800|49|65|83|102|122|144|167|191|216|243|270|
+|<br>15,4|700|49|67|86|107|135|153|178|205|233|262|293|
+|<br>15,4|600|51|71|93|116|142|168|197|227|259|297|328|
+|<br>15,4|500|53|76|101|128|158|189|222|257|294|334|375|
+|<br>15,4|400|53|80|110|142|177|214|254|296|341|389|438|
+|<br>15,4|350|53|83|116|152|191|232|277|324|375|428|484|
+|<br>15,4|300|53|86|124|165|209|257|308|362|419|480|544|
+|<br>15,4|250|53|97|136|183|235|291|350|414|482|553|629|
+|<br>15,4|200|53|100|153|211|274|342|415|492|575|660|756|
+|<br>15,4|180|53|105|163|226|296|370|450|536|629|724|826|
+|<br>15,4|160|53|110|175|246|322|406|495|590|692|800|914|
+|<br>15,4|150|55|117|185|261|342|431|526|628|736|851|973|
+|15,5|>1000|43|48|53|59|64|70|75|81|86|92|97|
+|15,5|1000|47|61|76|92|109|128|147|167|188|211|234|
+|15,5|800|49|65|83|102|122|144|167|191|216|243|270|
+|15,5|700|49|67|86|108|129|153|178|206|233|262|293|
+|15,5|600|51|71|93|116|142|168|197|227|259|293|328|
+|15,5|500|53|76|101|128|158|189|222|257|295|334|375|
+|15,5|400|53|80|110|142|177|214|254|297|342|389|439|
+|15,5|350|53|83|116|152|191|233|277|325|375|428|485|
+|15,5|300|53|87|124|165|210|257|308|362|420|481|545|
+|15,5|250|53|93|136|184|236|292|351|414|483|555|630|
+|15,5|200|53|101|154|211|275|342|416|493|557|665|758|
+|15,5|180|53|105|163|227|297|371|452|536|629|726|829|
+|15,5|160|53|110|176|246|324|407|496|591|694|803|917|
+|15,5|150|55|117|186|261|344|432|528|630|739|854|976|
+|<br>15,6|>1000|43|48|53|59|64|70|75|81|86|92|97|
+|<br>15,6|1000|47|61|76|92|110|128|147|167|189|211|234|
+|<br>15,6|800|49|65|83|102|122|144|167|191|216|243|270|
+|<br>15,6|700|49|67|86|107|130|153|178|206|233|263|293|
+|<br>15,6|600|51|71|93|117|142|169|198|228|260|293|329|
+|<br>15,6|500|53|76|101|129|158|189|222|258|295|335|376|
+|<br>15,6|400|53|80|110|143|178|215|254|297|343|390|440|
+|<br>15,6|350|53|83|116|153|192|233|277|326|376|429|486|
+|<br>15,6|300|53|87|125|166|210|258|308|363|421|482|546|
+|<br>15,6|250|53|93|136|184|236|292|352|416|484|556|632|
+|<br>15,6|200|53|101|154|212|276|344|416|495|579|667|760|
+|<br>15,6|180|53|105|164|228|297|373|452|539|631|728|831|
+|<br>15,6|160|53|111|176|247|325|408|497|594|697|805|920|
+|<br>15,6|150|55|118|187|262|345|434|530|632|741|857|981|
+|<br>16,0|>1000|43|48|53|58|64|69|74|80|85|90|96|
+|<br>16,0|1000|47|61|76|92|110|128|147|168|189|211|235|
+|<br>16,0|800|49|65|83|102|123|144|167|192|217|244|272|
+|<br>16,0|700|49|68|86|108|130|154|179|206|234|264|295|
+|<br>16,0|600|51|71|93|117|142|170|198|229|261|295|330|
+|<br>16,0|500|52|76|102|129|159|190|224|259|297|337|378|
+|<br>16,0|400|53|80|111|143|179|217|257|300|345|393|443|
+|<br>16,0|350|53|83|117|154|193|235|280|328|379|433|490|
+|<br>16,0|300|53|87|126|167|212|260|312|367|425|487|551|
+|<br>16,0|250|53|95|138|186|236|295|356|421|489|562|638|
+|<br>16,0|200|53|104|156|215|276|348|422|501|585|674|768|
+|<br>16,0|180|53|109|166|231|298|377|459|546|638|737|840|
+|<br>16,0|160|53|114|178|250|326|413|505|602|705|812|931|
+|<br>16,0|150|55|119|189|266|349|440|536|640|750|867|991|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|
+|<br>16,5|>1000|43|48|53|58|63|68|73|79|84|89|94|
+|<br>16,5|1000|47|61|76|93|110|128|148|168|190|212|235|
+|<br>16,5|800|49|65|83|103|123|145|168|192|218|245|273|
+|<br>16,5|700|49|67|87|108|130|155|180|207|236|264|296|
+|<br>16,5|600|51|71|94|118|143|171|200|230|263|297|333|
+|<br>16,5|500|53|76|102|130|160|192|226|262|299|339|381|
+|<br>16,5|400|53|81|111|145|180|219|259|303|348|397|447|
+|<br>16,5|350|53|84|118|155|195|238|284|332|383|438|495|
+|<br>16,5|300|53|88|127|169|215|263|316|371|430|492|558|
+|<br>16,5|250|53|94|139|190|242|299|361|426|495|569|646|
+|<br>16,5|200|53|103|158|219|283|353|428|508|593|684|779|
+|<br>16,5|180|53|108|168|235|206|383|466|553|648|748|852|
+|<br>16,5|160|53|114|178|256|335|420|513|611|716|827|944|
+|<br>16,5|150|55|120|192|272|355|447|545|650|762|880|1007|
+|<br>17,0|>1000|43|47|52|57|62|67|72|77|82|87|92|
+|<br>17,0|1000|47|61|76|93|110|129|148|169|190|213|236|
+|<br>17,0|800|49|65|84|103|124|146|169|193|219|246|274|
+|<br>17,0|700|49|67|87|109|130|156|180|208|237|267|297|
+|<br>17,0|600|51|71|94|118|144|172|201|232|265|299|335|
+|<br>17,0|500|53|77|103|131|161|193|228|264|302|342|384|
+|<br>17,0|400|53|81|112|146|182|221|262|306|352|401|452|
+|<br>17,0|350|53|84|119|157|197|241|287|336|383|442|500|
+|<br>17,0|300|53|89|128|171|217|267|320|376|435|498|564|
+|<br>17,0|250|53|95|141|191|245|304|366|432|502|576|654|
+|<br>17,0|200|53|104|160|221|287|359|435|516|602|693|789|
+|<br>17,0|180|53|109|171|238|311|389|473|562|658|758|864|
+|<br>17,0|160|53|115|184|259|340|427|521|621|727|839|963|
+|<br>17,0|150|55|122|195|274|361|454|554|660|774|893|1020|
+|<br>17,5|>1000|43|47|52|57|62|67|72|77|81|86|91|
+|<br>17,5|1000|47|61|77|93|111|129|149|169|191|214|237|
+|<br>17,5|800|49|66|84|104|124|147|170|194|220|247|276|
+|<br>17,5|700|49|67|88|109|132|157|183|210|239|269|300|
+|<br>17,5|600|51|72|95|119|145|173|203|234|267|301|337|
+|<br>17,5|500|53|77|103|132|162|195|229|266|304|345|387|
+|<br>17,5|400|53|82|113|147|184|223|265|309|355|405|456|
+|<br>17,5|350|53|85|120|158|199|243|290|340|392|447|505|
+|<br>17,5|300|53|89|129|173|220|270|323|380|440|504|571|
+|<br>17,5|250|53|96|142|194|249|308|371|436|509|585|663|
+|<br>17,5|200|53|105|162|224|292|364|441|523|611|703|800|
+|<br>17,5|180|53|110|173|242|316|395|475|571|667|769|877|
+|<br>17,5|160|53|116|187|264|345|434|529|630|738|852|972|
+|<br>17,5|150|55|123|198|279|367|462|563|671|785|907|1034|
+|<br>17,6|>1000|43|47|52|57|61|67|71|76|81|86|91|
+|<br>17,6|1000|47|61|77|93|111|130|149|170|191|214|238|
+|<br>17,6|800|49|66|84|104|125|147|170|196|221|248|276|
+|<br>17,6|700|49|67|88|109|132|157|183|210|239|269|301|
+|<br>17,6|600|51|72|95|120|146|174|203|234|297|302|338|
+|<br>17,6|500|53|78|103|132|162|195|230|267|305|246|388|
+|<br>17,6|400|53|82|113|148|184|224|265|310|356|406|457|
+|<br>17,6|350|53|86|120|159|199|244|291|340|393|448|507|
+|<br>17,6|300|53|90|130|174|220|271|324|381|442|505|572|
+|<br>17,6|250|53|96|142|194|249|308|372|439|510|585|664|
+|<br>17,6|200|53|105|162|225|292|365|442|525|612|705|802|
+|<br>17,6|180|53|111|173|242|316|396|481|573|669|771|879|
+|<br>17,6|160|53|117|187|264|346|436|531|62|740|854|975|
+|<br>17,6|150|55|123|198|279|368|463|565|673|788|909|1037|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Da[ mm]|przesyłka powoduje odchylenie na łuku (Da[ mm]|przesyłka powoduje odchylenie na łuku (Da[ mm]|przesyłka powoduje odchylenie na łuku (Da[ mm]|przesyłka powoduje odchylenie na łuku (Da[ mm]|przesyłka powoduje odchylenie na łuku (Da[ mm]|przesyłka powoduje odchylenie na łuku (Da[ mm]|przesyłka powoduje odchylenie na łuku (Da[ mm]|przesyłka powoduje odchylenie na łuku (Da[ mm]|przesyłka powoduje odchylenie na łuku (Da[ mm]|przesyłka powoduje odchylenie na łuku (Da[ mm]|
+|<br>18,0|>1000|43|47|52|57|61|66|71|76|80|85|90|
+|<br>18,0|1000|47|61|77|93|11|130|149|170|192|215|238|
+|<br>18,0|800|49|66|84|104|125|147|171|196|222|249|277|
+|<br>18,0|700|49|67|88|109|132|157|183|210|239|269|301|
+|<br>18,0|600|51|72|95|120|146|174|204|236|269|304|340|
+|<br>18,0|500|53|77|104|133|164|197|231|268|307|348|391|
+|<br>18,0|400|53|82|114|149|186|225|267|312|359|409|461|
+|<br>18,0|350|53|85|121|160|202|246|293|343|396|452|511|
+|<br>18,0|300|53|90|131|175|22|273|327|385|446|510|577|
+|<br>18,0|250|53|96|142|196|251|312|376|443|515|591|671|
+|<br>18,0|200|53|106|162|228|296|370|448|531|619|713|811|
+|<br>18,0|180|53|111|173|245|320|402|488|580|677|780|889|
+|<br>18,0|160|53|118|187|267|351|441|538|640|749|865|986|
+|<br>18,0|150|55|125|201|283|373|469|572|681|797|920|1050|
+|<br>18,5|>1000|43|47|52|56|61|65|70|75|79|84|88|
+|<br>18,5|1000|47|61|77|94|112|130|150|171|193|215|239|
+|<br>18,5|800|49|66|85|105|126|148|172|197|223|250|279|
+|<br>18,5|700|49|68|88|110|134|159|185|211|242|272|305|
+|<br>18,5|600|51|72|96|121|147|176|206|237|271|306|343|
+|<br>18,5|500|53|78|105|134|165|198|234|271|310|351|394|
+|<br>18,5|400|53|83|115|150|188|228|270|315|363|413|466|
+|<br>18,5|350|53|86|122|162|204|249|297|347|401|457|516|
+|<br>18,5|300|53|91|132|177|225|277|332|390|451|516|584|
+|<br>18,5|250|53|96|146|199|255|316|381|449|522|599|679|
+|<br>18,5|200|53|106|166|231|300|375|454|539|628|723|822|
+|<br>18,5|180|53|111|178|249|325|409|495|588|687|791|901|
+|<br>18,5|160|53|118|192|271|357|451|546|650|760|877|1000|
+|<br>18,5|150|55|126|204|288|379|477|581|692|809|934|1055|
+|<br>19,0|>1000|43|47|51|56|60|65|69|74|78|83|87|
+|<br>19,0|1000|47|61|77|94|112|131|151|172|194|217|240|
+|<br>19,0|800|49|66|85|105|123|149|173|198|224|252|281|
+|<br>19,0|700|49|68|89|111|135|160|186|214|244|274|307|
+|<br>19,0|600|51|72|96|121|148|177|207|239|273|308|345|
+|<br>19,0|500|53|78|106|135|167|200|236|273|313|354|398|
+|<br>19,0|400|53|83|116|152|190|230|273|319|367|417|470|
+|<br>19,0|350|53|87|124|163|206|252|300|351|405|762|522|
+|<br>19,0|300|53|91|134|179|228|280|336|395|457|522|591|
+|<br>19,0|250|53|98|148|201|259|320|386|455|529|606|689|
+|<br>19,0|200|53|108|169|234|305|380|461|543|637|732|833|
+|<br>19,0|180|53|114|180|252|330|413|502|597|697|802|912|
+|<br>19,0|160|53|121|195|275|362|455|555|660|772|898|1014|
+|<br>19,0|150|55|128|207|290|385|484|590|702|821|947|1077|
+|<br>19,5|>1000|43|47|51|56|60|64|69|73|77|82|86|
+|<br>19,5|1000|47|62|78|95|113|132|152|173|195|218|242|
+|<br>19,5|800|49|66|85|106|127|150|174|199|226|254|283|
+|<br>19,5|700|49|68|89|112|136|161|188|215|246|277|309|
+|<br>19,5|600|51|73|97|122|150|178|209|241|275|311|348|
+|<br>19,5|500|53|78|106|136|168|202|238|276|316|357|401|
+|<br>19,5|400|53|84|117|153|192|233|276|322|371|422|475|
+|<br>19,5|350|53|87|125|165|208|254|303|355|410|467|528|
+|<br>19,5|300|53|92|135|181|231|284|340|399|462|528|598|
+|<br>19,5|250|53|99|149|204|262|325|391|461|531|614|696|
+|<br>19,5|200|53|109|171|238|309|386|467|554|641|742|844|
+|<br>19,5|180|53|115|183|256|335|420|510|606|702|814|926|
+|<br>19,5|160|53|122|198|280|368|463|563|670|778|903|1031|
+|<br>19,5|150|55|129|210|297|391|492|599|713|834|961|1095|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|
+|<br>20,0|>1000|43|47|51|55|60|64|68|72|77|81|85|
+|<br>20,0|1000|47|62|78|95|113|132|152|174|196|219|243|
+|<br>20,0|800|49|66|86|106|128|151|175|201|227|255|285|
+|<br>20,0|700|49|69|90|112|137|162|189|218|248|279|312|
+|<br>20,0|600|51|73|97|123|151|180|211|243|278|313|351|
+|<br>20,0|500|53|79|107|137|170|204|240|278|319|361|405|
+|<br>20,0|400|53|84|118|155|194|235|279|326|375|426|480|
+|<br>20,0|350|53|88|126|167|211|257|307|359|415|473|534|
+|<br>20,0|300|53|93|136|183|234|287|344|404|468|535|605|
+|<br>20,0|250|53|100|151|206|266|329|396|467|546|622|705|
+|<br>20,0|200|53|110|173|241|314|391|474|562|658|752|855|
+|<br>20,0|180|53|116|185|260|340|426|517|614|720|825|938|
+|<br>20,0|160|53|123|201|284|374|469|572|680|798|915|953|
+|<br>20,0|150|55|131|213|302|397|499|608|724|846|975|1110|
+|<br>20,4|>1000|43|47|51|55|59|63|67|72|76|80|84|
+|<br>20,4|1000|47|62|78|95|114|133|153|175|197|220|244|
+|<br>20,4|800|49|66|86|107|129|152|176|202|229|257|286|
+|<br>20,4|700|49|69|90|113|137|163|190|219|249|280|313|
+|<br>20,4|600|51|73|98|124|152|181|212|245|279|316|353|
+|<br>20,4|500|53|79|108|138|171|205|242|280|321|363|408|
+|<br>20,4|400|53|84|119|156|195|237|281|328|378|430|484|
+|<br>20,4|350|53|88|127|168|213|260|310|363|418|477|538|
+|<br>20,4|300|53|93|138|185|236|290|347|408|472|540|611|
+|<br>20,4|250|53|100|153|208|268|332|400|472|548|628|712|
+|<br>20,4|200|53|111|175|244|317|396|480|568|662|760|864|
+|<br>20,4|180|53|117|187|263|344|431|523|621|725|834|948|
+|<br>20,4|160|53|125|203|287|378|475|578|688|804|926|1054|
+|<br>20,4|150|55|132|215|305|402|505|616|732|854|986|1122|
+|<br>20,5|>1000|43|47|51|55|59|63|67|72|76|80|84|
+|<br>20,5|1000|47|62|78|95|114|133|153|175|197|220|244|
+|<br>20,5|800|49|66|86|107|129|152|176|202|229|257|286|
+|<br>20,5|700|49|69|90|113|138|164|191|220|249|281|314|
+|<br>20,5|600|51|73|98|124|152|181|213|245|280|316|354|
+|<br>20,5|500|53|79|108|138|171|206|242|281|321|364|409|
+|<br>20,5|400|53|84|119|156|195|237|282|329|378|430|485|
+|<br>20,5|350|53|88|127|169|213|260|310|363|419|478|539|
+|<br>20,5|300|53|93|138|185|236|291|348|409|473|541|612|
+|<br>20,5|250|53|100|153|209|269|336|401|473|550|630|714|
+|<br>20,5|200|53|111|175|244|318|400|481|570|664|762|866|
+|<br>20,5|180|53|118|188|264|345|435|526|623|729|836|951|
+|<br>20,5|160|53|125|203|288|379|480|580|690|806|928|1057|
+|<br>20,5|150|55|132|216|306|403|508|617|732|858|988|1125|
+|<br>21,0|>1000|43|47|51|55|59|63|67|71|75|79|83|
+|<br>21,0|1000|47|62|78|96|114|134|154|175|198|221|246|
+|<br>21,0|800|49|67|86|107|129|153|177|203|230|259|288|
+|<br>21,0|700|49|69|91|114|138|165|192|221|251|283|316|
+|<br>21,0|600|51|74|98|125|153|183|214|247|282|319|357|
+|<br>21,0|500|53|79|108|139|172|207|244|283|324|367|412|
+|<br>21,0|400|53|85|120|157|197|240|285|332|382|435|490|
+|<br>21,0|350|53|89|128|170|215|263|314|367|424|483|545|
+|<br>21,0|300|53|94|139|187|239|294|352|414|479|547|619|
+|<br>21,0|250|53|102|155|212|273|338|407|480|557|638|723|
+|<br>21,0|200|53|113|178|248|323|403|488|578|673|773|878|
+|<br>21,0|180|53|119|191|268|350|439|533|632|737|848|964|
+|<br>21,0|160|53|126|206|293|385|484|583|704|818|941|1070|
+|<br>21,0|150|55|134|219|310|409|515|626|745|870|1002|1141|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|
+|<br>21,5|>1000|43|46|50|54|58|62|66|70|74|78|82|
+|<br>21,5|1000|47|62|79|96|115|134|155|177|199|223|247|
+|<br>21,5|800|49|67|87|108|130|154|179|205|232|261|290|
+|<br>21,5|700|49|69|91|115|139|166|194|223|254|285|319|
+|<br>21,5|600|51|74|99|126|154|184|216|250|285|322|360|
+|<br>21,5|500|53|80|109|141|174|209|247|286|328|371|416|
+|<br>21,5|400|53|86|121|159|200|243|288|336|387|440|495|
+|<br>21,5|350|53|90|129|172|218|266|318|372|429|489|551|
+|<br>21,5|300|53|95|141|190|242|298|357|419|485|554|626|
+|<br>21,5|250|53|102|156|214|276|342|412|486|564|645|731|
+|<br>21,5|200|53|114|180|251|327|408|494|55|682|783|889|
+|<br>21,5|180|53|120|193|271|355|445|540|641|747|859|976|
+|<br>21,5|160|53|128|209|297|390|491|597|710|829|954|1086|
+|<br>21,5|150|55|135|222|315|415|523|636|756|883|1016|1156|
+|<br>22,0|>1000|43|46|50|54|58|62|66|70|73|77|81|
+|<br>22,0|1000|47|62|79|97|115|135|156|178|200|224|249|
+|<br>22,0|800|49|67|87|109|131|155|180|206|234|263|293|
+|<br>22,0|700|49|69|92|115|140|167|195|224|254|288|321|
+|<br>22,0|600|51|74|100|127|156|186|218|252|287|324|363|
+|<br>22,0|500|53|80|111|142|176|211|249|289|331|374|420|
+|<br>22,0|400|53|86|123|161|313|245|291|340|391|444|500|
+|<br>22,0|350|53|90|132|174|220|269|321|376|434|494|557|
+|<br>22,0|300|53|96|143|192|254|301|361|424|491|560|634|
+|<br>22,0|250|53|103|158|217|280|346|416|492|571|654|740|
+|<br>22,0|200|53|115|182|254|332|414|500|592|691|793|900|
+|<br>22,0|180|53|121|195|275|361|451|547|650|757|871|989|
+|<br>22,0|160|53|129|212|301|397|498|605|720|841|967|1100|
+|<br>22,0|150|55|137|225|320|422|530|645|767|895|1030|1172|
+|<br>22,5|>1000|43|46|50|54|58|61|65|69|73|77|80|
+|<br>22,5|1000|47|62|79|97|116|136|157|179|202|225|250|
+|<br>22,5|800|49|67|88|109|132|156|181|208|235|264|295|
+|<br>22,5|700|49|70|92|116|141|168|197|226|257|290|324|
+|<br>22,5|600|51|75|100|128|157|188|220|254|290|327|366|
+|<br>22,5|500|53|81|111|143|177|213|251|292|334|378|424|
+|<br>22,5|400|56|87|123|162|204|248|294|343|395|449|505|
+|<br>22,5|350|56|91|132|176|223|272|325|380|438|500|563|
+|<br>22,5|300|56|96|143|194|248|305|365|429|496|567|641|
+|<br>22,5|250|56|104|160|220|283|351|423|498|578|662|749|
+|<br>22,5|200|56|116|184|258|336|420|508|601|700|803|912|
+|<br>22,5|180|56|123|199|279|366|459|556|659|768|882|1002|
+|<br>22,5|160|56|131|215|306|402|505|615|731|852|980|1115|
+|<br>22,5|150|55|138|228|323|428|538|654|778|907|1044|1187|
+|<br>23,0|>1000|43|46|50|54|57|61|65|68|72|76|79|
+|<br>23,0|1000|47|63|80|98|117|137|158|180|203|227|252|
+|<br>23,0|800|49|68|88|110|133|157|183|209|237|266|297|
+|<br>23,0|700|49|70|93|117|143|170|198|228|259|292|326|
+|<br>23,0|600|51|75|101|129|158|189|222|256|292|330|369|
+|<br>23,0|500|53|81|112|144|179|215|254|294|337|382|428|
+|<br>23,0|400|53|87|124|164|206|250|297|347|399|454|511|
+|<br>23,0|350|53|91|133|178|225|275|328|384|443|505|570|
+|<br>23,0|300|53|97|145|196|251|309|370|454|502|574|648|
+|<br>23,0|250|53|107|162|222|287|355|428|505|585|670|758|
+|<br>23,0|200|53|117|187|261|341|425|515|610|709|814|923|
+|<br>23,0|180|53|124|201|283|371|464|563|668|778|894|1015|
+|<br>23,0|160|53|132|218|310|408|513|624|741|864|994|1129|
+|<br>23,0|150|55|140|231|329|434|544|664|788|920|1058|1203|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|
+|<br>23,5|>1000|43|46|50|53|57|61|64|68|71|75|79|
+|<br>23,5|1000|47|63|80|98|117|138|159|181|204|228|254|
+|<br>23,5|800|49|68|89|111|134|158|184|211|239|268|299|
+|<br>23,5|700|49|70|93|118|144|171|200|230|262|295|329|
+|<br>23,5|600|51|75|102|130|159|191|224|258|295|333|373|
+|<br>23,5|500|53|81|112|145|180|217|256|297|340|385|432|
+|<br>23,5|400|53|87|125|165|208|253|301|351|403|458|516|
+|<br>23,5|350|53|91|134|179|228|278|332|389|448|511|576|
+|<br>23,5|300|53|97|146|198|254|312|374|440|508|580|656|
+|<br>23,5|250|53|106|163|225|292|360|433|511|592|678|767|
+|<br>23,5|200|53|118|189|234|348|431|522|618|718|824|935|
+|<br>23,5|180|53|125|203|286|379|471|571|677|788|905|1028|
+|<br>23,5|160|53|134|221|314|417|520|632|751|876|1007|1144|
+|<br>23,5|150|55|141|234|334|444|553|673|800|932|1073|1219|
+|<br>24,0|>1000|43|46|50|53|57|60|64|67|71|74|78|
+|<br>24,0|1000|47|63|80|99|118|138|160|182|205|230|255|
+|<br>24,0|800|49|68|89|111|135|159|185|212|241|270|301|
+|<br>24,0|700|49|70|94|118|145|172|201|232|264|297|332|
+|<br>24,0|600|51|76|102|131|161|192|226|261|297|336|376|
+|<br>24,0|500|53|82|113|147|182|219|259|300|343|389|436|
+|<br>24,0|400|53|88|126|167|210|256|304|354|407|463|521|
+|<br>24,0|350|53|93|136|181|230|282|336|393|453|516|582|
+|<br>24,0|300|53|99|148|201|257|316|379|445|514|587|663|
+|<br>24,0|250|53|107|165|228|294|364|439|517|600|685|776|
+|<br>24,0|200|53|119|191|268|350|437|529|626|728|834|946|
+|<br>24,0|180|53|126|206|291|381|477|579|686|799|916|1041|
+|<br>24,0|160|53|135|224|319|420|528|641|761|888|1019|1159|
+|<br>24,0|150|55|143|238|339|447|561|683|810|945|1086|1234|
+|<br>24,5|>1000|43|46|49|53|56|60|63|67|70|74|77|
+|<br>24,5|1000|47|63|81|99|119|139|161|183|207|231|257|
+|<br>24,5|800|49|68|90|112|136|160|187|214|243|273|304|
+|<br>24,5|700|49|71|94|119|146|174|203|234|266|300|335|
+|<br>24,5|600|51|76|103|132|162|194|228|263|300|339|379|
+|<br>24,5|500|53|82|114|148|184|221|261|303|347|393|404|
+|<br>24,5|400|53|89|127|168|212|258|307|358|412|468|527|
+|<br>24,5|350|53|93|137|183|232|285|340|397|458|522|588|
+|<br>24,5|300|53|99|149|203|260|320|383|450|520|594|670|
+|<br>24,5|250|53|108|168|230|298|368|444|524|597|694|785|
+|<br>24,5|200|53|121|194|272|355|442|536|634|737|845|958|
+|<br>24,5|180|53|128|209|295|388|483|587|693|809|929|1049|
+|<br>24,5|160|53|136|227|323|426|534|650|772|899|1033|1165|
+|<br>24,5|150|55|145|242|344|453|569|692|821|958|1098|1250|
+|<br>25,0|>1000|43|46|49|53|56|60|63|66|70|73|77|
+|<br>25,0|1000|47|63|81|100|119|137|162|185|208|233|259|
+|<br>25,0|800|49|69|90|113|137|162|188|216|245|275|306|
+|<br>25,0|700|49|71|95|120|147|175|205|236|269|302|337|
+|<br>25,0|600|51|76|104|133|163|196|230|265|303|342|383|
+|<br>25,0|500|53|83|115|149|185|224|264|306|350|396|445|
+|<br>25,0|400|53|89|128|170|214|261|310|362|416|473|532|
+|<br>25,0|350|53|94|138|185|235|288|343|402|463|527|595|
+|<br>25,0|300|53|100|151|205|263|324|288|455|526|600|678|
+|<br>25,0|250|53|109|169|233|301|374|450|530|614|702|795|
+|<br>25,0|200|53|122|196|275|359|449|543|642|746|855|970|
+|<br>25,0|180|53|129|211|298|392|490|594|704|819|940|1067|
+|<br>25,0|160|53|138|230|328|432|542|659|782|611|1047|1188|
+|<br>25,0|150|55|146|244|348|459|577|701|833|970|1115|1266|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|
+|<br>25,5|>1000|43|46|49|52|56|59|62|66|69|72|76|
+|<br>25,5|1000|47|63|81|100|120|141|163|186|210|235|260|
+|<br>25,5|800|49|69|90|113|137|163|196|217|246|277|308|
+|<br>25,5|700|49|72|95|121|148|176|206|236|270|303|338|
+|<br>25,5|600|51|77|104|134|165|197|232|268|306|395|386|
+|<br>25,5|500|53|83|116|150|187|226|266|309|353|400|449|
+|<br>25,5|400|53|90|129|172|216|264|313|366|420|478|537|
+|<br>25,5|350|53|94|139|187|238|291|347|406|468|533|601|
+|<br>25,5|300|53|101|152|207|266|327|392|460|532|607|685|
+|<br>25,5|250|53|110|171|236|305|378|455|536|622|711|804|
+|<br>25,5|200|53|123|198|279|364|454|550|650|756|866|981|
+|<br>25,5|180|53|130|214|304|397|497|602|713|830|952|1080|
+|<br>25,5|160|53|139|233|332|438|550|668|792|923|1060|1203|
+|<br>25,5|150|55|148|247|352|466|584|711|844|983|1129|1281|
+|<br>26,0|>1000|43|46|49|52|56|59|62|65|69|72|75|
+|<br>26,0|1000|47|64|82|101|121|142|164|187|211|236|262|
+|<br>26,0|800|49|69|91|114|138|164|191|219|248|279|311|
+|<br>26,0|700|49|72|96|122|149|178|208|240|273|307|343|
+|<br>26,0|600|51|77|105|135|166|199|234|270|308|348|389|
+|<br>26,0|500|53|84|117|152|189|228|269|312|357|404|453|
+|<br>26,0|400|53|90|131|173|219|266|317|370|425|483|543|
+|<br>26,0|350|53|95|141|189|240|294|351|411|473|539|607|
+|<br>26,0|300|53|102|154|210|269|331|397|466|538|614|693|
+|<br>26,0|250|53|111|173|239|309|383|461|543|629|719|813|
+|<br>26,0|200|53|124|201|282|369|460|557|658|765|876|993|
+|<br>26,0|180|53|131|216|306|402|503|610|722|840|964|1093|
+|<br>26,0|160|53|140|236|337|444|557|677|803|935|1073|1218|
+|<br>26,0|150|55|149|250|358|472|593|720|855|996|1143|1298|
+|<br>26,5|>1000|43|46|49|52|55|58|62|65|68|71|75|
+|<br>26,5|1000|47|64|82|101|122|143|165|188|213|238|264|
+|<br>26,5|800|49|69|91|115|139|165|192|221|250|281|313|
+|<br>26,5|700|49|72|96|123|150|179|210|242|275|310|346|
+|<br>26,5|600|51|77|106|136|167|201|236|273|311|351|393|
+|<br>26,5|500|53|84|117|153|190|230|271|315|360|408|457|
+|<br>26,5|400|53|91|132|175|221|269|320|373|429|488|548|
+|<br>26,5|350|53|96|142|191|243|297|355|415|478|544|614|
+|<br>26,5|300|53|102|155|212|272|335|401|471|544|641|700|
+|<br>26,5|250|53|112|174|240|312|387|466|549|636|727|822|
+|<br>26,5|200|53|125|203|286|373|466|564|666|774|887|1005|
+|<br>26,5|180|53|133|219|310|407|510|618|732|857|976|1106|
+|<br>26,5|160|53|142|239|341|450|565|686|813|947|1087|1233|
+|<br>26,5|150|55|150|253|363|478|599|730|866|1008|1158|1313|
+|<br>27,0|>1000|43|46|49|52|55|58|61|65|68|71|74|
+|<br>27,0|1000|47|64|82|102|122|144|166|190|214|239|266|
+|<br>27,0|800|49|70|92|116|140|166|200|222|252|283|316|
+|<br>27,0|700|49|72|97|124|151|181|212|244|277|312|349|
+|<br>27,0|600|51|78|106|137|169|206|238|275|314|354|396|
+|<br>27,0|500|53|84|118|154|192|232|274|318|364|411|461|
+|<br>27,0|400|53|91|133|177|223|272|323|377|434|492|554|
+|<br>27,0|350|53|96|143|193|245|301|359|420|484|550|620|
+|<br>27,0|300|53|103|157|214|275|339|406|476|550|627|708|
+|<br>27,0|250|53|112|176|244|316|392|472|556|644|736|831|
+|<br>27,0|200|53|126|205|489|378|472|571|675|784|898|1016|
+|<br>27,0|180|53|134|221|314|412|516|626|741|861|988|1119|
+|<br>27,0|160|53|144|242|345|456|572|699|823|959|1100|1248|
+|<br>27,0|150|55|151|254|364|481|605|736|873|1017|1168|1325|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|
+|Rozstaw<br>osi<br><br>|[<br>]<br> <br>Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|przesyłka powoduje odchylenie na łuku (Da)  [mm]|
+|<br>27,5|>1000|43|46|49|52|55|58|61|64|67|70|73|
+|<br>27,5|1000|47|64|83|102|123|145|167|191|216|241|268|
+|<br>27,5|800|49|70|92|116|147|168|195|224|254|286|318|
+|<br>27,5|700|49|72|98|125|153|182|213|246|280|315|352|
+|<br>27,5|600|51|78|107|138|170|204|240|277|317|358|400|
+|<br>27,5|500|53|85|119|155|194|234|276|321|367|415|466|
+|<br>27,5|400|53|92|134|178|225|275|327|381|438|497|559|
+|<br>27,5|350|53|97|144|195|248|304|363|424|489|556|626|
+|<br>27,5|300|53|104|158|216|278|342|410|482|556|634|716|
+|<br>27,5|250|53|113|178|247|320|397|477|562|651|745|841|
+|<br>27,5|200|53|128|208|293|383|478|578|683|784|907|1028|
+|<br>27,5|180|53|136|224|318|418|523|634|750|872|998|1132|
+|<br>27,5|160|53|145|245|349|462|579|704|834|971|1112|1262|
+|<br>27,5|150|55|154|260|372|491|612|749|886|1030|1184|1345|
+|<br>28,0|>1000|43|46|49|52|55|58|61|64|67|70|73|
+|<br>28,0|1000|47|64|83|103|124|146|168|192|517|243|270|
+|<br>28,0|800|49|70|93|117|142|169|197|226|256|288|321|
+|<br>28,0|700|49|73|98|125|155|184|214|248|582|318|355|
+|<br>28,0|600|51|78|108|139|172|206|242|280|319|360|403|
+|<br>28,0|500|53|85|120|157|195|236|279|324|370|419|470|
+|<br>28,0|400|53|92|135|180|227|277|330|385|442|502|565|
+|<br>28,0|350|53|98|146|197|250|307|366|429|494|562|633|
+|<br>28,0|300|53|105|160|219|281|346|415|487|562|641|723|
+|<br>28,0|250|53|114|180|250|324|401|483|569|659|752|850|
+|<br>28,0|200|53|129|210|296|388|484|585|691|803|919|1040|
+|<br>28,0|180|53|137|227|322|423|530|642|760|883|1011|1146|
+|<br>28,0|160|53|147|248|354|468|587|713|845|983|1127|1278|
+|<br>28,0|150|55|156|262|378|497|625|759|899|1046|1200|1361|
+|<br>28,5|>1000|43|45|48|51|54|57|60|63|66|69|72|
+|<br>28,5|1000|47|65|84|104|125|147|170|194|219|245|272|
+|<br>28,5|800|49|70|93|118|143|170|198|228|258|290|323|
+|<br>28,5|700|49|73|98|126|155|185|217|250|284|320|358|
+|<br>28,5|600|51|79|108|140|173|208|244|282|322|364|407|
+|<br>28,5|500|53|86|121|158|197|238|282|327|374|423|474|
+|<br>28,5|400|53|93|136|182|230|280|333|389|447|508|571|
+|<br>28,5|350|53|98|147|199|253|310|370|433|499|568|639|
+|<br>28,5|300|53|105|162|221|284|350|420|492|569|648|731|
+|<br>28,5|250|53|115|182|252|327|406|491|576|666|761|859|
+|<br>28,5|200|53|130|212|300|392|490|595|700|812|929|1052|
+|<br>28,5|180|53|188|229|326|428|532|652|769|893|1023|1156|
+|<br>28,5|160|53|148|251|359|173|594|724|855|994|1140|1292|
+|<br>28,5|150|55|157|266|382|504|633|769|910|1059|1215|1378|
+|<br>29,0|>1000|43|45|48|51|54|57|60|63|66|69|72|
+|<br>29,0|1000|47|65|84|104|125|148|171|195|220|246|274|
+|<br>29,0|800|49|71|94|119|144|171|200|229|260|292|326|
+|<br>29,0|700|49|73|100|126|156|187|219|252|287|323|361|
+|<br>29,0|600|51|79|109|141|174|210|249|285|325|367|410|
+|<br>29,0|500|53|86|122|159|199|241|284|330|377|427|479|
+|<br>29,0|400|53|94|137|183|232|283|337|393|451|513|576|
+|<br>29,0|350|53|99|148|200|256|313|374|438|504|574|646|
+|<br>29,0|300|53|106|163|223|287|354|424|498|575|655|739|
+|<br>29,0|250|53|116|184|255|331|411|494|582|673|769|869|
+|<br>29,0|200|53|131|215|303|397|496|599|708|821|940|1054|
+|<br>29,0|180|53|139|232|330|435|543|658|778|904|1035|1172|
+|<br>29,0|160|53|150|254|363|479|602|730|865|1006|1154|1308|
+|<br>29,0|150|55|159|269|386|510|641|778|922|1072|1229|1393|
+
+|Col1|Col2|PKP POLSKIE LINIE KOLEJOWE S.A.|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rozstaw osi<br>[m]|<br>Promień<br>łuku R<br>[m]|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|<br>Na wagonie bez wózków (p = 0) i odległości punktu zewnętrznego na od osi skrajnej  w  metrach|
+|Rozstaw osi<br>[m]|<br>Promień<br>łuku R<br>[m]|0|1|2|3|4|5|6|7|8|9|10|
+|Rozstaw osi<br>[m]|<br>Promień<br>łuku R<br>[m]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|przesyłka powoduje odchylenie na łuku (Da) [ mm]|
+|<br>29,5|>1000|43|45|48|51|54|57|60|63|66|68|71|
+|<br>29,5|1000|47|65|84|105|126|149|172|196|222|248|276|
+|<br>29,5|800|49|71|94|119|145|173|201|231|262|295|328|
+|<br>29,5|700|49|73|100|128|157|188|220|254|289|326|364|
+|<br>29,5|600|51|79|110|142|176|211|249|287|328|370|414|
+|<br>29,5|500|53|87|123|161|201|243|287|333|381|431|483|
+|<br>29,5|400|53|94|138|185|234|286|340|397|456|518|582|
+|<br>29,5|350|53|100|150|202|258|317|378|442|510|580|652|
+|<br>29,5|300|53|107|165|226|290|358|429|503|581|662|746|
+|<br>29,5|250|53|117|286|258|335|415|500|588|681|778|878|
+|<br>29,5|200|53|132|217|207|402|502|606|716|831|951|1076|
+|<br>29,5|180|53|141|235|334|439|550|666|787|914|1047|1185|
+|<br>29,5|160|53|151|257|368|486|608|739|876|1018|1167|1323|
+|<br>29,5|150|55|162|273|391|517|649|787|933|1085|1244|1409|
+|<br>30,0|>1000|43|45|48|51|54|57|60|62|65|68|71|
+|<br>30,0|1000|47|65|85|105|127|149|173|198|223|250|277|
+|<br>30,0|800|49|71|95|120|146|174|203|233|264|297|331|
+|<br>30,0|700|49|74|101|129|159|190|222|256|291|328|367|
+|<br>30,0|600|51|80|111|143|177|213|251|290|331|373|417|
+|<br>30,0|500|53|87|123|162|202|245|290|336|384|435|487|
+|<br>30,0|400|53|95|139|187|236|289|344|401|460|523|587|
+|<br>30,0|350|53|100|151|204|261|320|382|447|515|585|659|
+|<br>30,0|300|53|108|166|228|293|362|434|509|587|669|754|
+|<br>30,0|250|53|118|188|261|339|420|506|595|689|786|888|
+|<br>30,0|200|53|134|220|311|407|508|614|725|841|959|1088|
+|<br>30,0|180|53|142|239|338|444|556|674|796|925|1059|1199|
+|<br>30,0|160|53|152|260|457|492|617|749|886|1031|1181|1338|
+|<br>30,0|150|55|163|276|396|523|657|797|944|1098|1258|1425|
+
+**Załącznik nr 7 - Tablica odchyleń D’ na łukach wagonów na wózkach**
+
+Odchylenia D’ na łukach wagonów na wózkach, w zależności od rozstawu osi w wózku, oblicza się
+według wzoru:
+
+#### 1000 p D = '
+
+#### 1000 p 2 = ' [ mm ] 8 R
+
+#### [ mm _R_
+
+gdzie: p – rozstaw osi skrajnych wózka [m],
+R – promień łuku [m].
+
+|Promień<br>[m]|Dla rozstawu osi w wózku w metrach|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|<br>Promień<br>[m]|2|3|4|5|6|7|8|9|10|
+|<br>Promień<br>[m]|D’ [mm]|D’ [mm]|D’ [mm]|D’ [mm]|D’ [mm]|D’ [mm]|D’ [mm]|D’ [mm]|D’ [mm]|
+|1000|1|1|2|3|5|6|8|10|13|
+|800|1|1|3|4|6|8|10|13|16|
+|600|1|2|3|5|8|10|13|17|21|
+|500|1|2|4|6|9|12|16|20|25|
+|400|1|3|5|8|11|15|20|25|31|
+|350|1|3|6|9|13|18|23|29|36|
+|300|2|4|6|10|15|20|27|34|42|
+|250|2|5|8|13|18|25|32|41|50|
+|225|2|5|9|14|20|27|36|45|56|
+|200|3|6|10|16|23|31|40|51|63|
+|175|3|6|11|18|26|35|46|58|71|
+|150|3|8|13|21|30|41|53|68|83|
+
+**Załącznik nr 8 - Wzór protokołu komisyjnego sprawdzenia przesyłki nadzwyczajnej**
+
+Stacja:
+
+**PROTOKÓŁ**
+
+**KOMISYJNEGO SPRAWDZENIA PRZESYŁKI NADZWYCZAJNEJ**
+
+spisany dnia roku przez komisję sprawdzającą wymiary oraz sposób załadowania
+i umocowania przesyłki nadzwyczajnej, stosownie do zgody na przewóz przesyłki nadzwyczajnej
+Nr z dnia .
+
+Komisja w składzie, podanym na końcu protokołu, stwierdziła, że:
+
+1) Wagon nr serii
+dostarczony do załadowania przesyłki odpowiada warunkom wymaganym przy tym przewozie.
+2) Przesyłka jest załadowana i umocowana prawidłowo, a jej części ruchome zabezpieczone od zmiany położenia.
+3) Warunki § 22 instrukcji Ir-10 zostały wykonane.
+4) Po dokonaniu pomiarów punkty krytyczne przesyłki są następujące:
+
+|Col1|Szerokość przesyłki od osi<br>podłużnej wagonu [mm]|Col3|Wysokość przesyłki ponad<br>główką szyny<br>[mm]|Odległość punktu wewnętrznego<br>i zewnętrznego od najbliższej osi<br>skrajnej, względnie czopa skrętu<br>wózków lub mostu nośnego,<br>wagonu [mm]|Col6|
+|---|---|---|---|---|---|
+||Strona lewa|Strona prawa|Strona prawa|ni|na|
+||12a|12b|13|14|15|
+|A <br>B <br>C||||||
+
+Na podstawie powyższego, komisja stwierdza, że przesyłka może być przyjęta do przewozu
+na liniach zarządzanych przez Zarządcę i może być przekazana na kolej innego zarządcy.
+
+Uwagi komisji:
+Komisja:
+
+Przewodniczący
+
+Nadawca
+
+|Nazwisko i imię|Podpis|
+|---|---|
+|<br>1)<br>2)<br>3)<br>|<br> <br> <br> <br>|
+
+**Załącznik nr 9 - Wzór wniosku o uzgodnienie przewozu**
+
+|1)|Nazwa przesyłki i ilość sztuk:|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|2)|Rodzaj i seria wagonu, znaki RIV, RIC, TEN:|Rodzaj i seria wagonu, znaki RIV, RIC, TEN:|Rodzaj i seria wagonu, znaki RIV, RIC, TEN:|||||||
+|3)|Rozstaw osi skrajnych, względnie czopów skrętu<br>wózków lub mostu nośnego, wagonu (a):|Rozstaw osi skrajnych, względnie czopów skrętu<br>wózków lub mostu nośnego, wagonu (a):|Rozstaw osi skrajnych, względnie czopów skrętu<br>wózków lub mostu nośnego, wagonu (a):||||||mm|
+|4)|Rozstaw osi skrajnych wózków (p):|Rozstaw osi skrajnych wózków (p):|Rozstaw osi skrajnych wózków (p):||||||mm|
+|5)|Liczba osi:|Liczba osi:|Liczba osi:|||||||
+|6a)|Długość wagonu ze zderzakami:|Długość wagonu ze zderzakami:|Długość wagonu ze zderzakami:||||||mm|
+|6b)|Wysokość ładowania:|Wysokość ładowania:|Wysokość ładowania:||||||mm|
+|7)|Masa własna pojazdu/wagonu:|Masa własna pojazdu/wagonu:|Masa własna pojazdu/wagonu:||||||t|
+|8)|Masa przesyłki:|Masa przesyłki:|Masa przesyłki:||||||t|
+|7+8)|Masa przesyłki + wagonu:|Masa przesyłki + wagonu:|Masa przesyłki + wagonu:||||||t|
+|9)|Maksymalne obciążenie na metr bieżący toru:|Maksymalne obciążenie na metr bieżący toru:|Maksymalne obciążenie na metr bieżący toru:|||kN|||t/m|
+|10)|Maksymalne obciążenie na oś wagonu:|Maksymalne obciążenie na oś wagonu:|Maksymalne obciążenie na oś wagonu:|||kN|||t/oś|
+|11)|Długość przesyłki:|Długość przesyłki:|Długość przesyłki:||||||mm|
+|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|
+|Punkty|**12a)**|**12b)**|**13)**|**14)**|**15)**|**16)**|**16)**|**17)**|**18)**|
+|Punkty|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|
+|A||||||||||
+|B||||||||||
+|C||||||||||
+|19)|Uwagi do punktów krytycznych przesyłki:|Uwagi do punktów krytycznych przesyłki:|Uwagi do punktów krytycznych przesyłki:|||||||
+|20a)|Nadawca:|Nadawca:|Nadawca:|||||||
+|20b)|Przewoźnik:|Przewoźnik:|Przewoźnik:|||||||
+|21)|Stacja nadania:|Stacja nadania:|Stacja nadania:|||||||
+|22)|Stacja przeznaczenia:|Stacja przeznaczenia:|Stacja przeznaczenia:|||||||
+|23)|Preferowana droga przewozu:|Preferowana droga przewozu:|Preferowana droga przewozu:|Preferowana droga przewozu:|Preferowana droga przewozu:|Preferowana droga przewozu:|Preferowana droga przewozu:|Preferowana droga przewozu:|Preferowana droga przewozu:|
+|24)|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|
+|25)|Stacja, na której będzie dokonywana odprawa<br>celna:|Stacja, na której będzie dokonywana odprawa<br>celna:|Stacja, na której będzie dokonywana odprawa<br>celna:|||||||
+|26)|Nazwa nabrzeża:|Nazwa nabrzeża:|Nazwa nabrzeża:|||||||
+|27)|Odbiorca, spedytor:|Odbiorca, spedytor:|Odbiorca, spedytor:|||||||
+|28)|Różne:|Różne:|Różne:|||||||
+|29)|Inne warunki przewozu:|Inne warunki przewozu:|Inne warunki przewozu:|||||||
+|30)|Kierunek usytuowania przesyłki:|Kierunek usytuowania przesyłki:|Kierunek usytuowania przesyłki:|||||||
+|31)|Wcześniejsze nr zezwoleń:|Wcześniejsze nr zezwoleń:|Wcześniejsze nr zezwoleń:|||||||
+|32)|Dzień załadunku, dzień dostawy:|Dzień załadunku, dzień dostawy:|Dzień załadunku, dzień dostawy:|||||||
+|33)|Konieczność przeprowadzenia przeglądu na<br>danej stacji:|Konieczność przeprowadzenia przeglądu na<br>danej stacji:|Konieczność przeprowadzenia przeglądu na<br>danej stacji:|||||||
+|34)|Warunki techniczne na terenie obcego zarządcy:|Warunki techniczne na terenie obcego zarządcy:|Warunki techniczne na terenie obcego zarządcy:|||||||
+|35)|Warunki techniczne na przejściu granicznym:|Warunki techniczne na przejściu granicznym:|Warunki techniczne na przejściu granicznym:|||||||
+|36)|Czas przejazdu:|Czas przejazdu:|Czas przejazdu:|||||||
+
+Uwaga:
+pozycji kodów, których przewóz nie dotyczy nie należy podawać
+
+**Opis punktów Załącznika nr 9.**
+
+(1) - Nazwa przesyłki i liczba sztuk;
+(2) - Rodzaj i seria wagonu, znaki RIV, RIC, TEN;
+(3) - Rozstaw osi skrajnych, względnie czopów skrętu wózków lub mostu nośnego, wagonu (a) [mm];
+(4) - Rozstaw osi skrajnych wózków (p) [mm];
+(5) - Liczba osi;
+(6a) - Długość wagonu ze zderzakami [mm];
+(6b) - Wysokość ładowania [mm];
+(7) - Masa własna pojazdu / wagonu [t];
+(8) - Masa przesyłki [t];
+(7+8) - Masa całkowita [t];
+(9) - Obciążenie na metr bieżący toru [t/m];
+(10) - Największe obciążenie na oś wagonu [t/oś], [kN];
+(11) - Długość przesyłki [mm];
+(12) - Szerokość przesyłki od osi podłużnej wagonu [mm] (dla przewozów intermodalnych z uwzględnieniem dopuszczalnej tolerancji bocznego przesunięcia na gniazdach
+zaczepowych);
+(13) - Wysokość przesyłki ponad główkę szyny [mm];
+(14) - Odległość punktu wewnętrznego (ni) od najbliższej osi skrajnej, względnie czopa skrętu wózków lub mostu nośnego, wagonu [mm];
+(15) - Odległość punktu zewnętrznego (na) od najbliższej osi skrajnej, względnie czopa skrętu wózków lub mostu nośnego, wagonu [mm];
+(16) - Poziome odchylenie eksploatacyjne (X) [mm];
+(17) - Odchylenia na łuku (Di lub Da) [mm];
+(18) - Suma punktów (12) + (16) + (17) [mm];
+(19) - Uwagi do punktów krytycznych przesyłki;
+(20a) - Nadawca;
+(20b) - Przewoźnik;
+(21) - Stacja nadania;
+(22) - Stacja przeznaczenia;
+(23) – Proponowana droga przewozu, przejścia graniczne;
+(24) - Warunki przewozu: prędkość maksymalna [km/h] i jej ograniczenia;
+(25) - Stacja, na której będzie dokonywana odprawa celna;
+(26) - Nazwa nabrzeża przeładunkowego;
+(27a) - Odbiorca, spedytor;
+(28) - Różne np.: a) maksymalna ładowność wagonu dla danej klasy linii,
+b) średnica kół w zestawach kołowych,
+c) inne dane techniczne pojazdu i jego warunki eksploatacyjne,
+d) inne uwagi dotyczące jazdy;
+(29) - Inne warunki przewozu: a) uszynienie przesyłki,
+b) jazda z własnym napędem czy jazda w stanie nieczynnym,
+c) kolejność za lokomotywą, na końcu pociągu,
+d) zabronione popychanie, odrzucanie, jazda przez górki rozrządowe,
+e) nie rozdzielać grupy wagonowej;
+(30) - Kierunek usytuowania przesyłki;
+(31) - Wcześniejsze nr zezwoleń;
+(32) - Dzień załadunku, dzień dostawy;
+
+(33) - Konieczność przeprowadzenia przeglądu na danej stacji;
+(34) - Warunki techniczne i eksploatacyjne na terenie obcego zarządcy;
+(35) - Warunki techniczne i eksploatacyjne na przejściu granicznym;
+(36) - Czas przejazdu;
+
+**Załącznik nr 10 - Wzór oświadczenia do uzgodnienia przewozu przesyłki nadzwyczajnej**
+**bez świadectwa dopuszczenia do eksploatacji, świadectwa zgodności z typem lub zezwolenia**
+**na dopuszczenie do eksploatacji pojazdu kolejowego w stanie czynnym.**
+
+|Zasady przewozu przesyłki nadzwyczajnej – przewóz taboru w stanie czynnym|Col2|Col3|Col4|Col5|Col6|
+|---|---|---|---|---|---|
+|Punkt|**Obszar Automatyki i**<br>**Telekomunikacji**|**Wymagania**|**Wymagania**|<br>**Czy spełnia?**<br>|<br>**Czy spełnia?**<br>|
+|1.|dSAT/TSI|PN-EN 15437-1:2009 Kolejnictwo - Monitorowanie stanu<br>maźnicy - Wymagania dotyczące interfejsu i projektowania -<br>Część 1: Urządzenia przytorowe i maźnice pojazdów<br>szynowych|PN-EN 15437-1:2009 Kolejnictwo - Monitorowanie stanu<br>maźnicy - Wymagania dotyczące interfejsu i projektowania -<br>Część 1: Urządzenia przytorowe i maźnice pojazdów<br>szynowych|Tak|Nie|
+|2.|Układy nie zajętości<br>torów i rozjazdów|ERA/ERTMS 033281 Punkt 3.1.9 - minimalna impedancja osi<br>pojazdów szynowych jest mniejsza niż 50 mΩ|ERA/ERTMS 033281 Punkt 3.1.9 - minimalna impedancja osi<br>pojazdów szynowych jest mniejsza niż 50 mΩ|Tak|Nie|
+|3.|Punktowa kontrola<br>prowadzenia pociągu -<br>SHP|Sprawności systemu SHP na pojeździe|Sprawności systemu SHP na pojeździe|Tak|Nie|
+|4.|Punktowa kontrola<br>prowadzenia pociągu –<br>np. ETCS|Jeśli na trasie przejazdu pociągu jest dostępny system kontroli<br>prowadzenia pociągu – sprawności pokładowych urządzeń<br>kontroli prowadzenia pociągu ETCS|Jeśli na trasie przejazdu pociągu jest dostępny system kontroli<br>prowadzenia pociągu – sprawności pokładowych urządzeń<br>kontroli prowadzenia pociągu ETCS|Tak|Nie|
+|5.|Radiołączność|Sprawność na pojeździe systemów radiołączności pociągowej,<br>obowiązującej na trasie przejazdu przesyłki|Sprawność na pojeździe systemów radiołączności pociągowej,<br>obowiązującej na trasie przejazdu przesyłki|Tak|Nie|
+|6.|Zakłócenia urządzeń<br>SRK|Spełnianie wymagań w zakresie poziomu zakłóceń zawartych<br>w pracy badawczej Instytutu Kolejnictwa Nr 4430/10 pn.<br>„Określenie dopuszczalnych poziomów i parametrów zakłóceń<br>dla urządzeń sterowania ruchem kolejowym”|Spełnianie wymagań w zakresie poziomu zakłóceń zawartych<br>w pracy badawczej Instytutu Kolejnictwa Nr 4430/10 pn.<br>„Określenie dopuszczalnych poziomów i parametrów zakłóceń<br>dla urządzeń sterowania ruchem kolejowym”|Tak|Nie|
+|7.|Ukres rozjazdu|Odległość osi skrajnej pomiędzy skrajną osią a najbliższym<br>końcem pojazdu (krawędzią zderzaka) nie przekraczającej<br>3,5 m - obustronnie|Odległość osi skrajnej pomiędzy skrajną osią a najbliższym<br>końcem pojazdu (krawędzią zderzaka) nie przekraczającej<br>3,5 m - obustronnie|Tak|Nie|
+|8.|Rozstaw osi|Odległość nieprzekraczająca 20 m pomiędzy osiami w<br>przesyłce|Odległość nieprzekraczająca 20 m pomiędzy osiami w<br>przesyłce|Tak|Nie|
+|**Obszar Drogi Kolejowej i Energetyki**|**Obszar Drogi Kolejowej i Energetyki**|**Obszar Drogi Kolejowej i Energetyki**|**Obszar Drogi Kolejowej i Energetyki**|**Obszar Drogi Kolejowej i Energetyki**|**Obszar Drogi Kolejowej i Energetyki**|
+|9.|Sprawdzanie skrajni taboru przewidzianego do przewozu oraz<br>określenie nacisków wywieranych na tor przez zestawy kołowe<br>pojazdu.|Sprawdzanie skrajni taboru przewidzianego do przewozu oraz<br>określenie nacisków wywieranych na tor przez zestawy kołowe<br>pojazdu.|W przypadku przekroczenia<br>skrajni taboru lub dopuszczalnych<br>nacisków (osiowego lub liniowego)<br>wymagane jest uzupełnienie tych<br>informacji w załączniku nr 9<br>instrukcji Ir-10|W przypadku przekroczenia<br>skrajni taboru lub dopuszczalnych<br>nacisków (osiowego lub liniowego)<br>wymagane jest uzupełnienie tych<br>informacji w załączniku nr 9<br>instrukcji Ir-10|W przypadku przekroczenia<br>skrajni taboru lub dopuszczalnych<br>nacisków (osiowego lub liniowego)<br>wymagane jest uzupełnienie tych<br>informacji w załączniku nr 9<br>instrukcji Ir-10|
+
+Oświadczenie powinno być wydane na podstawie stosownych opinii jednostki badawczej,
+uczestniczącej w procesie certyfikacji.
+
+**Załącznik nr 11 - Wzór oświadczenia do uzgodnienia przewozu przesyłki nadzwyczajnej**
+**bez świadectwa dopuszczenia do eksploatacji, świadectwa zgodności z typem lub zezwolenia**
+**na dopuszczenie do eksploatacji pojazdu kolejowego w stanie nieczynnym.**
+
+|Zasady przewozu przesyłki nadzwyczajnej – przewóz taboru w stanie nieczynnym|Col2|Col3|Col4|Col5|Col6|
+|---|---|---|---|---|---|
+|Punkt|**Obszar Automatyki i**<br>**Telekomunikacji**|**Wymagania**|**Wymagania**|**Czy spełnia?**|**Czy spełnia?**|
+|1.|dSAT/TSI|PN-EN 15437-1:2009 Kolejnictwo -<br>Monitorowanie stanu maźnicy - Wymagania<br>dotyczące interfejsu i projektowania - Część 1:<br>Urządzenia przytorowe i maźnice pojazdów<br>szynowych|PN-EN 15437-1:2009 Kolejnictwo -<br>Monitorowanie stanu maźnicy - Wymagania<br>dotyczące interfejsu i projektowania - Część 1:<br>Urządzenia przytorowe i maźnice pojazdów<br>szynowych|Tak|Nie|
+|2.|Układy nie zajętości torów i<br>rozjazdów|ERA/ERTMS 033281 Punkt 3.1.9 - minimalna<br>impedancja osi pojazdów szynowych jest<br>mniejsza niż 50 mΩ|ERA/ERTMS 033281 Punkt 3.1.9 - minimalna<br>impedancja osi pojazdów szynowych jest<br>mniejsza niż 50 mΩ|Tak|Nie|
+|3.|Ukres rozjazdu|Odległość osi skrajnej pomiędzy skrajną osią<br>a najbliższym końcem pojazdu (krawędzią<br>zderzaka) nie przekraczającej 3,5 m -<br>obustronnie|Odległość osi skrajnej pomiędzy skrajną osią<br>a najbliższym końcem pojazdu (krawędzią<br>zderzaka) nie przekraczającej 3,5 m -<br>obustronnie|Tak|Nie|
+|4.|Rozstaw osi|Odległość nieprzekraczająca 20 m pomiędzy<br>osiami w przesyłce|Odległość nieprzekraczająca 20 m pomiędzy<br>osiami w przesyłce|Tak|Nie|
+|**Obszar Drogi Kolejowej i Energetyki**|**Obszar Drogi Kolejowej i Energetyki**|**Obszar Drogi Kolejowej i Energetyki**|**Obszar Drogi Kolejowej i Energetyki**|**Obszar Drogi Kolejowej i Energetyki**|**Obszar Drogi Kolejowej i Energetyki**|
+|5.|Sprawdzanie skrajni taboru przewidzianego do<br>przewozu oraz określenie nacisków<br>wywieranych na tor przez zestawy kołowe<br>pojazdu.|Sprawdzanie skrajni taboru przewidzianego do<br>przewozu oraz określenie nacisków<br>wywieranych na tor przez zestawy kołowe<br>pojazdu.|W przypadku przekroczenia skrajni taboru lub<br>dopuszczalnych nacisków (osiowego lub<br>liniowego) wymagane jest uzupełnienie tych<br>informacji w załączniku nr 9 instrukcji Ir-10|W przypadku przekroczenia skrajni taboru lub<br>dopuszczalnych nacisków (osiowego lub<br>liniowego) wymagane jest uzupełnienie tych<br>informacji w załączniku nr 9 instrukcji Ir-10|W przypadku przekroczenia skrajni taboru lub<br>dopuszczalnych nacisków (osiowego lub<br>liniowego) wymagane jest uzupełnienie tych<br>informacji w załączniku nr 9 instrukcji Ir-10|
+
+Oświadczenie powinno być wydane na podstawie stosownych opinii jednostki badawczej,
+uczestniczącej w procesie certyfikacji.
+
+**Załącznik nr 12a - Wzór zgody na przewóz przesyłki nadzwyczajnej w komunikacji krajowej**
+
+|Col1|Col2|Col3|Zgoda<br>na przewóz przesyłki nadzwyczajnej<br>w komunikacji krajowej|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|
+|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|
+|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|
+|**Nr zgody: **|**Nr zgody: **|||Data<br>wystawienia<br>zgody:|Data<br>wystawienia<br>zgody:|<br>|<br>|<br>|<br>|
+|**Nr zgody: **|**Nr zgody: **|||Ważna od dnia:|Ważna od dnia:|||||
+|**Nr zgody: **|**Nr zgody: **|||Ważna do dnia:|Ważna do dnia:|||||
+|**Nr wniosku:**|**Nr wniosku:**|**Nr wniosku:**|**Nr wniosku:**|Data wniosku:|Data wniosku:|Data wniosku:|Data wniosku:|Data wniosku:|Data wniosku:|
+|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|
+|**1)**|Nazwa przesyłki i ilość sztuk:|Nazwa przesyłki i ilość sztuk:|Nazwa przesyłki i ilość sztuk:|||||||
+|**2)**|Rodzaj i seria wagonu, znaki RIV, RIC, TEN:|Rodzaj i seria wagonu, znaki RIV, RIC, TEN:|Rodzaj i seria wagonu, znaki RIV, RIC, TEN:|||||||
+|**3)**|Rozstaw osi skrajnych, względnie czopów skrętu<br>wózków lub mostu nośnego, wagonu (a):|Rozstaw osi skrajnych, względnie czopów skrętu<br>wózków lub mostu nośnego, wagonu (a):|Rozstaw osi skrajnych, względnie czopów skrętu<br>wózków lub mostu nośnego, wagonu (a):||||||mm|
+|**4)**|Rozstaw osi skrajnych wózków (p):|Rozstaw osi skrajnych wózków (p):|Rozstaw osi skrajnych wózków (p):||||||mm|
+|**5)**|Liczba osi:|Liczba osi:|Liczba osi:|||||||
+|**6a)**|Długość wagonu ze zderzakami:|Długość wagonu ze zderzakami:|Długość wagonu ze zderzakami:||||||mm|
+|**6b)**|Wysokość ładowania:|Wysokość ładowania:|Wysokość ładowania:||||||mm|
+|**7)**|Masa własna pojazdu/wagonu:|Masa własna pojazdu/wagonu:|Masa własna pojazdu/wagonu:||||||t|
+|**8)**|Masa przesyłki:|Masa przesyłki:|Masa przesyłki:||||||t|
+|**7+8)**|Masa przesyłki + wagonu:|Masa przesyłki + wagonu:|Masa przesyłki + wagonu:||||||t|
+|**9)**|Maksymalne obciążenie na metr bieżący toru:|Maksymalne obciążenie na metr bieżący toru:|Maksymalne obciążenie na metr bieżący toru:|||kN|||t/m|
+|**10)**|Maksymalne obciążenie na oś wagonu:|Maksymalne obciążenie na oś wagonu:|Maksymalne obciążenie na oś wagonu:|||kN|||t/oś|
+|**11)**|Długość przesyłki:|Długość przesyłki:|Długość przesyłki:||||||mm|
+|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|
+|Punkty|**12a)**|**12b)**|**13)**|**14)**|**15)**|**16)**|**16)**|**17)**|**18)**|
+|Punkty|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|
+|A||||||||||
+|B||||||||||
+|C||||||||||
+|**19)**|Uwagi do punktów krytycznych przesyłki:|Uwagi do punktów krytycznych przesyłki:|Uwagi do punktów krytycznych przesyłki:|||||||
+|**20a)**|Nadawca:|Nadawca:|Nadawca:|||||||
+|**20b)**|Przewoźnik:|Przewoźnik:|Przewoźnik:|||||||
+|**21)**|Stacja nadania:|Stacja nadania:|Stacja nadania:|||||||
+|**22)**|Stacja przeznaczenia:|Stacja przeznaczenia:|Stacja przeznaczenia:|||||||
+
+|Col1|PKP POLSKIE LINIE KOLEJOWE S.A.|Col3|Col4|
+|---|---|---|---|
+|**23)**|Droga przewozu:|Droga przewozu:|Droga przewozu:|
+|**24)**|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|
+|**25)**|Stacja, na której będzie dokonywana<br>odprawa celna:|Stacja, na której będzie dokonywana<br>odprawa celna:||
+|**26)**|Nazwa nabrzeża:|Nazwa nabrzeża:||
+|**27)**|Odbiorca, spedytor:|Odbiorca, spedytor:||
+|**28)**|Różne:|Różne:||
+|**29)**|Inne warunki przewozu:|Inne warunki przewozu:||
+|**30)**|Kierunek usytuowania przesyłki:|Kierunek usytuowania przesyłki:||
+|**31)**|Wcześniejsze nr zezwoleń:|Wcześniejsze nr zezwoleń:||
+|**32)**|Dzień załadunku, dzień dostawy:|Dzień załadunku, dzień dostawy:||
+|**33)**|Konieczność przeprowadzenia przeglądu<br>na danej stacji:|Konieczność przeprowadzenia przeglądu<br>na danej stacji:||
+|**34)**|Warunki techniczne na terenie obcego<br>zarządcy:|Warunki techniczne na terenie obcego<br>zarządcy:||
+|**35)**|Warunki<br>techniczne<br>na<br>przejściu<br>granicznym:|Warunki<br>techniczne<br>na<br>przejściu<br>granicznym:||
+|**36)**|Czas przejazdu:|Czas przejazdu:||
+|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.**<br> <br> <br>|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.**<br> <br> <br>|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.**<br> <br> <br>|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.**<br> <br> <br>|
+|**Uwagi:** <br> <br>|**Uwagi:** <br> <br>|**Uwagi:** <br> <br>|**Uwagi:** <br> <br>|
+|**Opracował/a:** <br> <br> <br> <br> <br>|**Opracował/a:** <br> <br> <br> <br> <br>|<br> <br> <br> <br>_   podpis_|<br> <br> <br> <br>_   podpis_|
+
+Otrzymuje:
+
+W związku z pracami inwestycyjnymi Zarządca zastrzega sobie prawo zmiany wydanej zgody
+
+(zmiana trasy przejazdu lub cofnięcia wydanej zgody)
+
+Uwaga:
+pozycji kodów, których przewóz nie dotyczy nie należy podawać
+
+**Załącznik nr 12b - Wzór zgody na przewóz przesyłki nadzwyczajnej w komunikacji**
+
+**międzynarodowej.**
+
+|Col1|Col2|Col3|Zgoda<br>na przewóz przesyłki nadzwyczajnej<br>w komunikacji międzynarodowej|Col5|Col6|Col7|Col8|Col9|Col10|Col11|
+|---|---|---|---|---|---|---|---|---|---|---|
+|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|
+|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|
+|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|
+|**Nr zgody: **|**Nr zgody: **|||Data wystawienia zgody:|Data wystawienia zgody:|Data wystawienia zgody:|||||
+|**Nr zgody: **|**Nr zgody: **|||Ważna od dnia:|Ważna od dnia:|Ważna od dnia:|||||
+|**Nr zgody: **|**Nr zgody: **|||Ważna do dnia:|Ważna do dnia:|Ważna do dnia:|||||
+|**Nr wniosku:**|**Nr wniosku:**|**Nr wniosku:**|**Nr wniosku:**|Data wniosku:|Data wniosku:|Data wniosku:|Data wniosku:|Data wniosku:|Data wniosku:|Data wniosku:|
+|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|
+|**1)**|Nazwa przesyłki i ilość sztuk:|Nazwa przesyłki i ilość sztuk:|Nazwa przesyłki i ilość sztuk:||||||||
+|**2)**|Rodzaj i seria wagonu, znaki RIV, RIC, TEN:|Rodzaj i seria wagonu, znaki RIV, RIC, TEN:|Rodzaj i seria wagonu, znaki RIV, RIC, TEN:||||||||
+|**3)**|Rozstaw osi skrajnych, względnie czopów skrętu<br>wózków lub mostu nośnego, wagonu (a):|Rozstaw osi skrajnych, względnie czopów skrętu<br>wózków lub mostu nośnego, wagonu (a):|Rozstaw osi skrajnych, względnie czopów skrętu<br>wózków lub mostu nośnego, wagonu (a):|||||||mm|
+|**4)**|Rozstaw osi skrajnych wózków (p):|Rozstaw osi skrajnych wózków (p):|Rozstaw osi skrajnych wózków (p):|||||||mm|
+|**5)**|Liczba osi:|Liczba osi:|Liczba osi:||||||||
+|**6a)**|Długość wagonu ze zderzakami:|Długość wagonu ze zderzakami:|Długość wagonu ze zderzakami:|||||||mm|
+|**6b)**|Wysokość ładowania:|Wysokość ładowania:|Wysokość ładowania:|||||||mm|
+|**7)**|Masa własna pojazdu/wagonu:|Masa własna pojazdu/wagonu:|Masa własna pojazdu/wagonu:|||||||t|
+|**8)**|Masa przesyłki:|Masa przesyłki:|Masa przesyłki:|||||||t|
+|**7+8)**|Masa przesyłki + wagonu:|Masa przesyłki + wagonu:|Masa przesyłki + wagonu:|||||||t|
+|**9)**|Maksymalne obciążenie na metr bieżący toru:|Maksymalne obciążenie na metr bieżący toru:|Maksymalne obciążenie na metr bieżący toru:|||kN|kN|||t/m|
+|**10)**|Maksymalne obciążenie na oś wagonu:|Maksymalne obciążenie na oś wagonu:|Maksymalne obciążenie na oś wagonu:|||kN|kN|||t/oś|
+|**11)**|Długość przesyłki:|Długość przesyłki:|Długość przesyłki:|||||||mm|
+|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|
+|Punkty|**12a)**|**12b)**|**13)**|**14)**|**15)**|**16)**|**16)**|**16)**|**17)**|**18)**|
+|Punkty|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|
+|A|||||||||||
+|B|||||||||||
+|C|||||||||||
+|**19)**|Uwagi do punktów krytycznych przesyłki:|Uwagi do punktów krytycznych przesyłki:|Uwagi do punktów krytycznych przesyłki:||||||||
+|**20a)**|Nadawca:|Nadawca:|Nadawca:||||||||
+|**20b)**|Przewoźnik:|Przewoźnik:|Przewoźnik:||||||||
+|**21)**|Stacja nadania:|Stacja nadania:|Stacja nadania:||||||||
+
+|22)|Stacja przeznaczenia:|Col3|Col4|
+|---|---|---|---|
+|**23)**|Droga przewozu:|Droga przewozu:|Droga przewozu:|
+|**24)**|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|
+|**25)**|Stacja, na której będzie dokonywana<br>odprawa celna:|Stacja, na której będzie dokonywana<br>odprawa celna:||
+|**26)**|Nazwa nabrzeża:|Nazwa nabrzeża:||
+|**27)**|Odbiorca, spedytor:|Odbiorca, spedytor:||
+|**28)**|Różne:|Różne:||
+|**29)**|Inne warunki przewozu:|Inne warunki przewozu:||
+|**30)**|Kierunek usytuowania przesyłki:|Kierunek usytuowania przesyłki:||
+|**31)**|Wcześniejsze nr zezwoleń:|Wcześniejsze nr zezwoleń:||
+|**32)**|Dzień załadunku, dzień dostawy:|Dzień załadunku, dzień dostawy:||
+|**33)**|Konieczność przeprowadzenia przeglądu<br>na danej stacji:|Konieczność przeprowadzenia przeglądu<br>na danej stacji:||
+|**34)**|Warunki techniczne na terenie obcego<br>zarządcy:|Warunki techniczne na terenie obcego<br>zarządcy:||
+|**35)**|Warunki<br>techniczne<br>na<br>przejściu<br>granicznym:|Warunki<br>techniczne<br>na<br>przejściu<br>granicznym:||
+|**36)**|Czas przejazdu:|Czas przejazdu:||
+|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.**<br> <br> <br>|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.**<br> <br> <br>|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.**<br> <br> <br>|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.**<br> <br> <br>|
+|**Uwagi:** <br> <br>|**Uwagi:** <br> <br>|**Uwagi:** <br> <br>|**Uwagi:** <br> <br>|
+|**Opracował/a:** <br> <br> <br> <br> <br>|**Opracował/a:** <br> <br> <br> <br> <br>|<br> <br> <br> <br>_   podpis_|<br> <br> <br> <br>_   podpis_|
+
+Otrzymują:
+
+W związku z pracami inwestycyjnymi Zarządca zastrzega sobie prawo zmiany wydanej zgody
+
+(zmiana trasy przejazdu lub cofnięcia wydanej zgody)
+
+Uwaga:
+pozycji kodów, których przewóz nie dotyczy nie należy podawać
+
+**Załącznik nr 13a - Wzór zgody i zarządzenia na przewóz przesyłki nadzwyczajnej**
+
+**w komunikacji krajowej**
+
+|Col1|Col2|Col3|Col4|Col5|Zgoda<br>na przewóz przesyłki nadzwyczajnej<br>w komunikacji krajowej<br>i zarządzenie przewozu przesyłki<br>nadzwyczajnej|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest** **zaznaczyć w miejscu**<br>**„ograniczenia” okienka:** <br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest** **zaznaczyć w miejscu**<br>**„ograniczenia” okienka:** <br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest** **zaznaczyć w miejscu**<br>**„ograniczenia” okienka:** <br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest** **zaznaczyć w miejscu**<br>**„ograniczenia” okienka:** <br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest** **zaznaczyć w miejscu**<br>**„ograniczenia” okienka:** <br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest** **zaznaczyć w miejscu**<br>**„ograniczenia” okienka:** <br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest** **zaznaczyć w miejscu**<br>**„ograniczenia” okienka:** <br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest** **zaznaczyć w miejscu**<br>**„ograniczenia” okienka:** <br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest** **zaznaczyć w miejscu**<br>**„ograniczenia” okienka:** <br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest** **zaznaczyć w miejscu**<br>**„ograniczenia” okienka:** <br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest** **zaznaczyć w miejscu**<br>**„ograniczenia” okienka:** <br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest** **zaznaczyć w miejscu**<br>**„ograniczenia” okienka:** <br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest** **zaznaczyć w miejscu**<br>**„ograniczenia” okienka:** <br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest** **zaznaczyć w miejscu**<br>**„ograniczenia” okienka:** <br> <br>|
+|**UWAGA:** <br>|**UWAGA:** <br>|**UWAGA:** <br>|**UWAGA:** <br>|**UWAGA:** <br>|**UWAGA:** <br>|**UWAGA:** <br>|**UWAGA:** <br>|**UWAGA:** <br>|**UWAGA:** <br>|**UWAGA:** <br>|**UWAGA:** <br>|**UWAGA:** <br>|**UWAGA:** <br>|
+|**Nr zgód innych zarządców biorących udział w przewozie:**<br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br>|
+|**Nr zgody: **|**Nr zgody: **|||||Data wystawienia zgody:|Data wystawienia zgody:|Data wystawienia zgody:|Data wystawienia zgody:|||||
+|**Nr zgody: **|**Nr zgody: **|||||Ważna od dnia:|Ważna od dnia:|Ważna od dnia:|Ważna od dnia:|||||
+|**Nr zgody: **|**Nr zgody: **|||||Ważna do dnia:|Ważna do dnia:|Ważna do dnia:|Ważna do dnia:|||||
+|**Nr wniosku:**|**Nr wniosku:**|**Nr wniosku:**|**Nr wniosku:**|**Nr wniosku:**|**Nr wniosku:**|Data wniosku:|Data wniosku:|Data wniosku:|Data wniosku:|Data wniosku:|Data wniosku:|Data wniosku:|Data wniosku:|
+|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|
+|**1)**|Nazwa przesyłki i ilość sztuk:|Nazwa przesyłki i ilość sztuk:|Nazwa przesyłki i ilość sztuk:|Nazwa przesyłki i ilość sztuk:|Nazwa przesyłki i ilość sztuk:|||||||||
+|**2)**|Rodzaj i seria wagonu, znaki RIV, RIC, TEN:|Rodzaj i seria wagonu, znaki RIV, RIC, TEN:|Rodzaj i seria wagonu, znaki RIV, RIC, TEN:|Rodzaj i seria wagonu, znaki RIV, RIC, TEN:|Rodzaj i seria wagonu, znaki RIV, RIC, TEN:|||||||||
+|**3)**|Rozstaw osi skrajnych, względnie czopów skrętu<br>wózków lub mostu nośnego, wagonu (a):|Rozstaw osi skrajnych, względnie czopów skrętu<br>wózków lub mostu nośnego, wagonu (a):|Rozstaw osi skrajnych, względnie czopów skrętu<br>wózków lub mostu nośnego, wagonu (a):|Rozstaw osi skrajnych, względnie czopów skrętu<br>wózków lub mostu nośnego, wagonu (a):|Rozstaw osi skrajnych, względnie czopów skrętu<br>wózków lub mostu nośnego, wagonu (a):||||||||mm|
+|**4)**|Rozstaw osi skrajnych wózków (p):|Rozstaw osi skrajnych wózków (p):|Rozstaw osi skrajnych wózków (p):|Rozstaw osi skrajnych wózków (p):|Rozstaw osi skrajnych wózków (p):||||||||mm|
+|**5)**|Liczba osi:|Liczba osi:|Liczba osi:|Liczba osi:|Liczba osi:|||||||||
+|**6a)**|Długość wagonu ze zderzakami:|Długość wagonu ze zderzakami:|Długość wagonu ze zderzakami:|Długość wagonu ze zderzakami:|Długość wagonu ze zderzakami:||||||||mm|
+|**6b)**|Wysokość ładowania:|Wysokość ładowania:|Wysokość ładowania:|Wysokość ładowania:|Wysokość ładowania:||||||||mm|
+|**7)**|Masa własna pojazdu/wagonu:|Masa własna pojazdu/wagonu:|Masa własna pojazdu/wagonu:|Masa własna pojazdu/wagonu:|Masa własna pojazdu/wagonu:||||||||t|
+|**8)**|Masa przesyłki:|Masa przesyłki:|Masa przesyłki:|Masa przesyłki:|Masa przesyłki:||||||||t|
+|**7+8)**|Masa przesyłki + wagonu:|Masa przesyłki + wagonu:|Masa przesyłki + wagonu:|Masa przesyłki + wagonu:|Masa przesyłki + wagonu:||||||||t|
+|**9)**|Maksymalne obciążenie na metr bieżący toru:|Maksymalne obciążenie na metr bieżący toru:|Maksymalne obciążenie na metr bieżący toru:|Maksymalne obciążenie na metr bieżący toru:|Maksymalne obciążenie na metr bieżący toru:|||kN|kN|kN|||t/m|
+|**10)**|Maksymalne obciążenie na oś wagonu:|Maksymalne obciążenie na oś wagonu:|Maksymalne obciążenie na oś wagonu:|Maksymalne obciążenie na oś wagonu:|Maksymalne obciążenie na oś wagonu:|||kN|kN|kN|||t/oś|
+|**11)**|Długość przesyłki:|Długość przesyłki:|Długość przesyłki:|Długość przesyłki:|Długość przesyłki:||||||||mm|
+|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|
+|Punkty|**12a)**|**12a)**|**12b)**|**13)**|**13)**|**14)**|**15)**|**15)**|**16)**|**16)**|**16)**|**17)**|**18)**|
+|Punkty|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|
+|A||||||||||||||
+|B||||||||||||||
+
+|C|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+|**19)**|Uwagi do punktów krytycznych przesyłki:|Uwagi do punktów krytycznych przesyłki:|Uwagi do punktów krytycznych przesyłki:|Uwagi do punktów krytycznych przesyłki:||||||
+|**20a)**|Nadawca:|Nadawca:|Nadawca:|Nadawca:||||||
+|**20b)**|Przewoźnik:|Przewoźnik:|Przewoźnik:|Przewoźnik:||||||
+|**21)**|Stacja nadania:|Stacja nadania:|Stacja nadania:|Stacja nadania:||||||
+|**22)**|Stacja przeznaczenia:|Stacja przeznaczenia:|Stacja przeznaczenia:|Stacja przeznaczenia:||||||
+|**23)**|Droga przewozu:|Droga przewozu:|Droga przewozu:|Droga przewozu:|Droga przewozu:|Droga przewozu:|Droga przewozu:|Droga przewozu:|Droga przewozu:|
+|**24)**|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|
+|**25)**|Stacja, na której będzie dokonywana odprawa<br>celna:|Stacja, na której będzie dokonywana odprawa<br>celna:|Stacja, na której będzie dokonywana odprawa<br>celna:|Stacja, na której będzie dokonywana odprawa<br>celna:||||||
+|**26)**|Nazwa nabrzeża:|Nazwa nabrzeża:|Nazwa nabrzeża:|Nazwa nabrzeża:||||||
+|**27)**|Odbiorca, spedytor:|Odbiorca, spedytor:|Odbiorca, spedytor:|Odbiorca, spedytor:||||||
+|**28)**|Różne:|Różne:|Różne:|Różne:||||||
+|**29)**|Inne warunki przewozu:|Inne warunki przewozu:|Inne warunki przewozu:|Inne warunki przewozu:||||||
+|**30)**|Kierunek usytuowania przesyłki:|Kierunek usytuowania przesyłki:|Kierunek usytuowania przesyłki:|Kierunek usytuowania przesyłki:||||||
+|**31)**|Wcześniejsze nr zezwoleń:|Wcześniejsze nr zezwoleń:|Wcześniejsze nr zezwoleń:|Wcześniejsze nr zezwoleń:||||||
+|**32)**|Dzień załadunku, dzień dostawy:|Dzień załadunku, dzień dostawy:|Dzień załadunku, dzień dostawy:|Dzień załadunku, dzień dostawy:||||||
+|**33)**|Konieczność przeprowadzenia przeglądu na<br>danej stacji:|Konieczność przeprowadzenia przeglądu na<br>danej stacji:|Konieczność przeprowadzenia przeglądu na<br>danej stacji:|Konieczność przeprowadzenia przeglądu na<br>danej stacji:||||||
+|**34)**|Warunki techniczne na terenie obcego<br>zarządcy:|Warunki techniczne na terenie obcego<br>zarządcy:|Warunki techniczne na terenie obcego<br>zarządcy:|Warunki techniczne na terenie obcego<br>zarządcy:||||||
+|**35)**|Warunki techniczne na przejściu granicznym:|Warunki techniczne na przejściu granicznym:|Warunki techniczne na przejściu granicznym:|Warunki techniczne na przejściu granicznym:||||||
+|**36)**|Czas przejazdu:|Czas przejazdu:|Czas przejazdu:|Czas przejazdu:||||||
+|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.** <br>|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.** <br>|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.** <br>|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.** <br>|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.** <br>|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.** <br>|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.** <br>|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.** <br>|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.** <br>|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.** <br>|
+|Uwagi: <br>|Uwagi: <br>|Uwagi: <br>|Uwagi: <br>|Uwagi: <br>|Uwagi: <br>|Uwagi: <br>|Uwagi: <br>|Uwagi: <br>|Uwagi: <br>|
+|Opracował/a: <br> <br>|Opracował/a: <br> <br>|Opracował/a: <br> <br>|Opracował/a: <br> <br>|<br> <br>_   podpis_|<br> <br>_   podpis_|<br> <br>_   podpis_|<br> <br>_   podpis_|<br> <br>_   podpis_|<br> <br>_   podpis_|
+
+Otrzymują:
+
+W związku z pracami inwestycyjnymi Zarządca zastrzega sobie prawo zmiany wydanej zgody
+
+(zmiana trasy przejazdu lub cofnięcia wydanej zgody)
+
+Uwaga:
+pozycji kodów, których przewóz nie dotyczy nie należy podawać
+
+**Załącznik nr 13b - Wzór zgody i zarządzenia na przewóz przesyłki nadzwyczajnej**
+
+**w komunikacji międzynarodowej**
+
+|Col1|Col2|Col3|Col4|Col5|Zgoda<br>na przewóz przesyłki nadzwyczajnej<br>w komunikacji międzynarodowej<br>i zarządzenie przewozu przesyłki<br>nadzwyczajnej|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|**Podczas zamawiania Rozkładu Jazdy w systemie SKRJ Przewoźnik zobowiązany jest zaznaczyć w miejscu**<br>**„ograniczenia” okienka:**<br> <br>|
+|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|**UWAGA:**<br> <br>|
+|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|**Nr zgód innych zarządców biorących udział w przewozie:**<br> <br>|
+|**Nr zgody: **|**Nr zgody: **|||||Data wystawienia zgody:|Data wystawienia zgody:|Data wystawienia zgody:|Data wystawienia zgody:|||||
+|**Nr zgody: **|**Nr zgody: **|||||Ważna od dnia:|Ważna od dnia:|Ważna od dnia:|Ważna od dnia:|||||
+|**Nr zgody: **|**Nr zgody: **|||||Ważna do dnia:|Ważna do dnia:|Ważna do dnia:|Ważna do dnia:|||||
+|**Nr wniosku:**|**Nr wniosku:**|**Nr wniosku:**|**Nr wniosku:**|**Nr wniosku:**|**Nr wniosku:**|Data wniosku:|Data wniosku:|Data wniosku:|Data wniosku:|Data wniosku:|Data wniosku:|Data wniosku:|Data wniosku:|
+|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|**Przewoźnik:**|
+|**1)**|Nazwa przesyłki i ilość sztuk:|Nazwa przesyłki i ilość sztuk:|Nazwa przesyłki i ilość sztuk:|Nazwa przesyłki i ilość sztuk:|Nazwa przesyłki i ilość sztuk:|||||||||
+|**2)**|Rodzaj i seria wagonu, znaki RIV, RIC, TEN:|Rodzaj i seria wagonu, znaki RIV, RIC, TEN:|Rodzaj i seria wagonu, znaki RIV, RIC, TEN:|Rodzaj i seria wagonu, znaki RIV, RIC, TEN:|Rodzaj i seria wagonu, znaki RIV, RIC, TEN:|||||||||
+|**3)**|Rozstaw osi skrajnych, względnie czopów skrętu<br>wózków lub mostu nośnego, wagonu (a):|Rozstaw osi skrajnych, względnie czopów skrętu<br>wózków lub mostu nośnego, wagonu (a):|Rozstaw osi skrajnych, względnie czopów skrętu<br>wózków lub mostu nośnego, wagonu (a):|Rozstaw osi skrajnych, względnie czopów skrętu<br>wózków lub mostu nośnego, wagonu (a):|Rozstaw osi skrajnych, względnie czopów skrętu<br>wózków lub mostu nośnego, wagonu (a):||||||||mm|
+|**4)**|Rozstaw osi skrajnych wózków (p):|Rozstaw osi skrajnych wózków (p):|Rozstaw osi skrajnych wózków (p):|Rozstaw osi skrajnych wózków (p):|Rozstaw osi skrajnych wózków (p):||||||||mm|
+|**5)**|Liczba osi:|Liczba osi:|Liczba osi:|Liczba osi:|Liczba osi:|||||||||
+|**6a)**|Długość wagonu ze zderzakami:|Długość wagonu ze zderzakami:|Długość wagonu ze zderzakami:|Długość wagonu ze zderzakami:|Długość wagonu ze zderzakami:||||||||mm|
+|**6b)**|Wysokość ładowania:|Wysokość ładowania:|Wysokość ładowania:|Wysokość ładowania:|Wysokość ładowania:||||||||mm|
+|**7)**|Masa własna pojazdu/wagonu:|Masa własna pojazdu/wagonu:|Masa własna pojazdu/wagonu:|Masa własna pojazdu/wagonu:|Masa własna pojazdu/wagonu:||||||||t|
+|**8)**|Masa przesyłki:|Masa przesyłki:|Masa przesyłki:|Masa przesyłki:|Masa przesyłki:||||||||t|
+|**7+8)**|Masa przesyłki + wagonu:|Masa przesyłki + wagonu:|Masa przesyłki + wagonu:|Masa przesyłki + wagonu:|Masa przesyłki + wagonu:||||||||t|
+|**9)**|Maksymalne obciążenie na metr bieżący toru:|Maksymalne obciążenie na metr bieżący toru:|Maksymalne obciążenie na metr bieżący toru:|Maksymalne obciążenie na metr bieżący toru:|Maksymalne obciążenie na metr bieżący toru:|||kN|kN|kN|||t/m|
+|**10)**|Maksymalne obciążenie na oś wagonu:|Maksymalne obciążenie na oś wagonu:|Maksymalne obciążenie na oś wagonu:|Maksymalne obciążenie na oś wagonu:|Maksymalne obciążenie na oś wagonu:|||kN|kN|kN|||t/oś|
+|**11)**|Długość przesyłki:|Długość przesyłki:|Długość przesyłki:|Długość przesyłki:|Długość przesyłki:||||||||mm|
+|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|**Punkty krytyczne przekraczające skrajnię:**|
+|Punkty|**12a)**|**12a)**|**12b)**|**13)**|**13)**|**14)**|**15)**|**15)**|**16)**|**16)**|**16)**|**17)**|**18)**|
+|Punkty|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|[mm]|
+|A||||||||||||||
+|B||||||||||||||
+|C||||||||||||||
+|**19)**|Uwagi do punktów krytycznych przesyłki:|Uwagi do punktów krytycznych przesyłki:|Uwagi do punktów krytycznych przesyłki:|Uwagi do punktów krytycznych przesyłki:|Uwagi do punktów krytycznych przesyłki:|||||||||
+|**20a)**|Nadawca:|Nadawca:|Nadawca:|Nadawca:|Nadawca:|||||||||
+|**20b)**|Przewoźnik:|Przewoźnik:|Przewoźnik:|Przewoźnik:|Przewoźnik:|||||||||
+
+|Col1|PKP POLSKIE LINIE|Col3|KOLEJOWE S.A.|
+|---|---|---|---|
+|**21)**|Stacja nadania:|Stacja nadania:||
+|**22)**|Stacja przeznaczenia:|Stacja przeznaczenia:||
+|**23)**|Droga przewozu:|Droga przewozu:|Droga przewozu:|
+|**24)**|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|Warunki przewozu:<br>1.|
+|**25)**|Stacja, na której będzie dokonywana odprawa<br>celna:|Stacja, na której będzie dokonywana odprawa<br>celna:||
+|**26)**|Nazwa nabrzeża:|Nazwa nabrzeża:||
+|**27)**|Odbiorca, spedytor:|Odbiorca, spedytor:||
+|**28)**|Różne:|Różne:||
+|**29)**|Inne warunki przewozu:|Inne warunki przewozu:||
+|**30)**|Kierunek usytuowania przesyłki:|Kierunek usytuowania przesyłki:||
+|**31)**|Wcześniejsze nr zezwoleń:|Wcześniejsze nr zezwoleń:||
+|**32)**|Dzień załadunku, dzień dostawy:|Dzień załadunku, dzień dostawy:||
+|**33)**|Konieczność przeprowadzenia przeglądu na<br>danej stacji:|Konieczność przeprowadzenia przeglądu na<br>danej stacji:||
+|**34)**|Warunki techniczne na terenie obcego<br>zarządcy:|Warunki techniczne na terenie obcego<br>zarządcy:||
+|**35)**|Warunki techniczne na przejściu granicznym:|Warunki techniczne na przejściu granicznym:||
+|**36)**|Czas przejazdu:|Czas przejazdu:||
+|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.**<br> <br> <br>|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.**<br> <br> <br>|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.**<br> <br> <br>|**Opłata za dostęp do obiektów infrastruktury usługowej zarządzanych przez PKP Polskie Linie Kolejowe S.A.**<br> <br> <br>|
+|**Uwagi:** <br> <br>|**Uwagi:** <br> <br>|**Uwagi:** <br> <br>|**Uwagi:** <br> <br>|
+|**Opracował/a:** <br> <br> <br> <br> <br>|**Opracował/a:** <br> <br> <br> <br> <br>|<br> <br> <br> <br>_   podpis_|<br> <br> <br> <br>_   podpis_|
+
+Otrzymują:
+
+W związku z pracami inwestycyjnymi Zarządca zastrzega sobie prawo zmiany wydanej zgody
+
+(zmiana trasy przejazdu lub cofnięcia wydanej zgody)
+
+Uwaga:
+pozycji kodów, których przewóz nie dotyczy nie należy podawać
+
+**Załącznik nr 14 - Wzór zarządzenia na przewóz przesyłki nadzwyczajnej**
+
+Miejscowość, dd.mm.rrrr
+
+**Zarządzenie przewozu przesyłki nadzwyczajnej**
+
+**Od stacji** **przez stację/ e** **do stacji**
+
+1. PKP Polskie Linie Kolejowe S.A. Centrum Zarządzania Ruchem Kolejowym Ekspozytura
+
+Zarządzania Ruchem Kolejowym w zezwala na przejazd
+
+jako przesyłki o przekroczonej skrajni załadowanej na wagon/y nr
+
+ze stacji do stacji .
+
+2. Parametry przesyłki / taboru:
+
+A. od wys. mm do wys. mm szer. po mm;
+
+B. od wys. mm do wys. mm szer. po mm;
+
+C. od wys. mm do wys. mm szer. po mm;
+
+3. Warunki przewozu:
+
+1)
+
+2)
+
+3)
+
+4)
+
+4. Numery zarządzenia przewozu przesyłki nadzwyczajnej sąsiednich ekspozytur biorących udział
+
+w przewozie:
+
+1)
+
+2)
+
+3)
+
+5. Przewoźnik:
+
+6. Nr wydanej zgody na przewóz:
+
+Uwaga: w przypadku włączenia do pociągu przesyłki nadzwyczajnej przewoźnik zobowiązany jest
+
+podczas planowania dyspozytorskiego zgłosić ten fakt do właściwego terytorialnie dyspozytora
+
+ds. planowania produkcji w Ekspozyturze właściwej dla stacji nadania przesyłki.
+
+**IDDEN1-001_2021** _podpis_
+
+**Do wiadomości:**
+
+Opracował/a:
+Imię Nazwisko,
+tel. +48 00 000 00 00
+
+**Załącznik nr 15 - Wzór nalepki przesyłki o przekroczonej skrajni**
+
+(Niebieskie litery na białym polu i na niebieskim tle, w miarę możności na folii samoprzylepnej)
+
+**Wzory nalepek w komunikacji międzynarodowej CIM i SMGS**
+
+**Wzory nalepek w komunikacji krajowej**
+
+**Załącznik nr 16 - Symbole cyfrowe i literowe krajów**
+
+|Kraj|Kod kraju|Col3|Skróty przedsiębiorstw<br>kolejowych|
+|---|---|---|---|
+|**Kraj**|**Alfabetyczny**|** Numeryczny**|** Numeryczny**|
+|Afganistan|AF|||
+|Albania|AL|41|HSH|
+|Algieria|DZ|92|SNTF|
+|Armenia|AM|58|ARM|
+|Austria|A|81|ÖBB|
+|Azerbejdżan|AZ|57|AZ|
+|Białoruś|BY|21|BC|
+|Belgia|B|88|SNCB/NMBS|
+|Bośnia i Hercegowina|BIH|44|ŽRS|
+|Bośnia i Hercegowina|BIH|50|ŽFBH|
+|Bułgaria|BG|52|BDZ, SRIC|
+|Chiny|RC|33|KZD|
+|Chorwacja|HR|78|HŽ|
+|Kuba|CU|40|FC|
+|Cypr|CY|||
+|Republika Czeska|CZ|54|ČD|
+|Dania|DK|86|DSB, BS|
+|Egipt|ET|90|ENR|
+|Estonia|EST|26|EVR|
+|Finlandia|FIN|10|VR, RHK|
+|Francja|F|87|SNCF, RFF|
+|Gruzja|GE|28|GR|
+|Niemcy|D|80|DB, AAE|
+|Grecja|GR|73|CH|
+|Węgry|H|55|MAV, GySEV/ROeEE|
+|Iran|IR|96|RAI|
+|Irak|IRQ|99|IRR|
+|Irlandia|IRL|60|CIE|
+|Izrael|IL|95|IR|
+|Włochy|I|83|FS, FNME|
+|Japonia|J|42|EJRC|
+|Kazachstan|KZ|27|KZH|
+|Kirgistan|KS|59|KRG|
+|Łotwa|LV|25|LDZ|
+|Liban|RL|98|CEL|
+|Liechtenstein|LIE|||
+|Litwa|LT|24|LG|
+|Luksemburg|L|82|CFL|
+|Macedonia<br>(była<br>Macedońska<br>Republika)|MK|65|CFARYM (MŽ)|
+|Malta|M|||
+|Mołdawia|MD|23|CFM|
+|Monako|MC|||
+|Mongolia|MGL|31|MTZ|
+|Maroko|MA|93|ONCFM|
+|Niderlandy|NL|84|NS|
+|Korea Północna|PRK|30|ZC|
+|Norwegia|N|76|NSB,JBV|
+
+|Polska|PL|51|PKP|
+|---|---|---|---|
+|Portugalia|P|94|CP, REFER|
+|Rumunia|RO|53|CFR|
+|Rosja|RUS|20<br>|RZD|
+|Serbia|RS|||
+|Czarnogóra|ME|||
+|Słowacja|SK|56|ŽSSK, ŽSR|
+|Słowenia|SLO|79|SŽ|
+|Korea Południowa|ROK|61|KNR|
+|Kosowo|XK||HK|
+|Hiszpania|E|71|RENFE|
+|Szwecja|S|74|GC,BV|
+|Szwajcaria|CH|85|SBB/CFF/FFS,BLS|
+|Syria|SYR|97|CFS|
+|Tadżykistan|TJ|66|TZD|
+|Tunezja|TN|91|SNCFT|
+|Turcja|TR|75|TCDD|
+|Turkmenistan|TM|67|TRK|
+|Ukraina|UA|22|UZ|
+|Zjednoczone Królestwo Wielkiej Brytanii i Irlandii|GB|70|BR|
+|Uzbekistan|UZ|29|UTI|
+|Wietnam|VN|32|DSVN|
+
+**Załącznik nr 17 - Zasady przekazywania informacji do Centrum Zarządzania Ruchem**
+
+**Kolejowym przed oddaniem toru lub obiektu do eksploatacji po zakończeniu robót**
+
+**WZÓR**
+
+1. PKP Polskie Linie Kolejowe S.A. Zakład Linii Kolejowych w ………………. informuje,
+że zostały/nie zostały zachowane parametry wskazane w rozporządzeniu Ministra Transportu
+i Gospodarki Morskiej z dnia 10 września 1998r. w sprawie warunków technicznych, jakim
+powinny odpowiadać budowle kolejowe i ich usytuowanie (Dz. U. Nr 151, poz. 987), przepisów
+technicznych i instrukcji obowiązujących w PKP Polskie Linie Kolejowe S.A.
+2. Nie zostały zachowane wymogi w następujących elementach:
+
+1) Uchylony
+2) Miejsce obniżenia sieci trakcyjnej poniżej 5600mm od główki szyny:
+
+|Nr linii<br>w Id12|Nazwa linii|Lokalizacja|Nr toru|Wysokość<br>w miejscu<br>obniżenia|Rodzaj obiektu<br>powodującego<br>obniżenie|
+|---|---|---|---|---|---|
+|||||||
+|||||||
+
+3) Szerokość międzytorza:
+
+|Nr linii<br>wg Id12|Nazwa linii|Lokalizacja|Szerokość międzytorza|
+|---|---|---|---|
+|||||
+|||||
+
+4) Inne przeszkody (np. semafor, słup trakcyjny, wiata itp.…):
+
+|Nr linii<br>wg Id12|Stacja lub<br>szlak|Lokalizacja|Col4|Nr<br>toru|Rodzaj<br>przeszkody|Wysokość<br>od główki<br>szyny|Odległość<br>od osi<br>toru|Inne<br>uwagi|
+|---|---|---|---|---|---|---|---|---|
+|Nr linii<br>wg Id12|Stacja lub<br>szlak|Strona<br>lewa|Strona<br>prawa|Strona<br>prawa|Strona<br>prawa|Strona<br>prawa|Strona<br>prawa|Strona<br>prawa|
+||||||||||
+||||||||||
+
+5) Inne uwagi:
+
+Podpis i pieczęć
+
+**Załącznik nr 18 - Wzór obrysu z naniesionymi przeszkodami wchodzącymi**
+
+**w skrajnię budowli**
+
+**Tabela zmian**
+
+|Lp.<br>zmiany|Nr uchwały<br>Zarządu/decyzji<br>członka Zarządu<br>wprowadzającej<br>zmianę|Jednostki redakcyjne,<br>w obrębie których<br>wprowadzono zmiany|Data wejścia<br>w życie|Biuletyn PKP<br>Polskie Linie<br>Kolejowe S.A.,<br>w którym<br>zmiana została<br>opublikowana<br>(Nr/poz./rok)|
+|---|---|---|---|---|
+|<br> <br>|||||
+|<br> <br>|||||
+|<br> <br>|||||
+|<br> <br>|||||
+|<br> <br>|||||
+|<br> <br>|||||
+|<br> <br>|||||

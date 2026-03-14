@@ -22,7 +22,7 @@ def parse_sections(md_text: str) -> list[dict]:
     # Collect all § marker positions
     section_starts: list[tuple[int, str]] = []  # (line_index, section_id)
     for i, line in enumerate(lines):
-        m = re.match(r"^\*\*§\s+(\d+\w?)\.?\*\*\s*(?:\*\*\[.*?\]\*\*\s*)?$", line.strip())
+        m = re.match(r"^\*\*§\s*(\d+\w?)\.?\*\*\s*(?:\*\*\[.*?\]\*\*\s*)?$", line.strip())
         if m:
             section_starts.append((i, f"§ {m.group(1)}"))
 

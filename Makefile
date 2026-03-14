@@ -16,9 +16,13 @@ clean-markdowns:
 
 # Split markdowns into per-section .md files
 # Usage: make sections              (all instructions)
-#        make section ONLY=Ir-1     (single instruction)
+#        make sections ONLY=Ir-1    (single instruction)
 sections:
+ifdef ONLY
+	uv run python scripts/md_to_sections.py --instructions-dir $(INSTRUCTIONS_DIR) --only $(ONLY)
+else
 	uv run python scripts/md_to_sections.py --instructions-dir $(INSTRUCTIONS_DIR)
+endif
 
 section:
 	uv run python scripts/md_to_sections.py --instructions-dir $(INSTRUCTIONS_DIR) --only $(ONLY)
