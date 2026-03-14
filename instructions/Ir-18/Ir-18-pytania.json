@@ -159,10 +159,10 @@
       "uuid": "0f4af907-90f1-4cfc-9f00-5d9b12380996",
       "question": "Co stanowi dowodną formę pisemnego powiadomienia o odwołaniu ostrzeżeń doraźnych?",
       "answers": {
-        "A": "Przesłanie zatwierdzonego wniosku zbiorczego do Zakładu wyznaczonego",
+        "A": "Przesłanie zatwierdzonego wniosku zbiorczego do Zakładu wyznaczonego przez upoważnionego pracownika Zakładu współpracującego, z ważnością od pierwszego dnia obowiązywania Dodatku 2",
         "B": "Ujęcie ostrzeżeń doraźnych w Wykazie Ostrzeżeń Stałych oraz zamieszczenie ich w tabeli \"Wykaz ostrzeżeń doraźnych, które zostały przeniesione do Wykazu Ostrzeżeń Stałych\"",
-        "C": "Wprowadzenie odpowiedniego ostrzeżenia doraźnego przez Naczelnika Sekcji Eksploatacji",
-        "D": "Wykreslenie ostrzezenia z Ksiazki ostrzezen dorarznych R-189 przez pracownika Biura Eksploatacji"
+        "C": "Wprowadzenie odpowiedniego ostrzeżenia doraźnego przez Naczelnika Sekcji Eksploatacji, zgodnie z obowiązującymi przepisami, po stwierdzeniu rozbieżności lub braku ostrzeżenia stałego w Dodatku 2",
+        "D": "Wykreślenie ostrzeżenia z Książki ostrzeżeń doraźnych R-189 przez pracownika Biura Eksploatacji, dokonane po zatwierdzeniu nowej wersji Dodatku 2 przez Dyrektora wyznaczonego Zakładu"
       },
       "correct": "B",
       "explanation": "Ir-18 § 3 ust. 7",
@@ -271,10 +271,10 @@
       "uuid": "95a67988-626c-4c37-8012-61ae1fea3c8f",
       "question": "Co należy wskazać na schematach linii i węzłów kolejowych zamieszczonych w Dodatku 2?",
       "answers": {
-        "A": "Wyłącznie stacje węzłowe, posterunki odgałęźne i numery linii",
-        "B": "Wyłącznie rodzaje linii, rodzaj blokady liniowej i kilometry granicy obszaru",
+        "A": "Wyłącznie stacje węzłowe, posterunki odgałęźne i numery linii, bez wskazania rodzajów linii, blokady liniowej i kilometrów granicy obszaru",
+        "B": "Wyłącznie rodzaje linii, rodzaj blokady liniowej i kilometry granicy obszaru, bez wskazania stacji węzłowych, posterunków odgałęźnych i numerów linii",
         "C": "Rodzaje linii, rodzaj blokady liniowej, stacje węzłowe i posterunki odgałęźne, numery linii, kilometry granicy obszaru oraz odcinki wyposażone w ERTMS/ETCS",
-        "D": "Rodzaje linii, rodzaj blokady liniowej, stacje węzłowe i posterunki odgałęźne oraz numery linii"
+        "D": "Rodzaje linii, rodzaj blokady liniowej, stacje węzłowe i posterunki odgałęźne oraz numery linii, bez wskazania kilometrów granicy obszaru i odcinków wyposażonych w ERTMS/ETCS"
       },
       "correct": "C",
       "explanation": "Ir-18 § 4 ust. 9",

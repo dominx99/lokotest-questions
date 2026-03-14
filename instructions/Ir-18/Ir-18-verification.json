@@ -2,10 +2,11 @@
   "instruction": "Ir-18",
   "timestamp": "2026-03-14T22:13:54.051996",
   "summary": {
-    "total": 37,
+    "total": 35,
     "ok": 35,
-    "fix": 2,
-    "delete": 0
+    "fix": 0,
+    "delete": 0,
+    "new": 0
   },
   "results": [
     {
@@ -37,22 +38,6 @@
       "uuid": "e4c8e929-2cfb-4eab-8bdc-e2186d0811d7",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "0f4af907-90f1-4cfc-9f00-5d9b12380996",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź B (~173 znaki) jest ponad 1,5× dłuższa od najdłuższego dystraktora D (~97 znaków) i przekracza 100 znaków — należy wyrównać dystraktory w górę.",
-        "Literówki w odpowiedzi D: 'Wykreslenie' → 'Wykreślenie', 'ostrzezenia' → 'ostrzeżenia', 'Ksiazki' → 'Książki', 'ostrzezen' → 'ostrzeżeń', 'dorarznych' → 'doraźnych'."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Przesłanie zatwierdzonego wniosku zbiorczego do Zakładu wyznaczonego przez upoważnionego pracownika Zakładu współpracującego, z ważnością od pierwszego dnia obowiązywania Dodatku 2",
-          "B": "Ujęcie ostrzeżeń doraźnych w Wykazie Ostrzeżeń Stałych oraz zamieszczenie ich w tabeli \"Wykaz ostrzeżeń doraźnych, które zostały przeniesione do Wykazu Ostrzeżeń Stałych\"",
-          "C": "Wprowadzenie odpowiedniego ostrzeżenia doraźnego przez Naczelnika Sekcji Eksploatacji, zgodnie z obowiązującymi przepisami, po stwierdzeniu rozbieżności lub braku ostrzeżenia stałego w Dodatku 2",
-          "D": "Wykreślenie ostrzeżenia z Książki ostrzeżeń doraźnych R-189 przez pracownika Biura Eksploatacji, dokonane po zatwierdzeniu nowej wersji Dodatku 2 przez Dyrektora wyznaczonego Zakładu"
-        }
-      }
     },
     {
       "uuid": "1db5bce5-5678-4d58-a11f-b44c50c48b00",
@@ -88,21 +73,6 @@
       "uuid": "65edc5a0-b593-4585-b9ad-784de48221ab",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "95a67988-626c-4c37-8012-61ae1fea3c8f",
-      "status": "FIX",
-      "problems": [
-        "Zasada 6: poprawna odpowiedź C (~153 znaki) jest ponad 1,5× dłuższa od najdłuższego dystraktora D (~99 znaków). Należy wyrównać dystraktory A, B, D w górę, dodając do nich elementy z ust. 9, aby ich długość była zbliżona do poprawnej odpowiedzi."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Wyłącznie stacje węzłowe, posterunki odgałęźne i numery linii, bez wskazania rodzajów linii, blokady liniowej i kilometrów granicy obszaru",
-          "B": "Wyłącznie rodzaje linii, rodzaj blokady liniowej i kilometry granicy obszaru, bez wskazania stacji węzłowych, posterunków odgałęźnych i numerów linii",
-          "C": "Rodzaje linii, rodzaj blokady liniowej, stacje węzłowe i posterunki odgałęźne, numery linii, kilometry granicy obszaru oraz odcinki wyposażone w ERTMS/ETCS",
-          "D": "Rodzaje linii, rodzaj blokady liniowej, stacje węzłowe i posterunki odgałęźne oraz numery linii, bez wskazania kilometrów granicy obszaru i odcinków wyposażonych w ERTMS/ETCS"
-        }
-      }
     },
     {
       "uuid": "481baf34-7463-4c66-a101-0e6cf02a576e",
