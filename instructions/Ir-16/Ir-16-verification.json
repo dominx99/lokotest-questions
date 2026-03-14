@@ -1,12 +1,1939 @@
 {
   "instruction": "Ir-16",
-  "timestamp": "2026-03-14T23:12:31.299862",
+  "timestamp": "2026-03-14T22:14:40.265560",
   "summary": {
-    "total": 0,
-    "ok": 0,
-    "fix": 0,
-    "delete": 0,
-    "new": 0
+    "total": 276,
+    "ok": 181,
+    "fix": 42,
+    "delete": 48,
+    "new": 5
   },
-  "results": []
+  "results": [
+    {
+      "uuid": "8e2a38c5-31ad-44d2-942e-7f3253759845",
+      "status": "FIX",
+      "problems": [
+        "Pytanie zawiera referencję do nazwy instrukcji 'Ir-16', co narusza zasadę 2 — pytanie powinno być zrozumiałe bez znajomości nazwy instrukcji."
+      ],
+      "changes": {
+        "question": "Jaki jest cel postanowień dotyczących przewozu towarów niebezpiecznych na liniach kolejowych zarządzanych przez PKP PLK S.A.?"
+      }
+    },
+    {
+      "uuid": "728d2fbb-5826-4be3-a09a-f673fdfcff79",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "fc12ca4f-2549-485b-b9d3-dad5fba8e0e8",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4f3bea95-86a5-4653-918c-1fc93a2fc846",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "7e723bc8-1ab6-4a1e-8756-613261345a04",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "407c8f18-14a9-48b9-8495-c72134ca2f77",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4fc9e83d-b7f3-4201-a091-88c17ceed189",
+      "status": "DELETE",
+      "problems": [
+        "Pytanie błędnie sugeruje, że kontener do przewozu luzem elastycznym ma najpierw ściany boczne i czołowe, a nalepki umieszcza się 'dodatkowo' na innych powierzchniach. Wg § 10 ust. 3 kontener elastyczny ma wyłącznie 'obie przeciwległe strony' (bez ścian bocznych i czołowych). Pytanie jest merytorycznie mylące.",
+        "Duplikat (sens) pytania uuid=6d5726e6, które poprawnie pyta o miejsce umieszczenia nalepek na kontenerze luzem elastycznym."
+      ]
+    },
+    {
+      "uuid": "9212948c-89bd-4a11-ab02-41cb406b5213",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "32ef353c-5efd-4c58-97e3-241d8e9f488b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "ebbf83a4-dfb4-4f8c-8973-9dc93d71f49e",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e6a4bf3f-0e91-47a1-87ab-f848502f879b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "7bbcdc73-fc2b-41c1-aecc-a89ced557167",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "9d07094d-4e79-46d6-b2a3-2a14c626f758",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "fe67666e-c098-4508-8d14-c912a6878b9b",
+      "status": "DELETE",
+      "problems": [
+        "Odpowiedź A zawiera wyliczenie czterech kategorii opakowań wymagających strzałek kierunkowych (ponad 200 znaków) — naruszenie zasady 5. Pytanie należy rozbić na osobne pytania testujące po jednym aspekcie.",
+        "Literówki w odpowiedzi A: 'ciekle' zamiast 'ciekłe' (dwukrotnie) oraz 'prawidlowe' zamiast 'prawidłowe'."
+      ]
+    },
+    {
+      "uuid": "2d5a2277-0986-459d-a0f4-5259ac869efc",
+      "status": "NEW",
+      "problems": [
+        "Rozbicie pytania uuid=fe67666e o zbyt długiej odpowiedzi — pytanie testujące pierwszą kategorię opakowań wymagających strzałek kierunkowych."
+      ],
+      "changes": {
+        "question": "Czy opakowania kombinowane z opakowaniami wewnętrznymi zawierającymi materiały ciekłe wymagają oznakowania strzałkami kierunkowymi?",
+        "answers": {
+          "A": "Tak, muszą być oznakowane strzałkami kierunkowymi wskazującymi prawidłowy kierunek ustawienia przesyłki",
+          "B": "Nie, strzałki kierunkowe dotyczą wyłącznie cystern i kontenerów-cystern",
+          "C": "Tak, ale tylko jeżeli masa opakowania przekracza 30 kg",
+          "D": "Nie, wystarczy nalepka ostrzegawcza klasy zagrożenia"
+        },
+        "correct": "A",
+        "explanation": "Ir-16 § 10 ust. 9",
+        "section_ref": "§ 10"
+      }
+    },
+    {
+      "uuid": "bd251f79-23cc-4185-b527-d82b0ef3d2bf",
+      "status": "NEW",
+      "problems": [
+        "Rozbicie pytania uuid=fe67666e o zbyt długiej odpowiedzi — pytanie testujące kategorię opakowań pojedynczych z urządzeniami odpowietrzającymi."
+      ],
+      "changes": {
+        "question": "Czy opakowania pojedyncze wyposażone w urządzenia odpowietrzające wymagają oznakowania strzałkami kierunkowymi?",
+        "answers": {
+          "A": "Nie, urządzenia odpowietrzające zwalniają z obowiązku stosowania strzałek kierunkowych",
+          "B": "Tak, muszą być oznakowane strzałkami kierunkowymi wskazującymi prawidłowy kierunek ustawienia przesyłki",
+          "C": "Tak, ale tylko jeżeli zawierają towary niebezpieczne klasy 3",
+          "D": "Nie, strzałki kierunkowe dotyczą wyłącznie opakowań kombinowanych"
+        },
+        "correct": "B",
+        "explanation": "Ir-16 § 10 ust. 9",
+        "section_ref": "§ 10"
+      }
+    },
+    {
+      "uuid": "79c06193-5e3f-4d68-91cb-37ac07026d70",
+      "status": "NEW",
+      "problems": [
+        "Rozbicie pytania uuid=fe67666e o zbyt długiej odpowiedzi — pytanie testujące kategorię naczyń kriogenicznych."
+      ],
+      "changes": {
+        "question": "Czy naczynia kriogeniczne do przewozu gazów schłodzonych skroplonych wymagają oznakowania strzałkami kierunkowymi?",
+        "answers": {
+          "A": "Tak, zarówno zamknięte, jak i otwarte naczynia kriogeniczne muszą być oznakowane strzałkami kierunkowymi",
+          "B": "Tak, ale tylko naczynia kriogeniczne zamknięte",
+          "C": "Tak, ale tylko naczynia kriogeniczne otwarte",
+          "D": "Nie, naczynia kriogeniczne są zwolnione z obowiązku oznakowania strzałkami kierunkowymi"
+        },
+        "correct": "A",
+        "explanation": "Ir-16 § 10 ust. 9",
+        "section_ref": "§ 10"
+      }
+    },
+    {
+      "uuid": "21b04177-ac36-4f54-a772-ea4afcefc3bb",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź B pomija informację 'Powinien być doczepiony pojazd trakcyjny', która jest częścią opisu znaku Nr 15 w § 10 ust. 15."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Ostrożnie przetaczać",
+          "B": "Zakaz odrzutu i staczania — powinien być doczepiony pojazd trakcyjny, rozrząd tylko metodą odstawczą, nie wolno najeżdżać, chronić przed najeżdżaniem innych wagonów",
+          "C": "Zakaz odrzutu i staczania — wagon musi być zepchnięty ręcznie",
+          "D": "Ostrożnie przetaczać — prędkość manewrów nie może przekraczać 10 km/h"
+        }
+      }
+    },
+    {
+      "uuid": "74366819-ae24-484c-b9f6-1bf2b45aba1c",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=4f3bea95 — ta sama treść (na jakich elementach umieszcza się nalepki ostrzegawcze) i ta sama poprawna odpowiedź (opakowania, opakowania duże, DPPL, kontenery małe)."
+      ]
+    },
+    {
+      "uuid": "d45b2f2b-0ee2-4f48-b1c1-f8a539a7152b",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=7e723bc8 — ta sama treść (na których powierzchniach wagonów-cystern umieszcza się duże nalepki ostrzegawcze) i ta sama poprawna odpowiedź (obu ścianach bocznych)."
+      ]
+    },
+    {
+      "uuid": "48ef3bf9-9abf-4459-b99c-7a860ed3c903",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=407c8f18 — ta sama treść (na których powierzchniach kontenerów-cystern umieszcza się duże nalepki ostrzegawcze) i ta sama poprawna odpowiedź (obu ścianach bocznych i obu ścianach czołowych)."
+      ]
+    },
+    {
+      "uuid": "6d5726e6-6c70-42b2-a26f-9d02a33daf55",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "2aac9022-739c-48e5-8056-a49684fcebfe",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=9212948c-89bd-4a11-ab02-41cb406b5213 — ta sama treść (wymagania nalepek pod względem trwałości) i ta sama poprawna odpowiedź A."
+      ]
+    },
+    {
+      "uuid": "9402868e-b2a5-45fe-8219-d878134fc362",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=32ef353c — ta sama treść (czy można zastąpić nalepki innymi oznaczeniami) i ta sama poprawna odpowiedź (trwale naniesione oznakowania odpowiadające wzorom nalepek)."
+      ]
+    },
+    {
+      "uuid": "7e7b1da8-a699-4abb-bad3-58c17a0628c9",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=e6a4bf3f — ta sama treść (minimalny wymiar boku nalepki ostrzegawczej dla opakowań) i ta sama poprawna odpowiedź (100 mm)."
+      ]
+    },
+    {
+      "uuid": "de9ea88f-9d09-4f05-aa31-7ad79d18482b",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=7bbcdc73 — ta sama treść (minimalny wymiar boku dużej nalepki dla wagonów i kontenerów) i ta sama poprawna odpowiedź (250 mm)."
+      ]
+    },
+    {
+      "uuid": "6d2f4f36-95a2-4225-8c8e-cca73ccd610a",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=9d07094d — ta sama treść (do jakiego wymiaru mogą być zmniejszone nalepki dla wagonów) i ta sama poprawna odpowiedź (150 x 150 mm)."
+      ]
+    },
+    {
+      "uuid": "370ecfce-84ec-401c-a5a9-571deabdf3b3",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=fe67666e (oba testują które opakowania muszą być oznakowane strzałkami kierunkowymi z § 10 ust. 9). Pytanie uuid=fe67666e zostało usunięte i zastąpione nowymi pytaniami rozbijającymi wyliczenie.",
+        "Odpowiedź B jest niekompletna — pomija kwalifikację naczyń kriogenicznych ('zamknięte lub otwarte do przewozu gazów schłodzonych skroplonych')."
+      ]
+    },
+    {
+      "uuid": "c7245952-6a35-4ee1-b009-c0d94fc5be17",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=21b04177 — ta sama treść (co oznacza znak manewrowy Nr 15) i ta sama poprawna odpowiedź B."
+      ]
+    },
+    {
+      "uuid": "239faf4a-cbe1-43fb-80f9-17128e46cd6c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "fd76edef-ff69-4a13-a6d4-51aff16ae235",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d0488962-5653-4713-9552-e280358b8c8c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "44702f5d-c58e-464e-9949-01b571335ab7",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e8f19442-1108-4dfb-8a4b-c292b4f2f49a",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź B jest niekompletna: brakuje członu 'kontenera' — według § 12 ust. 1 podaje się sumę masy kontenera, kontenera cysterny oraz załadowanych do nich towarów niebezpiecznych (trzy elementy, nie dwa)."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Masę samego towaru niebezpiecznego załadowanego do kontenera cysterny",
+          "B": "Sumę masy kontenera, kontenera cysterny oraz załadowanych do nich towarów niebezpiecznych",
+          "C": "Masę pustego kontenera cysterny bez ładunku",
+          "D": "Masę brutto całego wagonu wraz z kontenerem cysterną"
+        }
+      }
+    },
+    {
+      "uuid": "b7996a82-ad68-42a1-a507-bfc501c6019e",
+      "status": "FIX",
+      "problems": [
+        "Literówki i brak polskich znaków w dystraktorach: 'niebezpieczenstwa' → 'niebezpieczeństwa', 'klase' → 'klasę', 'Nazwe' → 'Nazwę', 'chemiczna' → 'chemiczną', 'mase netto ladunku' → 'masę netto ładunku', 'liste' → 'liście', 'date zaladunku' → 'datę załadunku'."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Numer zagrożenia oraz numer UN towaru niebezpiecznego poprzedzony literami \"UN\"",
+          "B": "Numer seryjny wagonu oraz klasę niebezpieczeństwa towaru",
+          "C": "Nazwę chemiczną towaru oraz masę netto ładunku",
+          "D": "Numer listu przewozowego i datę załadunku"
+        }
+      }
+    },
+    {
+      "uuid": "51d861ca-8b02-45a4-afc8-2a8ef7181b74",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "7f1281cd-f14f-4f3e-bc73-6ab3bdb28189",
+      "status": "FIX",
+      "problems": [
+        "Literówki i brak polskich znaków w dystraktorach: 'Nazwe nadawcy przesylki' → 'Nazwę nadawcy przesyłki', 'Date zaladunku wagonu' → 'Datę załadunku wagonu', 'Numer umowy przewozowej' — OK."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Nazwę nadawcy przesyłki",
+          "B": "Numery nalepek ostrzegawczych",
+          "C": "Datę załadunku wagonu",
+          "D": "Numer umowy przewozowej"
+        }
+      }
+    },
+    {
+      "uuid": "bfad062e-15d7-450b-9c72-355f1cb35890",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f5535a12-47b3-4a06-ac40-46ffaab18d22",
+      "status": "FIX",
+      "problems": [
+        "Literówki i brak polskich znaków w dystraktorach: 'niebezpieczenstwa' → 'niebezpieczeństwa', 'klasy niebezpieczenstwa' → 'klasy niebezpieczeństwa'."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Litery \"UN\" i numer klasy niebezpieczeństwa",
+          "B": "Litery \"LQ\" bez numeru UN",
+          "C": "Numer nalepki ostrzegawczej umieszczony w nawiasie",
+          "D": "Litery \"IMDG\" bez numeru UN"
+        }
+      }
+    },
+    {
+      "uuid": "87f032bf-9d3f-4465-b8eb-ad3904dbfb68",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "8be01293-e881-4e5a-a505-d77427b753bc",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f20ebe84-53cf-4364-a41b-61054264803e",
+      "status": "FIX",
+      "problems": [
+        "Literówki i brak polskich znaków w dystraktorach: 'Skrot \"PR\" (prozny)' → 'Skrót \"PR\" (próżny)', 'Mase pustego wagonu' → 'Masę pustego wagonu'."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Zero (0)",
+          "B": "Znak minus (–)",
+          "C": "Skrót \"PR\" (próżny)",
+          "D": "Masę pustego wagonu"
+        }
+      }
+    },
+    {
+      "uuid": "90d79cb3-b390-4c01-aa84-c616f5a20c7f",
+      "status": "FIX",
+      "problems": [
+        "Literówki i brak polskich znaków w odpowiedzi A i innych: 'Maszyniscie' → 'Maszyniście', 'Kierownikowi pociągu oraz dyżurnemu ruchu PKP PLK S.A.' — odpowiedź B mówi o kierowniku pociągu, którego § 12 ust. 4 nie wymienia; dystraktory są wiarygodne. Poprawić literówki w pytaniu i odpowiedziach."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Maszyniście pojazdu kolejowego z napędem oraz dyżurnemu ruchu PKP PLK S.A.",
+          "B": "Kierownikowi pociągu oraz dyżurnemu ruchu PKP PLK S.A.",
+          "C": "Maszyniście pojazdu kolejowego z napędem oraz kierownikowi pociągu",
+          "D": "Dyżurnemu ruchu PKP PLK S.A. oraz nadzorcy techniczno-ruchowemu"
+        }
+      }
+    },
+    {
+      "uuid": "8ecbc521-d87e-4b51-b9af-6ff3880e9598",
+      "status": "FIX",
+      "problems": [
+        "Literówki i brak polskich znaków: 'stacji poczatkowej' → 'stacji początkowej', 'gosci' (w domyśle 'gotowosci') → 'gotowości', 'Wylącznie' → 'Wyłącznie', 'zaladunku' → 'załadunku'."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Po odjeździe pociągu ze stacji początkowej",
+          "B": "Na stacji początkowej, stacji granicznej lub stacji zmiany zestawienia przed zgłoszeniem gotowości pociągu do odjazdu",
+          "C": "Wyłącznie na stacji początkowej przed załadunkiem towaru niebezpiecznego",
+          "D": "Na stacji przeznaczenia po przybyciu pociągu"
+        }
+      }
+    },
+    {
+      "uuid": "68c275d4-3916-4536-bc95-26a636765471",
+      "status": "FIX",
+      "problems": [
+        "Literówki i brak polskich znaków: 'Przewoznik' → 'Przewoźnik' (wielokrotnie), 'wjezdzie' → 'wjeździe', 'poczatkowej' → 'początkowej'."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Przewoźnik przekazuje wykaz pojazdów kolejowych w składzie pociągu dyżurnemu ruchu najbliższego posterunku ruchu PKP PLK S.A. przed wjazdem na infrastrukturę PKP PLK S.A.",
+          "B": "Przewoźnik przekazuje wykaz pojazdów kolejowych w składzie pociągu dyżurnemu ruchu stacji granicznej po wjeździe na infrastrukturę PKP PLK S.A.",
+          "C": "Przewoźnik informuje dyżurnego ruchu PKP PLK S.A. telefonicznie o rodzaju przewożonego towaru niebezpiecznego przed wjazdem na infrastrukturę PKP PLK S.A.",
+          "D": "Przewoźnik przekazuje kopię listu przewozowego dyżurnemu ruchu PKP PLK S.A. na stacji początkowej trasy po wjeździe na infrastrukturę PKP PLK S.A."
+        }
+      }
+    },
+    {
+      "uuid": "67913532-9a62-4d04-8f02-2c26829fb2f2",
+      "status": "FIX",
+      "problems": [
+        "Literówki i brak polskich znaków: 'sie' → 'się', 'sklad' → 'skład', 'byc' → 'być', 'Gdy' wielokrotnie — odpowiedzi wymagają poprawy znaków diakrytycznych."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Gdy zmienia się skład pociągu, tj. dodawane lub odejmowane są wagony z towarem niebezpiecznym",
+          "B": "Gdy ten sam pociąg lub jego skład z towarem niebezpiecznym ma być wyprawiony wg nowego rozkładu jazdy z innym numerem pociągu",
+          "C": "Gdy na stacji przeznaczenia dochodzi do zmiany przewoźnika odpowiedzialnego za towar niebezpieczny",
+          "D": "Gdy masa przewożonego towaru niebezpiecznego przekracza dopuszczalny limit na danej trasie"
+        }
+      }
+    },
+    {
+      "uuid": "48518f00-961b-4b75-9366-a2f1c015a9d3",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "7bf8b46a-9ef1-4604-b7b6-8e27940134b4",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b6332640-6cd8-48ef-8c9a-6752e11e9d4e",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4ce7a58e-81a6-41e6-8aa7-a0fbd84f3613",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "6c81d219-d1df-443a-8518-7c155acb2f4c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b4c8b44a-f8c9-47e6-8b50-ca2cf9941c50",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b1b9e238-4fcf-463d-9d13-0309e64fac75",
+      "status": "FIX",
+      "problems": [
+        "Literówki w odpowiedzi B: brak znaków diakrytycznych — 'sie' → 'się', 'skladzie' → 'składzie', 'pociagu' → 'pociągu', 'towarow' → 'towarów'"
+      ],
+      "changes": {
+        "answers": {
+          "A": "Wykaz wszystkich stacji, na których pociąg będzie zatrzymywany",
+          "B": "Informacje o znajdowaniu się w składzie pociągu towarów niebezpiecznych, w tym TWR",
+          "C": "Dokumenty przewozowe dotyczące całego składu pociągu",
+          "D": "Instrukcję dotyczącą awaryjnego rozrządzania wagonami"
+        }
+      }
+    },
+    {
+      "uuid": "32eb5a47-056c-4a32-95a1-9780ccdde05c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "03391e26-f5cf-4fa0-aa67-b5083acf5990",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "db7f36a6-03db-416b-a499-22a9ade54abe",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "92694059-5c0a-49c5-9e09-9e207b191b30",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d605b8dd-aa6e-42dd-ab4b-a040d9fee8ce",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a1a5e836-a260-4730-a168-febdcca86890",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f7bfaad5-cb2c-4a9b-bcc7-6a577029ea10",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5a3010a1-bc9f-4798-8bb2-8ffb1fcf24ca",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "21716d51-385c-4d79-8afc-9f5d898f5d32",
+      "status": "FIX",
+      "problems": [
+        "Poprawna odpowiedź A (~175 znaków) jest ponad 1,5× dłuższa niż najdłuższy dystrakator D (~97 znaków) — naruszenie zasady 6; wyrównano dystraktory w górę.",
+        "Niedokładność w odpowiedzi A: 'niemocowane do podłogi' powinno brzmieć 'nie są mocowane bezpośrednio do podłogi' zgodnie z ust. 8."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Gdy wagony są wyposażone w łożyska toczne, mają blachy ochronne, które nie są mocowane bezpośrednio do podłogi, mocny i bezpieczny dach, szczelne ściany i podłogę oraz dobrze zamykające się drzwi i przewietrzniki",
+          "B": "Gdy wagony posiadają zestawy kołowe bezobręczowe (monoblokowe), są oznakowane dużymi nalepkami ostrzegawczymi klasy 1 oraz sprzęgnięte z wagonami stanowiącymi odległości ochronne ze zderzakami naciśniętymi",
+          "C": "Gdy wagony są konwojowane, wagon konwojenta znajduje się przed wagonami z ładunkiem niebezpiecznym (patrząc w kierunku jazdy) i pociąg nie przekracza dozwolonej prędkości dla klasy 1",
+          "D": "Gdy wagony są sprzęgnięte z wagonami stanowiącymi odległości ochronne ze zderzakami naciśniętymi, a pierwszy i ostatni pojazd w pociągu ma czynny hamulec zespolony"
+        }
+      }
+    },
+    {
+      "uuid": "164aaec1-eef7-454c-9e52-17588c4b438a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f1779dd2-bed7-4027-9e64-617fb352b7d8",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "95bec2b5-d4dd-4533-8b43-dfe424460f2c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a8c96bdd-ad99-4dff-acb5-8c8457ce5f43",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "3255a9f5-1359-43d4-ac7d-9c1a10850885",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "2d47946b-d346-4db5-82a8-6b91a06ab535",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "52f8e94b-2877-45bc-9fe8-9704bb5786ff",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e3b30a6d-a152-4ebc-83d7-ddd42313cccb",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b371b5df-2c92-4e38-ad90-6b81ceffcd3f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b1b932d1-8eda-487c-9d4e-ad0e299c4827",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "15016cd9-d987-4c3b-b793-deef4972cce4",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "ff3075d7-8a1b-49bc-964a-0d8bbdf67c57",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5ae570f7-387f-49cd-a8ab-aebda28cf24a",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=0b9a34fc — identyczny sens, ta sama poprawna odpowiedź; odpowiedź B pomija człon 'najszybszy dowóz do stacji przeznaczenia' który wynika z § 17 ust. 1, przez co jest mniej precyzyjna niż odpowiedź A w pytaniu 0b9a34fc."
+      ]
+    },
+    {
+      "uuid": "fe146f99-2336-4261-99c8-32659c3fa85d",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=62c67e44 — identyczny sens i ta sama poprawna odpowiedź C; pytanie 62c67e44 zachowane jako pełniejsze."
+      ]
+    },
+    {
+      "uuid": "07ec3bef-ec6a-4782-b58f-e4a9ba4bd9ea",
+      "status": "FIX",
+      "problems": [
+        "Literówka w odpowiedzi D: 'bezpieczenstwa' → 'bezpieczeństwa'.",
+        "Literówka w odpowiedzi D: 'dzialu' → 'działu'."
+      ],
+      "changes": {
+        "answers": {
+          "A": "W regulaminie technicznym posterunku ruchu",
+          "B": "W instrukcji Ir-1 dotyczącej zasad prowadzenia ruchu pociągów",
+          "C": "W planach awaryjnych sporządzonych przez SOK",
+          "D": "W Planach zapewnienia bezpieczeństwa sporządzonych zgodnie z postanowieniami działu 1.10 RID/Zał. 2 do SMGS"
+        }
+      }
+    },
+    {
+      "uuid": "8038773e-985f-43e6-a19a-9da7a1b4880e",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=ee05b9e8 — identyczny sens i ta sama poprawna odpowiedź B; odpowiedź B w tym pytaniu pomija słowo 'szczególnej' ('ze zwróceniem uwagi' zamiast 'ze zwróceniem szczególnej uwagi') przez co jest mniej precyzyjna; pytanie ee05b9e8 zachowane jako pełniejsze."
+      ]
+    },
+    {
+      "uuid": "5886e73c-5de2-4c0d-b515-f48a5bc35b35",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=fbf338a4 — identyczny sens i ta sama poprawna odpowiedź; odpowiedź B ('Właściwej terytorialnie jednostce SOK') jest mniej precyzyjna niż odpowiedź C w pytaniu fbf338a4 ('Właściwej terenowo jednostce SOK'), która dokładnie oddaje brzmienie § 17 ust. 5 ('właściwej terenowo jednostki SOK')."
+      ]
+    },
+    {
+      "uuid": "68c91015-36fa-440e-9278-7b3aef3505ac",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "24ce59c4-f334-4218-b7a9-09025c889c3e",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "8791405d-1632-4e27-bbac-0f34f1ccacbf",
+      "status": "FIX",
+      "problems": [
+        "Liczne literówki w odpowiedziach (brak polskich znaków diakrytycznych): 'Liczbe' → 'Liczbę', 'wagonow' → 'wagonów', 'poszczegolnych' → 'poszczególnych', 'numerow' → 'numerów', 'zagrozenia' → 'zagrożenia', 'relacje' → 'relację', 'przesylki' → 'przesyłki', 'wlasnej' → 'własnej', 'Numer' → 'Numer', itd.",
+        "Poprawna odpowiedź B (~115 znaków) jest ponad 1,5× dłuższa od najdłuższego dystraktora — należy wyrównać dystraktory w górę zgodnie z treścią paragrafu."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Numer wagonu, datę załadunku i nazwę nadawcy przesyłki oraz numer pociągu i relację na bieżący rok",
+          "B": "Liczbę wagonów dla poszczególnych numerów UN i zagrożenia, relację przesyłki z TWR oraz nr planowania z własnej dokumentacji",
+          "C": "Masę ładunku, klasę niebezpieczeństwa i wymagany czas dowozu do stacji przeznaczenia dla każdego numeru UN",
+          "D": "Numer pociągu, numer lokomotywy i dane maszynisty prowadzącego skład oraz nr planowania z dokumentacji"
+        }
+      }
+    },
+    {
+      "uuid": "9ce84ced-6433-472d-87a9-39134e15ff7f",
+      "status": "FIX",
+      "problems": [
+        "Liczne literówki w odpowiedziach (brak polskich znaków diakrytycznych): 'Pelna' → 'Pełną', 'zwiazana' → 'związaną', 'przesylka' → 'przesyłką', 'swiadectwo' → 'świadectwo', 'liste' → 'listę', 'materialu' → 'materiału', 'wlaczeniu' → 'włączeniu', 'pociagu' → 'pociągu', 'wagonow' → 'wagonów', 'przesylkami' → 'przesyłkami', 'podajac' → 'podając', 'Harmonogram' → OK, 'Dane' → OK.",
+        "Literówki w odpowiedzi D: 'wagonow' → 'wagonów', 'ich numerach seryjnych' — brak podstawy w paragrafie."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Pełną dokumentację związaną z przesyłką, w tym świadectwo nadania i listę materiału niebezpiecznego",
+          "B": "Informacje o planowanym włączeniu do pociągu wagonów z przesyłkami TWR, podając numer pociągu i nr planowania",
+          "C": "Harmonogram przejazdu pociągu przez kolejne posterunki ruchu na trasie",
+          "D": "Dane o liczbie wagonów z TWR oraz ich numerach UN i zagrożeniach dla każdego wagonu"
+        }
+      }
+    },
+    {
+      "uuid": "65c1d6c9-1616-4ed0-be7a-c52a765c4b58",
+      "status": "FIX",
+      "problems": [
+        "Literówka w odpowiedzi A: 'przesylki' → 'przesyłki'.",
+        "Literówka w odpowiedzi C: 'Wysylaja' → 'Wysyłają', 'zaznaczona' → 'zaznaczoną'."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Przekazują specjalny kod alfanumeryczny przypisany do danej przesyłki TWR",
+          "B": "Podają po numerze pociągu słowa: \"TWR\" i dokonują stosownych zapisów w rubryce \"uwagi\" dziennika ruchu",
+          "C": "Wysyłają komunikat elektroniczny przez system EDR z zaznaczoną flagą TWR",
+          "D": "Podają po numerze pociągu słowa: \"z towarami niebezpiecznymi\" i dokonują stosownych zapisów w rubryce \"uwagi\" dziennika ruchu"
+        }
+      }
+    },
+    {
+      "uuid": "0aa2aa25-203e-4f4b-9b06-a329dec810dc",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "28135c6a-ddcb-4116-88b6-f221d5725679",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5d0e4600-707a-4298-9933-bb4935c57bd0",
+      "status": "FIX",
+      "problems": [
+        "Liczne literówki w odpowiedziach (brak polskich znaków diakrytycznych): 'Kontynuowac' → 'Kontynuować', 'najblizszej' → 'najbliższej', 'mozna' → 'można', 'przeprowadzic' → 'przeprowadzić', 'kontrole' → 'kontrolę', 'Niezwlocznie' → 'Niezwłocznie', 'odlaczac' → 'odłączać', 'pozostawic' → 'pozostawić', 'nieprawidlowosci' → 'nieprawidłowości', 'Zatrzymac' → 'Zatrzymać', 'najblizszej' → 'najbliższej', 'ktora' → 'która', 'umozliwia' → 'umożliwia', 'okreslony' → 'określony', 'wyznaczony' → OK.",
+        "Poprawna odpowiedź C (~160 znaków) jest ponad 1,5× dłuższa od najdłuższego dystraktora — należy wyrównać dystraktory w górę zgodnie z treścią paragrafu."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Kontynuować przejazd do najbliższej stacji węzłowej, gdzie można przeprowadzić kontrolę i wyjaśnić rozbieżność z dyspozytorem",
+          "B": "Niezwłocznie odłączyć wagon z towarem niebezpiecznym i pozostawić go na miejscu stwierdzenia nieprawidłowości na torze bocznym",
+          "C": "Zatrzymać pociąg na najbliższej stacji, która umożliwia taki postój, na tor określony w regulaminie technicznym i wyznaczony przez dyspozytora liniowego",
+          "D": "Skierować pociąg na tor boczny i oczekiwać na przybycie przedstawiciela SOK oraz dyspozytora ds. planowania produkcji"
+        }
+      }
+    },
+    {
+      "uuid": "150570ee-1422-4343-8eb9-cb83c7480dbc",
+      "status": "FIX",
+      "problems": [
+        "Literówki w odpowiedziach A, C, D (brak polskich znaków): 'Wylacznie' → 'Wyłącznie', 'wlasciwa' → 'właściwą', 'terytorialnie' → OK, 'Dyspozytora' → OK, 'planowania' → OK, 'przewoznika' → 'przewoźnika', 'liniowego' → OK.",
+        "Odpowiedź B w pytaniu wskazuje 'SOK, dyspozytora w IZ oraz dyspozytora liniowego' — zgodnie z § 17 ust. 14 jest poprawna."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Wyłącznie dyspozytora liniowego i SOK właściwą terytorialnie",
+          "B": "SOK, dyspozytora w IZ oraz dyspozytora liniowego",
+          "C": "Dyspozytora ds. planowania produkcji i przewoźnika",
+          "D": "Dyspozytora liniowego, dyspozytora ds. planowania produkcji oraz przewoźnika"
+        }
+      }
+    },
+    {
+      "uuid": "0b9a34fc-62a1-4c2b-ba4a-f2cc26148eb8",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "62c67e44-64e3-4fa5-b939-f4679b5ebef2",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "85cc0ad1-ad26-41ee-b90a-57a7c081b36b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "ee05b9e8-d132-4090-b54b-aba0be17e85b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "fbf338a4-199c-499a-a060-58b65d709049",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5804ac31-a270-48e3-a654-4b55f50d8bc6",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=68c91015 — identyczny sens (wybór toru z regulaminu technicznego) i ta sama poprawna odpowiedź; pytanie 68c91015 zachowane jako mające bardziej precyzyjne sformułowanie pytania."
+      ]
+    },
+    {
+      "uuid": "30dd820f-a129-4405-a796-8b09fbc3e202",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "c8209a15-08ef-4789-9c12-34d6fa080e92",
+      "status": "FIX",
+      "problems": [
+        "Zasada 6: poprawna odpowiedź B (~177 znaków) jest ponad 1,5× dłuższa od pozostałych dystraktorów — należy wyrównać dystraktory w górę do długości poprawnej odpowiedzi."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Telefonicznie powiadomić dyżurnego ruchu stacji włączenia, dokonać zapisu w dzienniku ruchu oraz przekazać wykaz wagonów z TWR z podaniem numerów UN i zagrożenia",
+          "B": "Wprowadzić do SEPE2 informacje o liczbie wagonów, numerach UN i zagrożenia, relacji przesyłki oraz nr planowania, a następnie telefonicznie powiadomić dyspozytora ds. planowania produkcji właściwej ekspozytury",
+          "C": "Przekazać pisemne zgłoszenie do Komendy Regionalnej SOK z numerem pociągu, planem przejazdu oraz wykazem wagonów z TWR z podaniem numerów UN i zagrożenia",
+          "D": "Dokonać wpisów w EDR z podaniem liczby wagonów z TWR, numerów UN i zagrożenia oraz relacji przesyłki, a następnie powiadomić dyspozytora liniowego o planowanym włączeniu"
+        }
+      }
+    },
+    {
+      "uuid": "d5bf1f92-0951-46f8-aae7-5839864963a8",
+      "status": "FIX",
+      "problems": [
+        "Zasada 6: poprawna odpowiedź A (~156 znaków) jest ponad 1,5× dłuższa od pozostałych dystraktorów — należy wyrównać dystraktory w górę do długości poprawnej odpowiedzi."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Akceptuje planowanie nadając numer referencyjny i przekazuje informacje do służby dyżurnej Komendy Regionalnej SOK właściwej dla stacji włączenia TWR",
+          "B": "Przekazuje informacje do dyspozytora liniowego i dyżurnego ruchu stacji włączenia, którzy dokonują zapisów w dziennikach telefonicznych i powiadamiają maszynistę",
+          "C": "Wydaje dyspozycje maszyniście prowadzącemu pociąg, powiadamia stację przeznaczenia TWR i dokonuje zapisu w systemie SEPE2 z odnotowaniem numeru planowania",
+          "D": "Akceptuje planowanie i bezpośrednio informuje dyżurnego ruchu stacji odjazdu pociągu z TWR, który dokonuje stosownych zapisów w dzienniku ruchu i powiadamia SOK"
+        }
+      }
+    },
+    {
+      "uuid": "9594788c-b591-43c0-9c2a-baffb8782ac1",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b07c6323-e529-421a-bbe3-80ee63f1813b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d3c7216a-738f-48ec-b4c3-1a41d628bbeb",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "acfaf646-5209-4f28-8a11-5e7710c0f894",
+      "status": "FIX",
+      "problems": [
+        "Zasada 6: poprawna odpowiedź A (~163 znaki) jest ponad 1,5× dłuższa od pozostałych dystraktorów — należy wyrównać dystraktory w górę do długości poprawnej odpowiedzi."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Powiadomić w sposób udokumentowany przewoźnika, dokonać zapisów w dokumentacji oraz SEPE2 i EDR, a dyżurny ruchu stacji wyłączenia powiadamia SOK, dyspozytora w IZ oraz dyspozytora liniowego",
+          "B": "Powiadomić wyłącznie maszynistę pociągu i dokonać zapisu w dzienniku ruchu stacji, a następnie oczekiwać na dalsze dyspozycje przewoźnika przed podjęciem jakichkolwiek działań",
+          "C": "Przekazać informację do Komendy Regionalnej SOK i oczekiwać na dalsze dyspozycje bez podejmowania innych działań; przewoźnik jest odpowiedzialny za dalsze kroki proceduralne",
+          "D": "Niezwłocznie przekazać wagon do stacji naprawczej, powiadomić przewoźnika telefonicznie oraz dokonać stosownego zapisu w dzienniku ruchu bez wpisu do systemu SEPE2"
+        }
+      }
+    },
+    {
+      "uuid": "de25d59f-f0eb-425e-a28c-b09294f0e78a",
+      "status": "FIX",
+      "problems": [
+        "Zasada 6: poprawna odpowiedź B (~130 znaków) jest ponad 1,5× dłuższa od pozostałych dystraktorów — należy wyrównać dystraktory w górę do długości poprawnej odpowiedzi."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Pociągami pasażerskimi w sposób gwarantujący najszybszy dowóz do stacji przeznaczenia z zachowaniem minimalnej liczby prac manewrowych i przestrzeganiem przepisów RID",
+          "B": "Pociągami towarowymi w sposób gwarantujący jak najmniejszą liczbę postojów, prac manewrowych i najszybszy dowóz do stacji przeznaczenia",
+          "C": "Pociągami towarowymi bez ograniczeń dotyczących liczby postojów i prac manewrowych, z zachowaniem przepisów RID i przy zapewnieniu stałej obserwacji przez pracowników SOK",
+          "D": "Wyłącznie pociągami ekspresowymi towarowymi kursującymi bez zatrzymań na stacjach pośrednich, z zapewnieniem pierwszeństwa przejazdu przed innymi kategoriami pociągów"
+        }
+      }
+    },
+    {
+      "uuid": "f9c925ef-16d8-4b37-9a4f-b7afcee8cd05",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b2e496e9-9940-4e12-a6a2-8a458477668b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "57aa7a9b-036e-40c3-8d0b-d72f3e5464f0",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "6961934c-25d2-439d-9d01-a051a4f02626",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "88499bc2-0d58-41ad-8753-ad7ae41cc1fd",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e395854c-17ee-4ec2-a2fa-765db67d1659",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=30dd820f-a129-4405-a796-8b09fbc3e202 — oba pytania dotyczą tej samej zasady minimalizowania czasu postoju wagonów z TWR na stacji (Ir-16 § 17 ust. 7) i mają tę samą poprawną odpowiedź B. Pytanie 30dd820f jest bardziej precyzyjne i należy je zachować."
+      ]
+    },
+    {
+      "uuid": "a5ca08cf-dcca-49b5-b890-cb3460afbb6b",
+      "status": "FIX",
+      "problems": [
+        "Zasada 6: poprawna odpowiedź B (~154 znaki) jest ponad 1,5× dłuższa od pozostałych dystraktorów — należy wyrównać dystraktory w górę do długości poprawnej odpowiedzi."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Tylko numer pociągu i przewidywany czas odjazdu ze stacji włączenia oraz dane kontaktowe do wyznaczonego pracownika przewoźnika odpowiedzialnego za przesyłkę z TWR",
+          "B": "Liczbę wagonów z TWR, relację przesyłki (stację włączenia i wyłączenia) dla poszczególnych numerów UN i zagrożenia oraz nr planowania z własnej dokumentacji",
+          "C": "Dane maszynisty prowadzącego pociąg, numer pociągu, wykaz towarów niebezpiecznych z podaniem numerów UN i zagrożenia oraz planowany czas przejazdu przez stacje pośrednie",
+          "D": "Numer pociągu, planowany czas przejazdu przez każdą stację pośrednią, kontakt do przewoźnika oraz informację o liczbie wagonów z podaniem kategorii zagrożenia RID"
+        }
+      }
+    },
+    {
+      "uuid": "46692132-6530-4ebe-8c7a-5cdf8e25327b",
+      "status": "FIX",
+      "problems": [
+        "Literówka w odpowiedzi B: 'slowo' → 'słowo'."
+      ],
+      "changes": {
+        "answers": {
+          "B": "Po numerze pociągu podają słowo \"TWR\" i dokonują stosownych zapisów w rubryce \"uwagi\" dziennika ruchu"
+        }
+      }
+    },
+    {
+      "uuid": "baa6ff6d-015c-4373-bdff-74485b943ae3",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "9b988017-247a-4ce5-bfe6-6bff3c2f152d",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d39b774a-d9aa-4c84-afa3-01c8c450870c",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=d3c7216a-738f-48ec-b4c3-1a41d628bbeb — oba pytania dotyczą tego samego progu 60 minut nieplanowego postoju pociągu z TWR na stacji pośredniej (Ir-16 § 17 ust. 9 pkt 2) i mają tę samą poprawną odpowiedź C. Pytanie d3c7216a jest lepiej sformułowane i należy je zachować."
+      ]
+    },
+    {
+      "uuid": "01ff2aa9-bca0-48dd-a928-acf393f608a8",
+      "status": "FIX",
+      "problems": [
+        "Zasada 6: poprawna odpowiedź B (~168 znaków) jest ponad 1,5× dłuższa od pozostałych dystraktorów — należy wyrównać dystraktory w górę do długości poprawnej odpowiedzi."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Pociąg kontynuuje jazdę z obniżoną prędkością do najbliższej stacji przeznaczenia, gdzie maszynista składa pisemne oświadczenie dyżurnemu ruchu i przewoźnik uzupełnia dokumentację",
+          "B": "Pociąg należy zatrzymać na najbliższej stacji, która umożliwia taki postój, na torze określonym w regulaminie technicznym i wyznaczonym przez dyspozytora liniowego",
+          "C": "Pociąg zatrzymuje się natychmiast w miejscu wykrycia rozbieżności bez względu na lokalizację, a maszynista oczekuje na przybycie pracownika SOK i dyspozytora liniowego",
+          "D": "Pociąg kierowany jest na bocznicę wyznaczoną przez przewoźnika w porozumieniu z SOK, gdzie zostaje zatrzymany do czasu wyjaśnienia rozbieżności przez dyspozytora ds. planowania"
+        }
+      }
+    },
+    {
+      "uuid": "2e1636d4-73c7-400c-8a2c-edb48021555a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "33cb9924-c830-4071-9276-8ed598b645de",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "1fd8be2a-87b2-4183-b344-b4f47e015b2a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5a25b348-fae8-4b14-8291-f709fc714cfa",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "75639054-5e10-4fe9-ae81-6013ee5a6350",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "ea4b1266-58a3-4b2b-b6c2-3f0d37721c09",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "882caef1-0914-400e-9bb4-ee86a24e6314",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e6e047f9-3dd3-4599-9185-26616b00f4df",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "7e9bd666-465b-4782-bf41-3cd6f8052e84",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "577a4b5c-2021-445b-b986-f018b156c7e3",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "06b334e8-f6c0-4f8a-bbe7-a8b7bb4d2c65",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "962692ef-ad5a-49dd-8d0f-318ab37d2f63",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b87e6656-81c5-4c3c-b75b-0576cd8af275",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "95ab2028-d4f2-4b56-aa3a-3327b7bdf48d",
+      "status": "FIX",
+      "problems": [
+        "Sformułowanie 'zamiast wymaganego dystansu 18 m' jest mylące — definicja z ust. 8 wskazuje, że odległość ochronna może wynosić nie mniej niż 18 m LUB być zajęta przez określone wagony; to dwa równorzędne sposoby spełnienia warunku, a nie alternatywa dla 'wymaganego dystansu'."
+      ],
+      "changes": {
+        "question": "Jakie wagony mogą zajmować odległość ochronną, gdy wynosi ona mniej niż 18 m?"
+      }
+    },
+    {
+      "uuid": "212bbb12-a309-4c05-99ee-0d7a5c87a718",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "fb24e981-ed74-4f55-8ab3-f216ff8b70d3",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "6e23059b-0111-4107-a6dc-b0d671ba3ee7",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "30212b44-f570-447b-a965-1101ebe5a72f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "da33afb3-e90d-437d-bef6-c5f22bff335f",
+      "status": "FIX",
+      "problems": [
+        "Poprawna odpowiedź C (~147 znaków) jest ponad 1,5× dłuższa od najdłuższego dystraktora D (~89 znaków) — naruszenie zasady 6. Należy rozbudować dystraktory w górę, opierając się na treści paragrafu."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Wyłącznie przewoźnik kolejowy i zarządca infrastruktury kolejowej biorący udział w transporcie towarów niebezpiecznych na sieci zarządzanej przez PKP PLK S.A.",
+          "B": "Wyłącznie nadawca i odbiorca towarów niebezpiecznych, którzy zawarli umowę przewozu z przewoźnikiem kolejowym uprawnionym na podstawie licencji",
+          "C": "Zarządca infrastruktury kolejowej, przewoźnik kolejowy, nadawca i odbiorca towarów niebezpiecznych oraz inne podmioty wymienione w dziale 1.4 RID/Zał. 2 do SMGS",
+          "D": "Zarządca infrastruktury kolejowej, przewoźnik kolejowy i doradca do spraw bezpieczeństwa przewozu koleją towarów niebezpiecznych wyznaczony zgodnie z przepisami RID"
+        }
+      }
+    },
+    {
+      "uuid": "7bbe6de2-991a-418e-ac07-caefc7311716",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "590212a3-ad4e-4007-8b2c-f0d0139cf61a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5340f339-8ccd-4a3f-8bb5-9a0748fb31b9",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4f0a16dd-5842-4a02-82d4-6de4b8661099",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f6e50053-cad4-4c27-be31-3a4b39d89320",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "0aae8456-3e17-41f4-a471-2ac03cd42897",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "2ede7597-ecf6-4d37-967d-1ab7d296f6df",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "cb58f79b-0c5e-4f7e-8b25-a0b6f0efa7c3",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b1732e8b-cef2-4381-bcf3-3657f3a3ce4e",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "6266e386-1d12-484c-a8d1-f3d981a92b8c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "ba6ed1be-c9ce-4694-b34e-1c79e13ea126",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "28d425d1-03a5-4c1a-af4b-c77722274015",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b8e1b37d-48e6-45e9-87fb-d09a7c07d5a3",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5230deb2-fedf-4cf2-9fa4-e8366e825551",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "bc60e1cf-eeb9-4c45-8c8c-2bddf2a3b52d",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f74f4b5d-2637-4590-8d16-8f0cbece9439",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "726fd4bf-0980-476b-a1ae-55dd6e1b065e",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "6c064c08-ed75-495f-a095-c34beac77172",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4d40ce0c-5f6d-4d91-abcb-075806010477",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e770aab5-9653-4a50-993d-595232347aed",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "582fa47f-e37b-41ae-b171-e3a013984ab8",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "ab9d17c1-cb5f-403c-9a04-4ba707fa34b4",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "dd2779cd-c9a6-42cc-bbbd-994db17b2f2b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "074148e1-0cb2-492d-bfaa-635100715b1b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5363a2b5-8ad4-4823-bb2e-3194e7bb1b1c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b25bc8d1-5fe9-4d29-b0b0-ca653e8e7deb",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "1a90ed56-8573-44d8-a039-3c1d96ac9bca",
+      "status": "FIX",
+      "problems": [
+        "Literówka w odpowiedzi A: 'przechhowywanej' → 'przechowywanej'"
+      ],
+      "changes": {
+        "answers": {
+          "A": "Na podstawie listy towarów niebezpiecznych przechowywanej w dyspozytorni",
+          "B": "Na podstawie oznakowania wagonu lub wykazu pojazdów w składzie pociągu",
+          "C": "Na podstawie dokumentacji technicznej lokomotywy",
+          "D": "Na podstawie danych z systemu informatycznego zarządcy infrastruktury"
+        }
+      }
+    },
+    {
+      "uuid": "dd228458-8d9c-4499-9415-8c7589739eb1",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "245e06a7-4f24-4b07-8565-92e7d95e5ab2",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "682d72c4-a8f1-47b0-9bc5-d8cdf4688e56",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a1b17421-facf-48f2-be76-a6491b671524",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "3b2e5d27-a8f3-4596-b94b-e7d11fd33a51",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "6061251f-6a71-4d2c-84b3-edde415bd982",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "91ea09bf-10cd-460c-aa89-ef284fa3380d",
+      "status": "FIX",
+      "problems": [
+        "Zasada 6: poprawna odpowiedź C ma ok. 153 znaki i jest ponad 1,5× dłuższa od najdłuższego dystraktora (B: ok. 76 znaków). Należy rozbudować dystraktory do porównywalnej długości, korzystając z treści paragrafu."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Odstawić go na bocznicę prywatną wskazaną przez dyspozytora liniowego, po uzgodnieniu z kierującym działaniami ratowniczymi i unieruchomić do czasu zakończenia akcji ratowniczej",
+          "B": "Odstawić go na sąsiedni tor i unieruchomić do czasu przybycia służb ratowniczych, bez konieczności uzgodnienia z kierującym działaniami ratowniczymi",
+          "C": "W miarę możliwości przestawić na tor przeznaczony do odstawiania wagonów z towarami niebezpiecznymi lub na inny tor umożliwiający sprawne przeprowadzenie dalszej akcji ratowniczej",
+          "D": "Odstawić go na tor stacyjny wskazany przez kierownika stacji nadania, po uprzednim poinformowaniu dyspozytora liniowego właściwego dla miejsca wydarzenia"
+        }
+      }
+    },
+    {
+      "uuid": "6814b19c-c666-4483-82d2-8a35f0a8721a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "41e59b89-6e46-4e56-90c8-593f4b2cbfe2",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "8ceab5ff-10d4-42c6-b45f-5a968d7259a5",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a49030c1-101a-4b80-8f6b-da29e35bebfc",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "1f906483-2cc1-4e41-894e-73f8b6e9f33d",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "13f5ffc6-735f-4a81-b282-a28eab0623a7",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "bfb877d2-1d0d-46a7-9fc9-86888e9d9ebe",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d0c3fa4b-c9d9-4024-85c7-975744407d18",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "78fe65a6-792b-45e3-813d-1d110f0d7b51",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "27a2bb77-9c36-4446-ba4c-fff1feab173f",
+      "status": "FIX",
+      "problems": [
+        "Zasada 6: poprawna odpowiedź B (110 znaków) jest dłuższa niż 1,5× najdłuższego dystraktora (71 × 1,5 = 106,5). Należy wyrównać dystraktory w górę do długości poprawnej odpowiedzi."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Wyłącznie doradca ds. przewozu towarów niebezpiecznych, posiadający uprawnienia określone przepisami RID",
+          "B": "Doradca lub osoba posiadająca wiedzę i wykształcenie niezbędne do zapewnienia prawidłowego przebiegu szkolenia",
+          "C": "Instruktor wyznaczony przez naczelnika stacji lub jego zastępcę, posiadający stosowne uprawnienia zawodowe",
+          "D": "Właściwa ds. przewozu towarów niebezpiecznych komórka organizacyjna Centrali Spółki lub upoważniony przez nią doradca"
+        }
+      }
+    },
+    {
+      "uuid": "d974377c-e6f9-412d-a234-3457567464b5",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "39a75df5-7f59-42c9-81df-941c534726d8",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "58b7b3bd-f0c2-4521-96ca-f1127439c22c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f0e59964-7171-4b2b-87bb-381aba53c24d",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "660c0e18-18e9-4eeb-ad86-c162c1997e1b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4bdd492c-fb97-4cbb-960c-fc067a070b14",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "43577f46-7c86-4d24-85b0-c99254375bea",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "be030ad6-24df-4484-8948-1db9c64e2a62",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "2efe028c-996a-40d6-a147-e51984603018",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=3f7cfa9b-5480-4c56-92f4-7b880befbb17 — oba dotyczą głównego zadania doradcy i mają tę samą poprawną odpowiedź; wersja 3f7cfa9b jest dokładniejsza, zawiera frazę 'przy zachowaniu odpowiedzialności kierującego jednostką organizacyjną' zgodną z ust. 8, a niniejsza jest okrojona i mniej precyzyjna."
+      ]
+    },
+    {
+      "uuid": "443b042c-abbb-4874-954a-0e22c4233ca3",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "0311bbf0-cb11-45f3-aa8c-8ac5cd80e76a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "7434877b-ab73-4214-ba8a-e0dd0a67c59b",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=39a75df5-7f59-42c9-81df-941c534726d8 — oba pytają o to, kto jest uprawniony/może być doradcą i mają identyczną poprawną odpowiedź (osoba posiadająca aktualne uprawnienia wydane przez władzę właściwą)."
+      ]
+    },
+    {
+      "uuid": "9db38419-570c-4459-a73d-52615b596588",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=443b042c-abbb-4874-954a-0e22c4233ca3 — oba pytają o uprawnienia doradcy w zakresie dostępu do obiektów i mają identyczną poprawną odpowiedź dotyczącą wstępu na teren i dostępu do obiektów związanych z procesem przewozu/załadunku/rozładunku."
+      ]
+    },
+    {
+      "uuid": "6f3af424-4206-4740-a6bc-9154dac19596",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=f0e59964-7171-4b2b-87bb-381aba53c24d — oba pytają o to, kto sprawuje nadzór merytoryczny nad działalnością doradców zarządcy infrastruktury i mają identyczną poprawną odpowiedź."
+      ]
+    },
+    {
+      "uuid": "fd034a66-1a90-424f-b251-93d4bef31bbb",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=660c0e18-18e9-4eeb-ad86-c162c1997e1b — oba pytają o termin przesłania rocznego sprawozdania zbiorczego do Prezesa UTK i mają identyczną poprawną odpowiedź (do 28 lutego)."
+      ]
+    },
+    {
+      "uuid": "7d089414-f04a-48d2-8f34-57abff306972",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=4bdd492c-fb97-4cbb-960c-fc067a070b14 — oba pytają o okres przechowywania egzemplarza rocznego sprawozdania zbiorczego i mają identyczną poprawną odpowiedź (5 lat)."
+      ]
+    },
+    {
+      "uuid": "fb221169-d8bc-4647-ab1c-9e5b5d61e461",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=be030ad6-24df-4484-8948-1db9c64e2a62 — oba pytają o to, kto sporządza roczne sprawozdanie gdy wyznaczono więcej niż jednego doradcę i mają identyczną poprawną odpowiedź."
+      ]
+    },
+    {
+      "uuid": "7bca9b43-7795-4c15-ab20-52c4fe284788",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=43577f46-7c86-4d24-85b0-c99254375bea — oba pytają o wzór druku rocznego sprawozdania i mają identyczną poprawną odpowiedź (wzór określony przez ministra właściwego ds. transportu)."
+      ]
+    },
+    {
+      "uuid": "3f7cfa9b-5480-4c56-92f4-7b880befbb17",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "198c25bd-66c2-41e2-abf5-300758061eee",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "853f33d8-598b-4621-afa5-49978adf90e7",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "ffbea207-7bfe-4201-b11e-7716cd3a5e49",
+      "status": "FIX",
+      "problems": [
+        "Pytanie niejednoznaczne: wszystkie cztery odpowiedzi (A, B, C, D) to ustawy wymienione w § 3 jako obowiązujące przy przewozie towarów niebezpiecznych, więc każda z nich jest poprawna. Pytanie wymaga doprecyzowania, aby jednoznacznie wskazywało na jedną odpowiedź.",
+        "Brak polskich znaków w pytaniu: 'Która' napisane poprawnie, ale treść pytania jest zbyt ogólna."
+      ],
+      "changes": {
+        "question": "Która spośród wymienionych ustaw nosi nazwę 'Prawo przewozowe' i obowiązuje w procesie przewozu towarów niebezpiecznych koleją?"
+      }
+    },
+    {
+      "uuid": "1c6e53ad-5cbd-4e3c-a327-13b381009513",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "cd8ded1b-1298-47bb-9a47-b4c20212b0c0",
+      "status": "FIX",
+      "problems": [
+        "Dystraktory C i D to rozporządzenia ministerialne (inna kategoria semantyczna niż regulaminy/konwencje międzynarodowe). Według zasady 3 dystraktory muszą być z tej samej kategorii semantycznej co poprawna odpowiedź (regulaminy/przepisy międzynarodowe lub co najmniej akty z § 3). Należy zastąpić C i D dystraktorami z tej samej kategorii — np. innymi aktami z § 3 (instrukcje lub inne rozporządzenia nie mylące kategorii)."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Regulamin SMGS — Przepisy o przewozie towarów niebezpiecznych, Załącznik 2 do Umowy o międzynarodowej kolejowej komunikacji towarowej",
+          "B": "Regulamin międzynarodowego przewozu kolejami towarów niebezpiecznych (RID)",
+          "C": "Ustawa z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych",
+          "D": "Ustawa z dnia 28 marca 2003 r. o transporcie kolejowym"
+        }
+      }
+    },
+    {
+      "uuid": "88026b5d-497c-447d-9f7c-6aadcf6c91da",
+      "status": "FIX",
+      "problems": [
+        "Literówka: 'Ktora' → 'Która'"
+      ],
+      "changes": {
+        "question": "Która instrukcja PKP PLK dotycząca prowadzenia ruchu pociągów obowiązuje w procesie przewozu towarów niebezpiecznych?"
+      }
+    },
+    {
+      "uuid": "b0148332-6ffc-4dba-ab13-a85cb49cb2f0",
+      "status": "FIX",
+      "problems": [
+        "Literówki: 'Ktora' → 'Która', 'postepowania' → 'postępowania'"
+      ],
+      "changes": {
+        "question": "Która instrukcja PKP PLK dotyczy postępowania w sprawach poważnych wypadków, wypadków i incydentów w transporcie kolejowym i obowiązuje przy przewozie towarów niebezpiecznych?"
+      }
+    },
+    {
+      "uuid": "d1c41206-72a1-4fed-bcfe-7883eefbdbfc",
+      "status": "FIX",
+      "problems": [
+        "Literówka: 'Ktora' → 'Która'"
+      ],
+      "changes": {
+        "question": "Która instrukcja PKP PLK dotyczy kolejowego ratownictwa technicznego i obowiązuje w procesie przewozu towarów niebezpiecznych?"
+      }
+    },
+    {
+      "uuid": "33937d42-b325-45c0-b39e-07bf130bd682",
+      "status": "FIX",
+      "problems": [
+        "Literówki: 'Ktore' → 'Które', 'rozporzadzenie' → 'rozporządzenie'"
+      ],
+      "changes": {
+        "question": "Które rozporządzenie określa warunki techniczne dla torów do awaryjnego odstawiania uszkodzonych wagonów kolejowych przewożących towary niebezpieczne?"
+      }
+    },
+    {
+      "uuid": "b6e6f7fc-1d7b-494f-a78c-830c9ba3eeee",
+      "status": "FIX",
+      "problems": [
+        "Literówki: 'Ktore' → 'Które', 'miedzynarodowe' → 'międzynarodowe'"
+      ],
+      "changes": {
+        "question": "Które przepisy międzynarodowe dotyczące przewozu towarów niebezpiecznych stanowią Załącznik 2 do Umowy o międzynarodowej kolejowej komunikacji towarowej (SMGS)?"
+      }
+    },
+    {
+      "uuid": "fb253371-f69e-4d79-a40c-f3e79b06ac44",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "14b84170-27a2-4c84-89d6-c555593f756b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4d796998-268d-4a4d-a229-4b70445a4118",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b1f901d6-2bd9-48e8-a4ab-aaddf834119a",
+      "status": "FIX",
+      "problems": [
+        "Literówki w treści pytania: 'bezpieczenstwa' → 'bezpieczeństwa', 'towarow niebezpiecznych' → 'towarów niebezpiecznych'"
+      ],
+      "changes": {
+        "question": "Która instytucja jest władzą właściwą w zakresie badania i dopuszczenia do przewozu zbiorników wagonów cystern oraz w sprawach świadectw doradcy ds. bezpieczeństwa przewozu towarów niebezpiecznych?"
+      }
+    },
+    {
+      "uuid": "f808f316-e136-4c51-9795-9da4b16c2465",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "3972bb1a-5192-4f2f-81a9-024a9b782736",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "7764e838-0f93-4afa-8e7c-d941554930ca",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b5275a61-876c-4a2a-82dd-3d0d7af43763",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "0caf84bc-0970-4a3d-9105-38263b09567f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d542e0e6-9800-462f-8320-3681c1ff0bd7",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "7f92c016-fd1c-499f-889e-8ffdb163e489",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "84e89c55-93bc-45c6-9a37-9492efab21cb",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d824d817-40ed-499b-a819-0ff65152d0bd",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "9b8a3074-79de-4811-ab6d-2b6eec9e2abe",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4b9c74bd-95ac-4959-904e-dcbbec5201bd",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d404cd02-6170-498d-93d3-c00c5de2338c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "7962aef9-16c2-476b-a7cf-f60f10541a47",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "7bc5929c-7fe5-41fd-8494-6951d0eba4b1",
+      "status": "FIX",
+      "problems": [
+        "Literówka w odpowiedzi B: 'niewymieniowe' → 'niewymienionych'"
+      ],
+      "changes": {
+        "answers": {
+          "A": "Towary wymienione z nazwy w tabeli A RID, które posiadają dodatkowe właściwości niebezpieczne",
+          "B": "Materiały, mieszaniny, roztwory lub przedmioty posiadające niebezpieczne właściwości odpowiadające określonej klasie, kodowi klasyfikacyjnemu i grupie pakowania, niewymienionych z nazwy w tabeli A RID",
+          "C": "Wyłącznie nowe materiały chemiczne, dla których trwa procedura klasyfikacyjna przez władze właściwe",
+          "D": "Towary, których przewóz jest dozwolony wyłącznie na podstawie specjalnego zezwolenia wydanego przez przewoźnika"
+        }
+      }
+    },
+    {
+      "uuid": "71923d33-5747-491d-9266-9b03521713c6",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "31a5204f-9ed2-4055-a2a2-ad39a3b78f24",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=2e98bdcc — oba testują definicję TWR z § 6 ust. 1; pytanie 2e98bdcc jest pełniejsze i precyzyjniejsze.",
+        "Poprawna odpowiedź B jest niekompletna — pomija 'masowe zakłócenia społeczno-gospodarcze', co jest częścią definicji z § 6 ust. 1."
+      ]
+    },
+    {
+      "uuid": "82f35906-5619-4277-9ee6-c41a31ebec19",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f831b33b-01f7-469e-9489-89de1aa005bd",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=b230829c — oba pytają o znaczenie wartości '0' w tabeli TWR; b230829c jest precyzyjniejsze i bardziej jednoznaczne."
+      ]
+    },
+    {
+      "uuid": "dc94dab6-e29c-41ea-ba38-db46fc0b4fb3",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=a1766843 — oba pytają o obowiązki nakładane przez RID/Zał. 2 do SMGS na uczestników przewozu TWR; a1766843 jest bardziej precyzyjne (explicite pyta o dwa obowiązki) i ma lepsze dystraktory."
+      ]
+    },
+    {
+      "uuid": "c476bc34-1ee3-4a79-a14b-e65846bf53cb",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=3b88dbdb — oba pytają o element planu zapewnienia bezpieczeństwa z § 6 ust. 3 pkt 2; 3b88dbdb ma precyzyjniejsze dystraktory."
+      ]
+    },
+    {
+      "uuid": "441b828b-5dfb-4396-af89-ba217180af15",
+      "status": "DELETE",
+      "problems": [
+        "Odpowiedź A zawiera wyliczenie 5 podpunktów (a–e) z § 6 ust. 3 pkt 4: szkolenie, działania w przypadku podwyższonego zagrożenia, weryfikacja nowo zatrudnianego personelu, praktyki eksploatacyjne oraz wyposażenie i zasoby. Zgodnie z zasadą 5, zamiast jednego pytania z długą odpowiedzią wyliczającą wiele podpunktów należy utworzyć osobne pytania testujące każdy aspekt.",
+        "Rozbite na pytania NEW: uuid=01bb9c25-05af-4738-8245-7cd97d24ea2d i uuid=f3fa3d12-7d28-42a1-ab14-4f5626f61108."
+      ]
+    },
+    {
+      "uuid": "01bb9c25-05af-4738-8245-7cd97d24ea2d",
+      "status": "NEW",
+      "problems": [
+        "Rozbicie pytania uuid=441b828b o zbyt długiej odpowiedzi zawierającej wyliczenie 5 podpunktów. Nowe pytanie testuje wiedzę o jednym ze składników opisu przedsięwzięć — weryfikację nowo zatrudnianego personelu."
+      ],
+      "changes": {
+        "question": "Który element wchodzi w skład opisu przedsięwzięć podejmowanych dla zmniejszenia zagrożenia bezpieczeństwa w planie zapewnienia bezpieczeństwa TWR?",
+        "answers": {
+          "A": "Harmonogram przeglądów technicznych urządzeń sterowania ruchem kolejowym na trasach przewozu TWR.",
+          "B": "Weryfikacja nowo zatrudnianego personelu biorącego udział w procesie przewozu.",
+          "C": "Zestawienie tras kolejowych dopuszczonych do przewozu towarów niebezpiecznych na terenie objętym planem.",
+          "D": "Protokoły z kontroli wewnętrznych przeprowadzonych przez doradcę ds. bezpieczeństwa."
+        },
+        "correct": "B",
+        "explanation": "Ir-16 § 6 ust. 3 pkt 4 lit. c",
+        "section_ref": "§ 6"
+      }
+    },
+    {
+      "uuid": "f3fa3d12-7d28-42a1-ab14-4f5626f61108",
+      "status": "NEW",
+      "problems": [
+        "Rozbicie pytania uuid=441b828b o zbyt długiej odpowiedzi zawierającej wyliczenie 5 podpunktów. Nowe pytanie testuje wiedzę o jednym ze składników opisu przedsięwzięć — praktykach eksploatacyjnych."
+      ],
+      "changes": {
+        "question": "Co wchodzi w skład opisu przedsięwzięć dla zmniejszenia zagrożenia bezpieczeństwa w zakresie praktyk eksploatacyjnych, wymienionych w planie zapewnienia bezpieczeństwa TWR?",
+        "answers": {
+          "A": "Zasady oznakowania wagonów i kontenerów z towarami niebezpiecznymi wysokiego ryzyka.",
+          "B": "Wybór tras i miejsc postoju podczas przewozu towarów niebezpiecznych wysokiego ryzyka.",
+          "C": "Procedury wyznaczania doradcy ds. bezpieczeństwa i zakres jego obowiązków.",
+          "D": "Wykaz instytucji uprawnionych do kontroli przesyłek z towarami niebezpiecznymi."
+        },
+        "correct": "B",
+        "explanation": "Ir-16 § 6 ust. 3 pkt 4 lit. d",
+        "section_ref": "§ 6"
+      }
+    },
+    {
+      "uuid": "5e079d9f-75f5-4f43-8a93-24cca8159c12",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=9e2e48c4 — oba pytają o jednostki organizacyjne PKP PLK S.A. zobowiązane do sporządzania planów zapewnienia bezpieczeństwa TWR; 9e2e48c4 ma precyzyjniejsze dystraktory."
+      ]
+    },
+    {
+      "uuid": "d352a0be-8841-44f1-a7be-db1b2bdc6df1",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=1abe5bb0 — oba pytają o kiedy należy dokonywać aktualizacji planu zapewnienia bezpieczeństwa TWR; 1abe5bb0 ma lepsze dystraktory i bardziej precyzyjne sformułowanie poprawnej odpowiedzi."
+      ]
+    },
+    {
+      "uuid": "8aa4f9df-15d3-4b23-9df7-abf8665665b6",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=f79b4e97 — oba pytają o częstotliwość praktycznego sprawdzenia realizacji postanowień planu zapewnienia bezpieczeństwa; f79b4e97 jest stylistycznie spójniejsze."
+      ]
+    },
+    {
+      "uuid": "2e98bdcc-4871-4331-9a75-e4408e51c32b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a4191b4c-ece2-4014-ae6b-b28362e4ef38",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "cb808eee-5cc4-4432-acca-63a314d5d709",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b230829c-f821-4dd4-9327-c8ffd910a7ef",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a1766843-e778-48f9-952f-19452a2c8f9e",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "9e2e48c4-5d27-4d40-9194-87249abbb83e",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f79b4e97-dbf0-4100-8624-ca705d11fbc0",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "1abe5bb0-96c7-4105-8677-20c3d910bdc2",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "3b88dbdb-eb9b-4e23-ad55-bb30c3f3b438",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "979387f4-dcf6-41f6-af1d-8dc8c8ad9d4e",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b197db91-8e24-4756-8c11-2cea92444fb1",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "620d6805-e270-4d00-80a2-715206fb1f75",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "69a4b193-d1c6-437d-8bf2-d80141a43a23",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=22462458 (ta sama treść i ta sama poprawna odpowiedź B). Pytanie 22462458 jest lepsze — zachowaj je po poprawce listy."
+      ]
+    },
+    {
+      "uuid": "a3e919c1-a27e-4a59-a1e0-31e0c03d4870",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=430d3c5e (ta sama treść i ta sama poprawna odpowiedź C). Pytanie 430d3c5e jest precyzyjniejsze językowo — zachowaj je."
+      ]
+    },
+    {
+      "uuid": "b76a48cf-7652-4eac-b8d2-24b558bdd074",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=47eb56bd (ta sama treść i ta sama poprawna odpowiedź C). Pytanie 47eb56bd ma bardziej spójną kolejność odpowiedzi — zachowaj je."
+      ]
+    },
+    {
+      "uuid": "10d76433-ed55-4762-acf9-656a497840cc",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=79b9f229 (ta sama treść i ta sama poprawna odpowiedź B)."
+      ]
+    },
+    {
+      "uuid": "3f882e82-2d77-495a-8ea6-6642bfc3bf70",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=5dfef098 (ta sama treść i ta sama poprawna odpowiedź C)."
+      ]
+    },
+    {
+      "uuid": "855d6178-cc3c-4b98-9017-feaec1fdf0cb",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=c4dfd506 (ta sama treść i ta sama poprawna odpowiedź C). Pytanie c4dfd506 jest precyzyjniejsze — zachowaj je."
+      ]
+    },
+    {
+      "uuid": "c91a295a-da66-42e4-8f4d-40957629f3a5",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=487a20a1 (ta sama treść i ta sama poprawna odpowiedź D)."
+      ]
+    },
+    {
+      "uuid": "4a7da26a-e4c4-4146-9ede-6e778b139120",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=5ad59a5d (ta sama treść i ta sama poprawna odpowiedź B/C)."
+      ]
+    },
+    {
+      "uuid": "1cbfaf1c-d62a-4f16-aa72-e604eacd4646",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=4214db64 (ta sama treść i ta sama poprawna odpowiedź B/C)."
+      ]
+    },
+    {
+      "uuid": "4a2233a6-abf7-4562-81f6-6853f42b659c",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=62bd8b3d (ta sama treść i ta sama poprawna odpowiedź C/A)."
+      ]
+    },
+    {
+      "uuid": "d8eee62b-af51-4436-b333-c490597f5717",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "936ff036-f43c-40ee-b1a8-ccb4f17efb8a",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=a21c8bc5 (ta sama treść i ta sama poprawna odpowiedź B)."
+      ]
+    },
+    {
+      "uuid": "a5470181-4d9e-4aae-b9d8-b4a0962d0fba",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=662ccb0c (ta sama treść — amoniak bezwodny UN 1005, ta sama poprawna odpowiedź żółta)."
+      ]
+    },
+    {
+      "uuid": "97f1befb-2f6f-4aca-9737-2bb7c298dbd5",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=458049a8 (ta sama treść i ta sama poprawna odpowiedź B — tablice pomarańczowe na każdej ścianie bocznej jednostki ładunkowej cargo UN 3536)."
+      ]
+    },
+    {
+      "uuid": "22462458-19f2-4bd3-867d-8e8fbb3051d3",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź B jest niekompletna — pomija pkt 9 z § 9 ust. 1 (wagony lub kontenery przewożące zapakowane materiały promieniotwórcze z jednym numerem UN na warunkach używania wyłącznego i bez innych materiałów niebezpiecznych). Należy uzupełnić listę w odpowiedzi B."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Wyłącznie na wagonach-cysternach i cysternach przenośnych",
+          "B": "Na wagonach-cysternach, wagonach-bateriach, wagonach z cysternami odejmowalnymi, MEGC, cysternach przenośnych, kontenerach-cysternach, wagonach do przewozu luzem, kontenerach do przewozu luzem oraz wagonach lub kontenerach z zapakowanymi materiałami promieniotwórczymi (jeden numer UN, używanie wyłączne)",
+          "C": "Wyłącznie na wagonach-cysternach, kontenerach-cysternach i cysternach przenośnych",
+          "D": "Na wszystkich wagonach towarowych przewożących towary niebezpieczne bez wyjątku"
+        }
+      }
+    },
+    {
+      "uuid": "458049a8-201c-45a8-8c5e-423afa3e9772",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "430d3c5e-fcfb-43fb-8756-25f007451e17",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "47eb56bd-6773-4452-92ca-074d5e742a50",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "79b9f229-0e2a-4ce3-a0f9-d41f4c16b890",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5dfef098-1841-4a0c-88a6-17a79bc007be",
+      "status": "FIX",
+      "problems": [
+        "Literówki w treści pytania: 'wysokosc' zamiast 'wysokość', 'miec' zamiast 'mieć', 'numerow' zamiast 'numerów'."
+      ],
+      "changes": {
+        "question": "Jaką wysokość powinny mieć czarne cyfry numerów zagrożenia i UN na tablicy pomarańczowej?"
+      }
+    },
+    {
+      "uuid": "c4dfd506-4e70-4a16-831c-3164f104c1eb",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "487a20a1-1647-4c48-a738-eb7968d496d0",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5ad59a5d-f0bf-4151-ab73-385aa1e739e0",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4214db64-9544-4046-a666-393d942946dd",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "62bd8b3d-1d7a-4459-a196-c88afd60dab2",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a21c8bc5-e27a-4741-a05e-2b756ec68abe",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "23a7d67f-5d34-4bda-a5b3-5ee18da5faf5",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "662ccb0c-89b3-4562-9dfb-cbf5a112b782",
+      "status": "OK",
+      "problems": []
+    }
+  ]
 }

@@ -1,12 +1,866 @@
 {
   "instruction": "Ir-17",
-  "timestamp": "2026-03-14T22:10:27.292547",
+  "timestamp": "2026-03-14T22:14:55.602771",
   "summary": {
-    "total": 0,
-    "ok": 0,
-    "fix": 0,
-    "delete": 0,
-    "new": 0
+    "total": 154,
+    "ok": 136,
+    "fix": 6,
+    "delete": 12
   },
-  "results": []
+  "results": [
+    {
+      "uuid": "6c56ad16-83d8-42b2-8b54-d53fe2b6aed1",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "dcf809a1-89a7-42cc-b089-22b153db921a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "418e1c90-5c72-4982-9f54-34d6a369e274",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "852615d0-04f2-47a6-96f1-86b08a182efa",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "54cd09e3-f017-47af-9de0-c3e3c843958b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e2d6d9a7-a72b-4d85-ae4f-dbbbea892b3a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "219ecb3d-4aa1-4baa-bb27-19bd07c74d3c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "fe9ed524-ec3c-4536-ba0b-5839577a6ee7",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "14d87845-944d-4d33-9dc7-c55a0552aea0",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "32f50c2f-40e2-48f6-bd92-23e2ea2a8897",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=f4e641a8 — identyczna treść i ta sama poprawna odpowiedź (1,5 m); f4e641a8 ma lepszy dobór dystraktorów (zawiera opcję 1,2 m, co jest bardziej wiarygodnym dystraktorem)"
+      ]
+    },
+    {
+      "uuid": "12e98c64-b929-4071-8882-c5f05bd018bd",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "96c15aeb-d20a-4fba-a742-9cb30a9a095a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "bcb7f83a-9aad-4c2a-8cf0-58a954a21421",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "9e13443f-527b-4d6a-998d-d6de7b0b3592",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "7035f1a3-55dd-433a-953f-ff9d58b47a56",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "82a11ad5-2a39-43bf-beb3-f68b5b37a05a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "9dcffb07-b5b1-406a-96fe-00249d1aeec1",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f4e641a8-0092-4918-839d-388d24667e7b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "78c4762f-e423-4bad-932d-2ca7b4b1b979",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b641a0b3-7aef-4f70-b3d1-9ced53b8997e",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=96c15aeb — identyczna treść sensu (warunki ustawiania parkanów zamiast żywopłotów) i ta sama poprawna odpowiedź; pytanie 96c15aeb jest bardziej precyzyjne w sformułowaniu"
+      ]
+    },
+    {
+      "uuid": "ec102dee-42ad-4d92-b207-3193f3cbb29f",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=9e13443f — identyczna treść sensu (liczba rzędów i odległość między nimi w żywopłocie) i ta sama poprawna odpowiedź; pytanie 9e13443f jest bardziej szczegółowe i precyzyjne"
+      ]
+    },
+    {
+      "uuid": "ead72e71-f63e-47f4-ae1a-1355bd85ac42",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "7762c715-0a4a-45b3-8c55-914731583e3a",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=7035f1a3 — identyczna treść sensu (kąt ustawienia przenośnych zasłon odśnieżnych) i ta sama poprawna odpowiedź (90°)"
+      ]
+    },
+    {
+      "uuid": "2fc7a61f-77d6-4f1b-802a-5b721510b65b",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=82a11ad5 — identyczna treść sensu (typowa wysokość zasłony odśnieżnej z siatki z tworzywa sztucznego) i ta sama poprawna odpowiedź (1,30 m)"
+      ]
+    },
+    {
+      "uuid": "9633ef8f-fa2f-4d01-91c9-3e5580395cdb",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "48c07161-6f6c-4fb0-aa6e-30817fa3456e",
+      "status": "FIX",
+      "problems": [
+        "Poprawna odpowiedź B (~128 znaków) jest ponad 1,5× dłuższa od najdłuższego dystraktora D (~73 znaki) — należy wyrównać dystraktory w górę zgodnie z zasadą 6."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Przeprowadzenie pisemnego egzaminu z zasad bhp dla wszystkich pracowników zatrudnionych przy robotach zimowych, obejmującego imienny podział pracy i wymagania bhp",
+          "B": "Dokonanie pouczenia w formie instruktażu na miejscu pracy, obejmującego imienny podział pracy, kolejność wykonywania zadań i wymagania bhp",
+          "C": "Zgłoszenie gotowości do robót odśnieżnych do dyżurnego ruchu oraz przekazanie mu imiennego wykazu pracowników i zakresu planowanych zadań",
+          "D": "Sprawdzenie stanu technicznego sprzętu odśnieżnego, sporządzenie protokołu i przekazanie go dyżurnemu odpowiedzialnemu za organizację robót zimowych"
+        }
+      }
+    },
+    {
+      "uuid": "27fa7579-c9c2-421a-956c-7e36eb4f22fa",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "ff250ace-db4e-4955-82c8-d3aee9fc3377",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "226c2fef-12e3-4f09-bd67-b3ad0e99beb3",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "1ce12d46-20fe-4ff8-8cf7-e4b52b13f313",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "6af984c9-dea8-4e4e-bd0b-dbc4413eb519",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e4d15e98-d52a-4fe6-8719-dabb87219e79",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "519e7e57-60c1-4542-b839-8f0384487781",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5aacd439-635d-4026-a58c-b9bf3a281642",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d52a2a6e-cb7b-45c6-85ed-70d281e9fa14",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a2a9ce25-b594-4244-afbc-1202c9dd1310",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "9d218fba-e0d7-4c34-ada2-f66f42ce2fd1",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "c016b225-54eb-4ae1-aab1-1a997b340361",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4cd76136-6bcd-4f8b-a0af-39ba842b8304",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "79323437-8722-4d8f-976f-22933ed06c97",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4b5a6dc1-8861-41b7-a0ab-ab23a4cfa0a1",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "dcbd5cfd-8f5a-47a8-9e0a-2116c03c01f9",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "fff0e133-c422-474f-8cf9-d510ddc888d0",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "80a4470c-ba06-434d-9b51-3b6c243cc4c1",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e3343cd6-780f-46dc-a779-2c14c49c8754",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "2fab74be-d478-40aa-90f2-a9d9f73b76ef",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "191e5791-0c23-4b31-8ff4-e85a7fbde628",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "8a5b2667-91eb-4a6d-ace1-0c4c2ca5b186",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a9b75ab1-1c00-4c68-ab61-494afc182e2f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "349dcb15-bb07-4b91-a061-57aee1ae231b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d9dc52e1-5a2d-4fe4-b59b-a1f76474eb42",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "73127d96-a65e-45e4-bdf8-2d0e62476851",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "80ec9980-b9c4-4263-9ec4-319f58e23184",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "6408d230-06df-447c-bbbe-5bf5e0ced9b3",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "8204d91b-a888-4cf4-898c-13e68b437d21",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "cf2c14ba-a3a3-479c-ba7f-e9ef84ada75d",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "251d7197-d102-407e-aee6-d9be9485f7d6",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a1124ec2-6387-41e2-98b0-997bfbbdf143",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "bca1265f-68c0-4c9a-a119-a6d6de11ea74",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "2944dcc2-ba59-4a35-a6a2-5868990ea727",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "83c1476d-47c9-448a-a83e-bac2e3187f41",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "197e21bc-911c-4c57-8220-17d4620fd814",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "83b82e7c-bb7e-4e16-b8a4-711ae3993eab",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "c612b9a4-3a3a-4b2e-87fc-c562b719bb15",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "7caf4c7f-7652-48e9-bbe7-f189001ff183",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "c7b5c4b7-f414-486a-a637-08d355e9c3cf",
+      "status": "FIX",
+      "problems": [
+        "Błąd gramatyczny w odpowiedzi D: 'Dyspozytorze Głównej' powinno być 'Dyspozytury Głównej'"
+      ],
+      "changes": {
+        "answers": {
+          "A": "Koordynatorowi akcji zimowej",
+          "B": "Kierownikowi akcji zimowej",
+          "C": "Dyspozytorowi w Zakładzie Linii Kolejowych",
+          "D": "Dyspozytury Głównej"
+        }
+      }
+    },
+    {
+      "uuid": "761d09b6-a43d-4912-b348-d790abd75c4a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a5ab15fa-a1f6-49b6-865b-afe201f343e2",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "fad88eb1-e558-4d73-8391-f012cdf0dc3d",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b49b0c7c-86b7-4dbd-a1a4-c2ef847e0f03",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "6d699082-ddbf-4828-817f-9f34a5cf5c6b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "1770a62b-3b23-470e-b2fd-16e8d1ae5ddd",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "11044667-5fe9-4ae9-aaf7-724aa380cb77",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "9b8e3b69-48e4-4316-9409-a3acea5fc98f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "0c4daba1-a601-4030-8f30-d8787b80de49",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "ab8b3cf7-648f-4509-ad31-01e1db69e345",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "3aede337-a318-40e2-a838-d40e0e06117a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "81b235d3-6ec1-4235-a8b9-06ea20fee6fe",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "aaaa970b-b866-4cd7-b394-df650c9e3e06",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5dfacadf-9ac2-481b-a2ab-3b62701dda01",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e93236b8-b43f-4b26-9f6b-8a362f697e1a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d83406d6-816b-44d4-849a-30db637744d1",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "2ea04cd6-da9a-4733-8a90-e1493eb86355",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f261b6b4-cadf-4901-ba79-6b26765b2c5d",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "95e4eaf4-f7d7-4d89-a142-d1a271ec95d0",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "45c67828-a883-43f1-aae0-00756074a725",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d4ae2d7c-1a8c-4074-a98c-f8d398718c75",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e9bd7d46-f822-45ab-a69c-5d4165b3c5a4",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "741ecf6b-36a9-417e-9862-25aed512b7f0",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b0104838-07b8-47af-934a-3aa349f15bb9",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "33a6dcf0-0ca2-4485-aab4-f5585c64a9fb",
+      "status": "FIX",
+      "problems": [
+        "Poprawna odpowiedź A ma 136 znaków i jest ponad 1,5× dłuższa od najdłuższego dystraktora (~78 znaków) — naruszenie zasady 6. Należy wyrównać dystraktory w górę, rozbudowując je o treść z paragrafu."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Do szybkiego topienia śniegu i lodu w rozjazdach, zwłaszcza z przestrzeni między iglicą a opornicą, siodełek iglicowych, krzyżownic oraz zamknięć nastawczych",
+          "B": "Do powolnego rozmrażania zamkniętych kanałów pędni rozjazdowych i napędów zwrotnicowych, zwłaszcza w przypadku zamarznięcia zamknięć nastawczych lub siodełek iglicowych",
+          "C": "Wyłącznie do likwidacji oblodzenia szyn w torze przed rozjazdem i za rozjazdem, a także siodełek iglicowych, krzyżownic i zamknięć nastawczych",
+          "D": "Do ogrzewania urządzeń elektrycznych sterowania rozjazdami w ekstremalnych warunkach zimowych oraz kanałów pędni rozjazdowych i zamknięć nastawczych"
+        }
+      }
+    },
+    {
+      "uuid": "9864ba85-9a71-4113-9321-5bc9dfc1e817",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "557c8241-4713-4d33-accc-2a4206706d19",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "29690da0-859e-4d68-9d69-14f1c9cba6d7",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "c59cf31a-0fa6-4770-9009-b431d33c345c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "9796ddb8-eb76-4049-bb03-778b377192c1",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "13c8225f-5bd7-4871-abc3-786122518a79",
+      "status": "FIX",
+      "problems": [
+        "Poprawna odpowiedź B (~253 znaki) jest ponad 1,5× dłuższa od najdłuższego dystraktora (~102 znaki) — dystraktory należy rozbudować do porównywalnej długości z treści paragrafu."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Na całej długości peronu, na szerokości strefy zagrożenia wraz z pasem bezpieczeństwa, powiększonej co najmniej o 1,6 m, przy uwzględnieniu dojść do wyposażenia infrastruktury pasażerskiej",
+          "B": "Na długości odpowiadającej co najmniej długości najdłuższego składu pociągu pasażerskiego zatrzymującego się przy danej krawędzi peronowej oraz na długości dojścia do miejsca zatrzymywania się pociągów i dojść do wyposażenia infrastruktury pasażerskiej",
+          "C": "Na długości odpowiadającej co najmniej długości najkrótszego składu pociągu pasażerskiego zatrzymującego się przy danej krawędzi peronowej oraz na długości dojścia do miejsca zatrzymywania się pociągów i dojść do wyposażenia infrastruktury pasażerskiej",
+          "D": "Na długości odpowiadającej połowie długości najdłuższego składu pociągu pasażerskiego zatrzymującego się przy danej krawędzi peronowej oraz na długości dojścia do miejsca zatrzymywania się pociągów i dojść do wyposażenia infrastruktury pasażerskiej"
+        }
+      }
+    },
+    {
+      "uuid": "00778dab-7ac9-46f5-b4db-2efc945919fa",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "8d880c61-d85d-4ac4-aa05-433e964a261e",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "2b15ccc0-743f-47b7-8eb7-c4ce2e282ee2",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "fb2c01ce-3db5-41c2-a4c0-c88ac4359448",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "3f4d1738-e4ef-4e9a-9c21-0da59a3acaeb",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "247a58c7-96d9-467b-80ce-9e0d615a8b9e",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e28402d7-8fe1-4970-9389-e90ccb79b1d3",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e52080d4-e1f3-44f4-a16f-065ff070c996",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "63fbe0a7-0eef-4ba3-a789-d061ecb41251",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "16022ece-941c-43d3-88cf-510ac2ff351a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "8f28e024-4f91-4e3b-8830-99be1b36f43a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "6f819536-8bf4-46ec-86a8-286b89840f06",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f1af7f00-c0f2-4625-9aa3-e93785884861",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "49d4cf07-2875-4795-b045-8d67b320f450",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "0147011b-ff8d-4d54-9a9b-ba01b5405090",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=7a323b4a-116c-42ab-bb41-0aebb2ee766a — identyczne pytanie o tym, co jest niezbędne do sprawnego funkcjonowania kolei w trudnych warunkach atmosferycznych; wersja 7a323b4a jest dokładniejsza (pełne sformułowanie z § 3 ust. 1 w poprawnej odpowiedzi)."
+      ]
+    },
+    {
+      "uuid": "84ae4334-dd41-4778-9b93-467e238be3b6",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=053a1104-9735-4cf3-83e5-92066629ec15 — oba pytania brzmią identycznie i mają tę samą poprawną odpowiedź (planowanie strategii i inicjowanie działań przez Biuro Eksploatacji). Ponadto dystraktory w tym pytaniu są słabej jakości: odpowiedź B ('Nadzorowanie realizacji umów dotyczących zimowego utrzymania infrastruktury pasażerskiej') jest zgodna z § 3 ust. 2 pkt 1 lit. j i stanowi poprawną odpowiedź dla Biura Eksploatacji, co czyni pytanie niejednoznacznym."
+      ]
+    },
+    {
+      "uuid": "6d0970ee-d7bf-446b-8fca-9081ba4c3bfc",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4ba35855-5733-49f9-988c-c44cde5d007b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "10c964f5-b375-4ff4-8237-d3e61f98de65",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=dfda46dd-69ba-457d-981c-b38c4dc37fd1 — oba pytania brzmią identycznie i mają tę samą poprawną odpowiedź (Koordynator i kierownik akcji zimowej). Wersja dfda46dd zachowywana jako lepsza."
+      ]
+    },
+    {
+      "uuid": "458ed2fd-f02c-4ee8-a1d1-44232fcdcf47",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=d287dab0-8c50-4b98-84b1-5b359023e30e — oba pytania brzmią identycznie i mają tę samą poprawną odpowiedź (właściwe jednostki zarządzania kryzysowego oraz podmioty krajowego systemu ratowniczo-gaśniczego). Wersja d287dab0 zachowywana jako lepsza (dokładniejsze dystraktory)."
+      ]
+    },
+    {
+      "uuid": "36c06a60-2f36-4a44-964f-709362e41bdc",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=81ea8608-c8ee-454d-ba44-179badca7295 — oba pytania dotyczą zadań komórki ds. zaplecza technicznego, ratownictwa i ochrony przeciwpożarowej w akcji zimowej. Wersja 81ea8608 jest dokładniejsza (poprawna odpowiedź ściślej oddaje brzmienie § 3 ust. 2 pkt 4 lit. d: 'zagwarantowanie personelu do ich obsługi')."
+      ]
+    },
+    {
+      "uuid": "8ef3dcb6-b731-40ae-8af8-ed7775fe2de4",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "8d11e02c-f632-4425-bcf8-345e8bfefef6",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=f8930700-e532-4099-b34f-bbde2f6d1606 — oba pytania dotyczą informacji przekazywanych przez dyspozytora ZLK do Ekspozytury ZRK i mają tę samą poprawną odpowiedź. Wersja f8930700 jest zachowywana."
+      ]
+    },
+    {
+      "uuid": "036e8bb8-86ca-4698-85b5-3cc37ec90be6",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "65f52a41-d42e-4c2e-8c61-8785f19083ce",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=d3ed606d-aa14-46d4-ad49-30e0b5b95177 — oba pytania dotyczą zadań komórek organizacyjnych Centrali Spółki ds. automatyki i telekomunikacji, energetyki oraz dróg kolejowych i mają tę samą poprawną odpowiedź. Wersja d3ed606d zachowywana jako lepsza."
+      ]
+    },
+    {
+      "uuid": "760e8b8e-0096-47c5-b076-f32637b8f18d",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "7a323b4a-116c-42ab-bb41-0aebb2ee766a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "053a1104-9735-4cf3-83e5-92066629ec15",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "7926e49e-3ef4-4597-8ec4-50c23e939c68",
+      "status": "FIX",
+      "problems": [
+        "Niejednoznaczność: dystraktror A ('Nadzorowania realizacji umów dotyczących zimowego utrzymania infrastruktury pasażerskiej') jest zgodny z § 3 ust. 2 pkt 1 lit. j i stanowi poprawne zadanie Biura Eksploatacji — tym samym pytanie ma dwie prawidłowe odpowiedzi (A i B). Należy zastąpić dystraktror A zadaniem należącym do innej jednostki."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Monitorowania i kontrolowania zadań realizowanych przez podmioty gospodarcze i osoby fizyczne w ramach zawartych umów",
+          "B": "Nadzoru nad przestrzeganiem standardów w zakresie zimowego utrzymania infrastruktury pasażerskiej",
+          "C": "Koordynowania działań mających na celu wyposażenie jednostek organizacyjnych w sprzęt do usuwania skutków zimy",
+          "D": "Przygotowywania planu prowadzenia robót zimowych na terenie każdego zakładu"
+        }
+      }
+    },
+    {
+      "uuid": "0208b38f-1b63-415b-aed8-254e357c2461",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "dfda46dd-69ba-457d-981c-b38c4dc37fd1",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d287dab0-8c50-4b98-84b1-5b359023e30e",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "81ea8608-c8ee-454d-ba44-179badca7295",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "24515936-b22d-44eb-9bcb-fd76e7a1afe0",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f8930700-e532-4099-b34f-bbde2f6d1606",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "9cdef512-161d-41f5-8454-6061922a0e67",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d3ed606d-aa14-46d4-ad49-30e0b5b95177",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "cf46884e-715a-49e7-870d-1e2e81df6ecc",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d9710bd8-9a0c-438e-8619-b9f28a0024ec",
+      "status": "FIX",
+      "problems": [
+        "Poprawna odpowiedź A (~145 znaków) jest ponad 1,5× dłuższa niż najdłuższy dystraktor B (~84 znaki) — naruszenie zasady 6. Należy wyrównać dystraktory w górę do porównywalnej długości, opierając się na treści paragrafu."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Unieruchomienia górek rozrządowych wskutek zaśnieżenia, przymarznięcia ruchomych części rozjazdowych lub urządzeń nastawczych, zablokowania hamulców torowych",
+          "B": "Awarie urządzeń ogrzewania rozjazdów wskutek zaśnieżenia lub przymarznięcia ruchomych części, powodujące unieruchomienie górek rozrządowych i przerwy w rozrządzie",
+          "C": "Awarie sieci trakcyjnej oraz uszkodzenia zewnętrznych urządzeń sterowania ruchem powodujące unieruchomienie górek rozrządowych i wstrzymanie pracy",
+          "D": "Utknięcia pociągów w zaspach i czas zamknięcia toru skutkujące unieruchomieniem górek rozrządowych oraz wstrzymaniem normalnej pracy stacji"
+        }
+      }
+    },
+    {
+      "uuid": "fe0fa41d-7204-40eb-be8d-3373ad8424fb",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "07659b83-3191-4575-9ece-148331bf965a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "79c7b60c-0331-4ce0-819c-67da623087dd",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e19ac8a1-d142-4b0d-9467-80b955138b3b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "ff9a348d-875f-4820-9a81-b384dcbf2cdb",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "ede44670-0059-4c27-93c2-6ec66ad1b6c7",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5cb1d16a-313f-4b75-b114-4b7b3e20540d",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4307eb2c-1897-45aa-a932-66215e216c5c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "28640e95-86f7-45b1-8889-d1634eeb93a3",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "220d5747-9616-47f8-a315-2858bb712e8e",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "8758976b-7c1c-4cd4-9389-cac464b05bb8",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4e880a83-99f8-48bb-a445-8d64e7035eae",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d0acb446-cdfb-4700-b10d-2b01fd001967",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "faf70636-9656-4c1b-b947-376d33d2fb1f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "9db135a8-5474-4a42-80e8-4de0521721b8",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "8ebb16e9-3963-45fb-bab3-58dd682244f2",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f65dcc1f-2f67-4e32-8c8d-fc39b06527aa",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4edca614-1d94-4ceb-b087-d0ddd5818156",
+      "status": "OK",
+      "problems": []
+    }
+  ]
 }
