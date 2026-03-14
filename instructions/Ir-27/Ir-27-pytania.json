@@ -213,7 +213,7 @@
     },
     {
       "uuid": "94359181-118a-4006-a0cd-10b50cc715eb",
-      "question": "Jaka jest minimalna temperatura kroplenia smaru NLGI 1 i 0 wymagana instrukcja?",
+      "question": "Jaka jest minimalna temperatura kroplenia smaru NLGI 1 i 0?",
       "answers": {
         "A": "≥ 80°C",
         "B": "≥ 100°C",
@@ -241,7 +241,7 @@
     },
     {
       "uuid": "d320a1d4-7075-4c52-9724-2a037a82e10e",
-      "question": "Jaki minimalny stopień biodegradacji po 28 dniach musi wykazywac srodek do smarowania rozjazdow?",
+      "question": "Jaki minimalny stopień biodegradacji po 28 dniach musi wykazywać środek do smarowania rozjazdów?",
       "answers": {
         "A": "≥ 40%",
         "B": "≥ 50%",
@@ -255,7 +255,7 @@
     },
     {
       "uuid": "42e823d1-298a-4d86-89d6-9001b82d5152",
-      "question": "Jak czesto nalezy wykonywac kolejne pomiary oporow przestawiania zwrotnic w ramach badan eksploatacyjnych?",
+      "question": "Jak często należy wykonywać kolejne pomiary oporów przestawiania zwrotnic w ramach badań eksploatacyjnych?",
       "answers": {
         "A": "Nie rzadziej niz raz na miesiac",
         "B": "Nie rzadziej niz raz na dwa miesiace",
@@ -269,7 +269,7 @@
     },
     {
       "uuid": "8a18d612-0080-4318-95a1-bafa87c5bdb7",
-      "question": "Ile razy i w jakich kierunkach wykonuje sie pomiar oporow przestawiania zwrotnic?",
+      "question": "Ile razy i w jakich kierunkach wykonuje się pomiar oporów przestawiania zwrotnic?",
       "answers": {
         "A": "Jednokrotnie w jednym kierunku",
         "B": "Dwukrotnie: raz w kierunku do \"+\" i raz w kierunku do \"-\"",
@@ -282,114 +282,16 @@
       "section": 13
     },
     {
-      "uuid": "d4973531-ad37-489d-a9af-4e8b38679fba",
-      "question": "Co może się stać ze środkiem do smarowania dostarczonym do jednostki organizacyjnej, któremu zawieszone zostało dopuszczenie?",
-      "answers": {
-        "A": "Musi zostać natychmiast wycofany z użycia i zwrócony dostawcy.",
-        "B": "Może być stosowany do czasu upływu terminu jego przydatności do użycia, chyba że Biuro Eksploatacji postanowi inaczej.",
-        "C": "Może być stosowany wyłącznie przez 30 dni od daty zawieszenia dopuszczenia.",
-        "D": "Może być stosowany wyłącznie po uzyskaniu jednorazowej zgody Biura Standaryzacji."
-      },
-      "correct": "B",
-      "explanation": "Ir-27 § 13",
-      "section_ref": "§ 13",
-      "section": 13
-    },
-    {
-      "uuid": "51a8d3b5-f599-4b89-808a-b661e022cd73",
-      "question": "Jaki organ może postanowić o wcześniejszym wycofaniu z użycia środka do smarowania z cofniętym dopuszczeniem, mimo że nie upłynął jeszcze termin jego przydatności?",
-      "answers": {
-        "A": "Zakład Linii Kolejowych.",
-        "B": "Jednostka Badawcza.",
-        "C": "Biuro Eksploatacji.",
-        "D": "Sekcja Eksploatacji."
-      },
-      "correct": "C",
-      "explanation": "Ir-27 § 13",
-      "section_ref": "§ 13",
-      "section": 13
-    },
-    {
-      "uuid": "aa36ceb8-3393-483f-9724-8311d5164712",
-      "question": "Ile próbek należy pobrać do badań pełnych środka do smarowania?",
-      "answers": {
-        "A": "Około 5 l.",
-        "B": "Około 2 l.",
-        "C": "Około 10 l.",
-        "D": "Około 20 l."
-      },
-      "correct": "C",
-      "explanation": "Ir-27 § 13 (Załącznik nr 4 pkt 5 ppkt 2 lit. a)",
-      "section_ref": "§ 13",
-      "section": 13
-    },
-    {
-      "uuid": "d0513921-839e-4a70-864e-3eba1b497489",
-      "question": "Ile próbek należy pobrać do badań okresowych środka do smarowania?",
-      "answers": {
-        "A": "Około 10 l.",
-        "B": "Około 5 l.",
-        "C": "Około 1 l.",
-        "D": "Około 15 l."
-      },
-      "correct": "B",
-      "explanation": "Ir-27 § 13 (Załącznik nr 4 pkt 5 ppkt 2 lit. b)",
-      "section_ref": "§ 13",
-      "section": 13
-    },
-    {
-      "uuid": "094d23c7-299f-4d77-b2ea-c06d80bb6d75",
-      "question": "Kto jest odpowiedzialny za pobieranie i transport próbek środka do smarowania do badań?",
-      "answers": {
-        "A": "Pracownicy Zakładu Linii Kolejowych wyznaczeni przez naczelnika sekcji.",
-        "B": "Osoby upoważnione przez Jednostkę Badawczą.",
-        "C": "Przedstawiciele Biura Standaryzacji.",
-        "D": "Pracownicy dostawcy środka do smarowania."
-      },
-      "correct": "B",
-      "explanation": "Ir-27 § 13 (Załącznik nr 4 pkt 4)",
-      "section_ref": "§ 13",
-      "section": 13
-    },
-    {
       "uuid": "cbf32580-622b-46a1-aade-e6549a7040d5",
       "question": "Co powinno dokumentować każde pobranie próbki środka do smarowania do badań pełnych i okresowych?",
       "answers": {
         "A": "Notatka służbowa podpisana przez naczelnika sekcji eksploatacji.",
-        "B": "Protokol pobrania do badań pełnych i okresowych próbek środka do smarowania rozjazdów.",
+        "B": "Protokół pobrania do badań pełnych i okresowych próbek środka do smarowania rozjazdów.",
         "C": "Zlecenie badania wystawione przez Biuro Standaryzacji.",
         "D": "Karta testowa środka do smarowania rozjazdów kolejowych."
       },
       "correct": "B",
       "explanation": "Ir-27 § 13 (Załącznik nr 4 pkt 5 ppkt 3)",
-      "section_ref": "§ 13",
-      "section": 13
-    },
-    {
-      "uuid": "8b1959bd-5edc-4fc4-9d12-baf3f87b4599",
-      "question": "W jaki sposób należy transportować próbki środków do smarowania do badań?",
-      "answers": {
-        "A": "W otwartych pojemnikach w temperaturze pokojowej.",
-        "B": "W szczelnie zamkniętych pojemnikach tak, aby właściwości badanego materiału nie uległy zmianie.",
-        "C": "W chłodzonych pojemnikach oznaczonych symbolem substancji niebezpiecznej.",
-        "D": "W szczelnie zamkniętych pojemnikach schłodzonych do temperatury poniżej 10°C."
-      },
-      "correct": "B",
-      "explanation": "Ir-27 § 13 (Załącznik nr 4 pkt 5 ppkt 4)",
-      "section_ref": "§ 13",
-      "section": 13
-    },
-    {
-      "uuid": "050351ec-3a77-48cf-aa75-06d01c99ada2",
-      "question": "Jaka jest minimalna temperatura kroplenia smaru klasy NLGI 1 i 0?",
-      "answers": {
-        "A": "≥ 80°C.",
-        "B": "≥ 100°C.",
-        "C": "≥ 110°C.",
-        "D": "≥ 120°C."
-      },
-      "correct": "D",
-      "explanation": "Ir-27 § 13 (Załącznik nr 1 poz. 3)",
       "section_ref": "§ 13",
       "section": 13
     },
@@ -403,7 +305,7 @@
         "D": "≥ 150°C."
       },
       "correct": "B",
-      "explanation": "Ir-27 § 13 (Załącznik nr 1 poz. 5)",
+      "explanation": "Ir-27 § 13 załącznik nr 1 tabela poz. 5",
       "section_ref": "§ 13",
       "section": 13
     },
@@ -417,7 +319,7 @@
         "D": "≥ 80% po 28 dniach."
       },
       "correct": "C",
-      "explanation": "Ir-27 § 13 (Załącznik nr 1 poz. 12)",
+      "explanation": "Ir-27 § 13 załącznik nr 1 tabela poz. 12",
       "section_ref": "§ 13",
       "section": 13
     },
@@ -431,7 +333,7 @@
         "D": "Nie rzadziej niż raz na kwartał."
       },
       "correct": "B",
-      "explanation": "Ir-27 § 13 (Załącznik nr 6, uwaga do karty testowej)",
+      "explanation": "Ir-27 § 13 załącznik nr 6 uwaga do karty testowej",
       "section_ref": "§ 13",
       "section": 13
     },
@@ -445,7 +347,7 @@
         "D": "Czterokrotnie: dwukrotnie w kierunku do \"+\" i dwukrotnie do \"-\"."
       },
       "correct": "C",
-      "explanation": "Ir-27 § 13 (Załącznik nr 6, uwaga do karty testowej)",
+      "explanation": "Ir-27 § 13 załącznik nr 6 uwaga do karty testowej",
       "section_ref": "§ 13",
       "section": 13
     },
@@ -459,7 +361,7 @@
         "D": "0,5%."
       },
       "correct": "C",
-      "explanation": "Ir-27 § 13 (Załącznik nr 1 poz. 8)",
+      "explanation": "Ir-27 § 13 załącznik nr 1 tabela poz. 8",
       "section_ref": "§ 13",
       "section": 13
     },
@@ -576,146 +478,6 @@
       "section": 13
     },
     {
-      "uuid": "1484b199-65d8-4805-8d1c-a5c309b87131",
-      "question": "Jak często należy wykonywać kolejne pomiary oporów przestawiania zwrotnic w trakcie badań eksploatacyjnych środka do smarowania?",
-      "answers": {
-        "A": "Nie rzadziej niż raz na miesiąc.",
-        "B": "Nie rzadziej niż raz na dwa miesiące.",
-        "C": "Nie rzadziej niż raz na trzy miesiące.",
-        "D": "Nie rzadziej niż raz na kwartał."
-      },
-      "correct": "B",
-      "explanation": "Ir-27 § 13 załącznik nr 6 załącznik do umowy",
-      "section_ref": "§ 13",
-      "section": 13
-    },
-    {
-      "uuid": "59920621-7cb2-4cc4-b3c4-46bd6f43fcd7",
-      "question": "Ile razy należy wykonać pomiar oporów przestawiania zwrotnic w każdym kierunku podczas badań eksploatacyjnych?",
-      "answers": {
-        "A": "Jednokrotnie w kierunku do \"+\" i do \"-\".",
-        "B": "Dwukrotnie w kierunku do \"+\" i do \"-\".",
-        "C": "Trzykrotnie w kierunku do \"+\" i do \"-\".",
-        "D": "Pięciokrotnie w kierunku do \"+\" i do \"-\"."
-      },
-      "correct": "C",
-      "explanation": "Ir-27 § 13 załącznik nr 6 załącznik do umowy",
-      "section_ref": "§ 13",
-      "section": 13
-    },
-    {
-      "uuid": "58b4aa9b-5ca1-45dc-abee-fdc6ee9a7ebb",
-      "question": "Jaka jest minimalna temperatura zapłonu wymagana dla oleju stosowanego jako środek do smarowania rozjazdów?",
-      "answers": {
-        "A": "≥ 80°C",
-        "B": "≥ 100°C",
-        "C": "≥ 110°C",
-        "D": "≥ 150°C"
-      },
-      "correct": "C",
-      "explanation": "Ir-27 § 13 załącznik nr 1 tabela poz. 5",
-      "section_ref": "§ 13",
-      "section": 13
-    },
-    {
-      "uuid": "0becb71d-2f2c-426f-afae-4364c3aaa087",
-      "question": "Jaki minimalny stopień biodegradacji jest wymagany dla środków do smarowania rozjazdów kolejowych?",
-      "answers": {
-        "A": "≥ 40% po 28 dniach.",
-        "B": "≥ 50% po 28 dniach.",
-        "C": "≥ 60% po 28 dniach.",
-        "D": "≥ 80% po 28 dniach."
-      },
-      "correct": "C",
-      "explanation": "Ir-27 § 13 załącznik nr 1 tabela poz. 12",
-      "section_ref": "§ 13",
-      "section": 13
-    },
-    {
-      "uuid": "dc1f7c4f-743f-4bfd-b6b7-4e5b84a89fde",
-      "question": "Co może zrobić jednostka organizacyjna ze środkiem do smarowania, któremu cofnięto dopuszczenie, a który został już do niej dostarczony?",
-      "answers": {
-        "A": "Musi go natychmiast wycofać z użycia i zwrócić dostawcy",
-        "B": "Może go stosować do czasu upływu terminu jego przydatności do użycia, chyba że Biuro Eksploatacji postanowi inaczej",
-        "C": "Może go stosować wyłącznie po uzyskaniu pisemnej zgody Biura Standaryzacji",
-        "D": "Musi go zniszczyć w ciągu 30 dni od daty cofnięcia dopuszczenia"
-      },
-      "correct": "B",
-      "explanation": "Ir-27 § 13",
-      "section_ref": "§ 13",
-      "section": 13
-    },
-    {
-      "uuid": "a571ad29-a888-412b-bd5f-0f58a38fe660",
-      "question": "Jakie instytucje decydują o tym, czy środek do smarowania z zawieszonym dopuszczeniem może być dalej stosowany po upływie terminu przydatności?",
-      "answers": {
-        "A": "Zakład Linii Kolejowych w porozumieniu z dostawcą",
-        "B": "Biuro Standaryzacji na wniosek jednostki organizacyjnej",
-        "C": "Biuro Eksploatacji",
-        "D": "Instytut Kolejnictwa po przeprowadzeniu badań kontrolnych"
-      },
-      "correct": "C",
-      "explanation": "Ir-27 § 13",
-      "section_ref": "§ 13",
-      "section": 13
-    },
-    {
-      "uuid": "6afe5102-0455-41c9-8cc1-889fc06b9d28",
-      "question": "Jaką minimalną ilość próbki pobiera się do badań pełnych środka do smarowania?",
-      "answers": {
-        "A": "Około 1 l",
-        "B": "Około 3 l",
-        "C": "Około 5 l",
-        "D": "Około 10 l"
-      },
-      "correct": "D",
-      "explanation": "Ir-27 § 13 załącznik nr 4 pkt 5 ppkt 2 lit. a",
-      "section_ref": "§ 13",
-      "section": 13
-    },
-    {
-      "uuid": "aeea12ed-c188-4512-b696-505bc0b11fc3",
-      "question": "Jaką ilość próbki pobiera się do badań okresowych środka do smarowania?",
-      "answers": {
-        "A": "Około 1 l",
-        "B": "Około 5 l",
-        "C": "Około 10 l",
-        "D": "Około 15 l"
-      },
-      "correct": "B",
-      "explanation": "Ir-27 § 13 załącznik nr 4 pkt 5 ppkt 2 lit. b",
-      "section_ref": "§ 13",
-      "section": 13
-    },
-    {
-      "uuid": "7495e418-8931-4f49-a0fa-23e8ca94c126",
-      "question": "Kto jest odpowiedzialny za pobieranie i transport próbek środka do smarowania do badań?",
-      "answers": {
-        "A": "Pracownicy Zakładu Linii Kolejowych wyznaczeni przez naczelnika sekcji",
-        "B": "Osoby upoważnione przez Jednostkę Badawczą",
-        "C": "Przedstawiciele dostawcy środka do smarowania",
-        "D": "Pracownicy Biura Standaryzacji PKP PLK S.A."
-      },
-      "correct": "B",
-      "explanation": "Ir-27 § 13 załącznik nr 4 pkt 4",
-      "section_ref": "§ 13",
-      "section": 13
-    },
-    {
-      "uuid": "d4c4b378-8f84-4ce1-b5a4-4c7ec80d18cc",
-      "question": "Jak należy transportować próbki środków do smarowania do badań?",
-      "answers": {
-        "A": "W szczelnie zamkniętych pojemnikach, tak aby właściwości materiału nie uległy zmianie",
-        "B": "W otwartych pojemnikach, w temperaturze pokojowej, niezwłocznie po pobraniu",
-        "C": "W hermetycznie zamkniętych pojemnikach schłodzonych do temperatury 4°C",
-        "D": "W oryginalnych opakowaniach producenta, bez dodatkowych zabezpieczeń"
-      },
-      "correct": "A",
-      "explanation": "Ir-27 § 13 załącznik nr 4 pkt 5 ppkt 4",
-      "section_ref": "§ 13",
-      "section": 13
-    },
-    {
       "uuid": "ba80e69b-172a-40a9-b845-14a44d2014bd",
       "question": "Co należy zrobić z pojemnikami zawierającymi próbki środków do smarowania po ich pobraniu?",
       "answers": {
@@ -725,7 +487,7 @@
         "D": "Zapieczętować i dostarczyć do Biura Standaryzacji w ciągu 24 godzin"
       },
       "correct": "B",
-      "explanation": "Ir-27 § 13 załącznik nr 4 pkt 5 ppkt 3",
+      "explanation": "Ir-27 § 13 Załącznik nr 4 pkt 5 ppkt 3",
       "section_ref": "§ 13",
       "section": 13
     },
@@ -733,41 +495,13 @@
       "uuid": "7c71d350-d6a1-4f08-b27f-3ab749dfb6c9",
       "question": "Jaki dokument sporządza osoba pobierająca próbkę środka do smarowania do badań pełnych i okresowych?",
       "answers": {
-        "A": "Karta testowa środka do smarowania rozjazdow kolejowych",
+        "A": "Karta testowa środka do smarowania rozjazdów kolejowych",
         "B": "Protokół pobrania do badań pełnych i okresowych próbek środka do smarowania rozjazdów",
         "C": "Protokół pobrania do badań kontrolnych próbek środka do smarowania rozjazdów",
         "D": "Raport z poboru próbek zatwierdzany przez Jednostkę Badawczą"
       },
       "correct": "B",
-      "explanation": "Ir-27 § 13 załącznik nr 4 pkt 5 ppkt 3",
-      "section_ref": "§ 13",
-      "section": 13
-    },
-    {
-      "uuid": "ba50d1f4-e25f-4a92-bbf5-809d5b5794a0",
-      "question": "Jaka jest minimalna temperatura zapłonu oleju do smarowania stosowanego w rozjazdach kolejowych?",
-      "answers": {
-        "A": "≥ 80°C",
-        "B": "≥ 100°C",
-        "C": "≥ 110°C",
-        "D": "≥ 150°C"
-      },
-      "correct": "C",
-      "explanation": "Ir-27 § 13 załącznik nr 1 lp. 5",
-      "section_ref": "§ 13",
-      "section": 13
-    },
-    {
-      "uuid": "07cbec2b-d81e-4d29-aead-2a206e20bdc0",
-      "question": "Jaki jest wymagany minimalny stopień biodegradacji środka do smarowania rozjazdów?",
-      "answers": {
-        "A": "≥ 40% po 14 dniach",
-        "B": "≥ 50% po 28 dniach",
-        "C": "≥ 60% po 28 dniach",
-        "D": "≥ 80% po 56 dniach"
-      },
-      "correct": "C",
-      "explanation": "Ir-27 § 13 załącznik nr 1 lp. 12",
+      "explanation": "Ir-27 § 13 Załącznik nr 4 pkt 5 ppkt 3",
       "section_ref": "§ 13",
       "section": 13
     },
@@ -781,21 +515,7 @@
         "D": "± 20%"
       },
       "correct": "B",
-      "explanation": "Ir-27 § 13 załącznik nr 2 lp. 2",
-      "section_ref": "§ 13",
-      "section": 13
-    },
-    {
-      "uuid": "f055f860-fe24-4ac1-9354-3ed61d885a0f",
-      "question": "Jak często należy wykonywać kolejne pomiary oporów przestawiania zwrotnic podczas badań eksploatacyjnych środka do smarowania?",
-      "answers": {
-        "A": "Nie rzadziej niż raz na miesiąc",
-        "B": "Nie rzadziej niż raz na dwa miesiące",
-        "C": "Nie rzadziej niż raz na trzy miesiące",
-        "D": "Nie rzadziej niż raz na kwartał"
-      },
-      "correct": "B",
-      "explanation": "Ir-27 § 13 załącznik nr 6",
+      "explanation": "Ir-27 § 13 Załącznik nr 2 lp. 2",
       "section_ref": "§ 13",
       "section": 13
     },
@@ -949,7 +669,7 @@
         "D": "Nie rzadziej niż raz na sześć miesięcy"
       },
       "correct": "B",
-      "explanation": "Ir-27 § 13 Załącznik nr 6 Wzór karty testowej",
+      "explanation": "Ir-27 § 13 Załącznik nr 6",
       "section_ref": "§ 13",
       "section": 13
     },
@@ -963,7 +683,7 @@
         "D": "Czterokrotnie, naprzemiennie w obu kierunkach"
       },
       "correct": "C",
-      "explanation": "Ir-27 § 13 Załącznik nr 6 Wzór karty testowej",
+      "explanation": "Ir-27 § 13 Załącznik nr 6",
       "section_ref": "§ 13",
       "section": 13
     },
@@ -985,10 +705,10 @@
       "uuid": "95c37a8d-8693-4229-a777-7ed27da64bbe",
       "question": "Kto może być Dostawcą środka do smarowania w rozumieniu Warunków Ir-27?",
       "answers": {
-        "A": "Producent środka do smarowania lub jego upoważniony przedstawiciel",
-        "B": "Podmiot gospodarczy dostarczający środek do smarowania, będący właścicielem aktualnego Dopuszczenia lub posiadający pisemne upoważnienie właściciela aktualnego Dopuszczenia",
-        "C": "Zakład linii kolejowych odpowiedzialny za utrzymanie rozjazdów",
-        "D": "Jednostka ujęta w Załączniku nr 3, której badania są akceptowane przez Spółkę"
+        "A": "Producent środka do smarowania lub jego upoważniony przedstawiciel, składający wniosek o dopuszczenie środka do stosowania na liniach kolejowych zarządzanych przez Spółkę",
+        "B": "Podmiot gospodarczy dostarczający środek do smarowania, będący właścicielem aktualnego Dopuszczenia na ten środek lub posiadający pisemne upoważnienie właściciela aktualnego Dopuszczenia",
+        "C": "Zakład linii kolejowych odpowiedzialny za utrzymanie rozjazdów i stosowanie środków do smarowania na liniach kolejowych zarządzanych przez Spółkę",
+        "D": "Jednostka ujęta w Załączniku nr 3, której opinie wydane w oparciu o wyniki przeprowadzonych przez nią badań lub badań przez nią zleconych są akceptowane przez Spółkę"
       },
       "correct": "B",
       "explanation": "Ir-27 § 2 pkt 5",
@@ -1057,7 +777,7 @@
       "answers": {
         "A": "Instrukcja stosowania środka do smarowania",
         "B": "Karta charakterystyki zgodna z rozporządzeniem REACH",
-        "C": "Dokument potwierdzający zawarcie umowy dystrybucyjnej lub innej umowy posrednictwa",
+        "C": "Dokument potwierdzający zawarcie umowy dystrybucyjnej lub innej umowy pośrednictwa",
         "D": "Sprawozdanie Jednostki Badawczej wraz z opinią"
       },
       "correct": "C",
