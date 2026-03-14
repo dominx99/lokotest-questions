@@ -148,7 +148,7 @@
         "A": "Priorytet dostępności Zespołów dla potrzeb usuwania zdarzeń na sieci PLK SA",
         "B": "Priorytet ciągłości świadczenia usług na rzecz podmiotów zewnętrznych",
         "C": "Priorytet minimalizacji kosztów realizacji usług",
-        "D": "Priorytet obsługi podmiotów kolejowych przed innymi podmiotami zewnetrznymi"
+        "D": "Priorytet obsługi podmiotów kolejowych przed innymi podmiotami zewnętrznymi"
       },
       "correct": "A",
       "explanation": "Ir-15 § 12 ust. 4",
@@ -268,20 +268,6 @@
       "section": 14
     },
     {
-      "uuid": "d5bc56cd-6701-433e-b308-4d8872d5a93a",
-      "question": "Komu kierujący Zmianą zgłasza gotowość wyjazdu Zespołu do Działań w przypadku pojazdów kolejowych?",
-      "answers": {
-        "A": "Dyspozytorowi koordynatorowi Dyspozytury Głównej i dyspozytorowi zakładowemu",
-        "B": "Dyżurnemu ruchu stacji aktualnego postoju pojazdów kolejowych Zespołu",
-        "C": "Wyłącznie dyspozytorowi zakładowemu właściwej jednostki organizacyjnej",
-        "D": "Wyłącznie dyspozytorowi liniowemu właściwej IDDE"
-      },
-      "correct": "B",
-      "explanation": "Ir-15 § 14 ust. 9",
-      "section_ref": "§ 14",
-      "section": 14
-    },
-    {
       "uuid": "7d2b5acd-bba2-45f9-9ca7-5f03a1134974",
       "question": "Co organizuje dyspozytor zakładowy, gdy czas trwania Działania przekracza czas pracy danej Zmiany?",
       "answers": {
@@ -320,48 +306,6 @@
       },
       "correct": "C",
       "explanation": "Ir-15 § 14 ust. 15",
-      "section_ref": "§ 14",
-      "section": 14
-    },
-    {
-      "uuid": "10203f1b-94dc-4410-882c-2e7b9dc3004f",
-      "question": "Kto jest podmiotem dysponującym Zespół, gdy zdarzenie wystąpiło na terenie jednostki organizacyjnej, w której funkcjonuje ten Zespół?",
-      "answers": {
-        "A": "Dyspozytor koordynator IDDE",
-        "B": "Dyspozytor zakładowy właściwej jednostki organizacyjnej",
-        "C": "Kierujący Zmianą dysponowanego Zespołu",
-        "D": "Dyspozytor koordynator Dyspozytury Głównej"
-      },
-      "correct": "B",
-      "explanation": "Ir-15 § 14 ust. 2",
-      "section_ref": "§ 14",
-      "section": 14
-    },
-    {
-      "uuid": "aac16bde-8b18-4203-921a-66443d22c0f9",
-      "question": "W jaki sposób dyspozytor zakładowy właściwej jednostki organizacyjnej dysponuje Zespół?",
-      "answers": {
-        "A": "Poprzez pisemne zlecenie przekazane Kierującemu Zmianą",
-        "B": "Poprzez system IDDE z potwierdzeniem elektronicznym",
-        "C": "Poprzez kontakt telefoniczny z Kierującym Zmianą dysponowanego Zespołu",
-        "D": "Poprzez dyspozytora koordynatora IDDE"
-      },
-      "correct": "C",
-      "explanation": "Ir-15 § 14 ust. 3",
-      "section_ref": "§ 14",
-      "section": 14
-    },
-    {
-      "uuid": "bcf86f9e-5aab-491e-8465-0fbc7226c902",
-      "question": "Ile wynosi maksymalny czas wyjazdu Zespołu do Działania dla pojazdu kolejowego, gdy środek trakcyjny pozostaje w dyspozycji Zespołu?",
-      "answers": {
-        "A": "Do 60 minut od momentu powstania zdarzenia",
-        "B": "Do 100 minut od momentu powstania zdarzenia",
-        "C": "Do 30 minut od momentu powstania zdarzenia",
-        "D": "Do 20 minut od momentu powstania zdarzenia"
-      },
-      "correct": "D",
-      "explanation": "Ir-15 § 14 ust. 8 pkt 1",
       "section_ref": "§ 14",
       "section": 14
     },
@@ -422,20 +366,6 @@
       "section": 14
     },
     {
-      "uuid": "d0661bcb-93d5-4b90-9529-b6335c15acea",
-      "question": "Kto jest odpowiedzialny za zabezpieczenie miejsca prowadzonych Działań?",
-      "answers": {
-        "A": "Kierujący Zmianą",
-        "B": "Dyspozytor zakładowy właściwej jednostki organizacyjnej",
-        "C": "Kierujący Działaniami",
-        "D": "Dyspozytor koordynator IDDE"
-      },
-      "correct": "C",
-      "explanation": "Ir-15 § 14 ust. 16",
-      "section_ref": "§ 14",
-      "section": 14
-    },
-    {
       "uuid": "0c63e6c9-36d2-4980-b910-9afc1abc0b76",
       "question": "Kiedy może nastąpić załączenie napięcia w sieci trakcyjnej w rejonie zdarzenia?",
       "answers": {
@@ -454,7 +384,7 @@
       "question": "Co powinna posiadać przesyłka nadzwyczajna, jeżeli na wyposażeniu Zespołu znajduje się pojazd kolejowy będący taką przesyłką?",
       "answers": {
         "A": "Decyzję Dyspozytora koordynatora IDDE o dopuszczeniu do przewozu",
-        "B": "Zgodę na przewoz przesylki nadzwyczajnej i zarzadzenie przewozu przesylki nadzwyczajnej opracowane przez PLK SA Centrum Zarzadzania Ruchem Kolejowym",
+        "B": "Zgodę na przewóz przesyłki nadzwyczajnej i zarządzenie przewozu przesyłki nadzwyczajnej opracowane przez PLK SA Centrum Zarządzania Ruchem Kolejowym",
         "C": "Pisemne zezwolenie dyspozytora zakładowego jednostki organizacyjnej, w której funkcjonuje Zespół",
         "D": "Zgodę Kierującego Zmianą oraz dyspozytora koordynatora właściwej Ekspozytury Zarządzania Ruchem"
       },
@@ -534,20 +464,6 @@
       "section": 15
     },
     {
-      "uuid": "443d1799-3d61-45f5-bd69-ecdb9cc83a92",
-      "question": "Kto kieruje Działaniami usuwania skutków zdarzenia, gdy nie jest wymagane zadysponowanie jednostek ochrony przeciwpożarowej ani innych służb?",
-      "answers": {
-        "A": "Zwierzchnik właściwej wykonawczej komórki organizacyjnej lub wyznaczony przez niego pracownik",
-        "B": "Dyspozytor zakładowy właściwej jednostki organizacyjnej",
-        "C": "Kierujący Zmianą danego Zespołu lub inny wyznaczony przez niego pracownik Zespołu obecny na miejscu zdarzenia",
-        "D": "Przewodniczący komisji kolejowej"
-      },
-      "correct": "C",
-      "explanation": "Ir-15 § 15 ust. 9",
-      "section_ref": "§ 15",
-      "section": 15
-    },
-    {
       "uuid": "b92957fd-3f89-4946-a4d9-f3d51fe1663d",
       "question": "Co kierujący Działaniami zobowiązany jest zrobić po zapoznaniu się z sytuacją i określeniu czasu niezbędnego do usunięcia skutków zdarzenia?",
       "answers": {
@@ -609,25 +525,11 @@
       "answers": {
         "A": "Kierujący Działaniami po zakończeniu Działań",
         "B": "Dyspozytor zakładowy właściwej jednostki organizacyjnej",
-        "C": "Kierujacy Zmianą lub zastępujący go pracownik",
+        "C": "Kierujący Zmianą lub zastępujący go pracownik",
         "D": "Zwierzchnik jednostki organizacyjnej właściwej dla miejsca zdarzenia"
       },
       "correct": "C",
       "explanation": "Ir-15 § 15 ust. 20",
-      "section_ref": "§ 15",
-      "section": 15
-    },
-    {
-      "uuid": "55a61948-a615-41fe-af80-44e3a766ed6a",
-      "question": "Kto wyraża zgodę na udział podmiotów innych niż Zespół w Działaniach usuwania skutków zdarzenia?",
-      "answers": {
-        "A": "Dyspozytor zakładowy właściwej jednostki organizacyjnej",
-        "B": "Kierujący Działaniami",
-        "C": "Zwierzchnik właściwej komórki organizacyjnej",
-        "D": "Przewodniczący komisji kolejowej"
-      },
-      "correct": "B",
-      "explanation": "Ir-15 § 15 ust. 3",
       "section_ref": "§ 15",
       "section": 15
     },
@@ -646,20 +548,6 @@
       "section": 15
     },
     {
-      "uuid": "58ed03b6-d646-484e-902f-bdc5d6111683",
-      "question": "Co stanowi podstawę do samodzielnego przystąpienia przez Zespoły do usuwania skutków zdarzenia po działaniach ratowniczych prowadzonych przez jednostki ochrony przeciwpożarowej?",
-      "answers": {
-        "A": "Ustna dyspozycja dyspozytora zakładowego właściwej jednostki organizacyjnej",
-        "B": "Decyzja kierującego Zmianą danego Zespołu",
-        "C": "Pisemne potwierdzenie zakończenia działań ratowniczych z imiennym podpisem kierującego",
-        "D": "Zgoda zwierzchnika właściwej komórki organizacyjnej wyrażona na piśmie"
-      },
-      "correct": "C",
-      "explanation": "Ir-15 § 15 ust. 6",
-      "section_ref": "§ 15",
-      "section": 15
-    },
-    {
       "uuid": "838b7ed7-df52-4ce9-80cb-71928935a948",
       "question": "Kto kieruje Działaniami usuwania skutków zdarzenia, gdy skutki zdarzenia nie wymagają zadysponowania jednostek ochrony przeciwpożarowej ani innych służb?",
       "answers": {
@@ -670,48 +558,6 @@
       },
       "correct": "C",
       "explanation": "Ir-15 § 15 ust. 9",
-      "section_ref": "§ 15",
-      "section": 15
-    },
-    {
-      "uuid": "4134921d-0f1a-498c-8b60-9e6843230103",
-      "question": "Kto jest odpowiedzialny za uporządkowanie miejsca zdarzenia?",
-      "answers": {
-        "A": "Kierujący Działaniami",
-        "B": "Kierujący Zmianą danego Zespołu",
-        "C": "Dyspozytor zakładowy właściwej jednostki organizacyjnej",
-        "D": "Zwierzchnicy jednostek organizacyjnych właściwych dla miejsca zdarzenia"
-      },
-      "correct": "D",
-      "explanation": "Ir-15 § 15 ust. 17",
-      "section_ref": "§ 15",
-      "section": 15
-    },
-    {
-      "uuid": "7901e16a-6452-420f-bae3-25c16a2e1861",
-      "question": "Za co ponosi odpowiedzialność kierujący Działaniami?",
-      "answers": {
-        "A": "Za sporządzenie dokumentacji zdarzenia i przekazanie jej właściwym organom nadzoru",
-        "B": "Za sprawne usunięcie skutków zdarzenia oraz ograniczenie do minimum uszkodzeń infrastruktury kolejowej i pojazdów kolejowych w czasie prowadzonej akcji",
-        "C": "Za powiadomienie przewoźnika o uszkodzonych pojazdach kolejowych i uzgodnienie terminu naprawy",
-        "D": "Za zapewnienie powrotu Zespołów do miejsc stacjonowania po zakończeniu Działań"
-      },
-      "correct": "B",
-      "explanation": "Ir-15 § 15 ust. 11",
-      "section_ref": "§ 15",
-      "section": 15
-    },
-    {
-      "uuid": "0f6d3070-3fe9-4b9f-83f6-2a0487bf55b4",
-      "question": "Kiedy Zespoły mogą powracać do miejsc stacjonowania?",
-      "answers": {
-        "A": "Po zakończeniu wszystkich prac naprawczych i przywróceniu ruchu pociągów",
-        "B": "Po otrzymaniu zgody kierującego Działaniami",
-        "C": "Po otrzymaniu dyspozycji dyspozytora zakładowego właściwej jednostki organizacyjnej",
-        "D": "Po złożeniu przez kierującego Zmianą wpisów w Księdze pracy Zespołu"
-      },
-      "correct": "B",
-      "explanation": "Ir-15 § 15 ust. 16",
       "section_ref": "§ 15",
       "section": 15
     },
@@ -775,10 +621,10 @@
       "uuid": "500ae17f-61e0-404b-8746-5a55f5fc1532",
       "question": "Czym różni się \"Załoga\" od \"Zespołu\" w strukturze kolejowego ratownictwa technicznego?",
       "answers": {
-        "A": "Załoga to wyspecjalizowana i odpowiednio wyposażona grupa pracowników z określonymi rolami i stosownym przeszkoleniem",
-        "B": "Załoga to grupa pracowników o określonym składzie i kompetencjach dla zabezpieczenia realizacji określonych czynności w przewidzianym czasie",
-        "C": "Załoga to grupa pracowników Zespołu z potencjałem realizacji wyznaczonego zadania",
-        "D": "Załoga to pracownik zarządzający pracą Zespołu podczas Zmiany"
+        "A": "Wyspecjalizowana i odpowiednio wyposażona grupa pracowników z określonymi rolami i stosownym przeszkoleniem w zakresie kolejowego ratownictwa technicznego",
+        "B": "Grupa pracowników o określonym składzie i kompetencjach dla zabezpieczenia realizacji określonych czynności w przewidzianym czasie",
+        "C": "Grupa pracowników Zespołu z potencjałem realizacji wyznaczonego zadania",
+        "D": "Grupa pracowników Zespołu z określonymi rolami i stosownym przeszkoleniem, wyznaczona do realizacji Usług na rzecz innych podmiotów"
       },
       "correct": "C",
       "explanation": "Ir-15 § 2 pkt 2",
@@ -792,7 +638,7 @@
         "A": "Pełni zadania koordynatora Zmiany i Załogi bez dodatkowych uprawnień",
         "B": "Pełni zadania Kierującego Działaniami",
         "C": "Pełni zadania dyspozytora w Dyspozyturze Głównej Centrum Zarządzania Ruchem Kolejowym",
-        "D": "Pełni zadania nadzorcy technicznego sprzętu ratowniczego"
+        "D": "Pełni zadania kierownika Zespołu odpowiedzialnego za gotowość operacyjno-techniczną i sprawność wyposażenia"
       },
       "correct": "B",
       "explanation": "Ir-15 § 2 pkt 4",
@@ -804,9 +650,9 @@
       "question": "Co sprawdza się podczas próbnego alarmu?",
       "answers": {
         "A": "Gotowość operacyjno-techniczną Zespołu, w tym czas wyjazdu, praktyczne użycie sprzętu, wyszkolenie pracowników oraz sprawność posiadanego wyposażenia",
-        "B": "Kompetencje pracowników do realizacji Działań oraz czas reakcji Kierującego Zmianą",
-        "C": "Dostępność sprzętu ratowniczego oraz poprawność dokumentacji operacyjnej Zespołu",
-        "D": "Zdolność Załogi do realizacji Usług na rzecz innych podmiotów w wyznaczonym czasie"
+        "B": "Gotowość operacyjno-techniczną Załogi, w tym czas wyjazdu, praktyczne użycie sprzętu, wyszkolenie pracowników oraz sprawność posiadanego wyposażenia",
+        "C": "Gotowość operacyjno-techniczną Zespołu, w tym czas dojazdu na miejsce zdarzenia, praktyczne użycie sprzętu oraz wyszkolenie pracowników",
+        "D": "Gotowość operacyjno-techniczną Zespołu, w tym czas wyjazdu, znajomość procedur ratowniczych przez pracowników oraz kompletność posiadanego wyposażenia"
       },
       "correct": "A",
       "explanation": "Ir-15 § 2 pkt 8",
@@ -885,7 +731,7 @@
     },
     {
       "uuid": "34996ab8-d4a9-4be8-89a8-0ec68afca2a7",
-      "question": "Jakie rodzaje Zespołów Kolejowego Ratownictwa Technicznego wyróżnia się zgodnie z podziałem określonym w instrukcji?",
+      "question": "Jakie rodzaje Zespołów Kolejowego Ratownictwa Technicznego wyróżnia się?",
       "answers": {
         "A": "Regionalne Zespoły i Lokalne Zespoły Kolejowego Ratownictwa Technicznego",
         "B": "Centralne Zespoły i Terenowe Zespoły Kolejowego Ratownictwa Technicznego",
@@ -913,7 +759,7 @@
     },
     {
       "uuid": "80eb43cf-d6f3-4c6a-bd80-887bc613c237",
-      "question": "Kogo informuje kierujący Zmianą w przypadku nieplanowanego wyłączenia pojazdu wpływającego na gotowość operacyjną Zespołu?",
+      "question": "Kogo informuje kierujący Zmianą w przypadku nieplanowanego lub planowanego wyłączenia pojazdu wpływającego na gotowość operacyjną Zespołu?",
       "answers": {
         "A": "Dyspozytora koordynatora w IDDE",
         "B": "Komórkę organizacyjną Centrali PLK SA ds. kolejowego ratownictwa technicznego",
@@ -1069,10 +915,10 @@
       "uuid": "70d96f5e-ed61-40a6-8ce7-b270700bcf98",
       "question": "Co obejmują zadania pracownika wyznaczonego do wsparcia i nadzoru nad sprawnością funkcjonowania Zespołu?",
       "answers": {
-        "A": "Ustalanie składu osobowego Załogi oraz wyznaczanie kierujących Zmianami na każdy miesiąc",
-        "B": "Ustalanie lokalizacji Zespołu i minimalnej liczby pracowników w każdej lokalizacji",
+        "A": "Ustalanie składu osobowego Załogi z uwzględnieniem wymaganych specjalności oraz wskazywanie kierującego każdą Zmianą na każdy miesiąc kalendarzowy, a następnie przesyłanie tych informacji do komórki organizacyjnej Centrali PLK SA",
+        "B": "Określanie lokalizacji Zespołu, ustalanie minimalnej liczby pracowników Załogi w każdej lokalizacji oraz uwzględnianie wniosków dyrektora jednostki organizacyjnej w celu zwiększenia skuteczności i jakości zabezpieczenia obszaru właściwego",
         "C": "Wyposażenie w sprzęt techniczny, materiały eksploatacyjne, przybory sygnałowe, odzież roboczą i ochronną, środki ochrony indywidualnej, urządzenia łączności i radiołączności, przeszkolenie załogi oraz sprawność wyposażenia",
-        "D": "Organizowanie i nadzorowanie pracy Zmiany oraz utrzymywanie łączności z dyspozytorem zakładowym"
+        "D": "Organizowanie i nadzorowanie pracy Zmiany, kierowanie Działaniami Zespołu, odpowiadanie za gotowość Zmiany do realizacji Działań oraz utrzymywanie łączności z dyspozytorem zakładowym jednostki organizacyjnej"
       },
       "correct": "C",
       "explanation": "Ir-15 § 6 ust. 6",

@@ -2,10 +2,11 @@
   "instruction": "Ir-15",
   "timestamp": "2026-03-14T22:14:01.326993",
   "summary": {
-    "total": 84,
+    "total": 64,
     "ok": 64,
-    "fix": 9,
-    "delete": 11
+    "fix": 0,
+    "delete": 0,
+    "new": 0
   },
   "results": [
     {
@@ -59,21 +60,6 @@
       "problems": []
     },
     {
-      "uuid": "22770b90-5e77-4fac-b5a5-20574eae2f35",
-      "status": "FIX",
-      "problems": [
-        "Literówka w odpowiedzi D: 'zewnetrznymi' → 'zewnętrznymi'"
-      ],
-      "changes": {
-        "answers": {
-          "A": "Priorytet dostępności Zespołów dla potrzeb usuwania zdarzeń na sieci PLK SA",
-          "B": "Priorytet ciągłości świadczenia usług na rzecz podmiotów zewnętrznych",
-          "C": "Priorytet minimalizacji kosztów realizacji usług",
-          "D": "Priorytet obsługi podmiotów kolejowych przed innymi podmiotami zewnętrznymi"
-        }
-      }
-    },
-    {
       "uuid": "5f757026-d39a-4e31-9326-815c2a231ca2",
       "status": "OK",
       "problems": []
@@ -114,13 +100,6 @@
       "problems": []
     },
     {
-      "uuid": "d5bc56cd-6701-433e-b308-4d8872d5a93a",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=9b44f423-7c24-4c43-88bf-3997333d5cf5 — identyczna treść pytania, przy czym wersja uuid=9b44f423 zawiera pełniejszą i dokładniejszą odpowiedź zgodną z brzmieniem § 14 ust. 9 (opisuje pełen łańcuch powiadomień)."
-      ]
-    },
-    {
       "uuid": "7d2b5acd-bba2-45f9-9ca7-5f03a1134974",
       "status": "OK",
       "problems": []
@@ -134,27 +113,6 @@
       "uuid": "f893cd40-314d-4e38-a482-293fc8d98850",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "10203f1b-94dc-4410-882c-2e7b9dc3004f",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=78db967d-7d83-4a7a-913d-4c96b6d9ef31 — identyczna treść pytania i identyczna poprawna odpowiedź (dyspozytor zakładowy właściwej jednostki organizacyjnej)."
-      ]
-    },
-    {
-      "uuid": "aac16bde-8b18-4203-921a-66443d22c0f9",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=c6a81f2f-f90c-4ac6-a70c-970f0ad26761 — identyczna treść pytania i identyczna poprawna odpowiedź (kontakt telefoniczny z Kierującym Zmianą dysponowanego Zespołu)."
-      ]
-    },
-    {
-      "uuid": "bcf86f9e-5aab-491e-8465-0fbc7226c902",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=cd881766-29a8-4850-b9b7-5a5b229d1c99 — identyczna treść pytania i identyczna poprawna odpowiedź (do 20 minut od momentu powstania zdarzenia)."
-      ]
     },
     {
       "uuid": "f4df7920-d56e-41fc-8b78-f6673e16a17d",
@@ -175,28 +133,6 @@
       "uuid": "9b44f423-7c24-4c43-88bf-3997333d5cf5",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "d0661bcb-93d5-4b90-9529-b6335c15acea",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=f893cd40-314d-4e38-a482-293fc8d98850 — identyczna treść pytania i identyczna poprawna odpowiedź (potwierdzenie przez kierującego Działaniami zakończenia działań i zwrot wydanego zezwolenia)."
-      ]
-    },
-    {
-      "uuid": "90044ace-89c5-4b49-b386-38dfd9dfcf24",
-      "status": "FIX",
-      "problems": [
-        "Literówki w odpowiedzi B: brak polskich znaków diakrytycznych — 'przewoz' → 'przewóz', 'przesylki' → 'przesyłki', 'zarzadzenie' → 'zarządzenie', 'Zarzadzania' → 'Zarządzania'."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Decyzję Dyspozytora koordynatora IDDE o dopuszczeniu do przewozu",
-          "B": "Zgodę na przewóz przesyłki nadzwyczajnej i zarządzenie przewozu przesyłki nadzwyczajnej opracowane przez PLK SA Centrum Zarządzania Ruchem Kolejowym",
-          "C": "Pisemne zezwolenie dyspozytora zakładowego jednostki organizacyjnej, w której funkcjonuje Zespół",
-          "D": "Zgodę Kierującego Zmianą oraz dyspozytora koordynatora właściwej Ekspozytury Zarządzania Ruchem"
-        }
-      }
     },
     {
       "uuid": "4c025f46-64f3-4c5f-b2d8-17f6717a3e1b",
@@ -224,13 +160,6 @@
       "problems": []
     },
     {
-      "uuid": "443d1799-3d61-45f5-bd69-ecdb9cc83a92",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=838b7ed7 — ta sama treść i ta sama poprawna odpowiedź (kierujący Zmianą danego Zespołu lub inny wyznaczony pracownik). Pytanie 838b7ed7 jest lepsze, bo odpowiedź C dokładniej oddaje brzmienie § 15 ust. 9 (zawiera zwrot 'w jego braku')."
-      ]
-    },
-    {
       "uuid": "b92957fd-3f89-4946-a4d9-f3d51fe1663d",
       "status": "OK",
       "problems": []
@@ -251,64 +180,14 @@
       "problems": []
     },
     {
-      "uuid": "ce4d619f-d2fa-451b-b51f-03265c58d47c",
-      "status": "FIX",
-      "problems": [
-        "Literówka w treści odpowiedzi C: 'Kierujacy' zamiast 'Kierujący'."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Kierujący Działaniami po zakończeniu Działań",
-          "B": "Dyspozytor zakładowy właściwej jednostki organizacyjnej",
-          "C": "Kierujący Zmianą lub zastępujący go pracownik",
-          "D": "Zwierzchnik jednostki organizacyjnej właściwej dla miejsca zdarzenia"
-        }
-      }
-    },
-    {
-      "uuid": "55a61948-a615-41fe-af80-44e3a766ed6a",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=a3427897 — ta sama treść pytania i ta sama poprawna odpowiedź (kierujący Działaniami, § 15 ust. 3)."
-      ]
-    },
-    {
       "uuid": "a3c806c4-dbb9-4c1b-b817-4c7c417a4c1d",
       "status": "OK",
       "problems": []
     },
     {
-      "uuid": "58ed03b6-d646-484e-902f-bdc5d6111683",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=8776442e — ta sama treść pytania i ta sama poprawna odpowiedź (pisemne potwierdzenie zakończenia działań ratowniczych z imiennym podpisem kierującego, § 15 ust. 6)."
-      ]
-    },
-    {
       "uuid": "838b7ed7-df52-4ce9-80cb-71928935a948",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "4134921d-0f1a-498c-8b60-9e6843230103",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=4febe107 — ta sama treść pytania i ta sama poprawna odpowiedź (zwierzchnicy jednostek organizacyjnych właściwych dla miejsca zdarzenia, § 15 ust. 17)."
-      ]
-    },
-    {
-      "uuid": "7901e16a-6452-420f-bae3-25c16a2e1861",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=6bdb9f1e — ta sama treść pytania i ta sama poprawna odpowiedź (sprawne usunięcie skutków zdarzenia oraz ograniczenie do minimum uszkodzeń infrastruktury kolejowej i pojazdów kolejowych, § 15 ust. 11)."
-      ]
-    },
-    {
-      "uuid": "0f6d3070-3fe9-4b9f-83f6-2a0487bf55b4",
-      "status": "DELETE",
-      "problems": [
-        "Duplikat pytania uuid=8cd89a96 — ta sama treść pytania i ta sama poprawna odpowiedź (po otrzymaniu zgody kierującego Działaniami, § 15 ust. 16)."
-      ]
     },
     {
       "uuid": "d70fc64f-b3b2-41c3-8aaf-ad2bd73accd9",
@@ -329,53 +208,6 @@
       "uuid": "b8f59747-affb-467d-9aaa-c0e8b8302527",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "500ae17f-61e0-404b-8746-5a55f5fc1532",
-      "status": "FIX",
-      "problems": [
-        "Odpowiedź D ('pracownik zarządzający pracą Zespołu podczas Zmiany') to definicja Kierującego Zmianą (pkt 4) — inna kategoria semantyczna niż grupy pracownicze (Załoga, Zespół, Zmiana). Dystraktor D powinien być zmodyfikowaną wersją definicji z tej samej kategorii grup pracowniczych."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Wyspecjalizowana i odpowiednio wyposażona grupa pracowników z określonymi rolami i stosownym przeszkoleniem w zakresie kolejowego ratownictwa technicznego",
-          "B": "Grupa pracowników o określonym składzie i kompetencjach dla zabezpieczenia realizacji określonych czynności w przewidzianym czasie",
-          "C": "Grupa pracowników Zespołu z potencjałem realizacji wyznaczonego zadania",
-          "D": "Grupa pracowników Zespołu z określonymi rolami i stosownym przeszkoleniem, wyznaczona do realizacji Usług na rzecz innych podmiotów"
-        },
-        "correct": "C"
-      }
-    },
-    {
-      "uuid": "ac32b76f-a98c-456b-9ebf-0f3fd18da800",
-      "status": "FIX",
-      "problems": [
-        "Odpowiedź D ('nadzorcy technicznego sprzętu ratowniczego') nie wynika z treści § 2 — taka rola nie jest w paragrafie zdefiniowana. Należy zastąpić dystraktor D wiarygodną ale niepoprawną wersją roli opartą na treści paragrafu."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Pełni zadania koordynatora Zmiany i Załogi bez dodatkowych uprawnień",
-          "B": "Pełni zadania Kierującego Działaniami",
-          "C": "Pełni zadania dyspozytora w Dyspozyturze Głównej Centrum Zarządzania Ruchem Kolejowym",
-          "D": "Pełni zadania kierownika Zespołu odpowiedzialnego za gotowość operacyjno-techniczną i sprawność wyposażenia"
-        }
-      }
-    },
-    {
-      "uuid": "016a39e1-b996-4466-9d70-8e98e5d6df0c",
-      "status": "FIX",
-      "problems": [
-        "Dystraktory B ('Kompetencje pracowników do realizacji Działań oraz czas reakcji Kierującego Zmianą'), C ('Dostępność sprzętu ratowniczego oraz poprawność dokumentacji operacyjnej Zespołu') i D ('Zdolność Załogi do realizacji Usług na rzecz innych podmiotów w wyznaczonym czasie') nie należą do tej samej kategorii semantycznej co poprawna odpowiedź — nie są modyfikacjami definicji Próbnego alarmu. Zgodnie z Priorytetem 2, należy zastąpić je zmienionymi wersjami definicji pkt 8 z różnymi błędnymi kluczowymi słowami."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Gotowość operacyjno-techniczną Zespołu, w tym czas wyjazdu, praktyczne użycie sprzętu, wyszkolenie pracowników oraz sprawność posiadanego wyposażenia",
-          "B": "Gotowość operacyjno-techniczną Załogi, w tym czas wyjazdu, praktyczne użycie sprzętu, wyszkolenie pracowników oraz sprawność posiadanego wyposażenia",
-          "C": "Gotowość operacyjno-techniczną Zespołu, w tym czas dojazdu na miejsce zdarzenia, praktyczne użycie sprzętu oraz wyszkolenie pracowników",
-          "D": "Gotowość operacyjno-techniczną Zespołu, w tym czas wyjazdu, znajomość procedur ratowniczych przez pracowników oraz kompletność posiadanego wyposażenia"
-        },
-        "correct": "A"
-      }
     },
     {
       "uuid": "00fb3430-45e6-4a70-b32c-021c00cce997",
@@ -403,29 +235,9 @@
       "problems": []
     },
     {
-      "uuid": "34996ab8-d4a9-4be8-89a8-0ec68afca2a7",
-      "status": "FIX",
-      "problems": [
-        "Pytanie zawiera referencję do instrukcji ('zgodnie z podziałem określonym w instrukcji'), która powinna być usunięta z treści pytania — takie informacje należą wyłącznie do pola explanation."
-      ],
-      "changes": {
-        "question": "Jakie rodzaje Zespołów Kolejowego Ratownictwa Technicznego wyróżnia się?"
-      }
-    },
-    {
       "uuid": "47b3e812-ee40-4726-a5de-5c2336a53755",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "80eb43cf-d6f3-4c6a-bd80-887bc613c237",
-      "status": "FIX",
-      "problems": [
-        "Pytanie ogranicza przypadek tylko do 'nieplanowanego wyłączenia', podczas gdy § 5 ust. 4 mówi o 'nieplanowanego lub planowanego wyłączenia' — treść pytania powinna obejmować oba przypadki."
-      ],
-      "changes": {
-        "question": "Kogo informuje kierujący Zmianą w przypadku nieplanowanego lub planowanego wyłączenia pojazdu wpływającego na gotowość operacyjną Zespołu?"
-      }
     },
     {
       "uuid": "5d3fd6a9-b6e9-4df6-adc2-783d10b01150",
@@ -476,21 +288,6 @@
       "uuid": "c9553556-9bc0-4b73-b21d-381873ee4707",
       "status": "OK",
       "problems": []
-    },
-    {
-      "uuid": "70d96f5e-ed61-40a6-8ce7-b270700bcf98",
-      "status": "FIX",
-      "problems": [
-        "Poprawna odpowiedź C ma ok. 208 znaków i jest ponad 1,5× dłuższa od najdłuższego dystraktora (~82 znaki) — naruszenie zasady 6. Należy wyrównać dystraktory w górę, rozbudowując je o treść z paragrafu."
-      ],
-      "changes": {
-        "answers": {
-          "A": "Ustalanie składu osobowego Załogi z uwzględnieniem wymaganych specjalności oraz wskazywanie kierującego każdą Zmianą na każdy miesiąc kalendarzowy, a następnie przesyłanie tych informacji do komórki organizacyjnej Centrali PLK SA",
-          "B": "Określanie lokalizacji Zespołu, ustalanie minimalnej liczby pracowników Załogi w każdej lokalizacji oraz uwzględnianie wniosków dyrektora jednostki organizacyjnej w celu zwiększenia skuteczności i jakości zabezpieczenia obszaru właściwego",
-          "C": "Wyposażenie w sprzęt techniczny, materiały eksploatacyjne, przybory sygnałowe, odzież roboczą i ochronną, środki ochrony indywidualnej, urządzenia łączności i radiołączności, przeszkolenie załogi oraz sprawność wyposażenia",
-          "D": "Organizowanie i nadzorowanie pracy Zmiany, kierowanie Działaniami Zespołu, odpowiadanie za gotowość Zmiany do realizacji Działań oraz utrzymywanie łączności z dyspozytorem zakładowym jednostki organizacyjnej"
-        }
-      }
     },
     {
       "uuid": "d33d4fe6-bf3e-46f4-8c28-6db7c5d7fe34",
