@@ -1,0 +1,1587 @@
+{
+  "instruction": "Ir-23",
+  "questions": [
+    {
+      "uuid": "3c99fa47-8d6a-4907-a092-c5209145479c",
+      "question": "Jak nazywa się dokument zawierający warunki techniczno-ruchowe linii kolejowych mające wpływ na bezpieczne i prawidłowe prowadzenie ruchu pociągów, ujęte w formie tablic?",
+      "answers": {
+        "A": "Dodatek 1 do wewnętrznego rozkładu jazdy",
+        "B": "Regulamin techniczno-ruchowy linii",
+        "C": "Załącznik 1 do zewnętrznego rozkładu jazdy",
+        "D": "Instrukcja prowadzenia ruchu pociągów"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 1 ust. 1",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "9a1f8790-a76a-4f00-8e7c-28874ad9d821",
+      "question": "Na jakim obszarze obowiązuje Dodatek 1?",
+      "answers": {
+        "A": "Wyłącznie na sieci kolejowej zarządzanej przez PKP PLK S.A.",
+        "B": "Na wskazanym obszarze sieci kolejowej zarządzanej przez PKP PLK S.A. oraz na odcinkach linii kolejowych podległych innym zarządcom, na których PKP PLK S.A. opracowuje rozkład jazdy",
+        "C": "Na całej sieci kolejowej w Polsce, niezależnie od zarządcy infrastruktury",
+        "D": "Na wskazanym obszarze sieci kolejowej zarządzanej przez PKP PLK S.A. oraz na odcinkach linii kolejowych podległych innym zarządcom, na których ci zarządcy opracowują rozkład jazdy"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 1 ust. 2",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "36e7594f-6e26-421c-b17b-85382cd5c7ab",
+      "question": "Który Zakład Linii Kolejowych wydaje Dodatek 1 dla obszaru obejmującego zakłady współpracujące: Siedlce, Białystok, Łódź?",
+      "answers": {
+        "A": "IZ Lublin",
+        "B": "IZ Poznań",
+        "C": "IZ Warszawa",
+        "D": "IZ Wrocław"
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 1 ust. 3",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "77104c81-bae0-4587-aecf-99e307c7937f",
+      "question": "Który Zakład Linii Kolejowych wydaje Dodatek 1 dla obszaru obejmującego zakłady współpracujące: Bydgoszcz i Olsztyn?",
+      "answers": {
+        "A": "IZ Szczecin",
+        "B": "IZ Gdynia",
+        "C": "IZ Poznań",
+        "D": "IZ Wrocław"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 1 ust. 3",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "9edd5d84-033b-4780-bcd1-d4915b199f2a",
+      "question": "W jakiej formie opracowywane są oryginalne wydania Dodatku 1 mające moc obowiązującą?",
+      "answers": {
+        "A": "W wersji papierowej, wydawanej przez wyznaczony Zakład",
+        "B": "W wersji elektronicznej edytowalnej (format DOCX) przez wyznaczony Zakład",
+        "C": "W wersji elektronicznej nieedytowalnej (format PDF) przez wyznaczony Zakład",
+        "D": "W wersji elektronicznej edytowalnej (format PDF) przez wyznaczony Zakład"
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 1 ust. 7",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "837f7fd5-3f22-4e05-9e1a-be0882e09624",
+      "question": "Kto jest odpowiedzialny za kompleksowe opracowanie, edycję i zarządzanie zmianami w Dodatku 1?",
+      "answers": {
+        "A": "Zakłady współpracujące danego obszaru",
+        "B": "Wyznaczone Zakłady Linii Kolejowych",
+        "C": "Centrala PKP PLK S.A.",
+        "D": "Licencjonowani przewoznicy kolejowi"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 1 ust. 6",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "89424d24-3c30-48a4-95b2-309a1f24efd6",
+      "question": "Kto podejmuje decyzję o wydaniu nowego Dodatku 1?",
+      "answers": {
+        "A": "Dyrektor zarządzający infrastrukturą kolejową",
+        "B": "Wyznaczony Zakład",
+        "C": "Kierownik posterunku ruchu",
+        "D": "Komisja rozkładowa PKP"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 2 ust. 2",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "f4b5c345-e16b-42e1-9beb-1150468523d5",
+      "question": "Kto opracowuje oraz redaguje i sporządza zmiany do Dodatku 1?",
+      "answers": {
+        "A": "Pracownik komórki ds. eksploatacji w wyznaczonym Zakładzie",
+        "B": "Dyrektor wyznaczonego Zakładu",
+        "C": "Pracownik Biura Eksploatacji w Centrali PKP PLK S.A.",
+        "D": "Naczelnik Sekcji Eksploatacji wyznaczonego Zakładu"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 3 ust. 1",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "fc18ad10-d0b6-4569-9529-609bcd4491f6",
+      "question": "Na podstawie czego pracownik komórki ds. eksploatacji opracowuje Dodatek 1?",
+      "answers": {
+        "A": "Wyłącznie wniosków własnego Zakładu i podległych komórek wykonawczych",
+        "B": "Wniosków z Sekcji Eksploatacji i działów własnego Zakładu oraz wniosków zbiorczych z Zakładów współpracujących",
+        "C": "Zarządzeń Dyrektora wyznaczonego Zakładu i poleceń Biura Eksploatacji",
+        "D": "Wniosków przesłanych bezpośrednio przez Zakłady współpracujące bez weryfikacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 3 ust. 1",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "1d80b9d7-f2d7-44be-8022-9ff68cde5da2",
+      "question": "Kto w Zakładach współpracujących weryfikuje wnioski o umieszczenie danych w tablicach Dodatku 1 i opracowuje wniosek zbiorczy?",
+      "answers": {
+        "A": "Naczelnik Sekcji Eksploatacji danego Zakładu",
+        "B": "Dyrektor Zakładu współpracującego",
+        "C": "Upoważniony pracownik własnego Zakładu",
+        "D": "Pracownik komórki ds. eksploatacji wyznaczonego Zakładu"
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 3 ust. 2",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "2a6a8836-f60b-4543-8fc8-c030e01c3e49",
+      "question": "Kto zatwierdza wniosek zbiorczy przygotowany przez upoważnionego pracownika Zakładu współpracującego?",
+      "answers": {
+        "A": "Naczelnik Sekcji Eksploatacji Zakładu współpracującego",
+        "B": "Dyrektor Zakładu współpracującego",
+        "C": "Pracownik Biura Eksploatacji",
+        "D": "Dyrektor wyznaczonego Zakładu"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 3 ust. 2",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "89432bff-dbbd-4387-8780-b18e79d7b6b8",
+      "question": "Kto ponosi odpowiedzialność za prawidłowość dostarczanych danych do Dodatku 1 i ich zgodność ze stanem faktycznym w terenie?",
+      "answers": {
+        "A": "Pracownik komórki ds. eksploatacji wyznaczonego Zakładu",
+        "B": "Dyrektor wyznaczonego Zakładu",
+        "C": "Naczelnicy Sekcji Eksploatacji oraz kierownicy komórek organizacyjnych składających wnioski",
+        "D": "Wyznaczony pracownik Biura Eksploatacji"
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 3 ust. 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "7409a297-1ba4-440d-83ea-2c8f4c173bdf",
+      "question": "W jakim celu wyznaczony Zakład przesyła opracowany Dodatek 1 do Zakładów współpracujących przed jego zatwierdzeniem?",
+      "answers": {
+        "A": "Celem zatwierdzenia przez Dyrektorów Zakładów współpracujących",
+        "B": "Celem sprawdzenia i ewentualnej korekty",
+        "C": "Celem przekazania do Biura Eksploatacji w Centrali PKP PLK S.A.",
+        "D": "Celem powiadomienia pracowników o nowym wydaniu"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 3 ust. 4",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "9324222f-70b3-4339-870d-b5fece5ceb9e",
+      "question": "Na ile dni przed terminem obowiązywania należy przesłać końcową wersję Dodatku 1 do Biura Eksploatacji?",
+      "answers": {
+        "A": "Minimum na 7 dni",
+        "B": "Minimum na 30 dni",
+        "C": "Minimum na 14 dni",
+        "D": "Minimum na 21 dni"
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 3 ust. 5",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "6f945c9a-3cee-442f-8341-3936513b9120",
+      "question": "W jakim formacie należy przesłać końcową wersję Dodatku 1 do Biura Eksploatacji?",
+      "answers": {
+        "A": "W wersji elektronicznej edytowalnej (format Microsoft Word)",
+        "B": "W wersji papierowej zatwierdzonej przez Dyrektora",
+        "C": "W wersji elektronicznej nieedytowalnej (format PDF)",
+        "D": "W wersji elektronicznej edytowalnej (format Microsoft Excel)"
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 3 ust. 5",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "13094ba9-62b9-4bee-be01-19c0a0847793",
+      "question": "Od jakiego numeru porządkowego należy rozpoczynać numerację zmian do Dodatku 1?",
+      "answers": {
+        "A": "Od numeru 0",
+        "B": "Od numeru 1",
+        "C": "Od numeru wynikającego z poprzedniego wydania",
+        "D": "Od numeru ustalonego przez wyznaczony Zakład"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 3 ust. 8",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "86464c9e-6ef9-46bd-87ba-fb475e708a60",
+      "question": "W jaki sposób należy przesyłać pisemne zarządzenia o wprowadzeniu zmiany do Dodatku 1?",
+      "answers": {
+        "A": "Pocztą tradycyjną do wszystkich zainteresowanych jednostek organizacyjnych",
+        "B": "Pocztą elektroniczną do wszystkich zainteresowanych jednostek organizacyjnych",
+        "C": "Faksem do Dyrektorów Zakładów współpracujących",
+        "D": "Przez publikację w wewnętrznym systemie informatycznym PKP PLK S.A."
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 3 ust. 9",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "46e46047-d08d-4692-b80e-e3400b9af8ce",
+      "question": "Do kiedy jednostki organizacyjne muszą zgłosić zamówienia na doręczanie zarządzeń o zmianach do Dodatku 1?",
+      "answers": {
+        "A": "Do 14 dni przed terminem ogłaszanym przez wyznaczony Zakład",
+        "B": "Do 30 dni przed terminem ogłaszanym przez wyznaczony Zakład",
+        "C": "Do 60 dni przed terminem ogłaszanym przez wyznaczony Zakład",
+        "D": "Do 7 dni przed terminem ogłaszanym przez wyznaczony Zakład"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 3 ust. 9",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "b4a8565e-1980-4c61-bef6-c6310e4c1360",
+      "question": "Jak należy udokumentować dokonanie zmian w treści Dodatku 1?",
+      "answers": {
+        "A": "Odpowiednim zapisem w tabeli \"Wykaz zmian\" oraz oznaczeniem numerem zmiany na każdej z poprawianych stron",
+        "B": "Sporządzeniem oddzielnego protokołu zmian przesyłanego do Biura Eksploatacji",
+        "C": "Wpisem do rejestru prowadzonego przez Dyrektora wyznaczonego Zakładu",
+        "D": "Odpowiednim zapisem w tabeli \"Wykaz zmian\" na stronie tytułowej Dodatku 1"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 3 ust. 10",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "1be290ca-2921-492b-be23-26fbd5bce702",
+      "question": "Czy zastosowanie elektronicznych narzędzi przy edycji Dodatku 1 zwalnia wskazane osoby z odpowiedzialności za jego prawidłowe sporządzenie?",
+      "answers": {
+        "A": "Tak, odpowiedzialność przechodzi na administratora systemu informatycznego",
+        "B": "Tak, odpowiedzialność przechodzi na Biuro Eksploatacji weryfikujące wersję końcową",
+        "C": "Nie, osoby wskazane w § 3 nadal ponoszą pełną odpowiedzialność",
+        "D": "Częściowo, odpowiedzialność jest dzielona między osobę sporządzającą a dostawcę narzędzia"
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 3 ust. 13",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "505b6e30-b0c8-4f12-8eee-433015051b6a",
+      "question": "Co stanowi Tablica 1 w Dodatku 1 do instrukcji Ir-23?",
+      "answers": {
+        "A": "Zbiór tabel dla wszystkich linii kolejowych ujętych w Wykazie linii Id-12, w których stacje wyznaczone do wydawania rozkazów pisemnych z ostrzeżeniami umieszczone są w kolejności zgodnej z kilometrażem linii",
+        "B": "Zbiór tabel dla wszystkich linii kolejowych ujętych w Wykazie linii Id-12, w których stacje wyznaczone do wydawania rozkazów pisemnych z ostrzeżeniami umieszczone są w kolejności alfabetycznej",
+        "C": "Wykaz dopuszczalnych długości pociągów towarowych wraz z czynnymi lokomotywami dla wszystkich linii kolejowych",
+        "D": "Wykaz posterunków ruchu, na których nie ma możliwości przekazania ostrzeżeń w formie komputerowego wydruku lub wersji cyfrowej rozkazu"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "a1085d27-f09f-4200-a2e2-9d35e4ff333b",
+      "question": "Jakie stacje są wyznaczone do wydawania ostrzeżeń?",
+      "answers": {
+        "A": "Stacje, na których pociągi zakańczają bieg lub opuszczają obszar zarządzany przez PKP PLK S.A.",
+        "B": "Stacje, na których pociągi rozpoczynają bieg lub wjeżdżają na obszar zarządzany przez PKP PLK S.A., oraz stacje wskazane w Tablicy 1",
+        "C": "Wyłącznie stacje wskazane w Tablicy 1 Dodatku 1",
+        "D": "Stacje, na których pociągi rozpoczynają bieg lub wjeżdżają na obszar zarządzany przez PKP PLK S.A., pod warunkiem posiadania systemu SERWO2"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "62729a21-7dad-40bb-8dd7-a455d3b2e2da",
+      "question": "W jakiej formie stacje początkowe wydają ostrzeżenia na całą trasę pociągu?",
+      "answers": {
+        "A": "Wyłącznie w formie pisemnej przekazywanej maszyniście przed odjazdem",
+        "B": "W formie ustnej przekazywanej przez dyżurnego ruchu",
+        "C": "W formie komputerowego wydruku lub wersji cyfrowej rozkazu",
+        "D": "W formie telefonicznej lub radiowej, w zależności od wyposażenia stacji"
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 5 ust. 2 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "5cc098ac-a64f-4f81-b526-fafd34000b48",
+      "question": "Co należy zrobić, gdy pociąg uruchamiany jest w stacji, w której nie ma możliwości doręczenia ostrzeżeń na całą trasę?",
+      "answers": {
+        "A": "Pociąg nie może być uruchomiony do czasu zapewnienia możliwości doręczenia ostrzeżeń",
+        "B": "W regulaminie technicznym należy wskazać stację wydającą ostrzeżenia",
+        "C": "Ostrzeżenia wydaje dyspozytornia zakładowa na podstawie zgłoszenia stacji",
+        "D": "W regulaminie technicznym należy wskazać stację, na której pociąg zostanie zatrzymany w celu uzupełnienia ostrzeżeń"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 2 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "8c3877ea-7b35-4f9f-b291-840747663492",
+      "question": "Na jak długą trasę zasadniczo wydawane są ostrzeżenia?",
+      "answers": {
+        "A": "Na odcinek do pierwszej stacji technicznej na trasie pociągu",
+        "B": "Na całą trasę pociągu",
+        "C": "Na odcinek wskazany przez dyspozytora zakładowego",
+        "D": "Na odcinek do najbliższej stacji wyznaczonej w Tablicy 1"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 3",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "2548f410-3832-4bcf-a604-062fa9577456",
+      "question": "Jakie stacje umieszcza sie w kolumnie 1 Tablicy 1?",
+      "answers": {
+        "A": "Stacje wyznaczone ze względu na brak możliwości doręczenia ostrzeżeń w formie komputerowego wydruku lub wersji cyfrowej rozkazu na stacji wyprawienia pociągu, oraz stacje wydające ostrzeżenia dla jazd pociągów tam i z powrotem",
+        "B": "Wyłącznie stacje wyznaczone ze względu na brak możliwości doręczenia ostrzeżeń na stacji wyprawienia pociągu",
+        "C": "Stacje graniczne obszaru zarządzanego przez PKP PLK S.A.",
+        "D": "Stacje, na których pociągi zatrzymują się w celu uzupełnienia składu lub wymiany lokomotywy"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 5 pkt 1 i 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "ffe29e8f-2e1a-4a6e-9255-1184c10a2f2f",
+      "question": "Co wskazuje się w kolumnach 2 i 3 Tablicy 1?",
+      "answers": {
+        "A": "Stacje, na których obowiązuje zakaz wydawania ostrzeżeń dla pociągów towarowych",
+        "B": "O ile to konieczne, stacje końca odcinka odpowiednio dla pociągów pasażerskich i towarowych",
+        "C": "Numery torów, na których obowiązują ostrzeżenia odpowiednio dla pociągów pasażerskich i towarowych",
+        "D": "Numery rozkazów pisemnych dla pociągów pasażerskich i towarowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "9fd5b30f-de61-45a4-9c30-cf1dbe84030d",
+      "question": "Jakie informacje zamieszcza sie w kolumnie 4 Tablicy 1?",
+      "answers": {
+        "A": "Informacje o posterunkach ruchu, na których nie ma możliwości przekazania ostrzeżeń w formie komputerowego wydruku lub wersji cyfrowej rozkazu",
+        "B": "Informacje o stacjach końca odcinka dla pociągów pasażerskich",
+        "C": "Informacje o numerach telefonów do dyspozytorów zakładowych na danym odcinku",
+        "D": "Informacje o typach ostrzeżeń obowiązujących na poszczególnych posterunkach ruchu"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 6",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "5fc58d77-8b5b-461b-a9de-ffa5436e4fad",
+      "question": "Co oznacza symbol \"TP\" umieszczony przy stacji końca odcinka w Tablicy 1?",
+      "answers": {
+        "A": "Stacja, do której stacja wyznaczona wydaje ostrzeżenia wyłącznie dla pociągów towarowych",
+        "B": "Stacja, do której stacja wyznaczona wydaje ostrzeżenia dla jazdy tam i z powrotem",
+        "C": "Stacja, do której stacja wyznaczona wydaje ostrzeżenia wyłącznie dla pociągów pasażerskich",
+        "D": "Stacja tymczasowa, na której obowiązuje ograniczenie prędkości"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 10 i ust. 15",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "83e2eff3-12e6-4ea4-a9df-7be742af2b96",
+      "question": "Kiedy stację końca odcinka należy oznaczyć symbolem \"TP\" w Tablicy 1?",
+      "answers": {
+        "A": "Gdy stacja wyznaczona ma wydawać ostrzeżenia na dany odcinek wyłącznie dla pociągów towarowych",
+        "B": "Gdy stacja wyznaczona ma wydawać ostrzeżenia na dany odcinek dla jazdy tam i z powrotem",
+        "C": "Gdy stacja końca odcinka jest stacją tymczasową lub jest czasowo wyłączona z eksploatacji",
+        "D": "Gdy stacja wyznaczona ma wydawać ostrzeżenia na dany odcinek wyłącznie dla pociągów pasażerskich"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 10",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "b31d8e8c-ad1e-4122-ad5f-14b788db698d",
+      "question": "Do kogo obligatoryjnie w odpisie przesyłane jest każde zawiadomienie wprowadzające, korygujące i odwołujące ostrzeżenie doraźne związane z poleceniem zmniejszenia prędkości lub ostrożnej jazdy?",
+      "answers": {
+        "A": "Do wyznaczonego stanowiska IZRS Poznań, dyspozytora zakładowego i komórki obsługującej bazę ograniczeń POSEOR we własnym Zakładzie oraz do Sekcji Eksploatacji, której podlega stacja nadająca zawiadomienie",
+        "B": "Wyłącznie do dyspozytora zakładowego i Sekcji Eksploatacji nadzorującej stację nadającą zawiadomienie",
+        "C": "Do centralnej książki ostrzeżeń, dyspozytora zakładowego i właściwego Zakładu Linii Kolejowych",
+        "D": "Do wyznaczonego stanowiska IZRS Poznań i komórki obsługującej bazę ograniczeń POSEOR we własnym Zakładzie"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 13",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "0f1236c4-385f-47ae-8630-e54aec732420",
+      "question": "Kiedy zawiadomienie o ostrzeżeniu doraźnym (polecenie zmniejszenia prędkości lub ostrożnej jazdy) nie jest wymagane?",
+      "answers": {
+        "A": "Gdy ostrzeżenie dotyczy odcinka krótszego niż 1000 m i nie wpływa na rozkład jazdy",
+        "B": "Gdy czynności te następują samoczynnie w ramach funkcjonalności SERWO2 lub wyznaczone stanowiska mają zapewniony wgląd do centralnej książki ostrzeżeń",
+        "C": "Gdy ostrzeżenie jest wydawane przez stację poczatkową na całą trasę pociągu",
+        "D": "Gdy dyspozytornia zakładowa posiada własne systemy monitorowania ograniczeń prędkości"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 13",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "ca98b7f9-201b-4cf8-9274-d8b356e98311",
+      "question": "W jaki sposob w Tablicy 1 umieszczone są kolejne stacje wyznaczone do wydawania rozkazów pisemnych zawierających ostrzeżenia?",
+      "answers": {
+        "A": "W kolejności alfabetycznej nazw stacji",
+        "B": "W kolejności zgodnej z kilometrażem linii",
+        "C": "W kolejności według numerów posterunków ruchu przyznanych przez PKP PLK S.A.",
+        "D": "W kolejności według daty wyznaczenia stacji do wydawania ostrzeżeń"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "2c0abc90-5343-4b17-b7d0-5f3505cb5984",
+      "question": "Co należy wskazać dla stacji wyznaczonych w Tablicy 1, jeśli jest to konieczne?",
+      "answers": {
+        "A": "Numery telefonów kontaktowych do dyżurnych ruchu na danej stacji",
+        "B": "Odcinki tras, na które stacja wydaje ostrzeżenia",
+        "C": "Rodzaje ostrzeżeń, do których wydawania stacja jest uprawniona",
+        "D": "Godziny, w których stacja jest wyznaczona do wydawania ostrzeżeń"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 3",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "9253ef52-9018-4c57-b2e2-c76f0fb229cf",
+      "question": "Co stanowi TABLICA 1 w Dodatku 1 do Ir-23?",
+      "answers": {
+        "A": "Zbiór tabel dla wszystkich linii kolejowych ujętych w Wykazie linii Id-12, z kolejnymi stacjami wyznaczonymi do wydawania rozkazów w kolejności zgodnej z kilometrażem linii",
+        "B": "Wykaz dopuszczalnych długości pociągów towarowych wraz z czynnymi lokomotywami dla wszystkich linii kolejowych",
+        "C": "Wykaz pochyleń miarodajnych do obliczania masy hamującej w pociągach na odcinkach linii",
+        "D": "Wykaz linii przystosowanych do prowadzenia ruchu pociągów z wykorzystaniem systemu ERTMS/ETCS"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "98ee3cd0-edd6-46fb-96be-2000bc2ef724",
+      "question": "Jak w TABLICY 1 rozmieszczone są kolejne stacje wyznaczone do wydawania rozkazów pisemnych zawierających ostrzeżenia?",
+      "answers": {
+        "A": "W kolejności alfabetycznej nazw stacji",
+        "B": "W kolejności zgodnej z kilometrażem linii",
+        "C": "W kolejności rosnącego znaczenia stacji dla rozkładu jazdy",
+        "D": "W kolejności numerów linii kolejowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "2efd110b-bc4e-41b2-853f-f6f16ce292d4",
+      "question": "Jaką formę mają ostrzeżenia wydawane przez stacje początkowe dla pociągów rozpoczynających bieg?",
+      "answers": {
+        "A": "Wyłącznie w formie ustnej przekazywanej maszyniście",
+        "B": "W formie komputerowego wydruku lub wersji cyfrowej rozkazu",
+        "C": "W formie ręcznie wypełnionego rozkazu szczegółowego",
+        "D": "Wyłącznie w formie radiowego komunikatu dyżurnego ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 2 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "16b6b4b5-33d8-4130-9bae-d208378b73b4",
+      "question": "Jakie ostrzeżenia wydają stacje, na których pociągi rozpoczynają bieg lub wjeżdżają na obszar zarządzany przez PKP PLK S.A.?",
+      "answers": {
+        "A": "Ostrzeżenia na odcinek do pierwszej stacji wyznaczonej w TABLICY 1",
+        "B": "Ostrzeżenia wyłącznie na odcinek w granicach danego zakładu linii kolejowych",
+        "C": "Ostrzeżenia na całą trasę pociągu",
+        "D": "Ostrzeżenia na odcinek do stacji, gdzie pociąg wykonuje pierwszy postój handlowy"
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 5 ust. 2 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "d44d7aad-6677-4e59-98f8-7a2e32de3c97",
+      "question": "Co należy zrobić, jeśli pociąg uruchamiany jest w stacji, na której nie ma możliwości doręczenia ostrzeżeń na całą trasę pociągu?",
+      "answers": {
+        "A": "Pociąg może odjechać bez ostrzeżeń, a stacja kolejna przejmuje obowiązek ich doręczenia",
+        "B": "W regulaminie technicznym należy wskazać stację wydającą ostrzeżenia",
+        "C": "Należy opóźnić odjazd pociągu do czasu zapewnienia możliwości doręczenia ostrzeżeń",
+        "D": "Ostrzeżenia przekazuje się maszyniście telefonicznie przez dyżurnego ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 2 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "6040de26-9058-48cb-b7fb-21565c4cbfa6",
+      "question": "Na jaki zakres trasy zasadniczo wydawane są ostrzeżenia dla pociągu?",
+      "answers": {
+        "A": "Na odcinek od stacji wyprawienia do pierwszej stacji węzłowej",
+        "B": "Na odcinek wyznaczony indywidualnie w regulaminie technicznym każdej stacji",
+        "C": "Na całą trasę pociągu",
+        "D": "Na odcinek w granicach jednego zakładu linii kolejowych"
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 5 ust. 3",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "3b1c89df-8d82-47c4-a49e-65cfd99772b6",
+      "question": "Kiedy dla stacji wyznaczonych w TABLICY 1 należy wskazać odcinki tras, na które stacja wydaje ostrzeżenia?",
+      "answers": {
+        "A": "Zawsze, bez wyjatku, dla każdej stacji wyznaczonej",
+        "B": "Tylko dla stacji węzłowych obsługujących pociągi z kilku kierunków",
+        "C": "O ile to konieczne",
+        "D": "Wyłącznie na wniosek przewoznika kolejowego złożony do zarządcy infrastruktury"
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 5 ust. 3",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "e3d4bf6d-625d-41dd-baca-1e1d0bafc497",
+      "question": "Jakie stacje umieszcza sie w kolumnie 1 TABLICY 1?",
+      "answers": {
+        "A": "Stacje, na których kończy sie bieg pociagów pasażerskich i towarowych",
+        "B": "Stacje wyznaczone ze względu na brak możliwości doręczenia ostrzeżeń w formie komputerowego wydruku lub wersji cyfrowej rozkazu na stacji wyprawienia pociągu, oraz stacje wydające ostrzeżenia dla jazd pociągów tam i z powrotem",
+        "C": "Wyłącznie stacje węzłowe na których krzyżują się co najmniej trzy linie kolejowe",
+        "D": "Stacje będące siedzibami zakładów linii kolejowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "ee34731c-75f7-4cd6-9488-6f1082285ccb",
+      "question": "Co wskazuje sie w kolumnach 2 i 3 TABLICY 1?",
+      "answers": {
+        "A": "Numery telefonów kontaktowych do dyżurnych ruchu na stacjach pośrednich",
+        "B": "Stacje końca odcinka odpowiednio dla pociągów pasażerskich i towarowych (o ile to konieczne)",
+        "C": "Odległości w kilometrach do stacji sąsiadujących w kierunku nieparzystym i parzystym",
+        "D": "Nazwy zakładów linii kolejowych zarządzających danym odcinkiem"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "fe653333-0f07-4d03-8847-938654d94392",
+      "question": "Jakie informacje zamieszcza sie w kolumnie 4 TABLICY 1?",
+      "answers": {
+        "A": "Numery rozkazów pisemnych wydanych w danym miesiącu",
+        "B": "Daty ostatnich aktualizacji danych dla poszczególnych stacji",
+        "C": "Informacje o posterunkach ruchu, na których nie ma możliwości przekazania ostrzeżeń w formie komputerowego wydruku lub wersji cyfrowej rozkazu",
+        "D": "Maksymalne prędkości pociągów na odcinkach objętych ostrzeżeniami"
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 5 ust. 6",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "262102c1-ad77-40ed-a4e9-107d77c3e348",
+      "question": "Co oznacza symbol \"TP\" umieszczony przy stacji końca odcinka w TABLICY 1?",
+      "answers": {
+        "A": "Stację, na której pociąg obowiązkowo wykonuje postój techniczny",
+        "B": "Stację do której stacja wyznaczona wydaje ostrzeżenia dla jazdy tam i z powrotem",
+        "C": "Stację posiadającą terminal przeładunkowy do obsługi pociągów towarowych",
+        "D": "Stację, w której funkcjonuje punkt telefonicznego przekazywania ostrzeżeń"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 10",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "51e27052-dfc5-46ee-8932-aaa5004431b2",
+      "question": "Komu należy obligatoryjnie w odpisie przesyłać każde zawiadomienie wprowadzające, korygujące i odwołujące ostrzeżenie doraźne związane z poleceniem zmniejszenia prędkości lub ostrożnej jazdy?",
+      "answers": {
+        "A": "Wyłącznie do dyspozytora zakładowego i właściwego urzędu transportu kolejowego",
+        "B": "Do wyznaczonego stanowiska IZRS Poznań, dyspozytora zakładowego, komórki obsługującej bazę POSEOR oraz do Sekcji Eksploatacji, której podlega stacja nadająca zawiadomienie",
+        "C": "Do centrum zarządzania ruchem, dyspozytora zakładowego i maszynisty prowadzącego pociąg",
+        "D": "Wyłącznie do wyznaczonego stanowiska IZRS Poznań i Sekcji Eksploatacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 13",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "08bfcdc7-4ab2-4cc8-bcf0-1900b50c944e",
+      "question": "W jakim przypadku zawiadomienie o ostrzeżeniu doraźnym związanym ze zmniejszeniem prędkości nie jest wymagane?",
+      "answers": {
+        "A": "Gdy ostrzeżenie dotyczy odcinka krótszego niż 500 metrów",
+        "B": "Gdy czynności te następują samoczynnie w ramach funkcjonalności SERWO2 lub wyznaczone stanowiska mają zapewniony wgląd do centralnej książki ostrzeżeń",
+        "C": "Gdy polecenie zmniejszenia prędkości dotyczy wyłącznie pociągów pasażerskich",
+        "D": "Gdy ostrzeżenie obowiązuje krócej niż 24 godziny"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 13",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "3795bcca-13e5-48cd-b48d-7d59d78b8344",
+      "question": "Jakie są dwa rodzaje stacji wyznaczonych do wydawania ostrzeżeń wymienione w przepisach o TABLICY 1?",
+      "answers": {
+        "A": "Stacje węzłowe oraz stacje graniczne z obszarami zarządzanymi przez innych zarządców infrastruktury",
+        "B": "Stacje, na których pociągi rozpoczynają bieg lub wjeżdżają na obszar zarządzany przez PKP PLK S.A., oraz stacje wskazane w TABLICY 1",
+        "C": "Stacje dysponujące systemem SERWO2 oraz stacje wyposażone w cyfrową łączność GSM-R",
+        "D": "Stacje z regulaminem technicznym zatwierdzonym przez prezesa UTK oraz stacje z regulaminem zatwierdzonym przez zakład linii kolejowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "80c46c67-0f41-435a-b25b-ba5af86f42bd",
+      "question": "Co stanowi Tablica 1 w kontekście linii kolejowych ujętych w Wykazie linii Id-12?",
+      "answers": {
+        "A": "Zbiór tabel dla wszystkich linii kolejowych, w których kolejne stacje wyznaczone do wydawania rozkazow pisemnych zawierających ostrzeżenia umieszczone są w kolejności zgodnej z kilometrażem linii",
+        "B": "Zbiór tabel dla wszystkich linii kolejowych, w których stacje wyznaczone do wydawania rozkazów pisemnych zawierających ostrzeżenia umieszczone są w porządku alfabetycznym",
+        "C": "Zbiór tabel dla wybranych linii kolejowych, w których stacje wyznaczone do wydawania ostrzeżeń umieszczone są według kolejności numerów stacji",
+        "D": "Wykaz stacji wyznaczonych do wydawania ostrzeżeń wyłącznie dla pociągów pasażerskich na liniach objętych rozkładem jazdy"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "816aa850-f310-444d-a595-868d476c472e",
+      "question": "Które stacje są wyznaczone do wydawania ostrzeżeń jako stacje początkowe?",
+      "answers": {
+        "A": "Stacje, na których pociągi kończą bieg lub wyjeżdżają poza obszar zarządzany przez PKP PLK S.A.",
+        "B": "Stacje, na których pociągi rozpoczynają bieg lub wjeżdżają na obszar zarządzany przez PKP PLK S.A.",
+        "C": "Stacje wskazane wyłącznie w regulaminie technicznym jako miejsca wydawania rozkazów pisemnych",
+        "D": "Stacje, na których pociągi wykonują postój techniczny i zmianę trakcji"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 2 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "e3d4c1cc-f76a-4bb5-a6cc-52a072fce342",
+      "question": "Jakie ostrzeżenia wydają stacje początkowe?",
+      "answers": {
+        "A": "Ostrzeżenia na odcinek od stacji początkowej do pierwszej stacji wyznaczonej w Tablicy 1",
+        "B": "Ostrzeżenia wyłącznie dla pierwszego odcinka trasy pociągu aż do stacji węzłowej",
+        "C": "Ostrzeżenia na całą trasę pociągu w formie komputerowego wydruku lub wersji cyfrowej rozkazu",
+        "D": "Ostrzeżenia na trasę pociągu do momentu wyjazdu poza obszar zarządzany przez PKP PLK S.A."
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 5 ust. 2 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "0222f0bd-9de7-4cd7-94c5-0d411b6843ec",
+      "question": "Co należy zrobić w przypadku uruchomienia pociągu w stacji, na której nie ma możliwości doręczenia ostrzeżeń na całą trasę pociągu?",
+      "answers": {
+        "A": "Pociąg może wyruszyć bez ostrzeżeń, a ostrzeżenia zostaną doręczone na pierwszej stacji postoju",
+        "B": "W regulaminie technicznym należy wskazać stację wydającą ostrzeżenia",
+        "C": "Dyżurny ruchu przekazuje ostrzeżenia telefonicznie maszyniście przed odjazdem pociągu",
+        "D": "Ostrzeżenia należy nadać drogą radiową w trakcie jazdy pociągu na danym odcinku"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 2 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "881a3864-be58-4bd2-ae4a-ddba0bf9237a",
+      "question": "Na jak długi odcinek trasy zasadniczo wydawane są ostrzeżenia?",
+      "answers": {
+        "A": "Na odcinek od stacji wydającej ostrzeżenia do następnej stacji wyznaczonej w Tablicy 1",
+        "B": "Na całą trasę pociągu",
+        "C": "Na odcinek od stacji wyprawienia do stacji węzłowej lub zmiany trakcji",
+        "D": "Na odcinek objęty danym rozkładem jazdy w ramach jednej linii kolejowej"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 3",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "4e6a636e-8c7b-49ac-8241-b45e5b784ab7",
+      "question": "Jakie stacje umieszcza się w kolumnie 1 Tablicy 1?",
+      "answers": {
+        "A": "Stacje, na których pociągi wjeżdżają na obszar zarządzany przez PKP PLK S.A. oraz stacje węzłowe",
+        "B": "Stacje wyznaczone ze względu na brak możliwości doręczenia ostrzeżeń na stacji wyprawienia pociągu oraz stacje wydające ostrzeżenia dla jazd tam i z powrotem",
+        "C": "Stacje wyznaczone do wydawania ostrzeżeń wyłącznie dla pociągów towarowych na liniach jednotorowych",
+        "D": "Stacje wyznaczone do wydawania ostrzeżeń dla odcinków o ograniczonej prędkości lub szczególnych warunkach prowadzenia ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "1dbe451e-c467-4904-ba7f-f32b862cbf15",
+      "question": "Co należy wskazać w kolumnach 2 i 3 Tablicy 1?",
+      "answers": {
+        "A": "Stacje końca odcinka odpowiednio dla pociągów pasażerskich i towarowych, o ile to konieczne",
+        "B": "Numery linii kolejowych oraz kilometraż odcinków objętych ostrzeżeniami",
+        "C": "Posterunki ruchu, na których nie ma możliwości przekazania ostrzeżeń w formie komputerowego wydruku lub wersji cyfrowej rozkazu",
+        "D": "Stacje początku i końca odcinka dla jazdy tam i z powrotem"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "5f3efdb7-7b36-493f-85e3-a2b211ab8be2",
+      "question": "Jakie informacje zamieszcza się w kolumnie 4 Tablicy 1?",
+      "answers": {
+        "A": "Stacje końca odcinka dla pociągów pasażerskich i towarowych",
+        "B": "Informacje o posterunkach ruchu, na których nie ma możliwości przekazania ostrzeżeń w formie komputerowego wydruku lub wersji cyfrowej rozkazu",
+        "C": "Numery zarządzen o wprowadzeniu zmiany w Tablicy 1 oraz daty ich obowiązywania",
+        "D": "Przyczyny wyznaczenia stacji do wydawania ostrzeżeń oraz podstawy prawne tego wyznaczenia"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 6",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "67acefde-755c-4ea8-972b-0c550e358c48",
+      "question": "Co oznacza symbol \"TP\" w Tablicy 1?",
+      "answers": {
+        "A": "Stacja, z której wydawane są ostrzeżenia wyłącznie dla pociągów towarowych na danym odcinku",
+        "B": "Stacja, do której stacja wyznaczona wydaje ostrzeżenia dla jazdy tam i z powrotem",
+        "C": "Stacja tymczasowego postoju, na której możliwe jest doręczanie ostrzeżeń w wyjątkowych sytuacjach",
+        "D": "Stacja, na której pociąg zmienia kierunek jazdy i wymaga ponownego wydania ostrzeżeń"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 15",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "1f3e0883-d7b4-4fa7-96f0-835420a21390",
+      "question": "Kiedy stację końca odcinka w Tablicy 1 należy oznaczyć symbolem \"TP\"?",
+      "answers": {
+        "A": "Jeżeli stacja wyznaczona ma wydawać ostrzeżenia na dany odcinek wyłącznie dla pociągów towarowych",
+        "B": "Jeżeli stacja wyznaczona ma wydawać ostrzeżenia na dany odcinek dla jazdy tam i z powrotem",
+        "C": "Jeżeli stacja wyznaczona wydaje ostrzeżenia dla odcinka, na którym obowiązuje tymczasowe ograniczenie prędkości",
+        "D": "Jeżeli stacja wyznaczona jest jednocześnie stacją początkową i końcową dla danego odcinka linii"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 10",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "e06f9528-a1d3-4102-8926-b7aba6f9f729",
+      "question": "Do kogo obligatoryjnie w odpisie przesyła się każde zawiadomienie wprowadzające, korygujące i odwołujące ostrzeżenie doraźne związane z poleceniem zmniejszenia prędkości lub ostrożnej jazdy?",
+      "answers": {
+        "A": "Do wyznaczonego stanowiska IZRS Poznań, dyspozytora zakładowego, komórki organizacyjnej obsługującej bazę ograniczeń (POSEOR) oraz Sekcji Eksploatacji, której podlega stacja nadająca zawiadomienie",
+        "B": "Do wyznaczonego stanowiska IZRS Poznań, dyspozytora zakładowego oraz maszynisty prowadzącego pociąg na danym odcinku",
+        "C": "Do dyspozytora zakładowego, Sekcji Eksploatacji oraz wszystkich stacji wyznaczonych w Tablicy 1 na danym odcinku",
+        "D": "Do wyznaczonego stanowiska IZRS Warszawa, dyspozytora liniowego i komórki organizacyjnej zarządzającej rozkładem jazdy"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 13",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "b46fc65d-a02f-49bd-a9a7-a46f51c488e7",
+      "question": "W jakim przypadku zawiadomienie o ostrzeżeniu doraźnym nie jest wymagane?",
+      "answers": {
+        "A": "Jeżeli ostrzeżenie dotyczy odcinka krótszego niż 5 km i nie wpływa na czas jazdy pociągu",
+        "B": "Jeżeli czynności te następują samoczynnie w ramach funkcjonalności SERWO2 lub wyznaczone stanowiska mają zapewniony wgląd do centralnej książki ostrzeżeń",
+        "C": "Jeżeli ostrzeżenie jest wydawane wyłącznie dla pociągów towarowych i nie dotyczy pociągów pasażerskich",
+        "D": "Jeżeli zawiadomienie zostało przekazane telefonicznie do wszystkich zainteresowanych stanowisk przed wejściem w życie ostrzeżenia"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 13",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "dab6396c-8b2e-421c-9a11-b462325e92d6",
+      "question": "Jakie są dwie kategorie stacji wyznaczonych do wydawania ostrzeżeń?",
+      "answers": {
+        "A": "Stacje na szlakach jednotorowych oraz stacje na szlakach dwutorowych i wielotorowych",
+        "B": "Stacje, na których pociągi rozpoczynają bieg lub wjeżdżają na obszar PKP PLK S.A., oraz stacje wskazane w Tablicy 1",
+        "C": "Stacje wyznaczone do wydawania ostrzeżeń dla pociągów pasażerskich oraz stacje wyznaczone wyłącznie dla pociągów towarowych",
+        "D": "Stacje poczatkowe i stacje końcowe linii kolejowych ujętych w Wykazie linii Id-12"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "27e4abb0-0f0b-44be-86e2-f7f3e79942f4",
+      "question": "Co stanowi TABLICA 1 w Dodatku 1 do instrukcji Ir-23?",
+      "answers": {
+        "A": "Zbiór tabel dla wszystkich linii kolejowych ujętych w Wykazie linii Id-12, w których stacje wyznaczone do wydawania rozkazów pisemnych zawierających ostrzeżenia umieszczone są w kolejności zgodnej z kilometrażem linii.",
+        "B": "Zbiór tabel dopuszczalnych długości pociągów towarowych dla wszystkich linii kolejowych ujętych w Wykazie linii Id-12.",
+        "C": "Wykaz pochyleń miarodajnych do obliczania masy hamującej w pociągach na odcinkach linii kolejowych.",
+        "D": "Wykaz posterunków ruchu, na których nie ma możliwości przekazania ostrzeżeń w formie komputerowego wydruku lub wersji cyfrowej rozkazu."
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "ada99664-941b-4da2-b00a-c8047370b727",
+      "question": "Które stacje są wyznaczone do wydawania ostrzeżeń?",
+      "answers": {
+        "A": "Wyłącznie stacje, na których pociągi kończą bieg lub opuszczają obszar zarządzany przez PKP PLK S.A.",
+        "B": "Stacje, na których pociągi rozpoczynają bieg lub wjeżdżają na obszar zarządzany przez PKP PLK S.A., oraz stacje wskazane w Tablicy 1.",
+        "C": "Tylko stacje wskazane w Tablicy 1 jako posiadające urządzenia SERWO2.",
+        "D": "Stacje, na których pociągi rozpoczynają bieg lub wjeżdżają na obszar zarządzany przez PKP PLK S.A., z wyłączeniem stacji wskazanych w Tablicy 1."
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 2 pkt 1 i 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "c3abefef-1449-44aa-a797-3b4d887a1cfc",
+      "question": "Jakie ostrzeżenia wydają stacje początkowe?",
+      "answers": {
+        "A": "Ostrzeżenia wyłącznie dla odcinka od stacji początkowej do pierwszej stacji wyznaczonej w Tablicy 1.",
+        "B": "Ostrzeżenia na odcinki wskazane przez regulamin techniczny, niezależnie od trasy pociągu.",
+        "C": "Ostrzeżenia na całą trasę pociągu w formie komputerowego wydruku lub wersji cyfrowej rozkazu.",
+        "D": "Ostrzeżenia na całą trasę pociągu wyłącznie w formie papierowej."
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 5 ust. 2 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "6e4f3a8f-9097-44e0-a91c-fa73993de388",
+      "question": "Co należy zrobić, gdy pociąg uruchamiany jest w stacji, na której nie ma możliwości doręczenia ostrzeżeń na całą trasę pociągu?",
+      "answers": {
+        "A": "Pociąg nie może zostać uruchomiony do czasu zapewnienia możliwości doręczenia ostrzeżeń.",
+        "B": "W regulaminie technicznym należy wskazać stację wydającą ostrzeżenia.",
+        "C": "Ostrzeżenia wydaje najbliższa stacja wyznaczona w Tablicy 1.",
+        "D": "Maszynista obowiązany jest odebrać ostrzeżenia na pierwszym posterunku ruchu po stacji uruchomienia."
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 2 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "f53c73b2-58a1-4048-bcc4-f556b3252e95",
+      "question": "Na jaki zakres trasy zasadniczo wydawane są ostrzeżenia?",
+      "answers": {
+        "A": "Na odcinek wskazany w Tablicy 1 dla danej stacji.",
+        "B": "Na odcinek od stacji wydającej do pierwszej stacji wyznaczonej w Tablicy 1.",
+        "C": "Na całą trasę pociągu.",
+        "D": "Na odcinek od stacji wydającej do stacji końcowej linii kolejowej."
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 5 ust. 3",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "e83665cc-c216-40ab-aef6-6d58978518c2",
+      "question": "W jakim przypadku dla stacji wyznaczonych w Tablicy 1 należy wskazywac odcinki tras?",
+      "answers": {
+        "A": "Zawsze, niezależnie od rodzaju pociągu.",
+        "B": "Tylko dla pociągów towarowych.",
+        "C": "O ile to konieczne.",
+        "D": "Tylko gdy stacja obsługuje jazdy tam i z powrotem."
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 5 ust. 3",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "6f510ca6-4b38-488c-ab65-130ad9cc7c46",
+      "question": "Jakie stacje umieszcza sie w kolumnie 1 Tablicy 1?",
+      "answers": {
+        "A": "Stacje, na których pociagi kończą bieg na danej linii kolejowej.",
+        "B": "Stacje wyznaczone do wydawania ostrzeżeń ze względu na brak możliwości doręczenia ostrzeżeń w formie komputerowego wydruku lub wersji cyfrowej rozkazu na stacji wyprawienia pociągu, oraz stacje wydające ostrzeżenia dla jazd pociągów tam i z powrotem.",
+        "C": "Wyłącznie posterunki ruchu wyposażone w system SERWO2.",
+        "D": "Stacje wyznaczone do wydawania ostrzeżeń wyłącznie dla pociągów pasażerskich."
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 5 pkt 1 i 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "5827d097-ac01-4214-bcc3-9b45fbd565e8",
+      "question": "Co należy wskazać w kolumnach 2 i 3 Tablicy 1?",
+      "answers": {
+        "A": "Numery tras pociągów pasażerskich i towarowych obsługiwanych przez stację.",
+        "B": "Stacje końca odcinka odpowiednio dla pociągów pasażerskich i towarowych, o ile to konieczne.",
+        "C": "Posterunki ruchu, na których nie ma możliwości przekazania ostrzeżeń w formie komputerowego wydruku lub wersji cyfrowej rozkazu.",
+        "D": "Stacje, z których pociągi wjeżdżają na obszar zarządzany przez PKP PLK S.A."
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "64097b7f-23d0-4baa-8d4a-5d68746d8461",
+      "question": "Co należy zamieszczac w kolumnie 4 Tablicy 1?",
+      "answers": {
+        "A": "Informacje o lokomotywach czynnych na danym odcinku.",
+        "B": "Numery zarzadzeń wprowadzajacych zmiany w Tablicy 1.",
+        "C": "Informacje o posterunkach ruchu, na których nie ma możliwości przekazania ostrzeżeń w formie komputerowego wydruku lub wersji cyfrowej rozkazu.",
+        "D": "Stacje końca odcinka dla pociągów towarowych."
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 5 ust. 6",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "cc50ff18-eb4f-43e6-a561-a5df3807c4e9",
+      "question": "Co oznacza symbol \"TP\" przy nazwie stacji końca odcinka w Tablicy 1?",
+      "answers": {
+        "A": "Stacja, do której stacja wyznaczona wydaje ostrzeżenia wyłącznie dla pociągów towarowych.",
+        "B": "Stacja, do której stacja wyznaczona wydaje ostrzeżenia dla jazdy tam i z powrotem.",
+        "C": "Stacja, do której stacja wyznaczona wydaje ostrzeżenia wyłącznie dla pociągów pasażerskich.",
+        "D": "Stacja, na której nie ma możliwości przekazania ostrzeżeń w formie komputerowego wydruku."
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 10 i ust. 15",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "76b51582-f367-4479-af7f-7004a69b0226",
+      "question": "Kiedy należy oznaczyc stację końca odcinka symbolem \"TP\"?",
+      "answers": {
+        "A": "Gdy stacja wyznaczona ma wydawać ostrzeżenia na dany odcinek dla jazdy tam i z powrotem.",
+        "B": "Gdy stacja wyznaczona obsługuje wyłącznie pociągi towarowe i pasażerskie jednocześnie.",
+        "C": "Gdy na stacji wyznaczonej nie ma możliwości doręczenia ostrzeżeń w formie cyfrowej.",
+        "D": "Gdy stacja końca odcinka jest jednocześnie stacją początku innego odcinka ujętego w Tablicy 1."
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 10",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "b35e38ca-076a-42d2-96db-aa2e761bc88b",
+      "question": "Dokąd należy obligatoryjnie w odpisie przesyłać każde zawiadomienie wprowadzające, korygujące i odwołujące ostrzeżenie doraźne związane z poleceniem zmniejszenia prędkości lub ostrożnej jazdy?",
+      "answers": {
+        "A": "Do wyznaczonego stanowiska IZRS Poznań, dyspozytora zakładowego oraz komórki organizacyjnej obsługujacej bazę ograniczeń stałych i doraźnych POSEOR we własnym Zakładzie i do Sekcji Eksploatacji, której podlega stacja nadająca zawiadomienie.",
+        "B": "Do Centrum Zarządzania Ruchem, dyspozytora zakładowego oraz do Sekcji Eksploatacji, której podlega stacja nadająca zawiadomienie.",
+        "C": "Wyłącznie do dyspozytora zakładowego i komórki organizacyjnej obsługujacej bazę ograniczeń POSEOR.",
+        "D": "Do wyznaczonego stanowiska IZRS Warszawa, dyspozytora zakładowego i Sekcji Eksploatacji."
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 13",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "19ebdb38-ec4e-426f-9af4-22a080afdeff",
+      "question": "W jakich przypadkach zawiadomienie o ostrzeżeniu doraźnym nie jest wymagane?",
+      "answers": {
+        "A": "Gdy ostrzeżenie dotyczy odcinka krótszego niż 1 km.",
+        "B": "Gdy czynności następują samoczynnie w ramach funkcjonalności SERWO2 lub wyznaczone stanowiska mają zapewniony wgląd do centralnej książki ostrzeżeń.",
+        "C": "Gdy ostrzeżenie zostało już wpisane do regulaminu technicznego stacji.",
+        "D": "Gdy polecenie zmniejszenia prędkości nie wynika z niesprawności infrastruktury kolejowej."
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 13",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "b4c1cbc1-dfda-4260-a445-0b4a2062e36a",
+      "question": "Co stanowi TABLICA 1 w Dodatku 1 do Ir-23?",
+      "answers": {
+        "A": "Zbiór tabel dla wszystkich linii kolejowych ujętych w Wykazie linii Id-12, w których stacje wyznaczone do wydawania rozkazów pisemnych z ostrzezeniami umieszczone sa w kolejnosci zgodnej z kilometrazem",
+        "B": "Zbiór tabel dopuszczalnych dlugosci pociagów towarowych dla wszystkich linii kolejowych ujętych w Wykazie linii Id-12",
+        "C": "Wykaz pochylen miarodajnych do obliczania masy hamującej dla wszystkich linii kolejowych ujętych w Wykazie linii Id-12",
+        "D": "Wykaz procentowych norm do obliczania wymaganej masy hamującej dla wszystkich linii kolejowych ujętych w Wykazie linii Id-12"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "a84a1d6f-8d93-404b-80e0-d378ce101c21",
+      "question": "Jakiego rodzaju stacje sa wyznaczone do wydawania ostrzezen jako stacje poczatkowe?",
+      "answers": {
+        "A": "Stacje, na których pociagi konczą bieg lub opuszczają obszar zarządzany przez PKP PLK S.A.",
+        "B": "Stacje, na których pociagi rozpoczynają bieg lub wjezdzają na obszar zarządzany przez PKP PLK S.A.",
+        "C": "Stacje wskazane wyłącznie w Tablicy 1 dla kazdej linii oddzielnie",
+        "D": "Stacje lezące w połowie trasy pociagu, wyznaczone regulaminem technicznym"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 2 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "02a1a696-b697-4566-a1f2-fcd9e3572c9b",
+      "question": "Na jaki zakres trasy pociagu stacje poczatkowe wydają ostrzezenia w formie komputerowego wydruku lub wersji cyfrowej rozkazu?",
+      "answers": {
+        "A": "Na odcinek od stacji poczatkowej do najblizszej stacji wezlowej",
+        "B": "Na odcinek wskazany przez dyspozytora zakładowego",
+        "C": "Na całą trasę pociagu",
+        "D": "Na odcinek do pierwszej stacji postoju technicznego"
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 5 ust. 2 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "0037729a-1fe0-447a-b49a-523d4f054290",
+      "question": "Co nalezy zrobic w przypadku uruchomienia pociagu w stacji, na której nie ma mozliwosci doreczenia ostrzezen na całą trasę pociagu?",
+      "answers": {
+        "A": "W regulaminie technicznym nalezy wskazac stację wydajacą ostrzezenia",
+        "B": "Nalezy zrezygnowac z wydawania ostrzezen na tej trasie",
+        "C": "Nalezy przekazac ostrzezenia wyłącznie droga radiową przez maszynistę",
+        "D": "Nalezy wskazac stację wydajacą ostrzezenia w rozkazie szczególnym"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 2 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "9dc88cbe-8532-4624-96c2-69cf7d32f583",
+      "question": "Na jaki zakres trasy zasadniczo sa wydawane ostrzezenia?",
+      "answers": {
+        "A": "Na odcinek od stacji wydajacej do pierwszej stacji ze stałym dyzyrem",
+        "B": "Na całą trasę pociagu",
+        "C": "Na odcinek wskazany w rozkładzie jazdy dla danego pociagu",
+        "D": "Na odcinek od stacji wydajacej do najblizszego węzła kolejowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 3",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "2e3c9d26-641f-4da6-96a4-988634aff696",
+      "question": "Co umieszcza sie w kolumnie 1 TABLICY 1?",
+      "answers": {
+        "A": "Stacje wyznaczone do wydawania ostrzezen ze względu na brak mozliwosci doreczenia ostrzezen w formie komputerowego wydruku lub wersji cyfrowej rozkazu na stacji wyprawienia pociagu, oraz stacje wydajace ostrzezenia dla jazd tam i z powrotem",
+        "B": "Stacje końca odcinka dla pociagów pasazerskich i towarowych",
+        "C": "Informacje o posterunkach ruchu, na których nie ma mozliwosci przekazania ostrzezen w formie komputerowego wydruku lub wersji cyfrowej rozkazu",
+        "D": "Nazwy stacji wyznaczonych do wydawania ostrzezen dla jazd wyłącznie w jednym kierunku"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 5 pkt 1 i 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "1b81070a-a469-4106-8aab-88ca460a0e19",
+      "question": "Co nalezy wskazac w kolumnach 2 i 3 TABLICY 1?",
+      "answers": {
+        "A": "Stacje konca odcinka odpowiednio dla pociagów pasazerskich i towarowych, o ile to konieczne",
+        "B": "Numery torów glównych zasadniczych wyznaczonych do przepuszczania pociagów",
+        "C": "Informacje o posterunkach ruchu bez mozliwosci przekazania ostrzezen elektronicznie",
+        "D": "Dlugosc uzyteczna torów glównych zasadniczych w obu kierunkach jazdy"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "5ebd3d4e-539e-4412-8e3e-34e501da6be4",
+      "question": "Jakie informacje zamieszcza sie w kolumnie 4 TABLICY 1?",
+      "answers": {
+        "A": "Dlugosc odcinkow, na które stacja wydaje ostrzezenia dla pociagów pasazerskich",
+        "B": "Informacje o posterunkach ruchu, na których nie ma mozliwosci przekazania ostrzezen w formie komputerowego wydruku lub wersji cyfrowej rozkazu",
+        "C": "Stacje wyznaczone do wydawania ostrzezen dla jazd tam i z powrotem",
+        "D": "Numer zmiany i date wprowadzenia ostrzezenia do ewidencji"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 6",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "482e2f63-fcd8-4768-8ac8-c637379749bd",
+      "question": "Co oznacza symbol \"TP\" umieszczany przy nazwie stacji w TABLICY 1?",
+      "answers": {
+        "A": "Stacje, do której stacja wyznaczona wydaje ostrzezenia dla jazdy tam i z powrotem",
+        "B": "Stacje terminalna pociagu, bedaca ostatnim miejscem wydania ostrzezen",
+        "C": "Stacje posiadajaca telefoniczne połaczenie z posterunkiem ruchu",
+        "D": "Stacje w połowie trasy pociagu, w której nastepuje przekazanie ostrzezen"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 10 i ust. 15",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "0b67f454-4400-47cc-b400-7319440ce684",
+      "question": "Kiedy stacje konca odcinka w TABLICY 1 nalezy oznaczyc symbolem \"TP\"?",
+      "answers": {
+        "A": "Gdy stacja wyznaczona ma wydawac ostrzezenia na dany odcinek dla jazdy tam i z powrotem",
+        "B": "Gdy stacja wyznaczona wydaje ostrzezenia wyłącznie dla pociagów towarowych",
+        "C": "Gdy stacja wyznaczona lezy na granicy dwóch zakładów linii kolejowych",
+        "D": "Gdy stacja wyznaczona wydaje ostrzezenia dla pociagów w kierunku nieparzystym"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 10",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "7260daae-4d3c-4d50-9a60-fc682a71781b",
+      "question": "Do kogo nalezy obligatoryjnie w odpisie przesylac kazde zawiadomienie wprowadzajace, korygujace i odwolujace ostrzezenie dorazne zwiazane z poleceniem zmniejszenia predkosci lub ostroznej jazdy?",
+      "answers": {
+        "A": "Do wyznaczonego stanowiska IZRS Poznan, dyspozytora zakladowego, komórki obslugujacej baze ograniczen stalych i doraznych POSEOR oraz do Sekcji Eksploatacji, której podlega stacja nadajaca zawiadomienie",
+        "B": "Do wyznaczonego stanowiska IZRS Warszawa, dyspozytora zakladowego i komórki obslugujacej baze ograniczen stalych",
+        "C": "Do dyspozytora zakladowego, Sekcji Eksploatacji i zarządcy infrastruktury własciwego dla danej linii",
+        "D": "Do wyznaczonego stanowiska IZRS Poznan i dyspozytora zakladowego"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 13",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "68582ad2-1267-4df5-9f84-561b97ea6cd2",
+      "question": "W jakim przypadku zawiadomienie zwiazane z ostrzezeniem doraznym nie jest wymagane?",
+      "answers": {
+        "A": "Jezeli czynnosci nastepuja samoczynnie w ramach funkcjonalnosci SERWO2 lub wyznaczone stanowiska maja zapewniony wglad do centralnej ksiazki ostrzezen",
+        "B": "Jezeli pociag jest uruchamiany na odcinku, na którym nie ma wyznaczonej stacji poczatkowej",
+        "C": "Jezeli ostrzezenie dotyczy odcinka krótszego niz 5 km i nie wplywa na rozkład jazdy",
+        "D": "Jezeli zawiadomienie zostalo juz przesłane telegraficznie do wszystkich posterunków ruchu na odcinku"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 13",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "0b9eb748-baa0-4472-9531-d706fe00bf9a",
+      "question": "Jakie sa dwa rodzaje stacji wyznaczonych do wydawania ostrzezen?",
+      "answers": {
+        "A": "Stacje poczatkowe, na których pociagi rozpoczynają bieg lub wjezdzają na obszar PKP PLK S.A., oraz stacje wskazane w Tablicy 1",
+        "B": "Stacje wezlowe obsługujace kilka linii kolejowych oraz stacje końcowe, na których pociagi kończą bieg",
+        "C": "Stacje z dyzyrem całodobowym oraz stacje z dyzyrem w ograniczonych godzinach",
+        "D": "Stacje pasazerskie obsługujace połączenia międzynarodowe oraz stacje towarowe obsługujace tranzyt"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "5a82a811-e86e-4650-9ab9-38d05856908d",
+      "question": "Co stanowi TABLICA 1 w Dodatku 1 instrukcji Ir-23?",
+      "answers": {
+        "A": "Zbiór tabel dla wszystkich linii kolejowych ujętych w Wykazie linii Id-12, w których kolejne stacje wyznaczone do wydawania rozkazów pisemnych zawierających ostrzeżenia umieszczone są w kolejności zgodnej z kilometrażem linii.",
+        "B": "Zbiór tabel dla wszystkich linii kolejowych ujętych w Wykazie linii Id-12, w których stacje wyznaczone do wydawania rozkazów pisemnych zawierających ostrzeżenia umieszczone są w kolejności alfabetycznej.",
+        "C": "Wykaz dopuszczalnych długości pociągów towarowych wraz z czynnymi lokomotywami dla wszystkich linii kolejowych ujętych w Wykazie linii Id-12.",
+        "D": "Zbiór tabel dla wybranych linii kolejowych, w których stacje wyznaczone do wydawania rozkazów pisemnych zawierających ostrzeżenia umieszczone są w kolejności zgodnej z kilometrażem linii."
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "87af2f8c-678f-40fb-a326-20c2af69188a",
+      "question": "Jakie stacje są stacjami wyznaczonymi do wydawania ostrzeżeń?",
+      "answers": {
+        "A": "Stacje, na których pociągi kończą bieg lub opuszczają obszar zarządzany przez PKP PLK S.A., oraz stacje wskazane w Tablicy 1.",
+        "B": "Stacje, na których pociągi rozpoczynają bieg lub wjeżdżają na obszar zarządzany przez PKP PLK S.A., oraz stacje wskazane w Tablicy 1.",
+        "C": "Wyłącznie stacje wskazane w Tablicy 1.",
+        "D": "Stacje, na których pociągi rozpoczynają lub kończą bieg, oraz stacje wskazane w regulaminie technicznym."
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "74375dbd-1d80-43fd-a624-9f09261ebdaf",
+      "question": "Jakie ostrzeżenia wydają stacje początkowe?",
+      "answers": {
+        "A": "Ostrzeżenia na odcinek od stacji początkowej do pierwszej stacji wyznaczonej w Tablicy 1.",
+        "B": "Ostrzeżenia na odcinek od stacji początkowej do stacji końcowej linii.",
+        "C": "Ostrzeżenia na całą trasę pociągu w formie komputerowego wydruku lub wersji cyfrowej rozkazu.",
+        "D": "Ostrzeżenia na całą trasę pociągu wyłącznie w formie papierowej."
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 5 ust. 2 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "ca8d85e1-2729-4c9f-b98b-2e3737def117",
+      "question": "Co należy zrobić w przypadku uruchomienia pociągu w stacji, na której nie ma możliwości doręczenia ostrzeżeń na całą trasę pociągu?",
+      "answers": {
+        "A": "W regulaminie technicznym należy wskazać stację wydającą ostrzeżenia.",
+        "B": "Pociąg nie może zostać uruchomiony do czasu zapewnienia możliwości doręczenia ostrzeżeń.",
+        "C": "Ostrzeżenia wydaje następna stacja wyznaczona w Tablicy 1.",
+        "D": "Dyspozytorowi zakładowemu należy zgłosić brak możliwości doręczenia ostrzeżeń."
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 2 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "9fe56374-6dfb-4abf-ba6c-88b81defdb7a",
+      "question": "Na jaki zakres zasadniczo wydawane są ostrzeżenia?",
+      "answers": {
+        "A": "Na odcinek od stacji wydającej do pierwszej następnej stacji wyznaczonej w Tablicy 1.",
+        "B": "Na całą trasę pociągu.",
+        "C": "Na odcinek wskazany w Tablicy 1 dla danej stacji.",
+        "D": "Na odcinek od stacji wydającej do stacji końcowej linii."
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 3",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "cb352c6f-ee1a-4884-b32b-531987eab013",
+      "question": "Jakie stacje umieszcza się w kolumnie 1 Tablicy 1?",
+      "answers": {
+        "A": "Stacje ze względu na brak możliwości doręczenia ostrzeżeń w formie komputerowego wydruku lub wersji cyfrowej rozkazu na stacji wyprawienia pociągu oraz stacje wydające ostrzeżenia dla jazd pociągów tam i z powrotem.",
+        "B": "Wyłącznie stacje ze względu na brak możliwości doręczenia ostrzeżeń na stacji wyprawienia pociągu.",
+        "C": "Stacje wydające ostrzeżenia dla jazd pociągów tam i z powrotem oraz stacje na których pociągi zmieniają kierunek jazdy.",
+        "D": "Stacje końcowe odcinków dla pociągów pasażerskich i towarowych."
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 5 pkt 1-2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "5bb1577c-bd3e-4a39-a7c1-504aab942ad1",
+      "question": "Co wskazuje się w kolumnach 2 i 3 Tablicy 1?",
+      "answers": {
+        "A": "Stacje końca odcinka odpowiednio dla pociągów pasażerskich i towarowych, o ile to konieczne.",
+        "B": "Stacje początku odcinka odpowiednio dla pociągów pasażerskich i towarowych.",
+        "C": "Numery pociągów pasażerskich i towarowych, dla których wydawane są ostrzeżenia.",
+        "D": "Godziny doręczania ostrzeżeń odpowiednio dla pociągów pasażerskich i towarowych."
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "12c29db1-c425-435b-a26f-ae2b7fe4669e",
+      "question": "Jakie informacje zamieszcza się w kolumnie 4 Tablicy 1?",
+      "answers": {
+        "A": "Informacje o pociągach, dla których wydawane są ostrzeżenia na dany odcinek.",
+        "B": "Informacje o posterunkach ruchu, na których nie ma możliwości przekazania ostrzeżeń w formie komputerowego wydruku lub wersji cyfrowej rozkazu.",
+        "C": "Informacje o stacjach końca odcinka dla pociągów towarowych.",
+        "D": "Informacje o stacjach wyznaczonych do wydawania ostrzeżeń na jazdy tam i z powrotem."
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 6",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "6daefdf2-dfa9-4554-af74-f628b57cdd6a",
+      "question": "Co oznacza symbol \"TP\" stosowany w Tablicy 1?",
+      "answers": {
+        "A": "Oznaczenie stacji, do której stacja wyznaczona wydaje ostrzeżenia dla jazdy tam i z powrotem.",
+        "B": "Oznaczenie stacji tranzytowej pociągów pasażerskich.",
+        "C": "Oznaczenie toru parzystego na odcinku objętym ostrzeżeniem.",
+        "D": "Oznaczenie stacji, od której stacja wyznaczona przejmuje wydawanie ostrzeżeń."
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 15",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "46a68b0a-0c7f-4c30-87f1-8b57151210a7",
+      "question": "Kiedy stację końca odcinka w Tablicy 1 należy oznaczyć symbolem \"TP\"?",
+      "answers": {
+        "A": "Gdy stacja wyznaczona ma wydawać ostrzeżenia na dany odcinek dla jazdy tam i z powrotem.",
+        "B": "Gdy stacja wyznaczona ma wydawać ostrzeżenia wyłącznie dla pociągów pasażerskich.",
+        "C": "Gdy stacja wyznaczona nie ma możliwości przekazania ostrzeżeń w formie cyfrowej.",
+        "D": "Gdy stacja wyznaczona ma wydawać ostrzeżenia na dany odcinek wyłącznie dla kierunku nieparzystego."
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 10",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "6c4971d8-6445-46d3-bf07-b9761a08ae92",
+      "question": "Komu należy obligatoryjnie przesyłać odpis każdego zawiadomienia wprowadzającego, korygującego i odwołującego ostrzeżenie doraźne związane z poleceniem zmniejszenia prędkości lub ostrożnej jazdy?",
+      "answers": {
+        "A": "Do wyznaczonego stanowiska IZRS Poznań, dyspozytora zakładowego i komórki organizacyjnej obsługującej bazę ograniczeń stałych i doraźnych - POSEOR we własnym Zakładzie oraz do Sekcji Eksploatacji, której podlega stacja nadająca zawiadomienie.",
+        "B": "Do wyznaczonego stanowiska IZRS Warszawa, dyspozytora ruchu i komórki organizacyjnej obsługującej bazę ograniczeń stałych i doraźnych - POSEOR we własnym Zakładzie.",
+        "C": "Do wyznaczonego stanowiska IZRS Poznań, dyspozytora zakładowego i Sekcji Eksploatacji, której podlega stacja nadająca zawiadomienie.",
+        "D": "Do wyznaczonego stanowiska IZRS Poznań i dyspozytora zakładowego we wszystkich Zakładach objętych ostrzeżeniem."
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 13",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "99b4afa7-717e-4009-8946-747dc97172d5",
+      "question": "W jakim przypadku zawiadomienie dotyczące ostrzeżenia doraźnego nie jest wymagane?",
+      "answers": {
+        "A": "Gdy ostrzeżenie doraźne dotyczy wyłącznie zmniejszenia prędkości, a nie ostrożnej jazdy.",
+        "B": "Jeżeli czynności te następują samoczynnie w ramach funkcjonalności SERWO2 lub wyznaczone stanowiska mają zapewniony wgląd do centralnej książki ostrzeżeń.",
+        "C": "Gdy ostrzeżenie doraźne obowiązuje krócej niż 24 godziny.",
+        "D": "Jeżeli czynności te następują samoczynnie w ramach funkcjonalności SERWO2 lub ostrzeżenie zostało wprowadzone przez dyspozytora zakładowego."
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 13",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "741f19ea-7dd6-44eb-8e2b-e9e8d939f7be",
+      "question": "Jak wylicza się dopuszczalną długość pociągów towarowych dla całego odcinka linii?",
+      "answers": {
+        "A": "Spośród wartości ustalonych dla poszczególnych stacji odcinka, dla danego kierunku jazdy wybiera się długość najmniejszą.",
+        "B": "Spośród wartości ustalonych dla poszczególnych stacji odcinka, dla danego kierunku jazdy wybiera się długość największą.",
+        "C": "Oblicza się średnią arytmetyczną długości użytecznych torów głównych zasadniczych wszystkich stacji odcinka.",
+        "D": "Przyjmuje się wartość długości użytecznej toru głównego zasadniczego stacji końcowej odcinka."
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 6 ust. 2 pkt 3",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "95ccaf42-b693-4ae9-9a41-316d802c4925",
+      "question": "Co stanowi TABLICA 1 w Dodatku 1 do instrukcji Ir-23?",
+      "answers": {
+        "A": "Zbiór tabel dla wszystkich linii kolejowych ujętych w Wykazie linii Id-12, zawierający stacje wyznaczone do wydawania rozkazów pisemnych z ostrzeżeniami w kolejności zgodnej z kilometrażem linii",
+        "B": "Wykaz dopuszczalnych długości pociągów towarowych dla wszystkich linii kolejowych ujętych w Wykazie linii Id-12",
+        "C": "Wykaz pochyleń miarodajnych do obliczania masy hamującej na odcinkach linii kolejowych ujętych w Wykazie linii Id-12",
+        "D": "Wykaz procentowych norm do obliczania wymaganej masy hamującej na odcinkach linii kolejowych ujętych w Wykazie linii Id-12"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "f0c629b3-3a92-4652-9e40-43027f77f67c",
+      "question": "Jakie stacje zalicza się do stacji wyznaczonych do wydawania ostrzeżeń jako stacje początkowe?",
+      "answers": {
+        "A": "Stacje, na których pociągi kończą bieg lub opuszczają obszar zarządzany przez PKP PLK S.A.",
+        "B": "Stacje, na których pociągi rozpoczynają bieg lub wjeżdżają na obszar zarządzany przez PKP PLK S.A.",
+        "C": "Stacje wskazane wyłącznie w Tablicy 1, niezależnie od miejsca rozpoczęcia biegu pociągu",
+        "D": "Stacje, na których pociągi zatrzymują się w celu uzupełnienia składu lub zmiany lokomotywy"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 2 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "3667717d-4ea7-4e97-9e70-78e0ffbe5f75",
+      "question": "Co wydają stacje początkowe w zakresie ostrzeżeń?",
+      "answers": {
+        "A": "Ostrzeżenia wyłącznie na odcinek do pierwszej stacji postojowej pociągu",
+        "B": "Ostrzeżenia na całą trasę pociągu w formie komputerowego wydruku lub wersji cyfrowej rozkazu",
+        "C": "Ostrzeżenia na całą trasę pociągu wyłącznie w formie papierowej",
+        "D": "Ostrzeżenia na odcinki wskazane przez dyspozytora zakładowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 2 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "5c1ca432-8ae8-4271-9cbc-03b5ad0105f8",
+      "question": "Co należy zrobić, gdy pociąg jest uruchamiany w stacji, na której nie ma możliwości doręczenia ostrzeżeń na całą trasę?",
+      "answers": {
+        "A": "Pociąg nie może zostać uruchomiony do czasu zapewnienia możliwości doręczenia ostrzeżeń",
+        "B": "Ostrzeżenia wydaje dyżurny ruchu stacji sąsiedniej na piśmie",
+        "C": "W regulaminie technicznym należy wskazać stację wydającą ostrzeżenia",
+        "D": "Maszynista jest zobowiązany do samodzielnego odebrania ostrzeżeń w pierwszej stacji na trasie"
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 5 ust. 2 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "fd99dd13-64ab-4769-837e-0b7956ce6629",
+      "question": "Na jaki zakres trasy wydawane są ostrzeżenia zasadniczo?",
+      "answers": {
+        "A": "Na odcinek do pierwszej stacji wyznaczonej w Tablicy 1",
+        "B": "Na odcinek wskazany przez dyspozytora zakładowego",
+        "C": "Na całą trasę pociągu",
+        "D": "Na odcinek od stacji wyprawienia do stacji strefowej"
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 5 ust. 3",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "f45d7a4f-394f-4e31-a846-9ee6a2592219",
+      "question": "Co umieszcza sie w kolumnie 1 Tablicy 1?",
+      "answers": {
+        "A": "Stacje wyznaczone do wydawania ostrzeżeń ze względu na brak możliwości doręczenia ostrzeżeń w formie komputerowego wydruku lub wersji cyfrowej rozkazu na stacji wyprawienia pociągu oraz stacje wydające ostrzeżenia dla jazd tam i z powrotem",
+        "B": "Numery linii kolejowych oraz kilometry graniczne odcinków, dla których stacja wydaje ostrzeżenia",
+        "C": "Informacje o posterunkach ruchu, na których nie ma możliwości przekazania ostrzeżeń w formie komputerowego wydruku lub wersji cyfrowej rozkazu",
+        "D": "Stacje końca odcinka dla pociągów pasażerskich i towarowych"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 5 pkt 1 i 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "192beb9a-cc6f-4a7c-a81e-73004532ca0c",
+      "question": "Co wskazuje sie w kolumnach 2 i 3 Tablicy 1?",
+      "answers": {
+        "A": "Informacje o posterunkach ruchu bez mozliwosci przekazania ostrzezen w formie komputerowego wydruku lub wersji cyfrowej rozkazu",
+        "B": "O ile to konieczne stacje konca odcinka odpowiednio dla pociagów pasazerskich i towarowych",
+        "C": "Numery zmian i daty wejscia w zycie poszczególnych wpisów tablicy",
+        "D": "Wykaz stacji poczatkowych wydajacych ostrzezenia na cala trase pociagu"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "762235a3-0dcf-4de4-8e60-14b378c5085e",
+      "question": "Jakie informacje zamieszcza sie w kolumnie 4 Tablicy 1?",
+      "answers": {
+        "A": "Stacje konca odcinka dla pociagów pasazerskich",
+        "B": "Stacje konca odcinka dla pociagów towarowych",
+        "C": "Informacje o posterunkach ruchu, na których nie ma mozliwosci przekazania ostrzezen w formie komputerowego wydruku lub wersji cyfrowej rozkazu",
+        "D": "Numery linii i zakresy kilometrazowe odcinków objetych wydawaniem ostrzezen"
+      },
+      "correct": "C",
+      "explanation": "Ir-23 § 5 ust. 6",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "0db14808-1807-45c1-8191-02d37e6c1781",
+      "question": "Jakim symbolem oznacza sie stacje konca odcinka, dla której stacja wyznaczona wydaje ostrzezenia dla jazdy tam i z powrotem?",
+      "answers": {
+        "A": "\"ZP\"",
+        "B": "\"TP\"",
+        "C": "\"TZ\"",
+        "D": "\"PZ\""
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 10",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "6b5b1435-2414-48c0-ba3f-0896eb75abb7",
+      "question": "Komu nalezy obligatoryjnie przesylac w odpisie kazde zawiadomienie wprowadzajace, korygujace lub odwolujace ostrzezenie dorazne zwiazane z poleceniem zmniejszenia predkosci lub ostroznej jazdy?",
+      "answers": {
+        "A": "Wylacznie do dyspozytora zakładowego i komórki organizacyjnej obsługujacej baze ograniczen stałych i doraznych",
+        "B": "Do wyznaczonego stanowiska IZRS Poznan, dyspozytora zakładowego, komórki obsługujacej baze ograniczen POSEOR oraz do Sekcji Eksploatacji, której podlega stacja nadajaca zawiadomienie",
+        "C": "Do wyznaczonego stanowiska IZRS Warszawa, dyspozytora zakładowego oraz maszynisty pociagu",
+        "D": "Do Sekcji Eksploatacji i dysponenta taboru odpowiedzialnego za dany pociag"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 13",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "3425e1a2-83fa-41ca-99ef-c3b929b30411",
+      "question": "W jakim przypadku zawiadomienie o ostrzezeniu doraznym nie jest wymagane?",
+      "answers": {
+        "A": "Jezeli zawiadomienie dotyczy ostrzezenia obowiazujacego krócej niz 24 godziny",
+        "B": "Jezeli czynnosci te nastepuja samoczynnie w ramach funkcjonalnosci SERWO2 lub wyznaczone stanowiska maja zapewniony wglad do centralnej ksiazki ostrzezen",
+        "C": "Jezeli zawiadomienie dotyczy wylacznie polecenia ostroznej jazdy bez zmniejszenia predkosci",
+        "D": "Jezeli stacja nadajaca zawiadomienie nie posiada lacznosci cyfrowej GSM-R"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 13",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "d2c5a247-9682-45c6-ae9b-8b30f2962e30",
+      "question": "Co oznacza skrót \"TP\" uzywany w Tablicy 1?",
+      "answers": {
+        "A": "Oznaczenie stacji, w której nastepuje zmiana regulaminu technicznego dla danej trasy pociagu",
+        "B": "Oznaczenie stacji, do której stacja wyznaczona wydaje ostrzezenia dla jazdy tam i z powrotem",
+        "C": "Oznaczenie stacji, od której pociag towarowy kontynuuje bieg bez dodatkowego wydawania ostrzezen",
+        "D": "Oznaczenie stacji posiadajacej techniczne mozliwosci przekazania ostrzezen w wersji cyfrowej"
+      },
+      "correct": "B",
+      "explanation": "Ir-23 § 5 ust. 15",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "21b6cbc3-ce42-46ea-b058-04df9ec12543",
+      "question": "Jakie sa kategorie stacji wyznaczonych do wydawania ostrzezen?",
+      "answers": {
+        "A": "Stacje poczatkowe oraz stacje wskazane w Tablicy 1",
+        "B": "Stacje poczatkowe oraz stacje posiadajace technologie komputerowego wydruku rozkazu",
+        "C": "Stacje graniczne linii oraz stacje wskazane przez dyspozytora zakładowego",
+        "D": "Stacje wezelowe oraz stacje wskazane w regulaminie technicznym"
+      },
+      "correct": "A",
+      "explanation": "Ir-23 § 5 ust. 2",
+      "section_ref": "§ 5",
+      "section": 5
+    }
+  ]
+}

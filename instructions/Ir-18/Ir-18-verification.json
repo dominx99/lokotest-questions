@@ -1,0 +1,218 @@
+{
+  "instruction": "Ir-18",
+  "timestamp": "2026-03-14T22:13:54.051996",
+  "summary": {
+    "total": 37,
+    "ok": 35,
+    "fix": 2,
+    "delete": 0
+  },
+  "results": [
+    {
+      "uuid": "9b94eaed-ea5a-4b7f-b1b0-8248ba5bb95f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "0622c93b-3f53-48ea-91dd-0d4ddd4e563b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4796311b-285e-4c23-b475-d0932233383f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "167eded8-2fa4-478d-b4d1-8b3dd9ba076f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "75755bfd-d721-4f8e-9cda-eb8ff62e4dc9",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e4c8e929-2cfb-4eab-8bdc-e2186d0811d7",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "0f4af907-90f1-4cfc-9f00-5d9b12380996",
+      "status": "FIX",
+      "problems": [
+        "Poprawna odpowiedź B (~173 znaki) jest ponad 1,5× dłuższa od najdłuższego dystraktora D (~97 znaków) i przekracza 100 znaków — należy wyrównać dystraktory w górę.",
+        "Literówki w odpowiedzi D: 'Wykreslenie' → 'Wykreślenie', 'ostrzezenia' → 'ostrzeżenia', 'Ksiazki' → 'Książki', 'ostrzezen' → 'ostrzeżeń', 'dorarznych' → 'doraźnych'."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Przesłanie zatwierdzonego wniosku zbiorczego do Zakładu wyznaczonego przez upoważnionego pracownika Zakładu współpracującego, z ważnością od pierwszego dnia obowiązywania Dodatku 2",
+          "B": "Ujęcie ostrzeżeń doraźnych w Wykazie Ostrzeżeń Stałych oraz zamieszczenie ich w tabeli \"Wykaz ostrzeżeń doraźnych, które zostały przeniesione do Wykazu Ostrzeżeń Stałych\"",
+          "C": "Wprowadzenie odpowiedniego ostrzeżenia doraźnego przez Naczelnika Sekcji Eksploatacji, zgodnie z obowiązującymi przepisami, po stwierdzeniu rozbieżności lub braku ostrzeżenia stałego w Dodatku 2",
+          "D": "Wykreślenie ostrzeżenia z Książki ostrzeżeń doraźnych R-189 przez pracownika Biura Eksploatacji, dokonane po zatwierdzeniu nowej wersji Dodatku 2 przez Dyrektora wyznaczonego Zakładu"
+        }
+      }
+    },
+    {
+      "uuid": "1db5bce5-5678-4d58-a11f-b44c50c48b00",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "2c184417-d287-4f91-907e-5c8b6cfc797f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "c2f77283-062b-4d68-a383-84e695c72cc7",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5b59f2fc-2fe2-4ab3-aeeb-31fa812a967f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "b828400c-2eed-4f04-93d2-be72d448639f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "0027c799-23dd-4296-8425-af902c920860",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "65edc5a0-b593-4585-b9ad-784de48221ab",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "95a67988-626c-4c37-8012-61ae1fea3c8f",
+      "status": "FIX",
+      "problems": [
+        "Zasada 6: poprawna odpowiedź C (~153 znaki) jest ponad 1,5× dłuższa od najdłuższego dystraktora D (~99 znaków). Należy wyrównać dystraktory A, B, D w górę, dodając do nich elementy z ust. 9, aby ich długość była zbliżona do poprawnej odpowiedzi."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Wyłącznie stacje węzłowe, posterunki odgałęźne i numery linii, bez wskazania rodzajów linii, blokady liniowej i kilometrów granicy obszaru",
+          "B": "Wyłącznie rodzaje linii, rodzaj blokady liniowej i kilometry granicy obszaru, bez wskazania stacji węzłowych, posterunków odgałęźnych i numerów linii",
+          "C": "Rodzaje linii, rodzaj blokady liniowej, stacje węzłowe i posterunki odgałęźne, numery linii, kilometry granicy obszaru oraz odcinki wyposażone w ERTMS/ETCS",
+          "D": "Rodzaje linii, rodzaj blokady liniowej, stacje węzłowe i posterunki odgałęźne oraz numery linii, bez wskazania kilometrów granicy obszaru i odcinków wyposażonych w ERTMS/ETCS"
+        }
+      }
+    },
+    {
+      "uuid": "481baf34-7463-4c66-a101-0e6cf02a576e",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "2e0b73de-fafa-4e2b-8402-a522555136f0",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "3377856e-14b8-4911-bc48-dfa5fe0223fe",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "689a4491-3c30-44f1-a266-7514dfa688ea",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "6a9b3f7b-8cce-4237-88ab-7eb68ccadb4b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "50e10260-18f2-40bd-85df-3bd663a9bb7c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "8507486d-a829-4cc6-a66a-7068dd816f6c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "db31ba16-c8f3-49c1-a32e-ae233eaf60b5",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "30d6acba-51f8-434c-935e-3389dd378ee1",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "ae0baac9-ee47-499b-8671-40429af9dc8f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d54a9657-4337-43fa-ab98-b0392d7df49f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "460c2b12-c84b-4415-b38a-0fbdbd5b64b3",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "043c5f61-a506-4be3-8cf0-a68117ba2731",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "eda059a9-36d2-4681-927f-1dd8116137b3",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "386052c6-8088-4d40-87d8-2ea42654e2ff",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "997c76a8-0d12-44fd-bde6-5fc4f66e6e98",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4978c0f0-3dd2-4ffc-8c27-e86672bab585",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "0d462dfa-b423-458d-8307-c1a7252efd23",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "846df26d-1e3b-42a7-9b1f-23d4234e3ced",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "536cb5c6-ccf3-4ec9-8b48-5f7e08fd8fff",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "ef0b5c9e-b9d0-4974-92e0-5b878e8fcec8",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5bef15e2-4fe9-4cd5-bb98-fb9ce2bb6abc",
+      "status": "OK",
+      "problems": []
+    }
+  ]
+}

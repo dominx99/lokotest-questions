@@ -1,0 +1,1279 @@
+{
+  "instruction": "Ir-14",
+  "questions": [
+    {
+      "uuid": "7ebdbcc0-2335-437e-aaed-a058ad07fb44",
+      "question": "Jaki jest główny cel instrukcji o kontroli biegu pociągów pasażerskich i towarowych?",
+      "answers": {
+        "A": "Zapewnienie jednolitych danych na temat ruchu pociągów umożliwiających analizę i kontrolowanie punktualności wszystkich usług",
+        "B": "Zapewnienie jednolitych danych na temat ruchu pociągów umożliwiających planowanie rozkładów jazdy i przydzielanie tras",
+        "C": "Zapewnienie jednolitych danych na temat ruchu pociągów umożliwiających zarządzanie personelem i przydzielanie obowiązków",
+        "D": "Zapewnienie jednolitych danych na temat ruchu pociągów umożliwiających kontrolę stanu technicznego taboru kolejowego"
+      },
+      "correct": "A",
+      "explanation": "Ir-14 § 1 ust. 1",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "500ee5b2-23a5-409e-a706-70c19d32a518",
+      "question": "Do czego służy wspólny system kodowania opracowany w instrukcji Ir-14?",
+      "answers": {
+        "A": "Do identyfikowania przyczyn opóźnień i odwołania pociągów",
+        "B": "Do identyfikowania przyczyn awarii pojazdów trakcyjnych i wagonów",
+        "C": "Do identyfikowania przyczyn naruszeń przepisów przez maszynistów",
+        "D": "Do identyfikowania przyczyn przekroczeń prędkości na sieci kolejowej"
+      },
+      "correct": "A",
+      "explanation": "Ir-14 § 1 ust. 2",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "9ebf6266-a84a-4175-b012-1a517a8159fa",
+      "question": "Co zawiera instrukcja Ir-14 w zakresie rozliczeń z przewoźnikami kolejowymi?",
+      "answers": {
+        "A": "Ujednolicone zasady ustalania przyczyn opóźnień pociągów kursujących, służące realizacji rozliczeń wynikających z Planu Wykonania",
+        "B": "Ujednolicone zasady ustalania opłat za korzystanie z infrastruktury kolejowej wynikających z Planu Wykonania",
+        "C": "Ujednolicone zasady ustalania kar za naruszenia przepisów bezpieczeństwa wynikających z Planu Wykonania",
+        "D": "Ujednolicone zasady ustalania odszkodowań dla pasażerów za opóźnienia wynikających z Planu Wykonania"
+      },
+      "correct": "A",
+      "explanation": "Ir-14 § 1 ust. 5 pkt 3",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "a1f4747e-3d20-4299-9c52-7217c538258c",
+      "question": "Na jakich liniach kolejowych obowiązuje instrukcja Ir-14?",
+      "answers": {
+        "A": "Na liniach kolejowych zarządzanych przez PKP Polskie Linie Kolejowe S.A.",
+        "B": "Na liniach kolejowych zarządzanych przez Urząd Transportu Kolejowego",
+        "C": "Na liniach kolejowych zarządzanych przez wszystkich licencjonowanych przewoźników kolejowych",
+        "D": "Na liniach kolejowych zarządzanych przez Ministerstwo Infrastruktury"
+      },
+      "correct": "A",
+      "explanation": "Ir-14 § 1 ust. 6",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "cf28f42f-ca65-431a-91dd-07bab003811b",
+      "question": "Co jest podstawą prawidłowego opracowania danych statystycznych w zakresie jakości realizacji procesu przewozowego?",
+      "answers": {
+        "A": "Poprawne, obiektywne i zgodne z rzeczywistością dokumentowanie przebiegu pociągów i przyczyn ich opóźnienia",
+        "B": "Automatyczne generowanie raportów przez system SEPE na podstawie danych z rozkładu jazdy",
+        "C": "Terminowe przeprowadzanie postępowań wyjaśniających przez Zakłady Linii Kolejowych",
+        "D": "Sporządzanie zbiorczych raportów o punktualności przez Biuro Eksploatacji i Obsługi Pasażerskiej"
+      },
+      "correct": "A",
+      "explanation": "Ir-14 § 10 ust. 1",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "fc69e8ca-a2d0-4628-bc63-8208555ff117",
+      "question": "Dla kogo system SEPE tworzy automatycznie raporty o punktualności i przyczynach opóźnień pociągów?",
+      "answers": {
+        "A": "Dla Biura Eksploatacji i Obsługi Pasażerskiej Centrali PLK SA",
+        "B": "Dla Zakładu Linii Kolejowych PLK SA (obszarowo)",
+        "C": "Dla naczelników sekcji i przewoźników kolejowych",
+        "D": "Dla dyspozytorów liniowych i kierowników pociągów"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 10 ust. 2",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "6cb1e1c6-66dc-4b6e-b057-e41a676b542a",
+      "question": "Jakie raporty tworzy automatycznie system SEPE w oparciu o rzeczywisty przebieg pociągu?",
+      "answers": {
+        "A": "Raporty o opóźnieniach pociągów pasażerskich wyłącznie dla poszczególnych przewoźników kolejowych",
+        "B": "Raporty o zamknięciach torowych i ostrzeżeniach dla zakładów linii kolejowych",
+        "C": "Raporty o punktualności i przyczynach opóźnień pociągów pasażerskich i towarowych ogółem lub dla poszczególnych przewoźników kolejowych",
+        "D": "Raporty o realizacji rozkładu jazdy w czasie obowiązywania planowych zamknięć torowych"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 10 ust. 2",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "be0fdc6d-c031-4531-a62f-0a1da0d3b544",
+      "question": "Kto jest zobowiązany do wyjaśniania i korygowania rozbieżności między dokumentacją źródłową a danymi wprowadzonymi do systemu?",
+      "answers": {
+        "A": "Kierujący komórką organizacyjną właściwą ds. eksploatacji w Zakładzie Linii Kolejowych",
+        "B": "Dyspozytorzy liniowi odpowiedzialni za dokumentowanie przebiegu pociągów",
+        "C": "Pracownicy odpowiedzialni za kontrolę jakości kursowania pociągów",
+        "D": "Dyrektor Zakładu Linii Kolejowych odpowiedzialny za nadzór nad postępowaniami"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 10 ust. 3",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "e6f8a265-348d-4539-97d5-e0b4ebcdf2b7",
+      "question": "Z kim pracownicy wprowadzający korekty rozbieżności są zobowiązani je uzgodnić przed zgłoszeniem do IDDE?",
+      "answers": {
+        "A": "Z Biurem Eksploatacji i Obsługi Pasażerskiej Centrali PLK SA",
+        "B": "Z zainteresowanymi komórkami w zakładzie linii kolejowych",
+        "C": "Z naczelnikami sekcji i zainteresowanymi przewoźnikami kolejowymi",
+        "D": "Z Dyrektorem Zakładu Linii Kolejowych i pracownikami Centrali PLK SA"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 10 ust. 4",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "ba76788a-a592-474e-9e84-2cb91e6e7a75",
+      "question": "Jak często kierujący komórką ds. eksploatacji w Zakładzie Linii Kolejowych ma obowiązek zapoznawać się z raportem o przyczynach opóźnień pociągów?",
+      "answers": {
+        "A": "Co tydzień, w poniedziałek rano",
+        "B": "Codziennie w godzinach wieczornych",
+        "C": "Codziennie w godzinach rannych",
+        "D": "Raz w miesiącu przed sporządzeniem raportu zbiorczego"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 10 ust. 5 pkt 1",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "29203088-76ad-400c-a10c-51b01d864f9e",
+      "question": "Co kierujący komórką ds. eksploatacji ma obowiązek wnikliwie analizować w ramach swoich zadań?",
+      "answers": {
+        "A": "Realizację rozkładu jazdy w czasie obowiązywania planowych zamknięć torowych, jak również realizację udzielonych zamknięć torowych i prowadzonych robót oraz obowiązywania ostrzeżeń",
+        "B": "Liczbę kursujących i opóźnionych pociągów na obszarze zakładów i na sieci PLK SA wraz z liczbą minut opóźnień",
+        "C": "Merytoryczną poprawność opisów przyczyn opóźnień wprowadzanych do Księgi wydarzeń przez dyspozytorów liniowych",
+        "D": "Zbiorcze całościowe raporty o punktualności i przyczynach opóźnień pociągów pasażerskich i towarowych"
+      },
+      "correct": "A",
+      "explanation": "Ir-14 § 10 ust. 5 pkt 3",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "cd836055-9fdc-4c3f-8cc0-43ab21c9701f",
+      "question": "W jakim przypadku kierujący komórką ds. eksploatacji jest zobowiązany do przeprowadzenia postępowania wyjaśniającego na każdorazowe żądanie Biura Eksploatacji i Obsługi Pasażerskiej Centrali PLK SA?",
+      "answers": {
+        "A": "W celu ustalenia przyczyn nieprawidłowości zakłócających planowy przejazd pociągów oraz wskazania winnych naruszenia procedur związanych z prowadzeniem ruchu pociągów",
+        "B": "W celu sporządzenia zbiorczych raportów o punktualności dla wszystkich przewoźników kolejowych na sieci PLK SA",
+        "C": "W celu aktualizacji danych w systemie SEPE po zakończeniu każdego okresu sprawozdawczego",
+        "D": "W celu nadzoru nad prawidłowością i terminowością przeprowadzania zleconych postępowań wyjaśniających"
+      },
+      "correct": "A",
+      "explanation": "Ir-14 § 10 ust. 6 pkt 4",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "9214b8e8-b53b-4194-9897-17e619d387a7",
+      "question": "Co należy do zadań Dyrektora Zakładu Linii Kolejowych w zakresie sprawozdawczości statystycznej?",
+      "answers": {
+        "A": "Codzienne zapoznawanie się z raportem o przyczynach opóźnień pociągów i podejmowanie kroków naprawczych",
+        "B": "Kontrola biegu pociągów pasażerskich i towarowych w zakresie realizacji rozkładu jazdy oraz nadzór nad prawidłowością i terminowością przeprowadzania zleconych postępowań wyjaśniających",
+        "C": "Sporządzanie zbiorczych całościowych raportów o punktualności i przyczynach opóźnień pociągów",
+        "D": "Wyjaśnianie i korygowanie rozbieżności między dokumentacją źródłową a danymi w systemie SEPE"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 10 ust. 7",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "32829b3d-8a44-4bdf-941e-99aed0e40fbb",
+      "question": "Do kiedy powinny być zakończone postępowania wyjaśniające wszczęte przez Zakłady Linii Kolejowych w sprawie opóźnień pociągów?",
+      "answers": {
+        "A": "Do końca miesiąca, w którym nastąpiło opóźnienie",
+        "B": "Do dnia 15 następnego miesiąca",
+        "C": "Do dnia 30 następnego miesiąca",
+        "D": "W ciągu 7 dni od wszczęcia postępowania"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 10 ust. 8",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "9c91c046-c572-46c1-b692-c5b19899a09c",
+      "question": "Jeżeli z zakończonego postępowania wyjaśniającego wynikają zmiany w klasyfikacji przyczyn opóźnienia, w jakiej formie należy przekazać informację o aktualizacji danych przewoźnikowi?",
+      "answers": {
+        "A": "Pisemnie, w formie protokołu postępowania wyjaśniającego",
+        "B": "Telefonicznie, niezwłocznie po zakończeniu postępowania",
+        "C": "W formie elektronicznej na adres email przewoźnika",
+        "D": "Za pośrednictwem systemu SEPE, poprzez bezpośrednią aktualizację danych"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 10 ust. 9",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "46dc1c4e-44c8-403a-8cd2-18d17d9cbc22",
+      "question": "Kto jest odpowiedzialny za merytoryczną poprawność opisów przyczyn opóźnień wprowadzanych do Księgi wydarzeń?",
+      "answers": {
+        "A": "Pracownicy odpowiedzialni za kontrolę jakości kursowania pociągów",
+        "B": "Dyspozytorzy liniowi opisujący przyczyny opóźnień pociągów",
+        "C": "Kierownictwo Zakładów Linii Kolejowych",
+        "D": "Biuro Eksploatacji i Obsługi Pasażerskiej Centrali PLK SA"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 10 ust. 10",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "ab7ee255-567d-4ab9-a1a2-786b3dce4b5b",
+      "question": "Jakie rodzaje sprawozdawczości stosuje się w zakresie punktualności pociągów?",
+      "answers": {
+        "A": "Techniczna, handlowa i operacyjna",
+        "B": "Techniczna, handlowa i międzynarodowa",
+        "C": "Handlowa, międzynarodowa i statystyczna",
+        "D": "Techniczna, operacyjna i statystyczna"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 11 ust. 1",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "7e37442b-4861-4c3f-aa38-2f1cfc230646",
+      "question": "Co prezentuje sprawozdawczość techniczna dotycząca pociągów?",
+      "answers": {
+        "A": "Kluczowe wskaźniki wydajności sieci uzgodnione przez międzynarodowe organizacje",
+        "B": "Opóźnienia pociągów i ich przyczyny wg zasad Regulaminu sieci",
+        "C": "Punktualność kursujących pociągów wg rzeczywistego opóźnienia na przybyciu do końcowych stacji relacyjnych",
+        "D": "Dane o regularności pociągów na przejściach granicznych z sąsiadującymi Zarządami Kolei"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 11 ust. 2",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "4167cdd6-bde9-4929-a2c5-b96f17c11a4b",
+      "question": "Kto opracowuje sprawozdawczość techniczną dla całej sieci zarządzanej przez PLK SA?",
+      "answers": {
+        "A": "Zakłady linii kolejowych na obszarze ich działania",
+        "B": "Biuro Eksploatacji i Obsługi Pasażerskiej Centrali PLK SA",
+        "C": "Przewoźnicy kolejowi kursujący na sieci PLK SA",
+        "D": "Międzynarodowe organizacje zajmujące się analizą rynku przewozów kolejowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 11 ust. 2",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "fbe3dbce-b4af-4050-8f0f-976de84717d8",
+      "question": "Co obejmuje sprawozdawczość handlowa opracowywana przez Biuro Eksploatacji i Obsługi Pasażerskiej Centrali PLK SA?",
+      "answers": {
+        "A": "Punktualność pociągów wg parametrów uzgodnionych przez międzynarodowe organizacje oraz kluczowe wskaźniki wydajności sieci",
+        "B": "Dane o punktualności i regularności pociągów na sieci PLK SA oraz rozliczenie rekompensat za opóźnienia wynikające z realizacji Planu wykonania",
+        "C": "Dane statystyczne o kursowaniu pociągów pasażerskich i towarowych na przejściach granicznych",
+        "D": "Punktualność pociągów liczoną dla każdej minuty opóźnienia na przybyciu do końcowych stacji relacyjnych"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 11 ust. 4",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "c09d9d7b-3ee4-458b-be16-dcd5b2bba16d",
+      "question": "Gdzie określane są wartości progowe opóźnienia pociągu, dla których uważa się, że pociąg kursował punktualnie?",
+      "answers": {
+        "A": "W umowach o wykorzystanie zdolności przepustowej oraz w rozporządzeniach ministra właściwego do spraw transportu",
+        "B": "W Regulaminie sieci oraz w wieloletnich programach w zakresie finansowania kosztów zarządzania infrastrukturą kolejową",
+        "C": "W przepisach wewnętrznych zakładów linii kolejowych oraz w zarządzeniach Centrali PLK SA",
+        "D": "W Regulaminie sieci oraz w umowach zawieranych z przewoźnikami kolejowymi"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 11 ust. 5",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "6e1d0d58-412d-430e-b24f-b813d53b515a",
+      "question": "Co obejmuje sprawozdawczość międzynarodowa w zakresie kursowania pociągów?",
+      "answers": {
+        "A": "Rozliczenie rekompensat za opóźnienia pociągów wynikające z realizacji Planu wykonania",
+        "B": "Punktualność kursowania pociągów pasażerskich i towarowych sieciowo na przejściach granicznych z sąsiadującymi Zarządami Kolei",
+        "C": "Dane o punktualności i regularności pociągów na sieci PLK SA",
+        "D": "Wartości progowe opóźnienia pociagów uzgodnione z zakładami linii kolejowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 11 ust. 9",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "70ae0372-a48b-482f-ac64-17a0172f5255",
+      "question": "Gdzie dostępne są wszystkie niezbędne raporty w zakresie danych statystycznych i kluczowych wskaźników wydajności sieci?",
+      "answers": {
+        "A": "W Regulaminie sieci PLK SA",
+        "B": "W wieloletnich programach finansowania kosztów zarządzania infrastrukturą kolejową",
+        "C": "W SEPE",
+        "D": "W Biurze Eksploatacji i Obsługi Pasażerskiej Centrali PLK SA"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 11 ust. 10",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "f3a09cb0-519d-4fa4-bed9-d48e1697014e",
+      "question": "Czym jest opóźnienie wtórne pociągu?",
+      "answers": {
+        "A": "Opóźnienie spowodowane bezpośrednio wystąpieniem wydarzenia zawinionego przez PLK SA lub czynnik zewnętrzny",
+        "B": "Opóźnienie spowodowane przejazdem innego już opóźnionego pociągu lub kolejne opóźnienie już opóźnionego pociągu wynikające tylko z techniki prowadzenia ruchu pociągów",
+        "C": "Opóźnienie wynikające z niezgodności liczby uruchomionych pociągów z normą wyznaczoną w rozkładzie jazdy",
+        "D": "Opóźnienie spowodowane bezpośrednio usterką infrastruktury kolejowej przypisaną do kodu z Załącznika nr 1a"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 2 ust. 2",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "5ab2e5ec-4afb-4211-8a37-fb327e600d5e",
+      "question": "Co określa wskaźnik punktualności kwalifikowanej?",
+      "answers": {
+        "A": "Zgodność liczby uruchomionych pociągów z normą wyznaczoną w rozkładzie jazdy pociągów",
+        "B": "Procentowy udział pociągów, które nie były opóźnione przez zarządcę infrastruktury lub przez przewoźników kolejowych",
+        "C": "Liczbę rekompensat wypłaconych przewoźnikom kolejowym za zakłócenia w ruchu pociągów",
+        "D": "Stosunek opóźnień pierwotnych do opóźnień wtórnych w danym okresie rozliczeniowym"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 2 ust. 4",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "44ace104-6dc4-46ce-9cc2-7ab344deec10",
+      "question": "Czym jest plan wykonania w kontekście sieci kolejowej?",
+      "answers": {
+        "A": "Dokument określający rozkład jazdy pociągów na daną dobę eksploatacyjną",
+        "B": "Wskaźnik liczony dla wszystkich pociągów kursujących w danym okresie, określający procentowy udział pociągów nienaruszających normy punktualności",
+        "C": "System skuteczności działania przewidujący sankcje za działania zakłócające eksploatację sieci w celu zachęty do minimalizowania zakłóceń i poprawy wyników sieci kolejowej",
+        "D": "Wykaz wydarzeń i usterek powodujących opóźnienia pociągów wraz z przypisanymi kodami z Załącznika nr 1a"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 2 ust. 3",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "4154c226-90f6-4870-8172-5565ab24a632",
+      "question": "Co rozumie się pod pojęciem punktualności biegu pociągów?",
+      "answers": {
+        "A": "Stopień przestrzegania rozkładu jazdy przy prowadzeniu ruchu pociągów",
+        "B": "Procent pociągów, które dotarły do celu bez żadnego postoju nieplanowego",
+        "C": "Średni czas opóźnienia wszystkich kursujących pociągów w ciągu doby",
+        "D": "Liczba pociągów, które przybyły do stacji końcowej przed planowanym czasem"
+      },
+      "correct": "A",
+      "explanation": "Ir-14 § 3 ust. 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "99122a20-cff9-4d2f-a84d-81ecbdec073b",
+      "question": "Ile wynosi próg opóźnienia, dla którego pociągi pasażerskie są uważane za punktualne w PLK SA?",
+      "answers": {
+        "A": "3 minuty",
+        "B": "5 minut",
+        "C": "10 minut",
+        "D": "15 minut"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 3 ust. 4",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "c46b2199-18b4-408e-9620-b3b5b76494c4",
+      "question": "Ile wynosi próg opóźnienia, dla którego pociągi towarowe są uważane za punktualne w PLK SA?",
+      "answers": {
+        "A": "5 minut",
+        "B": "10 minut",
+        "C": "15 minut",
+        "D": "20 minut"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 3 ust. 4",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "833b71cd-b1f9-43e6-bf13-b301a4c8883c",
+      "question": "Jak oblicza się przeciętne opóźnienie w minutach przypadające na jeden pociąg opóźniony?",
+      "answers": {
+        "A": "Ogólną liczbę minut opóźnień pociągów dzieli się przez liczbę pociągów kursujących",
+        "B": "Ogólną liczbę minut opóźnień pociągów dzieli się przez liczbę pociągów opóźnionych",
+        "C": "Liczbę pociągów opóźnionych dzieli się przez ogólną liczbę pociągów kursujących",
+        "D": "Ogólną liczbę minut opóźnień pociągów dzieli się przez liczbę pociągów punktualnych"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 3 ust. 5",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "35fe98da-f9da-4df6-8fdf-de71732a1a39",
+      "question": "Jak oblicza się przeciętne opóźnienie w minutach przypadające na jeden pociąg kursujący?",
+      "answers": {
+        "A": "Ogólną liczbę minut opóźnień pociągów dzieli się przez liczbę pociągów opóźnionych",
+        "B": "Liczbę pociągów opóźnionych dzieli się przez ogólną liczbę pociągów kursujących",
+        "C": "Ogólną liczbę minut opóźnień pociągów dzieli się przez liczbę pociągów kursujących",
+        "D": "Ogólną liczbę minut opóźnień pociągów dzieli się przez liczbę pociągów punktualnych"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 3 ust. 6",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "573c97f8-638b-4fbc-b097-8d2dab76d632",
+      "question": "Na podstawie czego mierzona jest punktualność pociągu?",
+      "answers": {
+        "A": "Porównania planowanego czasu przejazdu z rzeczywistym czasem przejazdu przez określone punkty pomiarowe",
+        "B": "Porównania liczby pociągów punktualnych z liczbą pociągów opóźnionych w ciągu doby",
+        "C": "Pomiaru czasu postoju na stacjach pośrednich w stosunku do rozkładu jazdy",
+        "D": "Porównania planowanej liczby kursów z rzeczywistą liczbą wykonanych kursów"
+      },
+      "correct": "A",
+      "explanation": "Ir-14 § 3 ust. 7",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "54fa3cef-3134-4256-bda3-d98f164b8dc6",
+      "question": "Czym jest punkt pomiarowy w kontekście pomiaru punktualności pociągów?",
+      "answers": {
+        "A": "Stacja końcowa biegu pociągu, w której dokonuje się ostatecznego pomiaru opóźnienia",
+        "B": "Konkretna lokalizacja na trasie (posterunek ruchu), w której zapisywane są dane o przejeździe pociągów",
+        "C": "Miejsce przekazania odpowiedzialności pomiędzy zarządcami infrastruktury",
+        "D": "Węzeł komunikacyjny, w którym obowiązkowo mierzy się czas przejazdu pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 3 ust. 8",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "f3bc9172-5ca7-4a90-b94e-089d681d109a",
+      "question": "Jak w PLK SA zaokrągla się czasy przyjazdu, odjazdu i przejazdu przy pomiarze punktualności?",
+      "answers": {
+        "A": "Sekundy zaokrągla się w górę do pełnych minut (np. 5:30 to 6 minut)",
+        "B": "Sekundy zaokrągla się w dół do pełnych minut (np. 5:59 to 5 minut)",
+        "C": "Sekundy zaokrągla się zgodnie z zasadą arytmetyczną (do 29 sek. w dół, od 30 sek. w górę)",
+        "D": "Nie bierze się pod uwagę dziesiątek sekund (np. 5:35 to 5,3 minuty)"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 3 ust. 11",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "375f776f-41ed-4fca-acc0-4bae9520c2bf",
+      "question": "Kto dokonuje podziału przyczyn opóźnień pociągów?",
+      "answers": {
+        "A": "Przewoźnicy kolejowi samodzielnie, bez udziału zarządcy infrastruktury",
+        "B": "Wspólna komisja złożona z przedstawicieli zarządcy infrastruktury i przewoźników kolejowych",
+        "C": "Zarządca infrastruktury, a przewoźnicy kolejowi zatwierdzają te przyczyny",
+        "D": "Urząd Transportu Kolejowego na podstawie raportów zarządcy infrastruktury"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 3 ust. 2",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "81f3cbd1-b77f-456a-a3ba-78b57bec7449",
+      "question": "Jakie są mierniki punktualności biegu pociągów?",
+      "answers": {
+        "A": "Procent punktualności, liczba odwołanych pociągów oraz liczba pociągów z opóźnieniem powyżej 30 minut",
+        "B": "Procent punktualności, przeciętne opóźnienie na jeden pociąg opóźniony oraz przeciętne opóźnienie na jeden pociąg kursujący",
+        "C": "Liczba opóźnionych pociągów, suma minut opóźnień oraz procent pociągów odwołanych",
+        "D": "Procent punktualności, wskaźnik niezawodności taboru oraz liczba awarii na linii"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 3 ust. 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "15ccc182-2b20-4501-b533-c76f4ce9b374",
+      "question": "Czym jest punktualność biegu pociągów?",
+      "answers": {
+        "A": "Stopień przestrzegania rozkładu jazdy przy prowadzeniu ruchu pociągów",
+        "B": "Procent pociągów, które dotarły do stacji docelowej bez awarii",
+        "C": "Liczba minut opóźnienia przypadająca na jeden pociąg kursujący",
+        "D": "Wskaźnik wyrażający stosunek czasu jazdy do czasu postoju pociągów"
+      },
+      "correct": "A",
+      "explanation": "Ir-14 § 3 ust. 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "bcede431-7d07-4f24-981a-ec0eee618969",
+      "question": "Ile wynosi próg opóźnienia, dla którego pociągi pasażerskie są uważane za punktualne w PLK SA?",
+      "answers": {
+        "A": "3 minuty",
+        "B": "10 minut",
+        "C": "5 minut",
+        "D": "15 minut"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 3 ust. 4",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "08822446-62c7-4040-872a-04ad17dde4eb",
+      "question": "Ile wynosi próg opóźnienia, dla którego pociągi towarowe są uważane za punktualne w PLK SA?",
+      "answers": {
+        "A": "5 minut",
+        "B": "10 minut",
+        "C": "20 minut",
+        "D": "15 minut"
+      },
+      "correct": "D",
+      "explanation": "Ir-14 § 3 ust. 4",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "a7e01f81-1859-46ba-b1b7-ebfa37430cc3",
+      "question": "Jak oblicza się przeciętne opóźnienie w minutach przypadające na jeden pociąg opóźniony?",
+      "answers": {
+        "A": "Dzieląc ogólną liczbę minut opóźnień pociągów przez liczbę pociągów kursujących",
+        "B": "Dzieląc ogólną liczbę minut opóźnień pociągów przez liczbę pociągów opóźnionych",
+        "C": "Dzieląc liczbę pociągów opóźnionych przez ogólną liczbę pociągów kursujących",
+        "D": "Dzieląc ogólną liczbę pociągów kursujących przez liczbę minut opóźnień"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 3 ust. 5",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "4a2d6a9a-f3e3-4af9-9179-372c3ac26191",
+      "question": "Jak oblicza się przeciętne opóźnienie w minutach przypadające na jeden pociąg kursujący?",
+      "answers": {
+        "A": "Dzieląc ogólną liczbę minut opóźnień pociągów przez liczbę pociągów opóźnionych",
+        "B": "Dzieląc liczbę pociągów opóźnionych przez ogólną liczbę minut opóźnień",
+        "C": "Dzieląc ogólną liczbę minut opóźnień pociągów przez liczbę pociągów kursujących",
+        "D": "Mnożąc procent punktualności przez ogólną liczbę pociągów kursujących"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 3 ust. 6",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "dfacf8d4-5d9e-4e40-a65a-1f121b30b48c",
+      "question": "Czym jest punkt pomiarowy w kontekście pomiaru punktualności pociągów?",
+      "answers": {
+        "A": "Stacja, na której pociąg ma zaplanowany postój dłuższy niż 5 minut",
+        "B": "Konkretna lokalizacja na trasie (posterunek ruchu), w której zapisywane są dane o przejeździe pociągów",
+        "C": "Granica pomiędzy zakładami linii kolejowych, w której mierzy się opóźnienia",
+        "D": "Stacja końcowa biegu pociągu, na której dokonuje się pomiaru czasu przyjazdu"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 3 ust. 8",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "9ae46d80-8dc9-47f8-b368-ba7dc6c0b026",
+      "question": "Na podstawie czego mierzona jest punktualność pociągu?",
+      "answers": {
+        "A": "Porównania liczby opóźnionych pociągów z ogólną liczbą pociągów kursujących",
+        "B": "Porównania rzeczywistego czasu przejazdu z czasem przejazdu zaplanowanym w rozkładzie jazdy przez określone punkty pomiarowe",
+        "C": "Porównania czasu odjazdu ze stacji początkowej z czasem przyjazdu do stacji końcowej",
+        "D": "Porównania liczby minut opóźnienia z normami czasowymi ustalonymi przez Centralę PLK SA"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 3 ust. 7",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "2a8c2c71-81ab-40d8-a92b-d3d2ad4fc2f3",
+      "question": "Jak w PLK SA zaokrągla się czasy przyjazdu, odjazdu i przejazdu przy pomiarze opóźnień?",
+      "answers": {
+        "A": "Sekundy powyżej 30 zaokrągla się w górę, poniżej 30 — w dół",
+        "B": "Czas jest wyrażany z dokładnością do 10 sekund",
+        "C": "Sekundy są pomijane, np. 5:59 traktowane jest jako 5 minut",
+        "D": "Czas zaokrągla się do pełnych 5 minut"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 3 ust. 11",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "6aaa5b9c-8e97-4eb0-bacd-a23055f157e3",
+      "question": "Kto jest odpowiedzialny za podział przyczyn opóźnień?",
+      "answers": {
+        "A": "Przewoźnicy kolejowi wspólnie z organem regulacyjnym",
+        "B": "Zarządca infrastruktury, przy czym przewoźnicy kolejowi zatwierdzają te przyczyny",
+        "C": "Przewoźnicy kolejowi, przy czym zarządca infrastruktury zatwierdza te przyczyny",
+        "D": "Centralny organ PLK SA bez udziału przewoźników kolejowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 3 ust. 2",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "a0cd21f8-0196-4608-b13b-0fda646a7f40",
+      "question": "Jakie są mierniki punktualności biegu pociągów?",
+      "answers": {
+        "A": "Procent punktualności, liczba pociągów odwołanych i liczba pociągów kursujących",
+        "B": "Procent punktualności, przeciętne opóźnienie na jeden pociąg opóźniony i przeciętne opóźnienie na jeden pociąg kursujący",
+        "C": "Procent punktualności, liczba pociągów opóźnionych i ogólna liczba minut opóźnień",
+        "D": "Procent punktualności kwalifikowanej, przeciętne opóźnienie na jeden pociąg i liczba punktów pomiarowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 3 ust. 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "89de0ab8-8d19-40ed-835f-a7cdd3084046",
+      "question": "Co oznacza pierwsza grupa numeryczna w pełnym numerze kodu opóźnienia?",
+      "answers": {
+        "A": "Przyczynę opóźnienia",
+        "B": "Winnego opóźnienia",
+        "C": "Wielkość opóźnienia podaną w minutach",
+        "D": "Lokalizację opóźnienia"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 4 ust. 2 pkt 1",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "9e889328-d334-40a9-9ead-775329980300",
+      "question": "Co oznaczają pierwsze dwie cyfry drugiej grupy w kodzie opóźnienia?",
+      "answers": {
+        "A": "Numer identyfikacyjny winnego opóźnienia w rejestrze SEPE",
+        "B": "Wielkość opóźnienia w minutach",
+        "C": "Grupę przyczyn opóźnień, według której opracowywane są dane statystyczne na poziomie międzynarodowym",
+        "D": "Zakład Linii Kolejowych, na obszarze którego pociąg doznał opóźnienia"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 4 ust. 2 pkt 2",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "a09dcf17-0ddc-4a04-83e1-82662a92cc80",
+      "question": "Co wskazuje czwarta grupa numeryczna w kodzie opóźnienia?",
+      "answers": {
+        "A": "Przyczynę opóźnienia zgodną z załącznikiem nr 1a",
+        "B": "Winnego opóźnienia zarejestrowanego w systemie SEPE",
+        "C": "Wielkość opóźnienia podaną w minutach",
+        "D": "Zakład Linii Kolejowych i Sekcję Eksploatacji, na obszarze których pociąg doznał opóźnienia"
+      },
+      "correct": "D",
+      "explanation": "Ir-14 § 4 ust. 2 pkt 4",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "a9460e4b-6c1d-4634-b6c9-03fdc0b3ce54",
+      "question": "Do czego służy system kodów przyczyn opóźnień pociągów?",
+      "answers": {
+        "A": "Do automatycznego obliczania rekompensat dla przewoźników",
+        "B": "Do zapewnienia podstawowego przeglądu głównych przyczyn pierwotnych i wtórnych opóźnień",
+        "C": "Do identyfikacji maszynistów odpowiedzialnych za opóźnienia",
+        "D": "Do planowania rozkładów jazdy na kolejny rok"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 5 ust. 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "bd630df6-23c9-41be-91da-f2b896900171",
+      "question": "Któremu podmiotowi jest przypisana każda pierwotna przyczyna opóźnienia pociągu?",
+      "answers": {
+        "A": "Wyłącznie przewoźnikowi krajowemu lub zagranicznemu",
+        "B": "ZI, PK lub czynnikowi zewnętrznemu",
+        "C": "Wyłącznie zarządcy infrastruktury (ZI)",
+        "D": "Wyłącznie przewoźnikowi (PK) lub czynnikowi zewnętrznemu"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 5 ust. 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "bb43dd0c-ea6e-43de-b6c4-f15b9c9dd727",
+      "question": "Jakim kodem opisuje się opóźnienie, gdy istnieją trudności w powiązaniu go z konkretną przyczyną pierwotną?",
+      "answers": {
+        "A": "Kodem z grupy przyczyn zewnętrznych, rozpoczynającym się cyfrą 8",
+        "B": "Kodem z grupy przyczyn pierwotnych przypisanych ZI",
+        "C": "Kodem z grupy przyczyn wtórnych, rozpoczynającym się cyfrą 9",
+        "D": "Kodem z grupy przyczyn technicznych, rozpoczynającym się cyfrą 7"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 5 ust. 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "332a9cf2-27e7-474d-8b13-1ad6d0dfb066",
+      "question": "Co opisują pierwotne przyczyny opóźnień?",
+      "answers": {
+        "A": "Konsekwencje już istniejącego opóźnienia tego samego lub innego pociągu",
+        "B": "Rzeczywiste wydarzenie, które doprowadziło do opóźnienia pociągu",
+        "C": "Czynniki zewnętrzne niezależne od zarządcy infrastruktury",
+        "D": "Działania podjęte w celu zmniejszenia opóźnień w przyszłości"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 5 ust. 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "79c27cf2-abfa-42f5-9933-c5088ed8d5af",
+      "question": "Z czego składają się głównie wtórne przyczyny opóźnień?",
+      "answers": {
+        "A": "Z awarii taboru, nieprawidłowości w ruchu i zdarzeń losowych",
+        "B": "Z zajętości torów, przejścia personelu i taboru oraz połączenia (skomunikowania)",
+        "C": "Z opóźnień na granicach sieci, błędów dyspozytorskich i awarii urządzeń srk",
+        "D": "Z przekroczenia czasu jazdy, przerw w zasilaniu i zdarzeń zewnętrznych"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 5 ust. 3",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "c834f0e1-a930-43ec-bd7a-100435203cf5",
+      "question": "Jaki jest główny powód określania przyczyn opóźnień pociągów?",
+      "answers": {
+        "A": "Umożliwienie naliczania kar umownych dla przewoźników",
+        "B": "Sporządzanie raportów dla Urzędu Transportu Kolejowego",
+        "C": "Umożliwienie podjęcia działań w celu zmniejszenia lub uniknięcia tych samych przyczyn w przyszłości",
+        "D": "Bieżące informowanie pasażerów o przyczynach opóźnień"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 5 ust. 4",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "d041167b-f08d-47a2-9bf3-653ef2ba848d",
+      "question": "Do czego służą opóźnienia pociągów opisane za pomocą kodów, poza analizami punktualności?",
+      "answers": {
+        "A": "Do wyznaczania optymalnych tras dla pociągów towarowych",
+        "B": "Do rozliczeń z przewoźnikami rekompensat (kar umownych) należnych w związku z realizacją Planu wykonania",
+        "C": "Do oceny pracy maszynistów i drużyn trakcyjnych",
+        "D": "Do planowania remontów infrastruktury kolejowej"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 5 ust. 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "936f95e3-6e5b-4ee0-8e84-96ed450e0b16",
+      "question": "Na jakie kategorie zalicza się minuty opóźnień pociągów pasażerskich i towarowych powstałych na całej drodze przebiegu?",
+      "answers": {
+        "A": "PLK SA, przewoźników krajowych, przyczyny techniczne i przyczyny organizacyjne",
+        "B": "PLK SA i innych zarządców infrastruktury, przewoźników krajowych i zagranicznych, przyczyny zewnętrzne oraz przyczyny wtórne",
+        "C": "Zarządcę infrastruktury, operatorów stacyjnych, służby ratunkowe i inne podmioty",
+        "D": "Zakłady linii kolejowych, przewoźników regionalnych, Urząd Transportu Kolejowego i czynniki losowe"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 5 ust. 6",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "e9439d95-39a0-425e-9dc9-ed6b7c9e0abe",
+      "question": "Co oznacza symbol M we wzorze obliczania minut opóźnień na terenie zakładu linii kolejowych?",
+      "answers": {
+        "A": "Liczba minut opóźnień pociągów przyjętych z sąsiednich zakładów linii kolejowych",
+        "B": "Liczba minut opóźnień pociągów przekazanych do zarządów kolei obcych",
+        "C": "Liczba minut opóźnień na terenie zakładu linii kolejowych",
+        "D": "Liczba minut opóźnień na sieci PLK SA"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 5 ust. 7 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "c4e8b7c5-42c0-4efd-92ca-d69740c2237b",
+      "question": "Co opisują pierwotne przyczyny opóźnień pociągów?",
+      "answers": {
+        "A": "Konsekwencje już istniejącego opóźnienia tego samego lub innego pociągu",
+        "B": "Rzeczywiste wydarzenie, które doprowadziło do opóźnienia pociągu",
+        "C": "Zajętość torów szlakowych i stacyjnych wynikającą z ruchu pociągów",
+        "D": "Trudności w powiązaniu opóźnienia z odpowiedzialnym podmiotem"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 5 ust. 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "a76bf3d6-37be-4f5c-bfd9-a8224307f841",
+      "question": "Co opisują wtórne przyczyny opóźnień pociągów?",
+      "answers": {
+        "A": "Rzeczywiste wydarzenie, które bezpośrednio doprowadziło do opóźnienia pociągu",
+        "B": "Przyczyny opóźnień przypisane do odpowiedzialności PLK SA lub przewoźnika",
+        "C": "Konsekwencje już istniejącego opóźnienia tego samego lub innego pociągu",
+        "D": "Czynniki zewnętrzne niezależne od zarządcy infrastruktury i przewoźnika"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 5 ust. 3",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "0459484b-60dd-4ecc-bec1-eb49cfca53a5",
+      "question": "Z jakich głównych elementów składają się wtórne przyczyny opóźnień?",
+      "answers": {
+        "A": "Awarii taboru, nieprawidłowości w ruchu pociągów oraz czynników atmosferycznych",
+        "B": "Zajętości torów, przejścia personelu i taboru oraz połączenia (skomunikowania)",
+        "C": "Opóźnień na szlaku, opóźnień stacyjnych oraz opóźnień na stacjach granicznych",
+        "D": "Niedoborów obsady, usterek infrastruktury oraz zakłóceń w zarządzaniu ruchem"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 5 ust. 3 pkt 1-3",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "b676ec13-ea98-430b-a9e3-5131e457d861",
+      "question": "Jaki jest główny powód określania przyczyn opóźnień pociągów?",
+      "answers": {
+        "A": "Umożliwienie rozliczeń finansowych pomiędzy zarządcą infrastruktury a przewoźnikami",
+        "B": "Zapewnienie podstaw do sporządzania statystyk punktualności kursowania pociągów",
+        "C": "Umożliwienie podjęcia działań w celu zmniejszenia lub uniknięcia tych samych przyczyn w przyszłości",
+        "D": "Przypisanie odpowiedzialności za opóźnienie do konkretnego podmiotu (ZI lub PK)"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 5 ust. 4",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "f80307bf-dbc7-4a67-b14e-0e069af1bf5b",
+      "question": "Do czego służą opóźnienia pociągów opisane za pomocą określonych kodów?",
+      "answers": {
+        "A": "Do analiz punktualności oraz do rozliczeń rekompensat należnych z tytułu realizacji Planu wykonania",
+        "B": "Wyłącznie do przypisania odpowiedzialności za opóźnienie do ZI, PK lub czynnika zewnętrznego",
+        "C": "Do sporządzania raportów przekazywanych Urzędowi Transportu Kolejowego",
+        "D": "Wyłącznie do wewnętrznych rozliczeń pomiędzy zakładami linii kolejowych PLK SA"
+      },
+      "correct": "A",
+      "explanation": "Ir-14 § 5 ust. 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "63c547bd-cd3a-4a98-b986-dd22b7ef478c",
+      "question": "Na ile kategorii zalicza się minuty opóźnień pociągów pasażerskich i towarowych powstałych na całej drodze przebiegu?",
+      "answers": {
+        "A": "Dwie: zarządcy infrastruktury i przewoźnicy",
+        "B": "Trzy: PLK SA, przewoźnicy i przyczyny zewnętrzne",
+        "C": "Cztery: PLK SA i inni zarządcy, przewoźnicy, przyczyny zewnętrzne, przyczyny wtórne",
+        "D": "Pięć: PLK SA, inni zarządcy, przewoźnicy krajowi, przewoźnicy zagraniczni i przyczyny zewnętrzne"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 5 ust. 6 pkt 1-4",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "e73cf939-97e5-4878-a12b-4563f1eb3307",
+      "question": "Jak oblicza się liczbę minut opóźnień na terenie zakładu linii kolejowych (wzór M)?",
+      "answers": {
+        "A": "M = Z + O + S (suma opóźnień zakończonych i przekazanych oraz przyjętych)",
+        "B": "M = Z - (O + S), gdzie Z to opóźnienia zakończone i przekazane, O i S to odliczane opóźnienia przyjęte",
+        "C": "M = K - (W + Z), gdzie K to opóźnienia zakończone na sieci PLK SA",
+        "D": "M = Z - O, gdzie Z to opóźnienia przekazane do sąsiednich zakładów, O to opóźnienia przyjęte"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 5 ust. 7 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "785b957e-ab6e-4a0c-b83e-21c5fcad32cd",
+      "question": "Co oznacza symbol W we wzorze L = K - (W + Z) stosowanym do obliczania minut opóźnień na sieci PLK SA?",
+      "answers": {
+        "A": "Liczba minut opóźnień pociągów, które zakończyły bieg z opóźnieniem na sieci PLK SA",
+        "B": "Liczba minut opóźnień pociągów przyjętych z zagranicy, jeżeli zwiększyły opóźnienie na sieci PLK SA",
+        "C": "Liczba minut opóźnień pociągów przyjętych z kolei obcych i innych zarządców, które nie zostały opóźnione na sieci PLK SA",
+        "D": "Liczba minut opóźnień pociągów przekazanych do zarządów kolei obcych z opóźnieniem"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 5 ust. 7 pkt 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "d784d3e0-4633-45b0-b403-90bcec02105f",
+      "question": "Jak traktowane jest wprowadzenie zastępczej komunikacji autobusowej zamiast pociągu?",
+      "answers": {
+        "A": "Jako opóźnienie pociągu wymagające osobnego kodu przyczyny",
+        "B": "Jako odwołanie pociągu",
+        "C": "Jako zmiana trasy pociągu bez skutków dla usługi",
+        "D": "Jako częściowe uruchomienie usługi na odcinku zastępczym"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 6 ust. 2",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "075b97bf-a38e-4341-89e8-c704956112e8",
+      "question": "Co wchodzi w skład pociągów kursujących na terenie zakładu linii kolejowych (obszarowo)?",
+      "answers": {
+        "A": "Wszystkie pociągi, które zakończyły bieg na terenie zakładu linii kolejowych oraz te, które zostały przekazane do sąsiednich zakładów linii kolejowych, zarządów kolei obcych lub innych zarządców infrastruktury",
+        "B": "Wyłącznie pociągi, które zakończyły bieg na stacjach końcowych sieci PLK SA",
+        "C": "Wszystkie pociągi, które zakończyły bieg na terenie zakładu linii kolejowych oraz te, które zostały przekazane wyłącznie do zarządów kolei obcych",
+        "D": "Pociągi, które ukończyły jazdę na stacjach zakładu linii kolejowych, z wyłączeniem pociągów przekazanych do innych zarządców infrastruktury"
+      },
+      "correct": "A",
+      "explanation": "Ir-14 § 7 ust. 1",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "3116a8bb-53db-44ff-846a-e1de07ea1b39",
+      "question": "Co wchodzi w skład pociągów kursujących na sieci PLK SA (sieciowo)?",
+      "answers": {
+        "A": "Wszystkie pociągi, które zakończyły bieg na terenie zakładu linii kolejowych oraz te przekazane do sąsiednich zakładów linii kolejowych",
+        "B": "Wszystkie pociągi, które zakończyły bieg na terenie sieci kolejowej, oraz te które zostały przekazane do zarządów kolei obcych lub innych zarządców infrastruktury",
+        "C": "Pociągi, które ukończyły z opóźnieniem jazdę na stacjach końcowych sieci PLK SA",
+        "D": "Wyłącznie pociągi przekazane do zarządów kolei obcych lub innych zarządców infrastruktury"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 7 ust. 2",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "d3b7f76a-5f7f-4636-bf69-c11009511cfd",
+      "question": "Ile razy w ciągu miesiąca musi opóźnić się pociąg pasażerski ponad przyjętą normę, aby uznać go za \"chorego\"?",
+      "answers": {
+        "A": "Więcej niż 3 razy",
+        "B": "Więcej niż 10 razy",
+        "C": "Więcej niż 5 razy",
+        "D": "Więcej niż 7 razy"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 7 ust. 5",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "bd073ec1-f315-4c7e-8046-d5c9d542cfea",
+      "question": "Ile razy w ciągu miesiąca musi opóźnić się pociąg towarowy ponad przyjętą normę, aby uznać go za \"chorego\"?",
+      "answers": {
+        "A": "Więcej niż 5 razy",
+        "B": "Więcej niż 7 razy",
+        "C": "Więcej niż 15 razy",
+        "D": "Więcej niż 10 razy"
+      },
+      "correct": "D",
+      "explanation": "Ir-14 § 7 ust. 6",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "02857ac7-b822-4b2d-b60c-4c8bccbfaeb7",
+      "question": "Co powinien zrobić Zakład Linii Kolejowych, jeśli nie jest w stanie we własnym zakresie usprawnić kursowania pociągu \"chorego\"?",
+      "answers": {
+        "A": "Skierować wniosek do Urzędu Transportu Kolejowego z opisem przyczyn opóźnień",
+        "B": "Wystąpić do Centrum Zarządzania Ruchem Kolejowym z wnioskiem wskazującym przyczyny opóźnień pociągu dla spowodowania ich usunięcia",
+        "C": "Powiadomić sąsiednie zakłady linii kolejowych o problemach z kursowaniem pociągu",
+        "D": "Wystąpić do zarządu kolei obcych z wnioskiem o przejęcie obsługi pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 7 ust. 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "3a64d43e-9f07-44c7-a32d-0b41e060e201",
+      "question": "Do jakiej maksymalnej wartości opóźnienia pociągu dopuszcza się możliwość nierejestrowania tego opóźnienia, jeśli zostało ono wyzerowane i nie spowodowało opóźnień wtórnych innych pociągów?",
+      "answers": {
+        "A": "Do 1 minuty włącznie",
+        "B": "Do 2 minut włącznie",
+        "C": "Do 3 minut włącznie",
+        "D": "Do 5 minut włącznie"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 8 ust. 1",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "746d5680-446f-40cc-948b-29ca2cfc3866",
+      "question": "Kto przekazuje dyżurnemu ruchu informację o powstałym opóźnieniu pociągu, jego wielkości i przyczynie?",
+      "answers": {
+        "A": "Dyspozytor liniowy IDDE",
+        "B": "Maszynista pojazdu trakcyjnego lub inny uprawniony pracownik drużyny pociągowej przewoźnika",
+        "C": "Dyspozytor w zakładzie linii kolejowych",
+        "D": "Uprawniony pracownik przewoźnika weryfikujący kwalifikacje opóźnień"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 8 ust. 2 pkt 1",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "94413888-4f97-4c3f-9d9b-92ad8e215903",
+      "question": "Gdzie dyżurny ruchu odnotowuje wielkość i przyczynę opóźnienia pociągów powstałych na obszarze działania obsługiwanego posterunku ruchu?",
+      "answers": {
+        "A": "W systemie SEPE",
+        "B": "W raporcie dobowym przesyłanym do IDDE",
+        "C": "W dzienniku ruchu w rubryce \"Uwagi\" lub innej prowadzonej dokumentacji",
+        "D": "W protokole zdarzenia przekazywanym dyspozytorowi liniowemu"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 8 ust. 2 pkt 2",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "0eda8fb4-386c-4f19-8367-3eaad3d2337e",
+      "question": "Do kogo dyżurny ruchu składa na bieżąco telefonicznie meldunki o powstałych opóźnieniach pociągów?",
+      "answers": {
+        "A": "Do dyspozytora w zakładzie linii kolejowych",
+        "B": "Do właściwego terytorialnie dyspozytora liniowego w Ekspozyturze Zarządzania Ruchem Kolejowym (IDDE)",
+        "C": "Do maszynisty kolejnego pociągu na szlaku",
+        "D": "Do Centrum Zarządzania Ruchem Kolejowym"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 8 ust. 2 pkt 2",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "af7b308d-7ce9-4e7c-ae79-b66144f3efd1",
+      "question": "Jak należy kwalifikować opóźnienia wtórne pociągów wynikające z krzyżowania, dojścia, przepuszczania lub skomunikowania?",
+      "answers": {
+        "A": "Jako opóźnienia niezależne od zarządcy infrastruktury",
+        "B": "Zgodnie z przyczyną pierwotną",
+        "C": "Jako opóźnienia wynikające z realizacji rozkładu jazdy",
+        "D": "Zgodnie z przyczyną wtórną zarejestrowaną w SEPE"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 8 ust. 2 pkt 4",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "47ed7d46-b36e-4eba-a9e1-6ccd8ef049d1",
+      "question": "Do kiedy dyspozytor liniowy (IDDE) dokonuje autoryzacji jakości przejazdu pociągów?",
+      "answers": {
+        "A": "Nie później niż w tej samej dobie, w której pociąg zakończył bieg",
+        "B": "Nie później niż w kolejnej dobie po zakończeniu biegu pociągów",
+        "C": "Nie później niż w ciągu 48 godzin od zakończenia biegu pociągów",
+        "D": "Nie później niż w ciągu 72 godzin od zakończenia biegu pociągów"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 8 ust. 2 pkt 5",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "c299020e-5e85-4f65-9985-188ceb2aa3aa",
+      "question": "Na jakiej podstawie realizowane są reklamacje w zakresie nieprawidłowości przy opisywaniu przyczyn opóźnień pociągów?",
+      "answers": {
+        "A": "Na podstawie zapisów określonych w Regulaminie sieci",
+        "B": "Na podstawie zapisów określonych w wewnętrznych zarządzeniach zarządcy infrastruktury",
+        "C": "Na podstawie zapisów określonych w umowie o dostępie do infrastruktury kolejowej",
+        "D": "Na podstawie zapisów określonych w rozporządzeniu ministra właściwego ds. transportu"
+      },
+      "correct": "A",
+      "explanation": "Ir-14 § 8 ust. 3",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "4983077f-701d-4e32-98e2-f89c235d4cb4",
+      "question": "Co jest podstawą budowy zaufania dla prawidłowego funkcjonowania planu wykonania?",
+      "answers": {
+        "A": "Terminowe wypłacanie rekompensat przewoźnikom kolejowym",
+        "B": "Rzetelne dokumentowanie procesów zakłócających realizację rozkładu jazdy",
+        "C": "Regularne publikowanie wskaźników punktualności na stronie internetowej",
+        "D": "Uzgadnianie rozkładu jazdy pomiędzy zarządcą a przewoźnikiem"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 9 ust. 1",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "2505f08d-502a-456d-9ee1-381ed9762fcb",
+      "question": "Jak zarządca infrastruktury powinien zachowywać się wobec różnych przewoźników kolejowych w kontekście planu wykonania?",
+      "answers": {
+        "A": "Powinien faworyzować przewoźników z największą liczbą pociągo-kilometrów",
+        "B": "Powinien stosować zróżnicowane stawki rekompensaty w zależności od przewoźnika",
+        "C": "Powinien zachowywać się neutralnie wobec różnych przewoźników kolejowych",
+        "D": "Powinien priorytetowo traktować przewoźników realizujących usługi publiczne"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 9 ust. 1",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "33335f44-1f49-4c7b-8c71-417cf52f6f3d",
+      "question": "Co powinny odzwierciedlać procedury opisu przyczyn opóźnień pociągów i przypisanie właściwego kodu przyczyny opóźnienia?",
+      "answers": {
+        "A": "Planowane wskaźniki punktualności określone w Regulaminie sieci",
+        "B": "Wynegocjowane poziomy odniesienia według segmentów rynku",
+        "C": "Rzeczywistą sytuację zakłócającą proces przewozowy",
+        "D": "Uzgodnione procedury polubownego rozstrzygnięcia sporów"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 9 ust. 2",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "5bf9fbe8-6c24-4c58-ae8e-8d0a5f5e44a4",
+      "question": "Na podstawie czego mierzone są opóźnienia pociągów w ramach planu wykonania?",
+      "answers": {
+        "A": "Obowiązujących przepisów prawa o ruchu kolejowym zatwierdzonych przez UTK",
+        "B": "Wynegocjowanych wskaźników (poziomów odniesienia) według segmentów rynku",
+        "C": "Jednorodnych wskaźników stosowanych jednolicie dla całej sieci kolejowej",
+        "D": "Wskaźników ustalanych indywidualnie dla każdego przewoźnika kolejowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 9 ust. 4",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "767f4b2a-e5c6-4031-8462-66484df49bba",
+      "question": "Gdzie publikowane są wskaźniki planu wykonania określone na okres obowiązywania rocznego rozkładu jazdy pociągów?",
+      "answers": {
+        "A": "Na stronie internetowej zarządcy infrastruktury",
+        "B": "W decyzjach administracyjnych organu regulacyjnego (UTK)",
+        "C": "W Regulaminie sieci",
+        "D": "W umowach o świadczenie usług publicznych w transporcie pasażerskim"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 9 ust. 4",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "794f4219-ca78-450c-bfe5-63d8ee8446e4",
+      "question": "Do kogo przewoźnik ma prawo się odwołać w kwestiach rozliczeń planu wykonania?",
+      "answers": {
+        "A": "Do organu regulacyjnego (UTK)",
+        "B": "Do zarządcy infrastruktury",
+        "C": "Do sądu arbitrażowego",
+        "D": "Do ministra właściwego ds. transportu"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 9 ust. 5",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "afb50ec0-aa51-44a0-a90f-083e83fdcef5",
+      "question": "Od czego powinna być proporcjonalna stawka kwoty rekompensaty za opóźnienia (koszt jednej minuty opóźnienia)?",
+      "answers": {
+        "A": "Od liczby pasażerów dotkniętych opóźnieniem i czasu trwania opóźnienia",
+        "B": "Od wartości usługi kolejowej wynikającej ze zrealizowanych pociągo-kilometrów i opłaty podstawowej za korzystanie z infrastruktury kolejowej zaakceptowanej przez UTK",
+        "C": "Od wynegocjowanych wskaźników poziomów odniesienia według segmentów rynku i liczby tras pociągów",
+        "D": "Od całkowitych przychodów przewoźnika z danej trasy i obowiązujących stawek dostępu do infrastruktury"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 9 ust. 6",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "53f7b3f2-05e0-46cf-a7eb-9a6d26cffc02",
+      "question": "Kto jest obowiązany do ustalenia odpowiedzialności za opóźnienie pociągu?",
+      "answers": {
+        "A": "Przewoźnik kolejowy, który doznał opóźnienia",
+        "B": "Organ regulacyjny (UTK) jako podmiot nadzorujący ruch kolejowy",
+        "C": "Zarządca infrastruktury jako strona zbierająca dowody (dokumentację)",
+        "D": "Komisja złożona z przedstawicieli zarządcy i przewoźnika kolejowego"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 9 ust. 7",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "4a209942-69dc-4f72-9f09-11e704651605",
+      "question": "Gdzie publikowana jest jakość usług w formie wskaźnika wydajności (punktualności)?",
+      "answers": {
+        "A": "W Regulaminie sieci publikowanym co roku przez zarządcę infrastruktury",
+        "B": "Na stronie internetowej zarządcy infrastruktury",
+        "C": "W decyzjach administracyjnych organu regulacyjnego (UTK)",
+        "D": "W raportach rocznych Ministerstwa Infrastruktury"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 9 ust. 8",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "1cceb8b1-4416-45af-8038-b8d2067a464a",
+      "question": "Na jakich poziomach mogą być stosowane osłony w postaci ograniczenia kwot rekompensat wypłacanych za opóźnienie?",
+      "answers": {
+        "A": "Wyłącznie na poziomie całej sieci kolejowej zarządzanej przez PLK SA",
+        "B": "Na poziomie poszczególnych tras pociągów, jak również na płatnościach należnych w danym okresie",
+        "C": "Wyłącznie na poziomie segmentów rynku określonych w wynegocjowanych wskaźnikach",
+        "D": "Na poziomie poszczególnych przewoźników kolejowych korzystających z infrastruktury"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 9 ust. 9",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "f45b5067-0577-4137-aa6d-8aa7bf5a0480",
+      "question": "Jaki jest wyłączny cel planu wykonania?",
+      "answers": {
+        "A": "Tworzenie dodatkowych przychodów dla zarządcy infrastruktury z tytułu kar umownych",
+        "B": "Zapewnienie pokrycia kosztów utrzymania infrastruktury kolejowej",
+        "C": "Zachęcanie do większej punktualności ruchu pociągów",
+        "D": "Wyrównywanie strat przewoźników dotkniętych skutkami zakłóceń ruchu"
+      },
+      "correct": "C",
+      "explanation": "Ir-14 § 9 ust. 18",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "91c811c2-a070-4cb8-a06c-a9b3eb0369d4",
+      "question": "Co obejmuje plan wykonania w zakresie kar i nagród?",
+      "answers": {
+        "A": "Wyłącznie kary za działania zakłócające eksploatację sieci kolejowej",
+        "B": "Kary za działania zakłócające eksploatację sieci, rekompensaty dla dotkniętych przewoźników oraz premie za lepsze wykonanie od planowanego",
+        "C": "Rekompensaty dla przewoźników i premie za lepsze wykonanie, bez kar umownych",
+        "D": "Kary za działania zakłócające eksploatację sieci oraz premie za lepsze wykonanie, bez rekompensat"
+      },
+      "correct": "B",
+      "explanation": "Ir-14 § 9 ust. 15",
+      "section_ref": "§ 9",
+      "section": 9
+    }
+  ]
+}

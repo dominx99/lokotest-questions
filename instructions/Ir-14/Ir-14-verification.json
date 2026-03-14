@@ -1,0 +1,549 @@
+{
+  "instruction": "Ir-14",
+  "timestamp": "2026-03-14T22:14:22.856004",
+  "summary": {
+    "total": 91,
+    "ok": 73,
+    "fix": 5,
+    "delete": 13
+  },
+  "results": [
+    {
+      "uuid": "7ebdbcc0-2335-437e-aaed-a058ad07fb44",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "500ee5b2-23a5-409e-a706-70c19d32a518",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "9ebf6266-a84a-4175-b012-1a517a8159fa",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a1f4747e-3d20-4299-9c52-7217c538258c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "cf28f42f-ca65-431a-91dd-07bab003811b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "fc69e8ca-a2d0-4628-bc63-8208555ff117",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "6cb1e1c6-66dc-4b6e-b057-e41a676b542a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "be0fdc6d-c031-4531-a62f-0a1da0d3b544",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e6f8a265-348d-4539-97d5-e0b4ebcdf2b7",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "ba76788a-a592-474e-9e84-2cb91e6e7a75",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "29203088-76ad-400c-a10c-51b01d864f9e",
+      "status": "FIX",
+      "problems": [
+        "Odpowiedź A nieścisła: pomija zwrot 'zwracać uwagę na' przed 'realizację udzielonych zamknięć torowych', co zmienia sens (ust. 5 pkt 3 rozróżnia 'wnikliwą analizę' zamknięć planowych od 'zwracania uwagi' na realizację udzielonych zamknięć i robót)"
+      ],
+      "changes": {
+        "answers": {
+          "A": "Realizację rozkładu jazdy w czasie obowiązywania planowych zamknięć torowych, jak również realizację udzielonych zamknięć torowych i prowadzonych robót oraz obowiązywania ostrzeżeń",
+          "B": "Liczbę kursujących i opóźnionych pociągów na obszarze zakładów i na sieci PLK SA wraz z liczbą minut opóźnień",
+          "C": "Merytoryczną poprawność opisów przyczyn opóźnień wprowadzanych do Księgi wydarzeń przez dyspozytorów liniowych",
+          "D": "Zbiorcze całościowe raporty o punktualności i przyczynach opóźnień pociągów pasażerskich i towarowych"
+        },
+        "question": "Co kierujący komórką ds. eksploatacji w Zakładzie Linii Kolejowych ma obowiązek wnikliwie analizować?",
+        "explanation": "Ir-14 § 10 ust. 5 pkt 3"
+      }
+    },
+    {
+      "uuid": "cd836055-9fdc-4c3f-8cc0-43ab21c9701f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "9214b8e8-b53b-4194-9897-17e619d387a7",
+      "status": "FIX",
+      "problems": [
+        "Zasada 6: poprawna odpowiedź B (193 znaki) jest ponad 1,5x dłuższa od najdłuższego dystraktora A (103 znaki) — należy wyrównać dystraktory w górę, rozbudowując je o treść z paragrafu"
+      ],
+      "changes": {
+        "answers": {
+          "A": "Codzienne zapoznawanie się z raportem o przyczynach opóźnień pociągów i podejmowanie niezbędnych kroków dla wyeliminowania opóźnień pociągów, uwzględniając wnioski naczelników sekcji i interwencje ze strony przewoźników",
+          "B": "Kontrola biegu pociągów pasażerskich i towarowych w zakresie realizacji rozkładu jazdy oraz nadzór nad prawidłowością i terminowością przeprowadzania zleconych postępowań wyjaśniających",
+          "C": "Sporządzanie zbiorczych całościowych raportów o punktualności i przyczynach opóźnień pociągów pasażerskich i towarowych dla wszystkich okresów sprawozdawczych obejmujących sieć PLK SA",
+          "D": "Wyjaśnianie i korygowanie wszelkich rozbieżności między dokumentacją źródłową a danymi wprowadzonymi do systemu oraz zgłaszanie korekt do IDDE w celu aktualizacji danych w SEPE"
+        }
+      }
+    },
+    {
+      "uuid": "32829b3d-8a44-4bdf-941e-99aed0e40fbb",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "9c91c046-c572-46c1-b692-c5b19899a09c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "46dc1c4e-44c8-403a-8cd2-18d17d9cbc22",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "ab7ee255-567d-4ab9-a1a2-786b3dce4b5b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "7e37442b-4861-4c3f-aa38-2f1cfc230646",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4167cdd6-bde9-4929-a2c5-b96f17c11a4b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "fbe3dbce-b4af-4050-8f0f-976de84717d8",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "c09d9d7b-3ee4-458b-be16-dcd5b2bba16d",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "6e1d0d58-412d-430e-b24f-b813d53b515a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "70ae0372-a48b-482f-ac64-17a0172f5255",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f3a09cb0-519d-4fa4-bed9-d48e1697014e",
+      "status": "FIX",
+      "problems": [
+        "Zasada 6: poprawna odpowiedź B ma 166 znaków, najdłuższy dystraktor A ma 107 znaków (próg 1,5× = 160,5), co narusza regułę — należy wyrównać dystraktory w górę do długości porównywalnej z poprawną odpowiedzią."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Opóźnienie spowodowane bezpośrednio wystąpieniem wydarzenia zawinionego przez PLK SA lub czynnik zewnętrzny, któremu przypisano jeden z kodów wymienionych w Załączniku nr 1a do instrukcji",
+          "B": "Opóźnienie spowodowane przejazdem innego już opóźnionego pociągu lub kolejne opóźnienie już opóźnionego pociągu wynikające tylko z techniki prowadzenia ruchu pociągów",
+          "C": "Opóźnienie pociągu wynikające z niezgodności liczby uruchomionych pociągów z normą wyznaczoną w rozkładzie jazdy pociągów, któremu przypisano jeden z kodów wymienionych w Załączniku nr 1a",
+          "D": "Opóźnienie spowodowane bezpośrednio usterką infrastruktury kolejowej lub taboru, przypisane do kodu z Załącznika nr 1a, niezależne od techniki prowadzenia ruchu pociągów"
+        }
+      }
+    },
+    {
+      "uuid": "5ab2e5ec-4afb-4211-8a37-fb327e600d5e",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "44ace104-6dc4-46ce-9cc2-7ab344deec10",
+      "status": "FIX",
+      "problems": [
+        "Zasada 3: dystraktor A ('Dokument określający rozkład jazdy pociągów na daną dobę eksploatacyjną') jest innej kategorii semantycznej niż poprawna odpowiedź — poprawna definiuje 'system', dystraktor A definiuje 'dokument'.",
+        "Zasada 3: dystraktor B ('Wskaźnik liczony dla wszystkich pociągów...') jest innej kategorii semantycznej — definiuje wskaźnik (punktualność kwalifikowaną z ust. 4), a nie system.",
+        "Zasada 3: dystraktor D ('Wykaz wydarzeń i usterek...') jest innej kategorii semantycznej — definiuje 'wykaz', a nie 'system'.",
+        "Wszystkie dystraktory zastąpiono zmodyfikowanymi wersjami definicji planu wykonania (zmiana kluczowych słów) zgodnie z Priorytetem 2 zasady 3."
+      ],
+      "changes": {
+        "answers": {
+          "A": "System skuteczności działania przewidujący premie dla zarządcy infrastruktury za działania poprawiające eksploatację sieci w celu zachęty do minimalizowania usterek i poprawy wyników sieci kolejowej",
+          "B": "System zarządzania ruchem przewidujący sankcje za działania zakłócające eksploatację sieci w celu zachęty przedsiębiorstw kolejowych do przestrzegania rozkładu jazdy i poprawy regularności sieci kolejowej",
+          "C": "System skuteczności działania przewidujący sankcje za działania zakłócające eksploatację sieci w celu zachęty przedsiębiorstw kolejowych i zarządcy infrastruktury do minimalizowania zakłóceń i poprawy wyników sieci kolejowej",
+          "D": "System skuteczności działania przewidujący sankcje za działania zakłócające eksploatację sieci w celu zachęty przedsiębiorstw kolejowych do minimalizowania opóźnień pierwotnych i poprawy wskaźnika regularności"
+        }
+      }
+    },
+    {
+      "uuid": "4154c226-90f6-4870-8172-5565ab24a632",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "99122a20-cff9-4d2f-a84d-81ecbdec073b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "c46b2199-18b4-408e-9620-b3b5b76494c4",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "833b71cd-b1f9-43e6-bf13-b301a4c8883c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "35fe98da-f9da-4df6-8fdf-de71732a1a39",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "573c97f8-638b-4fbc-b097-8d2dab76d632",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "54fa3cef-3134-4256-bda3-d98f164b8dc6",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f3bc9172-5ca7-4a90-b94e-089d681d109a",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=2a8c2c71-81ab-40d8-a92b-d3d2ad4fc2f3 — oba pytania dotyczą zaokrąglania czasów przyjazdu/odjazdu/przejazdu przy pomiarze punktualności i mają tę samą odpowiedź.",
+        "Odpowiedź B zawiera sformułowanie 'zaokrągla się w dół' niezgodne z treścią § 3 ust. 11, która mówi 'nie bierze się pod uwagę sekund' — pytanie uuid=2a8c2c71 jest precyzyjniejsze."
+      ]
+    },
+    {
+      "uuid": "375f776f-41ed-4fca-acc0-4bae9520c2bf",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "81f3cbd1-b77f-456a-a3ba-78b57bec7449",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "15ccc182-2b20-4501-b533-c76f4ce9b374",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=4154c226-90f6-4870-8172-5565ab24a632 — oba pytania pytają o to, czym jest punktualność biegu pociągów, i mają tę samą poprawną odpowiedź (stopień przestrzegania rozkładu jazdy przy prowadzeniu ruchu pociągów)."
+      ]
+    },
+    {
+      "uuid": "bcede431-7d07-4f24-981a-ec0eee618969",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=99122a20-cff9-4d2f-a84d-81ecbdec073b — oba pytania dotyczą progu opóźnienia dla pociągów pasażerskich w PLK SA i mają tę samą odpowiedź (5 minut)."
+      ]
+    },
+    {
+      "uuid": "08822446-62c7-4040-872a-04ad17dde4eb",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=c46b2199-18b4-408e-9620-b3b5b76494c4 — oba pytania dotyczą progu opóźnienia dla pociągów towarowych w PLK SA i mają tę samą odpowiedź (15 minut)."
+      ]
+    },
+    {
+      "uuid": "a7e01f81-1859-46ba-b1b7-ebfa37430cc3",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=833b71cd-b1f9-43e6-bf13-b301a4c8883c — oba pytania dotyczą sposobu obliczania przeciętnego opóźnienia przypadającego na jeden pociąg opóźniony i mają tę samą odpowiedź."
+      ]
+    },
+    {
+      "uuid": "4a2d6a9a-f3e3-4af9-9179-372c3ac26191",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=35fe98da-f9da-4df6-8fdf-de71732a1a39 — oba pytania dotyczą sposobu obliczania przeciętnego opóźnienia przypadającego na jeden pociąg kursujący i mają tę samą odpowiedź."
+      ]
+    },
+    {
+      "uuid": "dfacf8d4-5d9e-4e40-a65a-1f121b30b48c",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=54fa3cef-3134-4256-bda3-d98f164b8dc6 — oba pytania dotyczą definicji punktu pomiarowego w kontekście pomiaru punktualności pociągów i mają tę samą odpowiedź."
+      ]
+    },
+    {
+      "uuid": "9ae46d80-8dc9-47f8-b368-ba7dc6c0b026",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=573c97f8-638b-4fbc-b097-8d2dab76d632 — oba pytania dotyczą podstawy pomiaru punktualności pociągu (porównanie czasu zaplanowanego z rzeczywistym przez punkty pomiarowe) i mają tę samą odpowiedź."
+      ]
+    },
+    {
+      "uuid": "2a8c2c71-81ab-40d8-a92b-d3d2ad4fc2f3",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "6aaa5b9c-8e97-4eb0-bacd-a23055f157e3",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=375f776f-41ed-4fca-acc0-4bae9520c2bf — oba pytania dotyczą odpowiedzialności za podział przyczyn opóźnień (zadanie zarządcy infrastruktury, zatwierdzone przez przewoźników kolejowych) i mają tę samą odpowiedź."
+      ]
+    },
+    {
+      "uuid": "a0cd21f8-0196-4608-b13b-0fda646a7f40",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=81f3cbd1-b77f-456a-a3ba-78b57bec7449 — oba pytania dotyczą mierników punktualności biegu pociągów i mają tę samą odpowiedź (procent punktualności, przeciętne opóźnienie na jeden pociąg opóźniony i przeciętne opóźnienie na jeden pociąg kursujący)."
+      ]
+    },
+    {
+      "uuid": "89de0ab8-8d19-40ed-835f-a7cdd3084046",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "9e889328-d334-40a9-9ead-775329980300",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a09dcf17-0ddc-4a04-83e1-82662a92cc80",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "a9460e4b-6c1d-4634-b6c9-03fdc0b3ce54",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "bd630df6-23c9-41be-91da-f2b896900171",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "bb43dd0c-ea6e-43de-b6c4-f15b9c9dd727",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "332a9cf2-27e7-474d-8b13-1ad6d0dfb066",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "79c27cf2-abfa-42f5-9933-c5088ed8d5af",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "c834f0e1-a930-43ec-bd7a-100435203cf5",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d041167b-f08d-47a2-9bf3-653ef2ba848d",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "936f95e3-6e5b-4ee0-8e84-96ed450e0b16",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e9439d95-39a0-425e-9dc9-ed6b7c9e0abe",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "c4e8b7c5-42c0-4efd-92ca-d69740c2237b",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=332a9cf2-27e7-474d-8b13-1ad6d0dfb066 — oba pytania brzmią 'Co opisują pierwotne przyczyny opóźnień pociągów?' i mają tę samą poprawną odpowiedź B ('Rzeczywiste wydarzenie, które doprowadziło do opóźnienia pociągu'); to pytanie jest gorsze, gdyż opcja D jest mniej wiarygodna jako dystraktor."
+      ]
+    },
+    {
+      "uuid": "a76bf3d6-37be-4f5c-bfd9-a8224307f841",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "0459484b-60dd-4ecc-bec1-eb49cfca53a5",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=79c27cf2-abfa-42f5-9933-c5088ed8d5af — oba pytania pytają o główne elementy składające się na wtórne przyczyny opóźnień i mają tę samą poprawną odpowiedź B ('zajętość torów, przejście personelu i taboru, połączenie'); pytanie 79c27cf2 jest lepsze, ponieważ zawiera słowo 'głównie' zgodne z treścią ust. 3."
+      ]
+    },
+    {
+      "uuid": "b676ec13-ea98-430b-a9e3-5131e457d861",
+      "status": "DELETE",
+      "problems": [
+        "Duplikat pytania uuid=c834f0e1-a930-43ec-bd7a-100435203cf5 — oba pytania brzmią 'Jaki jest główny powód określania przyczyn opóźnień pociągów?' i mają tę samą poprawną odpowiedź C ('Umożliwienie podjęcia działań w celu zmniejszenia lub uniknięcia tych samych przyczyn w przyszłości'); pytanie c834f0e1 ma lepszej jakości dystraktory."
+      ]
+    },
+    {
+      "uuid": "f80307bf-dbc7-4a67-b14e-0e069af1bf5b",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "63c547bd-cd3a-4a98-b986-dd22b7ef478c",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "e73cf939-97e5-4878-a12b-4563f1eb3307",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "785b957e-ab6e-4a0c-b83e-21c5fcad32cd",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d784d3e0-4633-45b0-b403-90bcec02105f",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "075b97bf-a38e-4341-89e8-c704956112e8",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "3116a8bb-53db-44ff-846a-e1de07ea1b39",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "d3b7f76a-5f7f-4636-bf69-c11009511cfd",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "bd073ec1-f315-4c7e-8046-d5c9d542cfea",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "02857ac7-b822-4b2d-b60c-4c8bccbfaeb7",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "3a64d43e-9f07-44c7-a32d-0b41e060e201",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "746d5680-446f-40cc-948b-29ca2cfc3866",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "94413888-4f97-4c3f-9d9b-92ad8e215903",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "0eda8fb4-386c-4f19-8367-3eaad3d2337e",
+      "status": "FIX",
+      "problems": [
+        "Zasada 6: poprawna odpowiedź B (~103 znaki) jest ponad 1,5× dłuższa od najdłuższego dystraktora A (~43 znaki) — należy wyrównać dystraktory w górę do długości poprawnej odpowiedzi."
+      ],
+      "changes": {
+        "answers": {
+          "A": "Do dyspozytora w zakładzie linii kolejowych, który na bieżąco rejestruje zgłoszenia o zdarzeniach w systemie SEPE",
+          "B": "Do właściwego terytorialnie dyspozytora liniowego w Ekspozyturze Zarządzania Ruchem Kolejowym (IDDE)",
+          "C": "Do uprawnionego pracownika przewoźnika weryfikującego na bieżąco kwalifikacje opóźnienia pociągów",
+          "D": "Do dyspozytora Centrum Zarządzania Ruchem Kolejowym odpowiedzialnego za rejestrację procesu przewozowego"
+        }
+      }
+    },
+    {
+      "uuid": "af7b308d-7ce9-4e7c-ae79-b66144f3efd1",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "47ed7d46-b36e-4eba-a9e1-6ccd8ef049d1",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "c299020e-5e85-4f65-9985-188ceb2aa3aa",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4983077f-701d-4e32-98e2-f89c235d4cb4",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "2505f08d-502a-456d-9ee1-381ed9762fcb",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "33335f44-1f49-4c7b-8c71-417cf52f6f3d",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "5bf9fbe8-6c24-4c58-ae8e-8d0a5f5e44a4",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "767f4b2a-e5c6-4031-8462-66484df49bba",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "794f4219-ca78-450c-bfe5-63d8ee8446e4",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "afb50ec0-aa51-44a0-a90f-083e83fdcef5",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "53f7b3f2-05e0-46cf-a7eb-9a6d26cffc02",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "4a209942-69dc-4f72-9f09-11e704651605",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "1cceb8b1-4416-45af-8038-b8d2067a464a",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "f45b5067-0577-4137-aa6d-8aa7bf5a0480",
+      "status": "OK",
+      "problems": []
+    },
+    {
+      "uuid": "91c811c2-a070-4cb8-a06c-a9b3eb0369d4",
+      "status": "OK",
+      "problems": []
+    }
+  ]
+}

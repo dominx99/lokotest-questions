@@ -1,0 +1,593 @@
+{
+  "instruction": "Ir-18",
+  "questions": [
+    {
+      "uuid": "d715cad2-9338-4815-b4e9-7f6d68f89fdb",
+      "question": "Co stanowi Dodatek 2 do wewnętrznego rozkładu jazdy pociągów?",
+      "answers": {
+        "A": "Wykaz Ostrzeżeń Stałych (WOS) oraz wykaz prędkości drogowych obowiązujących na torach głównych zasadniczych stacji węzłowych dla możliwych jazd wariantowych",
+        "B": "Wykaz Ostrzeżeń Stałych (WOS) oraz wykaz prędkości szlakowych obowiązujących na wszystkich torach głównych dla jazd normalnych",
+        "C": "Wykaz Ostrzeżeń Tymczasowych (WOT) oraz wykaz prędkości drogowych obowiązujących na torach głównych zasadniczych stacji węzłowych dla możliwych jazd wariantowych",
+        "D": "Wykaz Ostrzeżeń Stałych (WOS) oraz wykaz prędkości drogowych obowiązujących na torach bocznych stacji węzłowych dla możliwych jazd wariantowych"
+      },
+      "correct": "A",
+      "explanation": "Ir-18 § 1 ust. 1",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "8588dd75-baae-4b6c-a8ed-03d773b556d7",
+      "question": "Na jakim obszarze obowiązuje Dodatek 2 do wewnętrznego rozkładu jazdy pociągów?",
+      "answers": {
+        "A": "Wyłącznie na sieci kolejowej zarządzanej przez PKP PLK S.A.",
+        "B": "Na sieci kolejowej zarządzanej przez PKP PLK S.A. oraz na odcinkach linii kolejowych podległych innym zarządcom, na które PKP PLK S.A. opracowuje rozkład jazdy",
+        "C": "Na całej sieci kolejowej w Polsce, niezależnie od zarządcy",
+        "D": "Na sieci kolejowej zarządzanej przez PKP PLK S.A. oraz na odcinkach linii kolejowych podległych innym zarządcom, którzy samodzielnie opracowują rozkład jazdy"
+      },
+      "correct": "B",
+      "explanation": "Ir-18 § 1 ust. 2",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "2912dc86-f5f7-4f37-9052-0cc256857a58",
+      "question": "Który wyznaczony Zakład Linii Kolejowych wydaje Dodatek 2 dla obszaru własnego i współpracujących Zakładów: Bydgoszcz, Olsztyn?",
+      "answers": {
+        "A": "IZ Szczecin",
+        "B": "IZ Poznań",
+        "C": "IZ Gdynia",
+        "D": "IZ Warszawa"
+      },
+      "correct": "C",
+      "explanation": "Ir-18 § 1 ust. 3 pkt 5",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "4c0e32b3-e6f1-48df-904f-6a9610ea4172",
+      "question": "Kto jest odpowiedzialny za kompleksowe opracowanie, edycję i zarządzanie zmian w Dodatku 2?",
+      "answers": {
+        "A": "Zakłady współpracujące",
+        "B": "PKP PLK S.A. centrala",
+        "C": "Licencjonowani przewoźnicy kolejowi",
+        "D": "Wyznaczone Zakłady Linii Kolejowych"
+      },
+      "correct": "D",
+      "explanation": "Ir-18 § 1 ust. 6",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "84e9299d-9005-4bbf-b6dc-6ad0b880fc9d",
+      "question": "Skad licencjonowani przewoznicy kolejowi pobieraja oryginalne wydania Dodatku 2?",
+      "answers": {
+        "A": "Ze stron internetowych dostepnych dla pracownikow PKP PLK S.A.",
+        "B": "Z Internetowego Systemu Zamawiania Trasy Pociagu \"Zamawiaj i jedz\"",
+        "C": "Bezposrednio z wyznaczonych Zakladow Linii Kolejowych",
+        "D": "Z centralnego archiwum PKP PLK S.A. w wersji papierowej"
+      },
+      "correct": "B",
+      "explanation": "Ir-18 § 1 ust. 7",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "9b94eaed-ea5a-4b7f-b1b0-8248ba5bb95f",
+      "question": "Ile razy w ciągu obowiązywania Rocznego Rozkładu Jazdy pociągów należy opracować Dodatek 2?",
+      "answers": {
+        "A": "Dwa razy",
+        "B": "Trzy razy",
+        "C": "Cztery razy",
+        "D": "Sześć razy"
+      },
+      "correct": "C",
+      "explanation": "Ir-18 § 2 ust. 1",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "0622c93b-3f53-48ea-91dd-0d4ddd4e563b",
+      "question": "Kto opracowuje oraz redaguje Dodatek 2 i sporządza do niego zmiany?",
+      "answers": {
+        "A": "Pracownik komórki ds. eksploatacji w wyznaczonym Zakładzie",
+        "B": "Naczelnik Sekcji Eksploatacji w Zakładzie współpracującym",
+        "C": "Wyznaczony pracownik Biura Eksploatacji w Centrali Spółki",
+        "D": "Dyrektor wyznaczonego Zakładu"
+      },
+      "correct": "A",
+      "explanation": "Ir-18 § 3 ust. 1",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "4796311b-285e-4c23-b475-d0932233383f",
+      "question": "Na jakiej podstawie opracowywany jest Dodatek 2?",
+      "answers": {
+        "A": "Na podstawie zarządzeń wydanych przez Biuro Eksploatacji w Centrali Spółki",
+        "B": "Na podstawie wniosków otrzymanych z poszczególnych działów własnego Zakładu i wniosków zbiorczych z Zakładów współpracujących",
+        "C": "Na podstawie wniosków zbiorczych zatwierdzonych wyłącznie przez Dyrektora wyznaczonego Zakładu",
+        "D": "Na podstawie danych pobieranych bezpośrednio z aplikacji internetowych dostępnych dla pracowników PKP PLK S.A."
+      },
+      "correct": "B",
+      "explanation": "Ir-18 § 3 ust. 1",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "167eded8-2fa4-478d-b4d1-8b3dd9ba076f",
+      "question": "Kto ponosi odpowiedzialność za prawidłowość dostarczanych danych i ich zgodność ze stanem faktycznym w terenie?",
+      "answers": {
+        "A": "Dyrektor wyznaczonego Zakładu oraz pracownicy Biura Eksploatacji",
+        "B": "Wyznaczony pracownik komórki ds. eksploatacji opracowujący Dodatek 2",
+        "C": "Naczelnicy Sekcji Eksploatacji oraz kierownicy komórek organizacyjnych składających wnioski",
+        "D": "Upoważniony pracownik Zakładu współpracującego opracowujący wniosek zbiorczy"
+      },
+      "correct": "C",
+      "explanation": "Ir-18 § 3 ust. 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "75755bfd-d721-4f8e-9cda-eb8ff62e4dc9",
+      "question": "W jakiej formie i z jakim wyprzedzeniem końcowa wersja Dodatku 2 przekazywana jest do Biura Eksploatacji?",
+      "answers": {
+        "A": "W formie elektronicznej edytowalnej, minimum 7 dni przed terminem obowiązywania",
+        "B": "W formie papierowej zatwierdzonej przez Dyrektora, minimum 14 dni przed terminem obowiązywania",
+        "C": "W formie elektronicznej nieedytowalnej (plik PDF), minimum 14 dni przed terminem obowiązywania",
+        "D": "W formie elektronicznej nieedytowalnej (plik PDF), minimum 30 dni przed terminem obowiązywania"
+      },
+      "correct": "C",
+      "explanation": "Ir-18 § 3 ust. 5",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "e4c8e929-2cfb-4eab-8bdc-e2186d0811d7",
+      "question": "Co zobowiązani są sprawdzić Naczelnicy Sekcji Eksploatacji po pobraniu nowego wydania Dodatku 2?",
+      "answers": {
+        "A": "Czy układ i zawartość tabel zostały opracowane w sposób prawidłowy",
+        "B": "Zgodność treści ostrzeżeń ujętych w Dodatku 2 ze stanem faktycznym oraz prawidłowość ich osygnalizowania w terenie",
+        "C": "Czy wnioskowane ostrzeżenia zostały opublikowane na stronach internetowych dla licencjonowanych przewoźników",
+        "D": "Czy Dodatek 2 został zatwierdzony przez Dyrektora wyznaczonego Zakładu"
+      },
+      "correct": "B",
+      "explanation": "Ir-18 § 3 ust. 6",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "0f4af907-90f1-4cfc-9f00-5d9b12380996",
+      "question": "Co stanowi dowodną formę pisemnego powiadomienia o odwołaniu ostrzeżeń doraźnych?",
+      "answers": {
+        "A": "Przesłanie zatwierdzonego wniosku zbiorczego do Zakładu wyznaczonego",
+        "B": "Ujęcie ostrzeżeń doraźnych w Wykazie Ostrzeżeń Stałych oraz zamieszczenie ich w tabeli \"Wykaz ostrzeżeń doraźnych, które zostały przeniesione do Wykazu Ostrzeżeń Stałych\"",
+        "C": "Wprowadzenie odpowiedniego ostrzeżenia doraźnego przez Naczelnika Sekcji Eksploatacji",
+        "D": "Wykreslenie ostrzezenia z Ksiazki ostrzezen dorarznych R-189 przez pracownika Biura Eksploatacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-18 § 3 ust. 7",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "1db5bce5-5678-4d58-a11f-b44c50c48b00",
+      "question": "Kto umieszcza Dodatki 2 na stronach internetowych dostępnych dla pracowników PKP PLK S.A. oraz licencjonowanych przewoźników kolejowych?",
+      "answers": {
+        "A": "Pracownik komórki ds. eksploatacji wyznaczonego Zakładu",
+        "B": "Naczelnik Sekcji Eksploatacji zakładu wyznaczonego",
+        "C": "Wyznaczony pracownik Biura Eksploatacji",
+        "D": "Dyrektor wyznaczonego Zakładu lub osoba przez niego upoważniona"
+      },
+      "correct": "C",
+      "explanation": "Ir-18 § 3 ust. 10",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "2c184417-d287-4f91-907e-5c8b6cfc797f",
+      "question": "W jakim formacie i układzie należy opracowywać Dodatek 2?",
+      "answers": {
+        "A": "W postaci zeszytu formatu A-4 w układzie poziomym",
+        "B": "W postaci zeszytu formatu A-5 w układzie pionowym",
+        "C": "W postaci zeszytu formatu A-5 w układzie poziomym",
+        "D": "W postaci zeszytu formatu A-4 w układzie pionowym"
+      },
+      "correct": "B",
+      "explanation": "Ir-18 § 4 ust. 1",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "c2f77283-062b-4d68-a383-84e695c72cc7",
+      "question": "Czy wersję edytowalną Dodatku 2 wolno udostępniać innym osobom?",
+      "answers": {
+        "A": "Tak, ale tylko pracownikom IZ",
+        "B": "Tak, po uzyskaniu zgody kierownika jednostki",
+        "C": "Nie, wersji edytowalnej Dodatku 2 nie wolno nikomu udostępniać",
+        "D": "Tak, można udostępniać w wersji tylko do odczytu"
+      },
+      "correct": "C",
+      "explanation": "Ir-18 § 4 ust. 1",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "5b59f2fc-2fe2-4ab3-aeeb-31fa812a967f",
+      "question": "Co powinien zawierać Dodatek 2 w zakresie linii kolejowych?",
+      "answers": {
+        "A": "Tylko linie kolejowe zarządzane przez daną IZ, bez wskazania granic",
+        "B": "Wszystkie linie kolejowe na obszarze objętym danym dodatkiem wraz ze wskazaniem granic pomiędzy Zakładami",
+        "C": "Wszystkie linie kolejowe na obszarze objętym danym dodatkiem bez podziału na Zakłady",
+        "D": "Wybrane linie kolejowe wskazane przez zarząd IZ wraz ze wskazaniem granic pomiędzy Zakładami"
+      },
+      "correct": "B",
+      "explanation": "Ir-18 § 4 ust. 2",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "b828400c-2eed-4f04-93d2-be72d448639f",
+      "question": "Zgodnie z jakim wzorem należy opracować stronę tytułową Dodatku 2?",
+      "answers": {
+        "A": "Wzorem Nr 2",
+        "B": "Wzorem Nr 3",
+        "C": "Wzorem Nr 4",
+        "D": "Wzorem Nr 1"
+      },
+      "correct": "D",
+      "explanation": "Ir-18 § 4 ust. 3",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "0027c799-23dd-4296-8425-af902c920860",
+      "question": "Co powinna zawierać strona 2 na wewnętrznej części okładki Dodatku 2?",
+      "answers": {
+        "A": "Wykaz linii objętych danym Dodatkiem 2 z numerami i nazwami linii",
+        "B": "Informacje ogólne oraz objaśnienia znaków i skrótów używanych w Dodatku 2",
+        "C": "Schemat linii i schematy węzłów kolejowych na obszarze objętym Dodatkiem 2",
+        "D": "Wykaz ostrzeżeń doraźnych przeniesionych do Wykazu Ostrzeżeń Stałych"
+      },
+      "correct": "B",
+      "explanation": "Ir-18 § 4 ust. 5",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "65edc5a0-b593-4585-b9ad-784de48221ab",
+      "question": "Jakie ostrzeżenia doraźne należy ująć w zbiorczym Wykazie Ostrzeżeń Stałych?",
+      "answers": {
+        "A": "Ostrzeżenia doraźne, które trwać będą dłużej niż 60 dni po terminie wydania danego Dodatku 2",
+        "B": "Ostrzeżenia doraźne, które trwać będą dłużej niż 14 dni po terminie wydania danego Dodatku 2",
+        "C": "Ostrzeżenia doraźne, które trwać będą dłużej niż 30 dni po terminie wydania danego Dodatku 2",
+        "D": "Wszystkie ostrzeżenia doraźne niezależnie od czasu ich trwania"
+      },
+      "correct": "C",
+      "explanation": "Ir-18 § 4 ust. 8",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "95a67988-626c-4c37-8012-61ae1fea3c8f",
+      "question": "Co należy wskazać na schematach linii i węzłów kolejowych zamieszczonych w Dodatku 2?",
+      "answers": {
+        "A": "Wyłącznie stacje węzłowe, posterunki odgałęźne i numery linii",
+        "B": "Wyłącznie rodzaje linii, rodzaj blokady liniowej i kilometry granicy obszaru",
+        "C": "Rodzaje linii, rodzaj blokady liniowej, stacje węzłowe i posterunki odgałęźne, numery linii, kilometry granicy obszaru oraz odcinki wyposażone w ERTMS/ETCS",
+        "D": "Rodzaje linii, rodzaj blokady liniowej, stacje węzłowe i posterunki odgałęźne oraz numery linii"
+      },
+      "correct": "C",
+      "explanation": "Ir-18 § 4 ust. 9",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "481baf34-7463-4c66-a101-0e6cf02a576e",
+      "question": "Co stanowi ostatnią część Dodatku 2?",
+      "answers": {
+        "A": "Zbiorczy Wykaz Ostrzeżeń Stałych w formie tabeli",
+        "B": "Schemat linii i schematy węzłów kolejowych",
+        "C": "Załącznik zawierający aktualne strony stałe do WRJ",
+        "D": "Wykaz zmian wprowadzanych w okresie ważności Dodatku 2"
+      },
+      "correct": "D",
+      "explanation": "Ir-18 § 4 ust. 11",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "2e0b73de-fafa-4e2b-8402-a522555136f0",
+      "question": "Według jakiej numeracji należy zestawiać ostrzeżenia stałe w Wykazie Ostrzeżeń Stałych?",
+      "answers": {
+        "A": "Według numeracji stacji i posterunków ruchu",
+        "B": "Według numeracji linii ustalonej w \"Wykazie Linii\" – Id-12, w porządku narastającym",
+        "C": "Według kilometrażu, narastająco od km 0 do końca sieci",
+        "D": "Według numeracji Zakładów, w porządku alfabetycznym"
+      },
+      "correct": "B",
+      "explanation": "Ir-18 § 5 ust. 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "3377856e-14b8-4911-bc48-dfa5fe0223fe",
+      "question": "Gdzie należy zamieścić ostrzeżenia odnoszące się do całej linii (odcinka)?",
+      "answers": {
+        "A": "W kolumnie 8 \"Uwagi\" przy każdym kolejnym wpisie dotyczącym tej linii",
+        "B": "W osobnej tabeli na początku wykazu",
+        "C": "W formie opisowej w polu poniżej nazwy linii",
+        "D": "W nagłówku tabeli, obok numeru i nazwy linii"
+      },
+      "correct": "C",
+      "explanation": "Ir-18 § 5 ust. 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "689a4491-3c30-44f1-a266-7514dfa688ea",
+      "question": "W jaki sposób należy wskazać na początku tabeli WOS Zakład, po terenie którego biegnie opisywana linia kolejowa?",
+      "answers": {
+        "A": "Poprzez wskazanie nazwy Zakładu gdzie linia się kończy lub nazwy Zakładów z kilometrem granicy i nazwą Zakładu wydającego dalszy odcinek",
+        "B": "Poprzez wskazanie nazwy Zakładów i kilometra ich granicy bez dodatkowych informacji",
+        "C": "Poprzez wskazanie nazwy Zakładu gdzie rozpoczyna się przebieg linii lub nazwy Zakładów z kilometrem granicy i ujętą w nawiasy nazwą Zakładu wydającego Dodatek 2 obejmujący wcześniejszy odcinek",
+        "D": "Poprzez wskazanie numeru Zakładu i daty wydania obowiązującego rozkładu jazdy"
+      },
+      "correct": "C",
+      "explanation": "Ir-18 § 5 ust. 3 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "6a9b3f7b-8cce-4237-88ab-7eb68ccadb4b",
+      "question": "Co należy wskazać wewnątrz tabeli WOS w oddzielnych wierszach dotyczących granic Zakładów?",
+      "answers": {
+        "A": "Nazwy Zakładów i kilometr ich granicy",
+        "B": "Nazwy Zakładów i numery torów szlakowych na granicy",
+        "C": "Nazwy Zakładów z ujętą w nawiasy nazwą Zakładu wydającego Dodatek 2",
+        "D": "Numer linii i nazwę stacji granicznej między Zakładami"
+      },
+      "correct": "A",
+      "explanation": "Ir-18 § 5 ust. 3 pkt 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "50e10260-18f2-40bd-85df-3bd663a9bb7c",
+      "question": "Kiedy nazwy szlaku lub posterunku ruchu w kolumnie 1 tabeli WOS należy wpisać tylko jeden raz?",
+      "answers": {
+        "A": "Zawsze, niezależnie od liczby ostrzeżeń i stron",
+        "B": "Gdy kolejne ostrzeżenia dotyczą tego samego szlaku lub posterunku ruchu, z wyjątkiem przypadku gdy kolejne wpisy są na następnej stronie",
+        "C": "Gdy ostrzeżenia dotyczą torów o tej samej parzystości",
+        "D": "Tylko gdy ostrzeżenia dotyczą szlaku (nie posterunku ruchu)"
+      },
+      "correct": "B",
+      "explanation": "Ir-18 § 5 ust. 4",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "8507486d-a829-4cc6-a66a-7068dd816f6c",
+      "question": "Jak należy wpisywać ostrzeżenia na szlakach w kolumnach 2 i 3 tabeli WOS?",
+      "answers": {
+        "A": "Według malejącej kilometracji linii",
+        "B": "Narastająco według numeracji torów, np. 1, 7, 201 itd.",
+        "C": "Kolejno według rosnącej kilometracji linii",
+        "D": "Według daty wprowadzenia ostrzeżenia, od najstarszego"
+      },
+      "correct": "C",
+      "explanation": "Ir-18 § 5 ust. 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "db31ba16-c8f3-49c1-a32e-ae233eaf60b5",
+      "question": "Z jaką dokładnością należy podawać kilometrację ostrzeżeń w tabeli WOS?",
+      "answers": {
+        "A": "Do 1 miejsca po przecinku",
+        "B": "Do 2 miejsc po przecinku",
+        "C": "Do 3 miejsc po przecinku",
+        "D": "Do pełnych kilometrów (bez miejsc po przecinku)"
+      },
+      "correct": "C",
+      "explanation": "Ir-18 § 5 ust. 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "30d6acba-51f8-434c-935e-3389dd378ee1",
+      "question": "Jak należy umieszczać numery torów w kolumnie 5 tabeli WOS ze względu na parzystość?",
+      "answers": {
+        "A": "Tory parzyste do lewej strony, a nieparzyste do prawej",
+        "B": "Tory nieparzyste do lewej strony, a parzyste do prawej",
+        "C": "Wszystkie tory po lewej stronie, w kolejności rosnącej numeracji",
+        "D": "Tory szlakowe po lewej, a stacyjne po prawej stronie"
+      },
+      "correct": "B",
+      "explanation": "Ir-18 § 5 ust. 6",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "ae0baac9-ee47-499b-8671-40429af9dc8f",
+      "question": "Ile numerów torów dopuszcza się wpisać w kolumnie 5 dla torów głównych dodatkowych?",
+      "answers": {
+        "A": "Dokładnie jeden numer toru",
+        "B": "Maksymalnie dwa numery torów",
+        "C": "Więcej niż jeden numer toru, rozdzielone przecinkami",
+        "D": "Numer toru jest wpisywany wyłącznie w kolumnie 8 \"Uwagi\""
+      },
+      "correct": "C",
+      "explanation": "Ir-18 § 5 ust. 7",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "d54a9657-4337-43fa-ab98-b0392d7df49f",
+      "question": "Co należy wstawić w kolumnach 6 i 7 tabeli WOS, jeśli dla danego kierunku jazdy ograniczenie prędkości nie występuje?",
+      "answers": {
+        "A": "Cyfrę 0",
+        "B": "Skrót \"b.o.\" (brak ograniczenia)",
+        "C": "Znak \"-\" (myślnik)",
+        "D": "Pole należy pozostawić puste"
+      },
+      "correct": "C",
+      "explanation": "Ir-18 § 5 ust. 8",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "460c2b12-c84b-4415-b38a-0fbdbd5b64b3",
+      "question": "Gdzie należy umieścić skrót \"SHP\" w przypadku braku elektromagnesu torowego, gdy nie jest wymagane ograniczenie prędkości?",
+      "answers": {
+        "A": "W kolumnie 8 \"Uwagi\"",
+        "B": "Odpowiednio w kolumnie 6 lub 7",
+        "C": "W kolumnie 1, przy nazwie szlaku lub posterunku",
+        "D": "W kolumnie 9, jako numer porządkowy zmiany"
+      },
+      "correct": "B",
+      "explanation": "Ir-18 § 5 ust. 9",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "043c5f61-a506-4be3-8cf0-a68117ba2731",
+      "question": "Jak należy wyróżnić ostrzeżenia ujęte do WOS po raz pierwszy?",
+      "answers": {
+        "A": "Poprzez zastosowanie szarego tła wiersza",
+        "B": "Poprzez zastosowanie czcionki pochyłej",
+        "C": "Dopiskiem \"Nowe !\"",
+        "D": "Poprzez podkreślenie treści wpisu"
+      },
+      "correct": "C",
+      "explanation": "Ir-18 § 5 ust. 10",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "eda059a9-36d2-4681-927f-1dd8116137b3",
+      "question": "Kto zarządza wprowadzaniem zmian do Dodatku 2?",
+      "answers": {
+        "A": "Biuro Eksploatacji w oparciu o wnioski złożone przez Zakłady współpracujące",
+        "B": "Wyznaczony Zakład w oparciu o wnioski złożone przez Zakłady współpracujące oraz przez podległe komórki",
+        "C": "Każdy Zakład samodzielnie na podstawie własnych potrzeb",
+        "D": "Zakłady współpracujące wspólnie z Biurem Eksploatacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-18 § 6 ust. 1",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "386052c6-8088-4d40-87d8-2ea42654e2ff",
+      "question": "Zgodnie z jakim wzorem należy sporządzać pisma wprowadzające zmiany do Dodatku 2?",
+      "answers": {
+        "A": "Wzorem Nr 5",
+        "B": "Wzorem Nr 6",
+        "C": "Wzorem Nr 7",
+        "D": "Wzorem Nr 8"
+      },
+      "correct": "C",
+      "explanation": "Ir-18 § 6 ust. 2",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "997c76a8-0d12-44fd-bde6-5fc4f66e6e98",
+      "question": "W jakim terminie jednostki organizacyjne powinny zgłosić swoje potrzeby dotyczące dystrybucji pism zarządzających zmiany do każdego wydawcy Dodatku 2?",
+      "answers": {
+        "A": "Do 14 dni przed wejściem w życie nowego Rocznego Rozkładu Jazdy",
+        "B": "Do 60 dni przed wejściem w życie nowego Rocznego Rozkładu Jazdy",
+        "C": "Do 30 dni przed wejściem w życie nowego Rocznego Rozkładu Jazdy",
+        "D": "Do 45 dni przed wejściem w życie nowego Rocznego Rozkładu Jazdy"
+      },
+      "correct": "C",
+      "explanation": "Ir-18 § 6 ust. 4",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "4978c0f0-3dd2-4ffc-8c27-e86672bab585",
+      "question": "Najpóźniej kiedy należy przesłać do Biura Eksploatacji Dodatek 2 z naniesioną zmianą w wersji elektronicznej nieedytowalnej (plik PDF)?",
+      "answers": {
+        "A": "W dniu wejścia w życie zmiany",
+        "B": "W dniu poprzedzającym wejście w życie zmiany",
+        "C": "Na 3 dni przed wejściem w życie zmiany",
+        "D": "Na 7 dni przed wejściem w życie zmiany"
+      },
+      "correct": "B",
+      "explanation": "Ir-18 § 6 ust. 6",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "0d462dfa-b423-458d-8307-c1a7252efd23",
+      "question": "Które z poniższych zmian wyznaczone Zakłady mogą zarządzać w Dodatku 2?",
+      "answers": {
+        "A": "Dodanie nowego ostrzeżenia na odcinku dotychczas nieobjętym",
+        "B": "Podwyższenie prędkości jazdy podanej w ostrzeżeniu",
+        "C": "Zmiana numeracji linii objętej ostrzeżeniem",
+        "D": "Wydłużenie czasu obowiązywania ostrzeżenia"
+      },
+      "correct": "B",
+      "explanation": "Ir-18 § 6 ust. 8 pkt 3",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "846df26d-1e3b-42a7-9b1f-23d4234e3ced",
+      "question": "Jak należy podawać liczby w treści zarządzenia wprowadzającego zmiany do Dodatku 2?",
+      "answers": {
+        "A": "Wszystkie liczby cyframi arabskimi",
+        "B": "Wszystkie liczby słownie",
+        "C": "Słownie, z wyjątkiem numeru linii i numeru strony Dodatku 2",
+        "D": "Cyframi, z wyjątkiem dat, które podaje się słownie"
+      },
+      "correct": "C",
+      "explanation": "Ir-18 § 6 ust. 9",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "536cb5c6-ccf3-4ec9-8b48-5f7e08fd8fff",
+      "question": "W jakim celu Dodatek 2 należy opracowywać w ujednoliconej formie według załączonych wzorów?",
+      "answers": {
+        "A": "W celu zachowania czytelności",
+        "B": "W celu zachowania terminowości",
+        "C": "W celu zachowania kompletności",
+        "D": "W celu zachowania spójności technicznej"
+      },
+      "correct": "A",
+      "explanation": "Ir-18 § 7 ust. 1",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "ef0b5c9e-b9d0-4974-92e0-5b878e8fcec8",
+      "question": "Od czego nie zwalnia zastosowanie elektronicznych narzędzi i szablonów przy tworzeniu stron i tabel Dodatku 2?",
+      "answers": {
+        "A": "Od obowiązku uzyskania zatwierdzenia przez kierownika jednostki",
+        "B": "Od odpowiedzialności za prawidłowe i zgodne ze stanem faktycznym sporządzenie całego Dodatku 2",
+        "C": "Od obowiązku przechowywania dokumentacji przez wymagany okres",
+        "D": "Od odpowiedzialności za terminowe wprowadzanie zmian do Dodatku 2"
+      },
+      "correct": "B",
+      "explanation": "Ir-18 § 7 ust. 2",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "5bef15e2-4fe9-4cd5-bb98-fb9ce2bb6abc",
+      "question": "Kogo dotyczy odpowiedzialność za prawidłowe sporządzenie całego Dodatku 2, nawet przy użyciu elektronicznych narzędzi i szablonów?",
+      "answers": {
+        "A": "Osób wskazanych w § 5",
+        "B": "Osób wskazanych w § 4",
+        "C": "Osób wskazanych w § 3",
+        "D": "Osób wskazanych w § 6"
+      },
+      "correct": "C",
+      "explanation": "Ir-18 § 7 ust. 2",
+      "section_ref": "§ 7",
+      "section": 7
+    }
+  ]
+}

@@ -1,0 +1,2161 @@
+{
+  "instruction": "Ir-17",
+  "questions": [
+    {
+      "uuid": "6c56ad16-83d8-42b2-8b54-d53fe2b6aed1",
+      "question": "Co obejmuje pojęcie \"akcja zimowa\" stosowane w instrukcji Ir-17?",
+      "answers": {
+        "A": "Prace prowadzone w okresie pogotowia zimowego związane z usuwaniem skutków opadów śniegu, ujemnych temperatur lub silnych wiatrów",
+        "B": "Całokształt prac związanych z przygotowaniem do zimy oraz prowadzeniem robót zimowych",
+        "C": "Działania związane z zapewnieniem przejezdności linii kolejowych w warunkach zimowych",
+        "D": "Całokształt prac związanych z usuwaniem skutków opadów śniegu i ujemnych temperatur na liniach kolejowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 1 ust. 3 pkt 1",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "dcf809a1-89a7-42cc-b089-22b153db921a",
+      "question": "Co oznacza pojęcie \"roboty zimowe\" w rozumieniu instrukcji Ir-17?",
+      "answers": {
+        "A": "Całokształt prac związanych z przygotowaniem do zimy oraz prowadzeniem robót zimowych",
+        "B": "Działania związane z zapewnieniem przejezdności linii kolejowych w warunkach zimowych",
+        "C": "Prace prowadzone w okresie pogotowia zimowego związane z usuwaniem skutków opadów śniegu, ujemnych temperatur lub silnych wiatrów",
+        "D": "Prace prowadzone w okresie zimowym związane z usuwaniem skutków opadów śniegu, ujemnych temperatur lub silnych wiatrów na obiektach inżynieryjnych"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 1 ust. 3 pkt 14",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "418e1c90-5c72-4982-9f54-34d6a369e274",
+      "question": "Co oznacza pojęcie \"zimowe utrzymanie linii kolejowych\" stosowane w instrukcji Ir-17?",
+      "answers": {
+        "A": "Całokształt prac związanych z przygotowaniem do zimy oraz prowadzeniem robót zimowych",
+        "B": "Prace prowadzone w okresie pogotowia zimowego związane z usuwaniem skutków opadów śniegu, ujemnych temperatur lub silnych wiatrów",
+        "C": "Całokształt prac związanych z utrzymaniem sprawności technicznej linii kolejowych w warunkach obniżonej temperatury",
+        "D": "Działania związane z zapewnieniem przejezdności linii kolejowych w warunkach zimowych"
+      },
+      "correct": "D",
+      "explanation": "Ir-17 § 1 ust. 3 pkt 21",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "852615d0-04f2-47a6-96f1-86b08a182efa",
+      "question": "Czym są wysadziny w rozumieniu instrukcji Ir-17?",
+      "answers": {
+        "A": "Miejsca wzniesienia toru lub torowiska powstałe na skutek przemarzania podsypki lub gruntu podtorza oraz miejsca osiadania toru związane z ich odmarzaniem",
+        "B": "Miejsca obniżenia toru lub torowiska powstałe na skutek przemarzania podsypki lub gruntu podtorza",
+        "C": "Miejsca wzniesienia toru lub torowiska powstałe na skutek podmycia podsypki przez wodę podczas roztopów",
+        "D": "Miejsca deformacji toru powstałe na skutek przemarzania i odmarzania gruntu pod nasypem kolejowym"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 1 ust. 3 pkt 18",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "54cd09e3-f017-47af-9de0-c3e3c843958b",
+      "question": "Kto jest kierownikiem akcji zimowej według definicji zawartej w instrukcji Ir-17?",
+      "answers": {
+        "A": "Toromistrz albo inny pracownik spełniający wymagania określone w instrukcji, sprawujący bezpośredni nadzór nad pracownikami wykonującymi roboty zimowe",
+        "B": "Osoba kierująca działaniami prowadzonymi w celu zapobieżenia skutkom zimy lub ich usunięcia",
+        "C": "Pracownik Sekcji Eksploatacji odpowiedzialny za organizację i koordynację robót zimowych na odcinku linii",
+        "D": "Pracownik jednostki organizacyjnej odpowiedzialny za przygotowanie i realizację planu akcji zimowej"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 1 ust. 3 pkt 9",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "e2d6d9a7-a72b-4d85-ae4f-dbbbea892b3a",
+      "question": "Kto pełni funkcję kierującego robotami w rozumieniu instrukcji Ir-17?",
+      "answers": {
+        "A": "Osoba kierująca działaniami prowadzonymi w celu zapobieżenia skutkom zimy lub ich usunięcia",
+        "B": "Pracownik Sekcji Eksploatacji sprawujący nadzór organizacyjny nad akcją zimową",
+        "C": "Toromistrz albo inny pracownik Spółki bądź firmy zewnętrznej, spełniający wymagania określone w instrukcji, sprawujący bezpośredni nadzór nad pracownikami wykonującymi roboty zimowe",
+        "D": "Pracownik komórki organizacyjnej sprawujący nadzór merytoryczny nad wykonywaniem robót zimowych"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 1 ust. 3 pkt 10",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "219ecb3d-4aa1-4baa-bb27-19bd07c74d3c",
+      "question": "Co wchodzi w skład infrastruktury pasażerskiej według definicji w instrukcji Ir-17?",
+      "answers": {
+        "A": "Linie kolejowe oraz przeznaczone do zarządzania nimi budowle, budynki, urządzenia i inne elementy wraz z zajętymi pod nie gruntami",
+        "B": "Perony, drogi dojścia do peronów wraz ze znajdującym się na nich wyposażeniem na stacjach i przystankach osobowych oraz stacje pasażerskie",
+        "C": "Budynki dworcowe, perony oraz urządzenia do obsługi podróżnych na obszarze kolejowym",
+        "D": "Perony, wiaty peronowe, tablice informacyjne oraz urządzenia do obsługi podróżnych na stacjach i przystankach osobowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 1 ust. 3 pkt 6",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "fe9ed524-ec3c-4536-ba0b-5839577a6ee7",
+      "question": "Co obejmuje pojęcie \"infrastruktura kolejowa\" stosowane w instrukcji Ir-17?",
+      "answers": {
+        "A": "Perony, drogi dojścia do peronów wraz ze znajdującym się na nich wyposażeniem na stacjach i przystankach osobowych oraz stacje pasażerskie",
+        "B": "Linie kolejowe oraz przeznaczone do zarządzania nimi i do obsługi przewozu osób i towarów: budowle, budynki, urządzenia i inne elementy wraz z zajętymi pod nie gruntami, usytuowane na obszarze kolejowym",
+        "C": "Linie kolejowe wraz z budowlami inżynieryjnymi, nawierzchnią torową i urządzeniami sterowania ruchem kolejowym",
+        "D": "Linie kolejowe, bocznice oraz przeznaczone do zarządzania nimi budowle i urządzenia usytuowane na obszarze kolejowym"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 1 ust. 3 pkt 5",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "14d87845-944d-4d33-9dc7-c55a0552aea0",
+      "question": "Kim jest przewoźnik kolejowy w rozumieniu instrukcji Ir-17?",
+      "answers": {
+        "A": "Podmiot gospodarczy stosujący się do postanowień instrukcji w zakresie wynikającym z zawartych umów",
+        "B": "Element struktury organizacyjnej określony w regulaminie organizacyjnym jednostki organizacyjnej",
+        "C": "Przedsiębiorca, który na podstawie licencji wykonuje przewozy kolejowe lub świadczy usługę trakcyjną",
+        "D": "Przedsiębiorca, który na podstawie umowy z zarządcą infrastruktury wykonuje przewozy kolejowe lub świadczy usługę trakcyjną"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 1 ust. 3 pkt 13",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "32f50c2f-40e2-48f6-bd92-23e2ea2a8897",
+      "question": "Jaka jest minimalna wymagana wysokość zasłon odśnieżnych?",
+      "answers": {
+        "A": "1,0 m",
+        "B": "1,5 m",
+        "C": "2,0 m",
+        "D": "2,5 m"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 10 ust. 2",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "12e98c64-b929-4071-8882-c5f05bd018bd",
+      "question": "Jako jaki rodzaj zasłon odśnieżnych powinny być urządzane stałe zasłony odśnieżne?",
+      "answers": {
+        "A": "Jako siatki z tworzywa sztucznego lub płotki drewniane",
+        "B": "Jako żywopłoty lub parkany",
+        "C": "Jako wały ziemne lub nasypy",
+        "D": "Jako ogrodzenia metalowe lub betonowe mury"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 10 ust. 4",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "96c15aeb-d20a-4fba-a742-9cb30a9a095a",
+      "question": "W jakich przypadkach parkany jako stałe zasłony odśnieżne powinny być ustawiane?",
+      "answers": {
+        "A": "Gdy wymagana jest szczególna trwałość na odcinkach o dużym natężeniu wiatru",
+        "B": "Gdy ze względu na warunki miejscowe nie jest możliwe zakładanie żywopłotów",
+        "C": "Gdy długość odcinka zagrożonego zaspami przekracza 500 m",
+        "D": "Gdy linia kolejowa przebiega przez tereny zaludnione"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 10 ust. 5",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "bcb7f83a-9aad-4c2a-8cf0-58a954a21421",
+      "question": "Jakich gatunków roślin należy używać do zakładania żywopłotów jako zasłon odśnieżnych?",
+      "answers": {
+        "A": "Gatunków iglastych o dużej gęstości",
+        "B": "Gatunków szybko rosnących sprowadzonych z importu",
+        "C": "Rodzimych gatunków drzew i krzewów",
+        "D": "Gatunków ozdobnych o wysokiej estetyce"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 10 ust. 7",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "9e13443f-527b-4d6a-998d-d6de7b0b3592",
+      "question": "W ilu rzędach i w jakiej odległości od siebie powinny być urządzane żywopłoty jako zasłony odśnieżne?",
+      "answers": {
+        "A": "W jednym rzędzie o szerokości co najmniej 1,5 m",
+        "B": "W dwóch rzędach w odległości od 0,5 do 1,0 m jeden rząd od drugiego",
+        "C": "W dwóch rzędach w odległości od 2,0 do 3,0 m jeden rząd od drugiego",
+        "D": "W trzech rzędach w odległości od 0,5 do 1,0 m jeden rząd od drugiego"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 10 ust. 9",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "7035f1a3-55dd-433a-953f-ff9d58b47a56",
+      "question": "Pod jakim kątem do przeważającego kierunku wiatrów ustawia się przenośne zasłony odśnieżne w celu maksymalnego wykorzystania ich skuteczności?",
+      "answers": {
+        "A": "Pod kątem 45°",
+        "B": "Pod kątem 60°",
+        "C": "Pod kątem 75°",
+        "D": "Pod kątem 90°"
+      },
+      "correct": "D",
+      "explanation": "Ir-17 § 10 ust. 16",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "82a11ad5-2a39-43bf-beb3-f68b5b37a05a",
+      "question": "Jaka jest typowa wysokość zasłony odśnieżnej z siatki z tworzywa sztucznego?",
+      "answers": {
+        "A": "1,00 m",
+        "B": "1,30 m",
+        "C": "1,50 m",
+        "D": "1,80 m"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 10 ust. 22 pkt 1",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "9dcffb07-b5b1-406a-96fe-00249d1aeec1",
+      "question": "Jak ustala się odszkodowanie za ustawienie zasłon odśnieżnych lub zakładanie żywopłotów na gruntach sąsiadujących z linią kolejową, gdy strony nie dojdą do porozumienia?",
+      "answers": {
+        "A": "Odszkodowanie ustala sąd rejonowy na wniosek właściciela gruntu",
+        "B": "Odszkodowanie ustala zarządca infrastruktury na podstawie cen rynkowych",
+        "C": "Odszkodowanie ustala starosta, z zastosowaniem zasad przewidzianych przy wywłaszczaniu nieruchomości",
+        "D": "Odszkodowanie ustala Urząd Regulacji Transportu Kolejowego na podstawie operatu szacunkowego"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 10 ust. 27",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "f4e641a8-0092-4918-839d-388d24667e7b",
+      "question": "Jaka jest minimalna wymagana wysokość zasłon odśnieżnych?",
+      "answers": {
+        "A": "1,0 m",
+        "B": "1,2 m",
+        "C": "1,5 m",
+        "D": "2,0 m"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 10 ust. 2",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "78c4762f-e423-4bad-932d-2ca7b4b1b979",
+      "question": "Jak oblicza się odległość zasłon odśnieżnych od osi toru kolejowego?",
+      "answers": {
+        "A": "Jako iloczyn wskaźnika od 5 do 8 i wysokości zasłony odśnieżnej wyrażonej w metrach",
+        "B": "Jako iloczyn wskaźnika od 8 do 12 i wysokości zasłony odśnieżnej wyrażonej w metrach",
+        "C": "Jako iloczyn wskaźnika od 10 do 15 i wysokości zasłony odśnieżnej wyrażonej w metrach",
+        "D": "Jako iloczyn wskaźnika od 12 do 20 i wysokości zasłony odśnieżnej wyrażonej w metrach"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 10 ust. 3",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "b641a0b3-7aef-4f70-b3d1-9ced53b8997e",
+      "question": "Kiedy parkany jako stałe zasłony odśnieżne powinny być ustawiane zamiast żywopłotów?",
+      "answers": {
+        "A": "Gdy koszt zakładania żywopłotów jest zbyt wysoki",
+        "B": "Gdy ze względu na warunki miejscowe nie jest możliwe zakładanie żywopłotów",
+        "C": "Gdy linia kolejowa jest szczególnie narażona na zamiecie śnieżne",
+        "D": "Gdy obszar kolejowy jest niedostatecznie szeroki"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 10 ust. 5",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "ec102dee-42ad-4d92-b207-3193f3cbb29f",
+      "question": "W ilu rzędach powinny być urządzane żywopłoty jako zasłony odśnieżne?",
+      "answers": {
+        "A": "W jednym rzędzie",
+        "B": "W dwóch rzędach w odległości od 0,5 do 1,0 m jeden rząd od drugiego",
+        "C": "W trzech rzędach w odległości od 1,0 do 2,0 m jeden rząd od drugiego",
+        "D": "W dwóch rzędach w odległości od 1,0 do 2,0 m jeden rząd od drugiego"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 10 ust. 9",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "ead72e71-f63e-47f4-ae1a-1355bd85ac42",
+      "question": "Jaka szerokość pasa gruntu jest wymagana pod żywopłotem wraz z pasami po obu jego stronach?",
+      "answers": {
+        "A": "Od 1,0 do 2,0 m",
+        "B": "Od 1,5 do 2,5 m",
+        "C": "Od 2,0 do 3,0 m",
+        "D": "Od 3,0 do 4,0 m"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 10 ust. 10",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "7762c715-0a4a-45b3-8c55-914731583e3a",
+      "question": "Pod jakim kątem do przeważającego kierunku wiatrów ustawia się przenośne zasłony odśnieżne, aby uzyskać ich maksymalne wykorzystanie?",
+      "answers": {
+        "A": "Pod kątem 45°",
+        "B": "Pod kątem 60°",
+        "C": "Pod kątem 75°",
+        "D": "Pod kątem 90°"
+      },
+      "correct": "D",
+      "explanation": "Ir-17 § 10 ust. 16",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "2fc7a61f-77d6-4f1b-802a-5b721510b65b",
+      "question": "Jaką typową wysokość mają zasłony odśnieżne z siatki z tworzywa sztucznego?",
+      "answers": {
+        "A": "0,80 m",
+        "B": "1,00 m",
+        "C": "1,30 m",
+        "D": "1,50 m"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 10 ust. 22 pkt 1",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "9633ef8f-fa2f-4d01-91c9-3e5580395cdb",
+      "question": "Jaka jest zalecana odległość między dwoma dwurzędowymi żywopłotami na terenach szczególnie narażonych na zamiecie śnieżne?",
+      "answers": {
+        "A": "Od 2,0 do 5,0 m",
+        "B": "Od 4,0 do 8,0 m",
+        "C": "Od 6,0 do 10,0 m",
+        "D": "Od 8,0 do 15,0 m"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 10 ust. 12",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "48c07161-6f6c-4fb0-aa6e-30817fa3456e",
+      "question": "Co jest obowiązkiem kierującego robotami przed przystąpieniem do robót odśnieżnych?",
+      "answers": {
+        "A": "Przeprowadzenie pisemnego egzaminu z zasad bhp dla wszystkich pracowników",
+        "B": "Dokonanie pouczenia w formie instruktażu na miejscu pracy, obejmującego imienny podział pracy, kolejność wykonywania zadań i wymagania bhp",
+        "C": "Zgłoszenie gotowości do robót odśnieżnych do dyżurnego ruchu",
+        "D": "Sprawdzenie stanu technicznego sprzętu odśnieżnego i sporządzenie protokołu"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 11 ust. 1 pkt 1",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "27fa7579-c9c2-421a-956c-7e36eb4f22fa",
+      "question": "Gdzie kierujący robotami odnotowuje dokonanie pouczeń bhp przed robotami odśnieżnymi?",
+      "answers": {
+        "A": "W dzienniku budowy",
+        "B": "W raporcie dobowym dyżurnego",
+        "C": "W karcie zapisu",
+        "D": "W księdze kontroli bhp"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 11 ust. 2",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "ff250ace-db4e-4955-82c8-d3aee9fc3377",
+      "question": "Co powinno nastąpić w przypadku zmiany miejsca pracy podczas robót odśnieżnych?",
+      "answers": {
+        "A": "Kierujący robotami sporządza nowy plan robót i przekazuje go dyżurnemu",
+        "B": "Pracownicy podpisują oświadczenie o zapoznaniu się z nowym miejscem pracy",
+        "C": "Pouczenie w nowych warunkach należy powtórzyć",
+        "D": "Wymagane jest uzyskanie dodatkowej zgody od przełożonego"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 11 ust. 2",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "226c2fef-12e3-4f09-bd67-b3ad0e99beb3",
+      "question": "Do kiedy należy przygotować i odpowiednio wyposażyć schroniska, miejsca do spożywania posiłków oraz inne pomieszczenia przewidziane do czasowego pobytu osób wykonujących roboty zimowe?",
+      "answers": {
+        "A": "Do 30 września",
+        "B": "Do 31 października",
+        "C": "Do 15 listopada",
+        "D": "Do 30 listopada"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 12 ust. 1",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "1ce12d46-20fe-4ff8-8cf7-e4b52b13f313",
+      "question": "Kto sporządza projekt planu prowadzenia robót zimowych?",
+      "answers": {
+        "A": "Biuro Eksploatacji",
+        "B": "Zakład Linii Kolejowych",
+        "C": "Sekcja Eksploatacji",
+        "D": "Koordynator akcji zimowej"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 13 ust. 1",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "6af984c9-dea8-4e4e-bd0b-dbc4413eb519",
+      "question": "Do jakiego terminu Zakład Linii Kolejowych przekazuje projekt planu prowadzenia robót zimowych do Biura Eksploatacji?",
+      "answers": {
+        "A": "Do 10 sierpnia",
+        "B": "Do 15 lipca",
+        "C": "Do 25 lipca",
+        "D": "Do 31 lipca"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 13 ust. 2",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "e4d15e98-d52a-4fe6-8719-dabb87219e79",
+      "question": "Do jakiego terminu Biuro Eksploatacji przedkłada rekomendacje dotyczące akceptacji projektów planów robót zimowych Koordynatorowi akcji zimowej?",
+      "answers": {
+        "A": "Do 25 lipca",
+        "B": "Do 10 sierpnia",
+        "C": "Do 20 sierpnia",
+        "D": "Do 15 października"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 13 ust. 3",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "519e7e57-60c1-4542-b839-8f0384487781",
+      "question": "Do jakiego terminu Koordynator akcji zimowej akceptuje projekty planów prowadzenia robót zimowych?",
+      "answers": {
+        "A": "Do 10 sierpnia",
+        "B": "Do 25 sierpnia",
+        "C": "Do 20 sierpnia",
+        "D": "Do 31 sierpnia"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 13 ust. 4",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "5aacd439-635d-4026-a58c-b9bf3a281642",
+      "question": "Do jakiego terminu Sekcje Eksploatacji sporządzają plan prowadzenia robót zimowych w oparciu o zaakceptowany projekt?",
+      "answers": {
+        "A": "Do 15 października",
+        "B": "Do 10 września",
+        "C": "Do 31 października",
+        "D": "Do 10 października"
+      },
+      "correct": "D",
+      "explanation": "Ir-17 § 13 ust. 5 pkt 1",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "d52a2a6e-cb7b-45c6-85ed-70d281e9fa14",
+      "question": "Do jakiego terminu Zakłady Linii Kolejowych sporządzają plan prowadzenia robót zimowych w oparciu o zaakceptowany projekt?",
+      "answers": {
+        "A": "Do 10 października",
+        "B": "Do 20 października",
+        "C": "Do 25 października",
+        "D": "Do 15 października"
+      },
+      "correct": "D",
+      "explanation": "Ir-17 § 13 ust. 5 pkt 2",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "a2a9ce25-b594-4244-afbc-1202c9dd1310",
+      "question": "Kto zatwierdza plan prowadzenia robót zimowych w Sekcji Eksploatacji oraz w Zakładzie Linii Kolejowych?",
+      "answers": {
+        "A": "Koordynator akcji zimowej",
+        "B": "Biuro Eksploatacji",
+        "C": "Dyrektor Zakładu Linii Kolejowych",
+        "D": "Kierownik akcji zimowej w Spółce"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 13 ust. 9",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "9d218fba-e0d7-4c34-ada2-f66f42ce2fd1",
+      "question": "Do jakiego terminu Zakład Linii Kolejowych przekazuje kopię zatwierdzonego zakładowego planu prowadzenia robót zimowych do właściwej terytorialnie Ekspozytury Zarządzania Ruchem Kolejowym?",
+      "answers": {
+        "A": "Do 15 października",
+        "B": "Do 31 października",
+        "C": "Do 25 października",
+        "D": "Do 20 października"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 13 ust. 10",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "c016b225-54eb-4ae1-aab1-1a997b340361",
+      "question": "Do jakiego terminu Biuro Eksploatacji opracowuje plan prowadzenia robót zimowych w Spółce?",
+      "answers": {
+        "A": "Do 25 października",
+        "B": "Do 15 października",
+        "C": "Do 20 listopada",
+        "D": "Do 31 października"
+      },
+      "correct": "D",
+      "explanation": "Ir-17 § 13 ust. 11",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "4cd76136-6bcd-4f8b-a0af-39ba842b8304",
+      "question": "W ilu egzemplarzach opracowywany jest plan prowadzenia robót zimowych w Spółce przez Biuro Eksploatacji?",
+      "answers": {
+        "A": "W jednym egzemplarzu",
+        "B": "W trzech egzemplarzach",
+        "C": "W dwóch egzemplarzach",
+        "D": "W czterech egzemplarzach"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 13 ust. 12",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "79323437-8722-4d8f-976f-22933ed06c97",
+      "question": "Komu Biuro Eksploatacji przekazuje jeden egzemplarz planu prowadzenia robót zimowych w Spółce?",
+      "answers": {
+        "A": "Koordynatorowi akcji zimowej",
+        "B": "Dyspozytury Głównej",
+        "C": "Właściwej Ekspozyturze Zarządzania Ruchem Kolejowym",
+        "D": "Zakładom Linii Kolejowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 13 ust. 12",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "4b5a6dc1-8861-41b7-a0ab-ab23a4cfa0a1",
+      "question": "Do jakiego terminu Sekcje Eksploatacji przekazują na posterunki zapowiadawcze wyciągi z planu prowadzenia robót zimowych?",
+      "answers": {
+        "A": "Do 15 października",
+        "B": "Do 25 października",
+        "C": "Do 20 października",
+        "D": "Do 31 października"
+      },
+      "correct": "D",
+      "explanation": "Ir-17 § 13 ust. 14",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "dcbd5cfd-8f5a-47a8-9e0a-2116c03c01f9",
+      "question": "Kto potwierdza podpisem zapoznanie się z wyciągiem z planu prowadzenia robót zimowych przekazanym na posterunek zapowiadawczy?",
+      "answers": {
+        "A": "Kierownicy robót zimowych",
+        "B": "Dyżurni ruchu",
+        "C": "Pracownicy pogotowia zimowego",
+        "D": "Kierownik Sekcji Eksploatacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 13 ust. 14",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "fff0e133-c422-474f-8cf9-d510ddc888d0",
+      "question": "Co powinien zawierać wyciąg z planu prowadzenia robót zimowych przekazywany na posterunki zapowiadawcze w zakresie rozmieszczenia przestrzennego?",
+      "answers": {
+        "A": "Mapę kolejności zimowego utrzymania linii kolejowych w całym Zakładzie",
+        "B": "Plan schematyczny stacji obejmujący rejon posterunku z zaznaczeniem kolejności zimowego utrzymania torów i rozjazdów",
+        "C": "Wykaz wszystkich stacji objętych planem zimowego utrzymania w Sekcji Eksploatacji",
+        "D": "Rozmieszczenie maszyn odśnieżnych na terenie całego Zakładu Linii Kolejowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 13 ust. 15 pkt 1",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "80a4470c-ba06-434d-9b51-3b6c243cc4c1",
+      "question": "Jakie informacje dotyczące podmiotów nie powinny być uwzględniane w załącznikach nr 5 i nr 6 planu prowadzenia robót zimowych?",
+      "answers": {
+        "A": "Podmioty świadczące usługi utrzymania czystości w obiektach infrastruktury pasażerskiej",
+        "B": "Podmioty przewidziane do odśnieżania rozjazdów kolejowych",
+        "C": "Podmioty obsługujące maszyny do odśnieżania torów",
+        "D": "Podmioty świadczące usługi ogrzewania rozjazdów"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 13 ust. 7",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "e3343cd6-780f-46dc-a779-2c14c49c8754",
+      "question": "Kto jest zobowiązany do monitorowania realizacji prac przygotowawczych do zimy?",
+      "answers": {
+        "A": "Dyrektor Zakładu Linii Kolejowych",
+        "B": "Koordynator akcji zimowej",
+        "C": "Jednostka nadrzędna",
+        "D": "Biuro Eksploatacji"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 14 ust. 1",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "2fab74be-d478-40aa-90f2-a9d9f73b76ef",
+      "question": "Do kiedy Dyrektor Zakładu Linii Kolejowych powinien zgłosić Koordynatorowi akcji zimowej zakończenie prac przygotowawczych zakładu do pracy w warunkach zimowych?",
+      "answers": {
+        "A": "Do 1 listopada",
+        "B": "Do 5 listopada",
+        "C": "Do 15 listopada",
+        "D": "Do 30 października"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 14 ust. 5",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "191e5791-0c23-4b31-8ff4-e85a7fbde628",
+      "question": "Za pośrednictwem jakiej komórki Dyrektor Zakładu Linii Kolejowych zgłasza Koordynatorowi akcji zimowej zakończenie prac przygotowawczych?",
+      "answers": {
+        "A": "Biura Zarządzania Infrastrukturą",
+        "B": "Działu Utrzymania Nawierzchni",
+        "C": "Biura Eksploatacji",
+        "D": "Centrum Zarządzania Siecią"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 14 ust. 5",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "8a5b2667-91eb-4a6d-ace1-0c4c2ca5b186",
+      "question": "Która faza pogotowia zimowego określana jest mianem alarmu zimowego?",
+      "answers": {
+        "A": "Faza 0",
+        "B": "Faza I",
+        "C": "Faza II",
+        "D": "Faza III"
+      },
+      "correct": "D",
+      "explanation": "Ir-17 § 15 ust. 1 pkt 4",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "a9b75ab1-1c00-4c68-ab61-494afc182e2f",
+      "question": "Kto wprowadza i odwołuje fazy pogotowia zimowego od I do III?",
+      "answers": {
+        "A": "Dyrektor zakładu linii kolejowych",
+        "B": "Kierownik akcji zimowej",
+        "C": "Dyżurny ruchu stacji węzłowej",
+        "D": "Jednostka nadrzędna zarządcy infrastruktury"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 15 ust. 2",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "349dcb15-bb07-4b91-a061-57aee1ae231b",
+      "question": "Jakie jest główne zobowiązanie uczestników procesu eksploatacyjno-przewozowego w trudnych warunkach atmosferycznych?",
+      "answers": {
+        "A": "Wdrażanie działań zapobiegających lub ograniczających rozmiary zakłóceń wywołanych trudnymi warunkami atmosferycznymi",
+        "B": "Odwoływanie wszystkich kursujących pociągów do czasu ustąpienia złych warunków pogodowych",
+        "C": "Natychmiastowe informowanie pasażerów o opóźnieniach wynikających z warunków atmosferycznych",
+        "D": "Zawieszanie wszelkich robót torowych na czas trwania trudnych warunków atmosferycznych"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 16 ust. 1",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "d9dc52e1-5a2d-4fe4-b59b-a1f76474eb42",
+      "question": "Gdzie koncentrowane są siły i środki techniczne w ramach zadań jednostek organizacyjnych Spółki w okresie pogotowia zimowego?",
+      "answers": {
+        "A": "W lokalizacjach najważniejszych dla realizacji przewozów",
+        "B": "W miejscach największego natężenia opadów śniegu",
+        "C": "W pobliżu największych stacji węzłowych",
+        "D": "W rejonach, gdzie pociągi zatrzymały się z powodu zasp"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 16 ust. 2 pkt 3",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "73127d96-a65e-45e4-bdf8-2d0e62476851",
+      "question": "W jakim celu jednostki organizacyjne Spółki uruchamiają jazdy elektrycznych pojazdów trakcyjnych?",
+      "answers": {
+        "A": "W celu usuwania oblodzenia przewodów sieci trakcyjnej (przecieranie)",
+        "B": "W celu sprawdzenia przejezdności linii kolejowych po intensywnych opadach śniegu",
+        "C": "W celu dostarczenia lokomotyw osłonowych na wskazane stacje",
+        "D": "W celu zastąpienia spalinowych pojazdów trakcyjnych na zelektryfikowanych odcinkach"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 16 ust. 2 pkt 5",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "80ec9980-b9c4-4263-9ec4-319f58e23184",
+      "question": "Jak powinny być przepuszczane pociągi tranzytowe w ramach zadań jednostek organizacyjnych Spółki w trakcie pogotowia zimowego?",
+      "answers": {
+        "A": "Możliwie bez postoju",
+        "B": "Z obowiązkowym postojem na każdej stacji węzłowej",
+        "C": "Z minimalnym postojem nieprzekraczającym 5 minut",
+        "D": "Z postojem wyłącznie w przypadku awarii pojazdu trakcyjnego"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 16 ust. 2 pkt 6",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "6408d230-06df-447c-bbbe-5bf5e0ced9b3",
+      "question": "Kiedy jednostki organizacyjne Spółki zobowiązane są niezwłocznie informować przewoźników kolejowych?",
+      "answers": {
+        "A": "O zaistnieniu sytuacji wywołanej warunkami atmosferycznymi, która może spowodować zakłócenia w realizacji przejazdu pociągów",
+        "B": "O każdej zmianie warunków atmosferycznych niezależnie od jej wpływu na ruch pociągów",
+        "C": "O planowanych robotach zimowych mogących wpłynąć na przepustowość linii",
+        "D": "O uruchomieniu pogotowia zimowego na podległych odcinkach linii"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 16 ust. 2 pkt 7",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "8204d91b-a888-4cf4-898c-13e68b437d21",
+      "question": "Jakie zmiany w organizacji ruchu pociągów mogą wdrażać jednostki organizacyjne Spółki w ramach pogotowia zimowego?",
+      "answers": {
+        "A": "Zmiany uzgodnione z przewoźnikami kolejowymi, np. kierowanie pociągów inną trasą",
+        "B": "Zmiany wprowadzane jednostronnie przez zarządcę infrastruktury bez konsultacji",
+        "C": "Wyłącznie odwołanie pociągów zagrożonych utknięciem w zaspach",
+        "D": "Zmiany zatwierdzone przez Urząd Transportu Kolejowego w trybie pilnym"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 16 ust. 2 pkt 8",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "cf2c14ba-a3a3-479c-ba7f-e9ef84ada75d",
+      "question": "Jak powinny poruszać się elektryczne pojazdy trakcyjne w przypadku wystąpienia szadzi lub oblodzenia przewodów sieci trakcyjnej?",
+      "answers": {
+        "A": "Przy podniesionych wszystkich odbierakach prądu",
+        "B": "Przy opuszczonych wszystkich odbierakach prądu, z napędem z baterii",
+        "C": "Z jednym podniesionym odbierakiem prądu i zmniejszoną prędkością",
+        "D": "Z naprzemiennym podnoszeniem i opuszczaniem odbieraków prądu"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 16 ust. 3 pkt 5",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "251d7197-d102-407e-aee6-d9be9485f7d6",
+      "question": "Kogo informują drużyny trakcyjne o dostrzeżonych zagrożeniach wywołanych silnymi wiatrami i opadami śniegu?",
+      "answers": {
+        "A": "Dyżurnych ruchu",
+        "B": "Dyspozytora przewoźnika kolejowego",
+        "C": "Dyspozytury Głównej bezpośrednio",
+        "D": "Centrum Zarządzania Ruchem Kolejowym"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 16 ust. 3 pkt 7",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "a1124ec2-6387-41e2-98b0-997bfbbdf143",
+      "question": "Do jakich celów przewoźnicy kolejowi zabezpieczają lokomotywy na zasadach awaryjnych?",
+      "answers": {
+        "A": "Do pracy pługów i zespołów odśnieżnych, przecierania, przeciągania oraz jazd patrolowych",
+        "B": "Wyłącznie do prowadzenia pociągów zastępczą trakcją spalinową na zelektryfikowanych liniach",
+        "C": "Do holowania unieruchomionych pojazdów trakcyjnych do najbliższego miejsca naprawy",
+        "D": "Do wykonywania jazd próbnych przed wznowieniem normalnego ruchu pociągów"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 16 ust. 3 pkt 9",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "bca1265f-68c0-4c9a-a119-a6d6de11ea74",
+      "question": "Co należy do zadań innych podmiotów uczestniczących w procesie eksploatacyjno-przewozowym w zakresie własnych instalacji i urządzeń?",
+      "answers": {
+        "A": "Zapewnienie sprawnego funkcjonowania własnych lub zarządzanych instalacji, urządzeń, budynków i budowli związanych z prowadzeniem ruchu pociągów oraz obsługą podróżnych i przewozem towarów",
+        "B": "Zapewnienie sprawnego funkcjonowania wyłącznie urządzeń bezpieczeństwa ruchu kolejowego wskazanych przez zarządcę infrastruktury",
+        "C": "Zapewnienie sprawnego funkcjonowania własnych instalacji technicznych wyłącznie w zakresie obsługi podróżnych na peronach",
+        "D": "Zapewnienie sprawnego funkcjonowania urządzeń sterowania ruchem kolejowym w obrębie zarządzanych stacji"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 16 ust. 4 pkt 2",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "2944dcc2-ba59-4a35-a6a2-5868990ea727",
+      "question": "Komu podlega sprzęt odśnieżny wraz z obsługą skierowany do określonego rejonu pracy?",
+      "answers": {
+        "A": "Kierownikowi akcji na tym terenie",
+        "B": "Dyżurnemu ruchu stacji",
+        "C": "Naczelnikowi sekcji utrzymania drogi",
+        "D": "Zarządcy infrastruktury kolejowej"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 17 ust. 2",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "83c1476d-47c9-448a-a83e-bac2e3187f41",
+      "question": "Kto odpowiada za właściwe wykorzystanie sprzętu odśnieżnego skierowanego do określonego rejonu pracy?",
+      "answers": {
+        "A": "Pracownik obsługi sprzętu odśnieżnego",
+        "B": "Kierownik akcji na tym terenie",
+        "C": "Dyżurny ruchu stacji macierzystej",
+        "D": "Kierownik jednostki organizacyjnej zarządcy"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 17 ust. 2",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "197e21bc-911c-4c57-8220-17d4620fd814",
+      "question": "Z uwzględnieniem jakich postanowień powinno być prowadzone oczyszczanie i uprzątanie śniegu z torów stacyjnych?",
+      "answers": {
+        "A": "Regulaminu pracy manewrowej",
+        "B": "Rozkładu jazdy pociągów",
+        "C": "Regulaminu technicznego stacji",
+        "D": "Instrukcji o prowadzeniu ruchu pociągów"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 17 ust. 3",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "83b82e7c-bb7e-4e16-b8a4-711ae3993eab",
+      "question": "Co wchodzi w zakres robót zimowych dotyczących infrastruktury pasażerskiej oraz przejazdów kolejowo-drogowych i przejść?",
+      "answers": {
+        "A": "Usuwanie zasp śnieżnych i powalonych drzew",
+        "B": "Uprzątanie śniegu i likwidacja śliskości z powierzchni",
+        "C": "Usuwanie sopli i nawisów śnieżnych z dachów",
+        "D": "Odśnieżanie torów i rozjazdów kolejowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 17 ust. 1 pkt 3",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "c612b9a4-3a3a-4b2e-87fc-c562b719bb15",
+      "question": "Kto sprawuje nadzór nad przebiegiem robót zimowych na obszarze działania Spółki?",
+      "answers": {
+        "A": "Dyspozytura Główna",
+        "B": "Ekspozytura Zarządzania Ruchem Kolejowym",
+        "C": "Dyspozytor w Zakładzie Linii Kolejowych",
+        "D": "Koordynator akcji zimowej"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 18 ust. 1 pkt 1",
+      "section_ref": "§ 18",
+      "section": 18
+    },
+    {
+      "uuid": "7caf4c7f-7652-48e9-bbe7-f189001ff183",
+      "question": "Co obejmuje monitorowanie sytuacji w ramach nadzoru nad przebiegiem robót zimowych?",
+      "answers": {
+        "A": "Warunki atmosferyczne, prognozy i ostrzeżenia meteorologiczne, utrudnienia eksploatacyjne oraz zaangażowane siły i środki techniczne",
+        "B": "Warunki atmosferyczne, prognozy meteorologiczne, kolejność prac odśnieżnych oraz uruchamianie maszyn odśnieżnych",
+        "C": "Utrudnienia eksploatacyjne, stan infrastruktury kolejowej, prognozy meteorologiczne oraz sytuację przewozową",
+        "D": "Zaangażowane siły i środki techniczne, harmonogram robót torowych, ostrzeżenia meteorologiczne oraz stan pociągów"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 18 ust. 2 pkt 1",
+      "section_ref": "§ 18",
+      "section": 18
+    },
+    {
+      "uuid": "c7b5c4b7-f414-486a-a637-08d355e9c3cf",
+      "question": "Komu dyspozytor zgłasza informacje o sytuacji przewozowej, zagrożeniach wywołanych warunkami atmosferycznymi oraz wnioski dotyczące kolejności prowadzenia prac odśnieżnych?",
+      "answers": {
+        "A": "Koordynatorowi akcji zimowej",
+        "B": "Kierownikowi akcji zimowej",
+        "C": "Dyspozytorowi w Zakładzie Linii Kolejowych",
+        "D": "Dyspozytorze Głównej"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 18 ust. 2 pkt 2",
+      "section_ref": "§ 18",
+      "section": 18
+    },
+    {
+      "uuid": "761d09b6-a43d-4912-b348-d790abd75c4a",
+      "question": "Kto koordynuje działania przewoźników kolejowych w sytuacjach zakłóceń eksploatacyjnych spowodowanych warunkami atmosferycznymi?",
+      "answers": {
+        "A": "Dyspozytura Główna oraz właściwa terenowo Ekspozytura Centrum Zarządzania Ruchem Kolejowym",
+        "B": "Dyspozytura Główna oraz Dyspozytor w Zakładzie Linii Kolejowych",
+        "C": "Ekspozytura Zarządzania Ruchem Kolejowym oraz kierownicy akcji zimowej",
+        "D": "Koordynator akcji zimowej oraz Dyspozytura Główna"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 18 ust. 3",
+      "section_ref": "§ 18",
+      "section": 18
+    },
+    {
+      "uuid": "a5ab15fa-a1f6-49b6-865b-afe201f343e2",
+      "question": "W jakim cyklu sporządza się meldunki z przebiegu robót zimowych dla faz od 0 do III pogotowia zimowego?",
+      "answers": {
+        "A": "6-godzinnym, oddzielnie ze zmiany dziennej i nocnej",
+        "B": "12-godzinnym, oddzielnie ze zmiany dziennej i nocnej",
+        "C": "24-godzinnym, łącznie za całą dobę",
+        "D": "8-godzinnym, oddzielnie z każdej zmiany"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 19 ust. 1",
+      "section_ref": "§ 19",
+      "section": 19
+    },
+    {
+      "uuid": "fad88eb1-e558-4d73-8391-f012cdf0dc3d",
+      "question": "Do której godziny dyspozytor zakładowy wprowadza do SEPE meldunek z przebiegu robót zimowych ze zmiany nocnej?",
+      "answers": {
+        "A": "Do godziny 6:00",
+        "B": "Do godziny 6:15",
+        "C": "Do godziny 6:30",
+        "D": "Do godziny 7:00"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 19 ust. 3",
+      "section_ref": "§ 19",
+      "section": 19
+    },
+    {
+      "uuid": "b49b0c7c-86b7-4dbd-a1a4-c2ef847e0f03",
+      "question": "Kto wprowadza meldunek z przebiegu robót zimowych do SEPE, gdy z przyczyn technicznych nie może zrobić tego dyspozytor zakładowy?",
+      "answers": {
+        "A": "Kierownik Sekcji Eksploatacji po weryfikacji danych",
+        "B": "Dyspozytor Ekspozytury Zarządzania Ruchem Kolejowym po weryfikacji i ewentualnym uzupełnieniu danych",
+        "C": "Dyspozytor Główny Centrum Zarządzania Ruchem Kolejowym po otrzymaniu informacji",
+        "D": "Inny pracownik Zakładu Linii Kolejowych bez konieczności weryfikacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 19 ust. 4",
+      "section_ref": "§ 19",
+      "section": 19
+    },
+    {
+      "uuid": "6d699082-ddbf-4828-817f-9f34a5cf5c6b",
+      "question": "Jaka jest kolejność zgłaszania utrudnień technicznych uniemożliwiających wprowadzenie meldunku z przebiegu robót zimowych?",
+      "answers": {
+        "A": "Zakład Linii Kolejowych do Sekcji Eksploatacji, Sekcja do dyspozytora Ekspozytury, dyspozytor Ekspozytury do Dyspozytury Głównej",
+        "B": "Sekcja Eksploatacji do dyspozytora Ekspozytury, dyspozytor Ekspozytury do Zakładu Linii Kolejowych, Zakład do Dyspozytury Głównej",
+        "C": "Sekcja Eksploatacji do Zakładu Linii Kolejowych, Zakład do dyspozytora Ekspozytury Zarządzania Ruchem Kolejowym, dyspozytor Ekspozytury do Dyspozytury Głównej",
+        "D": "Zakład Linii Kolejowych do Dyspozytury Głównej, Dyspozyturia Główna do dyspozytora Ekspozytury, dyspozytor Ekspozytury do Sekcji Eksploatacji"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 19 ust. 5",
+      "section_ref": "§ 19",
+      "section": 19
+    },
+    {
+      "uuid": "1770a62b-3b23-470e-b2fd-16e8d1ae5ddd",
+      "question": "Jak długo trwa okres przygotowania do zimy?",
+      "answers": {
+        "A": "Od 1 maja do 31 października",
+        "B": "Od 1 listopada do 14 listopada",
+        "C": "Od 15 listopada do 31 marca",
+        "D": "30 dni od ostatniego dnia pogotowia zimowego"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 2 ust. 1 pkt 1",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "11044667-5fe9-4ae9-aaf7-724aa380cb77",
+      "question": "Jak długo trwa okres pogotowia zimowego?",
+      "answers": {
+        "A": "Od 1 maja do 31 października",
+        "B": "Od 1 listopada do 14 listopada",
+        "C": "Od 15 listopada do 31 marca",
+        "D": "Od 1 grudnia do 28 lutego"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 2 ust. 1 pkt 3",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "9b8e3b69-48e4-4316-9409-a3acea5fc98f",
+      "question": "Kto podejmuje decyzję o wcześniejszym wprowadzeniu, wydłużeniu lub ponownym wprowadzeniu okresu pogotowia zimowego?",
+      "answers": {
+        "A": "Dyrektor zakładu linii kolejowych",
+        "B": "Kierownik akcji zimowej",
+        "C": "Naczelnik sekcji utrzymania",
+        "D": "Jednostka nadrzędna"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 2 ust. 2",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "0c4daba1-a601-4030-8f30-d8787b80de49",
+      "question": "Co należy w szczególności zrobić w okresie przygotowania kolei do zimy?",
+      "answers": {
+        "A": "Na bieżąco monitorować warunki atmosferyczne oraz prowadzić roboty zimowe",
+        "B": "Zdemontować przenośne zasłony odśnieżne oraz zabezpieczyć materiały używane do akcji zimowej",
+        "C": "Zagwarantować potrzebne do prowadzenia robót zimowych zatrudnienie oraz materiały, maszyny i urządzenia odśnieżne",
+        "D": "Utrzymywać w gotowości do podjęcia prac odśnieżnych maszyny odśnieżne i zasoby ludzkie"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 2 ust. 3 pkt 2",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "ab8b3cf7-648f-4509-ad31-01e1db69e345",
+      "question": "Co należy w szczególności wykonać w okresie zakończenia pogotowia zimowego?",
+      "answers": {
+        "A": "Zdemontować przenośne zasłony odśnieżne oraz zabezpieczyć materiały używane do akcji zimowej",
+        "B": "Na bieżąco monitorować warunki atmosferyczne i prowadzić roboty zimowe",
+        "C": "Zagwarantować zatrudnienie oraz materiały, maszyny i urządzenia odśnieżne",
+        "D": "Zabezpieczyć infrastrukturę kolejową oraz tabor kolejowy przed wpływem śniegu i niskich temperatur"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 2 ust. 5",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "3aede337-a318-40e2-a838-d40e0e06117a",
+      "question": "Do jakiej jednostki państwowa służba hydrologiczno-meteorologiczna przekazuje prognozy i ostrzeżenia meteorologiczne?",
+      "answers": {
+        "A": "Do Zakładów Linii Kolejowych",
+        "B": "Do Centrum Zarządzania Ruchem Kolejowym",
+        "C": "Do podległych jednostek organizacyjnych",
+        "D": "Do sąsiadujących komórek organizacyjnych"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 20 ust. 2",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "81b235d3-6ec1-4235-a8b9-06ea20fee6fe",
+      "question": "Co powinny robić sąsiadujące ze sobą jednostki/komórki organizacyjne w zakresie warunków pogodowych?",
+      "answers": {
+        "A": "Przekazywać ostrzeżenia do Centrum Zarządzania Ruchem Kolejowym",
+        "B": "Niezwłocznie informować podległe jednostki o niekorzystnych zjawiskach",
+        "C": "Informować się wzajemnie o warunkach pogodowych i kierunku przemieszczania niekorzystnych zjawisk atmosferycznych",
+        "D": "Przekazywać prognozy meteorologiczne do Zakładów Linii Kolejowych"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 20 ust. 4",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "aaaa970b-b866-4cd7-b394-df650c9e3e06",
+      "question": "Do jakiej wysokości zaspy śnieżnej pługi lemieszowe mogą usuwać śnieg z toru na pobocze?",
+      "answers": {
+        "A": "Do 1,0 m",
+        "B": "Do 1,5 m",
+        "C": "Do 0,9 m",
+        "D": "Do 0,5 m"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 21 ust. 1 pkt 1",
+      "section_ref": "§ 21",
+      "section": 21
+    },
+    {
+      "uuid": "5dfacadf-9ac2-481b-a2ab-3b62701dda01",
+      "question": "Do jakiej grubości śniegu zbierają go zespoły odśnieżne (kombajny odśnieżne) bezpośrednio na wagony z przenośnikami taśmowymi?",
+      "answers": {
+        "A": "Do 1,5 m",
+        "B": "Do 1,0 m",
+        "C": "Do 0,9 m",
+        "D": "Do 0,5 m"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 21 ust. 1 pkt 2",
+      "section_ref": "§ 21",
+      "section": 21
+    },
+    {
+      "uuid": "e93236b8-b43f-4b26-9f6b-8a362f697e1a",
+      "question": "Do jakiej grubości śniegu usuwają go odśnieżarki szczotkowe oraz wózki motorowe wyposażone w przystawki szczotkowe?",
+      "answers": {
+        "A": "Do 0,5 m",
+        "B": "Do 0,9 m",
+        "C": "Do 1,0 m",
+        "D": "Do 0,3 m"
+      },
+      "correct": "D",
+      "explanation": "Ir-17 § 21 ust. 1 pkt 5",
+      "section_ref": "§ 21",
+      "section": 21
+    },
+    {
+      "uuid": "d83406d6-816b-44d4-849a-30db637744d1",
+      "question": "Jakim wskaźnikiem oznacza się miejsca, przed którymi podczas odśnieżania powinny być podniesione noże i złożone lemiesze maszyny odśnieżnej?",
+      "answers": {
+        "A": "W-11",
+        "B": "W-13",
+        "C": "W-15",
+        "D": "W-12"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 21 ust. 2 pkt 2",
+      "section_ref": "§ 21",
+      "section": 21
+    },
+    {
+      "uuid": "2ea04cd6-da9a-4733-8a90-e1493eb86355",
+      "question": "Co jest zobowiązany posiadać kierujący robotami podczas prac maszyn odśnieżnych?",
+      "answers": {
+        "A": "Wykaz przejazdów kolejowo-drogowych na odcinku odśnieżanym",
+        "B": "Wykaz urządzeń w torach, na które oddziałują pociągi, szczególnie narażonych na uszkodzenia podczas pracy maszyn odśnieżnych",
+        "C": "Wykaz pracowników uprawnionych do obsługi maszyn odśnieżnych",
+        "D": "Wykaz maszyn odśnieżnych dopuszczonych do pracy na danym odcinku"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 21 ust. 3",
+      "section_ref": "§ 21",
+      "section": 21
+    },
+    {
+      "uuid": "f261b6b4-cadf-4901-ba79-6b26765b2c5d",
+      "question": "Jaką grubość śniegu mogą usuwać wózki motorowe wyposażone w przystawki lemieszowe?",
+      "answers": {
+        "A": "Do 0,3 m",
+        "B": "Do 0,9 m",
+        "C": "Do 0,5 m",
+        "D": "Do 1,0 m"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 21 ust. 1 pkt 4",
+      "section_ref": "§ 21",
+      "section": 21
+    },
+    {
+      "uuid": "95e4eaf4-f7d7-4d89-a142-d1a271ec95d0",
+      "question": "Które miejsce przy ręcznym odśnieżaniu rozjazdów czyści się w pierwszej kolejności?",
+      "answers": {
+        "A": "Przestrzeń między szyną oporową a podkładami, od ostrza iglicy do osady",
+        "B": "Żłobki w kierownicach i krzyżownicy, od ostrza iglicy do osady",
+        "C": "Przestrzeń między iglicą a opornicą, od osady do ostrza iglicy oraz żłobki w kierownicach i krzyżownicy",
+        "D": "Przestrzeń między iglicą a opornicą, od ostrza iglicy do osady oraz podsypka wzdłuż rozjazdu"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 21 ust. 7",
+      "section_ref": "§ 21",
+      "section": 21
+    },
+    {
+      "uuid": "45c67828-a883-43f1-aae0-00756074a725",
+      "question": "Od jakiej grubości warstwy śniegu przy ręcznym odśnieżaniu rozjazdów należy usuwać go jednocześnie na całej długości rozjazdu?",
+      "answers": {
+        "A": "Ponad 10 cm",
+        "B": "Ponad 15 cm",
+        "C": "Ponad 20 cm",
+        "D": "Ponad 30 cm"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 21 ust. 7",
+      "section_ref": "§ 21",
+      "section": 21
+    },
+    {
+      "uuid": "d4ae2d7c-1a8c-4074-a98c-f8d398718c75",
+      "question": "Jakie nachylenie powinny mieć ściany boczne przekopu śnieżnego wykonanego dla przepuszczenia pociągu?",
+      "answers": {
+        "A": "Prostopadłe, aby zachować jak największą szerokość toru",
+        "B": "Takie, aby nie dochodziło do obsuwania się śniegu",
+        "C": "Ukośne pod kątem 45 stopni, zgodnie z normą techniczną",
+        "D": "Takie samo jak naturalne stoki zaspy śnieżnej w terenie otwartym"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 21 ust. 8",
+      "section_ref": "§ 21",
+      "section": 21
+    },
+    {
+      "uuid": "e9bd7d46-f822-45ab-a69c-5d4165b3c5a4",
+      "question": "Co należy zrobić z oczyszczonymi miejscami po usunięciu zasp śnieżnych z torów?",
+      "answers": {
+        "A": "Posypać je piaskiem lub solą drogową, aby zapobiec ponownemu oblodzeniu",
+        "B": "Natychmiast wywieźć pozostały śnieg do wyznaczonych miejsc składowania",
+        "C": "Osłonić je, w miarę możliwości, przenośnymi zasłonami odśnieżnymi",
+        "D": "Oznaczyć wskaźnikami W-13 do czasu ustąpienia opadów śniegu"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 21 ust. 12",
+      "section_ref": "§ 21",
+      "section": 21
+    },
+    {
+      "uuid": "741ecf6b-36a9-417e-9862-25aed512b7f0",
+      "question": "Na czym polega odmrażanie rozjazdów kolejowych?",
+      "answers": {
+        "A": "Na mechanicznym oczyszczaniu rozjazdu ze śniegu i lodu przy użyciu specjalnych narzędzi",
+        "B": "Na wytapianiu śniegu i lodu w rozjazdach przy pomocy urządzeń ogrzewania rozjazdów i innych metod dopuszczonych do stosowania",
+        "C": "Na posypywaniu rozjazdów środkami chemicznymi obniżającymi temperaturę zamarzania wody",
+        "D": "Na ręcznym usuwaniu śniegu z przestrzeni między iglicą a opornicą i krzyżownic"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 22 ust. 1",
+      "section_ref": "§ 22",
+      "section": 22
+    },
+    {
+      "uuid": "b0104838-07b8-47af-934a-3aa349f15bb9",
+      "question": "Czy stosowanie urządzeń ogrzewania rozjazdów zwalnia z obowiązku mechanicznego lub ręcznego oczyszczania rozjazdu ze śniegu i lodu?",
+      "answers": {
+        "A": "Tak, stosowanie urządzeń ogrzewania rozjazdów całkowicie zwalnia z tego obowiązku",
+        "B": "Tak, ale tylko w przypadku stosowania elektrycznych urządzeń ogrzewania rozjazdów",
+        "C": "Nie, obowiązek mechanicznego lub ręcznego oczyszczania i usuwania nadmiaru śniegu zalegającego w torze przed rozjazdem pozostaje",
+        "D": "Tak, jeśli urządzenia ogrzewania są sprawne i przeprowadzono ich przegląd przed sezonem zimowym"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 22 ust. 4",
+      "section_ref": "§ 22",
+      "section": 22
+    },
+    {
+      "uuid": "33a6dcf0-0ca2-4485-aab4-f5585c64a9fb",
+      "question": "Do czego przeznaczone są aparaty do odmrażania rozjazdów (miotacze ognia)?",
+      "answers": {
+        "A": "Do szybkiego topienia śniegu i lodu w rozjazdach, zwłaszcza z przestrzeni między iglicą a opornicą, siodełek iglicowych, krzyżownic oraz zamknięć nastawczych",
+        "B": "Do powolnego rozmrażania zamkniętych kanałów pędni rozjazdowych i napędów zwrotnicowych",
+        "C": "Wyłącznie do likwidacji oblodzenia szyn w torze przed rozjazdem i za rozjazdem",
+        "D": "Do ogrzewania urządzeń elektrycznych sterowania rozjazdami w ekstremalnych warunkach zimowych"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 22 ust. 5",
+      "section_ref": "§ 22",
+      "section": 22
+    },
+    {
+      "uuid": "9864ba85-9a71-4113-9321-5bc9dfc1e817",
+      "question": "Na czym polega zabezpieczenie rozjazdu przed przymarzaniem?",
+      "answers": {
+        "A": "Na podgrzewaniu ruchomych części rozjazdu grzałkami elektrycznymi",
+        "B": "Na smarowaniu ruchomych części rozjazdu środkami niskokrzepnącymi",
+        "C": "Na pokrywaniu ruchomych części rozjazdu warstwą piasku",
+        "D": "Na odśnieżaniu ruchomych części rozjazdu sprężonym powietrzem"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 23 ust. 1",
+      "section_ref": "§ 23",
+      "section": 23
+    },
+    {
+      "uuid": "557c8241-4713-4d33-accc-2a4206706d19",
+      "question": "Jakie środki smarowe mogą być używane do smarowania rozjazdów?",
+      "answers": {
+        "A": "Tylko środki smarowe zatwierdzone przez producenta rozjazdu",
+        "B": "Tylko środki smarowe posiadające dopuszczenie do stosowania wydane przez Spółkę",
+        "C": "Tylko środki smarowe posiadające certyfikat krajowej jednostki normalizacyjnej",
+        "D": "Tylko środki smarowe dopuszczone przez właściwego zarządcę infrastruktury kolejowej"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 23 ust. 2",
+      "section_ref": "§ 23",
+      "section": 23
+    },
+    {
+      "uuid": "29690da0-859e-4d68-9d69-14f1c9cba6d7",
+      "question": "Kiedy należy rozpocząć prace odśnieżne?",
+      "answers": {
+        "A": "Nie później niż jedną godzinę od rozpoczęcia opadów",
+        "B": "Nie później niż dwie godziny od rozpoczęcia opadów",
+        "C": "Nie później niż trzy godziny od rozpoczęcia opadów",
+        "D": "Niezwłocznie po ustaniu opadów"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 24 ust. 5",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "c59cf31a-0fa6-4770-9009-b431d33c345c",
+      "question": "W jakim czasie od ustania opadów należy usunąć śnieg, błoto pośniegowe i lód?",
+      "answers": {
+        "A": "Najpóźniej do jednej godziny od ustania opadów",
+        "B": "Najpóźniej do dwóch godzin od ustania opadów",
+        "C": "Najpóźniej do trzech godzin od ustania opadów",
+        "D": "Najpóźniej do czterech godzin od ustania opadów"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 24 ust. 5",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "9796ddb8-eb76-4049-bb03-778b377192c1",
+      "question": "Czy do usuwania świeżego opadu śniegu wolno stosować środki chemiczne?",
+      "answers": {
+        "A": "Tak, zawsze gdy jest to technicznie możliwe",
+        "B": "Tak, ale tylko w połączeniu ze sprzętem specjalistycznym",
+        "C": "Tak, gdy grubość warstwy śniegu zagraża bezpieczeństwu podróżnych",
+        "D": "Nie, świeży opad śniegu należy usuwać bez stosowania środków chemicznych"
+      },
+      "correct": "D",
+      "explanation": "Ir-17 § 24 ust. 7",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "13c8225f-5bd7-4871-abc3-786122518a79",
+      "question": "Na jakiej długości perony powinny być odśnieżane?",
+      "answers": {
+        "A": "Na całej długości peronu",
+        "B": "Na długości odpowiadającej co najmniej długości najdłuższego składu pociągu pasażerskiego zatrzymującego się przy danej krawędzi peronowej oraz na długości dojścia do miejsca zatrzymywania się pociągów i dojść do wyposażenia infrastruktury pasażerskiej",
+        "C": "Na długości odpowiadającej długości najkrótszego składu pociągu pasażerskiego zatrzymującego się przy danej krawędzi peronowej",
+        "D": "Na długości odpowiadającej połowie długości najdłuższego składu pociągu pasażerskiego zatrzymującego się przy danej krawędzi peronowej"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 24 ust. 10",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "00778dab-7ac9-46f5-b4db-2efc945919fa",
+      "question": "Jaka jest minimalna szerokość odśnieżania peronów?",
+      "answers": {
+        "A": "Szerokość strefy zagrożenia powiększona co najmniej o 1,0 m",
+        "B": "Szerokość strefy zagrożenia wraz z pasem bezpieczeństwa, powiększona co najmniej o 1,6 m",
+        "C": "Szerokość pasa bezpieczeństwa powiększona co najmniej o 1,6 m",
+        "D": "Szerokość strefy zagrożenia wraz z pasem bezpieczeństwa, powiększona co najmniej o 2,0 m"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 24 ust. 11",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "8d880c61-d85d-4ac4-aa05-433e964a261e",
+      "question": "Na jakiej szerokości należy odśnieżać dojścia do miejsca zatrzymania się pociągu oraz dojścia do wyposażenia infrastruktury pasażerskiej?",
+      "answers": {
+        "A": "Co najmniej 1,0 m",
+        "B": "Co najmniej 1,2 m",
+        "C": "Co najmniej 1,6 m",
+        "D": "Co najmniej 2,0 m"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 24 ust. 13",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "2b15ccc0-743f-47b7-8eb7-c4ce2e282ee2",
+      "question": "Jak często należy tworzyć przejścia przez pryzmy śniegu składowanego na peronie?",
+      "answers": {
+        "A": "Nie rzadziej niż co 5,0 m",
+        "B": "Nie rzadziej niż co 8,0 m",
+        "C": "Nie rzadziej niż co 10,0 m",
+        "D": "Nie rzadziej niż co 15,0 m"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 24 ust. 16",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "fb2c01ce-3db5-41c2-a4c0-c88ac4359448",
+      "question": "Co jest niedopuszczalne podczas prac odśnieżnych na peronach i kładkach dla pieszych?",
+      "answers": {
+        "A": "Stosowanie środków chemicznych bez uprzedniego zastosowania materiałów uszorstniających",
+        "B": "Zrzucanie śniegu, lodu i piasku z peronów oraz kładek dla pieszych na tory",
+        "C": "Pozostawianie śniegu w pryzmach na peronach bez tworzenia przejść",
+        "D": "Odśnieżanie peronów podczas przebywania podróżnych na peronie"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 24 ust. 18",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "3f4d1738-e4ef-4e9a-9c21-0da59a3acaeb",
+      "question": "Jaki odcinek drogi na przejeździe kolejowo-drogowym podlega odśnieżaniu, gdy przejazd nie jest wyposażony w rogatki?",
+      "answers": {
+        "A": "Odcinek drogi ograniczony liniami wyznaczonymi w odległości 2,0 m od każdej ze skrajnych szyn",
+        "B": "Odcinek drogi ograniczony liniami wyznaczonymi w odległości 4,0 m od każdej ze skrajnych szyn",
+        "C": "Odcinek drogi ograniczony liniami wyznaczonymi w odległości 6,0 m od każdej ze skrajnych szyn",
+        "D": "Odcinek drogi ograniczony liniami wyznaczonymi w odległości 1,5 m od każdej ze skrajnych szyn"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 25 ust. 1",
+      "section_ref": "§ 25",
+      "section": 25
+    },
+    {
+      "uuid": "247a58c7-96d9-467b-80ce-9e0d615a8b9e",
+      "question": "Jakich środków nie należy stosować do usuwania śliskości zimowej na przejazdach kolejowo-drogowych i przejściach?",
+      "answers": {
+        "A": "Środków chemicznych powodujących zjawisko elektrolizy, np. chlorku sodu",
+        "B": "Środków chemicznych powodujących zjawisko korozji, np. chlorku wapnia",
+        "C": "Środków chemicznych powodujących zjawisko utleniania, np. chlorku potasu",
+        "D": "Środków chemicznych powodujących zjawisko krystalizacji, np. chlorku magnezu"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 25 ust. 5",
+      "section_ref": "§ 25",
+      "section": 25
+    },
+    {
+      "uuid": "e28402d7-8fe1-4970-9389-e90ccb79b1d3",
+      "question": "Jakie linie kolejowe podlegają szczególnej osłonie zimowej w przypadku wystąpienia warunków atmosferycznych powodujących utrudnienia w ruchu pociągów?",
+      "answers": {
+        "A": "Linie kolejowe o największym natężeniu ruchu towarowego",
+        "B": "Linie kolejowe ważne ze względów gospodarczych i społecznych",
+        "C": "Linie kolejowe obsługiwane przez pociągi ekspresowe",
+        "D": "Linie kolejowe zarządzane bezpośrednio przez PKP PLK S.A."
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 26 ust. 1",
+      "section_ref": "§ 26",
+      "section": 26
+    },
+    {
+      "uuid": "e52080d4-e1f3-44f4-a16f-065ff070c996",
+      "question": "W czasie niekorzystnych warunków atmosferycznych priorytetem jest utrzymanie przejezdności linii kolejowych, na których prowadzony jest ruch regionalny związany z dojazdami do pracy i szkół oraz transport:",
+      "answers": {
+        "A": "Materiałów budowlanych i urządzeń technicznych",
+        "B": "Chemikaliów i substancji niebezpiecznych",
+        "C": "Węgla i innych paliw oraz towarów żywnościowych",
+        "D": "Pojazdów kolejowych i taboru specjalnego"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 26 ust. 4",
+      "section_ref": "§ 26",
+      "section": 26
+    },
+    {
+      "uuid": "63fbe0a7-0eef-4ba3-a789-d061ecb41251",
+      "question": "Kto ustala kolejność odśnieżania torów głównych dodatkowych oraz torów bocznych na stacjach?",
+      "answers": {
+        "A": "Dyżurny ruchu stacji",
+        "B": "Naczelnik stacji",
+        "C": "Sekcje Eksploatacji",
+        "D": "Członek Zarządu Spółki właściwy ds. eksploatacji"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 26 ust. 3",
+      "section_ref": "§ 26",
+      "section": 26
+    },
+    {
+      "uuid": "16022ece-941c-43d3-88cf-510ac2ff351a",
+      "question": "Do czego służą urządzenia odwadniające naziemne lub podziemne?",
+      "answers": {
+        "A": "Do zebrania i odprowadzenia wody spływającej z toru, skarp nasypu itp.",
+        "B": "Do ocieplenia końcówek drenaży i studni drenarskich w okresie zimowym.",
+        "C": "Do oznaczania osi przepustów przed sezonem zimowym.",
+        "D": "Do uzupełniania pokryw i zamknięć w studniach, sztolniach i galeriach."
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 27 ust. 1",
+      "section_ref": "§ 27",
+      "section": 27
+    },
+    {
+      "uuid": "8f28e024-4f91-4e3b-8830-99be1b36f43a",
+      "question": "Jakie prace należy wykonać przed sezonem zimowym w zakresie oczyszczenia urządzeń odwadniających?",
+      "answers": {
+        "A": "Odwodnienie i oczyszczenie kanałów pędniowych oraz miejsc usytuowania rygli i napędów zwrotnicowych.",
+        "B": "Oczyszczenie z gałęzi, liści i innych zanieczyszczeń przepustów, rowów oraz pozostałych urządzeń odwadniających, ze sprawdzeniem drożności studni i ciągów drenarskich.",
+        "C": "Ocieplenie końcówek drenaży i studni drenarskich oraz innych elementów sieci odwodnieniowej.",
+        "D": "Oczyszczenie otwartych wylotów drenarskich oraz usunięcie wszelkich przeszkód na drogach spływu wód."
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 27 ust. 2 pkt 2",
+      "section_ref": "§ 27",
+      "section": 27
+    },
+    {
+      "uuid": "6f819536-8bf4-46ec-86a8-286b89840f06",
+      "question": "Jakie czynności należy wykonać, aby przygotować urządzenia odwadniające do odprowadzenia wód podczas roztopów?",
+      "answers": {
+        "A": "Usuwanie przeszkód na drogach spływu wody, przekopywanie kanałów w rowach zasypanych śniegiem, rozkuwanie i likwidowanie oblodzenia oraz zaśnieżenia przepustów i wylotów drenarskich",
+        "B": "Usuwanie przeszkód na drogach spływu wody, zakopywanie kanałów w rowach zasypanych śniegiem, rozkuwanie i likwidowanie oblodzenia oraz zaśnieżenia przepustów i wylotów drenarskich",
+        "C": "Usuwanie śniegu wyłącznie w obrębie przejazdów kolejowo-drogowych, przekopywanie kanałów w rowach zasypanych śniegiem oraz kierowanie wody do urządzeń odwadniających",
+        "D": "Rozkuwanie i likwidowanie oblodzenia przepustów, zasypywanie rowów śniegiem oraz usuwanie przeszkód z wlotów rowów krytych pod drogą kołową"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 28 ust. 1 pkt 1",
+      "section_ref": "§ 28",
+      "section": 28
+    },
+    {
+      "uuid": "f1af7f00-c0f2-4625-9aa3-e93785884861",
+      "question": "Gdzie należy odprowadzać wodę podczas roztopów?",
+      "answers": {
+        "A": "Do cieków wodnych lub zbiorników retencyjnych",
+        "B": "Do urządzeń odwadniających lub miejsc, z których można ją odpompować",
+        "C": "Do rowów otwartych lub poza teren kolejowy",
+        "D": "Do przepustów lub wylotów drenarskich"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 28 ust. 2",
+      "section_ref": "§ 28",
+      "section": 28
+    },
+    {
+      "uuid": "49d4cf07-2875-4795-b045-8d67b320f450",
+      "question": "Na czym polega zabezpieczenie miejsc z wysadzinami?",
+      "answers": {
+        "A": "Na łagodzeniu przejść od normalnego poziomu toków do miejsc wysadzonych oraz doprowadzeniu obu toków szyn do właściwego położenia jednego toku względem drugiego i wprowadzeniu w razie potrzeby ograniczenia prędkości pociągów",
+        "B": "Na natychmiastowym wymianie podsypki w miejscach wysadzonych oraz wprowadzeniu stałego zakazu ruchu pociągów do czasu usunięcia wysadzin",
+        "C": "Na wzmocnieniu podtorza w miejscach wysadzonych poprzez dodatkowe podbicie podkładów oraz wprowadzeniu obowiązku jazdy z prędkością nie większą niż 20 km/h",
+        "D": "Na izolowaniu miejsc wysadzonych geowłókniną oraz doprowadzeniu jednego toku szyn do poziomu drugiego poprzez regulację podkładów"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 29 ust. 2",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "cf46884e-715a-49e7-870d-1e2e81df6ecc",
+      "question": "Jaki jest minimalny czas przerwy w działaniu blokady liniowej, który podlega obowiązkowej rejestracji w dokumentacji robót zimowych?",
+      "answers": {
+        "A": "Dłuższy niż 30 minut",
+        "B": "Dłuższy niż 1 godzina",
+        "C": "Dłuższy niż 2 godziny",
+        "D": "Dłuższy niż 4 godziny"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 30 pkt 8",
+      "section_ref": "§ 30",
+      "section": 30
+    },
+    {
+      "uuid": "d9710bd8-9a0c-438e-8619-b9f28a0024ec",
+      "question": "Co jest rejestrowane w dokumentacji robót zimowych w zakresie górek rozrządowych?",
+      "answers": {
+        "A": "Unieruchomienia górek rozrządowych wskutek zaśnieżenia, przymarznięcia ruchomych części rozjazdowych lub urządzeń nastawczych, zablokowania hamulców torowych",
+        "B": "Unieruchomienia górek rozrządowych wskutek awarii urządzeń ogrzewania rozjazdów lub braku zasilania elektrycznego",
+        "C": "Unieruchomienia górek rozrządowych wskutek uszkodzenia sieci trakcyjnej lub przerw w dostawie prądu",
+        "D": "Unieruchomienia górek rozrządowych wskutek utknięcia pociągów w zaspach lub zamknięcia toru"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 30 pkt 9",
+      "section_ref": "§ 30",
+      "section": 30
+    },
+    {
+      "uuid": "fe0fa41d-7204-40eb-be8d-3373ad8424fb",
+      "question": "Które podmioty są zobowiązane do rejestrowania przebiegu robót zimowych oraz wpływu warunków atmosferycznych na eksploatację w okresie pogotowia zimowego?",
+      "answers": {
+        "A": "Sekcja Eksploatacji oraz Zakład Linii Kolejowych",
+        "B": "Sekcja Eksploatacji oraz Dyżurny Ruchu",
+        "C": "Zakład Linii Kolejowych oraz Centrum Zarządzania Ruchem",
+        "D": "Sekcja Eksploatacji oraz Naczelnik Sekcji Drogowej"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 30",
+      "section_ref": "§ 30",
+      "section": 30
+    },
+    {
+      "uuid": "07659b83-3191-4575-9ece-148331bf965a",
+      "question": "Do kiedy Sekcja Eksploatacji przekazuje sprawozdanie z przebiegu akcji zimowej do Zakładu Linii Kolejowych?",
+      "answers": {
+        "A": "Do 10 maja",
+        "B": "Do 20 maja",
+        "C": "Do 30 maja",
+        "D": "Do 1 czerwca"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 31 ust. 3 pkt 1",
+      "section_ref": "§ 31",
+      "section": 31
+    },
+    {
+      "uuid": "79c7b60c-0331-4ce0-819c-67da623087dd",
+      "question": "Kto sporządza zbiorcze sprawozdanie z przebiegu akcji zimowej?",
+      "answers": {
+        "A": "Sekcja Eksploatacji",
+        "B": "Zakład Linii Kolejowych",
+        "C": "Biuro Eksploatacji",
+        "D": "Koordynator akcji zimowej"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 31 ust. 5",
+      "section_ref": "§ 31",
+      "section": 31
+    },
+    {
+      "uuid": "e19ac8a1-d142-4b0d-9467-80b955138b3b",
+      "question": "W jakim terminie Biuro Eksploatacji przedstawia zbiorcze sprawozdanie z przebiegu akcji zimowej Koordynatorowi akcji zimowej?",
+      "answers": {
+        "A": "Nie później niż 10 dni od dnia otrzymania sprawozdań ze wszystkich Zakładów Linii Kolejowych",
+        "B": "Nie później niż 20 dni od dnia otrzymania sprawozdań ze wszystkich Zakładów Linii Kolejowych",
+        "C": "Nie później niż 30 dni od dnia otrzymania sprawozdań ze wszystkich Zakładów Linii Kolejowych",
+        "D": "Nie później niż 60 dni od dnia otrzymania sprawozdań ze wszystkich Zakładów Linii Kolejowych"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 31 ust. 5",
+      "section_ref": "§ 31",
+      "section": 31
+    },
+    {
+      "uuid": "0147011b-ff8d-4d54-9a9b-ba01b5405090",
+      "question": "Co jest niezbędne do zapewnienia sprawnego funkcjonowania kolei w trudnych warunkach atmosferycznych?",
+      "answers": {
+        "A": "Zakup nowych lokomotyw i wagonów przed sezonem zimowym",
+        "B": "Rzetelne zaplanowanie i wykonanie prac przygotowawczych oraz podejmowanie działań organizacyjno-technicznych",
+        "C": "Zawarcie umów z firmami zewnętrznymi na odśnieżanie torów",
+        "D": "Szkolenie pracowników z zakresu pierwszej pomocy w warunkach zimowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 3 ust. 1",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "84ae4334-dd41-4778-9b93-467e238be3b6",
+      "question": "Które z wymienionych zadań należy do Biura Eksploatacji w zakresie akcji zimowej?",
+      "answers": {
+        "A": "Zapewnienie sprawności maszyn odśnieżnych i obsługi personelu",
+        "B": "Nadzorowanie realizacji umów dotyczących zimowego utrzymania infrastruktury pasażerskiej",
+        "C": "Planowanie strategii i inicjowanie działań w zakresie zimowego utrzymania infrastruktury kolejowej",
+        "D": "Ustalanie potrzeb zatrudnienia do prowadzenia robót zimowych"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 3 ust. 2 pkt 1 lit. a",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "6d0970ee-d7bf-446b-8fca-9081ba4c3bfc",
+      "question": "Do czego zobowiązane jest Biuro Eksploatacji w zakresie wyposażenia jednostek organizacyjnych?",
+      "answers": {
+        "A": "Finansowania zakupu sprzętu i urządzeń technicznych do usuwania skutków zimy",
+        "B": "Koordynowania działań mających na celu wyposażenie jednostek organizacyjnych w sprzęt i urządzenia techniczne do usuwania skutków zimy",
+        "C": "Bezpośredniego zakupu sprzętu i urządzeń technicznych dla sekcji eksploatacji",
+        "D": "Nadzorowania przetargów na dostawę sprzętu odśnieżnego"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 3 ust. 2 pkt 1 lit. b",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "4ba35855-5733-49f9-988c-c44cde5d007b",
+      "question": "Jakie zadanie w zakresie akcji zimowej realizuje Centrum Zarządzania Ruchem Kolejowym w odniesieniu do organizacji ruchu pociągów?",
+      "answers": {
+        "A": "Samodzielnie odwołuje kursy pociągów bez uzgodnienia z przewoźnikami",
+        "B": "Wprowadza zmiany w organizacji ruchu pociągów w uzgodnieniu z przewoźnikami kolejowymi",
+        "C": "Planuje strategię zimowego utrzymania infrastruktury kolejowej",
+        "D": "Sporządza sprawozdania dotyczące stanu przygotowań do pracy w warunkach zimowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 3 ust. 2 pkt 3 lit. a",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "10c964f5-b375-4ff4-8237-d3e61f98de65",
+      "question": "Komu Centrum Zarządzania Ruchem Kolejowym zgłasza informacje o sytuacji przewozowej i ewentualnych zagrożeniach wywołanych warunkami atmosferycznymi?",
+      "answers": {
+        "A": "Dyrektorowi Biura Eksploatacji i Naczelnikowi Sekcji Eksploatacji",
+        "B": "Organom administracji publicznej i centrom zarządzania kryzysowego",
+        "C": "Koordynatorowi i kierownikowi akcji zimowej",
+        "D": "Komórce organizacyjnej ds. automatyki i telekomunikacji"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 3 ust. 2 pkt 3 lit. c",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "458ed2fd-f02c-4ee8-a1d1-44232fcdcf47",
+      "question": "Z jakimi podmiotami Centrum Zarządzania Ruchem Kolejowym współdziała w zakresie akcji zimowej?",
+      "answers": {
+        "A": "Z komórkami ds. nawierzchni, obiektów inżynieryjnych i budynków",
+        "B": "Z właściwymi jednostkami zarządzania kryzysowego oraz podmiotami krajowego systemu ratowniczo-gaśniczego",
+        "C": "Z firmami zewnętrznymi realizującymi umowy utrzymania czystości",
+        "D": "Z komórkami organizacyjnymi Zakładu Linii Kolejowych ds. infrastruktury pasażerskiej"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 3 ust. 2 pkt 3 lit. e",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "36c06a60-2f36-4a44-964f-709362e41bdc",
+      "question": "Jakie zadanie w zakresie akcji zimowej realizuje komórka organizacyjna Zakładu Linii Kolejowych właściwa ds. zaplecza technicznego, ratownictwa i ochrony przeciwpożarowej?",
+      "answers": {
+        "A": "Nadzorowanie realizacji umów dotyczących zimowego utrzymania infrastruktury pasażerskiej",
+        "B": "Zabezpieczenie potrzeb Sekcji Eksploatacji w materiały do akcji zimowej",
+        "C": "Zapewnienie sprawności maszyn odśnieżnych, obsługi personelu oraz środków trakcyjnych do pługów i zespołów odśnieżnych",
+        "D": "Koordynacja działań komórek organizacyjnych zakładu związanych z przygotowaniem infrastruktury do okresu zimowego"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 3 ust. 2 pkt 4 lit. d",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "8ef3dcb6-b731-40ae-8af8-ed7775fe2de4",
+      "question": "Jakie zadanie w zakresie akcji zimowej realizuje komórka organizacyjna Zakładu Linii Kolejowych właściwa ds. gospodarki materiałowej?",
+      "answers": {
+        "A": "Koordynacja działań komórek organizacyjnych zakładu związanych z przygotowaniem do zimy",
+        "B": "Zawieranie umów z podmiotami zewnętrznymi w celu uzupełnienia brakujących pracowników i maszyn",
+        "C": "Zabezpieczenie potrzeb Sekcji Eksploatacji w materiały do akcji zimowej",
+        "D": "Przygotowanie budynków, budowli oraz urządzeń do pracy w warunkach zimowych"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 3 ust. 2 pkt 4 lit. c",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "8d11e02c-f632-4425-bcf8-345e8bfefef6",
+      "question": "Jakie informacje dyspozytor Zakładu Linii Kolejowych przekazuje do Ekspozytury Zarządzania Ruchem Kolejowym?",
+      "answers": {
+        "A": "Informacje o stanie przygotowań do zimy i planach prowadzenia robót zimowych",
+        "B": "Informacje o występujących trudnościach w utrzymaniu przejezdności linii kolejowych oraz zakłóceniach w prowadzeniu ruchu pociągów",
+        "C": "Meldunki z przebiegu robót zimowych na terenie Zakładu Linii Kolejowych",
+        "D": "Zgłoszenia dotyczące niewłaściwej realizacji usług utrzymania czystości na obiektach infrastruktury"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 3 ust. 2 pkt 4 lit. f tiret 5",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "036e8bb8-86ca-4698-85b5-3cc37ec90be6",
+      "question": "Jakie zadanie w zakresie akcji zimowej realizuje Sekcja Eksploatacji w odniesieniu do podmiotów zewnętrznych?",
+      "answers": {
+        "A": "Zawieranie umów z podmiotami zewnętrznymi na uzupełnienie brakujących pracowników i maszyn",
+        "B": "Nadzorowanie realizacji umów dotyczących zimowego utrzymania infrastruktury pasażerskiej",
+        "C": "Monitorowanie i kontrolowanie zadań realizowanych przez podmioty gospodarcze i osoby fizyczne w ramach zawartych umów",
+        "D": "Sporządzanie analiz i ocen realizacji umów z podmiotami zewnętrznymi"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 3 ust. 2 pkt 4 lit. g tiret 7",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "65f52a41-d42e-4c2e-8c61-8785f19083ce",
+      "question": "Jakie zadanie w zakresie zimowego utrzymania infrastruktury należy do komórek organizacyjnych Centrali Spółki właściwych ds. automatyki i telekomunikacji, energetyki oraz dróg kolejowych?",
+      "answers": {
+        "A": "Bezpośrednie kierowanie pracami odśnieżnymi na liniach kolejowych",
+        "B": "Sprawowanie ogólnego nadzoru nad przygotowaniem do okresu zimowego infrastruktury kolejowej, maszyn i urządzeń odśnieżnych oraz ich funkcjonowaniem w warunkach zimowych",
+        "C": "Zawieranie umów z przewoźnikami na zimowe utrzymanie infrastruktury kolejowej",
+        "D": "Sporządzanie sprawozdań z przebiegu robót zimowych na terenie zakładów linii kolejowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 3 ust. 2 pkt 2",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "760e8b8e-0096-47c5-b076-f32637b8f18d",
+      "question": "Jakie zadanie realizuje Sekcja Eksploatacji w zakresie przygotowania do akcji zimowej?",
+      "answers": {
+        "A": "Koordynowanie działań mających na celu wyposażenie jednostek organizacyjnych w sprzęt odśnieżny",
+        "B": "Nadzór nad przestrzeganiem standardów zimowego utrzymania infrastruktury pasażerskiej",
+        "C": "Opracowanie planu prowadzenia robót zimowych",
+        "D": "Określanie kolejności usuwania awarii i udrażniania szlaków kolejowych"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 3 ust. 2 pkt 4 lit. g tiret 4",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "7a323b4a-116c-42ab-bb41-0aebb2ee766a",
+      "question": "Co jest niezbędne do zapewnienia sprawnego funkcjonowania kolei w trudnych warunkach atmosferycznych?",
+      "answers": {
+        "A": "Rzetelne zaplanowanie i wykonanie prac przygotowawczych oraz podejmowanie działań organizacyjno-technicznych związanych z usuwaniem skutków opadów śniegu i spadków temperatury",
+        "B": "Wyłącznie zakup nowego sprzętu odśnieżnego i urządzeń technicznych przed każdym sezonem zimowym",
+        "C": "Opracowanie planów ewakuacji pasażerów i powiadamianie przewoźników o warunkach atmosferycznych",
+        "D": "Zatrudnienie dodatkowego personelu technicznego i organizowanie regularnych szkoleń zimowych"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 3 ust. 1",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "053a1104-9735-4cf3-83e5-92066629ec15",
+      "question": "Które z wymienionych zadań należy do Biura Eksploatacji w zakresie akcji zimowej?",
+      "answers": {
+        "A": "Ustalanie potrzeb zatrudnienia do prowadzenia robót zimowych we współpracy z komórką ds. pracowniczych",
+        "B": "Planowanie strategii i inicjowanie działań w zakresie zimowego utrzymania infrastruktury kolejowej",
+        "C": "Zapewnienie sprawności maszyn odśnieżnych i zagwarantowanie personelu do ich obsługi",
+        "D": "Zabezpieczenie potrzeb Sekcji Eksploatacji w materiały do akcji zimowej"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 3 ust. 2 pkt 1 lit. a",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "7926e49e-3ef4-4597-8ec4-50c23e939c68",
+      "question": "Do jakich zadań w zakresie akcji zimowej zobowiązane jest Biuro Eksploatacji w obszarze nadzoru nad infrastrukturą pasażerską?",
+      "answers": {
+        "A": "Nadzorowania realizacji umów dotyczących zimowego utrzymania infrastruktury pasażerskiej",
+        "B": "Nadzoru nad przestrzeganiem standardów w zakresie zimowego utrzymania infrastruktury pasażerskiej",
+        "C": "Koordynowania działań mających na celu wyposażenie jednostek organizacyjnych w sprzęt do usuwania skutków zimy",
+        "D": "Przygotowywania planu prowadzenia robót zimowych na terenie każdego zakładu"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 3 ust. 2 pkt 1 lit. h",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "0208b38f-1b63-415b-aed8-254e357c2461",
+      "question": "Jakie zadanie w zakresie akcji zimowej spoczywa na Centrum Zarządzania Ruchem Kolejowym?",
+      "answers": {
+        "A": "Sporządzanie sprawozdań i analiz dotyczących stanu przygotowań do pracy w warunkach zimowych",
+        "B": "Zabezpieczenie potrzeb Sekcji Eksploatacji w materiały do akcji zimowej",
+        "C": "Określanie kolejności usuwania awarii i udrażniania szlaków kolejowych",
+        "D": "Nadzorowanie realizacji zawartych umów dotyczących zimowego utrzymania infrastruktury pasażerskiej"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 3 ust. 2 pkt 3 lit. b",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "dfda46dd-69ba-457d-981c-b38c4dc37fd1",
+      "question": "Komu Centrum Zarządzania Ruchem Kolejowym zgłasza informacje o sytuacji przewozowej i ewentualnych zagrożeniach wywołanych warunkami atmosferycznymi?",
+      "answers": {
+        "A": "Dyrektorowi Biura Eksploatacji oraz kierownikom Sekcji Eksploatacji",
+        "B": "Koordynatorowi i kierownikowi akcji zimowej",
+        "C": "Właściwym organom administracji publicznej i centrom zarządzania kryzysowego",
+        "D": "Komórkom organizacyjnym Centrali Spółki ds. automatyki i telekomunikacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 3 ust. 2 pkt 3 lit. c",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "d287dab0-8c50-4b98-84b1-5b359023e30e",
+      "question": "Z jakimi podmiotami Centrum Zarządzania Ruchem Kolejowym współdziała w zakresie akcji zimowej?",
+      "answers": {
+        "A": "Z podmiotami zewnętrznymi realizującymi umowy utrzymania czystości oraz z przewoźnikami towarowymi",
+        "B": "Z właściwymi jednostkami zarządzania kryzysowego oraz podmiotami krajowego systemu ratowniczo-gaśniczego",
+        "C": "Z komórkami organizacyjnymi Zakładu Linii Kolejowych ds. infrastruktury pasażerskiej",
+        "D": "Z Biurem Eksploatacji oraz komórkami ds. automatyki i telekomunikacji Centrali Spółki"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 3 ust. 2 pkt 3 lit. e",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "81ea8608-c8ee-454d-ba44-179badca7295",
+      "question": "Za co odpowiada komórka organizacyjna Zakładu Linii Kolejowych właściwa ds. zaplecza technicznego, ratownictwa i ochrony przeciwpożarowej w akcji zimowej?",
+      "answers": {
+        "A": "Zabezpieczenie potrzeb Sekcji Eksploatacji w materiały do akcji zimowej i koordynację dostaw",
+        "B": "Nadzorowanie realizacji umów dotyczących zimowego utrzymania infrastruktury pasażerskiej",
+        "C": "Zapewnienie sprawności maszyn odśnieżnych, zagwarantowanie personelu do ich obsługi oraz zapewnienie środków trakcyjnych do pługów i zespołów odśnieżnych",
+        "D": "Przygotowanie budynków, budowli oraz urządzeń do pracy w warunkach zimowych"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 3 ust. 2 pkt 4 lit. d",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "24515936-b22d-44eb-9bcb-fd76e7a1afe0",
+      "question": "Jakie zadanie należy do dyspozytora Zakładu Linii Kolejowych w ramach akcji zimowej?",
+      "answers": {
+        "A": "Zawieranie umów z podmiotami zewnętrznymi w celu uzupełnienia brakującej liczby pracowników i maszyn budowlanych",
+        "B": "Analizowanie bieżącej sytuacji pogodowej, prognoz oraz ostrzeżeń hydrologiczno-meteorologicznych i informowanie kierownika akcji zimowej o ewentualnych zagrożeniach",
+        "C": "Monitorowanie i kontrolowanie zadań realizowanych przez podmioty gospodarcze i osoby fizyczne w ramach zawartych umów",
+        "D": "Opracowanie planu prowadzenia robót zimowych dla terenu Sekcji Eksploatacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 3 ust. 2 pkt 4 lit. f tiret 1",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "f8930700-e532-4099-b34f-bbde2f6d1606",
+      "question": "Co dyspozytor Zakładu Linii Kolejowych przekazuje do Ekspozytury Zarządzania Ruchem Kolejowym?",
+      "answers": {
+        "A": "Meldunki z przebiegu robót zimowych na terenie Zakładu Linii Kolejowych",
+        "B": "Informacje o warunkach pogodowych i wykorzystaniu sił i środków przy realizacji robót zimowych",
+        "C": "Informacje o występujących trudnościach w utrzymaniu przejezdności linii kolejowych oraz zakłóceniach w prowadzeniu ruchu pociągów",
+        "D": "Zgłoszenia dotyczące braków w zatrudnieniu i zapotrzebowania na pojazdy samochodowe"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 3 ust. 2 pkt 4 lit. f tiret 5",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "9cdef512-161d-41f5-8454-6061922a0e67",
+      "question": "Jakie zadanie w zakresie akcji zimowej należy do Sekcji Eksploatacji?",
+      "answers": {
+        "A": "Koordynowanie działań komórek organizacyjnych zakładu związanych z przygotowaniem infrastruktury do okresu zimowego",
+        "B": "Monitorowanie sytuacji zimowej i wyjaśnianie przyczyn zakłóceń eksploatacyjnych na poziomie Spółki",
+        "C": "Prowadzenie robót zimowych oraz działań techniczno-organizacyjnych w celu zapobieżenia negatywnym skutkom zimy lub ich usunięcia",
+        "D": "Zawieranie umów z przewoźnikami kolejowymi w zakresie zimowego utrzymania szlaków"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 3 ust. 2 pkt 4 lit. g tiret 5",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "d3ed606d-aa14-46d4-ad49-30e0b5b95177",
+      "question": "Jakie zadanie w ramach akcji zimowej należy do komórek organizacyjnych Centrali Spółki właściwych ds. automatyki i telekomunikacji, energetyki oraz dróg kolejowych?",
+      "answers": {
+        "A": "Planowanie strategii zimowego utrzymania infrastruktury i inicjowanie działań zaradczych na poziomie Spółki",
+        "B": "Sprawowanie ogólnego nadzoru nad przygotowaniem do okresu zimowego infrastruktury kolejowej, maszyn i urządzeń odśnieżnych oraz ich funkcjonowaniem w warunkach zimowych",
+        "C": "Zawieranie umów z podmiotami zewnętrznymi na wykonanie prac zimowych i kontrola ich realizacji",
+        "D": "Koordynowanie działań przewoźników kolejowych w sytuacjach zakłóceń eksploatacyjnych"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 3 ust. 2 pkt 2",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "ff9a348d-875f-4820-9a81-b384dcbf2cdb",
+      "question": "Do kiedy Zakład Linii Kolejowych organizuje naradę w celu ustalenia zadań do realizacji w okresie przygotowawczym do zimy?",
+      "answers": {
+        "A": "Do 15 czerwca",
+        "B": "Do 31 maja",
+        "C": "Do 1 lipca",
+        "D": "Do 30 kwietnia"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 5 ust. 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "ede44670-0059-4c27-93c2-6ec66ad1b6c7",
+      "question": "Kto przewodniczy naradzie organizowanej przez Zakład Linii Kolejowych w ramach przygotowań do zimy?",
+      "answers": {
+        "A": "Dyrektor Zakładu Linii Kolejowych",
+        "B": "Naczelnik Sekcji Eksploatacji",
+        "C": "Zastępca Dyrektora ds. eksploatacyjnych",
+        "D": "Kierownik Działu Technicznego"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 5 ust. 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "5cb1d16a-313f-4b75-b114-4b7b3e20540d",
+      "question": "Do kiedy Zakład Linii Kolejowych przekazuje harmonogram ramowy prac przygotowawczych do zimy do Sekcji Eksploatacji?",
+      "answers": {
+        "A": "Do 31 maja",
+        "B": "Do 1 lipca",
+        "C": "Do 30 czerwca",
+        "D": "Do 15 czerwca"
+      },
+      "correct": "D",
+      "explanation": "Ir-17 § 5 ust. 3",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "4307eb2c-1897-45aa-a932-66215e216c5c",
+      "question": "Kto zatwierdza harmonogram ramowy prac przygotowawczych do zimy opracowany przez Zakład Linii Kolejowych?",
+      "answers": {
+        "A": "Zastępca Dyrektora ds. eksploatacyjnych",
+        "B": "Naczelnik Sekcji Eksploatacji",
+        "C": "Dyrektor Zakładu Linii Kolejowych",
+        "D": "Kierownik Sekcji Utrzymania"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 5 ust. 3",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "28640e95-86f7-45b1-8889-d1634eeb93a3",
+      "question": "Do kiedy Sekcja Eksploatacji przekazuje odpis harmonogramu szczegółowego do Zakładu Linii Kolejowych?",
+      "answers": {
+        "A": "Do 15 czerwca",
+        "B": "Do 31 maja",
+        "C": "Do 15 lipca",
+        "D": "Do 1 lipca"
+      },
+      "correct": "D",
+      "explanation": "Ir-17 § 5 ust. 4",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "220d5747-9616-47f8-a315-2858bb712e8e",
+      "question": "Kto zatwierdza harmonogram szczegółowy prac przygotowawczych do zimy opracowany przez Sekcję Eksploatacji?",
+      "answers": {
+        "A": "Dyrektor Zakładu Linii Kolejowych",
+        "B": "Zastępca Dyrektora ds. eksploatacyjnych",
+        "C": "Kierownik Sekcji Utrzymania",
+        "D": "Naczelnik Sekcji Eksploatacji"
+      },
+      "correct": "D",
+      "explanation": "Ir-17 § 5 ust. 4",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "8758976b-7c1c-4cd4-9389-cac464b05bb8",
+      "question": "W jakim celu Sekcja Eksploatacji przekazuje do Zakładu Linii Kolejowych informacje o postępie prac ujętych w harmonogramie szczegółowym?",
+      "answers": {
+        "A": "W celu zatwierdzenia harmonogramu szczegółowego przez Dyrektora Zakładu",
+        "B": "W celu utworzenia przez zakład zestawienia zbiorczego",
+        "C": "W celu aktualizacji harmonogramu ramowego przez Zakład Linii Kolejowych",
+        "D": "W celu przekazania raportu do Zastępcy Dyrektora ds. eksploatacyjnych"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 5 ust. 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "4e880a83-99f8-48bb-a445-8d64e7035eae",
+      "question": "Zgodnie z jakimi przepisami powinien być przygotowany sprzęt odśnieżny?",
+      "answers": {
+        "A": "Wyłącznie zgodnie z dokumentacją techniczno-ruchową (DTR) producenta sprzętu",
+        "B": "Zgodnie z Instrukcją Itw-4, Instrukcją Id-13, dokumentacją DSU oraz DTR i zaleceniami producenta",
+        "C": "Wyłącznie zgodnie z Instrukcją eksploatacji i utrzymania urządzeń elektrycznego ogrzewania rozjazdów Iet-1",
+        "D": "Zgodnie z Instrukcją Itw-4 oraz Instrukcją Id-13, bez uwzględnienia dokumentacji producenta"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 7 ust. 2",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "d0acb446-cdfb-4700-b10d-2b01fd001967",
+      "question": "Zgodnie z postanowieniami jakiej instrukcji powinny być przygotowane urządzenia ogrzewania rozjazdów?",
+      "answers": {
+        "A": "Instrukcji utrzymania pojazdów kolejowych Itw-4",
+        "B": "Instrukcji użytkowania oraz utrzymania pługów i zespołów odśnieżnych Id-13",
+        "C": "Instrukcji eksploatacji i utrzymania urządzeń elektrycznego ogrzewania rozjazdów Iet-1",
+        "D": "Dokumentacji systemu utrzymania (DSU)"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 7 ust. 3",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "faf70636-9656-4c1b-b947-376d33d2fb1f",
+      "question": "W jakim terminie po zakończeniu pogotowia zimowego należy sporządzić spis ilościowy pozostałych materiałów do akcji zimowej?",
+      "answers": {
+        "A": "W terminie 14 dni",
+        "B": "W terminie 30 dni",
+        "C": "W terminie 60 dni",
+        "D": "W terminie 90 dni"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 8 ust. 1",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "9db135a8-5474-4a42-80e8-4de0521721b8",
+      "question": "Jaki minimalny zapas materiałów należy rozprowadzić na posterunki pracy przed okresem pogotowia zimowego?",
+      "answers": {
+        "A": "Wystarczający na co najmniej dwa tygodnie pracy",
+        "B": "Wystarczający na co najmniej cztery tygodnie pracy",
+        "C": "Wystarczający na co najmniej sześć tygodni pracy",
+        "D": "Wystarczający na co najmniej osiem tygodni pracy"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 8 ust. 4",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "8ebb16e9-3963-45fb-bab3-58dd682244f2",
+      "question": "Do jakiej wielkości należy uzupełniać zapasy materiałowe w czasie pogotowia zimowego?",
+      "answers": {
+        "A": "Wystarczającej do prowadzenia robót zimowych przez co najmniej cztery tygodnie",
+        "B": "Wystarczającej do prowadzenia robót zimowych przez co najmniej trzy tygodnie",
+        "C": "Wystarczającej do prowadzenia robót zimowych przez co najmniej dwa tygodnie",
+        "D": "Wystarczającej do prowadzenia robót zimowych przez co najmniej jeden tydzień"
+      },
+      "correct": "C",
+      "explanation": "Ir-17 § 8 ust. 5",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "f65dcc1f-2f67-4e32-8c8d-fc39b06527aa",
+      "question": "W jaki sposób należy zabezpieczyć urządzenia sieci trakcyjnej przed wpływem warunków zimowych?",
+      "answers": {
+        "A": "Przez pokrycie przewodów jezdnych warstwą izolacyjną z tworzywa sztucznego",
+        "B": "Przez zabezpieczenie przewodów jezdnych preparatem przeciwoblodzeniowym",
+        "C": "Przez podgrzewanie przewodów jezdnych za pomocą urządzeń elektrycznych",
+        "D": "Przez wymianę przewodów jezdnych na odporne na niskie temperatury"
+      },
+      "correct": "B",
+      "explanation": "Ir-17 § 9 ust. 1 pkt 2",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "4edca614-1d94-4ceb-b087-d0ddd5818156",
+      "question": "Co należy zrobić ze stacji i szlaków przed okresem pogotowia zimowego, aby zapobiec tworzeniu się zasp śnieżnych na torach?",
+      "answers": {
+        "A": "Usunąć zbędne przedmioty, materiały oraz wagony",
+        "B": "Zainstalować dodatkowe zasłony odśnieżne wzdłuż torów",
+        "C": "Przeprowadzić naprawy nawierzchni kolejowej i rozjazdów",
+        "D": "Uruchomić urządzenia ogrzewania rozjazdów i hydranty"
+      },
+      "correct": "A",
+      "explanation": "Ir-17 § 9 ust. 2",
+      "section_ref": "§ 9",
+      "section": 9
+    }
+  ]
+}

@@ -1,0 +1,3799 @@
+{
+  "instruction": "Ir-16",
+  "questions": [
+    {
+      "uuid": "8e2a38c5-31ad-44d2-942e-7f3253759845",
+      "question": "Jaki jest cel postanowień zawartych w instrukcji Ir-16?",
+      "answers": {
+        "A": "Ustalenie jednolitego sposobu postępowania uczestników przewozu towarów niebezpiecznych oraz zapobieganie zagrożeniom dla ludzi i środowiska",
+        "B": "Ustalenie jednolitego sposobu postępowania uczestników przewozu towarów niebezpiecznych oraz minimalizowanie kosztów operacyjnych przewoźników",
+        "C": "Określenie zasad odpowiedzialności finansowej za szkody powstałe przy przewozie towarów niebezpiecznych na liniach kolejowych",
+        "D": "Regulowanie zasad ruchu pociągów przewożących towary niebezpieczne w strefach przygranicznych"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 1 ust. 1",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "728d2fbb-5826-4be3-a09a-f673fdfcff79",
+      "question": "Co reguluje powiadamianie w ruchu granicznym przy przewozie towarów niebezpiecznych?",
+      "answers": {
+        "A": "Regulamin RID",
+        "B": "Krajowe uregulowania prawne PKP Polskie Linie Kolejowe S.A.",
+        "C": "Miejscowe porozumienia graniczne",
+        "D": "Załącznik 2 do Umowy SMGS"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 1 ust. 2",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "fc12ca4f-2549-485b-b9d3-dad5fba8e0e8",
+      "question": "Z jakiego dokumentu międzynarodowego wynikają postanowienia dotyczące procesu przewozu towarów niebezpiecznych koleją w komunikacji z krajami zrzeszonymi w OSŻD?",
+      "answers": {
+        "A": "Regulaminu międzynarodowego przewozu kolejami towarów niebezpiecznych (RID)",
+        "B": "Załącznika 2 do Umowy o międzynarodowej kolejowej komunikacji towarowej (SMGS)",
+        "C": "Krajowych uregulowań prawnych i przepisów wewnętrznych PKP PLK S.A.",
+        "D": "Konwencji o międzynarodowym transporcie kolejowym (COTIF)"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 1 ust. 3 pkt 2",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "4f3bea95-86a5-4653-918c-1fc93a2fc846",
+      "question": "Na jakich opakowaniach umieszcza się nalepki ostrzegawcze?",
+      "answers": {
+        "A": "Na opakowaniach, opakowaniach dużych, DPPL i kontenerach małych",
+        "B": "Na opakowaniach, cysternach przenośnych, DPPL i kontenerach wielkich",
+        "C": "Na opakowaniach, opakowaniach dużych, kontenerach-cysternach i MEGC",
+        "D": "Na opakowaniach dużych, DPPL, kontenerach małych i kontenerach wielkich"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 10 ust. 1",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "7e723bc8-1ab6-4a1e-8756-613261345a04",
+      "question": "Na których powierzchniach wagonów-cystern umieszcza się duże nalepki ostrzegawcze?",
+      "answers": {
+        "A": "Na obu ścianach bocznych i obu ścianach czołowych",
+        "B": "Na obu ścianach bocznych",
+        "C": "Na obu ścianach czołowych",
+        "D": "Na wszystkich czterech ścianach i dachu"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 10 ust. 2",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "407c8f18-14a9-48b9-8495-c72134ca2f77",
+      "question": "Na których powierzchniach kontenerów-cystern umieszcza się duże nalepki ostrzegawcze?",
+      "answers": {
+        "A": "Na obu ścianach bocznych",
+        "B": "Na obu ścianach czołowych",
+        "C": "Na obu ścianach bocznych i obu ścianach czołowych",
+        "D": "Na wszystkich ścianach oraz dachu"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 10 ust. 3",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "4fc9e83d-b7f3-4201-a091-88c17ceed189",
+      "question": "Gdzie dodatkowo, poza ścianami bocznymi i czołowymi, umieszcza się duże nalepki ostrzegawcze na kontenerze do przewozu luzem elastycznym?",
+      "answers": {
+        "A": "Na dachu kontenera",
+        "B": "Na obu przeciwległych stronach kontenera",
+        "C": "Na dnie kontenera",
+        "D": "Na drzwiach kontenera"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 10 ust. 3",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "9212948c-89bd-4a11-ab02-41cb406b5213",
+      "question": "Jakim wymaganiom powinny odpowiadać nalepki ostrzegawcze pod względem trwałości?",
+      "answers": {
+        "A": "Powinny być odporne na oddziaływanie warunków atmosferycznych bez znaczącej utraty swojej jakości i zapewnić trwałość oznakowania podczas całego przewozu",
+        "B": "Powinny być odporne wyłącznie na działanie wody i zapewniać widoczność przez minimum 24 godziny przewozu",
+        "C": "Powinny być odporne na działanie ognia i substancji chemicznych przez cały czas składowania towaru",
+        "D": "Powinny być odporne na promieniowanie UV i zapewniać czytelność przez co najmniej 6 miesięcy"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 10 ust. 4",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "32ef353c-5efd-4c58-97e3-241d8e9f488b",
+      "question": "Co może zastąpić nalepki ostrzegawcze na opakowaniach i wagonach?",
+      "answers": {
+        "A": "Trwale naniesione oznakowania odpowiadające dokładnie wzorom nalepek",
+        "B": "Dokumenty przewozowe z opisem towaru niebezpiecznego",
+        "C": "Tabliczki z numerem UN towaru niebezpiecznego",
+        "D": "Barwne pasy ostrzegawcze odpowiadające klasie zagrożenia"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 10 ust. 4",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "ebbf83a4-dfb4-4f8c-8973-9dc93d71f49e",
+      "question": "Jak powinny być umieszczane nalepki ostrzegawcze na wagonach?",
+      "answers": {
+        "A": "Tak, aby były dobrze widoczne podczas przewozu",
+        "B": "Tak, aby były widoczne tylko podczas postoju na stacji",
+        "C": "Tak, aby były zabezpieczone przed zniszczeniem w czasie manewrowania",
+        "D": "Tak, aby były widoczne wyłącznie z poziomu peronu"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 10 ust. 5",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "e6a4bf3f-0e91-47a1-87ab-f848502f879b",
+      "question": "Jaki jest minimalny bok rombu nalepki ostrzegawczej dla opakowań?",
+      "answers": {
+        "A": "150 mm",
+        "B": "250 mm",
+        "C": "100 mm",
+        "D": "200 mm"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 10 ust. 6 pkt 1",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "7bbcdc73-fc2b-41c1-aecc-a89ced557167",
+      "question": "Jaki jest minimalny bok rombu dużej nalepki ostrzegawczej dla wagonów i kontenerów?",
+      "answers": {
+        "A": "100 mm",
+        "B": "150 mm",
+        "C": "200 mm",
+        "D": "250 mm"
+      },
+      "correct": "D",
+      "explanation": "Ir-16 § 10 ust. 6 pkt 2",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "9d07094d-4e79-46d6-b2a3-2a14c626f758",
+      "question": "Do jakiego wymiaru mogą być zmniejszone nalepki ostrzegawcze przeznaczone na wagony, jeżeli powierzchnia do oznakowania jest zbyt mała?",
+      "answers": {
+        "A": "100 x 100 mm",
+        "B": "150 x 150 mm",
+        "C": "120 x 120 mm",
+        "D": "200 x 200 mm"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 10 ust. 6 pkt 2",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "fe67666e-c098-4508-8d14-c912a6878b9b",
+      "question": "Jakie opakowania zawierające ciekle towary niebezpieczne powinny być oznakowane strzałkami kierunkowymi?",
+      "answers": {
+        "A": "Opakowania kombinowane z opakowaniami wewnętrznymi zawierającymi materiały ciekle, opakowania pojedyncze z urządzeniami odpowietrzającymi, naczynia kriogeniczne oraz przyrządy zawierające towary niebezpieczne ciekle, jeżeli należy zapewnić prawidlowe położenie towaru",
+        "B": "Wyłącznie opakowania kombinowane z opakowaniami wewnętrznymi zawierającymi materiały ciekle oraz naczynia kriogeniczne otwarte",
+        "C": "Wyłącznie naczynia kriogeniczne zamknięte do przewozu gazów schłodzonych skroplonych",
+        "D": "Wszystkie opakowania z towarami niebezpiecznymi klas 2 i 3 bez względu na stan skupienia"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 10 ust. 9",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "21b04177-ac36-4f54-a772-ea4afcefc3bb",
+      "question": "Co oznacza znak manewrowania nr 15 umieszczony na wagonie?",
+      "answers": {
+        "A": "Ostrożnie przetaczac",
+        "B": "Zakaz odrzutu i staczania - rozrząd tylko metodą odstawczą, nie wolno najeżdżać, chronić przed najeżdżaniem innych wagonów",
+        "C": "Zakaz odrzutu i staczania - wagon musi być zepchnięty ręcznie",
+        "D": "Ostrożnie przetaczac - prędkość manewrów nie może przekraczać 10 km/h"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 10 ust. 15",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "74366819-ae24-484c-b9f6-1bf2b45aba1c",
+      "question": "Na jakich elementach umieszcza się nalepki ostrzegawcze (zwykłe, nie duże)?",
+      "answers": {
+        "A": "Na wagonach-cysternach i wagonach-bateriach",
+        "B": "Na opakowaniach, opakowaniach dużych, DPPL i kontenerach małych",
+        "C": "Na kontenerach-cysternach, cysternach przenośnych i MEGC",
+        "D": "Na obu ścianach bocznych i czołowych kontenerów wielkich"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 10 ust. 1",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "d45b2f2b-0ee2-4f48-b1c1-f8a539a7152b",
+      "question": "Na których powierzchniach wagonów-cystern umieszcza się duże nalepki ostrzegawcze?",
+      "answers": {
+        "A": "Na obu ścianach bocznych i obu ścianach czołowych",
+        "B": "Na obu ścianach czołowych",
+        "C": "Na obu ścianach bocznych",
+        "D": "Na wszystkich czterech ścianach oraz dachu"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 10 ust. 2",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "48ef3bf9-9abf-4459-b99c-7a860ed3c903",
+      "question": "Na których powierzchniach kontenerów-cystern umieszcza się duże nalepki ostrzegawcze?",
+      "answers": {
+        "A": "Na obu ścianach bocznych",
+        "B": "Na obu ścianach bocznych i obu ścianach czołowych",
+        "C": "Na obu ścianach czołowych",
+        "D": "Na obu przeciwległych ścianach bocznych i dachu"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 10 ust. 3",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "6d5726e6-6c70-42b2-a26f-9d02a33daf55",
+      "question": "Gdzie umieszcza się duże nalepki ostrzegawcze na kontenerze do przewozu luzem elastycznym?",
+      "answers": {
+        "A": "Na obu ścianach bocznych i obu ścianach czołowych",
+        "B": "Na obu ścianach bocznych",
+        "C": "Na obu przeciwległych stronach kontenera",
+        "D": "Na wszystkich czterech ścianach kontenera"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 10 ust. 3",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "2aac9022-739c-48e5-8056-a49684fcebfe",
+      "question": "Jakim wymaganiom muszą odpowiadać nalepki ostrzegawcze pod względem trwałości?",
+      "answers": {
+        "A": "Muszą być odporne na oddziaływanie warunków atmosferycznych bez znaczącej utraty swojej jakości i zapewnić trwałość oznakowania podczas całego przewozu",
+        "B": "Muszą być odporne wyłącznie na działanie wody i zapewnić trwałość oznakowania przez 24 godziny",
+        "C": "Muszą być odporne na oddziaływanie warunków atmosferycznych i zapewnić trwałość oznakowania przez co najmniej 7 dni",
+        "D": "Muszą być odporne na działanie temperatury w zakresie od -20°C do +60°C i wilgotności do 90%"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 10 ust. 4",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "9402868e-b2a5-45fe-8219-d878134fc362",
+      "question": "Czy zamiast nalepek ostrzegawczych można stosować inne oznakowania?",
+      "answers": {
+        "A": "Nie, nalepki muszą być zawsze stosowane w formie nalepek",
+        "B": "Tak, mogą być stosowane trwale naniesione oznakowania odpowiadające dokładnie wzorom nalepek",
+        "C": "Tak, ale tylko w przypadku wagonów-cystern i kontenerów-cystern",
+        "D": "Tak, mogą być stosowane oznakowania uproszczone zatwierdzone przez przewoźnika"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 10 ust. 4",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "7e7b1da8-a699-4abb-bad3-58c17a0628c9",
+      "question": "Jaki jest minimalny wymiar boku nalepki ostrzegawczej umieszczanej na opakowaniach?",
+      "answers": {
+        "A": "Minimum 150 mm",
+        "B": "Minimum 200 mm",
+        "C": "Minimum 100 mm",
+        "D": "Minimum 250 mm"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 10 ust. 6 pkt 1",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "de9ea88f-9d09-4f05-aa31-7ad79d18482b",
+      "question": "Jaki jest minimalny wymiar boku dużej nalepki ostrzegawczej przeznaczonej na wagony i kontenery?",
+      "answers": {
+        "A": "Minimum 100 mm",
+        "B": "Minimum 150 mm",
+        "C": "Minimum 200 mm",
+        "D": "Minimum 250 mm"
+      },
+      "correct": "D",
+      "explanation": "Ir-16 § 10 ust. 6 pkt 2",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "6d2f4f36-95a2-4225-8c8e-cca73ccd610a",
+      "question": "Do jakiego wymiaru mogą zostać zmniejszone duże nalepki ostrzegawcze przeznaczone na wagony, gdy powierzchnia do oznakowania jest zbyt mała?",
+      "answers": {
+        "A": "Do wymiaru boków 100 x 100 mm",
+        "B": "Do wymiaru boków 120 x 120 mm",
+        "C": "Do wymiaru boków 150 x 150 mm",
+        "D": "Do wymiaru boków 200 x 200 mm"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 10 ust. 6 pkt 2",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "370ecfce-84ec-401c-a5a9-571deabdf3b3",
+      "question": "Jakie opakowania muszą być oznakowane strzałkami kierunkowymi wskazującymi prawidłowy kierunek ustawienia przesyłki?",
+      "answers": {
+        "A": "Wszystkie opakowania zawierające towary niebezpieczne klasy 1 i klasy 7",
+        "B": "Opakowania kombinowane z opakowaniami wewnętrznymi zawierającymi materiały ciekłe, opakowania z urządzeniami odpowietrzającymi oraz naczynia kriogeniczne",
+        "C": "Wyłącznie wagony-cysterny i kontenery-cysterny przewożące materiały ciekłe",
+        "D": "Opakowania zawierające materiały trujące i zakaźne przewożone w opakowaniach kombinowanych"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 10 ust. 9",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "c7245952-6a35-4ee1-b009-c0d94fc5be17",
+      "question": "Co oznacza znak manewrowy Nr 15 umieszczony na wagonie?",
+      "answers": {
+        "A": "Ostrożnie przetaczać",
+        "B": "Zakaz odrzutu i staczania — rozrząd tylko metodą odstawczą, nie wolno najeżdżać, chronić przed najeżdżaniem innych wagonów",
+        "C": "Zakaz przetaczania — wagon musi stać nieruchomo na torze postojowym",
+        "D": "Wagon wymaga dołączenia pojazdu trakcyjnego i zakazu hamowania nagłego"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 10 ust. 15",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "239faf4a-cbe1-43fb-80f9-17128e46cd6c",
+      "question": "W jaki sposób mogą być oznakowane przesyłki z towarami niebezpiecznymi przewożone różnymi rodzajami transportu?",
+      "answers": {
+        "A": "Wyłącznie zgodnie z przepisami RID, niezależnie od rodzaju transportu",
+        "B": "Zgodnie z przepisami obowiązującymi w danym rodzaju/systemie transportu",
+        "C": "Zgodnie z jednolitymi przepisami ustalonymi przez nadawcę przesyłki",
+        "D": "Zgodnie z przepisami kraju, przez który transport się odbywa"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 10 ust. 7",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "fd76edef-ff69-4a13-a6d4-51aff16ae235",
+      "question": "Co uważa się za reakcję niebezpieczną przy pakowaniu towarów niebezpiecznych razem?",
+      "answers": {
+        "A": "Spalanie i/lub wydzielanie znacznej ilości ciepła",
+        "B": "Zmiana barwy opakowania pod wpływem temperatury",
+        "C": "Wydzielanie wilgoci i kondensacja pary wodnej",
+        "D": "Zmiana gęstości cieczy przy mieszaniu substancji"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 11 ust. 3 pkt 1",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "d0488962-5653-4713-9552-e280358b8c8c",
+      "question": "Które z wymienionych zjawisk jest uznawane za reakcję niebezpieczną przy wspólnym pakowaniu towarów niebezpiecznych?",
+      "answers": {
+        "A": "Niebezpieczny wzrost ciśnienia we wszystkich rodzajach opakowań",
+        "B": "Wydzielanie gazów palnych, duszących, utleniających i/lub trujących",
+        "C": "Absorpcja promieniowania elektromagnetycznego przez substancje",
+        "D": "Zmiana stanu skupienia substancji w wyniku obniżenia temperatury"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 11 ust. 3 pkt 2",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "44702f5d-c58e-464e-9949-01b571335ab7",
+      "question": "Gdzie zawarte są szczegółowe zasady załadunku sztuk przesyłek towarów niebezpiecznych oznaczonych różnymi nalepkami ostrzegawczymi do jednego wagonu lub kontenera?",
+      "answers": {
+        "A": "W dziale 4.1 RID/Zał. 2 do SMGS",
+        "B": "W dziale 7.5.1 RID/Zał. 2 do SMGS",
+        "C": "W dziale 7.5.2 RID/Zał. 2 do SMGS",
+        "D": "W dziale 7.5 RID/Zał. 2 do SMGS"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 11 ust. 4",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "e8f19442-1108-4dfb-8a4b-c292b4f2f49a",
+      "question": "Co przewoźnik towaru niebezpiecznego podaje w rubryce dotyczącej masy ładunku w wykazie pojazdów kolejowych w składzie pociągu podczas przewozu kontenerów cystern?",
+      "answers": {
+        "A": "Masę samego towaru niebezpiecznego załadowanego do kontenera cysterny",
+        "B": "Sumę masy kontenera cysterny oraz załadowanych do nich towarów niebezpiecznych",
+        "C": "Masę pustego kontenera cysterny bez ładunku",
+        "D": "Masę brutto całego wagonu wraz z kontenerem cysterną"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 12 ust. 1",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "b7996a82-ad68-42a1-a507-bfc501c6019e",
+      "question": "Co przewoźnik wpisuje w rubryce uwagi wykazu pojazdów kolejowych w składzie pociągu dla wagonu z towarem niebezpiecznym?",
+      "answers": {
+        "A": "Numer zagrożenia oraz numer UN towaru niebezpiecznego poprzedzony literami \"UN\"",
+        "B": "Numer seryjny wagonu oraz klase niebezpieczenstwa towaru",
+        "C": "Nazwe chemiczna towaru oraz mase netto ladunku",
+        "D": "Numer listu przewozowego i date zaladunku"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 12 ust. 1",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "51d861ca-8b02-45a4-afc8-2a8ef7181b74",
+      "question": "Jaki dodatkowy skrót należy wpisać w rubryce uwagi wykazu pojazdów kolejowych, jeśli przewożony towar niebezpieczny jest towarem wysokiego ryzyka?",
+      "answers": {
+        "A": "HR",
+        "B": "TWR",
+        "C": "RID",
+        "D": "HRG"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 12 ust. 1",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "7f1281cd-f14f-4f3e-bc73-6ab3bdb28189",
+      "question": "Jakie opcjonalne informacje przewoźnik może umieścić w nawiasie w rubryce uwagi po wymaganych zapisach dotyczących towaru niebezpiecznego?",
+      "answers": {
+        "A": "Nazwe nadawcy przesylki",
+        "B": "Numery nalepek ostrzegawczych",
+        "C": "Date zaladunku wagonu",
+        "D": "Numer umowy przewozowej"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 12 ust. 1",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "bfad062e-15d7-450b-9c72-355f1cb35890",
+      "question": "Jaki zapis stosuje się w rubryce uwagi wykazu pojazdów kolejowych dla kontenera ze sztukami przesyłek oznakowanego tylko dużymi nalepkami ostrzegawczymi, gdy nie stosuje się tablicy pomarańczowej?",
+      "answers": {
+        "A": "Litery \"LQ\" i numer UN towaru",
+        "B": "Litery \"UN\" i numer UN towaru",
+        "C": "Litery \"IMDG\" i numer UN towaru",
+        "D": "Litery \"TWR\" i numer UN towaru"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 12 ust. 2 pkt 1",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "f5535a12-47b3-4a06-ac40-46ffaab18d22",
+      "question": "Jaki zapis stosuje się w rubryce uwagi wykazu pojazdów kolejowych w składzie pociągu przy przewozie opakowań próżnych nieoczyszczonych, gdy nie jest znany numer UN pozostałości?",
+      "answers": {
+        "A": "Litery \"UN\" i numer klasy niebezpieczenstwa",
+        "B": "Litery \"LQ\" bez numeru UN",
+        "C": "Numer nalepki ostrzegawczej umieszczony w nawiasie",
+        "D": "Litery \"IMDG\" bez numeru UN"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 12 ust. 2 pkt 2",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "87f032bf-9d3f-4465-b8eb-ad3904dbfb68",
+      "question": "Jakie litery wpisuje się w rubryce uwagi wykazu pojazdów kolejowych dla przesyłki z towarami niebezpiecznymi zapakowanymi w ilościach ograniczonych zgodnie z RID?",
+      "answers": {
+        "A": "UN",
+        "B": "TWR",
+        "C": "IMDG",
+        "D": "LQ"
+      },
+      "correct": "D",
+      "explanation": "Ir-16 § 12 ust. 2 pkt 3",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "8be01293-e881-4e5a-a505-d77427b753bc",
+      "question": "Jakie litery wpisuje się w rubryce uwagi wykazu pojazdów kolejowych przy przewozie towaru niebezpiecznego niepodlegającego przepisom RID, przewożonego w kontenerze oznakowanym zgodnie z innymi przepisami?",
+      "answers": {
+        "A": "LQ",
+        "B": "IMDG",
+        "C": "TWR",
+        "D": "UN"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 12 ust. 2 pkt 4",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "f20ebe84-53cf-4364-a41b-61054264803e",
+      "question": "Co należy wpisać w rubryce masy ładunku wykazu pojazdów kolejowych w przypadku włączenia do składu pociągu wagonu próżnego nieoczyszczonego po towarze niebezpiecznym?",
+      "answers": {
+        "A": "Zero (0)",
+        "B": "Znak minus (-)",
+        "C": "Skrot \"PR\" (prozny)",
+        "D": "Mase pustego wagonu"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 12 ust. 3",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "90d79cb3-b390-4c01-aa84-c616f5a20c7f",
+      "question": "Komu przewoźnik towaru niebezpiecznego przekazuje wykaz pojazdów kolejowych w składzie pociągu przed zgłoszeniem gotowości pociągu do odjazdu?",
+      "answers": {
+        "A": "Maszyniscie pojazdu kolejowego z napędem oraz dyżurnemu ruchu PKP PLK S.A.",
+        "B": "Kierownikowi pociągu oraz dyżurnemu ruchu PKP PLK S.A.",
+        "C": "Maszyniscie pojazdu kolejowego z napędem oraz kierownikowi pociągu",
+        "D": "Dyżurnemu ruchu PKP PLK S.A. oraz nadzorcy techniczno-ruchowemu"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 12 ust. 4",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "8ecbc521-d87e-4b51-b9af-6ff3880e9598",
+      "question": "W jakich momentach przewoźnik na stacji przekazuje wykaz pojazdów kolejowych w składzie pociągu?",
+      "answers": {
+        "A": "Po odjeździe pociągu ze stacji poczatkowej",
+        "B": "Na stacji poczatkowej, stacji granicznej lub stacji zmiany zestawienia przed zgłoszeniem gotowosci pociągu do odjazdu",
+        "C": "Wylącznie na stacji poczatkowej przed zaladunkiem towaru niebezpiecznego",
+        "D": "Na stacji przeznaczenia po przybyciu pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 12 ust. 4",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "68c275d4-3916-4536-bc95-26a636765471",
+      "question": "Jakie są obowiązki przewoźnika wobec dyżurnego ruchu, jeśli pociąg z towarem niebezpiecznym jest uruchamiany na terenie innego zarządcy infrastruktury?",
+      "answers": {
+        "A": "Przewoznik przekazuje wykaz pojazdów kolejowych w składzie pociągu dyżurnemu ruchu najbliższego posterunku ruchu PKP PLK S.A. przed wjazdem na infrastrukturę PKP PLK S.A.",
+        "B": "Przewoznik przekazuje wykaz pojazdów kolejowych w składzie pociągu dyżurnemu ruchu stacji granicznej po wjezdzie na infrastrukturę PKP PLK S.A.",
+        "C": "Przewoznik informuje dyżurnego ruchu PKP PLK S.A. telefonicznie o rodzaju przewożonego towaru niebezpiecznego przed wjazdem na infrastrukturę PKP PLK S.A.",
+        "D": "Przewoznik przekazuje kopię listu przewozowego dyżurnemu ruchu PKP PLK S.A. na stacji poczatkowej trasy po wjezdzie na infrastrukturę PKP PLK S.A."
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 12 ust. 5",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "67913532-9a62-4d04-8f02-2c26829fb2f2",
+      "question": "W jakim przypadku na stacji przeznaczenia należy przeprowadzić czynności analogiczne jak na stacji początkowej w odniesieniu do wykazu pojazdów kolejowych?",
+      "answers": {
+        "A": "Gdy zmienia sie sklad pociągu, tj. dodawane lub odejmowane są wagony z towarem niebezpiecznym",
+        "B": "Gdy ten sam pociąg lub jego skład z towarem niebezpiecznym ma byc wyprawiony wg nowego rozkładu jazdy z innym numerem pociągu",
+        "C": "Gdy na stacji przeznaczenia dochodzi do zmiany przewoznika odpowiedzialnego za towar niebezpieczny",
+        "D": "Gdy masa przewożonego towaru niebezpiecznego przekracza dopuszczalny limit na danej trasie"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 12 ust. 6",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "48518f00-961b-4b75-9366-a2f1c015a9d3",
+      "question": "Jakim służbom zarządca infrastruktury może ujawniać informacje pozyskane z wykazu pojazdów kolejowych w składzie pociągu?",
+      "answers": {
+        "A": "Wszystkim służbom kolejowym na trasie przejazdu pociągu",
+        "B": "Wylącznie służbom transportu towaru niebezpiecznego wyznaczonym przez przewoznika",
+        "C": "Tylko tym służbom, które wymagają tego w celach zapewnienia bezpieczenstwa, ochrony lub udzielania wsparcia w sytuacjach awaryjnych",
+        "D": "Służbom celnym i granicznym na podstawie przepisów celnych"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 12 ust. 7",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "7bf8b46a-9ef1-4604-b7b6-8e27940134b4",
+      "question": "Kto ponosi pełną odpowiedzialność przed PKP PLK S.A. za wszelkie następstwa wynikające z przyjęcia do przewozu niewłaściwie nadanej przesyłki z towarem niebezpiecznym?",
+      "answers": {
+        "A": "Nadawca przesyłki",
+        "B": "Przewoźnik kolejowy",
+        "C": "Dyspozytor ruchu",
+        "D": "Maszynista pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 13 ust. 1",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "b6332640-6cd8-48ef-8c9a-6752e11e9d4e",
+      "question": "Czy przewoźnik powinien sprawdzić, czy towary niebezpieczne nadawane do przewozu są dopuszczone do przewozu?",
+      "answers": {
+        "A": "Nie, to obowiązek nadawcy przesyłki",
+        "B": "Tak, zgodnie z RID/Zał. 2 do SMGS",
+        "C": "Tak, ale tylko w przypadku towarów klasy 1",
+        "D": "Nie, wystarczy sprawdzenie dokumentacji przewozowej"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 13 ust. 2 pkt 1",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "4ce7a58e-81a6-41e6-8aa7-a0fbd84f3613",
+      "question": "Co przewoźnik powinien sprawdzić wzrokowo przy przyjęciu przesyłki z towarem niebezpiecznym?",
+      "answers": {
+        "A": "Stan zamknięcia zaworów oraz czy wagony i ładunek nie mają widocznych usterek, wycieków lub pęknięć, braków w wyposażeniu",
+        "B": "Czy na wagonach umieszczono właściwe duże nalepki ostrzegawcze i inne wymagane oznakowania",
+        "C": "Czy wymagana dokumentacja jest załączona do dokumentu przewozowego",
+        "D": "Czy maszynista posiada instrukcję pisemną wynikającą z RID/Zał. 2 do SMGS"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 13 ust. 2 pkt 3",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "6c81d219-d1df-443a-8518-7c155acb2f4c",
+      "question": "Czego dotyczy obowiązek przewoźnika związany z datą następnego badania przy przyjęciu przesyłki z towarem niebezpiecznym?",
+      "answers": {
+        "A": "Wagonów krytych i odkrytych przewożących towary niebezpieczne",
+        "B": "Wagonów cystern, wagonów baterii, wagonów z odejmowalnymi zbiornikami, cystern przenośnych, kontenerów-cystern i MEGC",
+        "C": "Wszystkich wagonów towarowych przyjętych do przewozu",
+        "D": "Wyłącznie cystern przenośnych i kontenerów-cystern"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 13 ust. 2 pkt 4",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "b4c8b44a-f8c9-47e6-8b50-ca2cf9941c50",
+      "question": "Co przewoźnik powinien upewnić się w zakresie oznakowania wagonów przy przyjęciu przesyłki z towarem niebezpiecznym?",
+      "answers": {
+        "A": "Że wagony posiadają tablice z numerem UN towaru niebezpiecznego",
+        "B": "Że na wagonach umieszczono właściwe duże nalepki ostrzegawcze i inne wymagane oznakowania",
+        "C": "Że wagony są oznakowane zgodnie z wewnętrznymi przepisami przewoźnika",
+        "D": "Że na wagonach widnieje numer rejestracyjny nadawcy przesyłki"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 13 ust. 2 pkt 6",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "b1b9e238-4fcf-463d-9d13-0309e64fac75",
+      "question": "Co przewoźnik powinien przekazać maszyniście przy przyjęciu przesyłki z towarem niebezpiecznym?",
+      "answers": {
+        "A": "Wykaz wszystkich stacji, na których pociąg będzie zatrzymywany",
+        "B": "Informacje o znajdowaniu sie w skladzie pociagu towarow niebezpiecznych, w tym TWR",
+        "C": "Dokumenty przewozowe dotyczące całego składu pociągu",
+        "D": "Instrukcję dotyczącą awaryjnego rozrządzania wagonami"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 13 ust. 2 pkt 9",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "32eb5a47-056c-4a32-95a1-9780ccdde05c",
+      "question": "Jakie działanie powinien podjąć przewoźnik, jeśli przy przyjęciu przesyłki zauważy niespełnienie któregokolwiek z wymagań określonych w obowiązkach kontrolnych?",
+      "answers": {
+        "A": "Przyjąć przesyłkę warunkowo i poinformować dyspozytura ruchu",
+        "B": "Nie podejmować się przewozu przesyłki do czasu usunięcia nieprawidłowości",
+        "C": "Sporządzić protokół zastrzeżeń i przekazać przesyłkę do kolejnego przewoźnika",
+        "D": "Zwrócić przesyłkę nadawcy bez możliwości ponownego nadania"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 13 ust. 3",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "03391e26-f5cf-4fa0-aa67-b5083acf5990",
+      "question": "Kto odpowiada za zestawienie pociągu przewożącego towary niebezpieczne?",
+      "answers": {
+        "A": "Zarządca infrastruktury",
+        "B": "Przewoźnik",
+        "C": "Nadawca przesyłki",
+        "D": "Dyspozytor ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 14 ust. 1",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "db7f36a6-03db-416b-a499-22a9ade54abe",
+      "question": "Jakimi pociągami przewozi się przesyłki towarów niebezpiecznych?",
+      "answers": {
+        "A": "Wyłącznie pociągami ekspresowymi",
+        "B": "Pociągami towarowymi i pasażerskimi",
+        "C": "Pociągami towarowymi, a wyjątek stanowią przesyłki ekspresowe dopuszczone na zasadach RID",
+        "D": "Dowolnymi pociągami, w zależności od rodzaju towaru"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 14 ust. 2",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "92694059-5c0a-49c5-9e09-9e207b191b30",
+      "question": "Gdzie określone są zasady rozmieszczenia wagonów z towarami niebezpiecznymi w składzie pociągu?",
+      "answers": {
+        "A": "W przepisach wewnętrznych przewoźnika wykonującego dany przewóz",
+        "B": "W zarządzeniu zarządcy infrastruktury",
+        "C": "W regulaminie stacji nadania",
+        "D": "W rozporządzeniu ministra transportu"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 14 ust. 3",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "d605b8dd-aa6e-42dd-ab4b-a040d9fee8ce",
+      "question": "Na jakiej podstawie odbywa się przewóz wojskowych towarów niebezpiecznych?",
+      "answers": {
+        "A": "Wyłącznie na zasadach określonych w RID",
+        "B": "Na podstawie odrębnych przepisów, z zastosowaniem zasad podanych w instrukcji Ir-16",
+        "C": "Na podstawie ogólnych przepisów o transporcie kolejowym",
+        "D": "Na podstawie umowy między przewoźnikiem a zamawiającym"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 14 ust. 4",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "a1a5e836-a260-4730-a168-febdcca86890",
+      "question": "Jakie pojazdy NIE mogą zapewniać odległości ochronnej przy przewozie materiałów wybuchowych?",
+      "answers": {
+        "A": "Wagony z towarami łatwopalnymi oraz wagony próżne",
+        "B": "Wagony z ludźmi oraz wagony z otwartym źródłem ognia",
+        "C": "Wagony cysterny oraz wagony załadowane kontenerami",
+        "D": "Wagony z towarami żrącymi oraz wagony z gazami skroplonymi"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 14 ust. 5",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "f7bfaad5-cb2c-4a9b-bcc7-6a577029ea10",
+      "question": "Jaki warunek musi spełniać pierwszy i ostatni pojazd kolejowy w pociągu z wagonami z towarem niebezpiecznym?",
+      "answers": {
+        "A": "Powinien mieć wyłączony hamulec zespolony",
+        "B": "Powinien być oznakowany dużymi nalepkami ostrzegawczymi",
+        "C": "Powinien mieć czynny hamulec zespolony",
+        "D": "Powinien posiadać zestawy kołowe bezobręczowe"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 14 ust. 6",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "5a3010a1-bc9f-4798-8bb2-8ffb1fcf24ca",
+      "question": "W jaki sposób powinny być sprzęgnięte wagony załadowane materiałami wybuchowymi z wagonami stanowiącymi odległości ochronne?",
+      "answers": {
+        "A": "W taki sposób, aby zderzaki były naciśnięte",
+        "B": "W taki sposób, aby między wagonami pozostawała minimalna szczelina",
+        "C": "Z zastosowaniem sprzęgów automatycznych",
+        "D": "W taki sposób, aby zderzaki były całkowicie zwolnione"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 14 ust. 7",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "21716d51-385c-4d79-8afc-9f5d898f5d32",
+      "question": "Kiedy hamulce wagonów z materiałami wybuchowymi nie muszą być wyłączone?",
+      "answers": {
+        "A": "Gdy wagony są wyposażone w łożyska toczne, mają blachy ochronne niemocowane do podłogi, mocny dach, szczelne ściany i podłogę oraz dobrze zamykające się drzwi i przewietrzniki",
+        "B": "Gdy wagony posiadają zestawy kołowe bezobręczowe i są oznakowane nalepkami klasy 1",
+        "C": "Gdy wagony są konwojowane i wagon konwojenta znajduje się przed ładunkiem niebezpiecznym",
+        "D": "Gdy wagony są sprzęgnięte z wagonami stanowiącymi odległości ochronne ze zderzakami naciśniętymi"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 14 ust. 8",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "164aaec1-eef7-454c-9e52-17588c4b438a",
+      "question": "Jakie zestawy kołowe powinny posiadać wagony-cysterny przeznaczone do przewozu gazów klasy 2?",
+      "answers": {
+        "A": "Zestawy kołowe obręczowe o zwiększonej odporności termicznej",
+        "B": "Zestawy kołowe bezobręczowe (monoblokowe)",
+        "C": "Zestawy kołowe z tarczowymi hamulcami niskociśnieniowymi",
+        "D": "Zestawy kołowe z automatycznym układem blokady"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 14 ust. 9",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "f1779dd2-bed7-4027-9e64-617fb352b7d8",
+      "question": "Gdzie powinien znajdować się wagon dla konwojenta przy przewozie wagonów z materiałami żrącymi lub trującymi?",
+      "answers": {
+        "A": "Za wagonami z ładunkiem niebezpiecznym (patrząc w kierunku jazdy)",
+        "B": "Przed wagonami z ładunkiem niebezpiecznym (patrząc w kierunku jazdy)",
+        "C": "Pośrodku składu, między wagonami z ładunkiem niebezpiecznym",
+        "D": "Na końcu pociągu, niezależnie od rozmieszczenia wagonów z ładunkiem"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 14 ust. 10",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "95bec2b5-d4dd-4533-8b43-dfe424460f2c",
+      "question": "Kto jest kierującym manewrami wagonów z towarem niebezpiecznym?",
+      "answers": {
+        "A": "Maszynista pojazdu trakcyjnego wykonującego manewry",
+        "B": "Dyżurny ruchu posterunku nastawczego",
+        "C": "Wyznaczony pracownik przewoźnika",
+        "D": "Pracownik odpowiedzialny za przesyłkę niebezpieczną"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 15 ust. 1",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "a8c96bdd-ad99-4dff-acb5-8c8457ce5f43",
+      "question": "Kogo kierownik manewrów powinien poinformować o wykonywaniu manewrów wagonami z towarami niebezpiecznymi podczas omawiania planu pracy manewrowej?",
+      "answers": {
+        "A": "Drużynę manewrową, maszynistę oraz pracownika posterunku nastawczego w okręgu, w którym wykonywane będą manewry",
+        "B": "Drużynę manewrową, maszynistę oraz dyżurnego ruchu stacji",
+        "C": "Maszynistę, pracownika posterunku nastawczego oraz nadawcę towaru niebezpiecznego",
+        "D": "Drużynę manewrową oraz pracownika dozorującego przesyłkę niebezpieczną"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 15 ust. 2",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "3255a9f5-1359-43d4-ac7d-9c1a10850885",
+      "question": "Co drużyna manewrowa powinna sprawdzić przed rozpoczęciem manewrowania wagonami z towarami niebezpiecznymi?",
+      "answers": {
+        "A": "Czy nalepki ostrzegawcze są czytelne i prawidłowo umieszczone",
+        "B": "Czy okna, pokrywy, zawory, spusty są szczelnie zamknięte",
+        "C": "Czy wagon posiada sprawny hamulec ręczny i zderzaki",
+        "D": "Czy dokumenty przewozowe są zgodne z zawartością wagonu"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 15 ust. 3 pkt 1",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "2d47946b-d346-4db5-82a8-6b91a06ab535",
+      "question": "Jaką odległość ochronną należy zachować między wagonem załadowanym materiałami klasy 1 (nalepki nr 1, 1.5 lub 1.6) a wagonami oznaczonymi nalepkami nr 2.1, 3, 4.1, 4.2, 4.3, 5.1 lub 5.2?",
+      "answers": {
+        "A": "Nie jest wymagana żadna odległość ochronna, wystarczy oznakowanie",
+        "B": "Odległość ochronną zapewnia co najmniej jeden wagon nieoznakowany nalepkami ostrzegawczymi",
+        "C": "Odległość ochronna nie jest określona liczbowo — stosuje się zasadę oddzielenia wagonów z klasy 1 od wagonów oznaczonych wskazanymi nalepkami",
+        "D": "Odległość ochronna wynosi minimum jeden wagon na każde 10 wagonów z materiałami niebezpiecznymi"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 15 ust. 4",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "52f8e94b-2877-45bc-9fe8-9704bb5786ff",
+      "question": "Które wagony nie mogą zapewniać odległości ochronnej między wagonami z materiałami klasy 1 a wagonami z innymi materiałami niebezpiecznymi?",
+      "answers": {
+        "A": "Wagony z materiałami łatwopalnymi oraz wagony uszkodzone",
+        "B": "Wagony z ludźmi oraz wagony z otwartym źródłem ognia",
+        "C": "Wagony próżne po towarach niebezpiecznych oraz wagony ze zwierzętami",
+        "D": "Wagony osobowe oraz wagony z materiałami utleniającymi"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 15 ust. 4",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "e3b30a6d-a152-4ebc-83d7-ddd42313cccb",
+      "question": "Co jest zabronione w wagonach z materiałami wybuchowymi i przedmiotami z materiałem wybuchowym oraz zapalnymi lub w ich pobliżu?",
+      "answers": {
+        "A": "Wchodzenie do wagonów bez nadzoru i użytkowanie urządzeń elektrycznych",
+        "B": "Palenie tytoniu, rozpalanie ognia oraz zbliżanie się z nieosłoniętym źródłem ognia",
+        "C": "Wykonywanie prac manewrowych bez pisemnego zezwolenia kierownika manewrów",
+        "D": "Staczanie i odrzut wagonów bez użycia płóz hamulcowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 15 ust. 5",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "b371b5df-2c92-4e38-ad90-6b81ceffcd3f",
+      "question": "Wykonywanie manewrów w sposób odstawczy jest wymagane dla wagonów oznaczonych nalepką ostrzegawczą nr 8 lub znakiem manewrowania nr 15. Czego dotyczy wyjątek od zakazu staczania i odrzutu tych wagonów?",
+      "answers": {
+        "A": "Wyjątek dotyczy wagonów załadowanych materiałami klasy 1 na bocznicach prywatnych",
+        "B": "Wyjątek dotyczy wagonów z materiałami nieorganicznymi klasy 8",
+        "C": "Wyjątek dotyczy próżnych oczyszczonych jednostek transportowych po towarze niebezpiecznym",
+        "D": "Wyjątek dotyczy wagonów z materiałami wybuchowymi klasy 1.5 i 1.6"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 15 ust. 7",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "b1b932d1-8eda-487c-9d4e-ad0e299c4827",
+      "question": "Wagony załadowane materiałami i przedmiotami wybuchowymi powinny być sprzęgnięte ze sobą oraz z wagonami stanowiącymi odległość ochronną. Jaki jest wymagany stan zderzaków przy tym sprzęgnięciu?",
+      "answers": {
+        "A": "Zderzaki muszą być odciążone i ustawione na pozycji transportowej",
+        "B": "Zderzaki mogą być w dowolnym położeniu, pod warunkiem sprawności hamulców",
+        "C": "Zderzaki muszą być naciśnięte",
+        "D": "Zderzaki muszą mieć minimalny luz 50 mm dla amortyzacji wstrząsów"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 15 ust. 9",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "15016cd9-d987-4c3b-b793-deef4972cce4",
+      "question": "Na kim spoczywa organizacja oraz pełna odpowiedzialność za powierzoną przesyłkę towarów niebezpiecznych podczas przewozu koleją?",
+      "answers": {
+        "A": "Na nadawcy przesyłki",
+        "B": "Na przewoźniku kolejowym",
+        "C": "Na osobie dozorującej przesyłkę",
+        "D": "Na zarządcy infrastruktury kolejowej"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 16 ust. 1",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "ff3075d7-8a1b-49bc-964a-0d8bbdf67c57",
+      "question": "Gdzie powinna przebywać osoba dozorująca przesyłkę towarów niebezpiecznych?",
+      "answers": {
+        "A": "Wyłącznie w lokomotywie razem z maszynistą",
+        "B": "Zawsze w wagonie wraz z przesyłką",
+        "C": "W oddzielnym wagonie lub, o ile warunki bezpieczeństwa na to zezwalają, w wagonie wraz z przesyłką",
+        "D": "W kabinie sterowniczej zarządcy infrastruktury"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 16 ust. 3",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "5ae570f7-387f-49cd-a8ab-aebda28cf24a",
+      "question": "Jakim rodzajem pociągów należy przewozić wagony z przesyłkami towarów niebezpiecznych, w tym z TWR?",
+      "answers": {
+        "A": "Pociągami pasażerskimi w godzinach nocnych",
+        "B": "Pociągami towarowymi w sposób gwarantujący jak najmniejszą liczbę postojów i prac manewrowych",
+        "C": "Pociągami towarowymi bez ograniczeń dotyczących liczby postojów",
+        "D": "Pociągami specjalnymi wyznaczonymi przez zarządcę infrastruktury"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 1",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "fe146f99-2336-4261-99c8-32659c3fa85d",
+      "question": "Kto jest zobowiązany do zachowania wzmożonej czujności podczas jazd manewrowych oraz przejazdu lub postoju pociągu z towarami niebezpiecznymi, w tym z TWR?",
+      "answers": {
+        "A": "Wyłącznie maszyniści prowadzący pociągi z towarami niebezpiecznymi",
+        "B": "Wyłącznie pracownicy SOK właściwi terytorialnie dla danej stacji",
+        "C": "Pracownicy posterunków technicznych i pracownicy przewoźnika w zakresie swoich obowiązków",
+        "D": "Dyspozytorzy liniowi ekspozytur PKP PLK S.A."
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 17 ust. 2",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "07ec3bef-ec6a-4782-b58f-e4a9ba4bd9ea",
+      "question": "Gdzie zawarte są procedury postępowania z przesyłkami TWR uwzględniające warunki miejscowe?",
+      "answers": {
+        "A": "W regulaminie technicznym posterunku ruchu",
+        "B": "W instrukcji Ir-1 dotyczącej zasad prowadzenia ruchu pociągów",
+        "C": "W planach awaryjnych sporządzonych przez SOK",
+        "D": "W Planach zapewnienia bezpieczenstwa sporządzonych zgodnie z postanowieniami dzialu 1.10 RID/Zal. 2 do SMGS"
+      },
+      "correct": "D",
+      "explanation": "Ir-16 § 17 ust. 4",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "8038773e-985f-43e6-a19a-9da7a1b4880e",
+      "question": "Na czym polega obserwacja wagonów z przesyłką towaru niebezpiecznego, w tym z TWR?",
+      "answers": {
+        "A": "Na ciągłym monitorowaniu temperatury i ciśnienia w wagonach za pomocą czujników",
+        "B": "Na wzrokowej ocenie rejonu stacji, w której znajduje sie przesylka, przez personel posterunku ruchu i pracowników przewoznika",
+        "C": "Na fizycznej kontroli zamknięcia drzwi i luków wszystkich wagonów z towarami niebezpiecznymi",
+        "D": "Na weryfikacji dokumentów przewozowych przez pracownika SOK przed każdym odjazdem pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 5",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "5886e73c-5de2-4c0d-b515-f48a5bc35b35",
+      "question": "Komu należy niezwłocznie zgłosić wszelkie zauważone nieprawidłowości podczas obserwacji wagonów z towarem niebezpiecznym?",
+      "answers": {
+        "A": "Dyspozytorowi liniowemu ekspozytury PKP PLK S.A.",
+        "B": "Właściwej terytorialnie jednostce SOK",
+        "C": "Dyspozytorowi ds. planowania produkcji",
+        "D": "Maszyniście prowadzącemu pociąg"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 5",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "68c91015-36fa-440e-9278-7b3aef3505ac",
+      "question": "Skąd należy wybrać tor dla wjazdu, wyjazdu, przejazdu i postoju pociągu z towarem niebezpiecznym, w tym z TWR?",
+      "answers": {
+        "A": "Z torów wyznaczonych przez dyspozytora liniowego w systemie SEPE2",
+        "B": "Z torów wskazanych przez dyspozytora ds. planowania produkcji",
+        "C": "Z torów wyznaczonych w regulaminie technicznym posterunku ruchu",
+        "D": "Z torów uzgodnionych z właściwą terytorialnie jednostką SOK"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 17 ust. 6",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "24ce59c4-f334-4218-b7a9-09025c889c3e",
+      "question": "Jaką zasadę należy stosować w celu zminimalizowania czasu postoju wagonów z TWR na stacjach?",
+      "answers": {
+        "A": "Włączania ich do pociągów najwcześniej odjeżdżających ze stacji w danej relacji",
+        "B": "Wyznaczania specjalnych torów postojowych dla wagonów z TWR na każdej stacji",
+        "C": "Przeprowadzania prac manewrowych z wagonami TWR wyłącznie w godzinach dziennych",
+        "D": "Przekazywania wagonów z TWR wyłącznie na stacjach węzłowych"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 17 ust. 7",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "8791405d-1632-4e27-bbac-0f34f1ccacbf",
+      "question": "Jakie informacje wprowadza wyznaczony pracownik przewoźnika do systemu SEPE2 w procesie planowania dyspozytorskiego przesyłki TWR?",
+      "answers": {
+        "A": "Numer wagonu, date zaladunku i nazwe nadawcy przesylki",
+        "B": "Liczbe wagonow dla poszczegolnych numerow UN i zagrozenia, relacje przesylki z TWR oraz nr planowania z wlasnej dokumentacji",
+        "C": "Mase ladunku, klase niebezpieczenstwa i wymagany czas dowozu do stacji przeznaczenia",
+        "D": "Numer pociagu, numer lokomotywy i dane maszynisty prowadzacego sklad"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 8 pkt 1 lit. a",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "9ce84ced-6433-472d-87a9-39134e15ff7f",
+      "question": "Co dyspozytor ds. planowania produkcji przekazuje do służby dyżurnej Komendy Regionalnej SOK po akceptacji planowania TWR?",
+      "answers": {
+        "A": "Pelna dokumentacje zwiazana z przesylka, w tym swiadectwo nadania i liste materialu niebezpiecznego",
+        "B": "Informacje o planowanym wlaczeniu do pociagu wagonow z przesylkami TWR, podajac numer pociagu i nr planowania",
+        "C": "Harmonogram przejazdu pociagu przez kolejne posterunki ruchu na trasie",
+        "D": "Dane o liczbie wagonow z TWR oraz ich numerach seryjnych i numerach UN"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 8 pkt 2 lit. b",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "65c1d6c9-1616-4ed0-be7a-c52a765c4b58",
+      "question": "Jak dyżurni ruchu na trasie przejazdu informują się nawzajem o pociągu z przesyłką TWR podczas zapowiadania pociągów?",
+      "answers": {
+        "A": "Przekazują specjalny kod alfanumeryczny przypisany do danej przesylki TWR",
+        "B": "Podają po numerze pociągu słowa: \"TWR\" i dokonują stosownych zapisów w rubryce \"uwagi\" dziennika ruchu",
+        "C": "Wysylaja komunikat elektroniczny przez system EDR z zaznaczona flaga TWR",
+        "D": "Podają po numerze pociągu słowa: \"z towarami niebezpiecznymi\" i dokonują stosownych zapisów w rubryce \"uwagi\" dziennika ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 8 pkt 8",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "0aa2aa25-203e-4f4b-9b06-a329dec810dc",
+      "question": "Jak długi postój pociągu z TWR na stacji pośredniej powinien być zgłaszany dyspozytorowi liniowemu i właściwej jednostce SOK?",
+      "answers": {
+        "A": "Postój powyżej 30 minut",
+        "B": "Postój powyżej 45 minut",
+        "C": "Postój powyżej 60 minut",
+        "D": "Postój powyżej 90 minut"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 17 ust. 9 pkt 2",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "28135c6a-ddcb-4116-88b6-f221d5725679",
+      "question": "Jak dyżurni ruchu informują o pociągu z towarami niebezpiecznymi niebędącymi TWR podczas zapowiadania pociągów?",
+      "answers": {
+        "A": "Podają po numerze pociągu słowa: \"TWR\" i dokonują stosownych zapisów w rubryce \"uwagi\" dziennika ruchu",
+        "B": "Podają po numerze pociągu słowa: \"z towarami niebezpiecznymi\" i dokonują stosownych zapisów w rubryce \"uwagi\" dziennika ruchu",
+        "C": "Wysylaja ostrzezenie przez system SEPE2 z oznaczeniem klasy niebezpieczenstwa ladunku",
+        "D": "Informuja sie wyłącznie za pośrednictwem systemu EDR bez dodatkowego zapisu w dzienniku ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 10 pkt 3",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "5d0e4600-707a-4298-9933-bb4935c57bd0",
+      "question": "Co należy zrobić z pociągiem do czasu wdrożenia prawidłowych procedur, gdy stwierdzono rozbieżność między oznakowaniem przesyłki a jej zgłoszeniem?",
+      "answers": {
+        "A": "Kontynuowac przejazd do najblizszej stacji wezlowej, gdzie mozna przeprowadzic kontrole",
+        "B": "Niezwlocznie odlaczac wagon z towarem niebezpiecznym i pozostawic go na miejscu stwierdzenia nieprawidlowosci",
+        "C": "Zatrzymac pociag na najblizszej stacji, ktora umozliwia taki postoj, na tor okreslony w regulaminie technicznym i wyznaczony przez dyspozytora liniowego",
+        "D": "Skierowac pociag na tor boczny i oczekiwac na przybycie przedstawiciela SOK"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 17 ust. 12 pkt 4",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "150570ee-1422-4343-8eb9-cb83c7480dbc",
+      "question": "Kogo powiadamia dyżurny ruchu stacji wyłączenia w przypadku awaryjnego wyłączenia wagonu z TWR?",
+      "answers": {
+        "A": "Wylacznie dyspozytora liniowego i SOK wlasciwa terytorialnie",
+        "B": "SOK, dyspozytora w IZ oraz dyspozytora liniowego",
+        "C": "Dyspozytora ds. planowania produkcji i przewoznika",
+        "D": "Dyspozytora liniowego, dyspozytora ds. planowania produkcji oraz przewoznika"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 14",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "0b9a34fc-62a1-4c2b-ba4a-f2cc26148eb8",
+      "question": "Jakimi pociągami należy przewozić wagony z przesyłkami towarów niebezpiecznych, w tym z TWR?",
+      "answers": {
+        "A": "Pociągami towarowymi w sposób gwarantujący jak najmniejszą liczbę postojów, prac manewrowych i najszybszy dowóz do stacji przeznaczenia",
+        "B": "Pociągami towarowymi z obowiązkowym postojem kontrolnym na każdej stacji węzłowej",
+        "C": "Pociągami pasażerskimi lub towarowymi, w zależności od pilności dostawy",
+        "D": "Pociągami towarowymi z zachowaniem minimalnej prędkości 40 km/h przez cały czas przewozu"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 17 ust. 1",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "62c67e44-64e3-4fa5-b939-f4679b5ebef2",
+      "question": "Kto jest zobowiązany do zachowania wzmożonej czujności podczas jazd manewrowych, przejazdu lub postoju pociągu z towarami niebezpiecznymi, w tym TWR?",
+      "answers": {
+        "A": "Wyłącznie maszyniści prowadzący pociąg i dyżurni ruchu",
+        "B": "Pracownicy posterunków technicznych i pracownicy przewoźnika w zakresie swoich obowiązków",
+        "C": "Pracownicy SOK i dyspozytorzy liniowi ekspozytury",
+        "D": "Wyłącznie pracownicy ochrony kolei i dyspozytorzy ds. planowania produkcji"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 2",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "85cc0ad1-ad26-41ee-b90a-57a7c081b36b",
+      "question": "W jakim celu pracownicy posterunków technicznych i pracownicy przewoźnika zobowiązani są do zachowania wzmożonej czujności przy pociągach z towarami niebezpiecznymi?",
+      "answers": {
+        "A": "W celu zapewnienia terminowości dostawy i minimalizacji opóźnień",
+        "B": "W celu zminimalizowania możliwości kradzieży lub niewłaściwego użycia towarów niebezpiecznych, w tym TWR",
+        "C": "W celu sprawdzenia prawidłowości oznakowania wagonów z towarami niebezpiecznymi",
+        "D": "W celu zapewnienia bezpiecznej obsługi technicznej wagonów podczas postoju"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 2",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "ee05b9e8-d132-4090-b54b-aba0be17e85b",
+      "question": "Na czym polega obserwacja wagonów z przesyłką towaru niebezpiecznego, w tym z TWR?",
+      "answers": {
+        "A": "Na technicznym sprawdzaniu zamknięć i oznakowań wagonów przez pracowników SOK",
+        "B": "Na wzrokowej ocenie rejonu stacji, w której znajduje się przesyłka przez personel posterunku ruchu i pracowników przewoźnika, ze zwróceniem uwagi czy nie występują niepokojące zjawiska",
+        "C": "Na ciągłym monitorowaniu parametrów ładunku za pomocą urządzeń elektronicznych w systemie SEPE2",
+        "D": "Na weryfikacji dokumentów przewozowych przez dyżurnego ruchu przed każdym odjazdem pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 5",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "fbf338a4-199c-499a-a060-58b65d709049",
+      "question": "Komu należy niezwłocznie zgłosić wszelkie zauważone nieprawidłowości podczas obserwacji wagonów z towarem niebezpiecznym?",
+      "answers": {
+        "A": "Dyspozytorowi liniowemu ekspozytury PKP PLK S.A.",
+        "B": "Dyspozytorowi ds. planowania produkcji właściwej ekspozytury",
+        "C": "Właściwej terenowo jednostce SOK",
+        "D": "Dyżurnemu ruchu najbliższej stacji węzłowej"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 17 ust. 5",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "5804ac31-a270-48e3-a654-4b55f50d8bc6",
+      "question": "Jak należy wybrać tor dla wjazdu, wyjazdu, przejazdu i postoju pociągu z towarem niebezpiecznym, w tym z TWR?",
+      "answers": {
+        "A": "Tor wyznacza dyspozytor liniowy w uzgodnieniu z dyżurnym ruchu dla każdego pociągu oddzielnie",
+        "B": "Tor wyznaczony w regulaminie technicznym posterunku ruchu",
+        "C": "Tor wyznacza dyżurny ruchu samodzielnie na podstawie aktualnej sytuacji ruchowej",
+        "D": "Tor wyznaczony w systemie SEPE2 przez dyspozytora ds. planowania produkcji"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 6",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "30dd820f-a129-4405-a796-8b09fbc3e202",
+      "question": "Jaką zasadę należy stosować w celu zminimalizowania czasu postoju wagonów z TWR na stacjach?",
+      "answers": {
+        "A": "Zasadę kierowania wagonów z TWR wyłącznie do pociągów bezpośrednich bez zmiany składu",
+        "B": "Zasadę włączania wagonów z TWR do pociągów najwcześniej odjeżdżających ze stacji w danej relacji",
+        "C": "Zasadę grupowania wszystkich wagonów z TWR w jednym wyznaczonym pociągu na dobę",
+        "D": "Zasadę priorytetowego rozrządzania wagonów z TWR w ciągu 30 minut od przybycia na stację"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 7",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "c8209a15-08ef-4789-9c12-34d6fa080e92",
+      "question": "Co jest zobowiązany zrobić wyznaczony pracownik przewoźnika w procesie planowania dyspozytorskiego przed włączeniem wagonów z TWR do pociągu?",
+      "answers": {
+        "A": "Telefonicznie powiadomić dyżurnego ruchu stacji włączenia i dokonać zapisu w dzienniku ruchu",
+        "B": "Wprowadzić do SEPE2 informacje o liczbie wagonów, numerach UN i zagrożenia, relacji przesyłki oraz nr planowania, a następnie telefonicznie powiadomić dyspozytora ds. planowania produkcji właściwej ekspozytury",
+        "C": "Przekazać pisemne zgłoszenie do Komendy Regionalnej SOK z numerem pociągu i planem przejazdu",
+        "D": "Dokonać wpisów w EDR i powiadomić dyspozytora liniowego o planowanym włączeniu wagonów z TWR"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 8 pkt 1",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "d5bf1f92-0951-46f8-aae7-5839864963a8",
+      "question": "Co robi dyspozytor ds. planowania produkcji po sprawdzeniu poprawności planowania w SEPE2 dotyczącego włączenia wagonów z TWR?",
+      "answers": {
+        "A": "Akceptuje planowanie nadając numer referencyjny i przekazuje informacje do służby dyżurnej Komendy Regionalnej SOK właściwej dla stacji włączenia TWR",
+        "B": "Przekazuje informacje wyłącznie do dyspozytora liniowego i dokonuje zapisu w dzienniku telefonicznym",
+        "C": "Wydaje dyspozycje maszyniście prowadzącemu pociąg i powiadamia stację przeznaczenia TWR",
+        "D": "Akceptuje planowanie i bezpośrednio informuje dyżurnego ruchu stacji odjazdu pociągu z TWR"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 17 ust. 8 pkt 2",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "9594788c-b591-43c0-9c2a-baffb8782ac1",
+      "question": "Jakie słowa podają sobie dyżurni ruchu przy zapowiadaniu pociągu z przesyłką TWR?",
+      "answers": {
+        "A": "\"towar niebezpieczny\" i numer wagonu z TWR",
+        "B": "\"TWR\" (podawane po numerze pociągu)",
+        "C": "\"z towarami niebezpiecznymi\" podawane przed numerem pociągu",
+        "D": "\"materialy wybuchowe\" lub inny kod zagrożenia zgodny z numerem UN"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 8 pkt 8",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "b07c6323-e529-421a-bbe3-80ee63f1813b",
+      "question": "Jakie słowa podają sobie dyżurni ruchu przy zapowiadaniu pociągu z towarem niebezpiecznym niebędącym TWR?",
+      "answers": {
+        "A": "\"z przesyłką niebezpieczną\" i numer UN ładunku",
+        "B": "\"TWR\" podawane po numerze pociągu, analogicznie do przesyłek TWR",
+        "C": "\"z towarami niebezpiecznymi\" (podawane po numerze pociągu)",
+        "D": "\"towar specjalny\" i stosowny kod klasyfikacji RID"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 17 ust. 10 pkt 3",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "d3c7216a-738f-48ec-b4c3-1a41d628bbeb",
+      "question": "Jak długi postój pociągu z TWR na stacji pośredniej powinien być zgłaszany dyspozytorowi liniowemu oraz właściwej jednostce SOK?",
+      "answers": {
+        "A": "Postój powyżej 30 minut",
+        "B": "Postój powyżej 45 minut",
+        "C": "Postój powyżej 60 minut",
+        "D": "Każdy postój nieplanowy, niezależnie od jego długości"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 17 ust. 9 pkt 2",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "acfaf646-5209-4f28-8a11-5e7710c0f894",
+      "question": "Co należy zrobić w przypadku awaryjnego wyłączenia wagonu z TWR ze składu pociągu?",
+      "answers": {
+        "A": "Powiadomic w sposob udokumentowany przewoznika, dokonac zapisow w dokumentacji oraz SEPE2 i EDR, a dyżurny ruchu stacji wylaczenia powiadamia SOK, dyspozytora w IZ oraz dyspozytora liniowego",
+        "B": "Powiadomić wyłącznie maszynistę pociągu i dokonać zapisu w dzienniku ruchu stacji",
+        "C": "Przekazać informację do Komendy Regionalnej SOK i oczekiwać na dalsze dyspozycje bez podejmowania innych działań",
+        "D": "Niezwłocznie przekazać wagon do stacji naprawczej i powiadomić przewoźnika telefonicznie bez dokumentowania zdarzenia"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 17 ust. 14",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "de25d59f-f0eb-425e-a28c-b09294f0e78a",
+      "question": "Jakimi pociągami należy przewozić wagony z przesyłkami towarów niebezpiecznych, w tym z TWR?",
+      "answers": {
+        "A": "Pociągami pasażerskimi w sposób gwarantujący najszybszy dowóz do stacji przeznaczenia",
+        "B": "Pociągami towarowymi w sposób gwarantujący jak najmniejszą liczbę postojów, prac manewrowych i najszybszy dowóz do stacji przeznaczenia",
+        "C": "Pociągami towarowymi bez ograniczeń dotyczących liczby postojów i prac manewrowych",
+        "D": "Wyłącznie pociągami ekspresowymi towarowymi kursującymi bez zatrzymań na stacjach pośrednich"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 1",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "f9c925ef-16d8-4b37-9a4f-b7afcee8cd05",
+      "question": "Kto jest zobowiązany do zachowania wzmożonej czujności podczas jazd manewrowych, przejazdu lub postoju pociągu z towarami niebezpiecznymi?",
+      "answers": {
+        "A": "Wyłącznie maszyniści prowadzący pociągi z towarami niebezpiecznymi",
+        "B": "Wyłącznie dyżurni ruchu na stacjach pośrednich",
+        "C": "Pracownicy posterunków technicznych i pracownicy przewoźnika w zakresie swoich obowiązków",
+        "D": "Wyłącznie pracownicy SOK odpowiedzialni za ochronę mienia"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 17 ust. 2",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "b2e496e9-9940-4e12-a6a2-8a458477668b",
+      "question": "Co jest celem zachowania wzmożonej czujności przez pracowników podczas przejazdu lub postoju pociągu z towarami niebezpiecznymi?",
+      "answers": {
+        "A": "Zapewnienie punktualności pociągu i minimalizacja opóźnień",
+        "B": "Zminimalizowanie możliwości kradzieży lub niewłaściwego użycia towarów niebezpiecznych",
+        "C": "Kontrola stanu technicznego wagonów z towarami niebezpiecznymi",
+        "D": "Weryfikacja dokumentów przewozowych dołączonych do przesyłki"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 2",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "57aa7a9b-036e-40c3-8d0b-d72f3e5464f0",
+      "question": "Na czym polega obserwacja wagonów z przesyłką towaru niebezpiecznego, w tym z TWR?",
+      "answers": {
+        "A": "Na fizycznym sprawdzeniu zamknięcia i oznakowania każdego wagonu przez pracownika SOK",
+        "B": "Na wzrokowej ocenie rejonu stacji, w której znajduje się przesyłka, przez personel posterunku ruchu i pracowników przewoźnika",
+        "C": "Na elektronicznym monitorowaniu pozycji wagonów w systemie SEPE2 przez dyspozytora liniowego",
+        "D": "Na weryfikacji dokumentów przewozowych przez dyżurnego ruchu przed każdym odjazdem pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 5",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "6961934c-25d2-439d-9d01-a051a4f02626",
+      "question": "Komu należy niezwłocznie zgłosić wszelkie zauważone nieprawidłowości podczas obserwacji wagonów z towarem niebezpiecznym?",
+      "answers": {
+        "A": "Dyspozytorowi liniowemu właściwej ekspozytury PKP PLK S.A.",
+        "B": "Właściwej terenowo jednostce SOK",
+        "C": "Dyżurnemu ruchu najbliższego posterunku ruchu",
+        "D": "Wyznaczonemu pracownikowi przewoźnika odpowiedzialnemu za przesyłkę"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 5",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "88499bc2-0d58-41ad-8753-ad7ae41cc1fd",
+      "question": "Gdzie należy wybrać tor dla wjazdu, wyjazdu, przejazdu i postoju pociągu z towarem niebezpiecznym, w tym z TWR?",
+      "answers": {
+        "A": "Tor wskazany przez dyspozytora liniowego w systemie SEPE2",
+        "B": "Tor wyznaczony w regulaminie technicznym posterunku ruchu",
+        "C": "Tor uzgodniony przez maszynistę z dyżurnym ruchu przed wjazdem na stację",
+        "D": "Tor wskazany przez właściwą terenowo jednostkę SOK"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 6",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "e395854c-17ee-4ec2-a2fa-765db67d1659",
+      "question": "Jaką zasadę należy stosować w celu zminimalizowania czasu postoju wagonów z TWR na stacji?",
+      "answers": {
+        "A": "Wagony z TWR należy kierować bezpośrednio na wyznaczony tor bezpieczeństwa bez oczekiwania na skład",
+        "B": "Wagony z TWR włącza się do pociągów najwcześniej odjeżdżających ze stacji w danej relacji",
+        "C": "Wagony z TWR należy włączać do pociągów posiadających priorytet w grafiku rozkładu jazdy",
+        "D": "Wagony z TWR należy przekazywać bezpośrednio między pociągami bez postoju na stacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 7",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "a5ca08cf-dcca-49b5-b890-cb3460afbb6b",
+      "question": "Jakie informacje wyznaczony pracownik przewoźnika wprowadza do systemu SEPE2 w procesie planowania dyspozytorskiego dla pociągu z TWR?",
+      "answers": {
+        "A": "Tylko numer pociągu i przewidywany czas odjazdu ze stacji włączenia",
+        "B": "Liczbę wagonów z TWR, relację przesyłki (stację włączenia i wyłączenia) dla poszczególnych numerów UN i zagrożenia oraz nr planowania z własnej dokumentacji",
+        "C": "Dane maszynisty prowadzącego pociąg, numer pociągu oraz wykaz towarów niebezpiecznych",
+        "D": "Numer pociągu, planowany czas przejazdu przez każdą stację pośrednią oraz kontakt do przewoźnika"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 8 pkt 1 lit. a",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "46692132-6530-4ebe-8c7a-5cdf8e25327b",
+      "question": "Jak dyżurni ruchu na trasie przejazdu informują się nawzajem o pociągu z przesyłką TWR w ramach zapowiadania pociągów?",
+      "answers": {
+        "A": "Przekazują specjalny kod alarmowy w systemie EDR i zaznaczają go w dzienniku ruchu",
+        "B": "Po numerze pociągu podają slowo \"TWR\" i dokonują stosownych zapisów w rubryce \"uwagi\" dziennika ruchu",
+        "C": "Wysyłają pisemne zawiadomienie do kolejnego posterunku ruchu przed odjazdem pociągu",
+        "D": "Po numerze pociągu podają slowa \"z towarami niebezpiecznymi\" i dokonują zapisów w dzienniku ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 8 pkt 8",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "baa6ff6d-015c-4373-bdff-74485b943ae3",
+      "question": "Kogo informują dyżurni ruchu o obecności wagonów z TWR w składzie pociągu, poza innymi dyżurnymi ruchu?",
+      "answers": {
+        "A": "Wyłącznie maszynistę prowadzącego pociąg i dyspozytora liniowego",
+        "B": "Pracowników podległych posterunków technicznych oraz dróżników przejazdowych",
+        "C": "Wyłącznie służbę dyżurną Komendy Regionalnej SOK i dyspozytora ds. planowania",
+        "D": "Kierownika pociągu i odpowiedzialnego pracownika przewoźnika na stacji docelowej"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 8 pkt 9",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "9b988017-247a-4ce5-bfe6-6bff3c2f152d",
+      "question": "Kiedy należy przeprowadzić ponowny proces planowania dyspozytorskiego dla pociągu z TWR?",
+      "answers": {
+        "A": "Po każdym nieplanowym postoju pociągu trwającym ponad 30 minut",
+        "B": "Na stacji, na której ma się odbyć przełączenie wagonu z TWR do innego pociągu lub zmiana numeru pociągu",
+        "C": "Po przekroczeniu granicy obszaru działania ekspozytury PKP PLK S.A.",
+        "D": "W przypadku awarii systemu SEPE2 uniemożliwiającej automatyczne monitorowanie przejazdu"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 8 pkt 11",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "d39b774a-d9aa-4c84-afa3-01c8c450870c",
+      "question": "Po jakim czasie nieplanowego postoju pociągu z TWR na stacji pośredniej dyżurny ruchu zobowiązany jest zgłosić ten fakt dyspozytorowi liniowemu i jednostce SOK?",
+      "answers": {
+        "A": "Po 30 minutach postoju",
+        "B": "Po 45 minutach postoju",
+        "C": "Po 60 minutach postoju",
+        "D": "Po 90 minutach postoju"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 17 ust. 9 pkt 2",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "01ff2aa9-bca0-48dd-a928-acf393f608a8",
+      "question": "Co należy zrobić z pociągiem, w przypadku stwierdzenia rozbieżności między oznakowaniem przesyłki wskazującym na towar niebezpieczny a jej zgłoszeniem, do czasu wdrożenia prawidłowych procedur?",
+      "answers": {
+        "A": "Pociąg kontynuuje jazdę z obnizoną predkością do najbliższej stacji przeznaczenia",
+        "B": "Pociąg należy zatrzymać na najbliższej stacji, która umożliwia taki postój, na torze określonym w regulaminie technicznym i wyznaczonym przez dyspozytora liniowego",
+        "C": "Pociąg zatrzymuje sie natychmiast w miejscu wykrycia rozbieznosci bez wzgledu na lokalizacje",
+        "D": "Pociąg kierowany jest na bocznicę wyznaczoną przez przewoźnika w porozumieniu z SOK"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 17 ust. 12 pkt 4",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "2e1636d4-73c7-400c-8a2c-edb48021555a",
+      "question": "Na jakich warunkach powinien być realizowany przewóz próżnych nieoczyszczonych jednostek transportowych po towarach niebezpiecznych?",
+      "answers": {
+        "A": "Na warunkach uproszczonych, bez konieczności oznakowania",
+        "B": "Na takich samych warunkach, jak w stanie ładownym",
+        "C": "Na warunkach określonych wyłącznie przez przewoźnika",
+        "D": "Na warunkach dla ładunków zwykłych, bez tablicy pomarańczowej"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 18 ust. 1",
+      "section_ref": "§ 18",
+      "section": 18
+    },
+    {
+      "uuid": "33cb9924-c830-4071-9276-8ed598b645de",
+      "question": "Jak powinny być oznakowane próżne nieoczyszczone jednostki transportowe po towarach niebezpiecznych podczas przewozu?",
+      "answers": {
+        "A": "Dużymi nalepkami ostrzegawczymi i znakami ostrzegawczymi tego samego wzoru, jak dla ostatnio przewożonego towaru",
+        "B": "Nalepkami informacyjnymi nowego wzoru wskazującymi na brak ładunku",
+        "C": "Dużymi nalepkami ostrzegawczymi nowego wzoru, niezależnie od rodzaju ostatnio przewożonego towaru",
+        "D": "Wyłącznie tablicą pomarańczową bez nalepek ostrzegawczych"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 18 ust. 1 pkt 2",
+      "section_ref": "§ 18",
+      "section": 18
+    },
+    {
+      "uuid": "1fd8be2a-87b2-4183-b344-b4f47e015b2a",
+      "question": "Co powinien zrobić przewoźnik przed przekazaniem do przewozu próżnych oczyszczonych jednostek transportowych po towarach niebezpiecznych?",
+      "answers": {
+        "A": "Upewnić się, że jednostki są szczelnie zamknięte i opatrzone aktualnym numerem UN",
+        "B": "Upewnić się, że zostały usunięte lub zasłonięte wszelkie oznakowania wskazujące na możliwość przewozu towarów niebezpiecznych",
+        "C": "Upewnić się, że jednostki posiadają ważny certyfikat oczyszczenia wystawiony przez uprawniony podmiot",
+        "D": "Upewnić się, że jednostki są oznakowane tablicą pomarańczową z numerem zagrożenia ostatnio przewożonego towaru"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 18 ust. 3",
+      "section_ref": "§ 18",
+      "section": 18
+    },
+    {
+      "uuid": "5a25b348-fae8-4b14-8291-f709fc714cfa",
+      "question": "Co oznacza komunikacja kombinowana kolejowo-drogowa w kontekście przewozu towarów niebezpiecznych?",
+      "answers": {
+        "A": "Przewóz towarów niebezpiecznych w kontenerach na wagonach kolejowych",
+        "B": "Przewóz pojazdów drogowych z towarami niebezpiecznymi na wagonach kolejowych",
+        "C": "Przewóz towarów niebezpiecznych przeładowywanych z wagonów na ciężarówki",
+        "D": "Przewóz towarów niebezpiecznych w specjalnych wagonach z napędem drogowym"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 19 ust. 1",
+      "section_ref": "§ 19",
+      "section": 19
+    },
+    {
+      "uuid": "75639054-5e10-4fe9-ae81-6013ee5a6350",
+      "question": "Jakim wymaganiom powinny odpowiadać pojazdy drogowe przeznaczone do przewozu w komunikacji kombinowanej kolejowo-drogowej oraz ich zawartość?",
+      "answers": {
+        "A": "Wymaganiom RID",
+        "B": "Wymaganiom ADR",
+        "C": "Wymaganiom IMDG",
+        "D": "Wymaganiom ICAO"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 19 ust. 3",
+      "section_ref": "§ 19",
+      "section": 19
+    },
+    {
+      "uuid": "ea4b1266-58a3-4b2b-b6c2-3f0d37721c09",
+      "question": "W jakim przypadku wagony użyte do przewozu w komunikacji kombinowanej kolejowo-drogowej powinny być oznakowane dużymi nalepkami ostrzegawczymi i tablicami pomarańczowymi?",
+      "answers": {
+        "A": "Zawsze, niezależnie od widoczności oznakowania pojazdu drogowego",
+        "B": "Tylko gdy przewożone są materiały klasy 1",
+        "C": "Gdy oznakowania założone na przewożonym pojeździe drogowym nie są widoczne z zewnątrz wagonu",
+        "D": "Gdy wagon przewozi więcej niż jeden pojazd drogowy jednocześnie"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 19 ust. 4",
+      "section_ref": "§ 19",
+      "section": 19
+    },
+    {
+      "uuid": "882caef1-0914-400e-9bb4-ee86a24e6314",
+      "question": "Na której ścianie przyczepy przewożącej sztuki przesyłek, odłączonej od jej jednostki ciągnącej, wymagane jest założenie tablicy pomarańczowej?",
+      "answers": {
+        "A": "Na ścianie tylnej",
+        "B": "Na obu ścianach bocznych",
+        "C": "Na ścianie przedniej",
+        "D": "Na ścianie górnej"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 19 ust. 4",
+      "section_ref": "§ 19",
+      "section": 19
+    },
+    {
+      "uuid": "e6e047f9-3dd3-4599-9185-26616b00f4df",
+      "question": "Przewóz naczep z którą klasą materiałów o numerze UN 1829 jest niedopuszczony w komunikacji kombinowanej kolejowo-drogowej?",
+      "answers": {
+        "A": "Klasa 1",
+        "B": "Klasa 4.1",
+        "C": "Klasa 5.2",
+        "D": "Klasa 8"
+      },
+      "correct": "D",
+      "explanation": "Ir-16 § 19 ust. 2 pkt 5",
+      "section_ref": "§ 19",
+      "section": 19
+    },
+    {
+      "uuid": "7e9bd666-465b-4782-bf41-3cd6f8052e84",
+      "question": "Co oznacza skrót ADR?",
+      "answers": {
+        "A": "Umowa dotycząca międzynarodowego przewozu drogowego towarów niebezpiecznych",
+        "B": "Regulamin międzynarodowego przewozu kolejami towarów niebezpiecznych",
+        "C": "Przepisy dla przewozu towarów niebezpiecznych będące załącznikiem do umowy SMGS",
+        "D": "Plan zapewnienia bezpieczeństwa przy przewozie koleją towarów niebezpiecznych wysokiego ryzyka"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 2 ust. 1",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "577a4b5c-2021-445b-b986-f018b156c7e3",
+      "question": "Co oznacza skrót RID?",
+      "answers": {
+        "A": "Umowa dotycząca międzynarodowego przewozu drogowego towarów niebezpiecznych",
+        "B": "Przepisy dla przewozu towarów niebezpiecznych będące Załącznikiem 2 do Umowy SMGS",
+        "C": "Regulamin międzynarodowego przewozu kolejami towarów niebezpiecznych",
+        "D": "Plan zapewnienia bezpieczeństwa przy przewozie koleją towarów niebezpiecznych wysokiego ryzyka"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 2 ust. 14",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "06b334e8-f6c0-4f8a-bbe7-a8b7bb4d2c65",
+      "question": "Jak definiuje się numer UN?",
+      "answers": {
+        "A": "Trzycyfrowy numer identyfikujący klasę towaru niebezpiecznego",
+        "B": "Numer określający rodzaj i nasilenie zagrożenia towaru niebezpiecznego",
+        "C": "Międzynarodowy czterocyfrowy numer towaru niebezpiecznego",
+        "D": "Numer licencji przewoźnika kolejowego uprawnionego do przewozu towarów niebezpiecznych"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 2 ust. 6",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "962692ef-ad5a-49dd-8d0f-318ab37d2f63",
+      "question": "Jak definiuje się numer zagrożenia?",
+      "answers": {
+        "A": "Międzynarodowy czterocyfrowy numer towaru niebezpiecznego",
+        "B": "Numer określający rodzaj i nasilenie zagrożenia towaru niebezpiecznego wskazany w RID",
+        "C": "Numer licencji nadawcy uprawniający do przewozu towarów niebezpiecznych wysokiego ryzyka",
+        "D": "Numer wyznaczony w regulaminie technicznym posterunku ruchu dla toru awaryjnego odstawiania"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 2 ust. 7",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "b87e6656-81c5-4c3c-b75b-0576cd8af275",
+      "question": "Jaką minimalną wartość musi mieć odległość ochronna mierzona pomiędzy tarczami zderzaków lub ścianami czołowymi sąsiednich jednostek transportowych?",
+      "answers": {
+        "A": "Nie mniej niż 10 m",
+        "B": "Nie mniej niż 15 m",
+        "C": "Nie mniej niż 18 m",
+        "D": "Nie mniej niż 25 m"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 2 ust. 8",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "95ab2028-d4f2-4b56-aa3a-3327b7bdf48d",
+      "question": "Jakie wagony mogą zajmować odległość ochronną zamiast wymaganego dystansu 18 m?",
+      "answers": {
+        "A": "Nie mniej niż jeden wagon dwuosiowy lub dwa wagony cztero- lub więcej osiowe",
+        "B": "Nie mniej niż dwa wagony dwuosiowe lub jeden wagon cztero- lub więcej osiowy",
+        "C": "Nie mniej niż trzy wagony dwuosiowe lub dwa wagony cztero- lub więcej osiowe",
+        "D": "Nie mniej niż dwa wagony cztero- lub więcej osiowe lub cztery wagony dwuosiowe"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 2 ust. 8",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "212bbb12-a309-4c05-99ee-0d7a5c87a718",
+      "question": "Jak definiuje się przewoźnika kolejowego?",
+      "answers": {
+        "A": "Podmiot odpowiedzialny za zarządzanie infrastrukturą kolejową",
+        "B": "Jednostka organizacyjna PKP PLK S.A. odpowiedzialna za ruch kolejowy",
+        "C": "Przedsiębiorca uprawniony na podstawie licencji do wykonywania przewozów kolejowych lub świadczenia usługi trakcyjnej",
+        "D": "Nadawca i odbiorca towarów niebezpiecznych biorący udział w przewozie koleją"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 2 ust. 10",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "fb24e981-ed74-4f55-8ab3-f216ff8b70d3",
+      "question": "Do czego służy tor do awaryjnego odstawiania?",
+      "answers": {
+        "A": "Tor wyznaczony do postoju pociągów z towarami wysokiego ryzyka w czasie odprawy celnej",
+        "B": "Tor wyznaczony do awaryjnego odstawiania uszkodzonych wagonów kolejowych przewożących towary niebezpieczne",
+        "C": "Tor wyznaczony do postoju pojazdów drogowych przewożących towary niebezpieczne podczas załadunku",
+        "D": "Tor wyznaczony do tymczasowego składowania kontenerów–cystern z towarami niebezpiecznymi"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 2 ust. 18",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "6e23059b-0111-4107-a6dc-b0d671ba3ee7",
+      "question": "Czym są towary niebezpieczne zgodnie z definicją?",
+      "answers": {
+        "A": "Materiały i przedmioty, których przewóz transportem kolejowym jest zabroniony lub dopuszczony na ściśle określonych warunkach zawartych w przepisach RID/Zał. 2 do SMGS",
+        "B": "Materiały i przedmioty, których przewóz transportem drogowym jest zabroniony lub dopuszczony na podstawie ADR",
+        "C": "Materiały i przedmioty wymagające specjalnego oznakowania zgodnie z planem zapewnienia bezpieczeństwa",
+        "D": "Materiały i przedmioty zakwalifikowane jako towary wysokiego ryzyka przez Urząd Transportu Kolejowego"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 2 ust. 19",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "30212b44-f570-447b-a965-1101ebe5a72f",
+      "question": "Co oznacza skrót TWR?",
+      "answers": {
+        "A": "Tor wyznaczony w regulaminie technicznym dla awaryjnego odstawiania wagonów",
+        "B": "Towary niebezpieczne wysokiego ryzyka",
+        "C": "Transport wagonów rzeką — przewóz kombinowany towarów niebezpiecznych",
+        "D": "Towarowy wagon ropociągowy dopuszczony do ruchu międzynarodowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 2 ust. 20",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "da33afb3-e90d-437d-bef6-c5f22bff335f",
+      "question": "Kto wchodzi w skład uczestników przewozu koleją towarów niebezpiecznych?",
+      "answers": {
+        "A": "Wyłącznie przewoźnik kolejowy i zarządca infrastruktury kolejowej",
+        "B": "Wyłącznie nadawca i odbiorca towarów niebezpiecznych",
+        "C": "Zarządca infrastruktury kolejowej, przewoźnik kolejowy, nadawca i odbiorca towarów niebezpiecznych oraz inne podmioty wymienione w dziale 1.4 RID/Zał. 2 do SMGS",
+        "D": "Zarządca infrastruktury kolejowej, przewoźnik kolejowy i doradca do spraw bezpieczeństwa"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 2 ust. 21",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "7bbe6de2-991a-418e-ac07-caefc7311716",
+      "question": "Jak definiuje się jednostkę transportową?",
+      "answers": {
+        "A": "Pociąg towarowy przewożący towary niebezpieczne na trasie międzynarodowej",
+        "B": "Pojazd drogowy, wagon, kontener, kontener-cysterna, cysterna przenośna lub wieloelementowy kontener do gazu (MEGC)",
+        "C": "Wyłącznie wagon lub kontener-cysterna przeznaczony do przewozu towarów niebezpiecznych",
+        "D": "Wagon lub pojazd drogowy posiadający numer UN i numer zagrożenia"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 2 ust. 5",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "590212a3-ad4e-4007-8b2c-f0d0139cf61a",
+      "question": "Czym jest wydarzenie kolejowe?",
+      "answers": {
+        "A": "Planowe przedsięwzięcie organizacyjne związane z przewozem towarów niebezpiecznych",
+        "B": "Każda niepożądana sytuacja zaistniała w systemie transportu kolejowego lub jego otoczeniu, zakłócająca realizację procesu przewozowego",
+        "C": "Wyłącznie zdarzenie powodujące opóźnienie pociągu przekraczające 30 minut",
+        "D": "Sytuacja wymagająca interwencji Straży Ochrony Kolei lub Urzędu Transportu Kolejowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 2 ust. 25",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "5340f339-8ccd-4a3f-8bb5-9a0748fb31b9",
+      "question": "Na stacji przeznaczenia dyżurny ruchu przyjmuje pociąg z towarem niebezpiecznym na tor określony w regulaminie technicznym i informuje o tym wyznaczonych pracowników oraz dyspozytora liniowego. Kogo dodatkowo informuje w przypadku pociągu z TWR?",
+      "answers": {
+        "A": "Właściwą jednostkę SOK",
+        "B": "Kierownika pociągu",
+        "C": "Właściwą jednostkę straży pożarnej",
+        "D": "Maszynistę kolejowego pociągu sąsiedniego"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 20 ust. 1",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "4f0a16dd-5842-4a02-82d4-6de4b8661099",
+      "question": "Na który tor nie wolno przyjmować pociągów towarowych przewożących towary niebezpieczne?",
+      "answers": {
+        "A": "Na tor częściowo zajęty lub który może być wykorzystany tylko na części jego długości albo jest zakończony kozłem oporowym",
+        "B": "Na tor przylegający do peronu pasażerskiego lub wykorzystywany przez pociągi pasażerskie",
+        "C": "Na tor przeznaczony wyłącznie do postoju wagonów próżnych lub wagonów do naprawy",
+        "D": "Na tor, na którym w ciągu ostatniej doby odbywały się prace torowe lub elektryczne"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 20 ust. 2",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "f6e50053-cad4-4c27-be31-3a4b39d89320",
+      "question": "Po przybyciu przesyłki z towarem niebezpiecznym na stację przeznaczenia przewoźnik sprawdza stan wagonów. Który z poniższych zakresów kontroli NIE jest wymagany?",
+      "answers": {
+        "A": "Sprawdzenie daty ważności zezwolenia na przewóz",
+        "B": "Sprawdzenie zamknięcia lub ewentualnego rozszczelnienia",
+        "C": "Sprawdzenie oplombowania",
+        "D": "Sprawdzenie oznakowania tablicami pomarańczowymi i nalepkami ostrzegawczymi"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 20 ust. 3",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "0aae8456-3e17-41f4-a471-2ac03cd42897",
+      "question": "Co powinien zrobić przewoźnik po przybyciu przesyłki z towarem niebezpiecznym na stację przeznaczenia?",
+      "answers": {
+        "A": "Dążyć do jak najszybszego przekazania przesyłki odbiorcy",
+        "B": "Niezwłocznie poinformować nadawcę o dotarciu przesyłki",
+        "C": "Przeprowadzić szczegółową kontrolę dokumentów przewozowych",
+        "D": "Powiadomić właściwy organ nadzoru kolejowego o dotarciu przesyłki"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 20 ust. 4",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "2ede7597-ecf6-4d37-967d-1ab7d296f6df",
+      "question": "Kto ma prawo dokonywania czynności sprawdzających dotyczących pociągów, pojazdów kolejowych oraz pracowników przewoźnika w zakresie przewozu towarów niebezpiecznych?",
+      "answers": {
+        "A": "Urząd Transportu Kolejowego przez swoich inspektorów",
+        "B": "PKP PLK S.A. przez swoich pracowników, w zakresie określonym w Regulaminie sieci",
+        "C": "Przewoźnik kolejowy przez swoich pracowników, w zakresie określonym w umowie przewozu",
+        "D": "Straż Ochrony Kolei przez swoich funkcjonariuszy, w zakresie określonym w przepisach RID"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 21 ust. 2",
+      "section_ref": "§ 21",
+      "section": 21
+    },
+    {
+      "uuid": "cb58f79b-0c5e-4f7e-8b25-a0b6f0efa7c3",
+      "question": "Co mają prawo sprawdzić upoważnione przez PKP PLK S.A. osoby w odniesieniu do taboru przewożącego towary niebezpieczne?",
+      "answers": {
+        "A": "Stan techniczny hamulców i urządzeń cięgłowo-zderznych",
+        "B": "Prawidłowość sporządzonego listu przewozowego i deklaracji nadawcy",
+        "C": "Stan oznakowania taboru przewożącego towary niebezpieczne",
+        "D": "Kompletność dokumentacji przewozowej i ubezpieczeniowej przewoźnika"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 21 ust. 3 pkt 1",
+      "section_ref": "§ 21",
+      "section": 21
+    },
+    {
+      "uuid": "b1732e8b-cef2-4381-bcf3-3657f3a3ce4e",
+      "question": "Co obejmuje sprawdzenie przez upoważnione osoby PKP PLK S.A. w zakresie stanu zbiornika przewożącego towary niebezpieczne?",
+      "answers": {
+        "A": "Wzrokową ocenę stanu szczelności i kompletności linek uziemiających zbiornika",
+        "B": "Pomiar ciśnienia wewnętrznego zbiornika i sprawdzenie zaworów bezpieczeństwa",
+        "C": "Wzrokową ocenę stanu powłoki lakierniczej i oznaczeń numerycznych zbiornika",
+        "D": "Sprawdzenie kompletności i ważności dokumentów rejestracyjnych zbiornika"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 21 ust. 3 pkt 3",
+      "section_ref": "§ 21",
+      "section": 21
+    },
+    {
+      "uuid": "6266e386-1d12-484c-a8d1-f3d981a92b8c",
+      "question": "Ile egzemplarzy notatki sporządza sprawdzający z przeprowadzonych czynności sprawdzających?",
+      "answers": {
+        "A": "Jeden egzemplarz, który zachowuje dla siebie",
+        "B": "Trzy egzemplarze, z których jeden przekazuje zainteresowanej jednostce organizacyjnej",
+        "C": "Dwa egzemplarze, z których jeden przekazuje zainteresowanej jednostce organizacyjnej",
+        "D": "Cztery egzemplarze, rozdzielane między wszystkich uczestników kontroli"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 21 ust. 4",
+      "section_ref": "§ 21",
+      "section": 21
+    },
+    {
+      "uuid": "ba6ed1be-c9ce-4694-b34e-1c79e13ea126",
+      "question": "Jakie warunki muszą być spełnione podczas przeprowadzania kontroli i sprawdzeń w zakresie przewozu towarów niebezpiecznych?",
+      "answers": {
+        "A": "Kontrole muszą być przeprowadzane wyłącznie w porze dziennej i w obecności przedstawiciela przewoźnika",
+        "B": "Kontrole powinny być przeprowadzone bez narażenia osób, majątku i środowiska, a także bez zakłócania ruchu kolejowego",
+        "C": "Kontrole powinny być przeprowadzone bez narażenia osób i mienia, a ich wyniki muszą być przekazane do UTK w ciągu 24 godzin",
+        "D": "Kontrole muszą być przeprowadzane na stacji nadania lub przeznaczenia, bez zakłócania rozkładu jazdy pociągów"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 21 ust. 5",
+      "section_ref": "§ 21",
+      "section": 21
+    },
+    {
+      "uuid": "28d425d1-03a5-4c1a-af4b-c77722274015",
+      "question": "Co sprawdzają upoważnione osoby PKP PLK S.A. w zakresie prawidłowości informacji o zestawieniu składu pociągu z towarami niebezpiecznymi?",
+      "answers": {
+        "A": "Zgodność dokumentacji z wymaganiami RID dotyczącymi przewozu na danej trasie",
+        "B": "Prawidłowość informacji przekazanej do PKP PLK S.A. o zestawieniu składu pociągu na stacji nadania, granicznej i przełączania ze stanem faktycznym, w tym z TWR, na podstawie wykazu pojazdów i ich oznakowania",
+        "C": "Prawidłowość informacji zawartych w liście przewozowym na stacji nadania i przeznaczenia ze stanem faktycznym przewożonych towarów niebezpiecznych",
+        "D": "Zgodność zestawienia składu pociągu przekazanego przez dyżurnego ruchu ze stanem faktycznym taboru na bocznicy załadunkowej"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 21 ust. 3 pkt 7",
+      "section_ref": "§ 21",
+      "section": 21
+    },
+    {
+      "uuid": "b8e1b37d-48e6-45e9-87fb-d09a7c07d5a3",
+      "question": "Kogo powiadamia pracownik uczestnika przewozu towaru niebezpiecznego po zauważeniu nieprawidłowości mogących świadczyć o próbach kradzieży?",
+      "answers": {
+        "A": "Dyżurnego ruchu najbliższego posterunku ruchu lub jednostkę SOK",
+        "B": "Kierownika pociągu lub maszynistę prowadzącego skład",
+        "C": "Najbliższy komisariat policji lub straż graniczną",
+        "D": "Centrum zarządzania kryzysowego przewoźnika towarowego"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 22 ust. 1",
+      "section_ref": "§ 22",
+      "section": 22
+    },
+    {
+      "uuid": "5230deb2-fedf-4cf2-9fa4-e8366e825551",
+      "question": "W jakim celu pracownik uczestnika przewozu towaru niebezpiecznego powiadamia dyżurnego ruchu lub SOK o zauważonych nieprawidłowościach?",
+      "answers": {
+        "A": "W celu sporządzenia protokołu zdarzenia i powiadomienia zarządcy",
+        "B": "W celu podjęcia skutecznej interwencji",
+        "C": "W celu wstrzymania ruchu pociągów na tym odcinku",
+        "D": "W celu ewakuacji personelu z zagrożonego obszaru"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 22 ust. 1",
+      "section_ref": "§ 22",
+      "section": 22
+    },
+    {
+      "uuid": "bc60e1cf-eeb9-4c45-8c8c-2bddf2a3b52d",
+      "question": "Kiedy może nastąpić przejazd pociągu z towarem niebezpiecznym lub TWR, gdy na torze sąsiednim prowadzone jest szlifowanie szyn?",
+      "answers": {
+        "A": "Po uzyskaniu zgody maszynisty pojazdu szlifującego",
+        "B": "Wyłącznie w porze nocnej, gdy natężenie ruchu jest mniejsze",
+        "C": "Po wstrzymaniu lub zakończeniu szlifowania szyn",
+        "D": "Po zmniejszeniu prędkości pojazdu szlifującego do minimum"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 22 ust. 2",
+      "section_ref": "§ 22",
+      "section": 22
+    },
+    {
+      "uuid": "f74f4b5d-2637-4590-8d16-8f0cbece9439",
+      "question": "Kto sporządza wewnętrzne plany awaryjne dla stacji rozrządowych uczestniczących w przewozie towarów niebezpiecznych?",
+      "answers": {
+        "A": "Dyżurny ruchu wyznaczonej nastawni dysponującej",
+        "B": "Zakłady linii kolejowych",
+        "C": "Naczelnik właściwej sekcji eksploatacji PKP PLK S.A.",
+        "D": "Doradca właściwego zakładu linii kolejowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 23 ust. 1",
+      "section_ref": "§ 23",
+      "section": 23
+    },
+    {
+      "uuid": "726fd4bf-0980-476b-a1ae-55dd6e1b065e",
+      "question": "Ile egzemplarzy planu awaryjnego dla stacji rozrządowej należy sporządzić?",
+      "answers": {
+        "A": "2",
+        "B": "4",
+        "C": "3",
+        "D": "5"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 23 ust. 3",
+      "section_ref": "§ 23",
+      "section": 23
+    },
+    {
+      "uuid": "6c064c08-ed75-495f-a095-c34beac77172",
+      "question": "Kto powinien posiadać egzemplarz wewnętrznego planu awaryjnego dla stacji rozrządowej?",
+      "answers": {
+        "A": "Dyżurny ruchu wyznaczonej nastawni dysponującej, naczelnik właściwej sekcji eksploatacji PKP PLK S.A. oraz doradca właściwego zakładu linii kolejowych",
+        "B": "Dyżurny ruchu wyznaczonej nastawni dysponującej, kierownik pociągu oraz doradca właściwego zakładu linii kolejowych",
+        "C": "Naczelnik właściwej sekcji eksploatacji PKP PLK S.A., maszynista oraz doradca właściwego zakładu linii kolejowych",
+        "D": "Dyżurny ruchu wyznaczonej nastawni dysponującej, naczelnik właściwej sekcji eksploatacji PKP PLK S.A. oraz kierownik pociągu"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 23 ust. 3",
+      "section_ref": "§ 23",
+      "section": 23
+    },
+    {
+      "uuid": "4d40ce0c-5f6d-4d91-abcb-075806010477",
+      "question": "Jak często należy co najmniej dokonywać aktualizacji oraz praktycznego sprawdzenia planu awaryjnego stacji rozrządowej?",
+      "answers": {
+        "A": "Co 2 lata",
+        "B": "Co 5 lat",
+        "C": "Co rok",
+        "D": "Co 3 lata"
+      },
+      "correct": "D",
+      "explanation": "Ir-16 § 23 ust. 4",
+      "section_ref": "§ 23",
+      "section": 23
+    },
+    {
+      "uuid": "e770aab5-9653-4a50-993d-595232347aed",
+      "question": "Zgodnie z jakimi wytycznymi należy sporządzać wewnętrzne plany awaryjne dla stacji rozrządowych?",
+      "answers": {
+        "A": "IRS 20201 (UIC 201)",
+        "B": "IRS 20101 (UIC 101)",
+        "C": "IRS 20301 (UIC 301)",
+        "D": "IRS 20401 (UIC 401)"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 23 ust. 2",
+      "section_ref": "§ 23",
+      "section": 23
+    },
+    {
+      "uuid": "582fa47f-e37b-41ae-b171-e3a013984ab8",
+      "question": "Co powinien zrobić pracownik kolejowy, który zauważył, że może dojść do wydarzenia stwarzającego zagrożenie dla bezpieczeństwa ruchu kolejowego?",
+      "answers": {
+        "A": "Niezwłocznie opuścić strefę zagrożenia i poczekać na służby ratownicze",
+        "B": "Zastosować wszelkie dostępne środki, aby zapobiec temu wydarzeniu lub ograniczyć jego skutki",
+        "C": "Powiadomić wyłącznie dyżurnego ruchu najbliższego posterunku ruchu",
+        "D": "Sporządzić pisemny raport i przekazać go przełożonemu"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 24 ust. 1",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "ab9d17c1-cb5f-403c-9a04-4ba707fa34b4",
+      "question": "Kogo powinien powiadomić pracownik kolejowy w razie zaistnienia wydarzenia z przesyłką zawierającą towar niebezpieczny?",
+      "answers": {
+        "A": "Dyżurnego ruchu najbliższego posterunku ruchu oraz właściwe służby ratownicze",
+        "B": "Wyłącznie właściwe służby ratownicze",
+        "C": "Dyżurnego ruchu macierzystej stacji",
+        "D": "Bezpośredniego przełożonego i dyspozytora"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 24 ust. 2 pkt 4",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "dd2779cd-c9a6-42cc-bbbd-994db17b2f2b",
+      "question": "Które z wymienionych działań NIE jest obowiązkiem pracownika kolejowego w razie zaistnienia wydarzenia z przesyłką zawierającą towar niebezpieczny?",
+      "answers": {
+        "A": "Zaalarmowanie osób znajdujących się w strefie zagrożenia",
+        "B": "Udzielenie niezbędnej pomocy osobom poszkodowanym",
+        "C": "Samodzielna neutralizacja substancji niebezpiecznej",
+        "D": "Zabezpieczenie miejsca wydarzenia"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 24 ust. 2",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "074148e1-0cb2-492d-bfaa-635100715b1b",
+      "question": "Co robi dyżurny ruchu po otrzymaniu informacji o wydarzeniu z przesyłką zawierającą towar niebezpieczny?",
+      "answers": {
+        "A": "Samodzielnie jedzie na miejsce zdarzenia w celu oceny sytuacji",
+        "B": "Alarmuje służby ratownicze, w razie konieczności wstrzymuje ruch i powiadamia zainteresowanych dyspozytorów, przełożonych i inne podmioty",
+        "C": "Wyłącznie wstrzymuje ruch w rejonie wydarzenia i czeka na dalsze instrukcje",
+        "D": "Powiadamia tylko przełożonych zgodnie z procedurami jednostki organizacyjnej"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 24 ust. 3",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "5363a2b5-8ad4-4823-bb2e-3194e7bb1b1c",
+      "question": "Co należy podać podczas alarmowania i powiadamiania o miejscu wydarzenia z towarem niebezpiecznym?",
+      "answers": {
+        "A": "Rejon stacji, kilometraż szlaku, numer toru, ilość wagonów i umiejscowienie w składzie pociągu",
+        "B": "Wyłącznie kilometraż szlaku i numer toru",
+        "C": "Nazwę stacji docelowej i dane nadawcy przesyłki",
+        "D": "Numer pociągu i godzinę planowanego przyjazdu"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 24 ust. 4 pkt 1",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "b25bc8d1-5fe9-4d29-b0b0-ca653e8e7deb",
+      "question": "Jakie objawy i rozmiary wydarzenia z towarem niebezpiecznym należy podać podczas alarmowania?",
+      "answers": {
+        "A": "Wyciek, ulatnianie się lub wysypywanie substancji chemicznych, pożar lub wybuch, wyciek kropelkowy lub strumieniowy",
+        "B": "Wyłącznie czy nastąpił pożar lub wybuch",
+        "C": "Datę i godzinę zaistnienia zdarzenia oraz szacunkowe straty materialne",
+        "D": "Rodzaj substancji chemicznej oraz jej masę w kilogramach"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 24 ust. 4 pkt 2",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "1a90ed56-8573-44d8-a039-3c1d96ac9bca",
+      "question": "Na podstawie czego podaje się numery UN i zagrożenia podczas powiadamiania o wydarzeniu z towarem niebezpiecznym?",
+      "answers": {
+        "A": "Na podstawie listy towarów niebezpiecznych przechhowywanej w dyspozytorni",
+        "B": "Na podstawie oznakowania wagonu lub wykazu pojazdów w składzie pociągu",
+        "C": "Na podstawie dokumentacji technicznej lokomotywy",
+        "D": "Na podstawie danych z systemu informatycznego zarządcy infrastruktury"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 24 ust. 4 pkt 3",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "dd228458-8d9c-4499-9415-8c7589739eb1",
+      "question": "W razie stwierdzenia zagrożenia dla życia lub zdrowia podczas jazdy pociągu, w jakim kierunku maszynista powinien oddalić się ze strefy zagrożenia?",
+      "answers": {
+        "A": "W kierunku najbliższego posterunku ruchu",
+        "B": "W kierunku zgodnym z wiatrem, aby uniknąć oparów",
+        "C": "W kierunku przeciwnym lub bocznym do rozprzestrzeniającej się strefy zagrożenia",
+        "D": "W kierunku wyznaczonym przez dyżurnego ruchu"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 24 ust. 5",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "245e06a7-4f24-4b07-8565-92e7d95e5ab2",
+      "question": "Kto prowadzi działania ratownicze na miejscu wydarzenia?",
+      "answers": {
+        "A": "Dyspozytor liniowy właściwy dla miejsca wydarzenia",
+        "B": "Jednostki ochrony przeciwpożarowej",
+        "C": "Kierownik jednostki organizacyjnej, na terenie której zaistniało wydarzenie",
+        "D": "Zespoły kolejowego ratownictwa technicznego"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 25 ust. 1",
+      "section_ref": "§ 25",
+      "section": 25
+    },
+    {
+      "uuid": "682d72c4-a8f1-47b0-9bc5-d8cdf4688e56",
+      "question": "Kto jest kierującym działaniami ratowniczymi do czasu przybycia osoby posiadającej uprawnienia do przejęcia kierowania?",
+      "answers": {
+        "A": "Kierownik jednostki organizacyjnej, na terenie której zaistniało wydarzenie",
+        "B": "Dyspozytor liniowy właściwy dla miejsca wydarzenia",
+        "C": "Pierwszy przybyły na miejsce wydarzenia dowódca jednostki ochrony przeciwpożarowej",
+        "D": "Osoba upoważniona przez kierownika właściwej jednostki organizacyjnej"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 25 ust. 3",
+      "section_ref": "§ 25",
+      "section": 25
+    },
+    {
+      "uuid": "a1b17421-facf-48f2-be76-a6491b671524",
+      "question": "Kto decyduje o miejscu i sposobie przeprowadzenia działań ratowniczych?",
+      "answers": {
+        "A": "Dyspozytor liniowy właściwy dla miejsca wydarzenia",
+        "B": "Kierownik jednostki organizacyjnej, na terenie której zaistniało wydarzenie",
+        "C": "Minister właściwy do spraw wewnętrznych",
+        "D": "Kierujący działaniami ratowniczymi"
+      },
+      "correct": "D",
+      "explanation": "Ir-16 § 25 ust. 3",
+      "section_ref": "§ 25",
+      "section": 25
+    },
+    {
+      "uuid": "3b2e5d27-a8f3-4596-b94b-e7d11fd33a51",
+      "question": "Co robi dyspozytor liniowy w przypadku zaistnienia wydarzenia podczas przewozu towaru niebezpiecznego?",
+      "answers": {
+        "A": "Niezwłocznie przekazuje służbom ratowniczym dokumenty przewozowe towaru niebezpiecznego",
+        "B": "Niezwłocznie pozyskuje kopie wykazu pojazdów kolejowych w składzie pociągu celem przekazania służbom ratowniczym",
+        "C": "Niezwłocznie informuje kierownika jednostki organizacyjnej o składzie pociągu",
+        "D": "Niezwłocznie nakazuje przestawienie wagonu z towarem niebezpiecznym na tor bezpieczny"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 25 ust. 5",
+      "section_ref": "§ 25",
+      "section": 25
+    },
+    {
+      "uuid": "6061251f-6a71-4d2c-84b3-edde415bd982",
+      "question": "Do czego zobowiązani są pracownicy zarządcy infrastruktury kolejowej oraz przewoźników przy prowadzeniu działań ratowniczych?",
+      "answers": {
+        "A": "Do samodzielnego usuwania skutków zdarzeń z towarami niebezpiecznymi",
+        "B": "Do udzielania wszelkich informacji i niezbędnej pomocy przy prowadzeniu działań ratowniczych i usuwaniu skutków zdarzeń z towarami niebezpiecznymi",
+        "C": "Do zapewnienia sprawnego dojazdu ekip ratowniczych na miejsce wydarzenia",
+        "D": "Do zabezpieczenia miejsca wydarzenia zgodnie z przepisami Ir-8"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 25 ust. 4",
+      "section_ref": "§ 25",
+      "section": 25
+    },
+    {
+      "uuid": "91ea09bf-10cd-460c-aa89-ef284fa3380d",
+      "question": "Co należy zrobić z wagonem, z którego wydostał się towar niebezpieczny?",
+      "answers": {
+        "A": "Odstawić go na bocznicę prywatną wskazaną przez dyspozytora liniowego",
+        "B": "Odstawić go na sąsiedni tor i unieruchomić do czasu przybycia służb ratowniczych",
+        "C": "W miarę możliwości przestawić na tor przeznaczony do odstawiania wagonów z towarami niebezpiecznymi lub na inny tor umożliwiający sprawne przeprowadzenie dalszej akcji ratowniczej",
+        "D": "Odstawić go na tor stacyjny wskazany przez kierownika stacji nadania"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 25 ust. 6",
+      "section_ref": "§ 25",
+      "section": 25
+    },
+    {
+      "uuid": "6814b19c-c666-4483-82d2-8a35f0a8721a",
+      "question": "Kto bierze udział w pracach komisji kolejowej badającej okoliczności i przyczyny wydarzeń z przesyłkami zawierającymi towary niebezpieczne?",
+      "answers": {
+        "A": "Doradcy ds. bezpieczeństwa przewozu kolejami towarów niebezpiecznych z właściwego terenowo zakładu linii kolejowych oraz przewoźnika, nadawcy lub właściciela wagonu",
+        "B": "Doradcy ds. bezpieczeństwa przewozu kolejami towarów niebezpiecznych wyznaczeni przez Urząd Transportu Kolejowego oraz przedstawiciele zarządcy infrastruktury",
+        "C": "Doradcy ds. bezpieczeństwa przewozu kolejami towarów niebezpiecznych z centrali PKP Polskie Linie Kolejowe S.A. oraz przedstawiciele nadawcy i odbiorcy przesyłki",
+        "D": "Doradcy ds. bezpieczeństwa przewozu kolejami towarów niebezpiecznych wyznaczeni przez przewoźnika oraz inspektorzy Państwowej Inspekcji Pracy"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 26 ust. 2",
+      "section_ref": "§ 26",
+      "section": 26
+    },
+    {
+      "uuid": "41e59b89-6e46-4e56-90c8-593f4b2cbfe2",
+      "question": "Kto sporządza raport o zdarzeniu zaistniałym podczas przewozu towarów niebezpiecznych?",
+      "answers": {
+        "A": "Kierownik pociągu właściwego terenowo zakładu linii kolejowych",
+        "B": "Doradca właściwego terenowo zakładu linii kolejowych",
+        "C": "Dyżurny ruchu właściwego terenowo zakładu linii kolejowych",
+        "D": "Naczelnik właściwego terenowo zakładu linii kolejowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 27 ust. 1",
+      "section_ref": "§ 27",
+      "section": 27
+    },
+    {
+      "uuid": "8ceab5ff-10d4-42c6-b45f-5a968d7259a5",
+      "question": "W jakim terminie należy sporządzić i przekazać Prezesowi Urzędu Transportu Kolejowego raport o zdarzeniu zaistniałym podczas przewozu towarów niebezpiecznych?",
+      "answers": {
+        "A": "W terminie 7 dni od dnia wystąpienia zdarzenia",
+        "B": "W terminie 30 dni od dnia wystąpienia zdarzenia",
+        "C": "W terminie 14 dni od dnia wystąpienia zdarzenia",
+        "D": "W terminie 21 dni od dnia wystąpienia zdarzenia"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 27 ust. 3",
+      "section_ref": "§ 27",
+      "section": 27
+    },
+    {
+      "uuid": "a49030c1-101a-4b80-8f6b-da29e35bebfc",
+      "question": "W jakim przypadku sporządzany jest raport o zdarzeniu zaistniałym podczas przewozu towarów niebezpiecznych?",
+      "answers": {
+        "A": "Gdy zdarzenie spowodowało uwolnienie towaru niebezpiecznego lub ryzyko nieuchronnej straty ładunku, uszkodzenia ciała, taboru lub środowiska albo nastąpiła interwencja władz",
+        "B": "Gdy zdarzenie spowodowało opóźnienie pociągu powyżej 60 minut lub konieczność podstawienia pojazdu zastępczego dla pasażerów",
+        "C": "Gdy zdarzenie spowodowało wykolejenie wagonu lub kolizję z przeszkodą na torze niezależnie od rodzaju przewożonego ładunku",
+        "D": "Gdy zdarzenie spowodowało awarię hamulców lub uszkodzenie mechanizmu zamknięcia drzwi wagonu z towarem niebezpiecznym"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 27 ust. 1",
+      "section_ref": "§ 27",
+      "section": 27
+    },
+    {
+      "uuid": "1f906483-2cc1-4e41-894e-73f8b6e9f33d",
+      "question": "Kto przeprowadza szkolenie pracowników PKP PLK S.A. w zakresie wymagań związanych z przewozem towarów niebezpiecznych?",
+      "answers": {
+        "A": "Naczelnik stacji",
+        "B": "Doradca ds. przewozu towarów niebezpiecznych",
+        "C": "Instruktor zatrudniony przez pracodawcę",
+        "D": "Właściwa komórka organizacyjna Centrali Spółki"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 28 ust. 1",
+      "section_ref": "§ 28",
+      "section": 28
+    },
+    {
+      "uuid": "13f5ffc6-735f-4a81-b282-a28eab0623a7",
+      "question": "Czego powinien zostać zapoznany uczestnik szkolenia z zakresu przewozu towarów niebezpiecznych w odniesieniu do przesyłek?",
+      "answers": {
+        "A": "Procedur załadunku i rozładunku przesyłek na stacjach rozrządowych",
+        "B": "Zasad sporządzania dokumentów przewozowych dla towarów niebezpiecznych",
+        "C": "Znakowania przesyłek z towarami niebezpiecznymi",
+        "D": "Wymogów dotyczących opakowań stosowanych przy towarach niebezpiecznych"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 28 ust. 2 pkt 3",
+      "section_ref": "§ 28",
+      "section": 28
+    },
+    {
+      "uuid": "bfb877d2-1d0d-46a7-9fc9-86888e9d9ebe",
+      "question": "Z czym powinien zostać zapoznany uczestnik szkolenia w zakresie przewozu towarów niebezpiecznych dotyczącym sytuacji nadzwyczajnych?",
+      "answers": {
+        "A": "Procedurami ewakuacji personelu stacji w razie wypadku",
+        "B": "Przezwyciężaniem sytuacji krytycznych",
+        "C": "Zasadami powiadamiania pogotowia ratunkowego i straży pożarnej",
+        "D": "Instrukcjami postępowania przy awarii taboru kolejowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 28 ust. 2 pkt 4",
+      "section_ref": "§ 28",
+      "section": 28
+    },
+    {
+      "uuid": "d0c3fa4b-c9d9-4024-85c7-975744407d18",
+      "question": "Kto opracowuje program szkolenia stanowiący podstawę do przeprowadzenia szkolenia w zakresie przewozu towarów niebezpiecznych?",
+      "answers": {
+        "A": "Doradca ds. przewozu towarów niebezpiecznych",
+        "B": "Naczelnik właściwej stacji rozrządowej",
+        "C": "Właściwa ds. przewozu koleją towarów niebezpiecznych komórka organizacyjna Centrali Spółki",
+        "D": "Władza właściwa ds. transportu kolejowego"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 28 ust. 2",
+      "section_ref": "§ 28",
+      "section": 28
+    },
+    {
+      "uuid": "78fe65a6-792b-45e3-813d-1d110f0d7b51",
+      "question": "Przez kogo i na czyje żądanie dokumentacja szkolenia w zakresie przewozu towarów niebezpiecznych powinna być przechowywana i udostępniana?",
+      "answers": {
+        "A": "Przez doradcę i udostępniana na żądanie naczelnika stacji lub władzy właściwej",
+        "B": "Przez pracodawcę i udostępniana na żądanie pracownika lub władzy właściwej",
+        "C": "Przez pracownika i udostępniana na żądanie pracodawcy lub inspektora pracy",
+        "D": "Przez komórkę organizacyjną Centrali i udostępniana na żądanie pracownika lub doradcy"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 28 ust. 2",
+      "section_ref": "§ 28",
+      "section": 28
+    },
+    {
+      "uuid": "27a2bb77-9c36-4446-ba4c-fff1feab173f",
+      "question": "Kto może przeprowadzać szkolenia okresowe (pouczenia okresowe) dla pracowników w zakresie przewozu towarów niebezpiecznych?",
+      "answers": {
+        "A": "Wyłącznie doradca ds. przewozu towarów niebezpiecznych",
+        "B": "Doradca lub osoba posiadająca wiedzę i wykształcenie niezbędne do zapewnienia prawidłowego przebiegu szkolenia",
+        "C": "Instruktor wyznaczony przez naczelnika stacji lub jego zastępcę",
+        "D": "Komórka organizacyjna Centrali Spółki lub upoważniony przez nią doradca"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 28 ust. 2",
+      "section_ref": "§ 28",
+      "section": 28
+    },
+    {
+      "uuid": "d974377c-e6f9-412d-a234-3457567464b5",
+      "question": "Którzy pracownicy pośrednio związani z przewozem towarów niebezpiecznych podlegają dodatkowemu przeszkoleniu w przypadku zmian w przepisach?",
+      "answers": {
+        "A": "Maszyniści, dyżurni ruchu i nastawniczowie",
+        "B": "Pracownicy obsługi peronów i stacji pasażerskich",
+        "C": "Kontrolerzy, instruktorzy, naczelnicy i ich zastępcy oraz zawiadowcy",
+        "D": "Kierownicy pociągów i rewidenci wagonów"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 28 ust. 3",
+      "section_ref": "§ 28",
+      "section": 28
+    },
+    {
+      "uuid": "39a75df5-7f59-42c9-81df-941c534726d8",
+      "question": "Kto może być doradcą do spraw bezpieczeństwa przewozu kolejami towarów niebezpiecznych?",
+      "answers": {
+        "A": "Osoba posiadająca aktualne uprawnienia wydane przez władzę właściwą",
+        "B": "Osoba posiadająca uprawnienia wydane przez kierownika jednostki organizacyjnej",
+        "C": "Osoba posiadająca aktualne uprawnienia wydane przez ministra właściwego ds. transportu",
+        "D": "Osoba posiadająca aktualne uprawnienia wydane przez Prezesa Urzędu Transportu Kolejowego"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 29 ust. 2",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "58b7b3bd-f0c2-4521-96ca-f1127439c22c",
+      "question": "Kto jest zobowiązany do zapewnienia środków i warunków niezbędnych do sprawnego wykonywania zadań przez doradcę?",
+      "answers": {
+        "A": "Prezes Urzędu Transportu Kolejowego",
+        "B": "Kierownik jednostki organizacyjnej, w której wyznaczono doradcę",
+        "C": "Komórka organizacyjna właściwa ds. przewozu towarów niebezpiecznych w Centrali PKP PLK S.A.",
+        "D": "Doradca do spraw bezpieczeństwa przewozu"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 29 ust. 3",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "f0e59964-7171-4b2b-87bb-381aba53c24d",
+      "question": "Kto sprawuje nadzór merytoryczny nad działalnością doradców zarządcy infrastruktury?",
+      "answers": {
+        "A": "Prezes Urzędu Transportu Kolejowego",
+        "B": "Kierownik jednostki organizacyjnej PKP PLK S.A.",
+        "C": "Komórka organizacyjna właściwa ds. przewozu towarów niebezpiecznych w Centrali PKP PLK S.A.",
+        "D": "Minister właściwy ds. transportu"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 29 ust. 5",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "660c0e18-18e9-4eeb-ad86-c162c1997e1b",
+      "question": "Do kiedy należy przesłać roczne sprawozdanie zbiorcze do Prezesa Urzędu Transportu Kolejowego?",
+      "answers": {
+        "A": "Do 31 stycznia każdego roku następującego po roku, którego dotyczy sprawozdanie",
+        "B": "Do 28 lutego każdego roku następującego po roku, którego dotyczy sprawozdanie",
+        "C": "Do 31 marca każdego roku następującego po roku, którego dotyczy sprawozdanie",
+        "D": "Do 30 czerwca każdego roku następującego po roku, którego dotyczy sprawozdanie"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 29 ust. 7",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "4bdd492c-fb97-4cbb-960c-fc067a070b14",
+      "question": "Przez jaki okres należy przechowywać egzemplarz rocznego sprawozdania zbiorczego z działalności w zakresie przewozu towarów niebezpiecznych?",
+      "answers": {
+        "A": "Przez okres 3 lat",
+        "B": "Przez okres 10 lat",
+        "C": "Przez okres 5 lat",
+        "D": "Przez okres 7 lat"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 29 ust. 7",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "43577f46-7c86-4d24-85b0-c99254375bea",
+      "question": "Na jakim druku sporządza się roczne sprawozdanie z działalności w zakresie przewozu towarów niebezpiecznych?",
+      "answers": {
+        "A": "Na druku według wzoru określonego przez Prezesa Urzędu Transportu Kolejowego",
+        "B": "Na druku według wzoru określonego przez kierownika jednostki organizacyjnej",
+        "C": "Na druku według wzoru określonego przez ministra właściwego ds. transportu",
+        "D": "Na druku według wzoru określonego przez komórkę organizacyjną Centrali PKP PLK S.A."
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 29 ust. 7",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "be030ad6-24df-4484-8948-1db9c64e2a62",
+      "question": "Kto sporządza roczne sprawozdanie, gdy jednostka organizacyjna wyznaczyła więcej niż jednego doradcę?",
+      "answers": {
+        "A": "Każdy doradca sporządza osobne sprawozdanie cząstkowe",
+        "B": "Doradca wskazany przez kierującego jednostką organizacyjną",
+        "C": "Doradca z najdłuższym stażem pracy",
+        "D": "Doradca wskazany przez komórkę organizacyjną Centrali Spółki"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 29 ust. 7",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "2efe028c-996a-40d6-a147-e51984603018",
+      "question": "Jakie jest główne zadanie doradcy do spraw bezpieczeństwa przewozu towarów niebezpiecznych?",
+      "answers": {
+        "A": "Wydawanie decyzji administracyjnych dotyczących przewozu towarów niebezpiecznych",
+        "B": "Prowadzenie szkoleń dla pracowników jednostek organizacyjnych PKP PLK S.A.",
+        "C": "Dążenie, poprzez zastosowanie wszystkich odpowiednich środków i działań, do prowadzenia działalności zgodnie z obowiązującymi przepisami, w możliwie najbezpieczniejszy sposób",
+        "D": "Zatwierdzanie dokumentacji technicznej środków transportu towarów niebezpiecznych"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 29 ust. 8",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "443b042c-abbb-4874-954a-0e22c4233ca3",
+      "question": "Do czego doradca jest uprawniony w zakresie dostępu do obiektów i urządzeń nadzorowanej jednostki organizacyjnej?",
+      "answers": {
+        "A": "Do wstępu na teren oraz dostępu do obiektów i urządzeń związanych z procesem przewozu, załadunku, pakowania, napełniania, rozładunku lub przeładunku",
+        "B": "Do wstępu wyłącznie na teren stacji kolejowych związanych z przewozem towarów niebezpiecznych",
+        "C": "Do dostępu wyłącznie do dokumentacji związanej z bezpieczeństwem przewozu towarów niebezpiecznych",
+        "D": "Do wstępu na teren jednostki organizacyjnej wyłącznie w obecności kierownika tej jednostki"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 29 ust. 4 pkt 1",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "0311bbf0-cb11-45f3-aa8c-8ac5cd80e76a",
+      "question": "Które z poniższych wchodzi w zakres zadań i obowiązków doradcy?",
+      "answers": {
+        "A": "Zatwierdzanie planów przewozu towarów niebezpiecznych opracowanych przez przewoźników",
+        "B": "Opracowanie, utrzymanie w stanie aktualnym i wprowadzanie planów zapewnienia bezpieczeństwa",
+        "C": "Wydawanie zezwoleń na przewóz towarów niebezpiecznych poszczególnymi trasami",
+        "D": "Certyfikowanie pracowników wykonujących czynności przy przewozie towarów niebezpiecznych"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 29 ust. 9 pkt 11",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "7434877b-ab73-4214-ba8a-e0dd0a67c59b",
+      "question": "Kto jest uprawniony do pełnienia funkcji doradcy do spraw bezpieczeństwa przewozu towarów niebezpiecznych koleją?",
+      "answers": {
+        "A": "Osoba posiadająca aktualne uprawnienia wydane przez władzę właściwą",
+        "B": "Osoba posiadająca co najmniej 5 lat stażu pracy w transporcie kolejowym",
+        "C": "Osoba wyznaczona przez kierownika jednostki organizacyjnej spośród pracowników z wyższym wykształceniem technicznym",
+        "D": "Osoba posiadająca uprawnienia wydane przez Prezesa Urzędu Transportu Kolejowego"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 29 ust. 2",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "9db38419-570c-4459-a73d-52615b596588",
+      "question": "Jakie są uprawnienia doradcy do spraw bezpieczeństwa przewozu towarów niebezpiecznych w zakresie dostępu do obiektów?",
+      "answers": {
+        "A": "Wstęp wyłącznie na teren załadunku i rozładunku towarów niebezpiecznych",
+        "B": "Wstęp na teren oraz dostęp do obiektów i urządzeń związanych z procesem przewozu, załadunku, pakowania, napełniania, rozładunku lub przeładunku w nadzorowanej jednostce",
+        "C": "Wstęp na teren jednostek organizacyjnych wyłącznie w czasie przeprowadzania planowych kontroli",
+        "D": "Dostęp do obiektów i urządzeń wyłącznie po uprzednim powiadomieniu kierownika jednostki organizacyjnej"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 29 ust. 4 pkt 1",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "6f3af424-4206-4740-a6bc-9154dac19596",
+      "question": "Kto sprawuje nadzór merytoryczny nad działalnością doradców zarządcy infrastruktury?",
+      "answers": {
+        "A": "Prezes Urzędu Transportu Kolejowego",
+        "B": "Kierownicy jednostek organizacyjnych, w których wyznaczono doradców",
+        "C": "Komórka organizacyjna właściwa ds. przewozu towarów niebezpiecznych w Centrali PKP PLK S.A.",
+        "D": "Minister właściwy ds. transportu"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 29 ust. 5",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "fd034a66-1a90-424f-b251-93d4bef31bbb",
+      "question": "Do kiedy należy przesłać do Prezesa Urzędu Transportu Kolejowego roczne sprawozdanie zbiorcze z działalności w zakresie przewozu towarów niebezpiecznych?",
+      "answers": {
+        "A": "Do 31 stycznia każdego roku następującego po roku, którego dotyczy sprawozdanie",
+        "B": "Do 28 lutego każdego roku następującego po roku, którego dotyczy sprawozdanie",
+        "C": "Do 31 marca każdego roku następującego po roku, którego dotyczy sprawozdanie",
+        "D": "Do 30 czerwca każdego roku następującego po roku, którego dotyczy sprawozdanie"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 29 ust. 7",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "7d089414-f04a-48d2-8f34-57abff306972",
+      "question": "Przez jaki okres należy przechowywać drugi egzemplarz rocznego sprawozdania zbiorczego z działalności w zakresie przewozu towarów niebezpiecznych?",
+      "answers": {
+        "A": "Przez okres 3 lat",
+        "B": "Przez okres 5 lat",
+        "C": "Przez okres 10 lat",
+        "D": "Przez okres 7 lat"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 29 ust. 7",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "fb221169-d8bc-4647-ab1c-9e5b5d61e461",
+      "question": "Kto sporządza roczne sprawozdanie, gdy uczestnik przewozu towarów niebezpiecznych wyznaczył więcej niż jednego doradcę?",
+      "answers": {
+        "A": "Każdy z doradców sporządza osobne sprawozdanie cząstkowe",
+        "B": "Doradca wskazany przez kierującego jednostką organizacyjną",
+        "C": "Doradca z najdłuższym stażem pracy w danej jednostce organizacyjnej",
+        "D": "Doradca wyznaczony przez Prezesa Urzędu Transportu Kolejowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 29 ust. 7",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "7bca9b43-7795-4c15-ab20-52c4fe284788",
+      "question": "Na jakim druku sporządza się roczne sprawozdanie z działalności w zakresie przewozu towarów niebezpiecznych?",
+      "answers": {
+        "A": "Na druku wg wzoru określonego przez Prezesa Urzędu Transportu Kolejowego",
+        "B": "Na druku wg wzoru określonego przez kierownika jednostki organizacyjnej",
+        "C": "Na druku wg wzoru określonego przez ministra właściwego ds. transportu",
+        "D": "Na druku wg wzoru określonego przez komórkę organizacyjną Centrali PKP PLK S.A."
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 29 ust. 7",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "3f7cfa9b-5480-4c56-92f4-7b880befbb17",
+      "question": "Co jest głównym zadaniem doradcy do spraw bezpieczeństwa przewozu towarów niebezpiecznych?",
+      "answers": {
+        "A": "Bezpośrednie nadzorowanie operacji załadunku i rozładunku towarów niebezpiecznych",
+        "B": "Prowadzenie szkoleń dla pracowników uczestniczących w przewozie towarów niebezpiecznych",
+        "C": "Dążenie, przy zachowaniu odpowiedzialności kierującego jednostką organizacyjną, do prowadzenia działalności zgodnie z przepisami w możliwie najbezpieczniejszy sposób",
+        "D": "Opracowywanie wewnętrznych regulaminów bezpieczeństwa dla jednostek organizacyjnych"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 29 ust. 8",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "198c25bd-66c2-41e2-abf5-300758061eee",
+      "question": "Jaką kontrolę prowadzi doradca w zakresie dokumentów i sprzętu awaryjnego środka transportu?",
+      "answers": {
+        "A": "Sprawdza, czy środek transportu posiada aktualne świadectwo dopuszczenia do przewozu towarów niebezpiecznych",
+        "B": "Wprowadza procedury kontrolne służące sprawdzeniu, czy środek transportu jest zaopatrzony w wymagane dokumenty i sprzęt awaryjny oraz czy odpowiadają one przepisom",
+        "C": "Kontroluje, czy środek transportu spełnia wymagania techniczne określone w przepisach o ruchu drogowym",
+        "D": "Przeprowadza inspekcje techniczne środków transportu używanych do przewozu towarów niebezpiecznych"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 29 ust. 9 pkt 9",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "853f33d8-598b-4621-afa5-49978adf90e7",
+      "question": "Jakie działania podejmuje doradca w przypadku poważnych wypadków lub awarii podczas przewozu towarów niebezpiecznych?",
+      "answers": {
+        "A": "Samodzielnie kieruje akcją ratowniczą i koordynuje działania służb ratunkowych",
+        "B": "Bierze udział w prowadzonych dochodzeniach oraz, o ile jest to wymagane, sporządza raporty na temat poważnych wypadków, awarii lub poważnych naruszeń przepisów",
+        "C": "Niezwłocznie powiadamia Prezesa Urzędu Transportu Kolejowego i sporządza protokół zdarzenia",
+        "D": "Zawiesza działalność jednostki organizacyjnej do czasu wyjaśnienia przyczyn wypadku lub awarii"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 29 ust. 9 pkt 6",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "ffbea207-7bfe-4201-b11e-7716cd3a5e49",
+      "question": "Która ustawa reguluje kwestie związane z przewozem towarów niebezpiecznych w procesie ich transportu koleją?",
+      "answers": {
+        "A": "Ustawa z dnia 15 listopada 1984 r. Prawo przewozowe",
+        "B": "Ustawa z dnia 21 grudnia 2000 r. o dozorze technicznym",
+        "C": "Ustawa z dnia 14 grudnia 2012 r. o odpadach",
+        "D": "Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 3 pkt 1",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "1c6e53ad-5cbd-4e3c-a327-13b381009513",
+      "question": "Który akt prawny w procesie przewozu towarów niebezpiecznych koleją dotyczy kwestii atomowych?",
+      "answers": {
+        "A": "Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+        "B": "Ustawa z dnia 28 marca 2003 r. o transporcie kolejowym",
+        "C": "Ustawa z dnia 29 listopada 2000 r. Prawo atomowe",
+        "D": "Ustawa z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 3 pkt 2",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "cd8ded1b-1298-47bb-9a47-b4c20212b0c0",
+      "question": "Który Regulamin miedzynarodowy, będący Załącznikiem C do Konwencji o międzynarodowym przewozie kolejami (COTIF), obowiązuje w procesie przewozu towarów niebezpiecznych?",
+      "answers": {
+        "A": "Regulamin SMGS — Przepisy o przewozie towarów niebezpiecznych, Załącznik 2",
+        "B": "Regulamin międzynarodowego przewozu kolejami towarów niebezpiecznych (RID)",
+        "C": "Rozporządzenie Ministra Infrastruktury z dnia 26 sierpnia 2022 r. w sprawie warunków technicznych dla torów awaryjnych",
+        "D": "Rozporządzenie Ministra Infrastruktury z dnia 18 lipca 2005 r. w sprawie ogólnych warunków prowadzenia ruchu kolejowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 3 pkt 12",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "88026b5d-497c-447d-9f7c-6aadcf6c91da",
+      "question": "Ktora instrukcja PKP PLK dotycząca prowadzenia ruchu pociągów obowiązuje w procesie przewozu towarów niebezpiecznych?",
+      "answers": {
+        "A": "Ir-8 Instrukcja o postępowaniu w sprawach poważnych wypadków, wypadków i incydentów",
+        "B": "Ir-9 Instrukcja o technice wykonywania manewrów",
+        "C": "Ir-13 Instrukcja dla dyspozytora zarządcy infrastruktury kolejowej",
+        "D": "Ir-1 Instrukcja o prowadzeniu ruchu pociągów"
+      },
+      "correct": "D",
+      "explanation": "Ir-16 § 3 pkt 14",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "b0148332-6ffc-4dba-ab13-a85cb49cb2f0",
+      "question": "Ktora instrukcja PKP PLK dotyczy postepowania w sprawach poważnych wypadków, wypadków i incydentów w transporcie kolejowym i obowiązuje przy przewozie towarów niebezpiecznych?",
+      "answers": {
+        "A": "Ir-3 Instrukcja o sporządzaniu regulaminów technicznych",
+        "B": "Ir-15 Instrukcja o kolejowym ratownictwie technicznym",
+        "C": "Ir-8 Instrukcja o postępowaniu w sprawach poważnych wypadków, wypadków i incydentów w transporcie kolejowym",
+        "D": "Ir-1 Instrukcja o prowadzeniu ruchu pociągów"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 3 pkt 15",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "d1c41206-72a1-4fed-bcfe-7883eefbdbfc",
+      "question": "Ktora instrukcja PKP PLK dotyczy kolejowego ratownictwa technicznego i obowiązuje w procesie przewozu towarów niebezpiecznych?",
+      "answers": {
+        "A": "Ir-9 Instrukcja o technice wykonywania manewrów",
+        "B": "Ir-13 Instrukcja dla dyspozytora zarządcy infrastruktury kolejowej",
+        "C": "Ir-3 Instrukcja o sporządzaniu regulaminów technicznych",
+        "D": "Ir-15 Instrukcja o kolejowym ratownictwie technicznym"
+      },
+      "correct": "D",
+      "explanation": "Ir-16 § 3 pkt 18",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "33937d42-b325-45c0-b39e-07bf130bd682",
+      "question": "Ktore rozporzadzenie określa warunki techniczne dla torów do awaryjnego odstawiania uszkodzonych wagonów kolejowych przewożących towary niebezpieczne?",
+      "answers": {
+        "A": "Rozporządzenie Ministra Infrastruktury z dnia 18 lipca 2005 r. w sprawie ogólnych warunków prowadzenia ruchu kolejowego i sygnalizacji",
+        "B": "Rozporządzenie Ministra Transportu z dnia 2 listopada 2006 r. w sprawie dokumentów w pojeździe kolejowym",
+        "C": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 16 marca 2016 r. w sprawie poważnych wypadków, wypadków i incydentów w transporcie kolejowym",
+        "D": "Rozporządzenie Ministra Infrastruktury z dnia 26 sierpnia 2022 r. w sprawie warunków technicznych dla torów do awaryjnego odstawiania uszkodzonych wagonów kolejowych przewożących towary niebezpieczne"
+      },
+      "correct": "D",
+      "explanation": "Ir-16 § 3 pkt 11",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "b6e6f7fc-1d7b-494f-a78c-830c9ba3eeee",
+      "question": "Ktore przepisy miedzynarodowe dotyczące przewozu towarów niebezpiecznych stanowią Załącznik 2 do Umowy o międzynarodowej kolejowej komunikacji towarowej (SMGS)?",
+      "answers": {
+        "A": "Regulamin międzynarodowego przewozu kolejami towarów niebezpiecznych (RID)",
+        "B": "Przepisy o przewozie towarów niebezpiecznych — Załącznik 2 do SMGS",
+        "C": "Ustawa z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych",
+        "D": "Rozporządzenie Ministra Infrastruktury z dnia 18 lipca 2005 r. w sprawie ogólnych warunków prowadzenia ruchu kolejowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 3 pkt 13",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "fb253371-f69e-4d79-a40c-f3e79b06ac44",
+      "question": "Która instytucja jest władzą właściwą w sprawach kontroli bezpieczeństwa przewozu koleją towarów niebezpiecznych?",
+      "answers": {
+        "A": "Minister właściwy ds. transportu",
+        "B": "Prezes Urzędu Transportu Kolejowego",
+        "C": "Dyrektor Transportowego Dozoru Technicznego",
+        "D": "Prezes Państwowej Agencji Atomistyki"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 4 ust. 2",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "14b84170-27a2-4c84-89d6-c555593f756b",
+      "question": "Która instytucja jest władzą właściwą w zakresie warunków przewozu materiałów promieniotwórczych (klasa 7)?",
+      "answers": {
+        "A": "Minister właściwy do spraw gospodarki",
+        "B": "Prezes Urzędu Transportu Kolejowego",
+        "C": "Prezes Państwowej Agencji Atomistyki",
+        "D": "Minister właściwy ds. zdrowia"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 4 ust. 4",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "4d796998-268d-4a4d-a229-4b70445a4118",
+      "question": "Która instytucja sprawuje nadzór nad przewozem towarów niebezpiecznych?",
+      "answers": {
+        "A": "Prezes Urzędu Transportu Kolejowego",
+        "B": "Dyrektor Transportowego Dozoru Technicznego",
+        "C": "Prezes Państwowej Agencji Atomistyki",
+        "D": "Minister właściwy ds. transportu"
+      },
+      "correct": "D",
+      "explanation": "Ir-16 § 4 ust. 6",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "b1f901d6-2bd9-48e8-a4ab-aaddf834119a",
+      "question": "Która instytucja jest władzą właściwą w zakresie badania i dopuszczenia do przewozu zbiorników wagonów cystern oraz w sprawach swiadectw doradcy ds. bezpieczenstwa przewozu towarow niebezpiecznych?",
+      "answers": {
+        "A": "Prezes Urzędu Transportu Kolejowego",
+        "B": "Minister właściwy do spraw gospodarki",
+        "C": "Dyrektor Transportowego Dozoru Technicznego",
+        "D": "Minister właściwy ds. transportu"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 4 ust. 5",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "f808f316-e136-4c51-9795-9da4b16c2465",
+      "question": "Która instytucja jest władzą właściwą w sprawach warunków przewozu materiałów zakaźnych?",
+      "answers": {
+        "A": "Prezes Państwowej Agencji Atomistyki",
+        "B": "Minister właściwy ds. zdrowia",
+        "C": "Dyrektor Transportowego Dozoru Technicznego",
+        "D": "Prezes Urzędu Transportu Kolejowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 4 ust. 7",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "3972bb1a-5192-4f2f-81a9-024a9b782736",
+      "question": "Co stanowią towary niebezpieczne?",
+      "answers": {
+        "A": "Materiały i przedmioty stwarzające potencjalne zagrożenie bezpieczeństwa ze względu na właściwości fizyczne, chemiczne lub biologiczne",
+        "B": "Wyłącznie materiały chemiczne, które mogą powodować zatrucie osób podczas przewozu",
+        "C": "Przedmioty o dużej masie lub objętości, które utrudniają transport kolejowy",
+        "D": "Materiały wybuchowe i radioaktywne wymagające specjalnych zezwoleń na przewóz"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 5 ust. 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "7764e838-0f93-4afa-8e7c-d941554930ca",
+      "question": "Jakie skutki mogą powodować towary niebezpieczne w przypadku niewłaściwego obchodzenia się z nimi podczas przewozu?",
+      "answers": {
+        "A": "Wyłącznie zniszczenie dóbr materialnych i uszkodzenie taboru kolejowego",
+        "B": "Śmierć, zagrożenie zdrowia, zniszczenie środowiska naturalnego lub dóbr materialnych",
+        "C": "Zagrożenie zdrowia ludzi i zwierząt oraz zanieczyszczenie wód gruntowych",
+        "D": "Opóźnienia w ruchu kolejowym i straty finansowe przewoźnika"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 5 ust. 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "b5275a61-876c-4a2a-82dd-3d0d7af43763",
+      "question": "Na czym polega klasyfikacja towarów niebezpiecznych?",
+      "answers": {
+        "A": "Na przydzieleniu towaru do odpowiedniego środka transportu i określeniu warunków przewozu",
+        "B": "Na zaliczeniu danego materiału lub przedmiotu z materiałem do właściwej klasy oraz grupy pakowania",
+        "C": "Na nadaniu towaru numeru UN i wpisaniu go do tabeli A RID",
+        "D": "Na określeniu ilości towaru dopuszczonej do jednorazowego przewozu koleją"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 5 ust. 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "0caf84bc-0970-4a3d-9105-38263b09567f",
+      "question": "Na jakiej podstawie określa się klasę towaru niebezpiecznego?",
+      "answers": {
+        "A": "Na podstawie masy i objętości przewożonego towaru",
+        "B": "Na podstawie kraju pochodzenia towaru i obowiązujących umów międzynarodowych",
+        "C": "Na podstawie dominującego zagrożenia stwarzanego przez dany towar, odpowiadającego kryterium klasyfikacyjnemu dla danej klasy",
+        "D": "Na podstawie numeru UN przypisanego do towaru w tabeli A RID"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 5 ust. 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "d542e0e6-9800-462f-8320-3681c1ff0bd7",
+      "question": "Do której klasy towarów niebezpiecznych wg RID zaliczane są gazy?",
+      "answers": {
+        "A": "Klasa 1",
+        "B": "Klasa 2",
+        "C": "Klasa 3",
+        "D": "Klasa 4.1"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 5 ust. 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "7f92c016-fd1c-499f-889e-8ffdb163e489",
+      "question": "Co obejmuje klasa 4.1 towarów niebezpiecznych wg RID?",
+      "answers": {
+        "A": "Materiały podatne na samozapalenie",
+        "B": "Materiały wydzielające w zetknięciu z wodą gazy palne",
+        "C": "Materiały zapalne stałe, materiały samoreaktywne, materiały polimeryzujące i materiały wybuchowe odczulone stałe",
+        "D": "Materiały zapalne ciekłe i materiały wybuchowe odczulone ciekłe"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 5 ust. 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "84e89c55-93bc-45c6-9a37-9492efab21cb",
+      "question": "Ile grup pakowania wyróżnia się dla towarów niebezpiecznych i co one określają?",
+      "answers": {
+        "A": "Dwie grupy pakowania: materiały stwarzające duże zagrożenie i materiały stwarzające małe zagrożenie",
+        "B": "Cztery grupy pakowania określające rodzaj opakowania wymaganego do przewozu",
+        "C": "Trzy grupy pakowania określające stopień zagrożenia: duże, średnie i małe",
+        "D": "Trzy grupy pakowania określające sposób załadunku: luzem, w opakowaniach jednostkowych i w kontenerach"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 5 ust. 3",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "d824d817-40ed-499b-a819-0ff65152d0bd",
+      "question": "Dla których klas towarów niebezpiecznych przyporządkowuje się grupy pakowania?",
+      "answers": {
+        "A": "Dla wszystkich klas od 1 do 9",
+        "B": "Dla klas 3, 4.1 (oprócz materiałów samoreaktywnych), 4.2, 4.3, 5.1, 6.1, 8 i 9",
+        "C": "Dla klas 2, 3, 4.1, 4.2, 5.1, 5.2, 6.1 i 8",
+        "D": "Dla klas 1, 3, 4.1, 4.2, 4.3, 5.1, 6.1 i 7"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 5 ust. 3",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "9b8a3074-79de-4811-ab6d-2b6eec9e2abe",
+      "question": "Co oznacza kod klasyfikacyjny \"T\" przydzielony towarowi niebezpiecznemu?",
+      "answers": {
+        "A": "Materiały zapalne",
+        "B": "Materiały trujące",
+        "C": "Materiały podatne na samozapalenie",
+        "D": "Materiały samoreaktywne"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 5 ust. 4",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "4b9c74bd-95ac-4959-904e-dcbbec5201bd",
+      "question": "Co oznacza kod klasyfikacyjny \"W\" przydzielony towarowi niebezpiecznemu?",
+      "answers": {
+        "A": "Materiały utleniające",
+        "B": "Materiały żrące",
+        "C": "Materiały wydzielające w zetknięciu z wodą gazy palne",
+        "D": "Inne materiały niebezpieczne"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 5 ust. 4",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "d404cd02-6170-498d-93d3-c00c5de2338c",
+      "question": "Jak tworzy się kod klasyfikacyjny towaru, który posiada więcej niż jedną właściwość niebezpieczną?",
+      "answers": {
+        "A": "Stosuje się wyłącznie kod odpowiadający dominującemu zagrożeniu towaru",
+        "B": "Kod klasyfikacyjny jest kombinacją kodów odpowiadających poszczególnym właściwościom niebezpiecznym",
+        "C": "Stosuje się kod klasy o najwyższym numerze spośród właściwości towaru",
+        "D": "Towar otrzymuje nowy, odrębny kod przydzielany przez władze właściwe"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 5 ust. 4",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "7962aef9-16c2-476b-a7cf-f60f10541a47",
+      "question": "Co oznacza skrót \"i.n.o.\" stosowany w klasyfikacji towarów niebezpiecznych?",
+      "answers": {
+        "A": "Ilość nieograniczona odpowiednio",
+        "B": "Inaczej nie określone",
+        "C": "Instrukcja niezbędna dla oznakowania",
+        "D": "Informacja niewymagana dla oznaczeń"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 5 ust. 6",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "7bc5929c-7fe5-41fd-8494-6951d0eba4b1",
+      "question": "Jakie towary mogą być zakwalifikowane do pozycji zbiorczych \"i.n.o.\"?",
+      "answers": {
+        "A": "Towary wymienione z nazwy w tabeli A RID, które posiadają dodatkowe właściwości niebezpieczne",
+        "B": "Materiały, mieszaniny, roztwory lub przedmioty posiadające niebezpieczne właściwości odpowiadające określonej klasie, kodowi klasyfikacyjnemu i grupie pakowania, niewymieniowe z nazwy w tabeli A RID",
+        "C": "Wyłącznie nowe materiały chemiczne, dla których trwa procedura klasyfikacyjna przez władze właściwe",
+        "D": "Towary, których przewóz jest dozwolony wyłącznie na podstawie specjalnego zezwolenia wydanego przez przewoźnika"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 5 ust. 6",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "71923d33-5747-491d-9266-9b03521713c6",
+      "question": "Jaki wyjątek dotyczy zakazu przyjmowania do przewozu towarów niebezpiecznych bez zakończonej procedury klasyfikacji?",
+      "answers": {
+        "A": "Wyjątek stanowi przewóz w ilościach wyłączonych, dla których procedura klasyfikacji nie jest wymagana",
+        "B": "Wyjątek stanowi przewóz próbek do dalszego badania, które winny być sklasyfikowane tymczasowo do danej klasy, oficjalnej nazwy przewozowej i numeru UN",
+        "C": "Wyjątek stanowi przewóz towarów w zamkniętych opakowaniach fabrycznych z oznaczeniem producenta",
+        "D": "Wyjątek stanowi przewóz towarów zakwalifikowanych wstępnie przez nadawcę na jego odpowiedzialność"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 5 ust. 7",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "31a5204f-9ed2-4055-a2a2-ad39a3b78f24",
+      "question": "Co to są towary niebezpieczne wysokiego ryzyka (TWR)?",
+      "answers": {
+        "A": "Wszystkie towary niebezpieczne przewożone koleją bez względu na ilość",
+        "B": "Grupa towarów wyodrębniona z towarów niebezpiecznych, które mogą być użyte do celów terrorystycznych i spowodować poważne skutki, takie jak liczne ofiary lub masowe zniszczenia",
+        "C": "Towary niebezpieczne wymagające specjalnego oznakowania wagonu",
+        "D": "Towary niebezpieczne, których przewóz jest całkowicie zakazany na liniach PKP PLK"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 6 ust. 1",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "82f35906-5619-4277-9ee6-c41a31ebec19",
+      "question": "Na podstawie jakich kryteriów towar niebezpieczny zalicza się do towarów niebezpiecznych wysokiego ryzyka (TWR)?",
+      "answers": {
+        "A": "Gdy posiada numer UN z grupy wysokiego ryzyka niezależnie od przewożonej ilości",
+        "B": "Gdy jest przewożony w ilościach większych niż określone w tabeli TWR",
+        "C": "Gdy wymaga specjalnego zezwolenia od ministra właściwego do spraw transportu",
+        "D": "Gdy jest przewożony cysternami kolejowymi o pojemności powyżej 10 000 litrów"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 6 ust. 1",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "f831b33b-01f7-469e-9489-89de1aa005bd",
+      "question": "Co oznacza wartość \"0\" w tabeli limitów ilościowych TWR przy danej formie przewozu?",
+      "answers": {
+        "A": "Przewóz danego towaru w tej formie jest zakazany",
+        "B": "Towar nie podlega przepisom TWR w tej formie przewozu",
+        "C": "Dana przesyłka jest TWR również w przypadku przewozu próżnych nieoczyszczonych jednostek transportowych",
+        "D": "Limit ilościowy wynosi zero, czyli towar nigdy nie jest klasyfikowany jako TWR"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 6 ust. 1",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "dc94dab6-e29c-41ea-ba38-db46fc0b4fb3",
+      "question": "Jakie obowiązki nakłada RID/Zał. 2 do SMGS na wszystkich uczestników przewozu towarów niebezpiecznych wysokiego ryzyka?",
+      "answers": {
+        "A": "Obowiązek uzyskania specjalnego certyfikatu bezpieczeństwa i zgłoszenia trasy do organów nadzoru",
+        "B": "Obowiązek sporządzenia planu zapewnienia bezpieczeństwa oraz przeprowadzenia niezbędnego szkolenia personelu",
+        "C": "Obowiązek wyznaczenia doradcy do spraw bezpieczeństwa i opracowania instrukcji postępowania",
+        "D": "Obowiązek ubezpieczenia przesyłki i powiadamiania właściwych służb ratowniczych przed każdym przewozem"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 6 ust. 2",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "c476bc34-1ee3-4a79-a14b-e65846bf53cb",
+      "question": "Który z wymienionych elementów powinien zawierać plan zapewnienia bezpieczeństwa dla towarów niebezpiecznych wysokiego ryzyka?",
+      "answers": {
+        "A": "Wykaz towarów niebezpiecznych wysokiego ryzyka przewożonych na terenie objętym planem",
+        "B": "Harmonogram przeglądów technicznych wagonów cystern używanych do przewozu TWR",
+        "C": "Zestawienie tras kolejowych dopuszczonych do przewozu towarów niebezpiecznych",
+        "D": "Listę stacji kolejowych z zapleczem do obsługi przesyłek niebezpiecznych"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 6 ust. 3 pkt 2",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "441b828b-5dfb-4396-af89-ba217180af15",
+      "question": "Co powinien zawierać opis przedsięwzięć podejmowanych dla zmniejszenia zagrożenia bezpieczeństwa w planie zapewnienia bezpieczeństwa TWR?",
+      "answers": {
+        "A": "Szkolenie, działania w przypadku podwyższonego zagrożenia, weryfikacja nowo zatrudnianego personelu, praktyki eksploatacyjne oraz wyposażenie i zasoby",
+        "B": "Wykaz materiałów niebezpiecznych i ich kody klasyfikacyjne oraz limity przewozowe",
+        "C": "Harmonogram kontroli wewnętrznych, listę odpowiedzialnych inspektorów i terminy audytów",
+        "D": "Opis tras alternatywnych, wykaz awaryjnych miejsc postoju i dane telefoniczne służb ratowniczych"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 6 ust. 3 pkt 4",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "5e079d9f-75f5-4f43-8a93-24cca8159c12",
+      "question": "Które jednostki organizacyjne PKP PLK S.A. są zobowiązane do sporządzania planów zapewnienia bezpieczeństwa dla towarów niebezpiecznych wysokiego ryzyka?",
+      "answers": {
+        "A": "Centrala PKP PLK S.A. i Biuro Bezpieczeństwa",
+        "B": "Zakłady Linii Kolejowych i Centrum Zarządzania Ruchem Kolejowym",
+        "C": "Dyrekcje Regionalne i posterunki ruchu na trasach przewozu TWR",
+        "D": "Zakłady Automatyki i Telekomunikacji oraz Zakłady Energetyki Kolejowej"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 6 ust. 5",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "d352a0be-8841-44f1-a7be-db1b2bdc6df1",
+      "question": "Kiedy należy dokonywać aktualizacji planu zapewnienia bezpieczeństwa TWR?",
+      "answers": {
+        "A": "Raz w roku, w terminie do 31 stycznia każdego roku kalendarzowego",
+        "B": "Co dwa lata, zgodnie z harmonogramem ustalonym przez zarząd PKP PLK",
+        "C": "Każdorazowo po zaistnieniu zmiany mającej wpływ na realizację postanowień zawartych w planie",
+        "D": "Wyłącznie na polecenie organu nadzoru po przeprowadzeniu kontroli zewnętrznej"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 6 ust. 6",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "8aa4f9df-15d3-4b23-9df7-abf8665665b6",
+      "question": "Jak często należy dokonywać praktycznego sprawdzenia realizacji postanowień zawartych w planie zapewnienia bezpieczeństwa TWR?",
+      "answers": {
+        "A": "Nie rzadziej niż raz w roku",
+        "B": "Nie rzadziej niż co 2 lata",
+        "C": "Nie rzadziej niż co 3 lata",
+        "D": "Nie rzadziej niż co 5 lat"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 6 ust. 7",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "2e98bdcc-4871-4331-9a75-e4408e51c32b",
+      "question": "Czym charakteryzują się towary niebezpieczne wysokiego ryzyka (TWR)?",
+      "answers": {
+        "A": "Są to towary wyodrębnione z towarów niebezpiecznych, które mogą być użyte niezgodnie ze swoim przeznaczeniem, do celów terrorystycznych i mogą spowodować poważne skutki, takie jak liczne ofiary, masowe zniszczenia lub masowe zakłócenia społeczno-gospodarcze.",
+        "B": "Są to towary wyodrębnione z towarów niebezpiecznych, które mogą być użyte niezgodnie ze swoim przeznaczeniem, wyłącznie do celów przemysłowych i mogą spowodować poważne skażenie środowiska naturalnego.",
+        "C": "Są to towary wyodrębnione z towarów niebezpiecznych, które mogą być użyte niezgodnie ze swoim przeznaczeniem, do celów szpiegowskich i które mogą spowodować poważne zakłócenia w funkcjonowaniu infrastruktury kolejowej.",
+        "D": "Są to towary wyodrębnione z towarów niebezpiecznych, które mogą być użyte niezgodnie ze swoim przeznaczeniem, do celów kryminalnych i które mogą spowodować poważne skutki finansowe dla przewoźnika."
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 6 ust. 1",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "a4191b4c-ece2-4014-ae6b-b28362e4ef38",
+      "question": "Jaki limit ilościowy (sztuka przesyłki) obowiązuje dla materiałów wybuchowych klasy 1 podklasy 1.1, aby przesyłka była zaliczana do TWR?",
+      "answers": {
+        "A": "3000 kg",
+        "B": "1000 kg",
+        "C": "0 kg (każda ilość)",
+        "D": "500 kg"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 6 ust. 1 tabela",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "cb808eee-5cc4-4432-acca-63a314d5d709",
+      "question": "Jaki limit ilościowy w cysternie (litry) obowiązuje dla gazów palnych nietrujących (kody klasyfikacyjne zawierające tylko litery F lub FC) klasy 2, aby przesyłka była zaliczana do TWR?",
+      "answers": {
+        "A": "0 litrów (każda ilość)",
+        "B": "1000 litrów",
+        "C": "3000 litrów",
+        "D": "Przepis nie dotyczy cystern dla tej pozycji"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 6 ust. 1 tabela",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "b230829c-f821-4dd4-9327-c8ffd910a7ef",
+      "question": "Co oznacza wartość \"0\" w tabeli TWR przy pozycji dotyczącej ilości?",
+      "answers": {
+        "A": "Dana pozycja nie jest zaliczana do TWR.",
+        "B": "Dana przesyłka jest TWR również w przypadku przewozu próżnych nieoczyszczonych jednostek transportowych.",
+        "C": "Dla danej pozycji nie określono limitów ilościowych.",
+        "D": "Dana przesyłka jest TWR tylko wtedy, gdy masa przekracza 0 kg, czyli zawsze."
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 6 ust. 1",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "a1766843-e778-48f9-952f-19452a2c8f9e",
+      "question": "Jakie dwa obowiązki nakłada RID/Zał. 2 do SMGS dział 1.10 na uczestników przewozu towarów niebezpiecznych wysokiego ryzyka?",
+      "answers": {
+        "A": "Sporządzenie \"Planu zapewnienia bezpieczeństwa\" oraz przeprowadzenie niezbędnego szkolenia personelu biorącego udział w procesie przewozu.",
+        "B": "Sporządzenie \"Planu awaryjnego\" oraz wyznaczenie doradcy ds. bezpieczeństwa przewozu towarów niebezpiecznych.",
+        "C": "Przeprowadzenie szkolenia personelu oraz oznakowanie wagonów specjalnymi tablicami ostrzegawczymi.",
+        "D": "Sporządzenie \"Planu zapewnienia bezpieczeństwa\" oraz wyznaczenie osoby odpowiedzialnej za nadzór nad załadunkiem."
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 6 ust. 2",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "9e2e48c4-5d27-4d40-9194-87249abbb83e",
+      "question": "Które jednostki organizacyjne PKP PLK S.A. są zobowiązane do sporządzania \"Planów zapewnienia bezpieczeństwa\" dla TWR?",
+      "answers": {
+        "A": "Zakłady Linii Kolejowych i Centrum Zarządzania Ruchem Kolejowym.",
+        "B": "Zakłady Naprawcze Taboru i Centrum Zarządzania Ruchem Kolejowym.",
+        "C": "Zakłady Linii Kolejowych i Regionalne Centra Bezpieczeństwa.",
+        "D": "Komórki ds. towarów niebezpiecznych i Centrum Zarządzania Ruchem Kolejowym."
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 6 ust. 5",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "f79b4e97-dbf0-4100-8624-ca705d11fbc0",
+      "question": "Jak często należy przeprowadzać praktyczne sprawdzenie realizacji postanowień zawartych w planie zapewnienia bezpieczeństwa?",
+      "answers": {
+        "A": "Nie rzadziej niż raz w roku.",
+        "B": "Nie rzadziej niż co 2 lata.",
+        "C": "Nie rzadziej niż co 3 lata.",
+        "D": "Nie rzadziej niż co 5 lat."
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 6 ust. 7",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "1abe5bb0-96c7-4105-8677-20c3d910bdc2",
+      "question": "Kiedy należy dokonywać aktualizacji planu zapewnienia bezpieczeństwa?",
+      "answers": {
+        "A": "Tylko raz na 2 lata, zgodnie z ustalonym harmonogramem.",
+        "B": "Wyłącznie na wniosek Urzędu Transportu Kolejowego.",
+        "C": "Sukcesywnie, każdorazowo po zaistnieniu zmiany mającej wpływ na realizację postanowień zawartych w planie.",
+        "D": "Co roku, niezależnie od tego, czy zaszły zmiany w warunkach przewozu."
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 6 ust. 6",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "3b88dbdb-eb9b-4e23-ad55-bb30c3f3b438",
+      "question": "Który z wymienionych elementów musi zawierać plan zapewnienia bezpieczeństwa dotyczący TWR?",
+      "answers": {
+        "A": "Wykaz towarów niebezpiecznych wysokiego ryzyka przewożonych na terenie objętym planem.",
+        "B": "Harmonogram przeglądów technicznych wagonów używanych do przewozu TWR.",
+        "C": "Wykaz wszystkich stacji, przez które przebiega trasa przewozu TWR.",
+        "D": "Listę przewoźników posiadających licencję na przewóz TWR."
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 6 ust. 3 pkt 2",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "979387f4-dcf6-41f6-af1d-8dc8c8ad9d4e",
+      "question": "Zgodnie z jakim zestawem przepisów odbywa się transport odpadów niebezpiecznych koleją?",
+      "answers": {
+        "A": "Przepisów obowiązujących przy transporcie towarów niebezpiecznych (RID/Zał. 2 do SMGS)",
+        "B": "Przepisów obowiązujących przy transporcie towarów szybko psujących się (ATP)",
+        "C": "Przepisów obowiązujących przy transporcie towarów ponadgabarytowych (RID/Zał. 1 do SMGS)",
+        "D": "Przepisów obowiązujących przy transporcie materiałów promieniotwórczych (IAEA)"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 7 ust. 2",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "b197db91-8e24-4756-8c11-2cea92444fb1",
+      "question": "Który akt prawny określa warunki techniczne dla torów do awaryjnego odstawiania uszkodzonych wagonów kolejowych przewożących towary niebezpieczne?",
+      "answers": {
+        "A": "Rozporządzenie Ministra Infrastruktury z dnia 26 sierpnia 2022 r. w sprawie warunków technicznych dla torów do awaryjnego odstawiania uszkodzonych wagonów kolejowych przewożących towary niebezpieczne",
+        "B": "Rozporządzenie Ministra Transportu z dnia 12 marca 2020 r. w sprawie warunków technicznych dla torów do awaryjnego odstawiania uszkodzonych wagonów kolejowych przewożących towary niebezpieczne",
+        "C": "Rozporządzenie Ministra Infrastruktury z dnia 26 sierpnia 2022 r. w sprawie warunków technicznych dla bocznic kolejowych przeznaczonych do odstawiania wagonów z towarami niebezpiecznymi",
+        "D": "Ustawa z dnia 28 marca 2003 r. o transporcie kolejowym w zakresie warunków technicznych dla torów do awaryjnego odstawiania wagonów z towarami niebezpiecznymi"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 8",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "620d6805-e270-4d00-80a2-715206fb1f75",
+      "question": "W jakim roku wydano rozporządzenie określające warunki techniczne dla torów do awaryjnego odstawiania uszkodzonych wagonów kolejowych przewożących towary niebezpieczne?",
+      "answers": {
+        "A": "2020",
+        "B": "2021",
+        "C": "2022",
+        "D": "2023"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 8",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "69a4b193-d1c6-437d-8bf2-d80141a43a23",
+      "question": "Na których jednostkach transportowych przewożących towary niebezpieczne tablica pomarańczowa musi być umieszczona na każdym boku?",
+      "answers": {
+        "A": "Wyłącznie wagonach-cysternach i cysternach przenośnych",
+        "B": "Wagonach-cysternach, wagonach-bateriach, MEGC, cysternach przenośnych, kontenerach-cysternach, wagonach do przewozu luzem oraz kontenerach do przewozu luzem",
+        "C": "Tylko kontenerach-cysternach i wagonach z cysternami odejmowalnymi",
+        "D": "Wyłącznie wagonach z cysternami odejmowalnymi i wagonach do przewozu luzem"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 9 ust. 1",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "a3e919c1-a27e-4a59-a1e0-31e0c03d4870",
+      "question": "Czy obowiązek umieszczenia tablicy pomarańczowej dotyczy przewozu próżnych jednostek transportowych po materiałach niebezpiecznych?",
+      "answers": {
+        "A": "Nie, tylko jednostki załadowane wymagają oznakowania",
+        "B": "Tak, ale tylko gdy jednostka nie była czyszczona przez więcej niż 24 godziny",
+        "C": "Tak, dotyczy to próżnych nieoczyszczonych, nieodkażonych oraz nieodgazowanych jednostek transportowych",
+        "D": "Tak, ale tylko cystern przenośnych i kontenerów-cystern"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 9 ust. 2",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "b76a48cf-7652-4eac-b8d2-24b558bdd074",
+      "question": "Jakie wymiary ma tablica pomarańczowa?",
+      "answers": {
+        "A": "30 cm (podstawa) i 40 cm (wysokość)",
+        "B": "40 cm (podstawa) i 40 cm (wysokość)",
+        "C": "30 cm (podstawa) i 30 cm (wysokość)",
+        "D": "40 cm (podstawa) i 30 cm (wysokość)"
+      },
+      "correct": "D",
+      "explanation": "Ir-16 § 9 ust. 3",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "10d76433-ed55-4762-acf9-656a497840cc",
+      "question": "Jaka jest szerokość pasa koloru czarnego obwodzącego brzegi tablicy pomarańczowej?",
+      "answers": {
+        "A": "10 mm",
+        "B": "15 mm",
+        "C": "20 mm",
+        "D": "30 mm"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 9 ust. 3",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "3f882e82-2d77-495a-8ea6-6642bfc3bf70",
+      "question": "Jaką wysokość mają cyfry numeru zagrożenia i numeru UN na tablicy pomarańczowej?",
+      "answers": {
+        "A": "80 mm",
+        "B": "120 mm",
+        "C": "100 mm",
+        "D": "150 mm"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 9 ust. 3",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "855d6178-cc3c-4b98-9017-feaec1fdf0cb",
+      "question": "W którym miejscu tablicy pomarańczowej umieszcza się numer zagrożenia, a w którym numer UN?",
+      "answers": {
+        "A": "Numer UN w górnej części, numer zagrożenia w dolnej",
+        "B": "Numer zagrożenia po lewej stronie, numer UN po prawej",
+        "C": "Numer zagrożenia w górnej części, numer UN w dolnej",
+        "D": "Numer zagrożenia i UN obok siebie w środkowej części"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 9 ust. 4",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "c91a295a-da66-42e4-8f4d-40957629f3a5",
+      "question": "Co oznacza cyfra 8 w numerze zagrożenia na tablicy pomarańczowej?",
+      "answers": {
+        "A": "Działanie trujące lub ryzyko zakażenia",
+        "B": "Działanie promieniotwórcze",
+        "C": "Ryzyko samorzutnej gwałtownej reakcji",
+        "D": "Działanie żrące"
+      },
+      "correct": "D",
+      "explanation": "Ir-16 § 9 ust. 4",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "4a7da26a-e4c4-4146-9ede-6e778b139120",
+      "question": "Co oznacza cyfra 7 w numerze zagrożenia na tablicy pomarańczowej?",
+      "answers": {
+        "A": "Działanie żrące",
+        "B": "Działanie promieniotwórcze",
+        "C": "Działanie utleniające (wzmagające palenie)",
+        "D": "Ryzyko samorzutnej gwałtownej reakcji"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 9 ust. 4",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "1cbfaf1c-d62a-4f16-aa72-e604eacd4646",
+      "question": "Co oznacza litera \"X\" poprzedzająca numer zagrożenia na tablicy pomarańczowej?",
+      "answers": {
+        "A": "Materiał jest wybuchowy",
+        "B": "Materiał niebezpiecznie reaguje z wodą",
+        "C": "Materiał wymaga przewozu w warunkach chłodniczych",
+        "D": "Materiał jest silnie radioaktywny"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 9 ust. 4",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "4a2233a6-abf7-4562-81f6-6853f42b659c",
+      "question": "Co oznacza numer zagrożenia 33?",
+      "answers": {
+        "A": "Gaz schłodzony skroplony duszący",
+        "B": "Materiał piroforyczny ciekły",
+        "C": "Materiał łatwo zapalny ciekły (temperatura zapłonu niższa niż 23 °C)",
+        "D": "Materiał zapalny ciekły trujący"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 9 ust. 4",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "d8eee62b-af51-4436-b333-c490597f5717",
+      "question": "Co oznacza numer zagrożenia 606?",
+      "answers": {
+        "A": "Materiał zagrażający środowisku",
+        "B": "Materiał zakaźny",
+        "C": "Materiał zapalny stały stopiony w podwyższonej temperaturze",
+        "D": "Nadtlenek organiczny zapalny"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 9 ust. 4",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "936ff036-f43c-40ee-b1a8-ccb4f17efb8a",
+      "question": "W jaki sposób oznacza się wagony-cysterny kolei 1435 mm przeznaczone do przewozu gazów skroplonych, schłodzonych skroplonych lub rozpuszczonych?",
+      "answers": {
+        "A": "Odblaskowym pasem barwy żółtej o szerokości około 30 cm otaczającym zbiornik",
+        "B": "Nieodblaskowym pasem barwy pomarańczowej o szerokości około 30 cm otaczającym zbiornik na wysokości osi podłużnej",
+        "C": "Nieodblaskowym pasem barwy czerwonej o szerokości około 50 cm otaczającym zbiornik na wysokości osi podłużnej",
+        "D": "Odblaskowym pasem barwy pomarańczowej o szerokości około 50 cm otaczającym zbiornik"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 9 ust. 5 pkt 1",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "a5470181-4d9e-4aae-b9d8-b4a0962d0fba",
+      "question": "Jakiego koloru jest pas wyróżniający na wagonach-cysternach kolei 1520 mm dla amoniaku bezwodnego (UN 1005)?",
+      "answers": {
+        "A": "Pomarańczowa",
+        "B": "Ciemnozielona",
+        "C": "Żółta",
+        "D": "Czerwona"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 9 ust. 5 pkt 2",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "97f1befb-2f6f-4aca-9737-2bb7c298dbd5",
+      "question": "Na jednostkach ładunkowych cargo z wbudowanymi bateriami litowymi (UN 3536) gdzie powinny być założone tablice pomarańczowe?",
+      "answers": {
+        "A": "Wyłącznie na przedniej ścianie jednostki",
+        "B": "Na każdej ścianie bocznej jednostki",
+        "C": "Na górnej powierzchni jednostki",
+        "D": "Na tylnej ścianie i na każdej ścianie bocznej jednostki"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 9 ust. 1",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "22462458-19f2-4bd3-867d-8e8fbb3051d3",
+      "question": "Na których jednostkach transportowych przewożących towar niebezpieczny należy umieścić tablicę pomarańczową na każdym boku?",
+      "answers": {
+        "A": "Wyłącznie na wagonach-cysternach i cysternach przenośnych",
+        "B": "Na wagonach-cysternach, wagonach-bateriach, wagonach z cysternami odejmowalnymi, MEGC, cysternach przenośnych, kontenerach-cysternach, wagonach do przewozu luzem oraz kontenerach do przewozu luzem",
+        "C": "Wyłącznie na wagonach-cysternach, kontenerach-cysternach i cysternach przenośnych",
+        "D": "Na wszystkich wagonach towarowych przewożących towary niebezpieczne bez wyjątku"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 9 ust. 1",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "458049a8-201c-45a8-8c5e-423afa3e9772",
+      "question": "Na jakiej zasadzie tablice pomarańczowe powinny być założone na jednostkach ładunkowych cargo, w których wbudowane są baterie litowe UN 3536?",
+      "answers": {
+        "A": "Tylko na jednej ścianie bocznej, od strony toru głównego",
+        "B": "Na każdej ścianie bocznej jednostki ładunkowej cargo",
+        "C": "Na ścianie czołowej i tylnej jednostki ładunkowej cargo",
+        "D": "Tablice pomarańczowe nie są wymagane dla baterii litowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 9 ust. 1",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "430d3c5e-fcfb-43fb-8756-25f007451e17",
+      "question": "Czy obowiązek umieszczenia tablicy pomarańczowej dotyczy próżnych jednostek transportowych po materiałach niebezpiecznych?",
+      "answers": {
+        "A": "Nie, obowiązek dotyczy wyłącznie jednostek z towarem niebezpiecznym",
+        "B": "Tak, ale tylko wtedy, gdy jednostka była używana do przewozu towarów klasy 1",
+        "C": "Tak, obowiązek dotyczy próżnych nieoczyszczonych, nieodkażonych oraz nieodgazowanych jednostek transportowych po materiałach niebezpiecznych",
+        "D": "Tak, ale tylko dla wagonów-cystern, nie dla kontenerów"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 9 ust. 2",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "47eb56bd-6773-4452-92ca-074d5e742a50",
+      "question": "Jakie są wymiary tablicy pomarańczowej?",
+      "answers": {
+        "A": "30 cm (podstawa) i 40 cm (wysokość)",
+        "B": "40 cm (podstawa) i 40 cm (wysokość)",
+        "C": "40 cm (podstawa) i 30 cm (wysokość)",
+        "D": "30 cm (podstawa) i 30 cm (wysokość)"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 9 ust. 3",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "79b9f229-0e2a-4ce3-a0f9-d41f4c16b890",
+      "question": "Jakiej szerokości powinien być pas koloru czarnego obwodzący brzegi tablicy pomarańczowej?",
+      "answers": {
+        "A": "10 mm",
+        "B": "15 mm",
+        "C": "20 mm",
+        "D": "25 mm"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 9 ust. 3",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "5dfef098-1841-4a0c-88a6-17a79bc007be",
+      "question": "Jaką wysokosc powinny miec czarne cyfry numerow zagrożenia i UN na tablicy pomarańczowej?",
+      "answers": {
+        "A": "80 mm",
+        "B": "120 mm",
+        "C": "100 mm",
+        "D": "150 mm"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 9 ust. 3",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "c4dfd506-4e70-4a16-831c-3164f104c1eb",
+      "question": "Gdzie na tablicy pomarańczowej umieszcza się numer zagrożenia, a gdzie numer UN?",
+      "answers": {
+        "A": "Numer UN w górnej części, numer zagrożenia w dolnej części tablicy",
+        "B": "Numer zagrożenia w górnej części, numer UN w dolnej części tablicy",
+        "C": "Oba numery umieszcza się obok siebie w poziomie",
+        "D": "Rozmieszczenie jest dowolne, byleby numery były czytelne"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 9 ust. 4",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "487a20a1-1647-4c48-a738-eb7968d496d0",
+      "question": "Co oznacza cyfra 8 w numerze zagrożenia na tablicy pomarańczowej?",
+      "answers": {
+        "A": "Działanie trujące lub ryzyko zakażenia",
+        "B": "Działanie promieniotwórcze",
+        "C": "Ryzyko samorzutnej gwałtownej reakcji",
+        "D": "Działanie żrące"
+      },
+      "correct": "D",
+      "explanation": "Ir-16 § 9 ust. 4",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "5ad59a5d-f0bf-4151-ab73-385aa1e739e0",
+      "question": "Co oznacza cyfra 7 w numerze zagrożenia na tablicy pomarańczowej?",
+      "answers": {
+        "A": "Działanie żrące",
+        "B": "Działanie utleniające (wzmagające palenie)",
+        "C": "Działanie promieniotwórcze",
+        "D": "Działanie trujące lub ryzyko zakażenia"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 9 ust. 4",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "4214db64-9544-4046-a666-393d942946dd",
+      "question": "Co oznacza litera \"X\" poprzedzająca numer zagrożenia na tablicy pomarańczowej?",
+      "answers": {
+        "A": "Materiał wymaga przewozu w warunkach chłodniczych",
+        "B": "Materiał jest objęty specjalną procedurą celną",
+        "C": "Materiał niebezpiecznie reaguje z wodą",
+        "D": "Materiał jest przeznaczony wyłącznie do przewozu w wagonach specjalnych"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 9 ust. 4",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "62bd8b3d-1d7a-4459-a196-c88afd60dab2",
+      "question": "Co oznacza numer zagrożenia 33 na tablicy pomarańczowej?",
+      "answers": {
+        "A": "Materiał zapalny ciekły o temperaturze zapłonu niższej niż 23 stopnie C",
+        "B": "Materiał piroforyczny ciekły",
+        "C": "Gaz schłodzony skroplony duszący",
+        "D": "Materiał zapalny ciekły trujący reagujący z woda"
+      },
+      "correct": "A",
+      "explanation": "Ir-16 § 9 ust. 4",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "a21c8bc5-e27a-4741-a05e-2b756ec68abe",
+      "question": "Jak oznacza się wagony-cysterny kolei 1435 mm przeznaczone do przewozu gazów skroplonych, schłodzonych skroplonych lub rozpuszczonych?",
+      "answers": {
+        "A": "Odblaskowym pasem barwy pomarańczowej szerokości około 30 cm na wysokości osi podłużnej zbiornika",
+        "B": "Nieodblaskowym pasem barwy pomarańczowej szerokości około 30 cm na wysokości osi podłużnej zbiornika",
+        "C": "Nieodblaskowym pasem barwy żółtej szerokości około 50 cm na wysokości osi podłużnej zbiornika",
+        "D": "Odblaskowym pasem barwy żółtej szerokości około 30 cm na wysokości osi podłużnej zbiornika"
+      },
+      "correct": "B",
+      "explanation": "Ir-16 § 9 ust. 5 pkt 1",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "23a7d67f-5d34-4bda-a5b3-5ee18da5faf5",
+      "question": "Jaką barwę ma pas wyróżniający na wagonie-cysternie kolei 1520 mm dla chloru (UN 1017)?",
+      "answers": {
+        "A": "Żółta",
+        "B": "Czerwona",
+        "C": "Ciemnoniebieska",
+        "D": "Ciemnozielona"
+      },
+      "correct": "D",
+      "explanation": "Ir-16 § 9 ust. 5 pkt 2",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "662ccb0c-89b3-4562-9dfb-cbf5a112b782",
+      "question": "Jaką barwę ma pas wyróżniający na wagonie-cysternie kolei 1520 mm dla amoniaku bezwodnego (UN 1005)?",
+      "answers": {
+        "A": "Ciemnozielona",
+        "B": "Czerwona",
+        "C": "Żółta",
+        "D": "Pomarańczowa"
+      },
+      "correct": "C",
+      "explanation": "Ir-16 § 9 ust. 5 pkt 2",
+      "section_ref": "§ 9",
+      "section": 9
+    }
+  ]
+}

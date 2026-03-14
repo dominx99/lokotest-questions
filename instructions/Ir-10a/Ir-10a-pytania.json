@@ -1,0 +1,1923 @@
+{
+  "instruction": "Ir-10a",
+  "questions": [
+    {
+      "uuid": "9a8bdb4f-7958-4b10-8ac8-99e0ff416b4b",
+      "question": "Na torach o jakim prześwicie obowiązuje instrukcja Ir-10a?",
+      "answers": {
+        "A": "1435 mm",
+        "B": "1520 mm",
+        "C": "1600 mm",
+        "D": "1668 mm"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 1 ust. 2",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "77a06fe8-98d6-498b-89ff-23bed58ae2a6",
+      "question": "Jaką instrukcję należy stosować w przypadku zagadnień dotyczących przesyłek nadzwyczajnych, które nie zostały ujęte w instrukcji Ir-10a?",
+      "answers": {
+        "A": "Ir-1",
+        "B": "Ir-5",
+        "C": "Ir-10",
+        "D": "Ir-13"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 1 ust. 4",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "2530d8cb-1d65-4b55-b112-488b29f822c2",
+      "question": "W ilu rzutach na płaszczyzny wykonywany jest rysunek przesyłki nadzwyczajnej?",
+      "answers": {
+        "A": "W jednym rzucie — pionowym (głównym)",
+        "B": "W dwóch rzutach — pionowym i poziomym",
+        "C": "W trzech rzutach — pionowym, poziomym i bocznym",
+        "D": "W czterech rzutach — pionowym, poziomym, bocznym i perspektywicznym"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 10 ust. 1",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "58fd03c9-c258-4cbb-b221-ef379698b182",
+      "question": "W jakiej skali należy wykonać rzut główny (na płaszczyznę pionową) wagonu z przesyłką nadzwyczajną?",
+      "answers": {
+        "A": "1 : 10",
+        "B": "1 : 20",
+        "C": "1 : 30",
+        "D": "1 : 50"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 10 ust. 2",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "7ea650c2-898e-4e12-93f0-5575b3f94e99",
+      "question": "Jakie dane dotyczące środka ciężkości przesyłki należy umieścić na rysunku transportowym?",
+      "answers": {
+        "A": "Masę środka ciężkości i jego odległość od czoła wagonu",
+        "B": "Dokładne położenie środka ciężkości w trzyosiowym układzie odniesienia ze wskazaniem jego współrzędnych na każdym z trzech rzutów",
+        "C": "Wysokość środka ciężkości nad główką szyny i odległość od osi poprzecznej wagonu",
+        "D": "Położenie środka ciężkości tylko na rzucie głównym (pionowym) wagonu"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 10 ust. 3 pkt 5",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "98c9ab0d-b81c-477d-a207-93ef85a16ba8",
+      "question": "Kto zatwierdza zmiany, poprawki i uzupełnienia dokonane na rysunkach lub w instrukcji transportowej przesyłki nadzwyczajnej?",
+      "answers": {
+        "A": "Nadawca przesyłki",
+        "B": "Zarządca infrastruktury",
+        "C": "Przewoźnik",
+        "D": "Dyżurny ruchu stacji nadania"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 10 ust. 4",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "a2475728-fcc5-42ba-91bf-2d51a02fe5a5",
+      "question": "Przejazd przesyłek z przekroczoną skrajnią dowolnego stopnia obok budowli usytuowanych zgodnie ze skrajnią budowli może się odbywać z prędkościami:",
+      "answers": {
+        "A": "określonymi dla pociągów towarowych dla danego odcinka",
+        "B": "do 40 km/h jako maksymalnymi dla wszystkich przypadków",
+        "C": "do 90 km/h niezależnie od rodzaju odcinka",
+        "D": "określonymi indywidualnie przez Zakład Linii Kolejowych"
+      },
+      "correct": "A",
+      "explanation": "Ir-10a § 11 ust. 1",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "95128b41-0279-4b19-a4ae-7effd7b878f6",
+      "question": "Możliwości i warunki przewozu przesyłek z przekroczoną skrajnią przez mosty, wiadukty i tunele niespełniające skrajni budowli powinny być określane:",
+      "answers": {
+        "A": "wyłącznie metodą wyliczeń zgodnie z obowiązującymi normami",
+        "B": "metodą wyliczeń lub metodą graficzną zgodnie z obowiązującymi normami minimalnych dopuszczalnych odstępów",
+        "C": "wyłącznie metodą graficzną z użyciem makiety",
+        "D": "na podstawie decyzji Zakładu Linii Kolejowych bez stosowania wzorów"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 11 ust. 2",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "45b5b940-7e1d-4dff-a6ad-e67555a8229c",
+      "question": "Możliwość przepuszczenia przesyłek nadzwyczajnych może być określona poprzez:",
+      "answers": {
+        "A": "obliczenia teoretyczne wykonane przez Zakład Linii Kolejowych",
+        "B": "pomiary geodezyjne zinwentaryzowanych budowli i urządzeń",
+        "C": "przejazd specjalnie wykonanej makiety dla sprawdzenia na gruncie",
+        "D": "analizę dokumentacji technicznej obiektu kolejowego"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 11 ust. 3",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "2be07cdc-2436-4509-bb67-0a9e69c72a86",
+      "question": "Koszty badania trasy oraz budowy i rozbiórki makiety przy określaniu możliwości przejazdu przesyłki nadzwyczajnej ponosi:",
+      "answers": {
+        "A": "Zakład Linii Kolejowych Zarządcy",
+        "B": "przewoźnik kolejowy",
+        "C": "nadawca przesyłki",
+        "D": "zarządca infrastruktury i przewoźnik w częściach równych"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 11 ust. 4",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "c622c681-bcce-4d8e-bb40-de90073940fd",
+      "question": "Sposób określania możliwości przewozu według stopnia skrajni stosuje się w celu:",
+      "answers": {
+        "A": "dodatkowego sprawdzenia w przypadkach, gdy przesyłka wychodzi poza stopień skrajni nieznacznie",
+        "B": "określenia schematów przewozu przez linie i podejmowania operacyjnych decyzji o kierunkach przewozu",
+        "C": "wyznaczenia minimalnych odstępów od przewodu jezdnego sieci trakcyjnej",
+        "D": "ustalenia konieczności uszynienia przesyłki na czas przejazdu"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 11 ust. 7",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "9b07db70-830c-4ae6-a801-309945f067a2",
+      "question": "Który poziom prędkości obejmuje jazdę z prędkością do 5 km/h z możliwością natychmiastowego zatrzymania?",
+      "answers": {
+        "A": "trzeci poziom prędkości",
+        "B": "czwarty poziom prędkości",
+        "C": "piąty poziom prędkości",
+        "D": "drugi poziom prędkości"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 11 ust. 7 pkt 4",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "c35c2576-73b0-40bd-9bbd-fe5bbc059273",
+      "question": "Piąty poziom prędkości (przeciąganie) przewiduje jazdę z prędkością do:",
+      "answers": {
+        "A": "5 km/h z możliwością natychmiastowego zatrzymania",
+        "B": "10 km/h z wcześniejszym sprawdzeniem wymiarów budowli",
+        "C": "3 km/h przy wcześniejszym sprawdzeniu faktycznych wymiarów budowli i przesyłki",
+        "D": "2 km/h bez dodatkowych warunków"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 11 ust. 7 pkt 5",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "294f6664-74d7-4b56-87cf-23423cd8a1a3",
+      "question": "Jaki minimalny odstęp ochronny od górnej powierzchni przesyłki do przewodu jezdnego na liniach elektrycznych umożliwia przejazd z prędkością maksymalną bez dodatkowych ograniczeń?",
+      "answers": {
+        "A": "150 mm lub więcej",
+        "B": "100 mm lub więcej",
+        "C": "200 mm lub więcej",
+        "D": "71 mm lub więcej"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 11 ust. 10",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "80b6a55f-70d0-44c2-a373-9a1511dc1bbd",
+      "question": "Jeżeli wolna przestrzeń pomiędzy przesyłką a zawieszeniem sieci trakcyjnej wynosi od 100 do 149 mm, wymagany jest przejazd:",
+      "answers": {
+        "A": "z ograniczeniem prędkości do 30 km/h",
+        "B": "z wyłączonym napięciem w sieci trakcyjnej z prędkością maksymalną",
+        "C": "z ograniczeniem prędkości do 5 km/h oraz wyłączonym napięciem w sieci",
+        "D": "na podstawie ustaleń Zakładu Linii Kolejowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 11 ust. 10",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "16b2d026-30dc-4d01-99e2-603e0aacfe17",
+      "question": "Przesyłki metalowe przewożone bez opakowania, których wysokość ponad główkę szyny przekracza 5300 mm na liniach elektrycznych, powinny być uszynione przez:",
+      "answers": {
+        "A": "nałożenie metalowej osłony na górną powierzchnię przesyłki",
+        "B": "bezpośrednie metaliczne połączenie z wagonem przewodem miedzianym o przekroju co najmniej 35 mm²",
+        "C": "wyłączenie napięcia w sieci trakcyjnej na czas przejazdu",
+        "D": "zastosowanie izolacji dielektrycznej na styku przesyłki z wagonem"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 11 ust. 12 pkt 1",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "16751d2f-4fe3-4887-bf2e-25611d7b8b96",
+      "question": "Żądanie uszynienia przesyłki powinno być zamieszczone w:",
+      "answers": {
+        "A": "liście przewozowym dołączonym do przesyłki",
+        "B": "zgodzie na przewóz przesyłki nadzwyczajnej wydanej przewoźnikowi przez Zarządcę",
+        "C": "instrukcji załadunku sporządzonej przez nadawcę przesyłki",
+        "D": "regulaminie technicznym stacji nadania"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 11 ust. 13",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "42e43854-904e-4a38-95b3-ebce8464e6fb",
+      "question": "Na jakiej podstawie wykonywane jest określenie możliwości przewozu przesyłek z przekroczoną skrajnią obok budowli i urządzeń?",
+      "answers": {
+        "A": "Na podstawie danych o projektowanych wymiarach budowli i urządzeń",
+        "B": "Na podstawie danych o faktycznych wymiarach budowli i urządzeń zinwentaryzowanych zgodnie z odpowiednią instrukcją",
+        "C": "Na podstawie danych z kart katalogowych budowli i urządzeń",
+        "D": "Na podstawie danych o minimalnych wymiarach budowli i urządzeń ze skrajni budowli"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 11 ust. 5",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "ac62bb11-a6b1-4631-a111-eaf2a038a952",
+      "question": "Na ile sposobów określa się możliwości przewozu przesyłek z przekroczoną skrajnią i jak te sposoby się nazywają?",
+      "answers": {
+        "A": "Na dwa sposoby: metodą graficzną i metodą analityczną",
+        "B": "Na trzy sposoby: według stopnia skrajni, według faktycznych wymiarów i z użyciem makiety",
+        "C": "Na dwa sposoby: według stopnia skrajni i według faktycznych wymiarów",
+        "D": "Na dwa sposoby: metodą wyliczeń i metodą porównawczą"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 11 ust. 7",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "da03dfdf-b604-4bb6-a18a-48f0d11322f0",
+      "question": "Jaka jest maksymalna prędkość jazdy przy piątym poziomie prędkości dla przesyłek z przekroczoną skrajnią?",
+      "answers": {
+        "A": "Do 5 km/h z możliwością natychmiastowego zatrzymania",
+        "B": "Do 3 km/h (przeciąganie)",
+        "C": "Do 10 km/h",
+        "D": "Do 40 km/h"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 11 ust. 7 pkt 5",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "5d343720-0d34-4dff-b610-d6f0718b8657",
+      "question": "Jakie dodatkowe wymagania obowiązują przy jeździe z prędkością do 3 km/h (przeciąganie) przy przewozie przesyłek z przekroczoną skrajnią?",
+      "answers": {
+        "A": "Wyłączone napięcie w sieci trakcyjnej i nadzór konwojentów w miejscach minimalnych zapasów, bez konieczności wcześniejszego sprawdzenia stanu toru",
+        "B": "Wcześniejsze sprawdzenie faktycznych wymiarów budowli i przesyłki, stanu toru, wyeliminowanie poszerzeń toru oraz nadzór konwojentów w miejscach minimalnych zapasów",
+        "C": "Możliwość natychmiastowego zatrzymania, wyłączenie napięcia w sieci trakcyjnej i nadzór konwojentów, bez wcześniejszego sprawdzania wymiarów budowli",
+        "D": "Wyłącznie sprawdzenie faktycznych wymiarów budowli i stanu toru, bez konieczności wyeliminowania poszerzeń toru i bez nadzoru konwojentów"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 11 ust. 7 pkt 5",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "c691cc3c-30ba-4081-858b-9389e608e64b",
+      "question": "Jakie warunki przejazdu obowiązują, gdy odstęp ochronny od przesyłki do przewodu jezdnego wynosi od 71 do 99 mm?",
+      "answers": {
+        "A": "Przejazd z prędkością maksymalną i wyłączonym napięciem w sieci trakcyjnej",
+        "B": "Przejazd z ograniczeniem prędkości do 30 km/h",
+        "C": "Przejazd z ograniczeniem prędkości do 5 km/h oraz wyłączonym napięciem w sieci",
+        "D": "Przejazd na podstawie ustaleń wydanych przez Zakład Linii Kolejowych Zarządcy"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 11 ust. 10",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "46039a5b-bf1b-4a6b-b240-27489486582e",
+      "question": "Przy jakiej wysokości przesyłki ponad główkę szyny na liniach z trakcją elektryczną wymagane jest uszynienie przesyłki?",
+      "answers": {
+        "A": "Gdy wysokość przekracza 4650 mm (lub 5300 mm w przypadku krzyżowania się torów 1520 mm i 1435 mm)",
+        "B": "Gdy wysokość przekracza 5300 mm (lub 4650 mm w przypadku krzyżowania się torów 1520 mm i 1435 mm)",
+        "C": "Gdy wysokość przekracza 4500 mm niezależnie od rodzaju toru",
+        "D": "Gdy wysokość przekracza 5000 mm niezależnie od rodzaju toru"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 11 ust. 12",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "7ba6bfa9-52af-4876-8525-572273567414",
+      "question": "Przejazd przesyłek z przekroczoną skrajnią dowolnego stopnia w strefach dolnej, bocznej i górnej obok budowli usytuowanych zgodnie ze skrajnią budowli może odbywać się z prędkościami określonymi dla:",
+      "answers": {
+        "A": "pociągów pasażerskich dla danego odcinka",
+        "B": "pociągów towarowych dla danego odcinka",
+        "C": "pociągów specjalnych dla danego odcinka",
+        "D": "przesyłek nadzwyczajnych dla danego odcinka"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 11 ust. 1",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "ec172b7d-6899-4edf-9d1a-1d9c4dbb3603",
+      "question": "Jaką metodą powinny być określane możliwości i warunki przewozu przesyłek z przekroczoną skrajnią przez mosty, wiadukty i tunele nie spełniające skrajni budowli?",
+      "answers": {
+        "A": "wyłącznie metodą graficzną",
+        "B": "wyłącznie metodą wyliczeń",
+        "C": "metodą wyliczeń lub metodą graficzną zgodnie z obowiązującymi normami minimalnych dopuszczalnych odstępów",
+        "D": "metodą pomiarową na podstawie oględzin w terenie"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 11 ust. 2",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "9808588d-acde-496a-bab9-d91dea2ded59",
+      "question": "Kto ponosi koszty badania trasy, budowy i rozbiórki makiety przy określaniu możliwości przejazdu przesyłki nadzwyczajnej?",
+      "answers": {
+        "A": "zarządca infrastruktury",
+        "B": "przewoźnik kolejowy",
+        "C": "nadawca przesyłki",
+        "D": "Zakład Linii Kolejowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 11 ust. 4",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "752f9b8a-7a58-4d63-8f87-357f6a0f9a75",
+      "question": "W oparciu o co wykonywane jest określenie możliwości przewozu przesyłek z przekroczoną skrajnią obok budowli i urządzeń?",
+      "answers": {
+        "A": "dane projektowe budowli i urządzeń z dokumentacji technicznej",
+        "B": "dane o faktycznych wymiarach budowli i urządzeń zinwentaryzowanych zgodnie z odpowiednią instrukcją",
+        "C": "dane szacunkowe oparte na pomiarach geodezyjnych linii kolejowej",
+        "D": "dane z kart charakterystyki technicznych budowli i urządzeń wydanych przez zarządcę"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 11 ust. 5",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "568d6b3c-9cc4-420a-9ca0-a708d228e2ed",
+      "question": "Ile poziomów prędkości stosuje się przy wyliczeniach minimalnych odstępów dla przesyłek z przekroczoną skrajnią?",
+      "answers": {
+        "A": "trzy",
+        "B": "cztery",
+        "C": "pięć",
+        "D": "sześć"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 11 ust. 7",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "eebd1013-ebbb-4c70-a855-c9bd0ea9a932",
+      "question": "Jazda z prędkością do 3 km/h (przeciąganie) dla przesyłki z przekroczoną skrajnią wymaga:",
+      "answers": {
+        "A": "wyłącznie nadzoru dyżurnego ruchu na wszystkich stacjach trasy",
+        "B": "wcześniejszego sprawdzenia przed przejazdem faktycznych wymiarów budowli i przesyłki, stanu toru i wyeliminowania poszerzeń toru z nadzorem konwojentów w miejscach minimalnych zapasów",
+        "C": "wyłącznie wyłączenia napięcia w sieci trakcyjnej na czas przejazdu",
+        "D": "wcześniejszego uzgodnienia prędkości z maszynistą oraz obecności kierownika pociągu w kabinie"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 11 ust. 7 pkt 5",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "fb2d5bf8-4679-44f0-bca3-3f219ad1f363",
+      "question": "Jaki minimalny odstęp ochronny od górnej powierzchni przesyłki do przewodu jezdnego pozwala na przejazd z prędkością maksymalną na linii z trakcją elektryczną?",
+      "answers": {
+        "A": "100 mm lub więcej",
+        "B": "150 mm lub więcej",
+        "C": "200 mm lub więcej",
+        "D": "250 mm lub więcej"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 11 ust. 10",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "38fcbdfd-d8c4-41f7-b2d8-9e91abbc8771",
+      "question": "Przy odstępie ochronnym od przesyłki do przewodu jezdnego wynoszącym od 71 do 99 mm, jakie warunki muszą być spełnione przy przejeździe na linii z trakcją elektryczną?",
+      "answers": {
+        "A": "prędkość maksymalna i wyłączone napięcie w sieci trakcyjnej",
+        "B": "ograniczenie prędkości do 30 km/h",
+        "C": "ograniczenie prędkości do 5 km/h oraz wyłączone napięcie w sieci",
+        "D": "ograniczenie prędkości do 10 km/h z nadzorem konwojenta"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 11 ust. 10",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "33b11293-9b56-4658-9757-82959be09d86",
+      "question": "Przy jakim odstępie ochronnym od przesyłki do przewodu jezdnego wymagane jest uszynienie sieci trakcyjnej na czas przejazdu?",
+      "answers": {
+        "A": "mniej niż 200 mm",
+        "B": "mniej niż 150 mm",
+        "C": "mniej niż 100 mm",
+        "D": "mniej niż 70 mm"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 11 ust. 11",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "86bc1abe-f1fe-4d75-a67e-c4b451ea9ef7",
+      "question": "Jak powinna być uszyniona metalowa przesyłka przewożona bez opakowania, której wysokość przekracza 5300 mm ponad główkę szyny na linii z trakcją elektryczną?",
+      "answers": {
+        "A": "przez nałożenie na górną powierzchnię trwale zamocowanej osłony metalowej połączonej przewodem miedzianym z wagonem",
+        "B": "przez bezpośrednie metaliczne połączenie z wagonem przy użyciu przewodu miedzianego o przekroju co najmniej 35 mm²",
+        "C": "przez połączenie z szyną jezdną za pomocą przewodu stalowego o przekroju co najmniej 50 mm²",
+        "D": "przez nałożenie osłony z materiału izolacyjnego i połączenie z wagonem przewodem miedzianym o przekroju 16 mm²"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 11 ust. 12 pkt 1",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "137ae1d9-200c-4782-8994-716f8094e6cd",
+      "question": "Jaki warunek musi być spełniony, aby przejazd przesyłek z przekroczoną skrajnią dowolnego stopnia obok budowli i urządzeń mógł odbywać się z prędkościami określonymi dla pociągów towarowych?",
+      "answers": {
+        "A": "Budowle i urządzenia muszą być usytuowane zgodnie ze skrajnią budowli",
+        "B": "Przesyłka musi posiadać zgodę Zakładu Linii Kolejowych na przejazd",
+        "C": "Przesyłka musi być przewożona z ograniczeniem prędkości do 40 km/h",
+        "D": "Musi być wykonana makieta sprawdzająca warunki przejazdu"
+      },
+      "correct": "A",
+      "explanation": "Ir-10a § 11 ust. 1",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "9cf2a054-0009-46eb-93a7-f19b25b27802",
+      "question": "W jaki sposób może być określona możliwość przepuszczenia przesyłek nadzwyczajnych przez daną budowlę?",
+      "answers": {
+        "A": "Wyłącznie przez porównanie wymiarów przesyłki z parametrami skrajni budowli",
+        "B": "Wyłącznie przez przegląd dokumentacji technicznej budowli",
+        "C": "Poprzez przejazd specjalnie wykonanej makiety dla sprawdzenia na gruncie",
+        "D": "Poprzez obliczenia matematyczne wykonane przez zarządcę infrastruktury"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 11 ust. 3",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "1a3792f8-8812-494a-aa16-8a88315babc7",
+      "question": "Jaka maksymalna prędkość obowiązuje przy piątym poziomie prędkości (przeciąganie) podczas przejazdu przesyłek z przekroczoną skrajnią?",
+      "answers": {
+        "A": "Do 5 km/h",
+        "B": "Do 3 km/h",
+        "C": "Do 10 km/h",
+        "D": "Do 1 km/h"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 11 ust. 7 pkt 5",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "4c8bba8e-6dfd-42e5-af53-93545d7d6cef",
+      "question": "Do czego stosuje się pierwszy sposób określania możliwości przewozu przesyłek z przekroczoną skrajnią (według stopnia skrajni)?",
+      "answers": {
+        "A": "Do dodatkowego sprawdzenia w przypadkach, gdy przesyłka wychodzi poza stopień skrajni nieznacznie",
+        "B": "Do określenia schematów przewozu przez linie i operacyjnych decyzji o kierunkach przewozu",
+        "C": "Wyłącznie do przesyłek ponadgabarytowych na liniach dwutorowych",
+        "D": "Do weryfikacji wymiarów makiety przed przejazdem próbnym"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 11 ust. 7",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "6ea3b81a-6495-46a2-aee9-33d26c4fe818",
+      "question": "Jaki odstęp ochronny między przesyłką a zawieszeniem sieci trakcyjnej wymaga ograniczenia prędkości do 30 km/h?",
+      "answers": {
+        "A": "71 do 99 mm",
+        "B": "100 do 149 mm",
+        "C": "150 do 199 mm",
+        "D": "200 do 249 mm"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 11 ust. 10",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "a367b719-6c8a-40cd-94a0-69e585138378",
+      "question": "Czym powinien kierować się przede wszystkim Zarządca rozpatrując wniosek o zgodę na przewóz przesyłki nadzwyczajnej?",
+      "answers": {
+        "A": "Względami bezpieczeństwa ruchu i przewożonej przesyłki oraz mogącymi powstać trudnościami eksploatacyjnymi",
+        "B": "Wyłącznie wysokością kosztów związanych z przewozem i czasem trwania przewozu",
+        "C": "Rodzajem wagonu wskazanego przez przewoźnika i dopuszczalnym obciążeniem na oś",
+        "D": "Warunkami eksploatacyjnymi na całej drodze przewozu i potrzebą dodatkowego badania trasy"
+      },
+      "correct": "A",
+      "explanation": "Ir-10a § 12 ust. 1",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "3c1d5f04-e93a-4f6a-8064-82327eb65216",
+      "question": "Jakich danych należy używać przy rozpatrywaniu wniosku o przewóz przesyłki nadzwyczajnej w celu zapewnienia bezpieczeństwa ruchu?",
+      "answers": {
+        "A": "Przybliżonych wymiarów przeszkód skrajni budowli i orientacyjnych obciążeń dopuszczalnych",
+        "B": "Dokładnych i aktualnych wymiarów przeszkód skrajni budowli z szerokościami międzytorzy, wysokościami zawieszenia sieci trakcyjnej oraz wykazem dopuszczalnych obciążeń na oś i metr bieżący toru",
+        "C": "Wyłącznie wysokości zawieszenia sieci trakcyjnej i szerokości skrajni taboru",
+        "D": "Aktualnych rozkładów jazdy i obciążeń ruchem pociągów na danej trasie"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 12 ust. 1",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "8fc1dc8b-854a-46b1-84fd-c61dbffb5a9c",
+      "question": "Co bierze pod uwagę Zarządca ustalając drogę i warunki przewozu przesyłki nadzwyczajnej w zakresie geometrii toru?",
+      "answers": {
+        "A": "Wyłącznie dopuszczalne obciążenie na oś wagonu",
+        "B": "Wielkość odchylenia przesyłki na łukach oraz odchylenia eksploatacyjne i wielkości przechyłki toru",
+        "C": "Wyłącznie rodzaj nawierzchni torowej i rok budowy toru",
+        "D": "Konieczność zamknięcia sąsiedniego toru szlakowego i potrzebę wyłączenia napięcia"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 12 ust. 2 pkt 2 i 3",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "67fc699a-aa13-46e0-9da6-05630c8cf581",
+      "question": "W jakim celu przy ustalaniu warunków przewozu przesyłki nadzwyczajnej bierze się pod uwagę możliwość częściowego demontażu przesyłki?",
+      "answers": {
+        "A": "W celu zmniejszenia wysokości kosztów związanych z przewozem",
+        "B": "W celu umożliwienia załadowania przesyłki na wagon",
+        "C": "W celu zmniejszenia lub uniknięcia przekroczenia skrajni",
+        "D": "W celu skrócenia czasu trwania przewozu"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 12 ust. 2 pkt 7",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "9bb8f701-ac15-4cf8-a88e-b0f6ec73ddd1",
+      "question": "Co oznacza nalepka zgodna z załącznikiem nr 23 umieszczona na wagonie z przesyłką nadzwyczajną?",
+      "answers": {
+        "A": "Że przewóz odbywa się w komunikacji międzynarodowej",
+        "B": "Oznaczenie strony wagonu, po której znajduje się najbardziej krytyczny punkt przesyłki, gdy przekroczenie skrajni ma wpływ na kierunek przewozu",
+        "C": "Że przesyłka wymaga dozorowania podczas całego przewozu",
+        "D": "Oznaczenie dopuszczalnej prędkości jazdy na poszczególnych odcinkach trasy"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 12 ust. 2 pkt 11",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "50c179e7-e6c5-4d91-89fd-b54b945da77e",
+      "question": "Kto określa warunki przewozu przesyłek, których obciążenie na oś lub na metr bieżący toru jest większe od dopuszczalnych?",
+      "answers": {
+        "A": "Stanowisko ds. przewozów nadzwyczajnych w Ekspozyturze właściwej dla stacji nadania",
+        "B": "Samodzielne Wieloosobowe Stanowisko ds. przewozów nadzwyczajnych",
+        "C": "Właściwy Zakład Linii Kolejowych",
+        "D": "Przewoźnik składający wniosek o zgodę na przewóz"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 12 ust. 3",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "953459e4-7f47-4662-ba8c-561a4f21f7a1",
+      "question": "Z kim zobowiązane jest pisemnie uzgodnić przewóz stanowisko ds. przewozów nadzwyczajnych w Ekspozyturze właściwej dla stacji nadania?",
+      "answers": {
+        "A": "Z właściwym Zakładem Linii Kolejowych i przewoźnikiem składającym wniosek",
+        "B": "Ze stanowiskami ds. przewozów nadzwyczajnych w Ekspozyturach biorących udział w przewozie",
+        "C": "Z Samodzielnym Wieloosobowym Stanowiskiem ds. przewozów nadzwyczajnych",
+        "D": "Wyłącznie z Ekspozyturas stacji przeznaczenia"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 12 ust. 4",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "17bfb0b9-bd83-4454-a1c3-d5142fe905db",
+      "question": "Co podaje każde stanowisko ds. przewozów nadzwyczajnych w Ekspozyturze uczestniczące w przewozie, wyrażając zgodę na przewóz przesyłki nadzwyczajnej?",
+      "answers": {
+        "A": "Wyłącznie wysokość kosztów i czas trwania przewozu na własnym terenie",
+        "B": "Ogólne warunki bezpieczeństwa obowiązujące na całej drodze przewozu",
+        "C": "Dokładne warunki i drogę przewozu na własnym terenie",
+        "D": "Informacje o wolnej przestrzeni pod obiektami krytycznymi na całej trasie"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 12 ust. 6",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "75951026-9665-4b4d-af3e-8aa8d5339a3e",
+      "question": "Kto uzgadnia warunki przewozu ze stanowiskami ds. przewozów nadzwyczajnych w Ekspozyturach uczestniczących w przewozie przy komunikacji międzynarodowej?",
+      "answers": {
+        "A": "Stanowisko ds. przewozów nadzwyczajnych w Ekspozyturze właściwej dla stacji nadania",
+        "B": "Właściwy Zakład Linii Kolejowych Zarządcy",
+        "C": "Samodzielne Wieloosobowe Stanowisko ds. przewozów nadzwyczajnych",
+        "D": "Przewoźnik wnioskujący o zgodę na przewóz"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 12 ust. 7",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "f75ba9fe-f47d-462b-86bb-08ac21d175ec",
+      "question": "Jaka maksymalna szerokość przesyłki nadzwyczajnej rozmieszczonej w granicach długości podłogi uniwersalnych platform i węglarek pozwala na ruch równoległy po sąsiednich torach bez wstrzymania ruchu?",
+      "answers": {
+        "A": "1625 mm",
+        "B": "1700 mm",
+        "C": "1750 mm",
+        "D": "1800 mm"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 13 ust. 2 pkt 2",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "f47d6baf-ef9f-43df-bc1c-889841b47f36",
+      "question": "Kto wydaje zgodę na przewóz przesyłki nadzwyczajnej w komunikacji krajowej?",
+      "answers": {
+        "A": "Samodzielne Wieloosobowe Stanowisko ds. przewozów nadzwyczajnych",
+        "B": "Stanowisko ds. przewozów nadzwyczajnych w Ekspozyturze właściwej dla stacji nadania",
+        "C": "Stanowisko ds. przewozów nadzwyczajnych w Ekspozyturze właściwej dla stacji przeznaczenia",
+        "D": "Zarządca infrastruktury kolejowej na wniosek przewoźnika"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 14 ust. 1",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "5cbd2881-624a-4bc7-abae-2cfff80ab9d4",
+      "question": "W jakim terminie powinna być wydana zgoda na przewóz przesyłki nadzwyczajnej w komunikacji międzynarodowej?",
+      "answers": {
+        "A": "Do 7 dni od daty złożenia wniosku",
+        "B": "Do 21 dni od daty złożenia wniosku",
+        "C": "Do 14 dni od daty złożenia wniosku",
+        "D": "Do 30 dni od daty złożenia wniosku"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 14 ust. 2",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "54be181c-9ede-470c-b907-de55adb77643",
+      "question": "W jakich okolicznościach zgoda na przewóz przesyłki nadzwyczajnej jest wydawana bezzwłocznie?",
+      "answers": {
+        "A": "Gdy przewoźnik złoży wniosek z co najmniej 30-dniowym wyprzedzeniem, co umożliwia przeprowadzenie pełnego badania trasy i uzgodnień z zarządcą infrastruktury",
+        "B": "W sytuacjach niecierpiących zwłoki oraz gdy przewóz uzasadniony jest ważnymi względami obronności lub bezpieczeństwa Państwa",
+        "C": "Gdy przesyłka nie przekracza skrajni budowli na całej trasie przewozu i nie zachodzi konieczność dodatkowych uzgodnień z zarządcami sąsiednich sieci",
+        "D": "Gdy przewóz dotyczy stałych relacji i stałych warunków przewozu, dla których Zarządca wydał już zgodę na okres obowiązywania rozkładu jazdy"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 14 ust. 3",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "401b6827-b963-4d1c-8d2e-e7356d07291f",
+      "question": "Na jaki standardowy okres ważna jest zgoda na przewóz przesyłki nadzwyczajnej?",
+      "answers": {
+        "A": "Dwa miesiące od dnia przekazania przewoźnikowi lub od daty wskazanej w zgodzie",
+        "B": "Sześć miesięcy od dnia przekazania przewoźnikowi lub od daty wskazanej w zgodzie",
+        "C": "Cztery miesiące od dnia przekazania przewoźnikowi lub od daty wskazanej w zgodzie",
+        "D": "Trzy miesiące od dnia przekazania przewoźnikowi lub od daty wskazanej w zgodzie"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 14 ust. 4",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "4a968ae9-e1ce-4cc9-b7a0-4c59f5204544",
+      "question": "Przez kogo może być wykorzystana zgoda na przewóz przesyłki nadzwyczajnej?",
+      "answers": {
+        "A": "Przez dowolnego przewoźnika posiadającego licencję na przewozy kolejowe",
+        "B": "Przez przewoźnika wskazanego w zgodzie lub jego podwykonawcę",
+        "C": "Jedynie przez tego przewoźnika, któremu została wydana",
+        "D": "Przez każdego przewoźnika działającego na danej trasie przewozu"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 14 ust. 6",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "6dcd4e11-b428-4179-85a2-e3f42ad728c8",
+      "question": "Kto ponosi koszty badania trasy, budowy i rozbiórki makiety przesyłki nadzwyczajnej?",
+      "answers": {
+        "A": "Zarządca infrastruktury kolejowej",
+        "B": "Przewoźnik/aplikant",
+        "C": "Koszty są dzielone po połowie między Zarządcę a przewoźnika",
+        "D": "Urząd Transportu Kolejowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 14 ust. 12",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "4adcd68b-2f25-4fe0-80c9-d2ee132d38f1",
+      "question": "W jakich przypadkach przewóz przesyłki nadzwyczajnej może być uruchomiony oddzielną lokomotywą na pisemną prośbę przewoźnika?",
+      "answers": {
+        "A": "Wyłącznie gdy masa przesyłki przekracza dopuszczalne naciski na oś",
+        "B": "Na pisemną prośbę przewoźnika lub gdy przewóz pociągami towarowymi stałego kursowania mógłby wywoływać zakłócenia w ruchu",
+        "C": "Wyłącznie gdy przewóz dotyczy komunikacji międzynarodowej",
+        "D": "Na pisemną prośbę przewoźnika lub gdy przesyłka wymaga specjalnego wagonu-platformy"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 14 ust. 14",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "df3c28e9-34be-4437-aaac-d125874a38b6",
+      "question": "Na ile czasu przed planowaną godziną zgłoszenia gotowości do odjazdu pociągu przewoźnik powinien przesłać protokół komisyjnego sprawdzenia przesyłki nadzwyczajnej do stanowiska ds. przewozów nadzwyczajnych?",
+      "answers": {
+        "A": "Co najmniej 2 godziny",
+        "B": "Co najmniej 30 minut",
+        "C": "Co najmniej 1 godzinę",
+        "D": "Co najmniej 3 godziny"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 15 ust. 1",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "2b688280-54f5-4f71-ba06-06ceb0fad743",
+      "question": "Który z wymienionych rodzajów przewozów jest zwolniony z obowiązku sporządzenia protokołu komisyjnego sprawdzenia przesyłki nadzwyczajnej, mimo przekroczenia skrajni?",
+      "answers": {
+        "A": "Wagony-cysterny o przekroczonej skrajni taboru",
+        "B": "Jednostki ładunkowe transportu intermodalnego",
+        "C": "Wagony odkryte z ładunkiem ponadgabarytowym",
+        "D": "Lokomotywy z przekroczoną skrajnią taboru w pociągach towarowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 15 ust. 2 pkt 1",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "a19aa0c1-7395-42fd-9165-3a17e308d481",
+      "question": "Kto pełni funkcję przewodniczącego komisji podczas komisyjnego przyjęcia przesyłki nadzwyczajnej do przewozu?",
+      "answers": {
+        "A": "Uprawniony pracownik nadawcy",
+        "B": "Uprawniony pracownik zarządcy infrastruktury",
+        "C": "Uprawniony pracownik przewoźnika",
+        "D": "Uprawniony pracownik stacji nadania"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 15 ust. 5",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "ddb0461e-6dc5-4178-939e-b74f5e841068",
+      "question": "Co powinien zrobić przewoźnik, gdy nie jest w stanie usunąć nieprawidłowości stwierdzonych podczas przekazywania przesyłki nadzwyczajnej za granicę?",
+      "answers": {
+        "A": "Przekazać przesyłkę mimo nieprawidłowości i poinformować odbiorcę",
+        "B": "Zatrzymać przesyłkę i powiadomić pisemnie właściwe stanowisko ds. przewozów nadzwyczajnych z podaniem przyczyn",
+        "C": "Sporządzić protokół i niezwłocznie skierować przesyłkę do stacji nadania bez powiadamiania",
+        "D": "Zwrócić przesyłkę nadawcy bez sporządzania dokumentacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 16 ust. 2",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "dd5982fa-185f-46bf-83ff-a4767b8cc0f1",
+      "question": "Jak powinno odbywać się przyjmowanie przesyłek nadzwyczajnych na przejściu granicznym?",
+      "answers": {
+        "A": "Jednostronnie przez przewoźnika przyjmującego, bez sporządzania protokołu",
+        "B": "Komisyjnie na stronie zdającej lub przyjmującej, zgodnie z postanowieniami MPG, z zakończeniem sporządzeniem protokołu komisyjnego",
+        "C": "Wyłącznie przez przewoźnika zdającego, z powiadomieniem stacji granicznej",
+        "D": "Komisyjnie wyłącznie na stronie przyjmującej, bez konieczności sporządzania protokołu"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 16 ust. 3",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "b74b382e-1ed1-4748-83bc-3b7112fc03f7",
+      "question": "Kto wydaje zarządzenie przewozu przesyłki nadzwyczajnej?",
+      "answers": {
+        "A": "Stanowisko ds. przewozów nadzwyczajnych w Ekspozyturze właściwej dla stacji nadania lub stacji granicznej przyjęcia przesyłki",
+        "B": "Dyżurny ruchu na drodze przewozu przesyłki nadzwyczajnej, po otrzymaniu zgłoszenia od przewoźnika lub aplikanta",
+        "C": "Przewoźnik lub aplikant zgłaszający przesyłkę do przewozu, po uzyskaniu zgody od Ekspozytury ds. przewozów nadzwyczajnych",
+        "D": "Stanowisko ds. przewozów nadzwyczajnych w Centrali Zarządcy infrastruktury właściwej dla drogi przewozu przesyłki"
+      },
+      "correct": "A",
+      "explanation": "Ir-10a § 17 ust. 1",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "b2f1ab20-e9a8-4f0b-9731-2ed81f5d4d81",
+      "question": "W jaki sposób zarządzenie przewozu przesyłki nadzwyczajnej jest przekazywane dyżurnym ruchu na drodze przewozu?",
+      "answers": {
+        "A": "Pisemnie, za pośrednictwem przewoźnika",
+        "B": "Telefonicznie przez pracownika Ekspozytury",
+        "C": "Poprzez System Ewidencji Telegramów",
+        "D": "Poprzez System Obsługi Przesyłek Nadzwyczajnych"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 17 ust. 3",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "1fff39ec-c465-4af9-bcca-bc851c064d6f",
+      "question": "Kto powiadamia pracowników wyznaczonych do konwojowania przesyłki nadzwyczajnej?",
+      "answers": {
+        "A": "Dyspozytorzy właściwych zakładów na podstawie informacji od dyspozytorów Ekspozytur nadzorujących ruch pociągów",
+        "B": "Drużyna pociągowa na podstawie dokumentów dostarczonych przez przewoźnika",
+        "C": "Nadawca lub jego przedstawiciel bezpośrednio przed odjazdem pociągu",
+        "D": "Ekspozytury uruchamiające przewóz na podstawie zarządzenia przewozu"
+      },
+      "correct": "A",
+      "explanation": "Ir-10a § 18 ust. 3",
+      "section_ref": "§ 18",
+      "section": 18
+    },
+    {
+      "uuid": "8a8c1f30-2f8e-4ad3-b3b4-8aedaa9cad6f",
+      "question": "Kto, oprócz uprawnionych pracowników wyznaczonych przez Zakład Linii Kolejowych, może brać udział w konwoju przesyłki nadzwyczajnej?",
+      "answers": {
+        "A": "Dyspozytorzy Ekspozytur nadzorujących ruch pociągów",
+        "B": "Nadawca lub jego przedstawiciel, a w przypadku wagonu prywatnego również właściciel wagonu",
+        "C": "Wyłącznie pracownicy przewoźnika posiadający stosowne uprawnienia",
+        "D": "Drużyna pociągowa oraz pracownicy stacji pośrednich"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 18 ust. 2",
+      "section_ref": "§ 18",
+      "section": 18
+    },
+    {
+      "uuid": "493732fa-b81b-4249-9f32-172f203ec6d8",
+      "question": "Do jakiego podmiotu należy zgłosić przewóz przesyłki nadzwyczajnej w celu nadania zarządzenia przewozu?",
+      "answers": {
+        "A": "Do Zakładu Linii Kolejowych właściwego dla trasy przewozu",
+        "B": "Do drużyny pociągowej realizującej przewóz",
+        "C": "Do Ekspozytury uruchamiającej przewóz",
+        "D": "Do nadawcy przesyłki przed załadunkiem"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 18 ust. 5",
+      "section_ref": "§ 18",
+      "section": 18
+    },
+    {
+      "uuid": "da9942d6-60f0-442b-a222-e3a4885693b8",
+      "question": "W których komórkach dyspozytorskich sprawowany jest nadzór nad przewozem przesyłek nadzwyczajnych?",
+      "answers": {
+        "A": "W Dyspozyturze Głównej CZRKol, Ekspozyturach Zarządzania Ruchem Kolejowym oraz Zakładach Linii Kolejowych",
+        "B": "W Dyspozyturze Głównej CZRKol, Regionalnych Centrach Sterowania oraz Zakładach Linii Kolejowych",
+        "C": "W Ekspozyturach Zarządzania Ruchem Kolejowym, Regionalnych Centrach Sterowania oraz Zakładach Linii Kolejowych",
+        "D": "W Dyspozyturze Głównej CZRKol, Ekspozyturach Zarządzania Ruchem Kolejowym oraz Posterunkach Ruchu"
+      },
+      "correct": "A",
+      "explanation": "Ir-10a § 19 ust. 1",
+      "section_ref": "§ 19",
+      "section": 19
+    },
+    {
+      "uuid": "38bfc66a-51bb-44d0-88b9-faaad51c2d77",
+      "question": "Co stanowi podstawowa skrajnia na liniach 1520 mm?",
+      "answers": {
+        "A": "Zarys figury płaskiej stanowiący podstawę do określania największych dopuszczalnych wymiarów przesyłki spoczywającej na wagonie – pionowych licząc od górnej powierzchni główki szyny oraz poziomych licząc od osi toru",
+        "B": "Zarys figury przestrzennej stanowiący podstawę do określania największych dopuszczalnych wymiarów pojazdu trakcyjnego – pionowych licząc od górnej powierzchni główki szyny oraz poziomych licząc od osi toru",
+        "C": "Zarys figury płaskiej stanowiący podstawę do określania największych dopuszczalnych wymiarów budowli – pionowych licząc od górnej powierzchni główki szyny oraz poziomych licząc od osi toru",
+        "D": "Zarys figury płaskiej stanowiący podstawę do określania najmniejszych dopuszczalnych wymiarów przesyłki spoczywającej na wagonie – pionowych licząc od górnej powierzchni główki szyny oraz poziomych licząc od osi toru"
+      },
+      "correct": "A",
+      "explanation": "Ir-10a § 2 ust. 1 pkt 4",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "b32e96a6-1139-47ac-8ff6-8ae5a7243fbc",
+      "question": "Które skrajnie statyczne taboru w komunikacji przestawczej występują na liniach 1520 mm Zarządcy?",
+      "answers": {
+        "A": "T, Tc, Tpr, 1-T",
+        "B": "1-WM, 0-WM, 02-WM, 03-WM",
+        "C": "1-WM, 0-WM, T, Tc",
+        "D": "02-WM, 03-WM, Tpr, 1-T"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 2 ust. 1 pkt 2",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "0b68d4ab-a75d-426c-bbf8-a362b53620b3",
+      "question": "Komu Zakłady Linii Kolejowych przekazują zatwierdzone obrysy skrajni z naniesionymi przeszkodami?",
+      "answers": {
+        "A": "Właściwym Ekspozyturom",
+        "B": "Właściwym Dyrekcjom Regionalnym",
+        "C": "Właściwym Centrom Sterowania",
+        "D": "Właściwym Zakładom Infrastruktury"
+      },
+      "correct": "A",
+      "explanation": "Ir-10a § 20 ust. 1",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "2150bccb-fdfd-4f85-843e-834bd58175a4",
+      "question": "W jakim terminie Zakłady Linii Kolejowych przekazują zatwierdzone obrysy skrajni z naniesionymi przeszkodami do właściwych Ekspozytur?",
+      "answers": {
+        "A": "W terminie do 14 dni od zatwierdzenia",
+        "B": "Bezzwłocznie",
+        "C": "W terminie do 30 dni od zatwierdzenia",
+        "D": "Do końca miesiąca kalendarzowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 20 ust. 1",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "f70240e7-9b0a-4c9e-9d26-89b0ec61d99b",
+      "question": "Co musi zawierać wskazanie dokładnej lokalizacji usytuowania przeszkody w obrysi skrajni?",
+      "answers": {
+        "A": "Nr linii, toru, kilometr i stronę (prawa lub lewa) zgodnie z km linii",
+        "B": "Nr linii, toru, kilometr i nazwę stacji sąsiadujących",
+        "C": "Nr linii, kilometr, stronę i opis terenu otoczenia",
+        "D": "Nr toru, kilometr, stronę i datę pomiaru"
+      },
+      "correct": "A",
+      "explanation": "Ir-10a § 20 ust. 1 pkt 1",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "cb07d027-1e71-4084-b905-661da6b60fde",
+      "question": "Co rozumie się przez rodzaj przeszkody wskazywany w obrysi skrajni?",
+      "answers": {
+        "A": "Numer ewidencyjny obiektu inżynieryjnego",
+        "B": "Nazwę przeszkody, np. elementy konstrukcji mostu, peron, sieć trakcyjna",
+        "C": "Kategorie zagrożeń związaną z rodzajem taboru",
+        "D": "Kod klasyfikacyjny przeszkody przypisany przez zarządcę infrastruktury"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 20 ust. 1 pkt 2",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "b74041af-b5a7-4f85-8ccd-42a8e4a273b7",
+      "question": "Jakie informacje dotyczące ograniczeń muszą być wskazane w obrysi skrajni przy opisie przeszkody?",
+      "answers": {
+        "A": "Ograniczenia masy taboru przy przejeździe obok przeszkody",
+        "B": "Ograniczenia w prowadzeniu ruchu określonego rodzaju taboru, np. przejazd obok przeszkody z ograniczoną prędkością",
+        "C": "Ograniczenia czasu przejazdu obok przeszkody wynikające z harmonogramu robót",
+        "D": "Ograniczenia liczby wagonów w składzie przy przejeździe obok przeszkody"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 20 ust. 1 pkt 3",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "cbe5fbfb-75ef-4a23-a1bf-bf05bb42544e",
+      "question": "Co Zakłady Linii Kolejowych są zobowiązane uaktualnić bezzwłocznie po każdej zmianie parametrów wynikającej z robót torowych?",
+      "answers": {
+        "A": "Obniżenia zawieszenia sieci poniżej 5600 mm, wykaz szerokości międzytorzy oraz obrysy skrajni z naniesionymi przeszkodami",
+        "B": "Obniżenia zawieszenia sieci poniżej 4800 mm, wykaz szerokości międzytorzy oraz obrysy skrajni z naniesionymi przeszkodami",
+        "C": "Obniżenia zawieszenia sieci poniżej 5600 mm, wykaz kątów nachylenia torów oraz obrysy skrajni z naniesionymi przeszkodami",
+        "D": "Obniżenia zawieszenia sieci poniżej 5600 mm, wykaz szerokości międzytorzy oraz protokoły komisyjnego sprawdzenia przesyłek"
+      },
+      "correct": "A",
+      "explanation": "Ir-10a § 20 ust. 2",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "3dc52497-f8d0-4b96-93e9-34cc1fa0d00d",
+      "question": "Jaka jest dopuszczalna forma uaktualnionych obrysow skrajni przekazywanych przez Zakłady Linii Kolejowych?",
+      "answers": {
+        "A": "Wyłącznie forma elektroniczna",
+        "B": "Wyłącznie forma papierowa",
+        "C": "Dopuszczalna forma papierowa lub elektroniczna",
+        "D": "Forma papierowa poświadczona notarialnie lub elektroniczna z kwalifikowanym podpisem"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 20 ust. 2",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "02171c96-cc4d-48e4-8142-e2c427e88872",
+      "question": "W przypadku braku zmian parametrów, kiedy Zakłady Linii Kolejowych dostarczają informację o aktualności parametrów?",
+      "answers": {
+        "A": "Corocznie do końca września",
+        "B": "Corocznie do końca listopada",
+        "C": "Co dwa lata do końca października",
+        "D": "Corocznie do końca października"
+      },
+      "correct": "D",
+      "explanation": "Ir-10a § 20 ust. 2",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "bd10a7be-0048-4219-9b84-e30ee9012a3e",
+      "question": "Wedlug jakiego wzoru załącznika Zakłady Linii Kolejowych uaktualniają obrysy skrajni z naniesionymi przeszkodami?",
+      "answers": {
+        "A": "Wzoru stanowiącego załącznik nr 22",
+        "B": "Wzoru stanowiącego załącznik nr 24",
+        "C": "Wzoru stanowiącego załącznik nr 25",
+        "D": "Wzoru stanowiącego załącznik nr 26"
+      },
+      "correct": "D",
+      "explanation": "Ir-10a § 20 ust. 2",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "36a5bd92-7d8f-4612-90fb-19fe397c3b83",
+      "question": "Co jest przedmiotem załącznika nr 21 do Ir-10a?",
+      "answers": {
+        "A": "Wzor uzgodnienia przewozu",
+        "B": "Protokół komisyjnego sprawdzenia przesyłki",
+        "C": "Wzor nalepki dla przesyłki o określonym kierunku przewozu z przekroczoną skrajnią ładunkową",
+        "D": "Zasady przekazywania informacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 20",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "12fdb81c-c58d-4b7b-ae20-6d3f83f7a8ec",
+      "question": "Kto decyduje o uznaniu przesyłki za nadzwyczajną?",
+      "answers": {
+        "A": "Wyłącznie przewoźnik na podstawie własnej oceny technicznej",
+        "B": "Zarządca oraz przewoźnik, który musi uzyskać zgodę od Zarządcy",
+        "C": "Wyłącznie Zarządca infrastruktury bez udziału przewoźnika",
+        "D": "Urząd Transportu Kolejowego na wniosek przewoźnika"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 3 ust. 2",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "441f9423-876e-4a55-8064-c5dc9041788b",
+      "question": "Co jest podstawą przyjęcia przesyłki nadzwyczajnej do przewozu przez Zarządcę?",
+      "answers": {
+        "A": "Decyzja administracyjna wydana przez urząd nadzoru kolejowego",
+        "B": "Umowa między nadawcą a przewoźnikiem bez udziału Zarządcy",
+        "C": "Wniosek o zgodę na przewóz przesyłki nadzwyczajnej złożony przez przewoźnika",
+        "D": "Automatyczne dopuszczenie po spełnieniu wymogów technicznych wagonu"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 3 ust. 1",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "a83cb06a-65aa-4109-bd8e-00a7a8489552",
+      "question": "Z jakich powodów przewóz rzeczy lub pojazdów może być zakwalifikowany jako przesyłka nadzwyczajna?",
+      "answers": {
+        "A": "Wyłącznie ze względu na kształt, rozmiary lub masę",
+        "B": "Ze względu na kształt, rozmiary lub masę, sposób załadowania, użyte środki przewozowe lub drogę przewozu",
+        "C": "Ze względu na wartość towaru i konieczność specjalnego ubezpieczenia",
+        "D": "Ze względu na wymagania celne i przepisy o ochronie środowiska"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 3 ust. 1",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "abb6c567-1e4f-49aa-b05a-ef3bada88520",
+      "question": "Jak klasyfikowane są przesyłki na otwartych wagonach Państw WNP, Litwy, Łotwy i Estonii, jeśli przekraczają obrys podstawowej skrajni?",
+      "answers": {
+        "A": "Jako przesyłki normalne wymagające dodatkowego ubezpieczenia",
+        "B": "Jako przesyłki ponadgabarytowe kategorii specjalnej",
+        "C": "Jako przesyłki nadzwyczajne",
+        "D": "Jako przesyłki objęte zakazem przewozu bez zgody UTK"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 3 ust. 4 pkt 1",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "22b9d9f4-1d59-47e9-932e-ee83d8f1a6ef",
+      "question": "O ile mm ładunek może wystawać na długości z jednej lub obu stron ramy wagonu, żeby przesyłka była traktowana jako wyjątkowo długa przesyłka nadzwyczajna?",
+      "answers": {
+        "A": "Więcej niż 200 mm",
+        "B": "Więcej niż 300 mm",
+        "C": "Więcej niż 400 mm",
+        "D": "Więcej niż 500 mm"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 3 ust. 4 pkt 5",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "a1f319d2-30b6-41b9-b361-308c8bf659a1",
+      "question": "Ile wynosi najmniejsza dopuszczalna odległość od poziomu główki szyny do dolnych części przesyłki dla wagonów o odległości między czopami skrętów większej niż 17 m, przepuszczalnych przez górki rozrządowe?",
+      "answers": {
+        "A": "Nie mniej niż 100 mm",
+        "B": "Nie mniej niż 120 mm",
+        "C": "Nie mniej niż 150 mm",
+        "D": "Nie mniej niż 200 mm"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 3 ust. 6",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "2ce03ca7-ced7-454d-be61-c33709f8d1c1",
+      "question": "Ile podstawowych stref przekroczonej skrajni wyróżnia się w zależności od wysokości od poziomu główki szyny?",
+      "answers": {
+        "A": "Dwie strefy: dolną i górną",
+        "B": "Trzy strefy: dolną, boczną i górną",
+        "C": "Cztery strefy: dolną, boczną, górną i pionową",
+        "D": "Pięć stref odpowiadających znakom indeksu przekroczonej skrajni"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 3 ust. 8",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "238bcfd7-1c7d-4abe-ad52-4e10fd722c63",
+      "question": "Na jakiej wysokości od główki szyny znajduje się strefa boczna przekroczonej skrajni?",
+      "answers": {
+        "A": "Od 480 mm do 1399 mm",
+        "B": "Od 1400 mm do 4000 mm włącznie",
+        "C": "Od 4001 mm do 5300 mm",
+        "D": "Od 1230 mm do 4000 mm"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 3 ust. 8 pkt 2",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "246e0659-03d9-4469-bdab-c4791ddd9705",
+      "question": "Na jakiej wysokości od główki szyny znajduje się strefa górna przekroczonej skrajni ładunkowej?",
+      "answers": {
+        "A": "Od 1400 mm do 4000 mm włącznie",
+        "B": "Od 3800 mm do 5300 mm",
+        "C": "Od 4001 mm do 5300 mm",
+        "D": "Od 4500 mm do 5500 mm"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 3 ust. 8 pkt 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "52f91de0-7dcb-452c-b9fa-45f035cd1b5c",
+      "question": "Ile stopni przekroczenia skrajni wyróżnia się w strefie dolnej?",
+      "answers": {
+        "A": "3 stopnie",
+        "B": "4 stopnie",
+        "C": "5 stopni",
+        "D": "6 stopni"
+      },
+      "correct": "D",
+      "explanation": "Ir-10a § 3 ust. 9 pkt 1",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "4dfc7083-d23e-4d1b-a9d6-abcae12b923b",
+      "question": "Ile stopni przekroczenia skrajni wyróżnia się w strefie górnej?",
+      "answers": {
+        "A": "2 stopnie",
+        "B": "3 stopnie",
+        "C": "4 stopnie",
+        "D": "6 stopni"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 3 ust. 9 pkt 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "85806fbb-219c-4f93-b7d4-d2255babee91",
+      "question": "Jaką wartość przyjmuje pierwszy znak 5-znakowego indeksu przekroczonej skrajni?",
+      "answers": {
+        "A": "Cyfra 0 lub 8 w zależności od kierunku przekroczenia",
+        "B": "Cyfra oznaczająca stopień przekroczenia skrajni dolnej",
+        "C": "Zawsze litera N, oznaczająca przekroczoną skrajnię",
+        "D": "Litera oznaczająca strefę przekroczenia: D, B lub G"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 3 ust. 12 pkt 1",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "e48b7ada-c84e-4aa4-87db-aa4e78d326d5",
+      "question": "Jakie wartości przyjmuje piąty znak indeksu przekroczonej skrajni?",
+      "answers": {
+        "A": "Od 1 do 3",
+        "B": "Od 1 do 6",
+        "C": "0 lub 8",
+        "D": "Litera N lub 0"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 3 ust. 12 pkt 5",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "be81b994-97ec-425b-8b63-cea86ac7de11",
+      "question": "Co oznacza indeks przekroczonej skrajni N8480?",
+      "answers": {
+        "A": "Przesyłka ma przekroczoną skrajnię dolną, 4-ty stopień skrajni bocznej, górną i brak pionowej przekroczonej skrajni",
+        "B": "Przesyłka ma przekroczoną skrajnię dolną, boczną i górną, bez skrajni pionowej",
+        "C": "Przesyłka ma przekroczoną skrajnię dolną i górną, 4-ty stopień przekroczenia skrajni bocznej i nieprzekroczoną pionową skrajnię",
+        "D": "Przesyłka ma 8-my stopień skrajni dolnej, 4-ty bocznej oraz brak skrajni górnej i pionowej"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 3 ust. 12",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "0063c92a-fff0-46db-86eb-ad01c825418e",
+      "question": "Jakie rodzaje wagonów stosuje się do przewozu przesyłek nadzwyczajnych?",
+      "answers": {
+        "A": "Wyłącznie wagony o specjalnej konstrukcji, np. z zagłębioną podłogą lub burtowe",
+        "B": "Wagony typu normalnego lub wagony o specjalnej konstrukcji, np. z zagłębioną podłogą, burtowe, członowe tzw. \"dziobowe\"",
+        "C": "Wyłącznie wagony typu normalnego, niezależnie od wymiarów i masy przesyłki",
+        "D": "Wagony chłodnicze lub wagony z zagłębioną podłogą, w zależności od rodzaju ładunku"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 4 ust. 1",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "3d02ec8d-bb76-45c6-bf61-6187f88d4b8e",
+      "question": "Kto jest zobowiązany do wyboru odpowiedniego rodzaju wagonu, sposobu załadunku i umocowania przesyłki nadzwyczajnej na wagonie?",
+      "answers": {
+        "A": "Nadawca przesyłki",
+        "B": "Przewoźnik kolejowy",
+        "C": "Odbiorca przesyłki",
+        "D": "Zarządca infrastruktury"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 5 ust. 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "c3e47d8b-e627-4ae7-a6e2-760e3e6d0266",
+      "question": "Czym jest punkt wewnętrzny przesyłki?",
+      "answers": {
+        "A": "Punkt leżący pomiędzy zewnętrznymi osiami wagonu bez wózków, przy wagonach na wózkach pomiędzy czopami skrętu wózków lub mostu nośnego albo pomiędzy czopami skrętu ław pokrętnych pary wagonów",
+        "B": "Punkt leżący poza zewnętrznymi osiami wagonu bez wózków, przy wagonach na wózkach poza czopami skrętu wózków lub mostu nośnego albo poza czopami skrętu ław pokrętnych pary wagonów",
+        "C": "Punkt leżący w połowie odległości pomiędzy zewnętrznymi osiami wagonu bez wózków, czopami skrętu wózków lub czopami skrętu mostu nośnego",
+        "D": "Punkt leżący w połowie odległości pomiędzy czopami skrętu ław pokrętnych pary wagonów, wyznaczany podczas postoju wagonu na torze prostym"
+      },
+      "correct": "A",
+      "explanation": "Ir-10a § 6 ust. 1 pkt 1",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "be42fc36-da31-42fc-aaaa-a05760d01bf3",
+      "question": "Czym jest punkt środkowy przesyłki?",
+      "answers": {
+        "A": "Punkt leżący poza czopami skrętu wózków lub mostu nośnego albo poza czopami skrętu ław pokrętnych pary wagonów",
+        "B": "Punkt leżący pomiędzy zewnętrznymi osiami wagonu bez wózków, przy wagonach na wózkach pomiędzy czopami skrętu wózków lub mostu nośnego",
+        "C": "Punkt leżący w połowie odległości pomiędzy zewnętrznymi osiami wagonu bez wózków, czopami skrętu wózków lub czopami skrętu mostu nośnego, czopami skrętu ław pokrętnych pary wagonów",
+        "D": "Punkt leżący w połowie odległości pomiędzy osiami wózka, wyznaczany po obu stronach wagonu"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 6 ust. 1 pkt 3",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "83d9703f-f53a-40ce-9306-a306904ffc8f",
+      "question": "W jaki sposób mierzy się wysokość współrzędnych punktów krytycznych przesyłki?",
+      "answers": {
+        "A": "Poziomo od osi podłużnej wagonu do krawędzi przesyłki w każdym punkcie załamania jego obrysu",
+        "B": "Pionowo od górnej powierzchni główki szyny, oddzielnie dla każdego punktu załamania obrysu przesyłki",
+        "C": "Pionowo od dolnej powierzchni główki szyny do najwyższego punktu przesyłki",
+        "D": "Poziomo od osi poprzecznej wagonu do krawędzi przesyłki w każdym punkcie załamania jego obrysu"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 6 ust. 2 pkt 1",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "3c32fc6e-4415-4812-83d6-0e377a2a2e62",
+      "question": "Co należy przyjąć jako rozstaw osi przy wagonach z dwoma wózkami?",
+      "answers": {
+        "A": "Odległość między osiami zewnętrznymi (skrajnymi)",
+        "B": "Odległość między czopami skrętu mostu nośnego",
+        "C": "Odległość między czopami skrętu wózków",
+        "D": "Odległość między czopami skrętu ław pokrętnych na obu wagonach"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 6 ust. 5 pkt 2",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "91393dbd-6873-45c5-bcae-d7400ce7920a",
+      "question": "Co należy przyjąć jako rozstaw osi w wózku przy wagonach z dwoma wózkami?",
+      "answers": {
+        "A": "Odległość między czopami skrętu ramy nadwózkowej",
+        "B": "Odległość między osiami skrajnymi jednego wózka",
+        "C": "Odległość między czopami skrętu wózków",
+        "D": "Odległość między osiami każdego wagonu"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 6 ust. 6 pkt 1",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "4eb8858b-5f4b-4fdb-9cf2-f8ee54185d3c",
+      "question": "Gdy rozstawy osi wózków są różne, jaki rozstaw należy przyjąć dla punktu zewnętrznego?",
+      "answers": {
+        "A": "Rozstaw większy",
+        "B": "Rozstaw mniejszy",
+        "C": "Średnią arytmetyczną obu rozstawów",
+        "D": "Rozstaw wózka o większej liczbie osi"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 6 ust. 7",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "bf7eb654-6711-4467-a31a-cbdcc52c7dd8",
+      "question": "Czym jest obliczeniowa skrajnia ładunkowa?",
+      "answers": {
+        "A": "Skrajnia ładunkowa określona z uwzględnieniem dodatków eksploatacyjnych dla łuku obliczeniowego o promieniu R=350 m bez przechyłki toru",
+        "B": "Skrajnia ładunkowa określona z uwzględnieniem dodatków eksploatacyjnych dla łuku obliczeniowego o promieniu R=500 m bez przechyłki toru",
+        "C": "Skrajnia ładunkowa określona bez uwzględnienia dodatków eksploatacyjnych dla łuku obliczeniowego o promieniu R=350 m",
+        "D": "Skrajnia ładunkowa określona z uwzględnieniem dodatków eksploatacyjnych dla odcinka prostego bez przechyłki toru"
+      },
+      "correct": "A",
+      "explanation": "Ir-10a § 7 ust. 1",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "de37f437-4c3d-41f3-8b47-c5a6a968c4b5",
+      "question": "Kiedy należy wyznaczyć obliczeniową skrajnię dla właściwego promienia łuku mniejszego niż 350 m?",
+      "answers": {
+        "A": "Przy przewozie przesyłek w pociągach towarowych na odcinkach z łukami w torach bocznych",
+        "B": "Przy przewozie pociągów z przesyłkami z przekroczoną skrajnią po odcinkach mających w torach głównych zasadniczych łuki o promieniu mniejszym niż 350 m",
+        "C": "Przy przewozie pociągów z przesyłkami z przekroczoną skrajnią po odcinkach mających w torach bocznych łuki o promieniu mniejszym niż 350 m",
+        "D": "Przy przewozie przesyłek z przekroczoną skrajnią w każdym przypadku niezależnie od promienia łuku"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 7 ust. 2",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "cc708257-add2-4656-879d-0818db3b026d",
+      "question": "Jak należy wyznaczać skrajnię obliczeniową dla łuków o promieniu mniejszym niż 350 m?",
+      "answers": {
+        "A": "Łącznie dla przekrojów zewnętrznych i wewnętrznych przesyłki jako jedna wartość",
+        "B": "Oddzielnie dla punktów w przekrojach zewnętrznych i wewnętrznych przesyłki",
+        "C": "Tylko dla przekrojów zewnętrznych przesyłki",
+        "D": "Tylko dla przekrojów wewnętrznych przesyłki"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 7 ust. 2",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "b479a896-73cf-4841-bd5b-2514cecd7687",
+      "question": "Jak nazywają się przekroje poprzeczne przesyłki leżące poza czopami skrętu wagonu lub poza ławami pokrętnymi?",
+      "answers": {
+        "A": "Wewnętrznymi lub kierunkowymi",
+        "B": "Zewnętrznymi lub konsolowymi",
+        "C": "Czopowymi lub kierunkowymi",
+        "D": "Środkowymi lub czopowymi"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 7 ust. 3",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "110fc512-106d-4b0a-885b-d71c98cf6f60",
+      "question": "Jak jest zdefiniowana baza wagonu dwuosiowego?",
+      "answers": {
+        "A": "Odległość między osiami czopów skrętu wagonu",
+        "B": "Odległość między przekrojami czopowymi w osiach zestawów kołowych",
+        "C": "Odległość między pionowymi osiami ław pokrętnych",
+        "D": "Odległość między osiami mostu nośnego"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 7 ust. 4 pkt 1",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "1a1168e9-fd2e-4f01-a21c-57d99cc1218c",
+      "question": "Jak jest zdefiniowana baza wagonu 4-, 6- lub 8-osiowego?",
+      "answers": {
+        "A": "Odległość między przekrojami czopowymi w osiach zestawów kołowych",
+        "B": "Odległość między pionowymi osiami ław pokrętnych",
+        "C": "Odległość między przekrojami czopowymi w osiach czopów skrętu wagonów",
+        "D": "Odległość między osiami mostu nośnego"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 7 ust. 4 pkt 2",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "945f8a73-ce37-42a1-890c-c492f8db75f1",
+      "question": "Jak nazywa się wewnętrzny przekrój leżący w jednakowej odległości od obydwu przekrojów kierunkowych w środku wagonu?",
+      "answers": {
+        "A": "Przekrojem czopowym",
+        "B": "Przekrojem konsolowym",
+        "C": "Przekrojem zewnętrznym",
+        "D": "Przekrojem środkowym"
+      },
+      "correct": "D",
+      "explanation": "Ir-10a § 7 ust. 5",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "5749b3e4-1c13-438d-9ad3-2b36b08fde20",
+      "question": "Jakie odchylenia przesyłki na łukach przyjmuje się dla wagonu obliczeniowego (baza 17 m, długość 24 m) dla łuku obliczeniowego R=350 m?",
+      "answers": {
+        "A": "85 mm",
+        "B": "95 mm",
+        "C": "105 mm",
+        "D": "115 mm"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 7 ust. 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "3415afb0-23c4-427b-b283-3d99c385baae",
+      "question": "Dla jakich przesyłek zaladowanych na jeden wagon wyznaczana jest skrajnia obliczeniowa?",
+      "answers": {
+        "A": "Jeżeli stosunek długości przesyłki do bazy wagonu wynosi powyżej 1,21",
+        "B": "Jeżeli stosunek długości przesyłki do bazy wagonu wynosi powyżej 1,31",
+        "C": "Jeżeli stosunek długości przesyłki do bazy wagonu wynosi powyżej 1,41",
+        "D": "Jeżeli stosunek długości przesyłki do bazy wagonu wynosi powyżej 1,51"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 7 ust. 6 pkt 1",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "421566b3-c9be-4f3d-9e62-e9d084d3d431",
+      "question": "Od jakiej bazy wagonu WBS skrajnia obliczeniowa jest wyznaczana dla przesyłek przewożonych na WBS?",
+      "answers": {
+        "A": "Od bazy wagonu 12 m i więcej",
+        "B": "Od bazy wagonu 14 m i więcej",
+        "C": "Od bazy wagonu 15 m i więcej",
+        "D": "Od bazy wagonu 17 m i więcej"
+      },
+      "correct": "D",
+      "explanation": "Ir-10a § 7 ust. 6 pkt 3",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "ac914cdf-cc38-4d15-80db-fb913f9dcc53",
+      "question": "Jak wyznaczana jest wielkość roznic odchylen przesylki na lukach metodą tablic dla platformy lub WBS z liczba osi nie wiecej niz 6?",
+      "answers": {
+        "A": "Z dwóch tablic jako wartości fb i fH bezpośrednio (ΔbRi = fb, ΔbRa = fH) dla przekrojów wewnętrznych i zewnętrznych",
+        "B": "Z dwóch tablic jako sumy fb + fo dla przekrojów wewnętrznych i fH - fo dla zewnętrznych",
+        "C": "Z dwóch tablic jako sumy fb + fp dla przekrojów wewnętrznych i fH - fp dla zewnętrznych",
+        "D": "Wyłącznie metodą obliczeniową bez użycia tablic"
+      },
+      "correct": "A",
+      "explanation": "Ir-10a § 7 ust. 9 pkt 1",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "f43e15f7-402b-442c-b65e-5f9e223f1d4e",
+      "question": "Na jakim promieniu łuku obliczeniowego określa się obliczeniową skrajnię ładunkową?",
+      "answers": {
+        "A": "R = 250 m",
+        "B": "R = 300 m",
+        "C": "R = 350 m",
+        "D": "R = 400 m"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 7 ust. 1",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "e4c3c60d-79da-476e-9878-c1b1dad064b9",
+      "question": "Czym charakteryzuje sie łuk obliczeniowy, dla którego wyznacza się obliczeniową skrajnię ładunkową?",
+      "answers": {
+        "A": "Promieniem R=350 m i przechyłką toru 150 mm",
+        "B": "Promieniem R=350 m i brakiem przechyłki toru",
+        "C": "Promieniem R=300 m i brakiem przechyłki toru",
+        "D": "Promieniem R=300 m i przechyłką toru 100 mm"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 7 ust. 1",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "06f4f1a6-622d-4ce3-becd-9fd251930a8b",
+      "question": "Jakie przekroje poprzeczne ładunku nazywamy wewnętrznymi przekrojami ładunku?",
+      "answers": {
+        "A": "Przekroje leżące poza czopami skrętu wagonu lub poza ławami pokrętnymi platform",
+        "B": "Przekroje leżące pomiędzy czopami skrętu wagonu lub między osiami dwóch ław pokrętnych na dwóch platformach",
+        "C": "Przekroje przechodzące przez końce ładunku",
+        "D": "Przekroje leżące dokładnie w osi czopów skrętu wagonu"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 7 ust. 3",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "c85508d0-611d-4f51-bec3-3bdbcf201ee8",
+      "question": "Jak definiuje sie przekrój środkowy przesyłki?",
+      "answers": {
+        "A": "Przekrój wewnętrzny leżący w jednakowej odległości od obydwu przekrojów kierunkowych w środku wagonu",
+        "B": "Przekrój zewnętrzny przechodzący przez środek długości ładunku",
+        "C": "Przekrój leżący dokładnie w osi czopa skrętu wagonu",
+        "D": "Przekrój wewnętrzny leżący w miejscu największej szerokości przesyłki"
+      },
+      "correct": "A",
+      "explanation": "Ir-10a § 7 ust. 5",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "ca16a758-e265-41d1-bfd5-c41f0c65a330",
+      "question": "Jak nazywamy przekroje zewnętrzne przechodzące przez końce ładunku?",
+      "answers": {
+        "A": "Przekrojami kierunkowymi",
+        "B": "Przekrojami środkowymi",
+        "C": "Przekrojami końcowymi",
+        "D": "Przekrojami konsolowymi"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 7 ust. 5",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "5fccde6b-afd2-4bc2-a141-b8d824073fb3",
+      "question": "Przy jakich warunkach jest wyznaczana skrajnia obliczeniowa dla przesyłek długich z oparciem na jeden wagon?",
+      "answers": {
+        "A": "Gdy stosunek długości przesyłki do bazy wagonu wynosi powyżej 1,41",
+        "B": "Gdy stosunek długości przesyłki do bazy wagonu wynosi powyżej 1,50",
+        "C": "Gdy stosunek długości przesyłki do bazy wagonu wynosi powyżej 1,20",
+        "D": "Gdy stosunek długości przesyłki do bazy wagonu wynosi powyżej 1,30"
+      },
+      "correct": "A",
+      "explanation": "Ir-10a § 7 ust. 6 pkt 1",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "1a689f6c-5130-4629-98a8-8e478d120c22",
+      "question": "Ile wynosi odchylenie przesyłki na luku dla wagonu obliczeniowego (baza 17 m, długość 24 m) dla łuku obliczeniowego R=350 m?",
+      "answers": {
+        "A": "85 mm",
+        "B": "95 mm",
+        "C": "105 mm",
+        "D": "115 mm"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 7 ust. 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "8a9f0e7b-7cc5-42f4-95ad-d5eaecf757e7",
+      "question": "Jakie dwie metody służą do wyznaczenia różnic odchyleń przesyłki na lukach?",
+      "answers": {
+        "A": "Metoda graficzna i metoda analityczna",
+        "B": "Metoda tablic i metoda obliczeniowa",
+        "C": "Metoda uproszczona i metoda dokładna",
+        "D": "Metoda statyczna i metoda dynamiczna"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 7 ust. 8",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "41e2cc8a-341d-4ad1-a217-511304361b76",
+      "question": "Kiedy metoda obliczeniowa jest niezbędna przy wyznaczaniu odchyleń przesyłki na lukach?",
+      "answers": {
+        "A": "Gdy baza wagonu jest mniejsza niż 10 m",
+        "B": "W przypadkach nieprzewidzianych w tablicach",
+        "C": "Gdy promien luku jest mniejszy niż 250 m",
+        "D": "Gdy przesylka jest zaladowana na dwie platformy z lawami pokretnymi"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 7 ust. 8",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "333744d3-4a2b-4c2e-a21e-0ed44b841db5",
+      "question": "Czym jest obliczeniowa skrajnia ładunkowa?",
+      "answers": {
+        "A": "Skrajnia ładunkowa określona z uwzględnieniem dodatków eksploatacyjnych danej przesyłki na łuku obliczeniowym R=350 m bez przechyłki toru",
+        "B": "Skrajnia ładunkowa określona z uwzględnieniem dodatków eksploatacyjnych danej przesyłki na łuku obliczeniowym R=500 m bez przechyłki toru",
+        "C": "Skrajnia ładunkowa określona bez uwzględnienia dodatków eksploatacyjnych na łuku obliczeniowym R=350 m z przechyłką toru",
+        "D": "Skrajnia ładunkowa określona z uwzględnieniem dodatków eksploatacyjnych danej przesyłki na łuku obliczeniowym R=250 m bez przechyłki toru"
+      },
+      "correct": "A",
+      "explanation": "Ir-10a § 7 ust. 1",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "3c1547ab-c0af-4171-86d2-b64ce36a4aab",
+      "question": "Kiedy należy wyznaczyć obliczeniową skrajnię dla właściwego promienia łuku przy przewozie przesyłek z przekroczoną skrajnią?",
+      "answers": {
+        "A": "Gdy trasa przebiega przez tunele o długości powyżej 500 m",
+        "B": "Gdy odcinki mają w torach głównych zasadniczych łuki o promieniu mniejszym niż 350 m",
+        "C": "Gdy odcinki mają w torach głównych zasadniczych łuki o promieniu mniejszym niż 500 m",
+        "D": "Gdy odcinki mają w torach bocznicowych łuki o promieniu mniejszym niż 350 m"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 7 ust. 2",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "d5c0b8b3-1221-4fb9-b905-ed34758c61a0",
+      "question": "Dla jakich punktów należy oddzielnie wyznaczać obliczeniową skrajnię przy łukach o promieniu mniejszym niż 350 m?",
+      "answers": {
+        "A": "Oddzielnie dla punktów w przekrojach czopowych i środkowych",
+        "B": "Oddzielnie dla punktów w przekrojach zewnętrznych i wewnętrznych przesyłki",
+        "C": "Oddzielnie dla punktów w przekrojach zewnętrznych i końcowych przesyłki",
+        "D": "Oddzielnie dla punktów w przekrojach środkowych i kierunkowych przesyłki"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 7 ust. 2",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "8aa0b71b-fb0d-4d94-8187-9b22c692f1cf",
+      "question": "Czym są wewnętrzne przekroje ładunku?",
+      "answers": {
+        "A": "Wszystkie przekroje poprzeczne leżące pomiędzy czopami skrętu wagonu lub między osiami dwóch ław pokrętnych na dwóch platformach",
+        "B": "Wszystkie przekroje poprzeczne leżące poza czopami skrętu wagonu lub poza ławami pokrętnymi dla dwóch platform",
+        "C": "Przekroje poprzeczne leżące w środku wagonu w jednakowej odległości od obydwu przekrojów kierunkowych",
+        "D": "Przekroje poprzeczne przechodzące przez końce ładunku"
+      },
+      "correct": "A",
+      "explanation": "Ir-10a § 7 ust. 3",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "7d1603ee-478b-4b79-b3fa-367531839bce",
+      "question": "Jak nazywają się poprzeczne przekroje przesyłki leżące poza czopami skrętu wagonu lub poza ławami pokrętnymi dla dwóch platform?",
+      "answers": {
+        "A": "Przekroje wewnętrzne",
+        "B": "Przekroje środkowe",
+        "C": "Przekroje zewnętrzne lub konsolowe",
+        "D": "Przekroje kierunkowe"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 7 ust. 3",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "99a5c860-3c39-4b39-8a4e-6f29ec4026e5",
+      "question": "Jak jest zdefiniowana baza wagonu [a] w wagonach 4-, 6- i 8-osiowych?",
+      "answers": {
+        "A": "Odległość między osiami zestawów kołowych",
+        "B": "Odległość między przekrojami czopowymi w osiach czopów skrętu wagonów",
+        "C": "Odległość między pionowymi osiami ław pokrętnych zamocowanych na każdej platformie",
+        "D": "Odległość między osiami mostu nośnego"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 7 ust. 4 pkt 2",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "5639b88e-6e10-4df5-97d1-cf2b5806e7d8",
+      "question": "Jak jest zdefiniowana baza wagonu [a] w wagonach 2-osiowych?",
+      "answers": {
+        "A": "Odległość między przekrojami czopowymi w osiach czopów skrętu wagonów",
+        "B": "Odległość między pionowymi osiami ław pokrętnych",
+        "C": "Odległość między przekrojami czopowymi w osiach zestawów kołowych",
+        "D": "Odległość między osiami mostu nośnego"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 7 ust. 4 pkt 1",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "42e06d99-4f7c-4013-be55-f56fc22080ab",
+      "question": "Skrajnia obliczeniowa jest wyznaczana dla przesyłek przewożonych na WBS z bazą wagonu co najmniej:",
+      "answers": {
+        "A": "10 m",
+        "B": "14 m",
+        "C": "17 m",
+        "D": "20 m"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 7 ust. 6 pkt 3",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "b2c6fb4f-c188-4b07-9fe9-c65313a037e2",
+      "question": "Kto jest odpowiedzialny za uzgadnianie przewozu przesyłki nadzwyczajnej po liniach Zarządcy zarówno w komunikacji krajowej, jak i międzynarodowej?",
+      "answers": {
+        "A": "Zarządca infrastruktury kolejowej",
+        "B": "Przewoźnik realizujący przewóz przesyłki",
+        "C": "Nadawca przesyłki nadzwyczajnej",
+        "D": "Organ nadzoru kolejowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 8 ust. 5",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "3787e1f1-1099-417c-95f0-3533950c4429",
+      "question": "Co robi Zarządca po przeprowadzeniu procedury uzgadniającej przewóz przesyłki nadzwyczajnej, gdy przejazd tej przesyłki jest niemożliwy?",
+      "answers": {
+        "A": "Wydaje zgodę warunkową z zastrzeżeniami technicznymi",
+        "B": "Zawiesza rozpatrzenie wniosku do czasu usunięcia przeszkód",
+        "C": "Nie udziela zgody na przewóz, podając przyczynę odmowy",
+        "D": "Przekazuje wniosek do innego zarządcy infrastruktury kolejowej"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 8 ust. 4",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "d5bea94e-8667-4767-859b-706eeaa59ac0",
+      "question": "Do jakiego miejsca przewoźnik kieruje wniosek o zgodę na przewóz przesyłki nadzwyczajnej w komunikacji krajowej?",
+      "answers": {
+        "A": "Do Samodzielnego Wieloosobowego Stanowiska ds. Przewozów Nadzwyczajnych",
+        "B": "Do stanowiska ds. przewozów nadzwyczajnych w Ekspozyturze właściwej dla stacji nadania",
+        "C": "Do stanowiska ds. przewozów nadzwyczajnych w Ekspozyturze właściwej dla stacji przeznaczenia",
+        "D": "Do stanowiska ds. przewozów nadzwyczajnych w siedzibie zarządcy infrastruktury"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 9 ust. 1 pkt 1",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "45508c6d-ae4f-48e6-bedb-e3b6eb297d91",
+      "question": "Do jakiego miejsca przewoźnik kieruje wniosek o zgodę na przewóz przesyłki nadzwyczajnej w komunikacji międzynarodowej?",
+      "answers": {
+        "A": "Do stanowiska ds. przewozów nadzwyczajnych w Ekspozyturze właściwej dla stacji nadania",
+        "B": "Do stanowiska ds. przewozów nadzwyczajnych w Ekspozyturze właściwej dla stacji przeznaczenia",
+        "C": "Do Samodzielnego Wieloosobowego Stanowiska ds. Przewozów Nadzwyczajnych",
+        "D": "Do stanowiska ds. przewozów nadzwyczajnych właściwego dla granicy państwa"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 9 ust. 1 pkt 2",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "24098723-f647-4577-bf4e-e5e7a913c60e",
+      "question": "Jak przewoźnik uzyskuje warunki na przewóz przesyłki nadzwyczajnej o przekroczonym nacisku osiowym do 221 kN?",
+      "answers": {
+        "A": "Przez złożenie wniosku o zgodę na przewóz za pośrednictwem ISZTP wypełniając formularz ePN",
+        "B": "Przez złożenie wniosku zgodnie z załącznikiem nr 22 do stanowiska ds. przewozów nadzwyczajnych",
+        "C": "Przez złożenie wniosku o rozkład jazdy z zaznaczeniem w ograniczeniach \"przekroczony nacisk\"",
+        "D": "Przez dołączenie do wniosku instrukcji transportowej i rysunków przesyłki"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 9 ust. 5",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "b157d2de-8894-465f-90e2-31b8898012eb",
+      "question": "Co przewoźnik ma obowiązek dołączyć do wniosku przy przewozie pojazdu kolejowego w stanie czynnym lub nieczynnym, bez zezwolenia na dopuszczenie wydawanego przez UTK?",
+      "answers": {
+        "A": "Instrukcję transportową i rysunki przesyłki oraz dodatkowe informacje",
+        "B": "Oświadczenie zgodne z załącznikiem nr 10 albo nr 11",
+        "C": "Oświadczenie zgodne z załącznikiem nr 22",
+        "D": "Wniosek o rozkład jazdy z zaznaczeniem przekroczonego nacisku osiowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 9 ust. 3",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "db940a82-060b-47fa-a8c3-6c5e78037b4e",
+      "question": "Co uwzględnia się przy ustalaniu warunków przewozu przesyłki nadzwyczajnej w odniesieniu do ruchu pociągów na drodze przewozu?",
+      "answers": {
+        "A": "Konieczność wyłączenia napięcia w sieci trakcyjnej na całej trasie",
+        "B": "Warunki eksploatacyjne na całej drodze przewozu, takie jak obciążenie ruchem pociągów",
+        "C": "Konieczność zamknięcia sąsiedniego toru szlakowego na wybranych odcinkach",
+        "D": "Potrzebę dodatkowego badania trasy wagonem pomiarowym lub użycia makiety"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 12 ust. 2 pkt 10",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "df93d27c-1487-4ccb-8fda-00cbc4b37c88",
+      "question": "Co może być konieczne do określenia przy ustalaniu warunków przewozu przesyłki nadzwyczajnej w odniesieniu do składu pociągu?",
+      "answers": {
+        "A": "Konieczność wyłączenia napięcia w sieci trakcyjnej na odcinkach zelektryfikowanych",
+        "B": "Konieczność zamknięcia sąsiedniego toru szlakowego na czas przewozu",
+        "C": "Miejsce wagonu z przesyłką w składzie pociągu",
+        "D": "Pora doby, w której powinien odbywać się przewóz"
+      },
+      "correct": "C",
+      "explanation": "Ir-10a § 12 ust. 2 pkt 16",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "8ccca3fc-a7af-4e8e-aeb5-9c508626a4bc",
+      "question": "Jaką szczególną formę trakcji może przewidywać decyzja o warunkach przewozu przesyłki nadzwyczajnej?",
+      "answers": {
+        "A": "Przewóz pociągiem towarowym z priorytetem przejazdu na stacjach",
+        "B": "Przewóz oddzielną lokomotywą na części lub na całej drodze przewozu",
+        "C": "Przewóz z lokomotywą wyposażoną w specjalne urządzenia pomiarowe",
+        "D": "Przewóz w parze z pociągiem pilotującym na odcinkach newralgicznych"
+      },
+      "correct": "B",
+      "explanation": "Ir-10a § 12 ust. 2 pkt 17",
+      "section_ref": "§ 12",
+      "section": 12
+    }
+  ]
+}
