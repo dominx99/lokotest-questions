@@ -1,4 +1,2525 @@
 {
   "instruction": "Ir-2",
-  "questions": []
+  "questions": [
+    {
+      "uuid": "d0839662-739d-4c9a-b987-fa148c6897e7",
+      "question": "Czemu służy instrukcja Ir-2?",
+      "answers": {
+        "A": "Określeniu zasad budowy i utrzymania infrastruktury kolejowej",
+        "B": "Określeniu obowiązków, zasad pracy oraz postępowania pracowników posterunków nastawczych przy prowadzeniu ruchu kolejowego",
+        "C": "Regulowaniu przewozów towarowych na liniach kolejowych PKP",
+        "D": "Określeniu zasad szkolenia maszynistów i drużyn pociągowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 1 ust. 1",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "daa9984f-c37e-406f-a383-b81fe8b147b9",
+      "question": "Na jakich liniach kolejowych obowiązuje instrukcja Ir-2?",
+      "answers": {
+        "A": "Na liniach kolejowych zarządzanych przez PKP Polskie Linie Kolejowe SA",
+        "B": "Na wszystkich liniach kolejowych w Polsce, w tym prywatnych",
+        "C": "Wyłącznie na liniach kolejowych dużych prędkości",
+        "D": "Na liniach kolejowych zarządzanych przez przewoźników kolejowych posiadających licencję"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 1 ust. 2",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "4cfdaed5-deb3-4a6b-9721-8b21002a6fd2",
+      "question": "Gdzie powinny znajdować się szczegółowe postanowienia wynikające z miejscowych warunków?",
+      "answers": {
+        "A": "W rozporządzeniach ministra właściwego do spraw transportu",
+        "B": "W instrukcji obsługi urządzeń srk danej stacji",
+        "C": "W regulaminie technicznym i wewnętrznym rozkładzie jazdy pociągów",
+        "D": "W indywidualnych umowach z przewoźnikami kolejowymi"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 1 ust. 3",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "a9dd990f-dbc9-4aaa-8fef-bfcb2e623b72",
+      "question": "Czym jest dyspozytor w rozumieniu instrukcji Ir-2?",
+      "answers": {
+        "A": "Pracownik bieżącego nadzoru zarządcy infrastruktury, regulujący i koordynujący ruch kolejowy wyłącznie w obrębie jednej stacji kolejowej lub posterunku ruchu",
+        "B": "Pracownik bieżącego nadzoru zarządcy infrastruktury, regulujący i koordynujący całokształt pracy związanej z ruchem kolejowym w obrębie wyznaczonego obszaru linii kolejowej",
+        "C": "Pracownik przewoźnika kolejowego wydający rozkazy pisemne drużynom pociągowym na ustalonym formularzu druku, odpowiedzialny za realizację rozkładu jazdy",
+        "D": "Osoba lub zespół osób prowadzących postępowanie w sprawie wypadku lub incydentu, złożony z przedstawicieli zarządcy infrastruktury i przewoźnika kolejowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 1 ust. 5",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "0d627a43-e732-4005-88b3-7827c2ae50b3",
+      "question": "Czym jest Lokalne Centrum Sterowania (LCS)?",
+      "answers": {
+        "A": "Obszar stacji lub innego posterunku ruchu, na którym urządzenia sterowania ruchem kolejowym obsługiwane są z jednej nastawnicy",
+        "B": "System elektronicznej rejestracji i wydawania ostrzeżeń doraźnych stosowany przez dyżurnych ruchu",
+        "C": "Wydzielony technicznie i organizacyjnie odcinek linii kolejowej stanowiący jeden obszar sterowania ruchem kolejowym z wykorzystaniem komputerowych urządzeń srk lub przekaźnikowych urządzeń srk wyposażonych w komputerowe pulpity nastawcze",
+        "D": "Wydzielony technicznie i organizacyjnie odcinek linii kolejowej, na którym urządzenia sterowania ruchem kolejowym obsługiwane są z kilku nastawnic podporządkowanych jednej centralnej"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 1 ust. 8",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "89ca96fe-0c96-441f-922e-09b56f707460",
+      "question": "Czym jest okręg nastawczy?",
+      "answers": {
+        "A": "Wydzielony technicznie i organizacyjnie odcinek linii kolejowej stanowiący jeden obszar sterowania ruchem",
+        "B": "Obszar stacji lub innego posterunku ruchu, na którym urządzenia sterowania ruchem kolejowym obsługiwane są z jednej nastawnicy",
+        "C": "Obszar linii kolejowej, w obrębie którego dyspozytor reguluje i koordynuje ruch kolejowy",
+        "D": "Odcinek linii kolejowej objęty jednym regulaminem technicznym"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 1 ust. 9",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "ddf0818b-5b59-466e-95c6-724de49ec3e2",
+      "question": "Czym jest ruch kolejowy?",
+      "answers": {
+        "A": "Zespół wzajemnie powiązanych czynności mających na celu przemieszczanie pojazdów kolejowych na liniach kolejowych",
+        "B": "Przemieszczanie się pojazdów kolejowych; należą do niego jazda pociągów i manewry",
+        "C": "Przemieszczanie się pociągów pasażerskich i towarowych po torach kolejowych",
+        "D": "Eksploatacja infrastruktury kolejowej w celu realizacji procesów przewozowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 1 ust. 14",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "ed8e242d-8f61-443c-83e5-3cb6d5c19dc9",
+      "question": "Co to jest wypadek kolejowy?",
+      "answers": {
+        "A": "Zamierzone lub niezamierzone zdarzenie z udziałem pojazdu kolejowego, powodujące negatywne konsekwencje dla zdrowia ludzkiego, mienia lub środowiska",
+        "B": "Niezamierzone nagłe zdarzenie lub ciąg takich zdarzeń z udziałem pojazdu kolejowego, powodujące negatywne konsekwencje dla zdrowia ludzkiego, mienia lub środowiska",
+        "C": "Niezamierzone zdarzenie z udziałem infrastruktury kolejowej, powodujące straty finansowe zarządcy infrastruktury",
+        "D": "Nagłe zdarzenie z udziałem pojazdu kolejowego, skutkujące opóźnieniem pociągu powyżej 60 minut"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 1 ust. 17",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "71dfb463-02ce-4abe-b35f-8cb6183915af",
+      "question": "Czym jest przewoźnik kolejowy?",
+      "answers": {
+        "A": "Podmiot odpowiedzialny za zarządzanie infrastrukturą kolejową, jej eksploatację, utrzymanie i odnawianie oraz udział w rozwoju tej infrastruktury",
+        "B": "Przedsiębiorca, który na podstawie certyfikatu bezpieczeństwa zarządza ruchem kolejowym i udostępnia infrastrukturę kolejową innym podmiotom",
+        "C": "Przedsiębiorca, który na podstawie licencji wykonuje przewozy kolejowe lub świadczy usługę trakcyjną",
+        "D": "Przedsiębiorca eksploatujący bocznicę kolejową na podstawie umowy z zarządcą infrastruktury i udostępniający ją innym użytkownikom"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 1 ust. 12",
+      "section_ref": "§ 1",
+      "section": 1
+    },
+    {
+      "uuid": "a3071fd3-bb0c-4197-8beb-20b04eac39aa",
+      "question": "Jak należy postąpić w przypadku pomyłki w zapisie dokonanym w dokumentacji techniczno-ruchowej?",
+      "answers": {
+        "A": "Należy zapis wycierać gumką, a obok nanieść nowy zapis i potwierdzić go podpisem.",
+        "B": "Należy zapis przekreślić tak, aby możliwe było jego odczytanie, a obok nanieść nowy zapis i potwierdzić go podpisem.",
+        "C": "Należy zapis zamazać korektorem, a obok nanieść nowy zapis i potwierdzić go podpisem.",
+        "D": "Należy zapis zakleić naklejką, a obok nanieść nowy zapis i potwierdzić go podpisem."
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 11 ust. 2",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "807e0fa8-72ca-4ce3-a975-42d0b312f915",
+      "question": "Jak powinna być zabezpieczona dokumentacja związana z ruchem kolejowym przed wydaniem na posterunek nastawczy?",
+      "answers": {
+        "A": "Dokumentacja powinna być przesznurowana i opieczętowana, a ilość stron poświadczona podpisem przez przełożonego.",
+        "B": "Dokumentacja powinna być opieczętowana i ponumerowana, a ilość stron poświadczona podpisem przez dyżurnego ruchu.",
+        "C": "Dokumentacja powinna być przesznurowana i ponumerowana, a ilość stron poświadczona podpisem przez pracownika kancelarii.",
+        "D": "Dokumentacja powinna być zalakowana i opieczętowana, a ilość stron poświadczona podpisem przez kierownika posterunku."
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 11 ust. 3",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "deb10974-5de6-4a4e-95e4-28ab0e6db7bd",
+      "question": "Gdzie należy przechowywać druki rozpoczęte w starym roku kalendarzowym, a zakończone w nowym roku kalendarzowym?",
+      "answers": {
+        "A": "Z drukami wypełnionymi w całości w starym roku kalendarzowym.",
+        "B": "Oddzielnie, w osobnej teczce oznaczonej jako druki przejściowe.",
+        "C": "Z drukami wypełnionymi w całości w nowym roku kalendarzowym.",
+        "D": "U dyżurnego ruchu, jako druki archiwalne z poprzedniego roku."
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 11 ust. 5",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "c5fd8226-20ba-4fbe-a702-e424a057af44",
+      "question": "Kogo musi poinformować dyżurny ruchu dysponujący przed chwilową nieobecnością na posterunku z jednoosobową obsadą?",
+      "answers": {
+        "A": "Dyspozytora oraz dyżurnych ruchu sąsiednich posterunków zapowiadawczych",
+        "B": "Dyspozytora oraz zawiadowcę stacji",
+        "C": "Dyżurnych ruchu sąsiednich posterunków zapowiadawczych oraz zawiadowcę",
+        "D": "Naczelnika sekcji oraz dyżurnych ruchu sąsiednich posterunków zapowiadawczych"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 12 ust. 2 pkt 1",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "4c158285-a461-401f-893f-0b44b83d7e6c",
+      "question": "Jakie wskazanie powinny dawać semafory obsługiwane przez posterunek nastawczy w czasie chwilowej nieobecności pracownika na posterunku?",
+      "answers": {
+        "A": "Sygnał \"Wolna droga\"",
+        "B": "Sygnał \"Stój\"",
+        "C": "Sygnał ostrzegawczy",
+        "D": "Sygnał \"Jeździec\""
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 12 ust. 2",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "e87cb85f-7b62-403b-b216-8d7131bb55c9",
+      "question": "Kogo zawiadamia dyżurny ruchu dysponujący w razie zachorowania podczas pełnienia dyżuru?",
+      "answers": {
+        "A": "Dyspozytora oraz dyżurnych ruchu sąsiednich posterunków zapowiadawczych",
+        "B": "Dyżurnych ruchu sąsiednich posterunków zapowiadawczych oraz naczelnika sekcji",
+        "C": "Zawiadowcę, naczelnika sekcji lub jego zastępcę",
+        "D": "Dyspozytora oraz zawiadowcę stacji"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 12 ust. 3 pkt 1",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "d852c533-a604-4855-96ed-64e6e33b4345",
+      "question": "Do kiedy chory pracownik musi pozostać na posterunku?",
+      "answers": {
+        "A": "Do czasu przybycia zawiadowcy lub naczelnika sekcji",
+        "B": "Do czasu powiadomienia dyspozytora o zachorowaniu",
+        "C": "Do czasu przybycia innego zastępującego pracownika posiadającego wymagane kwalifikacje i autoryzację na danym posterunku nastawczym",
+        "D": "Do czasu udzielenia zezwolenia przez dyżurnego ruchu dysponującego na opuszczenie posterunku"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 12 ust. 3",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "0de15d23-9586-4f3f-b655-2b4bf1f24c7a",
+      "question": "Pracownik nastawni wykonawczej może zdjąć plomby z urządzeń srk wyłącznie po uzyskaniu zgody:",
+      "answers": {
+        "A": "naczelnika stacji",
+        "B": "dyżurnego ruchu dysponującego",
+        "C": "kierownika posterunku nastawczego",
+        "D": "pracownika obsługi technicznej"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 14 ust. 1",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "65aafb9d-f90f-4794-b900-263ce2d81f51",
+      "question": "W którym dokumencie dyżurny ruchu dokonuje zapisu o zdjęciu plomb, jeżeli dotyczy to urządzeń liniowych?",
+      "answers": {
+        "A": "w książce przebiegów",
+        "B": "w książce kontroli E-1758",
+        "C": "w dzienniku ruchu",
+        "D": "w rozkazie pisemnym"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 14 ust. 2 pkt 1",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "06d23cf0-4606-49d1-9ed9-c64b197366f8",
+      "question": "Jeżeli przy zdjęciu plomb obostrzenia w prowadzeniu ruchu nie są wymagane, zapisu dokonuje się:",
+      "answers": {
+        "A": "tylko w dzienniku ruchu",
+        "B": "tylko w książce przebiegów",
+        "C": "tylko w książce kontroli E-1758",
+        "D": "w dzienniku ruchu i w książce przebiegów"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 14 ust. 2",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "03212953-6a14-46ae-a395-d660bd613ab8",
+      "question": "Kto przenosi zapisy o wykonywaniu robót, otwieraniu kłódek i zdejmowaniu plomb z książki kontroli E-1758 do dziennika ruchu lub książki przebiegów?",
+      "answers": {
+        "A": "dyżurny ruchu dysponujący",
+        "B": "uprawniony pracownik obsługi technicznej",
+        "C": "pracownik posterunku nastawczego",
+        "D": "naczelnik stacji"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 14 ust. 3",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "4ce09c8f-fb4d-4747-927b-a71b82c2eccd",
+      "question": "Na posterunkach nastawczych, gdzie książka przebiegów nie jest prowadzona, zapisów o zdjęciu i założeniu plomb dokonuje się w książce kontroli E-1758. Jeżeli obostrzenia dotyczą urządzeń liniowych, odnotowuje się je również w:",
+      "answers": {
+        "A": "rozkazie szczególnym",
+        "B": "dzienniku ruchu",
+        "C": "księdze dyżurów",
+        "D": "protokole zdawczo-odbiorczym"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 14 ust. 5",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "a765189b-164e-48fb-9bed-79ebb6328ca2",
+      "question": "Kiedy można próbnie przekładać dźwignie sygnałowe w czasie opadów śniegu lub mrozu?",
+      "answers": {
+        "A": "Tylko gdy nie są uzależnione od blokady liniowej i za każdorazowym pozwoleniem dyżurnego ruchu dysponującego, gdy nie odbywa się ruch pojazdów kolejowych",
+        "B": "Tylko gdy nie są uzależnione od blokady liniowej i za każdorazowym pozwoleniem kierownika pociągu, gdy nie odbywa się ruch pojazdów kolejowych",
+        "C": "Zawsze, bez żadnych ograniczeń, w celu sprawdzenia ich sprawności technicznej",
+        "D": "Tylko za pozwoleniem dyżurnego ruchu dysponującego, niezależnie od uzależnienia od blokady liniowej"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 15 ust. 2",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "72257d2c-ccec-4ece-bb7b-a2403d7737a2",
+      "question": "Jak często należy sprawdzać oświetlenie semaforów kształtowych w porze ciemnej podczas dyżuru?",
+      "answers": {
+        "A": "Co najmniej raz przed północą i raz po północy",
+        "B": "Co najmniej raz na dwie godziny",
+        "C": "Tylko raz w ciągu całego dyżuru, przed północą",
+        "D": "Co najmniej dwa razy przed północą i dwa razy po północy"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 16 ust. 2",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "d20e40c2-b9ea-46cc-b976-21c3a2bce13a",
+      "question": "Co obejmuje przygotowanie drogi przebiegu?",
+      "answers": {
+        "A": "Wydanie polecenia wyjazdu pociągu przez dyżurnego ruchu",
+        "B": "Wykonanie wszystkich przewidzianych regulaminem technicznym czynności, celem zapewnienia prawidłowej i bezpiecznej jazdy pojazdów kolejowych",
+        "C": "Sprawdzenie stanu technicznego taboru przed wyjazdem",
+        "D": "Nastawienie semafora na sygnał zezwalający na jazdę"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 17 ust. 1",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "086fe542-9078-4c1c-a303-87cc9faf5c9f",
+      "question": "Po jakich torach powinien odbywać się ruch pociągów?",
+      "answers": {
+        "A": "Po torach wskazanych przez dyżurnego ruchu w każdym przypadku",
+        "B": "Po torach wyznaczonych przez kierownika manewrów",
+        "C": "Po torach wyznaczonych w wewnętrznym rozkładzie jazdy",
+        "D": "Po torach wyznaczonych w regulaminie technicznym stacji"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 17 ust. 2",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "35d4c0d4-57c4-4ee8-a66f-5473b7951e31",
+      "question": "Kogo powinien powiadomić dyżurny ruchu przed wydaniem polecenia przygotowania drogi przebiegu w razie zmiany toru wjazdowego?",
+      "answers": {
+        "A": "Posterunki nastawcze biorące udział w przygotowaniu drogi przebiegu oraz operatora systemu dynamicznej informacji pasażerskiej",
+        "B": "Tylko operatora systemu dynamicznej informacji pasażerskiej",
+        "C": "Kierownika pociągu oraz maszynistę",
+        "D": "Posterunki nastawcze oraz dyspozytora ruchu"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 17 ust. 2",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "efd2c80d-2b6b-428b-b6e6-75983c49eeec",
+      "question": "Co powinien zrobić pracownik posterunku nastawczego, jeśli dyżurny ruchu nie zawiadomił go o zmianie toru wjazdowego i wydał polecenie nastawienia przebiegu innego niż wynika z wyciągu z wewnętrznego rozkładu jazdy?",
+      "answers": {
+        "A": "Wykonać polecenie bez zastrzeżeń",
+        "B": "Odmówić wykonania polecenia do czasu pisemnego potwierdzenia",
+        "C": "Przed przygotowaniem drogi przebiegu upewnić się, czy dyżurny ruchu nie popełnił błędu",
+        "D": "Natychmiast powiadomić dyspozytora o nieprawidłowości"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 17 ust. 3",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "dbb7231d-7150-4112-8c9b-566008d5909e",
+      "question": "Gdzie należy odnotować fakt zmiany toru wjazdowego?",
+      "answers": {
+        "A": "W dzienniku ruchu i książce przebiegów",
+        "B": "Tylko w dzienniku ruchu",
+        "C": "Tylko w książce przebiegów",
+        "D": "W rozkazie pisemnym dla maszynisty"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 17 ust. 3",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "30ed0554-e09f-4f1b-adde-c2ff2f1c7ed7",
+      "question": "Co powinien zrobić pracownik posterunku nastawczego, jeśli polecenie przygotowania drogi przebiegu wydane tylko za pomocą blokady stacyjnej (bez uprzedniej informacji telefonicznej) dotyczy toru zajętego?",
+      "answers": {
+        "A": "Wykonać polecenie po uprzednim sprawdzeniu toru w terenie",
+        "B": "Nie wykonywać polecenia i zażądać wyjaśnień",
+        "C": "Wykonać polecenie i odnotować sytuację w książce przebiegów",
+        "D": "Powiadomić maszynistę o zajętości toru"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 17 ust. 4",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "3212b309-69ab-4b47-b8f3-021f0661829c",
+      "question": "Kiedy manewry uważa się za przerwane?",
+      "answers": {
+        "A": "Gdy kierownik manewrów zgłosił przerwanie manewrów, niezależnie od tego, czy pojazdy zostały usunięte z drogi przebiegu i czy sygnalizatory wskazują zakaz manewrowania",
+        "B": "Gdy manewrujące pojazdy kolejowe zostały usunięte z drogi przebiegu pociągu i zatrzymane, odpowiednie sygnalizatory wskazują zakaz manewrowania oraz kierownik manewrów zgłosił przerwanie manewrów po wydaniu polecenia",
+        "C": "Gdy dyżurny ruchu wyda telefoniczne potwierdzenie przerwania manewrów, a kierownik manewrów odnotuje ten fakt w książce przebiegów i usunie pojazdy z drogi przebiegu pociągu",
+        "D": "Gdy wszystkie zwrotnice i wykolejnice w okręgu nastawczym zostały przestawione w położenie zasadnicze, a sygnalizatory wskazują zakaz manewrowania"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 17 ust. 7",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "9c4c79f7-30da-4f31-a700-62038a3a73ca",
+      "question": "W jakim położeniu powinny znajdować się zwrotnice, jeżeli w okręgu nastawczym nie odbywają się jazdy pociągów ani manewry?",
+      "answers": {
+        "A": "W położeniu wyznaczonym przez dyżurnego ruchu na dany dzień",
+        "B": "W dowolnym położeniu, byle zabezpieczone zamkami",
+        "C": "W położeniu zasadniczym wskazanym na planie schematycznym w regulaminie technicznym",
+        "D": "W położeniu wynikającym z ostatnio wykonanego przebiegu"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 17 ust. 8",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "d0f6cfab-38f2-4ab9-b727-8a863a1b3271",
+      "question": "W jaki sposób można sprawdzić niezajętość torów i rozjazdów przed przygotowaniem drogi przebiegu?",
+      "answers": {
+        "A": "Wyłącznie bezpośrednio w terenie, przez pracownika posterunku nastawczego, który osobiście stwierdza wolność każdego toru i rozjazdu wchodzącego w drogę przebiegu",
+        "B": "Bezpośrednio w terenie, z okna nastawni lub na planie świetlnym, pulpicie nastawczym lub monitorze — dla torów i rozjazdów wyposażonych w urządzenia kontrolujące niezajętość, przy bezawaryjnym działaniu tych urządzeń",
+        "C": "Wyłącznie na planie świetlnym lub pulpicie nastawczym, pod warunkiem że urządzenia kontrolujące niezajętość działają prawidłowo i zostały zatwierdzone przez regulamin techniczny stacji",
+        "D": "Na podstawie informacji telefonicznej od dyżurnego ruchu lub na podstawie wpisów w książce przebiegów dotyczących ostatniej jazdy po danym torze lub rozjeździe"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 17 ust. 10",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "ce9388cc-13e7-44c7-aae1-52a65de38218",
+      "question": "Kiedy należy sprawdzić niezajętość torów i rozjazdów w terenie, nawet jeśli dostępne są inne metody sprawdzenia?",
+      "answers": {
+        "A": "Tylko gdy dyżurny ruchu wyda takie polecenie",
+        "B": "Tylko dla pociągów towarowych",
+        "C": "Zawsze, niezależnie od dostępnych urządzeń",
+        "D": "Gdy z jakichkolwiek przyczyn istnieje obawa, że sprawdzenie w inny sposób nie daje pełnej gwarancji, że tor i rozjazd jest wolny"
+      },
+      "correct": "D",
+      "explanation": "Ir-2 § 17 ust. 12",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "70b40515-0990-4c0d-b823-19f66595bb4c",
+      "question": "Jak dyżurny ruchu wydaje polecenie przygotowania drogi przebiegu na stacjach z prawidłowo działającą blokadą stacyjną?",
+      "answers": {
+        "A": "Telefonicznie, bez konieczności obsługi bloków",
+        "B": "Pisemnym rozkazem przekazywanym do posterunków nastawczych",
+        "C": "Przez obsłużenie odpowiednich bloków blokady stacyjnej, po uprzednim podaniu informacji telefonicznej",
+        "D": "Wyłącznie ustnie, bezpośrednio pracownikowi posterunku"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 17 ust. 13",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "b2810b03-4b73-48cf-9604-8caae9400aaa",
+      "question": "Na czym polega sprawdzenie przygotowania drogi przebiegu?",
+      "answers": {
+        "A": "Na sprawdzeniu niezajętości torów i rozjazdów wchodzących w drogę przebiegu",
+        "B": "Na sprawdzeniu prawidłowego nastawienia zwrotnic i wykolejnic wchodzących w drogę przebiegu",
+        "C": "Na sprawdzeniu prawidłowego działania semaforów wzdłuż drogi przebiegu",
+        "D": "Na sprawdzeniu stanu technicznego nawierzchni toru w drodze przebiegu"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 17 ust. 20",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "49ac4261-9962-4c29-bfdd-46c87a930a2b",
+      "question": "Jak sprawdza się prawidłowe nastawienie zwrotnic i wykolejnic przestawianych elektrycznie przy prawidłowo działających urządzeniach?",
+      "answers": {
+        "A": "Sprawdza się prawidłowe położenie dźwigni nastawczych i dźwigni ryglowych",
+        "B": "Sprawdza się każdorazowo na miejscu podczas przygotowania drogi przebiegu",
+        "C": "Sprawdza się przez obserwację świateł kontrolnych położenia zwrotnic i wykolejnic",
+        "D": "Upewnia się, że wszystkie klucze znajdują się na przepisowym miejscu"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 17 ust. 21 pkt 5",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "8e57681c-9bee-4736-b51a-e8867a3a230e",
+      "question": "Co należy zrobić w razie nagłej przeszkody do przyjęcia lub wyprawienia pociągu, wynikłej po ustawieniu sygnału zezwalającego na jazdę?",
+      "answers": {
+        "A": "Natychmiast powiadomić dyspozytora i czekać na dalsze instrukcje",
+        "B": "Zmienić sygnał na zabraniający jazdy i starać się zatrzymać pociąg wszelkimi dostępnymi środkami",
+        "C": "Zmienić sygnał na zabraniający jazdy i powiadomić dyżurnego ruchu telefonicznie",
+        "D": "Zmienić sygnał na zabraniający jazdy i przygotować rozkaz pisemny dla maszynisty"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 17 ust. 28",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "1ee9d05c-f164-411f-857a-05b21cccd23a",
+      "question": "Kiedy dyżurny ruchu może wydać polecenie ustawienia sygnału zezwalającego na jazdę, gdy urządzenia blokady stacyjnej nie mogą być podstawą do prowadzenia ruchu?",
+      "answers": {
+        "A": "Po otrzymaniu zgłoszenia gotowości drogi przebiegu wraz z podaniem położenia poszczególnych zwrotnic, wykolejnic i rygli lub zabezpieczenia drogi przebiegu w inny sposób",
+        "B": "Natychmiast po telefonicznym poleceniu przygotowania drogi przebiegu",
+        "C": "Po sprawdzeniu niezajętości torów bezpośrednio w terenie przez pracownika posterunku",
+        "D": "Po pisemnym potwierdzeniu gotowosci drogi przebiegu od kierownika manewrow"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 17 ust. 26",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "ea4dd0a3-c77f-4f7a-92bd-54a5f17247f1",
+      "question": "Kiedy zwrotnice niescentralizowane, niezamykane na zamki, należy strzec przed przestawieniem?",
+      "answers": {
+        "A": "Od czasu wydania polecenia przygotowania drogi przebiegu aż do jego potwierdzenia przez dyżurnego ruchu",
+        "B": "Od czasu sprawdzenia ich nastawienia w określonym przebiegu aż do czasu przejazdu pociągu",
+        "C": "Od czasu nastawienia sygnalu zezwalajacego na jazdę aż do opuszczenia okręgu przez pociąg",
+        "D": "Od czasu wpisania przebiegu do książki przebiegów aż do potwierdzenia przyjęcia pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 17 ust. 23",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "c1e384e8-10ad-4b6e-aaee-5ca1c85108bd",
+      "question": "Co powinien zrobić pracownik posterunku nastawczego, gdy wyjątkowo zachodzi potrzeba użycia drogi przebiegu, dla której nie wolno lub nie jest możliwe podanie sygnału zezwalającego na jazdę na semaforze?",
+      "answers": {
+        "A": "Po ułożeniu, sprawdzeniu, zabezpieczeniu i zgłoszeniu gotowości drogi przebiegu, na polecenie dyżurnego ruchu, zezwolić na jazdę za pomocą sygnału zastępczego lub rozkazu pisemnego",
+        "B": "Odmówić przeprowadzenia jazdy i zaczekać na usunięcie przeszkody uniemożliwiającej podanie sygnału na semaforze",
+        "C": "Podać sygnał ręczny zezwalający na jazdę po uprzednim powiadomieniu dyspozytora ruchu",
+        "D": "Wydać pisemne polecenie maszyniście po sprawdzeniu drogi przebiegu w terenie bez zgłaszania gotowości dyżurnemu ruchu"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 17 ust. 29",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "d0e9f798-664c-4131-9c35-ac98c87e41e6",
+      "question": "Co powinien robić pracownik posterunku wskazany w regulaminie technicznym po przygotowaniu drogi przebiegu pociągu?",
+      "answers": {
+        "A": "Obserwować okręg nastawczy oraz przejeżdżający pociąg aż do całkowitego jego wjazdu, wyjazdu lub przejazdu",
+        "B": "Obserwować tylko czoło pociągu aż do wjazdu na posterunek, a następnie zgłosić gotowość",
+        "C": "Zgłosić dyżurnemu ruchu gotowość drogi przebiegu i czekać na dalsze polecenia",
+        "D": "Obserwować semafor wjazdowy aż do momentu przejazdu pociągu przez posterunek"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 18 ust. 1",
+      "section_ref": "§ 18",
+      "section": 18
+    },
+    {
+      "uuid": "1289db26-c2fd-4447-b6dc-ca7a6f303cdb",
+      "question": "Gdzie powinny znajdować się przybory sygnałowe pracownika posterunku obserwującego przejeżdżające pociągi?",
+      "answers": {
+        "A": "W szafce sygnałowej w zasięgu wzroku pracownika",
+        "B": "W ręku lub miejscu zapewniającym ich natychmiastowe użycie",
+        "C": "Na stanowisku pracy, w wyznaczonym miejscu przy pulpicie sterowniczym",
+        "D": "Przy wejściu na posterunek nastawczy, w widocznym miejscu"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 18 ust. 1",
+      "section_ref": "§ 18",
+      "section": 18
+    },
+    {
+      "uuid": "0ac791c6-6835-4e45-be0e-d553f04401d4",
+      "question": "Na co należy zwracać szczególną uwagę przy obserwacji jadącego pociągu w kontekście osi zestawu kołowego?",
+      "answers": {
+        "A": "Czy nie ma oznak zagrzania się czopów osi zestawu kołowego",
+        "B": "Czy obręcze kół nie wykazują nadmiernego zużycia bocznego",
+        "C": "Czy zestawy kołowe nie mają pęknięć w okolicach piasty koła",
+        "D": "Czy nie ma luzów w łożyskach zestawu kołowego"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 18 ust. 2 pkt 3",
+      "section_ref": "§ 18",
+      "section": 18
+    },
+    {
+      "uuid": "cd56773b-dc89-421f-b471-6e4f32fb24ea",
+      "question": "Na co wskazują silne i rytmiczne uderzenia kół podczas jazdy pociągu, obserwowane przez pracownika posterunku?",
+      "answers": {
+        "A": "Na nadmierne zużycie bieżni koła lub uszkodzenie szyny",
+        "B": "Na to, że obręcze kół mają płaskie miejsca lub nalepów",
+        "C": "Na to, że jeden z wagonów hamuje pomimo jazdy w stanie odhamowanym",
+        "D": "Na przesunięcie zestawu kołowego w łożysku maźniczym"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 18 ust. 2 pkt 6",
+      "section_ref": "§ 18",
+      "section": 18
+    },
+    {
+      "uuid": "76858a2e-7539-4c05-9916-5842a468f26b",
+      "question": "Co należy zrobić, jeśli podczas wjazdu pociągu z popychaczem nie ma przy nim ani w jego pobliżu lokomotywy popychającej?",
+      "answers": {
+        "A": "Niezwłocznie zgłosić o tym dyżurnemu ruchu i nie obsługiwać urządzeń blokady stacyjnej i liniowej",
+        "B": "Niezwłocznie zatrzymać pociąg sygnałem i powiadomić maszynistę o braku lokomotywy popychającej",
+        "C": "Odblokować blokadę stacyjną i zezwolić na dalszą jazdę po weryfikacji składu pociągu",
+        "D": "Zgłosić o tym dyspozyturowi rejonu i wstrzymać obsługę urządzeń do czasu jego decyzji"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 18 ust. 3",
+      "section_ref": "§ 18",
+      "section": 18
+    },
+    {
+      "uuid": "0da35572-24bc-41ce-9aa6-9ab98d34c993",
+      "question": "W jakiej kolejności należy blokować bloki na posterunku nastawczym z blokadą liniową po wjeździe lub wyjeździe pociągu?",
+      "answers": {
+        "A": "Najpierw blok nakazu lub zgody, a potem blok końcowy lub początkowy",
+        "B": "Najpierw blok końcowy lub początkowy, a potem blok otrzymania nakazu lub zgody",
+        "C": "Jednocześnie blok końcowy i blok nakazu, w celu potwierdzenia przejazdu pociągu",
+        "D": "Najpierw blok liniowy, a następnie blok stacyjny zgodnie z poleceniem dyżurnego ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 18 ust. 4",
+      "section_ref": "§ 18",
+      "section": 18
+    },
+    {
+      "uuid": "622a8150-832f-4fa0-b194-d8311fb4061d",
+      "question": "Co oznacza obsłużenie bloku nakazu na posterunku nastawczym z blokadą liniową?",
+      "answers": {
+        "A": "Zezwolenie na wjazd kolejnego pociągu na sąsiedni szlak",
+        "B": "Zgłoszenie przybycia lub odjazdu pociągu",
+        "C": "Potwierdzenie przygotowania drogi przebiegu dla następnego pociągu",
+        "D": "Przekazanie sygnału gotowości do dyżurnego ruchu stacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 18 ust. 4",
+      "section_ref": "§ 18",
+      "section": 18
+    },
+    {
+      "uuid": "501cbe52-ab32-40f5-8226-e39bf0884cd3",
+      "question": "Kiedy można rozwiązać drogę przebiegu?",
+      "answers": {
+        "A": "Gdy pociąg z sygnałem końca pociągu minął sygnałowe miejsce końca pociągu, na semaforze nastawiony został sygnał \"Stój\" oraz pociąg minął przebiegowe miejsce końca pociągu",
+        "B": "Gdy pociąg z sygnałem końca pociągu minął sygnałowe miejsce końca pociągu i na semaforze nastawiony został sygnał \"Stój\", niezależnie od położenia pociągu względem przebiegowego miejsca końca pociągu",
+        "C": "Gdy pociąg minął przebiegowe miejsce końca pociągu, niezależnie od sygnału na semaforze",
+        "D": "Gdy dyżurny ruchu wyda polecenie rozwiązania drogi przebiegu"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 19 ust. 2",
+      "section_ref": "§ 19",
+      "section": 19
+    },
+    {
+      "uuid": "d9c8aed1-5194-4950-9d52-1b769836dff8",
+      "question": "Co należy zrobić po niezauważeniu sygnału końca pociągu na pociągu wjeżdżającym?",
+      "answers": {
+        "A": "Niezwłocznie rozwiązać drogę przebiegu i zgłosić fakt dyżurnemu ruchu",
+        "B": "Nie obsługiwać żadnych urządzeń srk i niezwłocznie zgłosić fakt braku sygnałów końca pociągu dyżurnemu ruchu",
+        "C": "Zatrzymać pociąg i obsłużyć blok liniowy zgodnie z regulaminem technicznym",
+        "D": "Nastawić sygnał \"Stój\" na semaforze i oczekiwać na dalsze polecenia"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 19 ust. 4",
+      "section_ref": "§ 19",
+      "section": 19
+    },
+    {
+      "uuid": "25f0120c-d8f8-4fc2-9ed6-2b70d8ceb8f0",
+      "question": "W jakim wyjątkowym przypadku można ustawić sygnał \"Stój\" na semaforze wjazdowym i rozwiązać drogę przebiegu bez spełnienia normalnych warunków?",
+      "answers": {
+        "A": "W razie nagłego niebezpieczeństwa, np. spowodowanego toczącą się za pociągiem oderwaną częścią pociągu, w celu skierowania jej na inny tor dla zatrzymania",
+        "B": "W razie awarii urządzeń srk uniemożliwiającej normalne zwolnienie przebiegu",
+        "C": "Na polecenie dyżurnego ruchu wydane w związku z opóźnieniem kolejnego pociągu",
+        "D": "W razie konieczności wjazdu pojazdu pomocniczego na zajęty tor"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 19 ust. 5",
+      "section_ref": "§ 19",
+      "section": 19
+    },
+    {
+      "uuid": "a5863e51-8018-4c18-830c-e6ec74d9fa0e",
+      "question": "Do czego służy posterunek ruchu?",
+      "answers": {
+        "A": "Do bezpiecznego i sprawnego prowadzenia ruchu kolejowego",
+        "B": "Do wykonywania czynności związanych z ruchem kolejowym",
+        "C": "Do organizowania i nadzorowania czynności technicznych na stacji",
+        "D": "Do prowadzenia dokumentacji dotyczącej ruchu pociągów"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 2 ust. 2",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "05f2af0d-e23a-4a4f-8855-71145fbce289",
+      "question": "Do jakich posterunków zalicza się nastawnie i posterunki zwrotniczego?",
+      "answers": {
+        "A": "Do posterunków technicznych",
+        "B": "Do posterunków nastawczych",
+        "C": "Do posterunków stwierdzania końca pociągu",
+        "D": "Do posterunków dróżnika przejazdowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 2 ust. 4",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "64cf74d9-c142-475c-80e2-cecbf4ef6cda",
+      "question": "Jakie rodzaje nastawni rozróżnia się pod względem funkcji ruchowej?",
+      "answers": {
+        "A": "Nastawnie ręczne, mechaniczne i elektryczne",
+        "B": "Nastawnie dysponujące, wykonawcze i pomocnicze",
+        "C": "Lokalne centrum sterowania (LCS), nastawnie dysponujące i wykonawcze",
+        "D": "Lokalne centrum sterowania (LCS), nastawnie ręczne i mechaniczne"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 2 ust. 5",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "1ee176da-ceff-4e86-bf0d-c1d25836865a",
+      "question": "Na jakie typy dzielą się posterunki techniczne?",
+      "answers": {
+        "A": "Posterunki nastawcze, posterunki zwrotniczego i nastawnie",
+        "B": "Posterunki nastawcze, posterunki stwierdzania końca pociągu i posterunki dróżnika przejazdowego",
+        "C": "Lokalne centra sterowania, posterunki stwierdzania końca pociągu i posterunki dróżnika przejazdowego",
+        "D": "Nastawnie dysponujące, posterunki stwierdzania końca pociągu i posterunki dróżnika przejazdowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 2 ust. 3",
+      "section_ref": "§ 2",
+      "section": 2
+    },
+    {
+      "uuid": "8540aaf5-a434-4356-b200-5b41a36a570e",
+      "question": "W czym uczestniczy pracownik posterunku nastawczego podczas wykonywania manewrów?",
+      "answers": {
+        "A": "Nadzoruje tylko ruch pociągów na torach głównych",
+        "B": "Nastawia zwrotnice, wykolejnice i sygnalizatory stosownie do żądań kierownika manewrów lub wskazań karty rozrządowej",
+        "C": "Wydaje polecenia maszyniście lokomotywy manewrowej",
+        "D": "Sporządza kartę rozrządową i przekazuje ją kierownikowi manewrów"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 20 ust. 1",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "2a14aae5-b0dd-448d-85d6-a5b82962c42b",
+      "question": "Kiedy pracownik posterunku nastawczego ma obowiązek odmówić wykonania żądania kierownika manewrów?",
+      "answers": {
+        "A": "Gdy żądanie nie zostało potwierdzone na piśmie",
+        "B": "Gdy żądanie dotyczy torów głównych",
+        "C": "Gdy wykonanie żądania zagrażałoby bezpieczeństwu ruchu kolejowego",
+        "D": "Gdy żądanie jest niezgodne z kartą rozrządową"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 20 ust. 1",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "7beaea7e-c1ba-4651-9f3c-bc2670ec35e7",
+      "question": "Kiedy nie jest wymagana każdorazowa zgoda dyżurnego ruchu dysponującego na wykonywanie manewrów na torach głównych?",
+      "answers": {
+        "A": "Gdy manewry trwają krócej niż 15 minut",
+        "B": "Gdy manewry wykonywane są wyłącznie lokomotywą bez składu",
+        "C": "Gdy manewry na tych torach wykonywane są stale, zgodnie z regulaminem technicznym",
+        "D": "Gdy kierownik manewrów wyrazi pisemną zgodę na zajęcie toru"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 20 ust. 2",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "7cbade7e-3195-4e13-8dc1-eadb2ed23c10",
+      "question": "Co powinien zrobić pracownik posterunku nastawczego po zauważeniu nieprawidłowości podczas manewrów?",
+      "answers": {
+        "A": "Powiadomić dyżurnego ruchu i kontynuować manewry pod jego nadzorem",
+        "B": "Wstrzymać wykonywanie manewrów",
+        "C": "Zapisać nieprawidłowość w dzienniku i poinformować kierownika manewrów",
+        "D": "Zmniejszyć prędkość manewrowania do czasu wyjaśnienia sytuacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 20 ust. 3",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "4ca8b451-0fa5-49fd-95bd-8667b096016a",
+      "question": "Na jakiej podstawie może odbywać się ruch manewrowy?",
+      "answers": {
+        "A": "Wyłącznie na polecenie dyżurnego ruchu dysponującego",
+        "B": "Na polecenie kierownika manewrów, wskazań sygnalizatorów lub odpowiedniego sygnału ręcznego i słuchowego pracownika posterunku nastawczego",
+        "C": "Wyłącznie na podstawie pisemnej karty rozrządowej zatwierdzonej przez dyżurnego ruchu",
+        "D": "Na polecenie maszynisty lokomotywy lub kierownika manewrów"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 20 ust. 4",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "1169bb91-b500-44dc-aa71-e3175bcac34d",
+      "question": "Jaką kolejność nastawiania tarcz należy zachować, gdy przed tarczą rozrządową znajduje się tarcza zaporowa (manewrowa) i zezwala się na spychanie składu na górkę?",
+      "answers": {
+        "A": "Najpierw nastawić tarczę rozrządową na sygnał \"Pchać powoli\", a następnie tarczę zaporową na \"Jazda dozwolona\"",
+        "B": "Obie tarcze nastawia się jednocześnie bez określonej kolejności",
+        "C": "Najpierw tarczę zaporową na \"Jazda dozwolona\" (\"Jazda manewrowa dozwolona\"), a następnie tarczę rozrządową na \"Pchać powoli\" lub \"Pchać z umiarkowaną prędkością\"",
+        "D": "Najpierw tarczę rozrządową na \"Pchać z umiarkowaną prędkością\", a następnie tarczę zaporową na \"Jazda manewrowa dozwolona\""
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 20 ust. 6",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "d1dd8128-c595-4d28-83bd-0bec929bc576",
+      "question": "Co jest wymagane, aby lokomotywa lub skład manewrowy mógł wjechać w okręg innego posterunku nastawczego?",
+      "answers": {
+        "A": "Zgoda dyżurnego ruchu dysponującego",
+        "B": "Zgoda kierownika manewrów tej lokomotywy",
+        "C": "Zgoda pracownika posterunku nastawczego, w którego okręg ma wjechać",
+        "D": "Pisemne polecenie dyspozytora zakładu"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 20 ust. 8",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "883476f1-7ab1-4a17-be47-76c682cba9f2",
+      "question": "Kto może zezwolić pracownikowi posterunku nastawczego na wypuszczenie lokomotywy lub składu manewrowego poza granicę przetaczania?",
+      "answers": {
+        "A": "Kierownik manewrów",
+        "B": "Dyżurny ruchu dysponujący",
+        "C": "Dyspozytor zakładu",
+        "D": "Pracownik sąsiedniego posterunku nastawczego"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 20 ust. 9",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "9af89168-7f28-4eea-b65e-5ae468c0318c",
+      "question": "Co należy zrobić z pojazdem kolejowym, który wjechał na zwrotnicę z ostrza nastawioną na jazdę z innego toru i spowodował rozprucie zwrotnicy, jeżeli nie ma widocznych uszkodzeń uniemożliwiających dalszą jazdę?",
+      "answers": {
+        "A": "Cofnąć pojazd na poprzedni tor i poczekać na oględziny zwrotnicy",
+        "B": "Zatrzymać pojazd w miejscu i powiadomić dyżurnego ruchu",
+        "C": "Usunąć pojazd ze zwrotnicy jazdą w kierunku z ostrza iglicy",
+        "D": "Usunąć pojazd ze zwrotnicy jazdą w kierunku ku ostrzu iglicy"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 20 ust. 10",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "30b0a313-5c43-4f09-8135-0d8b0de2348e",
+      "question": "Kiedy pracownik posterunku nastawczego powinien sprawdzić zabezpieczenie pojazdów kolejowych przed zbiegnięciem po zakończeniu manewrów?",
+      "answers": {
+        "A": "Zawsze po zakończeniu każdej serii manewrów",
+        "B": "Wyłącznie wtedy, gdy jest to wskazane w regulaminie technicznym",
+        "C": "Tylko w nocy lub przy złych warunkach atmosferycznych",
+        "D": "Na każde żądanie kierownika manewrów lub dyżurnego ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 20 ust. 12",
+      "section_ref": "§ 20",
+      "section": 20
+    },
+    {
+      "uuid": "c4102044-940b-4da6-acf2-3ed641e8baa5",
+      "question": "Co należy zrobić w przypadku dłuższego manewrowania przez przejazdy kolejowo-drogowe?",
+      "answers": {
+        "A": "Prowadzić manewry bez przerw, aż do ich zakończenia",
+        "B": "Cyklicznie umożliwić przejazd pojazdom drogowym, przerywając manewry w odstępach nie dłuższych niż 10 minut",
+        "C": "Cyklicznie umożliwić przejazd pojazdom drogowym, przerywając manewry w odstępach nie dłuższych niż 5 minut",
+        "D": "Cyklicznie umożliwić przejazd pojazdom drogowym, przerywając manewry w odstępach nie dłuższych niż 15 minut"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 21 ust. 3",
+      "section_ref": "§ 21",
+      "section": 21
+    },
+    {
+      "uuid": "e88acbb2-a245-41df-b0f6-cad41ccb6707",
+      "question": "Komu należy niezwłocznie zgłosić uszkodzenie rogatki na przejeździe kolejowo-drogowym?",
+      "answers": {
+        "A": "Dyżurnemu ruchu dysponującemu",
+        "B": "Dyżurnemu ruchu wykonawczemu",
+        "C": "Kierownikowi posterunku nastawczego",
+        "D": "Maszyniście pierwszego pociągu przejeżdżającego przez przejazd"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 21 ust. 4",
+      "section_ref": "§ 21",
+      "section": 21
+    },
+    {
+      "uuid": "e60304e5-336f-4498-bd89-b69a1720ca31",
+      "question": "Kiedy należy natychmiast przerwać manewry przez przejazd kolejowo-drogowy?",
+      "answers": {
+        "A": "Na żądanie każdego pojazdu drogowego oczekującego na przejeździe",
+        "B": "Gdy minie 10 minut od zamknięcia rogatek",
+        "C": "Dla umożliwienia przejazdu uprzywilejowanych pojazdów drogowych będących w akcji",
+        "D": "Na polecenie dyżurnego ruchu dysponującego"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 21 ust. 3",
+      "section_ref": "§ 21",
+      "section": 21
+    },
+    {
+      "uuid": "973fba64-cd36-4163-8052-b754b624d829",
+      "question": "Bez czyjego zezwolenia nie wolno przystępować do robót torowych, sieciowych i w urządzeniach srk?",
+      "answers": {
+        "A": "Dyżurnego ruchu dysponującego",
+        "B": "Kierownika pociągu",
+        "C": "Nastawniczego",
+        "D": "Zawiadowcy stacji"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 23",
+      "section_ref": "§ 23",
+      "section": 23
+    },
+    {
+      "uuid": "ec1fbc23-0492-4552-8cb1-27b095b1b98c",
+      "question": "Z jakimi dokumentami powinien zapoznać się pracownik posterunku nastawczego przed rozpoczęciem robót planowych?",
+      "answers": {
+        "A": "Z tymczasowym regulaminem prowadzenia ruchu w czasie robót oraz zarządzeniem o terminie rozpoczęcia robót i wdrożeniu tymczasowego regulaminu",
+        "B": "Z regulaminem technicznym posterunku oraz zarządzeniem o wstrzymaniu ruchu pociągów na czas wykonywania robót torowych",
+        "C": "Z planem robót budowlanych oraz harmonogramem prac utrzymaniowych toru i urządzeń sterowania ruchem kolejowym",
+        "D": "Z rozkazem szczególnym wydanym przez dyżurnego ruchu oraz instrukcją o sygnalizacji obowiązującą na posterunku"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 24",
+      "section_ref": "§ 24",
+      "section": 24
+    },
+    {
+      "uuid": "4a777841-bc8f-40e5-a0bf-a05426a65aa6",
+      "question": "Skąd mogą wynikać uprawnienia pracownika do wykonywania robót przy urządzeniach sterowania ruchem kolejowym?",
+      "answers": {
+        "A": "Wyłącznie z umieszczenia w tabeli „A” lub „B” książki kontroli urządzeń sterowania ruchem kolejowym, bez względu na zajmowane stanowisko lub posiadane pisemne upoważnienia",
+        "B": "Z umieszczenia w tabeli „A” lub „B” książki kontroli, z tymczasowego regulaminu prowadzenia ruchu albo z racji zajmowanego stanowiska lub pisemnych upoważnień dyrektorów zakładów",
+        "C": "Wyłącznie z pisemnych upoważnień wydanych przez naczelnika sekcji lub toromistrza albo z racji zajmowanego stanowiska wynikającego z tymczasowego regulaminu prowadzenia ruchu",
+        "D": "Z umieszczenia w tymczasowym regulaminie prowadzenia ruchu lub z ustnych upoważnień wydanych przez dyrektorów zakładów albo z racji zajmowanego stanowiska"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 25 ust. 1-2",
+      "section_ref": "§ 25",
+      "section": 25
+    },
+    {
+      "uuid": "b0310967-c41e-4b7a-aa80-3f111d2fc1ae",
+      "question": "W jaki sposób pracownik posterunku nastawczego przyjmuje zapis uprawnionego pracownika w odpowiedniej dokumentacji?",
+      "answers": {
+        "A": "Przez złożenie podpisu",
+        "B": "Przez ustne potwierdzenie przyjęcia do wiadomości",
+        "C": "Przez poinformowanie dyżurnego ruchu",
+        "D": "Przez wprowadzenie obostrzeń w urządzeniach"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 26 ust. 1",
+      "section_ref": "§ 26",
+      "section": 26
+    },
+    {
+      "uuid": "60f34252-d9a1-4143-808e-9ed62b93d225",
+      "question": "Co należy zrobić najpierw, gdy dyżurny ruchu wyrazi zgodę na prowadzenie robót?",
+      "answers": {
+        "A": "Dokonać zapisu zezwalającego na rozpoczęcie robót",
+        "B": "Wprowadzić żądane przez uprawnionego pracownika obostrzenia",
+        "C": "Poinformować pracownika posterunku nastawczego o zgodzie",
+        "D": "Zdejmować plomby i otwierać urządzenia"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 26 ust. 3",
+      "section_ref": "§ 26",
+      "section": 26
+    },
+    {
+      "uuid": "850c1b00-5c9a-4fee-a390-2f47f4fae3be",
+      "question": "Co jest zabronione przed dokonaniem zapisów o wyrażeniu zgody na prowadzenie robót?",
+      "answers": {
+        "A": "Przekazanie treści zapisu dyżurnemu ruchu",
+        "B": "Złożenie podpisu przez pracownika posterunku nastawczego",
+        "C": "Zdejmowanie plomb, otwieranie urządzeń i rozpoczynanie jakichkolwiek robót",
+        "D": "Umieszczenie zapisu o odmowie zezwolenia na roboty"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 26 ust. 6",
+      "section_ref": "§ 26",
+      "section": 26
+    },
+    {
+      "uuid": "0ff904bb-ed34-412c-99d0-6fb435e40d9a",
+      "question": "Gdzie uprawnieni pracownicy dokonują zapisu o zakończeniu robót?",
+      "answers": {
+        "A": "W odrębnej księdze zakończenia robót prowadzonej na posterunku nastawczym",
+        "B": "W tej samej dokumentacji, w której odnotowali rozpoczęcie robót",
+        "C": "Wyłącznie w dzienniku ruchu dyżurnego ruchu dysponującego",
+        "D": "W książce kontroli E-1758 część I"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 27 ust. 1",
+      "section_ref": "§ 27",
+      "section": 27
+    },
+    {
+      "uuid": "0cb25d44-a7f5-43cf-b32f-17ee964b7ba6",
+      "question": "Co sprawdza pracownik posterunku nastawczego po zakończeniu robót w urządzeniach?",
+      "answers": {
+        "A": "Czy sporządzono protokół odbioru robót podpisany przez kierownika robót",
+        "B": "Czy urządzenia zostały przekazane do eksploatacji przez uprawnionego pracownika",
+        "C": "Czy na urządzeniach założone zostały plomby i czy urządzenia zostały przepisowo zamknięte",
+        "D": "Czy wszystkie ograniczenia prędkości zostały wpisane do rozkazu jazdy"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 27 ust. 2",
+      "section_ref": "§ 27",
+      "section": 27
+    },
+    {
+      "uuid": "ec601559-3778-4a6e-9620-c74ea3ccdb11",
+      "question": "W jakich dokumentach pracownik posterunku nastawczego odnotowuje fakt odwołania obostrzeń?",
+      "answers": {
+        "A": "W księdze przebiegów, dzienniku ruchu i książce kontroli E-1758",
+        "B": "W dzienniku robót, księdze przebiegów i protokole odbioru",
+        "C": "W rozkładzie jazdy, dzienniku ruchu i rejestrze ograniczeń",
+        "D": "Wyłącznie w książce kontroli E-1758 część II"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 27 ust. 3",
+      "section_ref": "§ 27",
+      "section": 27
+    },
+    {
+      "uuid": "592550ab-4398-4921-8fca-d26b4451fe3d",
+      "question": "Co należy zrobić przed przystąpieniem do robót, gdy tymczasowy regulamin przewiduje dodatkowe zabezpieczenia takie jak zamki kluczowe, wykolejnice lub tablice zależności?",
+      "answers": {
+        "A": "Powiadomić dyżurnego ruchu dysponującego o gotowości do robót",
+        "B": "Wpisać planowane zabezpieczenia do dziennika robót i uzyskać potwierdzenie",
+        "C": "Bez założenia tych urządzeń nie wolno pozwolić na przystąpienie do robót",
+        "D": "Sporządzić protokół wprowadzenia zabezpieczeń podpisany przez kierownika robót"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 27 ust. 6",
+      "section_ref": "§ 27",
+      "section": 27
+    },
+    {
+      "uuid": "6dcac8e7-d39d-43f4-9663-6ba73598d805",
+      "question": "Kto jest wzywany do usunięcia usterek urządzeń sterowania ruchem kolejowym, jeśli pracownicy posterunku nastawczego stwierdzą, że przeszkody nie wynikają z niewłaściwej obsługi i nie mogą być przez personel usunięte?",
+      "answers": {
+        "A": "Uprawniony pracownik wskazany w tabeli A książki kontroli urządzeń sterowania ruchem kolejowym",
+        "B": "Dyżurny ruchu wyznaczony w regulaminie technicznym stacji",
+        "C": "Kierownik pociągu technicznego wpisany do rozkładu jazdy",
+        "D": "Inspektor nadzoru wskazany w tabeli B książki kontroli urządzeń sterowania ruchem kolejowym"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 28 ust. 1",
+      "section_ref": "§ 28",
+      "section": 28
+    },
+    {
+      "uuid": "36760fe6-e341-487f-a95b-6ea4e6bfbfef",
+      "question": "Gdzie powinna być umieszczona instrukcja obsługi awaryjnego źródła zasilania?",
+      "answers": {
+        "A": "W szafie zamkniętej na klucz, dostępnej tylko dla dyżurnego ruchu",
+        "B": "Na widocznym miejscu w pomieszczeniu, gdzie znajduje się awaryjne źródło zasilania",
+        "C": "W biurze nastawni, w segregatorze z dokumentacją techniczną",
+        "D": "Na stanowisku dyspozytora, w centralnym miejscu posterunku"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 29 ust. 1",
+      "section_ref": "§ 29",
+      "section": 29
+    },
+    {
+      "uuid": "82e73e35-7f67-423c-bb92-86c7e52e7fc2",
+      "question": "Kto może wchodzić w skład obsady posterunku nastawczego?",
+      "answers": {
+        "A": "Dyżurny ruchu, nastawniczy oraz zwrotniczy",
+        "B": "Dyżurny ruchu, kierownik pociągu oraz zwrotniczy",
+        "C": "Nastawniczy, maszynista oraz zwrotniczy",
+        "D": "Dyżurny ruchu, dyspozytor oraz nastawniczy"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 3 ust. 4",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "6629ebdc-f0a6-4f65-a361-1040834b6b3b",
+      "question": "Do kogo powinna należeć obsługa aparatu blokowego, sygnalizatorów, kluczowej skrzyni zależności lub tablicy kluczowej w przypadku wieloosobowej obsady posterunku nastawczego?",
+      "answers": {
+        "A": "Do pracownika wyznaczonego przez dyżurnego ruchu na początku zmiany",
+        "B": "Do koordynującego pracę na posterunku",
+        "C": "Do najstarszego stażem pracownika na posterunku",
+        "D": "Do każdego pracownika obsady na zmianę, według ustalonego harmonogramu"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 3 ust. 5",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "bd026a8f-2e25-4ce1-aed3-3d34fe6e8e55",
+      "question": "Jaki dokument powinien znajdować się na posterunku nastawczym wyposażonym w urządzenia sterowania ruchem kolejowym?",
+      "answers": {
+        "A": "Dziennik D-831",
+        "B": "Książka kontroli E-1758",
+        "C": "Dziennik ruchu",
+        "D": "Książka przebiegów"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 30 ust. 1",
+      "section_ref": "§ 30",
+      "section": 30
+    },
+    {
+      "uuid": "d5770f92-6f47-4812-90a1-bd2f088744c3",
+      "question": "Na jakim posterunku powinien znajdować się Dziennik D-831?",
+      "answers": {
+        "A": "Na każdym posterunku nastawczym wyposażonym w urządzenia blokady liniowej",
+        "B": "Na każdym posterunku dysponującym ruchem pociągów",
+        "C": "Na każdym posterunku, w rejonie którego dokonuje się oględzin i konserwacji rozjazdów",
+        "D": "Na każdym posterunku technicznym obsługującym semafory"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 30 ust. 1",
+      "section_ref": "§ 30",
+      "section": 30
+    },
+    {
+      "uuid": "fa786d27-4af6-4a8c-824f-1e4d559239ee",
+      "question": "Kto jest odpowiedzialny za należyte prowadzenie książki kontroli E-1758?",
+      "answers": {
+        "A": "Dyżurny ruchu dysponujący",
+        "B": "Naczelnik sekcji",
+        "C": "Kierownik robót",
+        "D": "Pracownik wyznaczony w regulaminie technicznym"
+      },
+      "correct": "D",
+      "explanation": "Ir-2 § 30 ust. 2",
+      "section_ref": "§ 30",
+      "section": 30
+    },
+    {
+      "uuid": "d26cc3a4-45bf-4ac5-bf14-1ff2c47f5161",
+      "question": "Do czego przeznaczona jest pierwsza część książki kontroli E-1758?",
+      "answers": {
+        "A": "Do zapisów o prowadzeniu robót niezwiązanych z usuwaniem usterek oraz wprowadzonych zmianach w urządzeniach",
+        "B": "Do zapisywania usterek w urządzeniach, odnotowywania ich usunięcia i informacji o wprowadzonych i odwołanych obostrzeniach",
+        "C": "Do rejestrowania wyników oględzin rozjazdów i wyników badań technicznych",
+        "D": "Do odnotowywania terminów sprawdzeń nadzwyczajnych i okresowych oraz wyników sprawdzenia"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 30 ust. 3",
+      "section_ref": "§ 30",
+      "section": 30
+    },
+    {
+      "uuid": "f0bbf8f4-8bdd-474d-bd74-70466e06fb93",
+      "question": "Do czego przeznaczona jest druga część książki kontroli E-1758?",
+      "answers": {
+        "A": "Do zapisywania przez personel obsługi usterek w urządzeniach i odnotowywania ich usunięcia",
+        "B": "Do rejestrowania wyników oględzin rozjazdów i adnotacji o dokonanych naprawach",
+        "C": "Do dokonywania zapisów o prowadzeniu robót niezwiązanych z usuwaniem usterek, wprowadzonych zmianach w urządzeniach oraz wprowadzaniu i odwoływaniu obostrzeń z powodu robót",
+        "D": "Do zapisywania informacji o prowadzeniu ruchu na odcinku zdalnego sterowania"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 30 ust. 3",
+      "section_ref": "§ 30",
+      "section": 30
+    },
+    {
+      "uuid": "6542ea72-b273-481d-8bc0-bad8f78edb20",
+      "question": "Na którym posterunku nastawczym uprawniony pracownik dokonuje zapisu o prowadzonych robotach w książce kontroli E-1758?",
+      "answers": {
+        "A": "Na posterunku nastawczym, na którym doszło do usterki powodującej przeszkody",
+        "B": "Na posterunku nastawczym, na którym wykonuje roboty",
+        "C": "Na posterunku nastawczym dysponującym odcinkiem zdalnego sterowania",
+        "D": "Na każdym posterunku nastawczym, na którym usterka powoduje przeszkody"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 30 ust. 4",
+      "section_ref": "§ 30",
+      "section": 30
+    },
+    {
+      "uuid": "18c93a19-82c9-439b-993d-7a7930479202",
+      "question": "W jaki sposób pracownik obsługi przyjmuje do wiadomości zapisy w książce kontroli E-1758?",
+      "answers": {
+        "A": "Przez potwierdzenie telefoniczne dyżurnemu ruchu",
+        "B": "Przez złożenie własnoręcznego podpisu",
+        "C": "Przez dokonanie odpowiedniego wpisu w dzienniku ruchu",
+        "D": "Przez potwierdzenie w księdze przebiegów"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 30 ust. 5",
+      "section_ref": "§ 30",
+      "section": 30
+    },
+    {
+      "uuid": "6a8ec3c5-ba0b-4a5a-9f3b-5a2049cd7050",
+      "question": "Gdzie pracownik obsługi wpisuje obostrzenia ze wskazaniem ich przyczyny, gdy dotyczą one urządzeń blokady liniowej?",
+      "answers": {
+        "A": "W książce przebiegów",
+        "B": "W dzienniku D-831",
+        "C": "W dzienniku ruchu",
+        "D": "Tylko w książce kontroli E-1758"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 30 ust. 5",
+      "section_ref": "§ 30",
+      "section": 30
+    },
+    {
+      "uuid": "5cdece65-c746-41f3-b16a-91125fe07792",
+      "question": "Gdzie pracownik obsługi wpisuje obostrzenia ze wskazaniem ich przyczyny, gdy dotyczą one urządzeń blokady stacyjnej?",
+      "answers": {
+        "A": "W dzienniku ruchu",
+        "B": "W dzienniku D-831",
+        "C": "W książce kontroli E-1758",
+        "D": "W książce przebiegów"
+      },
+      "correct": "D",
+      "explanation": "Ir-2 § 30 ust. 5",
+      "section_ref": "§ 30",
+      "section": 30
+    },
+    {
+      "uuid": "b17e4b92-2c88-4c89-bb30-8a070e3b1454",
+      "question": "Jakie informacje powinny określać zapisy w książce kontroli E-1758 przed przystąpieniem do robót torowych w urządzeniach oddziaływania pociągów?",
+      "answers": {
+        "A": "Rodzaj robót, rodzaj obostrzeń w prowadzeniu ruchu oraz termin zakończenia robót",
+        "B": "Nazwisko kierownika robót, rodzaj urządzeń oraz wymagane narzędzia",
+        "C": "Zgodę dyżurnego ruchu, zakres robót oraz szacowany czas trwania",
+        "D": "Rodzaj robót, nazwę posterunku nastawczego oraz numer uprawnień pracownika"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 30 ust. 8",
+      "section_ref": "§ 30",
+      "section": 30
+    },
+    {
+      "uuid": "f85e6280-2cfc-4204-b8db-694e44d0d95a",
+      "question": "Czy na roboty wymagana jest zgoda dyżurnego ruchu dysponującego, jeżeli roboty nie powodują wprowadzenia obostrzeń?",
+      "answers": {
+        "A": "Nie, zgoda jest wymagana tylko wtedy, gdy roboty powodują obostrzenia",
+        "B": "Tak, na każde roboty wymagana jest zgoda dyżurnego ruchu dysponującego",
+        "C": "Nie, wystarczy wpis w książce kontroli E-1758",
+        "D": "Tak, ale tylko przy robotach trwających powyżej jednej godziny"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 30 ust. 9",
+      "section_ref": "§ 30",
+      "section": 30
+    },
+    {
+      "uuid": "92d6fa59-a72a-4209-90b1-f776c3a03585",
+      "question": "Do czego służy Dziennik D-831?",
+      "answers": {
+        "A": "Do zapisywania usterek w urządzeniach sterowania ruchem kolejowym i informacji o obostrzeniach",
+        "B": "Do rejestrowania wyników oględzin rozjazdów, wyników badań technicznych rozjazdów i adnotacji o dokonanych naprawach",
+        "C": "Do prowadzenia ewidencji robót torowych i ich terminów",
+        "D": "Do zapisywania informacji o prowadzeniu ruchu na posterunkach nastawczych"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 30 ust. 10",
+      "section_ref": "§ 30",
+      "section": 30
+    },
+    {
+      "uuid": "347e81a9-bb1c-4b6e-8029-eb47ed349207",
+      "question": "Jak kierownik robót powinien postąpić, gdy ze względu na znaczną odległość nastawni dysponującej i terminowość robót wniesienie zapisu w Dzienniku D-831 jest niemożliwe?",
+      "answers": {
+        "A": "Powinien osobiście stawić się na nastawni dysponującej i dokonać wpisu przed rozpoczęciem robót",
+        "B": "Powinien zgłosić to dyżurnemu ruchu telefonogramem, którego treść dyżurny ruchu wpisuje do Dziennika D-831",
+        "C": "Powinien dokonać zapisu wyłącznie w Dzienniku D-831 zainteresowanego posterunku nastawczego",
+        "D": "Powinien wnieść zapis w książce kontroli E-1758 na nastawni dysponującej"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 30 ust. 13",
+      "section_ref": "§ 30",
+      "section": 30
+    },
+    {
+      "uuid": "a3e82915-3591-48c8-bb1b-be26ca4a980d",
+      "question": "Kogo powinien niezwłocznie powiadomić pracownik posterunku nastawczego w przypadku przejechania pociągu bez zezwolenia obok semafora wskazującego sygnał \"Stój\"?",
+      "answers": {
+        "A": "Maszynistę pociągu",
+        "B": "Dyżurnego ruchu",
+        "C": "Dyspozytora trakcji",
+        "D": "Kierownika pociągu"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 31 ust. 2",
+      "section_ref": "§ 31",
+      "section": 31
+    },
+    {
+      "uuid": "8a59641b-95ea-418a-9704-857eb314f060",
+      "question": "Kiedy można zdjąć środki pomocnicze zabezpieczające uszkodzony tor?",
+      "answers": {
+        "A": "Po dopuszczeniu jazdy i dokonaniu odpowiedniego zapisu przez uprawnionego pracownika, tylko na polecenie dyżurnego ruchu dysponującego",
+        "B": "Po dopuszczeniu jazdy i dokonaniu odpowiedniego zapisu przez uprawnionego pracownika, bez konieczności uzyskania dodatkowego polecenia",
+        "C": "Na polecenie dyżurnego ruchu dysponującego, niezależnie od tego, czy jazda została dopuszczona i czy dokonano odpowiedniego zapisu",
+        "D": "Po dokonaniu odpowiedniego zapisu przez pracownika posterunku nastawczego i uzyskaniu zgody maszynisty"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 32 ust. 2",
+      "section_ref": "§ 32",
+      "section": 32
+    },
+    {
+      "uuid": "875df1c1-a24f-442a-9267-410a48eff0cc",
+      "question": "Co należy zrobić w razie zbliżania się zbiegłych pojazdów kolejowych?",
+      "answers": {
+        "A": "Nastawić zwrotnicę na tor wolny zakończony kozłem oporowym i starać się zatrzymać zbiegłe pojazdy przez zahamowanie ich płozami hamulcowymi.",
+        "B": "Nastawić zwrotnicę na tor wolny zakończony kozłem oporowym i starać się zatrzymać zbiegłe pojazdy przez zahamowanie ich hamulcami pneumatycznymi.",
+        "C": "Nastawić zwrotnicę na tor zajęty próżnymi wagonami i starać się zatrzymać zbiegłe pojazdy przez zahamowanie ich płozami hamulcowymi.",
+        "D": "Nastawić zwrotnicę na sąsiedni szlak i starać się zatrzymać zbiegłe pojazdy przez zahamowanie ich płozami hamulcowymi."
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 33 ust. 2",
+      "section_ref": "§ 33",
+      "section": 33
+    },
+    {
+      "uuid": "223db4cf-6d41-4080-95dc-de81e06118e7",
+      "question": "Kiedy można skierować zbiegłe pojazdy kolejowe na tor zajęty wagonami ładownymi?",
+      "answers": {
+        "A": "Jeżeli wśród wagonów ładownych nie ma wagonów z ludźmi, zwierzętami, towarami niebezpiecznymi lub przy których nie odbywają się czynności ładunkowe.",
+        "B": "Jeżeli wśród wagonów ładownych nie ma wagonów z ludźmi ani zwierzętami, niezależnie od rodzaju przewożonych towarów.",
+        "C": "Zawsze, gdy nie ma innego wolnego toru, a istnieje obawa zderzenia z innymi pojazdami kolejowymi.",
+        "D": "Po uzgodnieniu z dyżurnym ruchu dysponującym, jeżeli wśród wagonów ładownych nie ma wagonów z ludźmi."
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 33 ust. 5",
+      "section_ref": "§ 33",
+      "section": 33
+    },
+    {
+      "uuid": "4ec125dc-532e-41b3-b79e-c134bd290f64",
+      "question": "Na jakich warunkach można zbiegłe pojazdy kolejowe przepuścić na sąsiedni szlak?",
+      "answers": {
+        "A": "Jeżeli sąsiedni szlak jest wolny, a jego profil sprzyja zatrzymaniu na nim zbiegłych pojazdów, po uzgodnieniu z dyżurnym ruchu dysponującym.",
+        "B": "Jeżeli sąsiedni szlak jest wolny, a jego profil sprzyja zatrzymaniu na nim zbiegłych pojazdów, bez konieczności uzgodnień z dyżurnym ruchu.",
+        "C": "Jeżeli sąsiedni szlak jest wolny i jest zakończony kozłem oporowym, po uzgodnieniu z dyżurnym ruchu dysponującym.",
+        "D": "Jeżeli sąsiedni szlak jest wolny, po uzgodnieniu z dyżurnym ruchu dysponującym, niezależnie od profilu szlaku."
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 33 ust. 4",
+      "section_ref": "§ 33",
+      "section": 33
+    },
+    {
+      "uuid": "a786576c-6f31-422f-b728-2910e219dff5",
+      "question": "Co powinien zrobić pracownik kolejowy, który zauważył, że może dojść do wypadku, a zapobieżenie mu jest niemożliwe?",
+      "answers": {
+        "A": "Niezwłocznie opuścić zagrożony obszar i zawiadomić przełożonego",
+        "B": "Dążyć do ograniczenia skutków wypadku",
+        "C": "Wstrzymać ruch na sąsiednich torach i oczekiwać na komisję kolejową",
+        "D": "Zabezpieczyć urządzenia nastawcze zamknięciami pomocniczymi"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 34 ust. 1",
+      "section_ref": "§ 34",
+      "section": 34
+    },
+    {
+      "uuid": "7849b554-61cc-403b-b1eb-e07427f33659",
+      "question": "Komu pracownik kolejowy obowiązany jest zgłosić wypadek w pierwszej kolejności?",
+      "answers": {
+        "A": "Naczelnikowi sekcji lub innemu upoważnionemu pracownikowi",
+        "B": "Przewodniczącemu komisji kolejowej",
+        "C": "Dyżurnemu ruchu najbliższego posterunku ruchu zarządcy infrastruktury lub dyspozytorowi",
+        "D": "Pracownikowi posterunku nastawczego odpowiedzialnego za dany szlak"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 34 ust. 2",
+      "section_ref": "§ 34",
+      "section": 34
+    },
+    {
+      "uuid": "0288260a-10b4-4f4d-873d-a4a8f99e9e8d",
+      "question": "Na co należy zwracać uwagę przy osygnalizowaniu miejsca wykolejenia?",
+      "answers": {
+        "A": "Tylko na tor, na którym nastąpiło zdarzenie",
+        "B": "Na tor zdarzenia oraz tory, których skrajnia została naruszona przez wykolejone pojazdy kolejowe",
+        "C": "Na wszystkie tory w odległości do 500 m od miejsca wykolejenia",
+        "D": "Na tor zdarzenia oraz tory sąsiadujące bezpośrednio z miejscem wykolejenia"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 34 ust. 3",
+      "section_ref": "§ 34",
+      "section": 34
+    },
+    {
+      "uuid": "7ca499a6-2088-4cbd-8049-c57e0c4b4348",
+      "question": "Do czasu przybycia komisji kolejowej, czego nie wolno robić na miejscu wypadku?",
+      "answers": {
+        "A": "Zdejmować plomb, zmieniać położenia wykolejonych pojazdów ani bezpośrednio sąsiadujących z nimi pojazdów, nawet gdyby nie były wykolejone",
+        "B": "Osygnalizowywać miejsca wykolejenia ani zabezpieczać urządzeń nastawczych zamknięciami pomocniczymi uniemożliwiającymi skierowanie pojazdów kolejowych na tory objęte wypadkiem",
+        "C": "Udzielać pomocy poszkodowanym ani podejmować działań niezbędnych do ograniczenia skutków zdarzenia, w tym wzywać służb ratunkowych na miejsce wypadku",
+        "D": "Zgłaszać zdarzenia dyżurnemu ruchu najbliższego posterunku ruchu zarządcy infrastruktury ani kontaktować się z dyspozytorem, nawet jeżeli zdarzenie nastąpiło na szlaku"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 34 ust. 4",
+      "section_ref": "§ 34",
+      "section": 34
+    },
+    {
+      "uuid": "a5b0121d-6420-4419-a667-94cdd12df334",
+      "question": "Kiedy dopuszczalne jest niezwłoczne rozwiązanie drogi przebiegu po wypadku, bez uzyskania zgody przewodniczącego komisji kolejowej?",
+      "answers": {
+        "A": "Gdy wymaga tego bezpieczeństwo ruchu pociągów na sąsiednich torach",
+        "B": "Gdy poleci to naczelnik sekcji lub inny upoważniony pracownik",
+        "C": "Gdy jest to niezbędne dla udzielenia pomocy poszkodowanym lub ograniczenia skutków zdarzenia",
+        "D": "Gdy urządzenia srk uległy uszkodzeniu i ich stan zagraża dalszemu ruchowi"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 34 ust. 5 pkt 1",
+      "section_ref": "§ 34",
+      "section": 34
+    },
+    {
+      "uuid": "e3195fb1-76f0-4607-b704-ad1d6660f4b4",
+      "question": "Na czyje polecenie może nastąpić usuwanie skutków zdarzenia?",
+      "answers": {
+        "A": "Dyżurnego ruchu najbliższego posterunku ruchu zarządcy infrastruktury",
+        "B": "Przewodniczącego komisji kolejowej",
+        "C": "Naczelnika sekcji lub innego upoważnionego pracownika, po uzyskaniu zgody przewodniczącego komisji kolejowej",
+        "D": "Dyspozytora, po uprzednim opisaniu stanu urządzeń sterowania ruchem kolejowym"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 34 ust. 6",
+      "section_ref": "§ 34",
+      "section": 34
+    },
+    {
+      "uuid": "722ec2a2-b28e-4103-b3e0-39171edfe38c",
+      "question": "Co należy zrobić po zauważeniu pożaru na obszarze kolejowym, w wagonach, magazynach lub budynkach?",
+      "answers": {
+        "A": "Podawać sygnał \"Pożar\" i zawiadomić dyżurnego ruchu celem wezwania przez niego pomocy.",
+        "B": "Niezwłocznie przystąpić do samodzielnego gaszenia pożaru bez powiadamiania kogokolwiek.",
+        "C": "Powiadomić maszynistę pociągu i oczekiwać na jego dalsze dyspozycje.",
+        "D": "Zatrzymać wszystkie pociągi na sąsiednich torach i wezwać straż pożarną bezpośrednio."
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 35 ust. 1",
+      "section_ref": "§ 35",
+      "section": 35
+    },
+    {
+      "uuid": "911a998f-4bad-48af-8196-c9ec9805d14d",
+      "question": "Jak należy postąpić w przypadku pożaru na posterunku nastawczym?",
+      "answers": {
+        "A": "Opuścić posterunek i oczekiwać na przybycie straży pożarnej.",
+        "B": "Powiadomić dyżurnego ruchu i oczekiwać na jego dalsze dyspozycje bez podejmowania działań.",
+        "C": "Przystąpić do gaszenia pożaru za pomocą dostępnych środków i powiadomić o tym dyżurnego ruchu.",
+        "D": "Zatrzymać pociągi jadące po torach sąsiednich i przystąpić do gaszenia pożaru."
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 35 ust. 2",
+      "section_ref": "§ 35",
+      "section": 35
+    },
+    {
+      "uuid": "e6dd584f-e020-4f21-beae-d18d06c66865",
+      "question": "Kogo obowiązany jest powiadomić pracownik, który spostrzegł zasłabnięcie lub uszkodzenie ciała osoby na obszarze kolejowym?",
+      "answers": {
+        "A": "Kierownika pociągu",
+        "B": "Dyżurnego ruchu",
+        "C": "Najbliższą jednostkę policji",
+        "D": "Pogotowie ratunkowe"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 36 ust. 1",
+      "section_ref": "§ 36",
+      "section": 36
+    },
+    {
+      "uuid": "439334f9-e4be-4047-84ac-75d86bfee4a1",
+      "question": "Co należy zrobić po zauważeniu na torze zwłok ludzkich?",
+      "answers": {
+        "A": "Zwolnić i ostrożnie przejechać, a następnie powiadomić dyżurnego ruchu",
+        "B": "Powiadomić dyżurnego ruchu bez zatrzymywania pociągu",
+        "C": "Zatrzymać pociąg lub pojazd kolejowy i powiadomić dyżurnego ruchu",
+        "D": "Zatrzymać pociąg i niezwłocznie zawiadomić pogotowie ratunkowe"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 36 ust. 2",
+      "section_ref": "§ 36",
+      "section": 36
+    },
+    {
+      "uuid": "0a755077-84d1-4e4c-867c-b5cb03d79448",
+      "question": "Kogo dyżurny ruchu obowiązany jest niezwłocznie zawiadomić w przypadku najechania człowieka przez pociąg będący w ruchu?",
+      "answers": {
+        "A": "Pogotowie ratunkowe oraz najbliższą jednostkę policji",
+        "B": "Pogotowie ratunkowe oraz prokuratora",
+        "C": "Najbliższą jednostkę policji oraz straż pożarną",
+        "D": "Kierownika pociągu oraz pogotowie ratunkowe"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 36 ust. 3",
+      "section_ref": "§ 36",
+      "section": 36
+    },
+    {
+      "uuid": "6f2c1e7b-533f-4fa1-81e5-248a457c6b44",
+      "question": "Komu pracownik posterunku nastawczego powinien zgłosić nieprawidłowości, których nie może usunąć we własnym zakresie?",
+      "answers": {
+        "A": "Naczelnikowi Sekcji Eksploatacji",
+        "B": "Dyżurnemu ruchu dysponującemu",
+        "C": "Naczelnemu dyspozytorowi ruchu",
+        "D": "Kierownikowi posterunku manewrowego"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 37 ust. 3",
+      "section_ref": "§ 37",
+      "section": 37
+    },
+    {
+      "uuid": "da21951c-7c39-4700-8635-0c8104c57ac4",
+      "question": "Kto powiadamia naczelnika Sekcji Eksploatacji o nieprawidłowościach zgłoszonych przez pracownika posterunku nastawczego?",
+      "answers": {
+        "A": "Pracownik posterunku nastawczego bezpośrednio",
+        "B": "Kierownik posterunku manewrowego",
+        "C": "Dyżurny ruchu dysponujący",
+        "D": "Naczelny dyspozytorni ruchu"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 37 ust. 3",
+      "section_ref": "§ 37",
+      "section": 37
+    },
+    {
+      "uuid": "dd158c26-7194-40b7-950d-9f8819bccfd8",
+      "question": "Czyja zgoda jest wymagana do wykonywania robót w okręgu nastawczym?",
+      "answers": {
+        "A": "Naczelnika sekcji lub dyżurnego ruchu",
+        "B": "Dyżurnego ruchu dysponującego lub kierownika pociągu",
+        "C": "Naczelnika sekcji lub kierownika posterunku manewrowego",
+        "D": "Dyspozytora lub naczelnika stacji"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 37 ust. 1 pkt 2",
+      "section_ref": "§ 37",
+      "section": 37
+    },
+    {
+      "uuid": "8281027f-6a6c-402c-a4f3-c955415332ff",
+      "question": "W jakiej pozycji powinno zostać ustawione ramię żurawia po naborze wody?",
+      "answers": {
+        "A": "Prostopadle do osi toru, unieruchomione i zamknięte",
+        "B": "Równolegle do osi toru, unieruchomione i zamknięte",
+        "C": "Równolegle do osi toru, bez unieruchamiania, zamknięte",
+        "D": "Pod kątem 45 stopni do osi toru, unieruchomione i zamknięte"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 37 ust. 2 pkt 2",
+      "section_ref": "§ 37",
+      "section": 37
+    },
+    {
+      "uuid": "49a02f14-60b0-4bec-8d99-023f4428de8c",
+      "question": "Jakich pojazdów nie wolno odstawiać na postój na tory nieprzeznaczone do tego celu?",
+      "answers": {
+        "A": "Lokomotyw i wagonów towarowych oraz pojazdów pomocniczych",
+        "B": "Maszyn torowych, pojazdów pomocniczych i zajętych przez ludzi wagonów mieszkalnych",
+        "C": "Wagonów pasażerskich, maszyn torowych i lokomotyw spalinowych",
+        "D": "Pojazdów pomocniczych, wagonów towarowych i wagonów sypialnych"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 37 ust. 1 pkt 6",
+      "section_ref": "§ 37",
+      "section": 37
+    },
+    {
+      "uuid": "69fa46d8-3319-4d5c-a06b-c3dd5f237a08",
+      "question": "Jak należy stać przy przekładaniu dźwigni zwrotnicy scentralizowanej?",
+      "answers": {
+        "A": "Przodem do dźwigni, trzymając ją luźno",
+        "B": "Bokiem do dźwigni, trzymając ją pewnie",
+        "C": "Tyłem do dźwigni, trzymając ją oburącz",
+        "D": "W dowolnej pozycji, zachowując odległość co najmniej 1 m"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 38 cz. I ust. 2",
+      "section_ref": "§ 38",
+      "section": 38
+    },
+    {
+      "uuid": "402776b0-09ca-4ef5-893c-da981cc109c7",
+      "question": "Jak powinien być ustawiony pracownik przy przekładaniu zwrotnicy niescentralizowanej?",
+      "answers": {
+        "A": "Tyłem do toru, w bezpiecznej odległości od toru",
+        "B": "Przodem do dźwigni napędowej, w odległości co najmniej 2 m",
+        "C": "Przodem lub bokiem do toru, w bezpiecznej odległości od toru",
+        "D": "Bokiem do kierunku jazdy pociągu, w odległości co najmniej 1 m"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 38 cz. I ust. 3",
+      "section_ref": "§ 38",
+      "section": 38
+    },
+    {
+      "uuid": "d9aab113-b3a5-4216-bd6c-df21068fc786",
+      "question": "W jaki sposób należy zakładać klin zwrotnicowy przy czyszczeniu zdalnie nastawianej zwrotnicy?",
+      "answers": {
+        "A": "Stojąc po stronie iglicy przylegającej, wkłada się klin od dołu w ostrze iglicy",
+        "B": "Stojąc po stronie odsuniętej iglicy, wkłada się klin z góry w ostrze iglicy i przesuwa w stronę osady iglic",
+        "C": "Stojąc po stronie opornicy, wkłada się klin z boku między iglicę a opornicę",
+        "D": "Stojąc po stronie odsuniętej iglicy, wkłada się klin od dołu i opiera uchwyt na opornicy"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 38 cz. I ust. 5",
+      "section_ref": "§ 38",
+      "section": 38
+    },
+    {
+      "uuid": "71ac20b7-59b7-4993-8632-7bd01bf49931",
+      "question": "Gdzie powinien spoczywać uchwyt klina zwrotnicowego po jego prawidłowym założeniu?",
+      "answers": {
+        "A": "Na górnej powierzchni iglicy odsuniętej",
+        "B": "Na górnej powierzchni opornicy",
+        "C": "Na bocznej powierzchni iglicy przylegającej",
+        "D": "Na dolnej powierzchni iglicy odsuniętej"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 38 cz. I ust. 5",
+      "section_ref": "§ 38",
+      "section": 38
+    },
+    {
+      "uuid": "cf2fdf38-a6e2-48c7-a6d6-379abf950bf2",
+      "question": "Jaki napis powinien widnieć na tabliczce zawieszanej na dźwigni zwrotnicowej podczas oczyszczania rozjazdów przez konserwatora?",
+      "answers": {
+        "A": "\"Roboty na torze\"",
+        "B": "\"Zakaz nastawiania\"",
+        "C": "\"Uwaga konserwator na rozjazdach\"",
+        "D": "\"Zwrotnica wyłączona z eksploatacji\""
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 38 cz. I ust. 7",
+      "section_ref": "§ 38",
+      "section": 38
+    },
+    {
+      "uuid": "079acdbf-608c-46b7-baed-0d00d1332f28",
+      "question": "Jaka minimalna odległość między stojącymi pojazdami kolejowymi jest wymagana, aby można było przechodzić przez tory przez przerwy między nimi?",
+      "answers": {
+        "A": "Co najmniej 10 m",
+        "B": "Co najmniej 15 m",
+        "C": "Co najmniej 20 m",
+        "D": "Co najmniej 25 m"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 38 cz. II ust. 2",
+      "section_ref": "§ 38",
+      "section": 38
+    },
+    {
+      "uuid": "4eadf46b-a366-43a8-bc0e-e9250e307929",
+      "question": "W jakiej odległości od ostatniego pojazdu należy przejść przez tor, gdy obchodzi się stojące pojazdy kolejowe?",
+      "answers": {
+        "A": "Co najmniej 5 m od ostatniego pojazdu",
+        "B": "Co najmniej 10 m od ostatniego pojazdu",
+        "C": "Co najmniej 15 m od ostatniego pojazdu",
+        "D": "Co najmniej 20 m od ostatniego pojazdu"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 38 cz. II ust. 2",
+      "section_ref": "§ 38",
+      "section": 38
+    },
+    {
+      "uuid": "ee899d8a-e72a-44ce-99c1-1c587f7c30f5",
+      "question": "Kiedy nie wolno przebywać na międzytorzu w czasie jazdy pociągów po obu torach?",
+      "answers": {
+        "A": "Gdy odległość między osiami torów jest mniejsza niż 3 m",
+        "B": "Gdy odległość między osiami torów jest mniejsza niż 4 m",
+        "C": "Gdy odległość między osiami torów jest mniejsza niż 5 m",
+        "D": "Gdy odległość między osiami torów jest mniejsza niż 6 m"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 38 cz. II ust. 5",
+      "section_ref": "§ 38",
+      "section": 38
+    },
+    {
+      "uuid": "18785586-0a13-42fc-9941-455c5706bc0b",
+      "question": "Jaka jest bezpieczna odległość od przewodów trakcyjnych i urządzeń z nimi połączonych?",
+      "answers": {
+        "A": "0,8 m",
+        "B": "1,0 m",
+        "C": "1,2 m",
+        "D": "1,4 m"
+      },
+      "correct": "D",
+      "explanation": "Ir-2 § 38 cz. III ust. 3",
+      "section_ref": "§ 38",
+      "section": 38
+    },
+    {
+      "uuid": "e2ee0617-ff81-4698-8116-443e692ecb55",
+      "question": "Po której stronie zwrotnicy należy stać przy zakładaniu klina zwrotnicowego?",
+      "answers": {
+        "A": "Po stronie przylegającej iglicy",
+        "B": "Po stronie opornicy",
+        "C": "Po stronie odsuniętej iglicy",
+        "D": "Po dowolnej stronie, zależnie od warunków terenowych"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 38 cz. I ust. 5",
+      "section_ref": "§ 38",
+      "section": 38
+    },
+    {
+      "uuid": "f714965e-e5c8-4735-8c91-15fe174c0d41",
+      "question": "Czy w czasie, gdy klin zwrotnicowy znajduje się między iglicą a opornicą, można dopuścić jazdę taboru?",
+      "answers": {
+        "A": "Tak, zawsze",
+        "B": "Nie, jazda taboru jest wówczas bezwzględnie zakazana",
+        "C": "Tak, pod warunkiem prawidłowego założenia klina",
+        "D": "Tak, ale tylko dla pojazdów bez ładunku"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 38 cz. I ust. 6",
+      "section_ref": "§ 38",
+      "section": 38
+    },
+    {
+      "uuid": "a77fad0a-03a4-4594-8460-46c44acccebf",
+      "question": "Na jaką minimalną odległość nie wolno się zbliżyć do zerwanych przewodów sieci trakcyjnej lub przewodów linii elektroenergetycznych?",
+      "answers": {
+        "A": "Mniej niz 5 m",
+        "B": "Mniej niz 10 m",
+        "C": "Mniej niz 15 m",
+        "D": "Mniej niz 20 m"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 38 cz. III ust. 5",
+      "section_ref": "§ 38",
+      "section": 38
+    },
+    {
+      "uuid": "b1b9e468-48cd-4b7b-9737-1d69caf5fd1f",
+      "question": "Które instrukcje na posterunku nastawczym muszą być dostępne w wersji wydrukowanej?",
+      "answers": {
+        "A": "Ir-1, Ir-2, Ir-8, Ir-9, Ie-1, Id-4, Ir-16",
+        "B": "Ir-1, Ir-9, Ie-1, Id-4, Ir-16, Ir-7 (na posterunkach obsługujących przejazdy)",
+        "C": "Ir-1, Ir-5, Ir-8, Ie-1, Id-4, Ir-16",
+        "D": "Ir-1, Ir-2, Ir-9, Ie-5, Id-4, Ir-15"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 4 ust. 1 pkt 1",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "60970b76-c28a-4c80-97fb-2fd08af42b16",
+      "question": "Instrukcja Ir-8 dotycząca postępowania w sprawach wypadków i incydentów jest wymagana na posterunku nastawczym:",
+      "answers": {
+        "A": "na wszystkich posterunkach nastawczych",
+        "B": "tylko na nastawniach dysponujących",
+        "C": "tylko na posterunkach wyposażonych w urządzenia radiołączności",
+        "D": "tylko na nastawniach obsługujących przejazdy kolejowe"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 4 ust. 1 pkt 1 lit. e",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "87525701-69e4-45ab-b3e0-891558e68b58",
+      "question": "Instrukcja Ir-5 (R-12) o użytkowaniu urządzeń radiołączności pociągowej jest wymagana na posterunku nastawczym:",
+      "answers": {
+        "A": "na wszystkich posterunkach nastawczych w wersji wydrukowanej",
+        "B": "tylko na nastawniach dysponujących",
+        "C": "tylko na posterunkach wyposażonych w te urządzenia",
+        "D": "na wszystkich posterunkach nastawczych, lecz bez wymogu wersji wydrukowanej"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 4 ust. 1 pkt 1 lit. f",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "2be85644-2a4c-4590-bd7c-6bbc00dc3973",
+      "question": "Jakie wymaganie dotyczące EDR (elektronicznego dziennikarza rozkładu jazdy) obowiązuje na nastawniach posiadających ten system?",
+      "answers": {
+        "A": "Wymagane jest wyposażenie posterunku wyłącznie w wersję elektroniczną EDR",
+        "B": "Wymagane jest wyposażenie posterunku w wyciąg z rozkładu jazdy w wersji papierowej",
+        "C": "Wymagany jest wydruk całego rozkładu jazdy w wersji papierowej",
+        "D": "Wymagane są tylko dodatki do wewnętrznego rozkładu jazdy w wersji papierowej"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 4 ust. 1 pkt 2 lit. b",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "f31956aa-3443-4af4-b2ea-055b41d85b28",
+      "question": "Ile tarcz zatrzymania i tarcz ostrzegawczych przenośnych powinien posiadać posterunek nastawczy?",
+      "answers": {
+        "A": "Co najmniej jedną tarczę zatrzymania i jedną tarczę ostrzegawczą",
+        "B": "Co najmniej trzy tarcze zatrzymania i trzy tarcze ostrzegawcze",
+        "C": "Co najmniej dwie tarcze zatrzymania i dwie tarcze ostrzegawcze",
+        "D": "Cztery tarcze zatrzymania i cztery tarcze ostrzegawcze"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 4 ust. 1 pkt 3 lit. i",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "9d41621d-d2c8-4870-b66f-fdda39a5e51b",
+      "question": "Ile korb do ręcznego przestawiania zwrotnic wymaganych jest na nastawniach z elektrycznym nastawianiem zwrotnic?",
+      "answers": {
+        "A": "Co najmniej dwie danego typu napędu na każdy okręg nastawczy",
+        "B": "Co najmniej jedna danego typu napędu na każdy okręg nastawczy",
+        "C": "Co najmniej trzy danego typu napędu na posterunek nastawczy",
+        "D": "Liczba określona wyłącznie w regulaminie technicznym, bez minimalnego wymogu"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 4 ust. 1 pkt 3 lit. f",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "215c2a12-2fa7-4569-908e-1a7b0bca8e2b",
+      "question": "Instrukcja Ir-15 o kolejowym ratownictwie technicznym jest wymagana na posterunku nastawczym:",
+      "answers": {
+        "A": "Na wszystkich posterunkach nastawczych w wersji wydrukowanej",
+        "B": "Tylko na posterunkach wyposażonych w urządzenia ratownicze",
+        "C": "Tylko na nastawniach dysponujących",
+        "D": "Tylko na posterunkach obsługujących przejazdy kolejowe"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 4 ust. 1 pkt 1 lit. o",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "32210e04-8ec4-44fb-bb09-7cc815d8b572",
+      "question": "Która instrukcja musi znajdować się na każdej nastawni dysponującej w zakresie postępowania w poważnych wypadkach i incydentach?",
+      "answers": {
+        "A": "Ir-8",
+        "B": "Ir-5 (R-12)",
+        "C": "Ir-15",
+        "D": "Ir-9"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 4 ust. 1 pkt 1 lit. e",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "18660fb7-7420-41fc-9cbe-f9250b3ba003",
+      "question": "Gdzie na posterunku nastawczym muszą być umieszczone klucze zapasowe do zwrotnic, wykolejnic lub urządzeń sygnałowych zamykanych na zamki?",
+      "answers": {
+        "A": "w kasie podręcznej lub szufladzie stołu dyżurnego",
+        "B": "w szafkach lub na tablicach",
+        "C": "przy stanowisku nastawniczym lub w dyżurce",
+        "D": "w regulaminowym miejscu wyznaczonym przez kierownika posterunku"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 4 ust. 1 pkt 3 lit. e",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "13d1384a-9186-4bc5-8da1-fabfcf7d0d6f",
+      "question": "Minimalna liczba płóz hamulcowych do zabezpieczenia pojazdów kolejowych przed zbiegnięciem na posterunku nastawczym wynosi:",
+      "answers": {
+        "A": "co najmniej jedna",
+        "B": "co najmniej dwie",
+        "C": "co najmniej trzy",
+        "D": "co najmniej cztery"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 4 ust. 1 pkt 3 lit. p",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "165a9758-9f6c-42d8-b6a9-b314c521c613",
+      "question": "Co powinno znajdować się na posterunku nastawczym w odniesieniu do wykazu przepisów i instrukcji?",
+      "answers": {
+        "A": "indeks obowiązujących instrukcji zatwierdzony przez kierownika stacji",
+        "B": "wykaz przepisów i instrukcji przydzielonych do użytku oraz spis inwentarza",
+        "C": "rejestr zmian instrukcji prowadzony przez dyspozytora",
+        "D": "protokol przekazania instrukcji podpisany przez dyżurnego ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 4 ust. 2",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "ba47b5b6-3e9e-4eb5-a9a1-0b6a81a8a6fe",
+      "question": "Dziennik telefoniczny jest wymagany na posterunku nastawczym:",
+      "answers": {
+        "A": "na wszystkich posterunkach nastawczych",
+        "B": "tylko na nastawniach wyposażonych w radiołączność",
+        "C": "tylko na nastawniach dysponujących",
+        "D": "tylko na posterunkach obsługujących przejazdy kolejowe"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 4 ust. 1 pkt 2 lit. h",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "610b7306-2650-40d9-aae2-051d9ceb6573",
+      "question": "Z czym powinni być szczegółowo zapoznani pracownicy posterunków nastawczych?",
+      "answers": {
+        "A": "Z rodzajem i obsługą urządzeń sterowania ruchem kolejowym i łączności",
+        "B": "Z harmonogramem pracy całej zmiany i listą pracowników dyżurujących",
+        "C": "Z planem ewakuacji budynku posterunku i procedurami przeciwpożarowymi",
+        "D": "Z aktualnym rozkładem jazdy pociągów na obsługiwanym odcinku"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 5 ust. 1 pkt 1",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "06235ce0-04b8-472a-96c6-0f47a5699c35",
+      "question": "Co jest nadrzędne w stosunku do innych czynności powierzonych pracownikom posterunków nastawczych?",
+      "answers": {
+        "A": "Punktualność ruchu kolejowego",
+        "B": "Zapewnienie bezpieczeństwa ruchu kolejowego",
+        "C": "Sprawna obsługa urządzeń sterowania ruchem",
+        "D": "Terminowe prowadzenie dokumentacji techniczno-ruchowej"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 5 ust. 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "dbc989bf-9351-4b59-877f-8c5e05b684c4",
+      "question": "Kto nie może przebywać w pomieszczeniu posterunku nastawczego podczas dyżuru?",
+      "answers": {
+        "A": "Pracownicy odbywający szkolenie na tym posterunku",
+        "B": "Dyżurny ruchu dysponujący sprawujący nadzór",
+        "C": "Osoby postronne oraz pracownicy niepełniący dyżuru i nieodbywający szkolenia",
+        "D": "Pracownicy innych posterunków nastawczych z tego samego węzła"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 5 ust. 4",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "6f290515-8071-479a-8dbf-f4b452f0718d",
+      "question": "Co jest obowiązkiem pracownika posterunku nastawczego w przypadku otrzymania polecenia zagrażającego bezpieczeństwu ruchu lub ludzi?",
+      "answers": {
+        "A": "Niezwłoczne wykonanie polecenia z jednoczesnym powiadomieniem przełożonego",
+        "B": "Odłożenie wykonania polecenia do czasu wyjaśnienia wątpliwości",
+        "C": "Odmówienie wykonania polecenia",
+        "D": "Pisemne potwierdzenie polecenia przed jego wykonaniem"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 5 ust. 6 pkt 3",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "96e8f5a1-37f6-45f5-a189-fc94d073436e",
+      "question": "Kogo pracownik posterunku nastawczego zobowiązany jest bezzwłocznie zawiadomić o wszelkich zakłóceniach, które wystąpiły w toku pracy w okresie pełnienia dyżuru?",
+      "answers": {
+        "A": "Kierownika posterunku sąsiedniego",
+        "B": "Dyżurnego ruchu dysponującego",
+        "C": "Inspektora nadzoru technicznego",
+        "D": "Naczelnika sekcji eksploatacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 5 ust. 6 pkt 2",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "2ebacdd7-fc20-4bb0-b4dc-7585a71d55ea",
+      "question": "W jakich okolicznościach można zmienić lub odwołać polecenie dyżurnego ruchu bez jego zgody?",
+      "answers": {
+        "A": "Gdy dyspozytor wyda stosowne polecenie w obszarze wzajemnych kompetencji",
+        "B": "Gdy zawiadowca do spraw inżynierii ruchu złoży pisemny wniosek",
+        "C": "Wyłącznie w sytuacjach zagrażających bezpieczeństwu ruchu kolejowego",
+        "D": "Gdy pracownik posterunku nastawczego stwierdzi, że polecenie narusza regulamin techniczny"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 6 ust. 4",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "0df6d822-699f-43b1-89e5-7f20410c3c76",
+      "question": "Komu bezpośrednio podlega dyżurny ruchu?",
+      "answers": {
+        "A": "Dyspozytorowi w obszarze wzajemnych kompetencji",
+        "B": "Wyznaczonemu zawiadowcy do spraw inżynierii ruchu",
+        "C": "Dyżurnemu ruchu dysponującemu odcinkowemu (LCS)",
+        "D": "Operatorowi systemu dynamicznej informacji pasażerskiej"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 6 ust. 10",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "3ee0037c-5ab0-4461-8bd8-aff5bde8830a",
+      "question": "Kto koordynuje działania wszystkich pracowników jednostek biorących udział w procesie przewozowym na zarządzanym terenie?",
+      "answers": {
+        "A": "Dyżurny ruchu pomocniczy",
+        "B": "Dyspozytor",
+        "C": "Nastawniczy",
+        "D": "Dyżurny ruchu dysponujący"
+      },
+      "correct": "D",
+      "explanation": "Ir-2 § 6 ust. 6",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "a7b52ea0-a1cc-4a0d-9930-fb5af03ab6d1",
+      "question": "Który z wymienionych pracowników NIE podlega bezpośrednio dyżurnemu ruchu dysponującemu?",
+      "answers": {
+        "A": "Zwrotniczy",
+        "B": "Dróżnik przejazdowy",
+        "C": "Dyspozytor",
+        "D": "Nastawniczy"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 6 ust. 5",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "bb6af741-323d-49b6-9ba2-ddec538e7cac",
+      "question": "W jakich okolicznościach można ingerować w samodzielne czynności pracownika posterunku nastawczego?",
+      "answers": {
+        "A": "Gdy dyżurny ruchu wyda stosowne polecenie",
+        "B": "Gdy dyspozytor stwierdzi nieprawidłowości w pracy",
+        "C": "Gdy działania zmierzają do powstania zagrożenia bezpieczeństwa ruchu kolejowego",
+        "D": "Gdy zawiadowca do spraw inżynierii ruchu wyrazi pisemną zgodę"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 6 ust. 1",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "63911b2d-2b74-4c0d-be3a-4e7142112eb5",
+      "question": "Z kim współpracuje dyżurny ruchu w obszarze wzajemnych kompetencji?",
+      "answers": {
+        "A": "Z zawiadowcą do spraw inżynierii ruchu",
+        "B": "Z operatorem systemu dynamicznej informacji pasażerskiej",
+        "C": "Z dyspozytorem",
+        "D": "Z dyżurnym ruchu pomocniczym"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 6 ust. 9",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "34818390-4c89-4744-85a9-a567c940a056",
+      "question": "Gdzie należy odnotować stwierdzone uszkodzenia i nieprawidłowości w działaniu urządzeń sterowania ruchem kolejowym?",
+      "answers": {
+        "A": "W dzienniku D-831",
+        "B": "W dokumentacji techniczno-ruchowej",
+        "C": "W regulaminie technicznym",
+        "D": "W książce raportów dyżurnego ruchu"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 7 ust. 4",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "dee14ef7-d637-482c-8bc5-f1d783817840",
+      "question": "Jak często należy oglądać i sprawdzać wszystkie dostępne części obsługiwanych urządzeń sterowania ruchem kolejowym?",
+      "answers": {
+        "A": "Co tydzień",
+        "B": "Co miesiąc",
+        "C": "Codziennie",
+        "D": "W terminach wskazanych w regulaminie technicznym"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 7 ust. 4",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "ad2b3a81-1840-414b-9a76-b0a78e3fa408",
+      "question": "Kto określa podział czynności w zakresie utrzymania urządzeń, jeżeli na posterunku jest zatrudnionych kilku pracowników?",
+      "answers": {
+        "A": "Dyżurny ruchu dysponujący",
+        "B": "Instrukcja Ie-5 (E-11)",
+        "C": "Regulamin techniczny",
+        "D": "Kierownik posterunku nastawczego"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 7 ust. 3",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "59354dc4-81b9-487b-b781-561719a0f780",
+      "question": "Co należy zrobić niezwłocznie w przypadku zauważenia usterek w działaniu rozjazdu?",
+      "answers": {
+        "A": "Wyłączyć rozjazd z eksploatacji i powiadomić dyspozytora trakcji",
+        "B": "Uczynić adnotację w dzienniku D-831 i w razie potrzeby zabezpieczyć rozjazd oraz powiadomić dyżurnego ruchu dysponującego",
+        "C": "Uczynić adnotację w dokumentacji techniczno-ruchowej i powiadomić uprawnionego pracownika",
+        "D": "Zabezpieczyć rozjazd zamkiem zwrotnicowym i zgłosić do dyspozytora infrastruktury"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 7 ust. 8",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "1ee86b26-e5ee-4ead-af03-e1dd9a203ab0",
+      "question": "Kiedy należy oświetlać latarnie zwrotnicowe i sygnałowe?",
+      "answers": {
+        "A": "Wyłącznie w porze nocnej, niezależnie od warunków widoczności",
+        "B": "W czasie wskazanym w regulaminie technicznym lub gdy widoczność sygnałów z wymaganej odległości jest utrudniona",
+        "C": "W czasie wskazanym przez dyżurnego ruchu dysponującego",
+        "D": "Wyłącznie wtedy, gdy widoczność sygnałów z wymaganej odległości jest utrudniona"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 7 ust. 10",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "79e9955d-f9ea-4544-8be9-937307fd5566",
+      "question": "Czy latarnie sygnałowe oświetlane gazem propan wygasza się w porze dziennej?",
+      "answers": {
+        "A": "Tak, zawsze wygasza się je w porze dziennej",
+        "B": "Tak, ale tylko przy dobrej widoczności",
+        "C": "Nie wygasza się ich w porze dziennej",
+        "D": "Tak, wygasza się je zgodnie z harmonogramem regulaminu technicznego"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 7 ust. 10",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "01273d47-58d2-4670-b924-12ae163ee2ea",
+      "question": "Gdzie należy ustalić czas zmiany pracowników na posterunkach nastawczych?",
+      "answers": {
+        "A": "W rozkładzie jazdy pociągów",
+        "B": "W regulaminie technicznym",
+        "C": "W dzienniku ruchu",
+        "D": "W instrukcji obsługi urządzeń"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 8 ust. 1",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "22ccf531-c955-44fc-be90-a2a688fd09f2",
+      "question": "Co jest zabronione na obszarze kolejowym zarządzanym przez PKP PLK S.A.?",
+      "answers": {
+        "A": "Spożywanie posiłków podczas pełnienia dyżuru",
+        "B": "Korzystanie z urządzeń łączności osobistej podczas dyżuru",
+        "C": "Zgłaszanie się do pracy po użyciu alkoholu i/lub pod wpływem środków działających podobnie do alkoholu",
+        "D": "Opuszczanie stanowiska bez zgody przełożonego"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 8 ust. 2",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "34728329-7c8b-4e73-8fbe-0ffac7ecaca6",
+      "question": "Co należy zrobić, gdy pracownik przejmujący dyżur jest w stanie po użyciu alkoholu?",
+      "answers": {
+        "A": "Nie przekazywać dyżuru i niezwłocznie powiadomić przełożonego",
+        "B": "Przekazać dyżur i odnotować ten fakt w dzienniku ruchu",
+        "C": "Poczekać, aż pracownik wytrzeźwieje, i dopiero wtedy przekazać dyżur",
+        "D": "Samodzielnie wezwać zastępstwo bez informowania przełożonego"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 8 ust. 3",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "af841159-11f9-461a-a1a8-9f825667446c",
+      "question": "Co powinien zrobić pracownik pełniący czynności związane z ruchem kolejowym, gdy zmiennik nie przybywa we właściwym czasie?",
+      "answers": {
+        "A": "Opuścić stanowisko i powiadomić dyspozytora ruchu",
+        "B": "Poczekać na zmiennika i samodzielnie zdecydować o opuszczeniu posterunku",
+        "C": "Zgłosić fakt przełożonemu i zastosować się do jego poleceń",
+        "D": "Wezwać telefonicznie innego pracownika z wykazu zastępstw"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 8 ust. 4",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "8080b536-01ef-4827-b9ba-299265b5e016",
+      "question": "O czym przekazujący dyżur powinien poinformować przyjmującego w zakresie torów?",
+      "answers": {
+        "A": "O stanie nawierzchni i geometrii torów",
+        "B": "O planowanych robotach modernizacyjnych na torach",
+        "C": "O stanie zajętości i zamknięciu torów stacyjnych i szlakowych",
+        "D": "O prędkościach obowiązujących na poszczególnych torach"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 8 ust. 6 pkt 2",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "39c619fe-947f-41c9-9835-bb6a054dbb01",
+      "question": "O czym przekazujący dyżur powinien poinformować przyjmującego w zakresie urządzeń sterowania ruchem?",
+      "answers": {
+        "A": "O terminach planowych przeglądów urządzeń",
+        "B": "O usterkach, stanie plomb, zamknięć, liczników i wprowadzonych obostrzeniach w sposobie prowadzenia ruchu",
+        "C": "O wynikach ostatniej inspekcji technicznej urządzeń",
+        "D": "O nazwiskach pracowników odpowiedzialnych za konserwację urządzeń"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 8 ust. 6 pkt 4",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "4a8596cf-a3e4-4a81-bd79-c727742cb73e",
+      "question": "Co należy przekazać przyjmującemu dyżur na posterunku nastawczym oprócz informacji ustnych?",
+      "answers": {
+        "A": "Klucze do pomieszczeń socjalnych i szafek",
+        "B": "Dokumentację techniczno-ruchową, instrukcje i inwentarz",
+        "C": "Plan dyżurów na kolejny miesiąc",
+        "D": "Wykaz numerów telefonów alarmowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 8 ust. 7",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "6617020a-b0a6-4dfc-bc27-ae1eb3f750ca",
+      "question": "Co powinien zrobić przyjmujący dyżur po zapoznaniu się z dokumentacją?",
+      "answers": {
+        "A": "Podpisać protokół przekazania dyżuru bez dalszych czynności",
+        "B": "Dokonać oględzin wewnętrznych urządzeń i w razie potrzeby zażądać dodatkowych wyjaśnień",
+        "C": "Sporządzić pisemny raport o stanie posterunku dla przełożonego",
+        "D": "Przeprowadzić próbę działania wszystkich urządzeń sterowania ruchem"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 8 ust. 8",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "7bdef7a7-a9cb-42dd-8b38-60ed1fe689ed",
+      "question": "Gdzie należy odnotować przekazanie i przyjęcie dyżuru na posterunku nastawczym?",
+      "answers": {
+        "A": "Tylko w dzienniku ruchu, z podaniem dokładnego czasu i daty przekazania dyżuru oraz podpisem obu pracowników",
+        "B": "Tylko w książce przebiegów, z podaniem dokładnego czasu i daty przekazania dyżuru oraz podpisem obu pracowników",
+        "C": "We wszystkich dziennikach ruchu i w książce przebiegów (lub w dzienniku telefonicznym/dokumentacji regulaminu technicznego na posterunkach nieprowadzących tych dokumentów)",
+        "D": "W elektronicznym systemie ewidencji czasu pracy, z podaniem dokładnego czasu i daty przekazania dyżuru oraz podpisem obu pracowników"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 8 ust. 9",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "ccb9d06e-04d0-4e97-b838-9d6ff3747767",
+      "question": "Kiedy pracownik przyjmujący dyżur może przystąpić do wykonywania czynności związanych z prowadzeniem ruchu?",
+      "answers": {
+        "A": "Po ustnym potwierdzeniu gotowości przez przekazującego dyżur",
+        "B": "Po przybyciu na posterunek i zalogowaniu się do systemów",
+        "C": "Po przyjęciu dyżuru potwierdzonym podpisem",
+        "D": "Po dokonaniu oględzin urządzeń i zapoznaniu się z dokumentacją"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 8 ust. 10",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "bb862e9a-884b-4f7a-b83b-e2f403e5a670",
+      "question": "Co powinien zrobić przyjmujący dyżur, gdy zachowanie pracownika przekazującego dyżur budzi zastrzeżenia?",
+      "answers": {
+        "A": "Odmówić przyjęcia dyżuru i opuścić posterunek",
+        "B": "Zgłosić to przełożonemu i przyjąć dyżur",
+        "C": "Przyjąć dyżur bez zgłaszania i sporządzić notatkę służbową",
+        "D": "Wezwać lekarza lub pogotowie ratunkowe"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 8 ust. 11",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "a667e150-2a10-48d1-8707-97faa442b367",
+      "question": "Jak odbywa się przekazywanie dyżuru na posterunkach czynnych okresowo w ciągu doby?",
+      "answers": {
+        "A": "Tylko ustnie, z zachowaniem standardowych zasad",
+        "B": "Tylko pisemnie, z zachowaniem zasad dotyczących treści zapisu",
+        "C": "Elektronicznie poprzez system ewidencji dyżurów",
+        "D": "Telefonicznie z potwierdzeniem w dokumentacji po zakończeniu przerwy"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 8 ust. 13",
+      "section_ref": "§ 8",
+      "section": 8
+    },
+    {
+      "uuid": "94639258-7c41-492d-831f-9cc786dfaeba",
+      "question": "Co powinien obserwować pracownik posterunku nastawczego w czasie pełnienia dyżuru?",
+      "answers": {
+        "A": "Cały szlak kolejowy",
+        "B": "Okręg nastawczy",
+        "C": "Posterunek sąsiedni",
+        "D": "Tor główny zasadniczy"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 9 ust. 1",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "2bc5c557-30b6-4799-97ee-30b4a423c937",
+      "question": "Jak należy wykorzystywać wolny czas, gdy nie odbywa się ruch kolejowy na posterunku nastawczym?",
+      "answers": {
+        "A": "Na odpoczynek i regenerację sił",
+        "B": "Na samokształcenie i lekturę przepisów",
+        "C": "Na czynności związane z utrzymaniem czystości pomieszczenia oraz czynności dodatkowe określone w regulaminie technicznym posterunku ruchu",
+        "D": "Na sporządzanie raportów z bieżącej pracy posterunku"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 9 ust. 2",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "27bc650d-cbbd-41e3-84a5-1cf23d88ffb1",
+      "question": "Czy oglądanie programów telewizyjnych na nośnikach audiowizualnych jest dozwolone w czasie pracy na posterunku nastawczym?",
+      "answers": {
+        "A": "Tak, jedynie podczas przerw w pracy",
+        "B": "Tak, tylko przy zmniejszonym natężeniu ruchu",
+        "C": "Tak, za zgodą naczelnika sekcji eksploatacji",
+        "D": "Nie, jest zakazane"
+      },
+      "correct": "D",
+      "explanation": "Ir-2 § 9 ust. 4",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "c0cb155b-06ff-4c46-8458-6d07b6f9a1df",
+      "question": "Kiedy słuchanie radia jest dozwolone pracownikowi posterunku nastawczego?",
+      "answers": {
+        "A": "W każdej chwili, jeśli nie koliduje z wydawaniem rozkazów",
+        "B": "Jedynie w chwilach zmniejszonego natężenia pracy oraz podczas przerw, o ile nadmiernie nie angażuje uwagi pracownika",
+        "C": "Wyłącznie podczas regulaminowych przerw w pracy",
+        "D": "Tylko po uzyskaniu zgody naczelnika sekcji eksploatacji"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 9 ust. 4",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "b1dfe721-5615-4944-a97f-1ff694e164dc",
+      "question": "Jak powinien postąpić pracownik pełniący dyżur na posterunku po usłyszeniu sygnału skierowanego do niego?",
+      "answers": {
+        "A": "Zgłosić się niezwłocznie i każde polecenie powtórzyć",
+        "B": "Zgłosić się i zapisać polecenie w dokumentacji dyżurowej",
+        "C": "Zignorować sygnał i poczekać na powtórzenie",
+        "D": "Przekazać sygnał do sąsiedniego posterunku"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 9 ust. 5",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "55944259-d2b6-4237-b195-bd86f4769b2e",
+      "question": "Kto może obsługiwać urządzenia na posterunku nastawczym w ramach stażu stanowiskowego lub szkolenia praktycznego?",
+      "answers": {
+        "A": "Każdy pracownik posiadający ważne uprawnienia kolejowe, jeśli przy przyjęciu dyżuru został wpisany do dokumentacji prowadzonej na posterunku nastawczym",
+        "B": "Tylko pracownicy posiadający pełną autoryzację na danym stanowisku, pod nadzorem i odpowiedzialnością pracownika pełniącego dyżur na posterunku nastawczym",
+        "C": "Pracownicy uzyskujący autoryzację lub odbywający staż/szkolenie, pod nadzorem i odpowiedzialnością pracownika pełniącego dyżur, jeśli zostali wpisani do dokumentacji przy przyjęciu dyżuru",
+        "D": "Wyłącznie pracownicy skierowani pisemnym poleceniem naczelnika sekcji eksploatacji, wpisani do dokumentacji prowadzonej przy przyjęciu dyżuru na posterunku nastawczym"
+      },
+      "correct": "C",
+      "explanation": "Ir-2 § 9 ust. 8",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "94a4920e-3905-40f6-bb7c-f671aaa7c38b",
+      "question": "Na co należy zwrócić szczególną uwagę przy sprawdzaniu drogi przebiegu w odniesieniu do pojazdów na torach sąsiednich?",
+      "answers": {
+        "A": "Czy pojazdy kolejowe na torach sąsiednich znajdują się w granicach ukresów i są zabezpieczone przed zbiegnięciem",
+        "B": "Czy pojazdy kolejowe na torach sąsiednich mają aktualne świadectwa sprawności technicznej",
+        "C": "Czy pojazdy kolejowe na torach sąsiednich zostały odrzucone poza granicę okręgu nastawczego",
+        "D": "Czy pojazdy kolejowe na torach sąsiednich nie przekraczają dopuszczalnej długości składu"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 17 ust. 17 pkt 1",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "b6eda3f6-3e78-44bc-b296-762758e9c2ca",
+      "question": "Na co należy zwrócić szczególną uwagę przy sprawdzaniu drogi przebiegu w odniesieniu do pociągów o trakcji elektrycznej?",
+      "answers": {
+        "A": "Czy napięcie w sieci trakcyjnej jest zgodne z napięciem znamionowym lokomotywy",
+        "B": "Czy tor jest zelektryfikowany",
+        "C": "Czy sieć trakcyjna nie jest odłączona z powodu prac konserwacyjnych",
+        "D": "Czy maszynista posiada uprawnienia do prowadzenia pojazdu trakcji elektrycznej na danym odcinku"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 17 ust. 17 pkt 5",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "03dc538b-0a51-40a9-89d0-1064a7b55818",
+      "question": "Na co należy zwrócić szczególną uwagę przy sprawdzaniu drogi przebiegu w odniesieniu do stanu sprawdzanego toru?",
+      "answers": {
+        "A": "Czy tor był ostatnio kontrolowany przez służby utrzymania nawierzchni oraz czy protokół kontroli jest aktualny",
+        "B": "Czy na sprawdzanym torze lub nad nim nie ma przeszkód zagrażających bezpieczeństwu ruchu kolejowego oraz czy nie było zgłoszenia o zamknięciu toru dla ruchu lub pracy ludzi na torze",
+        "C": "Czy parametry geometryczne toru mieszczą się w granicach określonych normą utrzymaniową",
+        "D": "Czy prędkość dopuszczalna na torze jest zgodna z aktualną siecią linii kolejowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 17 ust. 17 pkt 2 i 3",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "94a4920e-3905-40f6-bb7c-f671aaa7c38b",
+      "question": "Na co należy zwrócić szczególną uwagę przy sprawdzaniu drogi przebiegu w odniesieniu do pojazdów na torach sąsiednich?",
+      "answers": {
+        "A": "Czy pojazdy kolejowe na torach sąsiednich znajdują się w granicach ukresów i są zabezpieczone przed zbiegnięciem",
+        "B": "Czy pojazdy kolejowe na torach sąsiednich mają aktualne świadectwa sprawności technicznej",
+        "C": "Czy pojazdy kolejowe na torach sąsiednich zostały odrzucone poza granicę okręgu nastawczego",
+        "D": "Czy pojazdy kolejowe na torach sąsiednich nie przekraczają dopuszczalnej długości składu"
+      },
+      "correct": "A",
+      "explanation": "Ir-2 § 17 ust. 17 pkt 1",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "b6eda3f6-3e78-44bc-b296-762758e9c2ca",
+      "question": "Na co należy zwrócić szczególną uwagę przy sprawdzaniu drogi przebiegu w odniesieniu do pociągów o trakcji elektrycznej?",
+      "answers": {
+        "A": "Czy napięcie w sieci trakcyjnej jest zgodne z napięciem znamionowym lokomotywy",
+        "B": "Czy tor jest zelektryfikowany",
+        "C": "Czy sieć trakcyjna nie jest odłączona z powodu prac konserwacyjnych",
+        "D": "Czy maszynista posiada uprawnienia do prowadzenia pojazdu trakcji elektrycznej na danym odcinku"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 17 ust. 17 pkt 5",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "03dc538b-0a51-40a9-89d0-1064a7b55818",
+      "question": "Na co należy zwrócić szczególną uwagę przy sprawdzaniu drogi przebiegu w odniesieniu do stanu sprawdzanego toru?",
+      "answers": {
+        "A": "Czy tor był ostatnio kontrolowany przez służby utrzymania nawierzchni oraz czy protokół kontroli jest aktualny",
+        "B": "Czy na sprawdzanym torze lub nad nim nie ma przeszkód zagrażających bezpieczeństwu ruchu kolejowego oraz czy nie było zgłoszenia o zamknięciu toru dla ruchu lub pracy ludzi na torze",
+        "C": "Czy parametry geometryczne toru mieszczą się w granicach określonych normą utrzymaniową",
+        "D": "Czy prędkość dopuszczalna na torze jest zgodna z aktualną siecią linii kolejowych"
+      },
+      "correct": "B",
+      "explanation": "Ir-2 § 17 ust. 17 pkt 2 i 3",
+      "section_ref": "§ 17",
+      "section": 17
+    }
+  ]
 }
