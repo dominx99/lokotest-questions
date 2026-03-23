@@ -1,0 +1,135 @@
+{
+  "instruction": "fizyka",
+  "questions": [
+    {
+      "uuid": "92b8ccc1-36b0-48c7-a1f4-4864bcc9665a",
+      "question": "Co jest przyczyną wydłużania się drogi hamowania pociągu przy wzroście jego prędkości?",
+      "answers": {
+        "A": "Energia kinetyczna rośnie proporcjonalnie do kwadratu prędkości, więc podwojenie prędkości powoduje czterokrotne wydłużenie drogi hamowania",
+        "B": "Energia kinetyczna rośnie proporcjonalnie do prędkości, więc podwojenie prędkości powoduje podwojenie drogi hamowania",
+        "C": "Siła hamowania maleje przy większych prędkościach",
+        "D": "Współczynnik tarcia klocków hamulcowych rośnie wraz z prędkością"
+      },
+      "correct": "A",
+      "explanation": "Energia kinetyczna E = ½mv². Podwojenie prędkości powoduje czterokrotny wzrost energii kinetycznej, a tym samym czterokrotne wydłużenie drogi hamowania przy stałej sile hamowania.",
+      "verified": false
+    },
+    {
+      "uuid": "6435a763-7ec5-4af3-89a0-3f31f74d2896",
+      "question": "Jaka siła powoduje, że wagon stojący na pochyleniu zaczyna się samoczynnie staczać?",
+      "answers": {
+        "A": "Siła odśrodkowa",
+        "B": "Składowa siły ciężkości równoległa do powierzchni toru",
+        "C": "Siła tarcia tocznego",
+        "D": "Siła Coriolisa"
+      },
+      "correct": "B",
+      "explanation": "Na pochyleniu siła ciężkości rozkłada się na składową prostopadłą do toru (dociskającą wagon do szyn) i składową równoległą do toru (powodującą staczanie się wagonu w dół pochylenia).",
+      "verified": false
+    },
+    {
+      "uuid": "3a08555f-4268-411c-aacb-5879493d21b1",
+      "question": "Dlaczego szyna zewnętrzna łuku jest ułożona wyżej niż szyna wewnętrzna (przechyłka)?",
+      "answers": {
+        "A": "Aby zmniejszyć hałas generowany przez pociąg w łuku",
+        "B": "Aby skompensować siłę odśrodkową działającą na pociąg jadący po łuku i zapewnić komfort jazdy",
+        "C": "Aby zwiększyć prędkość pociągu w łuku",
+        "D": "Aby zapobiec korozji szyny wewnętrznej"
+      },
+      "correct": "B",
+      "explanation": "Przechyłka toru w łuku powoduje, że składowa siły ciężkości kompensuje siłę odśrodkową, co zmniejsza nacisk boczny na szynę zewnętrzną i poprawia komfort jazdy pasażerów.",
+      "verified": false
+    },
+    {
+      "uuid": "a3ce70c4-637d-40f4-8cdb-90bc5644a722",
+      "question": "Co to jest bezwładność w kontekście ruchu pociągu?",
+      "answers": {
+        "A": "Zdolność pociągu do szybkiego przyspieszania",
+        "B": "Właściwość ciała polegająca na tym, że do zmiany jego stanu ruchu potrzebna jest siła — im większa masa pociągu, tym większa siła potrzebna do jego zatrzymania lub rozpędzenia",
+        "C": "Opór powietrza działający na czoło lokomotywy",
+        "D": "Siła tarcia między kołem a szyną"
+      },
+      "correct": "B",
+      "explanation": "Bezwładność (I zasada dynamiki Newtona) oznacza, że ciało zachowuje swój stan ruchu, dopóki nie zadziała na nie siła zewnętrzna. Masa pociągu (często tysiące ton) powoduje, że potrzebne są duże siły i długi czas do zmiany jego prędkości.",
+      "verified": false
+    },
+    {
+      "uuid": "71e621c2-aea8-4a65-b944-44595e46c38c",
+      "question": "Co się dzieje z przyczepnością koła do szyny, gdy szyna jest mokra lub pokryta liśćmi?",
+      "answers": {
+        "A": "Przyczepność wzrasta, ponieważ woda zwiększa tarcie",
+        "B": "Przyczepność nie zmienia się, ponieważ koła stalowe zawsze mają stały współczynnik tarcia",
+        "C": "Przyczepność znacząco maleje, co może prowadzić do poślizgu kół przy hamowaniu lub ruszaniu",
+        "D": "Przyczepność maleje tylko przy hamowaniu, ale nie przy ruszaniu"
+      },
+      "correct": "C",
+      "explanation": "Woda, liście, szron i inne zanieczyszczenia na główce szyny tworzą warstwę zmniejszającą współczynnik tarcia między kołem a szyną. Powoduje to ryzyko poślizgu kół zarówno przy hamowaniu (wydłużenie drogi hamowania), jak i przy ruszaniu (buksowanie).",
+      "verified": false
+    },
+    {
+      "uuid": "b4feac41-b485-4b9e-aaf8-837c44dd3bf1",
+      "question": "Jaką rolę pełni siła odśrodkowa podczas jazdy pociągu po łuku toru?",
+      "answers": {
+        "A": "Dociska pociąg do szyny wewnętrznej łuku",
+        "B": "Działa na pociąg w kierunku od środka łuku, dociskając go do szyny zewnętrznej",
+        "C": "Przyspiesza pociąg w łuku",
+        "D": "Spowalnia pociąg w łuku"
+      },
+      "correct": "B",
+      "explanation": "Siła odśrodkowa (pozorna) działa w kierunku od środka krzywizny łuku, powodując dodatkowy nacisk na szynę zewnętrzną. Jej wartość rośnie z kwadratem prędkości i maleje ze wzrostem promienia łuku (F = mv²/r).",
+      "verified": false
+    },
+    {
+      "uuid": "24ded71f-a2c6-4346-ab7b-cf024fe84973",
+      "question": "Jak masa pociągu wpływa na drogę hamowania przy tej samej prędkości początkowej i sile hamowania?",
+      "answers": {
+        "A": "Masa nie ma wpływu na drogę hamowania",
+        "B": "Większa masa zawsze skraca drogę hamowania dzięki lepszej przyczepności",
+        "C": "Większa masa wydłuża drogę hamowania, ponieważ pociąg ma większą energię kinetyczną do rozproszenia",
+        "D": "Większa masa skraca drogę hamowania, ponieważ zwiększa siłę tarcia"
+      },
+      "correct": "C",
+      "explanation": "Energia kinetyczna E = ½mv² jest wprost proporcjonalna do masy. Przy stałej sile hamowania, większa masa oznacza więcej energii do rozproszenia, a zatem dłuższą drogę hamowania.",
+      "verified": false
+    },
+    {
+      "uuid": "85038153-1691-448f-b8e2-ec4697b3331f",
+      "question": "Co to jest opór toczenia w kontekście ruchu kolejowego?",
+      "answers": {
+        "A": "Opór wynikający z odkształceń sprężystych koła i szyny w miejscu ich styku, przeciwdziałający ruchowi pociągu",
+        "B": "Opór powietrza działający na czoło składu",
+        "C": "Opór wynikający z tarcia w łożyskach osi, niezależny od prędkości",
+        "D": "Siła grawitacji działająca na pociąg na pochyleniu"
+      },
+      "correct": "A",
+      "explanation": "Opór toczenia powstaje w wyniku mikro-odkształceń koła stalowego i szyny w miejscu ich styku. Jest stosunkowo mały w porównaniu z transportem drogowym (stal po stali), co jest główną zaletą transportu szynowego pod względem efektywności energetycznej.",
+      "verified": false
+    },
+    {
+      "uuid": "325c5e45-f538-4ebd-bae6-3552c010e69d",
+      "question": "Dlaczego pociąg towarowy o dużej masie potrzebuje znacznie dłuższej drogi do zatrzymania niż pociąg osobowy przy tej samej prędkości?",
+      "answers": {
+        "A": "Ponieważ pociąg towarowy ma gorsze hamulce",
+        "B": "Ponieważ pociąg towarowy ma większą energię kinetyczną (proporcjonalną do masy) oraz zwykle niższy stosunek siły hamowania do masy całkowitej",
+        "C": "Ponieważ pociąg towarowy jedzie po gorszych torach",
+        "D": "Ponieważ w pociągu towarowym hamulce reagują szybciej"
+      },
+      "correct": "B",
+      "explanation": "Pociąg towarowy ma znacznie większą masę, a więc większą energię kinetyczną. Dodatkowo stosunek siły hamowania do masy (tzw. procent masy hamującej) jest zazwyczaj niższy niż w pociągach osobowych, co łącznie powoduje znaczne wydłużenie drogi hamowania.",
+      "verified": false
+    },
+    {
+      "uuid": "99380b87-3992-4d05-b586-6568a0e4bdae",
+      "question": "Co się dzieje z energią kinetyczną pociągu podczas hamowania?",
+      "answers": {
+        "A": "Energia kinetyczna znika bezpowrotnie",
+        "B": "Energia kinetyczna zamienia się głównie w energię cieplną (nagrzewanie klocków/tarcz hamulcowych i szyn)",
+        "C": "Energia kinetyczna zamienia się w energię potencjalną",
+        "D": "Energia kinetyczna jest magazynowana w hamulcach i oddawana przy ruszaniu"
+      },
+      "correct": "B",
+      "explanation": "Zgodnie z zasadą zachowania energii, energia kinetyczna nie znika, lecz ulega przemianie. Przy hamowaniu klasycznym (cierne) energia kinetyczna zamienia się w ciepło w wyniku tarcia klocków o powierzchnię koła lub tarcze hamulcowe. W przypadku hamowania odzyskowego (rekuperacyjnego) część energii jest zamieniana na energię elektryczną.",
+      "verified": false
+    }
+  ]
+}

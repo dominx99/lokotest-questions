@@ -1,0 +1,12 @@
+## 
+- § 1. Cel i zakres instrukcji
+- § 2. Podstawowe pojęcia stosowane w instrukcji
+- § 3. Punktualność biegu pociągów i sposób jej ustalania.
+- § 4. Struktura kodu opóźnienia
+- § 5. Zasady kwalifikacji opóźnień pociągów na poszczególne przyczyny
+- § 6. Pociągi odwołane (anulowana usługa)
+- § 7. Pociągi kursujące, opóźnione, „chore”
+- § 8. Rejestracja procesu przewozowego
+- § 9. Plan wykonania (system skuteczności działania)
+- § 10. Sprawozdawczość statystyczna
+- § 11. Rodzaje sprawozdawczości

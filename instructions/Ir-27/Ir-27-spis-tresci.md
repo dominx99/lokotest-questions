@@ -1,0 +1,14 @@
+## 
+- § 1. Postanowienia ogólne
+- § 2. Podstawowe określenia
+- § 3. Dokumenty składane przez Wnioskodawcę
+- § 4. Wymagania dla środków do smarowania
+- § 5. Badania środka do smarowania
+- § 6. Badania pełne
+- § 7. Badania okresowe
+- § 8. Badania kontrolne
+- § 9. Jednostki Badawcze, których opinie o środku do smarowania są akceptowane przez Spółkę
+- § 10. Wydanie Dopuszczenia
+- § 11. Zawieszenie Dopuszczenia
+- § 12. Cofnięcie Dopuszczenia
+- § 13. Postanowienia dodatkowe

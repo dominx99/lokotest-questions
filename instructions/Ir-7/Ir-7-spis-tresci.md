@@ -1,0 +1,31 @@
+## Rozdział 1. POSTANOWIENIA OGÓLNE
+- § 1. Podstawowe pojęcia i zakres stosowania instrukcji
+- § 2. Znajomość instrukcji i przepisów
+- § 3. Wyposażenie posterunku dróżnika przejazdowego
+- § 4. Ogólne obowiązki dróżnika przejazdowego
+- § 5. Współpraca z pracownikami jednostek kolejowych
+- § 6. Współpraca z instytucjami oraz osobami postronnymi
+- § 7. Znajomość sygnałów i urządzeń
+- § 8. Pełnienie dyżuru przez dróżnika przejazdowego i jego
+
+## Rozdział 2. SZCZEGÓŁOWE OBOWIĄZKI DRÓŻNIKA PRZEJAZDOWEGO
+- § 9. Obowiązki w zakresie czuwania nad bezpieczeństwem ruchu
+- § 10. Kierowanie ruchem drogowym w obrębie przejazdu
+- § 11. Obowiązki dróżnika przejazdowego przy zamykaniu i
+- § 12. Zawiadamianie dróżnika przejazdowego
+- § 13. Inne obowiązki dróżnika przejazdowego
+- § 14. Korzystanie z telefonu, urządzeń telewizji przemysłowej oraz
+- § 15. Utrzymanie przejazdu obsługiwanego
+- § 16. Postępowanie w przypadku znalezienia zwłok ludzkich lub
+- § 17. Postępowanie w razie rozerwania się pociągu na szlaku
+- § 18. Postępowanie w razie zbiegnięcia pojazdów kolejowych
+- § 19. Postępowanie w razie zatrzymania się pociągu na szlaku
+- § 20. Postępowanie w razie utknięcia pojazdu drogowego na
+- § 21. Postępowanie w razie wypadku na przejeździe obsługiwanym
+- § 22. Postępowanie w razie pożaru
+- § 23. Postępowanie dróżnika przejazdowego w czasie opadów
+- § 24. Postępowanie w razie zdarzenia kolejowego na szlaku
+- § 25. Postępowanie w razie uszkodzenia urządzeń zabezpieczenia
+- § 26. Postępowanie w zależności od czasu trwania uszkodzenia
+- § 27. Zasady postępowania w przypadku wykonywania robót w
+- § 28. Zasady postępowania w czasie prowadzenia prac w strefie

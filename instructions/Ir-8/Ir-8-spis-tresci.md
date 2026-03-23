@@ -1,0 +1,46 @@
+## 
+- § 1. Cel i zakres instrukcji
+- § 2. Znaczenie używanych pojęć i określeń
+- § 3. Zgłoszenie o zdarzeniu
+- § 4. Postępowanie dyżurnego ruchu i dyspozytorów po otrzymaniu zgłoszenia
+- § 5. Postępowanie po zaistnieniu zdarzenia
+- § 6. Zawiadomienie o zdarzeniu
+- § 7. Zatajanie zdarzenia
+- § 8. Zadania komisji kolejowej
+- § 9. Organ prowadzący postępowanie
+- § 10. Osoby upoważnione do udziału w pracach komisji kolejowych
+- § 11. Wyznaczanie składu komisji kolejowej do postępowania w sprawie wypadku
+- § 12. Kierowanie pracami komisji kolejowej
+- § 13. Obowiązki i uprawnienia komisji kolejowej
+- § 14. Współpraca komisji kolejowej z innymi organami na miejscu zdarzenia
+- § 15. Podjęcie prac przez komisję kolejową
+- § 16. Czynności komisji kolejowej na miejscu wypadku lub incydentu
+- § 17. Szczegółowy zakres badań na miejscu wypadku lub incydentu i ich ocena
+- § 18. Protokół oględzin miejsca wypadku lub incydentu
+- § 19. Wstępna analiza wypadku
+- § 20. Badania szczegółowe, ekspertyzy i inne czynności w toku postępowania
+- § 21. Ustalenia końcowe
+- § 22. Rodzaje przyczyn
+- § 23. Wnioski zapobiegawcze
+- § 24. Szacowanie strat
+- § 25. Protokół ustaleń końcowych
+- § 26. Postępowanie w sprawach spornych
+- § 27. Termin zakończenia postępowania
+- § 28. Akta postępowania
+- § 29. Wykonanie wniosków zapobiegawczych
+- § 30. Ustalanie strat
+- § 31. Zgłoszenie wydarzenia kolejowego
+- § 32. Postępowanie dyżurnego ruchu i dyspozytora po otrzymaniu zgłoszenia o wydarzeniu
+- § 33. Rodzaje sytuacji potencjalnie niebezpiecznych
+- § 34. Badanie sytuacji potencjalnie niebezpiecznej
+- § 35. Ustalenia końcowe
+- § 36. Ustalenie strat
+- § 37. Rejestracja zdarzeń i sytuacji potencjalnie niebezpiecznych dla celów statystycznych
+- § 38. Statystyka zdarzeń i sytuacji potencjalnie niebezpiecznych
+- § 39. Wskaźniki bezpieczeństwa. Raport w sprawie bezpieczeństwa
+- § 40. Roczny raport o bezpieczeństwie na sieci PKP PLK S.A.
+- § 41. Ogólne zasady zapobiegania zdarzeniom
+- § 42. Obowiązki kierowników jednostek organizacyjnych i pracowników nadzoru
+- § 43. Program poprawy bezpieczeństwa ruchu kolejowego
+- § 44. Narady poświęcone zapobieganiu zdarzeniom
+- § 45. Biuletyn Informacyjny

@@ -1,0 +1,14 @@
+## 
+- § 1. Cel i zakres obowiązywania Zasad
+- § 2. Podstawowe definicje
+- § 3. Planowanie zamknięć torowych
+- § 4. Planowanie długoterminowe
+- § 5. Planowanie okresowe
+- § 6. Procedura udzielania zamknięć dodatkowych i operatywnych
+- § 7. Koncentracja i koordynacja robót wymagających zamknięć torowych
+- § 8. Techniczne i organizacyjne przygotowanie odcinka linii do zamknięć
+- § 9. Organizacja prowadzenia ruchu pociągów w czasie zamknięcia toru
+- § 10. Warunki wdrożenia zamknięć torowych
+- § 11. Przeniesienie kosztów, kar umownych i odszkodowań z tytułu wydłużenia
+- § 12. Szczególne zasady uwzględniania całodobowych zamknięć torowych,
+- § 13. Tryb opracowywania i wdrażania Zastępczego Rozkładu Jazdy Pociągów
