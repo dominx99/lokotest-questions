@@ -1,4 +1,3211 @@
 {
   "instruction": "Ie-1",
-  "questions": []
+  "questions": [
+    {
+      "uuid": "fb3c88b5-e054-4864-9c36-81c6a5cbc41a",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Od 1 „Semafor wskazuje sygnał Sr 1 Stój”  Nocny",
+        "B": "Semafor kształtowy sygnał Sr 1 „Stój”",
+        "C": "Wskaźniki W 10a i W 10 b „Wskaźniki odcinka z popychaniem”",
+        "D": "Semafor Świetlny: Sygnał S 2 „Jazda z największą dozwoloną prędkością”"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "21fd2e2f-7ec0-4454-8e07-b1a21727ac5d",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Semafor kształtowy sygnał Sr 1 „Stój” nocny",
+        "B": "Wskaźnik W 35„Wskaźniki ograniczenia prędkości na kierunku zwrotnym",
+        "C": "Sygnał Sp 4 „Semafor wskazuje sygnał zezwalający na jazdę z prędkością zmniejszoną do 40 lub 60 km/h”",
+        "D": "Sygnał Ot 3 „Semafor wskazuje sygnał Sr 3 – Wolna droga ze zmniejszoną prędkością” Dzienny"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "870c1a5e-ba26-4556-a425-1811652a8dbc",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Semafor Kształtowy Sygnał Sr 2 „Wolna droga”",
+        "B": "Sygnał Sp 1 „Semafor wskazuje sygnał Sr 1 lub S 1 Stój”",
+        "C": "Sygnał S 4 „Następny semafor wskazuje sygnał zezwalający na jazdę z prędkością zmniejszoną do 40 lub 60 km/h”",
+        "D": "Sygnał Świetlny: Sygnał S 3 „Jazda z największą dozwoloną prędkością – w przodzie są dwa odstępy blokowe wolne – albo przy następnym semaforze z prędkością nie większą niż 100 km/h”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "732e47d8-dc53-4d7e-8f56-c1806ea1855c",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Wskaźnik W 30 „Wskaźnik ważenia składu”",
+        "B": "Sygnał Ms 2 „Jazda manewrowa dozwolona”",
+        "C": "Wskaźnik Wz 2 „Jazda na ostrze”",
+        "D": "Semafor Kształtowy Sygnał Sr 2 „Wolna droga” nocny"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "fff7a26a-80e3-4c4c-8e1c-e37149edd7fe",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Wskaźnik W ETCS 6 „Wyjazd z obszaru ERTMS/ETCS poziomu 1”",
+        "B": "Sygnał DO „Za tarczą ostrzegawczą znajduje się tarcza zatrzymania” Nocny",
+        "C": "Semafor Kształtowy Sygnał Sr 3 „Wolna droga ze zmniejszoną prędkością” Dzienny",
+        "D": "Wskaźnik W 1 „Wskaźnik usytuowania”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "68e5c7b8-b0fa-4b5e-a630-3c05be74f388",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Os 1 „Semafor, do którego się tarcza odnosi, wskazuje sygnał Stój”",
+        "B": "Sygnał Rm 3 „Zwolnić” Nocny",
+        "C": "Semafor Kształtowy Sygnał Sr 3 „Wolna droga ze zmniejszoną prędkością” Nocny",
+        "D": "Sygnał DO „Za tarczą ostrzegawczą znajduje się tarcza zatrzymania” Nocny"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "2c37fe8e-cd2b-4e1e-bbcc-4caeb6ff6eb3",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Sp 1 „Semafor wskazuje sygnał Sr 1 lub S 1 Stój”",
+        "B": "Semafor Świetlny: Sygnał S 1 „Stój”",
+        "C": "Sygnał Rp 1 „Baczność”",
+        "D": "Sygnał Sp 2 „Semafor wskazuje sygnał zezwalający na jazdę z największą dozwoloną prędkością"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "dffe6ca6-b099-4cae-a5bd-1e8cfed51e8f",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał S 7 „Jazda z prędkością nieprzekraczającą 100 km/h przy tym i następnym semaforze”",
+        "B": "Wskaźnik W ETCS 5 „Wjazd w obszar ERTMS/ETCS poziomu 1”",
+        "C": "Wskaźnik W 33 „Wskaźnik początku obowiązywania systemu ERTMS/GSM-R",
+        "D": "Semafor Świetlny: Sygnał S 2 „Jazda z największą dozwoloną prędkością”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "f1efba34-3e03-4bf1-a14a-426a21d0da2b",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Rm 6 „Docisnąć”  Nocny",
+        "B": "Sygnał S 13 „Jazda z prędkością nieprzekraczającą 40 km/h, a przy następnym semaforze – Stój”",
+        "C": "Sygnał Świetlny: Sygnał S 3 „Jazda z największą dozwoloną prędkością – w przodzie są dwa odstępy blokowe wolne – albo przy następnym semaforze z prędkością nie większą niż 100 km/h”",
+        "D": "Sygnał A2 „Pożar”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "d4ac0da7-eeb4-4f6f-919e-ace32bd39e90",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Ms 1 „Jazda manewrowa zabroniona”",
+        "B": "Wskaźnik W 27a „Wskaźnik zmiany prędkości”",
+        "C": "Sygnał S 4 „Następny semafor wskazuje sygnał zezwalający na jazdę z prędkością zmniejszoną do 40 lub 60 km/h”",
+        "D": "Wskaźnik Wz 6 „Jazda po prostej w lewo”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "f2f8d755-bad9-4d5c-a85f-906055226ca6",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał S 13 „Jazda z prędkością nieprzekraczającą 40 km/h, a przy następnym semaforze – Stój”",
+        "B": "Sygnał S 5 „Następny semafor (wskazuje) nadaje sygnał Stój”",
+        "C": "Wskaźnik We 4b „Wskaźniki zakazu wjazdu elektrycznych pojazdów trakcyjnych”",
+        "D": "Sygnał D 6 „Zwolnić bieg” Dzienny"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "24e3b2f1-0877-4c24-84d9-304caa35f1b1",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał S 6 „Jazda z prędkością nieprzekraczającą 100 km/h, a potem z największą dozwoloną prędkością”",
+        "B": "Sygnał Rh 2„Odhamować”: Nocny (Rh 2)",
+        "C": "Sygnał DO „Za tarczą ostrzegawczą znajduje się tarcza zatrzymania” Nocny",
+        "D": "Wskaźniki W 9 W 14 „Wskaźniki odcinka ograniczonej prędkości”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "328002c4-34d8-473c-887e-10aa9ec6eaa7",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Rt 1 „Pchanie zabronione” Nocny",
+        "B": "Sygnał Rm 4 „Stój” Nocny",
+        "C": "Sygnał S 7 „Jazda z prędkością nieprzekraczającą 100 km/h przy tym i następnym semaforze”",
+        "D": "Wskaźnik W 17 „Wskaźnik ukresu”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "0a542a1d-f8df-4bf3-8d9f-863a16d6141b",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Osp 1 „Urządzenia sygnalizacji na przejeździe, do którego się tarcza odnosi, są niesprawne, jazda przez przejazd z prędkością 20 km/h”",
+        "B": "Sygnał S 8 „Jazda z prędkością nieprzekraczającą 100 km/h, a przy następnym semaforze z prędkością zmniejszoną do 40 lub 60 km/h”",
+        "C": "Wskaźnik W 4 „Wskaźnik zatrzymania”",
+        "D": "Wskaźniki W 9 W 14 „Wskaźniki odcinka ograniczonej prędkości”"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "ea67ce58-33e8-43c1-9a80-ed7ab94a9ab8",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Rp 1 „Baczność”",
+        "B": "Sygnał S 9 „Jazda z prędkością nieprzekraczającą 100 km/h, a przy następnym semaforze – Stój”",
+        "C": "Wskaźniki W 10a i W 10 b „Wskaźniki odcinka z popychaniem”",
+        "D": "Sygnał Z 1p „Stój, wjazd pojazdów z nieprzesuwnymi kołami zabroniony” Dzienny i nocny"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "a0a0c6fb-ae68-46ed-a3c5-ac072c8c3489",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Wskaźnik We 4a„Wskaźniki zakazu wjazdu elektrycznych pojazdów trakcyjnych”",
+        "B": "Wskaźnik We 4c „Wskaźniki zakazu wjazdu elektrycznych pojazdów trakcyjnych”",
+        "C": "Sygnał S 10 „Jazda z prędkością nieprzekraczającą 40 km/h, a potem z największą dozwoloną prędkością”",
+        "D": "Sygnał „Wolna droga ze zmniejszoną prędkością” lub „Wolna droga ze zmniejszoną prędkością. Następny semafor nadaje sygnał zezwalający na jazdę”:"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "60fdb475-0f0b-47ec-a12d-06c75096005e",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Rm 1 „Do mnie”",
+        "B": "Sygnał S 10a „Jazda z prędkością nieprzekraczającą 60 km/h, a potem z największą dozwoloną prędkością”",
+        "C": "Wskaźnik W ETCS 5 „Wjazd w obszar ERTMS/ETCS poziomu 1”",
+        "D": "Sygnał Rp 8 „Rozpocząć popychanie”:"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "62620e07-22cd-4128-9295-4de6f1976b84",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Wskaźnik Wz 4 „Jazda z ostrza”",
+        "B": "Sygnał S 11 „Jazda z prędkością nieprzekraczającą 40 km/h, a przy następnym semaforze – z prędkością nie przekraczającą 100 km/h”",
+        "C": "Sygnał Rm 1 „Do mnie”",
+        "D": "Wskaźnik W 30 „Wskaźnik ważenia składu”"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "542b4209-a982-45d9-9800-4df019c0dca4",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Rhs 2 „Odhamować”: Dzienny i nocny (Rhs 2)",
+        "B": "Sygnał Rp 7 „Odhamować”:",
+        "C": "Sygnał S 11a „Jazda z prędkością nieprzekraczającą 60 km/h, a przy następnym semaforze – z prędkością nie przekraczającą 100 km/h”",
+        "D": "tarcza ostrzegawcza semafora wjazdowego lub odstępowego albo semafor, którego obrazy sygnałowe mogą nie być widoczne w sposób ciągły z wymaganej odległości (wskaźnik W 11a)"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "058dab3a-427e-4699-8bec-46338f446f22",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Z 1 „Stój” Dzienny i nocny",
+        "B": "Wskaźnik We 1 „Wskaźnik uprzedzający o opuszczeniu pantografu”",
+        "C": "Sygnał S 12 „Jazda z prędkością nieprzekraczającą 40 km/h, a przy następnym semaforze – z prędkością nie przekraczającą 40 lub 60 km/h",
+        "D": "Wskaźnik Wz 2 „Jazda na ostrze”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "7ae06141-caa1-403b-82b6-f3a906fb9764",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Rm 5 „Odrzucić” Dzienny",
+        "B": "Sygnał S 12a „Jazda z prędkością nieprzekraczającą 60 km/h, a przy następnym semaforze – z prędkością zmniejszoną do 40 lub 60 km/h”",
+        "C": "Wskaźnik Wz 8 „Jazda po łuku w prawo”",
+        "D": "Sygnał Rp 8 „Rozpocząć popychanie”:"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "37713477-e206-4ea8-9408-b18884424cc0",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Wskaźnik We 2a„Wskaźniki opuszczenia pantografu”",
+        "B": "Sygnał S 7 „Jazda z prędkością nieprzekraczającą 100 km/h przy tym i następnym semaforze”",
+        "C": "Sygnał S 13 „Jazda z prędkością nieprzekraczającą 40 km/h, a przy następnym semaforze – Stój”",
+        "D": "Sygnał Sp 1 „Semafor wskazuje sygnał Sr 1 lub S 1 Stój”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "663c10f5-502d-4576-8897-49e4d705ca54",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał S 13a „Jazda z prędkością nieprzekraczającą 60 km/h, a przy następnym semaforze – Stój”:",
+        "B": "Sygnał Rp 14 „Odjazd pociągów pasażerskich”",
+        "C": "Wskaźnik W 20 „Wskaźnik braku drogi hamowania”",
+        "D": "Wskaźnik W ETCS 1 „Zapowiedź wjazdu w obszar ERTMS/ETCS poziomu 1 LS”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "4ad374ed-aa7f-4bf1-9fe2-20da48aad868",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Rh 3„Hamulce w porządku”: Nocny (Rh 3)",
+        "B": "Wskaźnik W 3 „Wskaźnik unieważnienia” dzienny",
+        "C": "Sygnał zastępczy Sz „Można przejechać obok semafora wskazującego sygnał Sr 1 lub S 1 „Stój” albo sygnał wątpliwy, albo też semafora nieoświetlonego lub przejechać obok sygnalizatora sygnału zastępczego, mającego wyłącznie latarnię ze światłem białym - bez rozkazu pisemnego”",
+        "D": "Sygnał Tb 3 „Oznaczenie wagonów pocztowych w pociągach w czasie postoju, podczas załadowywania i wyładowywania poczty” Dzienny"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "461951c2-a650-45fc-b097-691eb06c116d",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Wskaźnik W 20 „Wskaźnik braku drogi hamowania”",
+        "B": "Wskaźnik W 31 „Wskaźnik kasowania",
+        "C": "Sygnał Sp 1 „Semafor wskazuje sygnał Sr 1 lub S 1 Stój”",
+        "D": "Sygnał Od 2 „Semafor wskazuje sygnał Sr 2 lub Sr 3 zezwalający na jazdę” Dzienny"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 4",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "0593e022-3af7-4019-bf46-867f77f87dea",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Rd 1 „Nakaz jazdy”: Nocny",
+        "B": "Sygnał Od 1 „Semafor wskazuje sygnał Sr 1 Stój”  Nocny",
+        "C": "Sygnał Sp 2 „Semafor wskazuje sygnał zezwalający na jazdę z największą dozwoloną prędkością",
+        "D": "Sygnał D 6 „Zwolnić bieg” Nocny"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 4",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "1d3a3bf5-f4d8-40f1-b749-cf1df63ab71c",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Sp 3 „Semafor wskazuje sygnał zezwalający na jazdę z prędkością nieprzekraczającą 100 km/h”",
+        "B": "Wskaźnik W 31 „Wskaźnik kasowania",
+        "C": "Sygnał Pc 4 „Oznaczenie czoła pociągu jadącego naprzód wagonami niewyposażonymi w kabinę maszynisty”: Dzienny",
+        "D": "Sygnał Z 1o, Z 1wg „Stój, wjazd zabroniony” Dzienny i nocny"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 4",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "1347682f-e335-4d8c-873b-f1a2a408f029",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał „Wolna droga ze zmniejszoną prędkością” lub „Wolna droga ze zmniejszoną prędkością. Następny semafor nadaje sygnał zezwalający na jazdę”:",
+        "B": "Sygnał Sp 4 „Semafor wskazuje sygnał zezwalający na jazdę z prędkością zmniejszoną do 40 lub 60 km/h”",
+        "C": "wskaźnik W 7 „Wskaźnik robót torowych” oznacza, że należy podać sygnał Rp 1 „Baczność” ze względu na prowadzone roboty torowe.",
+        "D": "Sygnał D 2 „Stój” dawany ręcznie dzienny"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 4",
+      "section_ref": "§ 4",
+      "section": 4
+    },
+    {
+      "uuid": "b74a6391-1bab-42da-b836-e0dc0909d8f1",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Od 1 „Semafor wskazuje sygnał Sr 1 Stój”",
+        "B": "Sygnał Os 3 „Semafor, do którego się tarcza odnosi, wskazuje sygnał zezwalający na jazdę z prędkością nieprzekraczającą 100 km/h”",
+        "C": "Sygnał PcSb „Skażenie biologiczne pociągu”",
+        "D": "Wskaźniki We 3b „Wskaźniki podniesienia pantografu”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "0adc3bca-8fc1-4a90-a2cc-ddd023d545a6",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Od 1 „Semafor wskazuje sygnał Sr 1 Stój”  Nocny",
+        "B": "Sygnał Pc 1 „Oznaczenie czoła pociągu lub innego pojazdu kolejowego jadącego na szlaku jednotorowym, w kierunku zasadniczym po torze szlaku dwu- i wielotorowego”: Dzienny i nocny",
+        "C": "Semafor Kształtowy Sygnał Sr 3 „Wolna droga ze zmniejszoną prędkością” Dzienny",
+        "D": "Sygnał Od 1 „Semafor wskazuje sygnał Sr 1 Stój”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "cafc95dc-8c66-4ec1-8d5f-9798f2ff4ef8",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Wskaźnik Wz 4 „Jazda z ostrza”",
+        "B": "Rt 4 „Cofnąć” Dzienny i nocny",
+        "C": "Sygnał Od 2 „Semafor wskazuje sygnał Sr 2 lub Sr 3 zezwalający na jazdę” Dzienny",
+        "D": "Sygnał S 9 „Jazda z prędkością nieprzekraczającą 100 km/h, a przy następnym semaforze – Stój”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "eb24ff98-4725-4b55-b961-d0ea01e4b441",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Wskaźnik We 3a„Wskaźniki podniesienia pantografu”",
+        "B": "Sygnał Od 2 „Semafor wskazuje sygnał Sr 2 lub Sr 3 zezwalający na jazdę” Nocny",
+        "C": "Wskaźnik W ETCS 7 „Zapowiedź wjazdu w obszar ERTMS/ETCS poziomu 2”",
+        "D": "Sygnał S 11 „Jazda z prędkością nieprzekraczającą 40 km/h, a przy następnym semaforze – z prędkością nie przekraczającą 100 km/h”"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "ea84f452-c731-494f-9152-2584b516b3ab",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Os 4 „Semafor, do którego się tarcza odnosi, wskazuje sygnał zezwalający na jazdę z prędkością zmniejszoną do 40 lub 60 km/h”",
+        "B": "Sygnał Z 1o, Z 1wg „Stój, wjazd zabroniony” Dzienny i nocny",
+        "C": "Sygnał A1 „Alarm”",
+        "D": "Sygnał Ot 1 „Semafor wskazuje sygnał Sr 1 - Stój” Dzienny"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "c5cec301-8b5d-4a8c-8976-74ab19f87fe1",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Wskaźnik W 29 „Wskaźnik nawiązania łączności”",
+        "B": "Sygnał Ot 1 „Semafor wskazuje sygnał Sr 1 - Stój” Nocny",
+        "C": "Sygnał Rm 1 „Do mnie” Dzienny",
+        "D": "Sygnał Rp 8 „Rozpocząć popychanie”:"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "eb84fc4d-0a7d-4e4b-83b4-3602a68948f3",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Rt 2 „Pchać powoli” Dzienny i nocny",
+        "B": "Sygnał Ot 2 „Semafor wskazuje sygnał Sr 2 Wolna droga” Dzienny",
+        "C": "Sygnał Z 1 „Stój” Dzienny i nocny",
+        "D": "Sygnał Od 2 „Semafor wskazuje sygnał Sr 2 lub Sr 3 zezwalający na jazdę” Dzienny"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "8e08d992-fef7-43da-a2cc-066ab7c13ef1",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Ot 2 „Semafor wskazuje sygnał Sr 2 Wolna droga” Nocny",
+        "B": "Sygnał Rt 3 „Pchać z umiarkowaną prędkością” Dzienny",
+        "C": "Wskaźnik W 1 „Wskaźnik usytuowania”",
+        "D": "Sygnał A2 „Pożar”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "530fc7d0-3551-4341-9657-e8830fc5108a",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Ot 3 „Semafor wskazuje sygnał Sr 3 – Wolna droga ze zmniejszoną prędkością” Dzienny",
+        "B": "Sygnał S 10 „Jazda z prędkością nieprzekraczającą 40 km/h, a potem z największą dozwoloną prędkością”",
+        "C": "Wskaźnik W 28 „Wskaźnik kanału radiowego”",
+        "D": "Wskaźnik W 8 „Wskaźnik ograniczenia prędkości”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "dd443bed-d3ad-4e47-9dfb-800797141eb3",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Rm 2 „Ode mnie” Nocny",
+        "B": "Sygnał Pc 6 „Oznaczenia czoła pociągu z jednoosobową obsadą pojazdu trakcyjnego, zatrzymanego z niewiadomej przyczyny na torze szlaku dwu- lub wielotorowego”:",
+        "C": "Sygnał Ot 3 „Semafor wskazuje sygnał Sr 3 – Wolna droga ze zmniejszoną prędkością” Nocny",
+        "D": "Sygnał S 11a „Jazda z prędkością nieprzekraczającą 60 km/h, a przy następnym semaforze – z prędkością nie przekraczającą 100 km/h”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "f822ec47-6c0f-4b66-9077-651bed90566a",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Ot 1 „Semafor wskazuje sygnał Sr 1 - Stój” Nocny",
+        "B": "Sygnał PcSb „Skażenie biologiczne pociągu”",
+        "C": "Sygnał Rt 1 „Pchanie zabronione” Dzienny i nocny",
+        "D": "Sygnał On „W odległości drogi hamowania znajduje się semafor” Dzienny"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "43fa55e1-a7b7-4c1d-b911-7a200327b0bb",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał M 2 „Jazda manewrowa dozwolona” Nocny",
+        "B": "Sygnał Rp 10 „Dalsze popychanie nie jest potrzebne. Odjechać od pociągu”:",
+        "C": "Sygnał On „W odległości drogi hamowania znajduje się semafor” Nocny",
+        "D": "Wskaźnik W ETCS 5 „Wjazd w obszar ERTMS/ETCS poziomu 1”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "da3232d9-1e28-4dff-a166-965cb70d3e13",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Rp 14 „Odjazd pociągów pasażerskich”",
+        "B": "Sygnał Rm 4 „Stój” Nocny",
+        "C": "Sygnał Rp 11 „Wsiadać”",
+        "D": "Sygnał Os 1 „Semafor, do którego się tarcza odnosi, wskazuje sygnał Stój”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "ace5a705-deed-4b6c-8a99-be5434758c40",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "tarcza ostrzegawcza semafora wjazdowego posterunku ruchu, na którym rozpoczyna się odcinek zelektryfikowany (wskaźnik W 11b)",
+        "B": "Wskaźnik W 12 „Wskaźnik parowozowy”",
+        "C": "Sygnał Os 2 „Semafor, do którego się tarcza odnosi, wskazuje sygnał zezwalający na jazdę z największą dozwoloną prędkością",
+        "D": "Wskaźnik W 18 „Wskaźnik samoczynnej blokady liniowej”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "a963f0d7-48c7-4444-88cc-b076d5809ef9",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Rm 3 „Zwolnić” Dzienny",
+        "B": "Wskaźnik W ETCS 3 „Wyjazd z obszaru ERTMS/ETCS poziomu 1 LS”",
+        "C": "Sygnał Os 3 „Semafor, do którego się tarcza odnosi, wskazuje sygnał zezwalający na jazdę z prędkością nieprzekraczającą 100 km/h”",
+        "D": "Wskaźnik W 33 „Wskaźnik początku obowiązywania systemu ERTMS/GSM-R"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "255234f7-46ef-48bf-8f02-3bc446ecd736",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Rhs 1 „Zahamować”: Dzienny i nocny (Rhs 1)",
+        "B": "Sygnał M 2 „Jazda manewrowa dozwolona” Nocny",
+        "C": "Sygnał Os 4 „Semafor, do którego się tarcza odnosi, wskazuje sygnał zezwalający na jazdę z prędkością zmniejszoną do 40 lub 60 km/h”",
+        "D": "Sygnał PcSp „Skażenie promieniotwórcze pociągu”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 5",
+      "section_ref": "§ 5",
+      "section": 5
+    },
+    {
+      "uuid": "219d9dfa-a3fc-4296-94c3-ddbf7e04f8c9",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Z 1 „Stój” Dzienny i nocny",
+        "B": "Sygnał Osp 1 „Urządzenia sygnalizacji na przejeździe, do którego się tarcza odnosi, są niesprawne, jazda przez przejazd z prędkością 20 km/h”",
+        "C": "Sygnał Rh 3 „Hamulce w porządku”: Dzienny (Rh 3)",
+        "D": "Sygnał DO „Za tarczą ostrzegawczą znajduje się tarcza zatrzymania” Nocny"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 6",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "dad1396e-c972-47fd-abb5-4217055c5c84",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Wskaźnik W 11p „Wskaźnik przejazdowy”",
+        "B": "Sygnał PcSb „Skażenie biologiczne pociągu”",
+        "C": "Sygnał Osp 2 „Urządzenia sygnalizacji na przejeździe, do którego się tarcza odnosi, są sprawne, jazda przez przejazd z największą dozwoloną prędkością”",
+        "D": "Sygnał S 7 „Jazda z prędkością nieprzekraczającą 100 km/h przy tym i następnym semaforze”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 6",
+      "section_ref": "§ 6",
+      "section": 6
+    },
+    {
+      "uuid": "d69a8cde-3ddd-4f6a-bbea-90d494b803f1",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał D 8 „Dróżnik obecny na przejeździe kolejowo – drogowym lub przejściu”: Nocny",
+        "B": "Sygnał Rp 10 „Dalsze popychanie nie jest potrzebne. Odjechać od pociągu”:",
+        "C": "Sygnał Os 3 „Semafor, do którego się tarcza odnosi, wskazuje sygnał zezwalający na jazdę z prędkością nieprzekraczającą 100 km/h”",
+        "D": "Sygnał M 1 „Jazda manewrowa zabroniona” Dzienny"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "4175787e-25b3-44e0-8729-b4ad39d2cb28",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał M 1 „Jazda manewrowa zabroniona” Nocny",
+        "B": "Sygnał Rp 1 „Baczność”",
+        "C": "Sygnał Os 3 „Semafor, do którego się tarcza odnosi, wskazuje sygnał zezwalający na jazdę z prędkością nieprzekraczającą 100 km/h”",
+        "D": "Sygnał S 10 „Jazda z prędkością nieprzekraczającą 40 km/h, a potem z największą dozwoloną prędkością”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "1398ac8d-ff4a-4f78-9c55-e921b08c20ba",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Wskaźnik We 8b „Wskaźniki jazdy bezprądowej”",
+        "B": "Sygnał Rh 2„Odhamować”: Nocny (Rh 2)",
+        "C": "Sygnał D 1 „Stój” dawany tarczą zatrzymania Nocny",
+        "D": "Sygnał M 2 „Jazda manewrowa dozwolona” Dzienny"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "cdca5e51-f8ca-4ca7-8ef2-9ed1d788b84f",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał M 2 „Jazda manewrowa dozwolona” Nocny",
+        "B": "Sygnał D 6 „Zwolnić bieg” Nocny",
+        "C": "Sygnał On „W odległości drogi hamowania znajduje się semafor” Nocny",
+        "D": "Sygnał M 2 „Jazda manewrowa dozwolona” Dzienny"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "573c9bfd-30fe-4c75-8ba7-f49db8e8104e",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Ms 1 „Jazda manewrowa zabroniona”",
+        "B": "Sygnał Rm 1 „Do mnie”",
+        "C": "Sygnał S 9 „Jazda z prędkością nieprzekraczającą 100 km/h, a przy następnym semaforze – Stój”",
+        "D": "Wskaźnik We 2c „Wskaźniki opuszczenia pantografu”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "ca76c26b-ee79-462e-bcae-ae174b9dd5db",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Ms 2 „Jazda manewrowa dozwolona”",
+        "B": "Sygnał Tb 3 „Oznaczenie wagonów pocztowych w pociągach w czasie postoju, podczas załadowywania i wyładowywania poczty” Dzienny",
+        "C": "Sygnał Pc 4 „Oznaczenie czoła pociągu jadącego naprzód wagonami niewyposażonymi w kabinę maszynisty”: Dzienny",
+        "D": "Na sygnalizatorze powtarzającym można do odwołania stosować następujący sygnał: Sygnał „Semafor wskazuje sygnał zezwalający na jazdę ze zmniejszoną prędkością”:"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "88b24947-732c-486e-aa3a-80a255d704ec",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał M 1 „Jazda manewrowa zabroniona” Nocny",
+        "B": "Sygnał S 1 „Stój”",
+        "C": "Sygnał S 11 „Jazda z prędkością nieprzekraczającą 40 km/h, a przy następnym semaforze – z prędkością nie przekraczającą 100 km/h”",
+        "D": "Sygnał „Semafor wskazuje sygnał „Wjazd ze zmniejszoną prędkością. Następny semafor wskazuje Stój” lub sygnał „Wolna droga ze zmniejszoną prędkością. Następny semafor wskazuje sygnał zezwalający na jazdę”:"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "b5dde19c-4c94-4d11-b446-6b15b62fded3",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Ms 2 „Jazda manewrowa dozwolona”",
+        "B": "Sygnał Rp 9 „Przerwać popychanie, pozostać przy pociągu”:",
+        "C": "Wskaźnik Wz 4 „Jazda z ostrza”",
+        "D": "Sygnał Od 2 „Semafor wskazuje sygnał Sr 2 lub Sr 3 zezwalający na jazdę” Dzienny"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "070f7c65-9b22-418f-8d8d-0bbd0c7880dc",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Rt 1 „Pchanie zabronione”",
+        "B": "Wskaźnik W 6a „Wskaźnik przejazdowy” oznacza, że za wskaźnikiem znajduje się przejazd kolejowo – drogowy lub przejście wyposażone w półsamoczynny lub samoczynny system przejazdowy, powiązany lub uzależniony w urządzeniach stacyjnych, zabezpieczający całą szerokość przejazdu kolejowo – drogowego lub przejścia.",
+        "C": "Sygnał S 12a „Jazda z prędkością nieprzekraczającą 60 km/h, a przy następnym semaforze – z prędkością zmniejszoną do 40 lub 60 km/h”",
+        "D": "Sygnał Rp 12 „Gotów do odjazdu”: Nocny"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "790c3c7f-d618-4820-aaf6-8dccb3d2b948",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Wskaźnik W 17 „Wskaźnik ukresu”",
+        "B": "Sygnał Rm 1 „Do mnie”",
+        "C": "Sygnał Rt 1 „Pchanie zabronione” Nocny",
+        "D": "Wskaźnik W 30 „Wskaźnik ważenia składu”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "50c3d05f-d841-4aa7-943f-a6ee4c5f2ff0",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Ot 1 „Semafor wskazuje sygnał Sr 1 - Stój” Nocny",
+        "B": "Sygnał Rt 1 „Pchanie zabronione” Dzienny i nocny",
+        "C": "Wskaźnik W 17 „Wskaźnik ukresu”",
+        "D": "tarcza ostrzegawcza semafora wjazdowego posterunku ruchu, na którym rozpoczyna się odcinek zelektryfikowany (wskaźnik W 11b)"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "43e78ce3-8578-4683-91b3-b04267bb5a78",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał S 11a „Jazda z prędkością nieprzekraczającą 60 km/h, a przy następnym semaforze – z prędkością nie przekraczającą 100 km/h”",
+        "B": "Wskaźnik We 2b „Wskaźniki opuszczenia pantografu”",
+        "C": "Semafor Kształtowy Sygnał Sr 2 „Wolna droga”",
+        "D": "Sygnał Rt 2 „Pchać powoli”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "a26f4ed8-251a-4a02-a09d-550ee05f4641",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Rt 2 „Pchać powoli” Nocny",
+        "B": "Sygnał PcSp „Skażenie promieniotwórcze pociągu”",
+        "C": "Sygnał S 11a „Jazda z prędkością nieprzekraczającą 60 km/h, a przy następnym semaforze – z prędkością nie przekraczającą 100 km/h”",
+        "D": "Sygnał Rt 1 „Pchanie zabronione” Nocny"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "1c544805-91dc-4edd-b2bf-55bd9236d5b7",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Rt 2 „Pchać powoli” Dzienny i nocny",
+        "B": "Sygnał Rt 5 „Podepchnąć skład do górki”",
+        "C": "Sygnał S 11 „Jazda z prędkością nieprzekraczającą 40 km/h, a przy następnym semaforze – z prędkością nie przekraczającą 100 km/h”",
+        "D": "Sygnał Rm 6 „Docisnąć”"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "e09c7561-8af1-49e7-b995-de3e7d57e606",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał PcSch „Skażenie chemiczne pociągu”",
+        "B": "Wskaźnik W 21wg",
+        "C": "Sygnał Rt 3 „Pchać z umiarkowaną prędkością” Dzienny",
+        "D": "Wskaźnik W 27a „Wskaźnik zmiany prędkości”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "bed4513f-7f29-4c62-9239-1f0ebb4c1730",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Wskaźnik W ETCS 8 „Wjazd w obszar ERTMS/ETCS poziomu 2”",
+        "B": "Wskaźnik W 16 „Wskaźnik przystanku osobowego”",
+        "C": "Sygnał Rt 3 „Pchać z umiarkowaną prędkością” Nocny",
+        "D": "Sygnał A2 „Pożar”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "7f9bd3d5-7355-40ba-99fc-b05011c91bd9",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Z 1o, Z 1wg „Stój, wjazd zabroniony” Dzienny i nocny",
+        "B": "Sygnał Rt 3 „Pchać z umiarkowaną prędkością” Dzienny i Nocny",
+        "C": "Sygnał Od 1 „Semafor wskazuje sygnał Sr 1 Stój”  Nocny",
+        "D": "Sygnał Ot 2 „Semafor wskazuje sygnał Sr 2 Wolna droga” Dzienny"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "57074c40-b154-4e2c-8166-8cd161286e8f",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Z 1p „Stój, wjazd pojazdów z nieprzesuwnymi kołami zabroniony” Dzienny i nocny",
+        "B": "Rt 4 „Cofnąć” Dzienny i nocny",
+        "C": "Wskaźnik W 3 „Wskaźnik unieważnienia”:Dzienny i nocny Białe światło wskaźnika świetlnego",
+        "D": "Sygnał D 1 „Stój” dawany tarczą zatrzymania Dzienny"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "fa146ae9-2081-4eeb-b63d-3f866ad08664",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał S 1 „Stój”",
+        "B": "Wskaźnik W 21 „Wskaźnik podwyższenia prędkości",
+        "C": "Sygnał Rt 5 „Podepchnąć skład do górki”",
+        "D": "Wskaźniki W 9 W 14 „Wskaźniki odcinka ograniczonej prędkości”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 7",
+      "section_ref": "§ 7",
+      "section": 7
+    },
+    {
+      "uuid": "72f88c25-110e-4fa2-a915-27598047ec01",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Z 1 „Stój” Dzienny i nocny",
+        "B": "Sygnał „Wolna droga. Następny semafor wskazuje sygnał zezwalający na jazdę ze zmniejszoną prędkością”:",
+        "C": "Sygnał S 8 „Jazda z prędkością nieprzekraczającą 100 km/h, a przy następnym semaforze z prędkością zmniejszoną do 40 lub 60 km/h”",
+        "D": "Sygnał Z 2 „Jazda dozwolona” Dzienny i nocny"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 9",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "b3a6a028-b876-4381-bd13-a17efc439677",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał S 6 „Jazda z prędkością nieprzekraczającą 100 km/h, a potem z największą dozwoloną prędkością”",
+        "B": "Sygnał Z 2 „Jazda dozwolona” Dzienny i nocny",
+        "C": "Sygnał DO „Za tarczą ostrzegawczą znajduje się tarcza zatrzymania” Dzienny",
+        "D": "Sygnał S 1a „Stój - absolutny zakaz wjazdu do tunelu”"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 9",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "6f059447-19ec-4469-b9a1-6cf9aa4da951",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Wskaźniki W 10a i W 10 b „Wskaźniki odcinka z popychaniem”",
+        "B": "Sygnał Z 1o, Z 1wg „Stój, wjazd zabroniony” Dzienny i nocny",
+        "C": "Sygnał Os 2 „Semafor, do którego się tarcza odnosi, wskazuje sygnał zezwalający na jazdę z największą dozwoloną prędkością",
+        "D": "Sygnał Z 1wk „Stój, wykolejnica na torze” Dzienny i nocny"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 9",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "bd9593cd-b676-4cc2-b7c9-8b06f36be24c",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Semafor Kształtowy Sygnał Sr 2 „Wolna droga”",
+        "B": "Sygnał Z 1wk „Stój, wykolejnica na torze” Dzienny i nocny",
+        "C": "Sygnał Od 1 „Semafor wskazuje sygnał Sr 1 Stój”",
+        "D": "Wskaźnik Wz 2 „Jazda na ostrze”"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 9",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "2c9172cf-7ae0-4f6c-b349-2ecf740846f8",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał S 4 „Następny semafor wskazuje sygnał zezwalający na jazdę z prędkością zmniejszoną do 40 lub 60 km/h”",
+        "B": "Sygnał PcSch „Skażenie chemiczne pociągu”",
+        "C": "Sygnał Z 2wk „Wykolejnica zdjęta z toru” Dzienny i nocny",
+        "D": "Wskaźnik W 21wg"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 9",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "f8512735-3227-4995-8584-1b8583ca3e34",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Z 2wk „Wykolejnica zdjęta z toru” Dzienny i nocny",
+        "B": "Sygnał Rd 1 „Nakaz jazdy”: Dzienny",
+        "C": "Sygnał Ot 1 „Semafor wskazuje sygnał Sr 1 - Stój” Dzienny",
+        "D": "Sygnał S 5 „Następny semafor (wskazuje) nadaje sygnał Stój”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 9",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "a0c99e80-414d-4a94-a29b-dff0e6a6b2db",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Z 1o, Z 1wg „Stój, wjazd zabroniony” Dzienny i nocny",
+        "B": "Sygnał Rm 5 „Odrzucić”",
+        "C": "Wskaźnik W 20 „Wskaźnik braku drogi hamowania”",
+        "D": "Sygnał Rt 1 „Pchanie zabronione”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 9",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "9fb78917-0ccd-4ff1-949a-f86bf1169153",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Wskaźnik We 8a„Wskaźniki jazdy bezprądowej”",
+        "B": "Sygnał Rm 4 „Stój” Nocny",
+        "C": "Wskaźnik Wz 2 „Jazda na ostrze”",
+        "D": "Sygnał Z 2o, Z 2wg „Wjazd dozwolony” Dzienny i nocny"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 9",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "28d010b0-8590-44d6-89c1-755bbdb00bf1",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Wskaźnik W ETCS 3 „Wyjazd z obszaru ERTMS/ETCS poziomu 1 LS”",
+        "B": "Sygnał Rt 3 „Pchać z umiarkowaną prędkością” Nocny",
+        "C": "Sygnał Z 1p „Stój, wjazd pojazdów z nieprzesuwnymi kołami zabroniony” Dzienny i nocny",
+        "D": "Sygnał Os 2 „Semafor, do którego się tarcza odnosi, wskazuje sygnał zezwalający na jazdę z największą dozwoloną prędkością"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 9",
+      "section_ref": "§ 9",
+      "section": 9
+    },
+    {
+      "uuid": "c0a875f0-6d86-4615-bffd-4f4d22b92b5a",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Wskaźnik W 35„Wskaźniki ograniczenia prędkości na kierunku zwrotnym",
+        "B": "Sygnał Osp 2 „Urządzenia sygnalizacji na przejeździe, do którego się tarcza odnosi, są sprawne, jazda przez przejazd z największą dozwoloną prędkością”",
+        "C": "Sygnał Rm 3 „Zwolnić”",
+        "D": "Sygnał DO „Za tarczą ostrzegawczą znajduje się tarcza zatrzymania” Dzienny"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 10",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "213c9ffc-620e-436b-b5e5-965920135238",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Wskaźnik We 8c „Wskaźniki jazdy bezprądowej”",
+        "B": "Sygnał DO „Za tarczą ostrzegawczą znajduje się tarcza zatrzymania” Nocny",
+        "C": "Sygnał Os 1 „Semafor, do którego się tarcza odnosi, wskazuje sygnał Stój”",
+        "D": "Sygnał Z 1o, Z 1wg „Stój, wjazd zabroniony” Dzienny i nocny"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 10",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "b31efb70-2200-472a-b041-04937a2f221f",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Rhs 3 „Hamulce w porządku”:",
+        "B": "Sygnał Ms 2 „Jazda manewrowa dozwolona”",
+        "C": "Sygnał Rt 2 „Pchać powoli”",
+        "D": "Sygnał D 1 „Stój” dawany tarczą zatrzymania Dzienny"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 10",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "853918e8-1d0c-41fb-bd37-fb1b7a2414fa",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał D 1 „Stój” dawany tarczą zatrzymania Nocny",
+        "B": "Sygnał Rt 2 „Pchać powoli” Dzienny i nocny",
+        "C": "Wskaźnik W ETCS 9 „Wyjazd z obszaru ERTMS/ETCS poziomu 2”",
+        "D": "Wskaźnik W ETCS 2 „Wjazd w obszar ERTMS/ETCS poziomu 1 LS”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 10",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "0becc4e5-ca5a-491f-a2df-14d460fba30e",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał D 6 „Zwolnić bieg” Dzienny",
+        "B": "Sygnał DO „Za tarczą ostrzegawczą znajduje się tarcza zatrzymania” Dzienny",
+        "C": "Sygnał Rm 2 „Ode mnie” Nocny",
+        "D": "Sygnał Rp 8 „Rozpocząć popychanie”:"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 10",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "e5463da9-3e2f-4b74-8ef2-491191fbf1dd",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Pc 5 „Oznaczenia końca pociągu lub innego pojazdu kolejowego”: Dzienny i nocny",
+        "B": "Sygnał D 6 „Zwolnić bieg” Nocny",
+        "C": "tarcza ostrzegawcza semafora wjazdowego lub odstępowego albo semafor, którego obrazy sygnałowe mogą nie być widoczne w sposób ciągły z wymaganej odległości (wskaźnik W 11a)",
+        "D": "Sygnał Rp 8 „Rozpocząć popychanie”:"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 10",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "c303b353-79ff-46ab-a4ea-137a9e0055a3",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Osp 2 „Urządzenia sygnalizacji na przejeździe, do którego się tarcza odnosi, są sprawne, jazda przez przejazd z największą dozwoloną prędkością”",
+        "B": "Sygnał D 2 „Stój” dawany ręcznie dzienny",
+        "C": "Sygnał Z 1wk „Stój, wykolejnica na torze” Dzienny i nocny",
+        "D": "Wskaźnik Wz 7 „Jazda po łuku w lewo”"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 11",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "a600f1da-6617-4fbb-bcd8-49441ae79d5b",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał D 2 „Stój” dawany ręcznie Nocny",
+        "B": "Wskaźnik W 3 „Wskaźnik unieważnienia” dzienny",
+        "C": "Sygnał Rd 1 „Nakaz jazdy”: Nocny",
+        "D": "Sygnał Rm 4 „Stój”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 11",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "35d695d2-a38f-480d-98f3-9600b5a8e2cd",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał D 3 „Stój” – dźwiękowy",
+        "B": "Wskaźnik Wz 6 „Jazda po prostej w lewo”",
+        "C": "Sygnał Rp 4 „Hamować średnio”:",
+        "D": "Sygnał M 2 „Jazda manewrowa dozwolona” Dzienny"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 11",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "80a132eb-6ac9-45cb-bfe4-7589cb734562",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Semafor kształtowy sygnał Sr 1 „Stój”",
+        "B": "Wskaźnik W ETCS 5 „Wjazd w obszar ERTMS/ETCS poziomu 1”",
+        "C": "Sygnał Rm 1 „Do mnie” Dzienny",
+        "D": "Sygnał Tb 2 „Oznaczenie wagonów pocztowych z funkcjonariuszami, wagonów restauracyjnych, sypialnych, jak również innych wagonów specjalnego przeznaczenia oraz wagonów z podróżnymi na stacji, jeżeli te wagony nie są złączone z pociągiem” Dzienny"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 10",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "39c8ced0-fe1a-4f88-a669-d652f246db8a",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Wskaźnik W 16 „Wskaźnik przystanku osobowego”",
+        "B": "Sygnał S 11 „Jazda z prędkością nieprzekraczającą 40 km/h, a przy następnym semaforze – z prędkością nie przekraczającą 100 km/h”",
+        "C": "Sygnał Rm 1 „Do mnie”",
+        "D": "Sygnał Rm 2 „Ode mnie” Nocny"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 10",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "1ad7d6c5-1cf1-4b40-a168-0ecd1f49c49d",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Wskaźnik W 31 „Wskaźnik kasowania",
+        "B": "Sygnał D 6 „Zwolnić bieg” Nocny",
+        "C": "Sygnał Rm 1 „Do mnie” Nocny",
+        "D": "Sygnał Pc 5 „Oznaczenia końca pociągu lub innego pojazdu kolejowego”: Dzienny"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 10",
+      "section_ref": "§ 10",
+      "section": 10
+    },
+    {
+      "uuid": "1aff842c-004d-4015-8cfb-a026643f7631",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Rp 9 „Przerwać popychanie, pozostać przy pociągu”:",
+        "B": "Sygnał Rm 2 „Ode mnie” Dzienny",
+        "C": "Sygnał Rm 2 „Ode mnie”",
+        "D": "Wskaźnik W 24 „Wskaźnik kierunku przeciwnego”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 11",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "11f72e6c-b89f-45e8-9544-3101a67231da",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Rp 12 „Gotów do odjazdu”: Nocny",
+        "B": "Sygnał M 2 „Jazda manewrowa dozwolona” Nocny",
+        "C": "Wskaźnik W 16 „Wskaźnik przystanku osobowego”",
+        "D": "Sygnał Rm 2 „Ode mnie” Dzienny"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 11",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "93dbabff-f239-4570-a7e4-e543b0a41368",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Wskaźnik Wz 4 „Jazda z ostrza”",
+        "B": "Wskaźnik W 6 „Wskaźnik ostrzegania”",
+        "C": "Sygnał D 2 „Stój” dawany ręcznie dzienny",
+        "D": "Sygnał Rm 2 „Ode mnie” Nocny"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 11",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "52529106-da10-41bf-b00e-1a86662acb43",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał D 2 „Stój” dawany ręcznie dzienny",
+        "B": "Sygnał D 1 „Stój” dawany tarczą zatrzymania Dzienny",
+        "C": "Sygnał Rt 1 „Pchanie zabronione”",
+        "D": "Sygnał Rm 3 „Zwolnić”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 11",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "938fe096-9310-4c67-af1a-aca86cd20e52",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Rh 3„Hamulce w porządku”: Nocny (Rh 3)",
+        "B": "Sygnał Rm 3 „Zwolnić” Dzienny",
+        "C": "Wskaźnik W 18 „Wskaźnik samoczynnej blokady liniowej”",
+        "D": "Sygnał Rh 1„Zahamować”: Nocny (Rh 1)"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 11",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "6d708d9c-ecb6-48d0-9d6d-857af5dfcb83",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Rm 3 „Zwolnić” Nocny",
+        "B": "Sygnał Os 4 „Semafor, do którego się tarcza odnosi, wskazuje sygnał zezwalający na jazdę z prędkością zmniejszoną do 40 lub 60 km/h”",
+        "C": "Wskaźnik W 35„Wskaźniki ograniczenia prędkości na kierunku zwrotnym",
+        "D": "Wskaźnik W ETCS 2 „Wjazd w obszar ERTMS/ETCS poziomu 1 LS”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 11",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "d3863a8d-8062-4c91-9302-20a6ba1af584",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał zastępczy Sz „Można przejechać obok semafora wskazującego sygnał Sr 1 lub S 1 „Stój” albo sygnał wątpliwy, albo też semafora nieoświetlonego lub przejechać obok sygnalizatora sygnału zastępczego, mającego wyłącznie latarnię ze światłem białym - bez rozkazu pisemnego”",
+        "B": "Sygnał Rm 4 „Stój”",
+        "C": "Wskaźnik We 2b „Wskaźniki opuszczenia pantografu”",
+        "D": "Wskaźnik W ETCS 8 „Wjazd w obszar ERTMS/ETCS poziomu 2”"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 11",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "cbf76a18-7ad7-4583-8f6c-2877f58e5fed",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Rm 4 „Stój” Dzienny",
+        "B": "Sygnał Ms 1 „Jazda manewrowa zabroniona”",
+        "C": "Sygnał Rt 2 „Pchać powoli” Nocny",
+        "D": "Wskaźnik W ETCS 5 „Wjazd w obszar ERTMS/ETCS poziomu 1”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 11",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "6d5e459b-b423-4d7c-ac36-a59e7284d63b",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Rm 4 „Stój” Nocny",
+        "B": "Wskaźnik W 5 „Wskaźnik przetaczania”",
+        "C": "Sygnał D 7 „Stój” dawany przez dróżnika przejazdowego w celu zatrzymania pojazdów drogowych zbliżających się do przejazdu: Dzienny",
+        "D": "Rt 4 „Cofnąć” Dzienny i nocny"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 11",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "212b005c-1ffc-40aa-b4a4-3cd64449603c",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Wskaźnik W 8 „Wskaźnik ograniczenia prędkości”",
+        "B": "Sygnał M 2 „Jazda manewrowa dozwolona” Nocny",
+        "C": "Wskaźnik Wz 6 „Jazda po prostej w lewo”",
+        "D": "Sygnał Rm 5 „Odrzucić”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 11",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "63486527-3f6b-4bc0-b669-95a41dae06c3",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Wskaźnik W 12 „Wskaźnik parowozowy”",
+        "B": "Sygnał Ot 3 „Semafor wskazuje sygnał Sr 3 – Wolna droga ze zmniejszoną prędkością” Nocny",
+        "C": "Sygnał Rm 5 „Odrzucić” Dzienny",
+        "D": "Rt 4 „Cofnąć” Dzienny i nocny"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 11",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "2a971b8c-6f00-4566-87fd-8e1900249208",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Osp 2 „Urządzenia sygnalizacji na przejeździe, do którego się tarcza odnosi, są sprawne, jazda przez przejazd z największą dozwoloną prędkością”",
+        "B": "Wskaźnik W ETCS 4 „Zapowiedź wjazdu w obszar ERTMS/ETCS poziomu 1",
+        "C": "Sygnał Rt 2 „Pchać powoli”",
+        "D": "Sygnał Rm 5 „Odrzucić” Nocny"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 11",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "12630ac8-d0cd-4dd6-987c-610945edf83c",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał „Semafor wskazuje sygnał „Wjazd ze zmniejszoną prędkością. Następny semafor wskazuje Stój” lub sygnał „Wolna droga ze zmniejszoną prędkością. Następny semafor wskazuje sygnał zezwalający na jazdę”:",
+        "B": "Sygnał Rh 2„Odhamować”: Nocny (Rh 2)",
+        "C": "Sygnał Rm 6 „Docisnąć”",
+        "D": "Sygnał Od 2 „Semafor wskazuje sygnał Sr 2 lub Sr 3 zezwalający na jazdę” Nocny"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 11",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "48dd2918-ae02-4b51-bbc8-8e3ea76325f2",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Wskaźnik We 2a„Wskaźniki opuszczenia pantografu”",
+        "B": "Sygnał Rh 1„Zahamować”: Nocny (Rh 1)",
+        "C": "Wskaźnik W 5 „Wskaźnik przetaczania”",
+        "D": "Sygnał Rm 6 „Docisnąć” Dzienny"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 11",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "af311d8b-98dd-4a98-90c3-9780fd67d957",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał D 7 „Stój” dawany przez dróżnika przejazdowego w celu zatrzymania pojazdów drogowych zbliżających się do przejazdu: Dzienny",
+        "B": "Sygnał Os 1 „Semafor, do którego się tarcza odnosi, wskazuje sygnał Stój”",
+        "C": "Wskaźnik We 1 „Wskaźnik uprzedzający o opuszczeniu pantografu”",
+        "D": "Sygnał Rm 6 „Docisnąć”  Nocny"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 11",
+      "section_ref": "§ 11",
+      "section": 11
+    },
+    {
+      "uuid": "9bb86695-28a8-4290-b960-315f7ac48725",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Wskaźniki W 10a i W 10 b „Wskaźniki odcinka z popychaniem”",
+        "B": "Sygnał „Wolna droga ze zmniejszoną prędkością” lub „Wolna droga ze zmniejszoną prędkością. Następny semafor nadaje sygnał zezwalający na jazdę”:",
+        "C": "Sygnał Z 1p „Stój, wjazd pojazdów z nieprzesuwnymi kołami zabroniony” Dzienny i nocny",
+        "D": "Sygnał Rp 1 „Baczność”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 12",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "86f8a824-e59d-4b1c-b2c7-99713f2971e2",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Rp 4 „Hamować średnio”:",
+        "B": "Sygnał Rh 1„Zahamować”: Dzienny (Rh 1)",
+        "C": "Sygnał Z 1p „Stój, wjazd pojazdów z nieprzesuwnymi kołami zabroniony” Dzienny i nocny",
+        "D": "Sygnał S 12 „Jazda z prędkością nieprzekraczającą 40 km/h, a przy następnym semaforze – z prędkością nie przekraczającą 40 lub 60 km/h"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 12",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "f62883a5-e49d-4613-a8f2-6212e144b471",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Rm 1 „Do mnie”",
+        "B": "Sygnał PcSb „Skażenie biologiczne pociągu”",
+        "C": "Sygnał Rp 5 „Hamować”",
+        "D": "Sygnał Rm 2 „Ode mnie” Nocny"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 12",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "7f69f046-e37b-490a-b32d-592d9c9afc45",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Rp 6 „Odhamować średnio”",
+        "B": "Sygnał Rt 3 „Pchać z umiarkowaną prędkością” Dzienny",
+        "C": "Wskaźnik W 23 „Wskaźnik odcinka izolowanego”",
+        "D": "Sygnał Rp 1 „Baczność”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 12",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "2dcf3735-ac43-432a-9645-4e8e99a3ade8",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał S 10a „Jazda z prędkością nieprzekraczającą 60 km/h, a potem z największą dozwoloną prędkością”",
+        "B": "Sygnał Rp 12 „Gotów do odjazdu”: Dzienny",
+        "C": "Sygnał Rp 7 „Odhamować”:",
+        "D": "Sygnał Rp 10 „Dalsze popychanie nie jest potrzebne. Odjechać od pociągu”:"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 12",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "0714727a-b316-4aa7-9c8c-b108362dc93d",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał S 1 „Stój”",
+        "B": "Sygnał Rp 12 „Gotów do odjazdu”: Dzienny",
+        "C": "Sygnał S 10 „Jazda z prędkością nieprzekraczającą 40 km/h, a potem z największą dozwoloną prędkością”",
+        "D": "Sygnał Rp 6 „Odhamować średnio”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 12",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "e57a4b77-76a9-472d-b7ab-9875bd8f7bef",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Rm 6 „Docisnąć”  Nocny",
+        "B": "Wskaźnik Wz 6 „Jazda po prostej w lewo”",
+        "C": "Wskaźniki We 3b „Wskaźniki podniesienia pantografu”",
+        "D": "Sygnał Rp 7 „Odhamować”:"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 12",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "515f7d1e-804c-4c08-a915-3bb84138d117",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Wskaźnik We 2b „Wskaźniki opuszczenia pantografu”",
+        "B": "Sygnał D 6 „Zwolnić bieg” Nocny",
+        "C": "Sygnał Rp 4 „Hamować średnio”",
+        "D": "Sygnał Rm 6 „Docisnąć”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 12",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "1f9bf0ce-ebfd-4e73-840a-52a1eda6f48f",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Z 2o, Z 2wg „Wjazd dozwolony” Dzienny i nocny",
+        "B": "Sygnał D 8 „Dróżnik obecny na przejeździe kolejowo – drogowym lub przejściu”: Nocny",
+        "C": "Sygnał Rt 2 „Pchać powoli”",
+        "D": "Sygnał Rp 9 „Przerwać popychanie, pozostać przy pociągu”:"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 12",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "80e8e74d-6460-4d17-93af-adb6dc0ed2a7",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Rm 3 „Zwolnić”",
+        "B": "Sygnał Rp 4 „Hamować średnio”:",
+        "C": "Wskaźnik W 17 „Wskaźnik ukresu”",
+        "D": "Sygnał Rp 10 „Dalsze popychanie nie jest potrzebne. Odjechać od pociągu”:"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 12",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "018a4457-3f7f-4bb7-bbb2-a85233b6886b",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Ot 1 „Semafor wskazuje sygnał Sr 1 - Stój” Dzienny",
+        "B": "Sygnał Rp 11 „Wsiadać”",
+        "C": "Sygnał Rh 3„Hamulce w porządku”: Nocny (Rh 3)",
+        "D": "Sygnał „Wolna droga ze zmniejszoną prędkością” lub „Wolna droga ze zmniejszoną prędkością. Następny semafor nadaje sygnał zezwalający na jazdę”:"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 13",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "f01aad40-f77f-4f1d-84c3-659c6736e3a2",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Rp 14 „Odjazd pociągów pasażerskich”  Nocny",
+        "B": "Sygnał S 13 „Jazda z prędkością nieprzekraczającą 40 km/h, a przy następnym semaforze – Stój”",
+        "C": "Sygnał Rp 12 „Gotów do odjazdu”: Dzienny",
+        "D": "tarcza ostrzegawcza semafora wjazdowego lub odstępowego albo semafor, którego obrazy sygnałowe mogą nie być widoczne w sposób ciągły z wymaganej odległości (wskaźnik W 11a)"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 13",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "900e5b6e-29ff-4595-8b6d-8026b980a331",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Rp 12 „Gotów do odjazdu”: Nocny",
+        "B": "Sygnał Z 1wk „Stój, wykolejnica na torze” Dzienny i nocny",
+        "C": "Sygnał S 7 „Jazda z prędkością nieprzekraczającą 100 km/h przy tym i następnym semaforze”",
+        "D": "Sygnał Rm 6 „Docisnąć”  Nocny"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 13",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "9db79e9e-fb2c-48b1-85e6-12d7ab89cdd4",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Rm 2 „Ode mnie”",
+        "B": "Wskaźnik We 3a„Wskaźniki podniesienia pantografu”",
+        "C": "Sygnał Rm 3 „Zwolnić”",
+        "D": "Sygnał Rp 14 „Odjazd pociągów pasażerskich”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 13",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "961af40c-abc9-4a90-876f-5b673ac5a829",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Wskaźnik W 21wg",
+        "B": "Sygnał S 12a „Jazda z prędkością nieprzekraczającą 60 km/h, a przy następnym semaforze – z prędkością zmniejszoną do 40 lub 60 km/h”",
+        "C": "Sygnał Z 1 „Stój” Dzienny i nocny",
+        "D": "Sygnał Rp 14 „Odjazd pociągów pasażerskich”  Nocny"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 13",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "882d25ac-e1e6-41bf-882f-77c2997e63f0",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Rt 2 „Pchać powoli” Nocny",
+        "B": "Sygnał Rd 1 „Nakaz jazdy”: Dzienny",
+        "C": "Wskaźnik W 11p „Wskaźnik przejazdowy”",
+        "D": "Sygnał Rm 4 „Stój”"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 13",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "fefafd87-c515-4cb9-b59c-0adb364e3773",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Rd 1 „Nakaz jazdy”: Nocny",
+        "B": "Sygnał Rt 5 „Podepchnąć skład do górki”",
+        "C": "Wskaźnik We 2a„Wskaźniki opuszczenia pantografu”",
+        "D": "Semafor Świetlny: Sygnał S 2 „Jazda z największą dozwoloną prędkością”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 13",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "df0f9644-86f3-42d1-b243-ea6d54d6d6db",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Ot 1 „Semafor wskazuje sygnał Sr 1 - Stój” Dzienny",
+        "B": "Sygnał Rh 1„Zahamować”: Dzienny (Rh 1)",
+        "C": "Sygnał D 7 „Stój” dawany przez dróżnika przejazdowego w celu zatrzymania pojazdów drogowych zbliżających się do przejazdu: Dzienny",
+        "D": "Sygnał Rt 3 „Pchać z umiarkowaną prędkością” Dzienny i Nocny"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 13",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "3b947dbc-1310-4c63-bbbb-f635af68b858",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Wskaźnik W 25 „Wskaźnik ogrzewania”",
+        "B": "Sygnał Rh 1„Zahamować”: Nocny (Rh 1)",
+        "C": "Sygnał Rh 3„Hamulce w porządku”: Nocny (Rh 3)",
+        "D": "Sygnał Z 2 „Jazda dozwolona” Dzienny i nocny"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 13",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "10998215-ebcd-456a-a011-22758b020474",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Wskaźnik W ETCS 8 „Wjazd w obszar ERTMS/ETCS poziomu 2”",
+        "B": "Sygnał Rhs 1 „Zahamować”: Dzienny i nocny (Rhs 1)",
+        "C": "Wskaźnik We 8a„Wskaźniki jazdy bezprądowej”",
+        "D": "Sygnał Os 2 „Semafor, do którego się tarcza odnosi, wskazuje sygnał zezwalający na jazdę z największą dozwoloną prędkością"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 13",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "bc7b2d7c-83cf-47c5-9abd-72f9407e11de",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": ") Wskaźnik W 19 „Wskaźnik uprzedzający o braku drogi hamowania”",
+        "B": "Sygnał D 3 „Stój” – dźwiękowy",
+        "C": "Wskaźnik Wz 6 „Jazda po prostej w lewo”",
+        "D": "Sygnał Rh 2 „Odhamować”: Dzienny (Rh 2)"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 13",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "94f53510-a215-4632-8914-baa90e2b47d0",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Wskaźnik W 22 „Wskaźnik jazdy pociągu towarowego",
+        "B": "Sygnał Rh 2„Odhamować”: Nocny (Rh 2)",
+        "C": "Sygnał S 12 „Jazda z prędkością nieprzekraczającą 40 km/h, a przy następnym semaforze – z prędkością nie przekraczającą 40 lub 60 km/h",
+        "D": "Wskaźniki W 2, W 26a, W 26b „Wskaźniki kierunku jazdy”"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 13",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "1dcf8f4d-8f7c-400a-950f-fbd498d73ecf",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Wskaźnik W 21 „Wskaźnik podwyższenia prędkości",
+        "B": "Sygnał Rhs 2 „Odhamować”: Dzienny i nocny (Rhs 2)",
+        "C": "Wskaźnik W 3 „Wskaźnik unieważnienia”",
+        "D": "Sygnał „Semafor wskazuje sygnał „Wjazd ze zmniejszoną prędkością. Następny semafor wskazuje Stój” lub sygnał „Wolna droga ze zmniejszoną prędkością. Następny semafor wskazuje sygnał zezwalający na jazdę”:"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 13",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "55fb7fe7-ad61-4f72-aa88-33360db15433",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Rh 3 „Hamulce w porządku”: Dzienny (Rh 3)",
+        "B": "Sygnał Tb 3 „Oznaczenie wagonów pocztowych w pociągach w czasie postoju, podczas załadowywania i wyładowywania poczty” Nocny",
+        "C": "Sygnał Rm 3 „Zwolnić” Nocny",
+        "D": "Sygnał Rp 14 „Odjazd pociągów pasażerskich”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 13",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "ac5b4bef-c06a-4e36-983d-b174cf0cdabd",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Rp 12 „Gotów do odjazdu”: Dzienny",
+        "B": "Sygnał „Semafor wskazuje sygnał „Wjazd ze zmniejszoną prędkością. Następny semafor wskazuje Stój” lub sygnał „Wolna droga ze zmniejszoną prędkością. Następny semafor wskazuje sygnał zezwalający na jazdę”:",
+        "C": "Semafor Kształtowy Sygnał Sr 2 „Wolna droga” nocny",
+        "D": "Sygnał Rh 3„Hamulce w porządku”: Nocny (Rh 3)"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 13",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "e4252b5b-c76c-4358-ac3a-c7b8962f6a55",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Wskaźniki W 9 W 14 „Wskaźniki odcinka ograniczonej prędkości”",
+        "B": "Sygnał Rm 5 „Odrzucić”",
+        "C": "Sygnał S 1a „Stój - absolutny zakaz wjazdu do tunelu”",
+        "D": "Sygnał Rhs 3 „Hamulce w porządku”:"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 13",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "4abf7fdc-8ceb-4814-83d3-aff0fb0d9abe",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Rd 1 „Nakaz jazdy”: Dzienny",
+        "B": "Sygnał Osp 2 „Urządzenia sygnalizacji na przejeździe, do którego się tarcza odnosi, są sprawne, jazda przez przejazd z największą dozwoloną prędkością”",
+        "C": "Sygnał D 7 „Stój” dawany przez dróżnika przejazdowego w celu zatrzymania pojazdów drogowych zbliżających się do przejazdu: Dzienny",
+        "D": "Wskaźnik W 34 „Wskaźnik końca obowiązywania systemu ERTMS/GSM-R”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 13",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "afcd34cf-42d2-4404-9471-d8b635bdd87a",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał D 7 „Stój” dawany przez dróżnika przejazdowego w celu zatrzymania pojazdów drogowych zbliżających się do przejazdu: Nocny",
+        "B": "Sygnał Rh 3 „Hamulce w porządku”: Dzienny (Rh 3)",
+        "C": "Sygnał Rd 1 „Nakaz jazdy”: Dzienny",
+        "D": "Wskaźnik W ETCS 10 „Wskaźnik zatrzymania ETCS”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 13",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "eb28ba0b-275b-4832-b8a9-677fbeea94fb",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał DO „Za tarczą ostrzegawczą znajduje się tarcza zatrzymania” Dzienny",
+        "B": "Sygnał S 13a „Jazda z prędkością nieprzekraczającą 60 km/h, a przy następnym semaforze – Stój”:",
+        "C": "Sygnał S 1a „Stój - absolutny zakaz wjazdu do tunelu”",
+        "D": "Sygnał D 8 „Dróżnik obecny na przejeździe kolejowo – drogowym lub przejściu”: Dzienny"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 13",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "54b7ddbd-0a59-4e4a-a50a-6c8f772cf640",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Wskaźnik W 17 „Wskaźnik ukresu”",
+        "B": "Wskaźnik Wz 4 „Jazda z ostrza”",
+        "C": "Wskaźnik W 5 „Wskaźnik przetaczania”",
+        "D": "Sygnał D 8 „Dróżnik obecny na przejeździe kolejowo – drogowym lub przejściu”: Nocny"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 13",
+      "section_ref": "§ 13",
+      "section": 13
+    },
+    {
+      "uuid": "c7cac94f-4474-4648-8938-f5fe7f1e2d77",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Rm 2 „Ode mnie”",
+        "B": "Sygnał Pc 2 „Oznaczenie czoła pociągu lub innego pojazdu kolejowego jadącego w kierunku przeciwnym do zasadniczego po torze szlaku dwu- i wielotorowego”: Dzienny i nocny",
+        "C": "Sygnał Pc 1 „Oznaczenie czoła pociągu lub innego pojazdu kolejowego jadącego na szlaku jednotorowym, w kierunku zasadniczym po torze szlaku dwu- i wielotorowego”: Dzienny i nocny",
+        "D": "Sygnał „Semafor wskazuje sygnał „Wjazd ze zmniejszoną prędkością. Następny semafor wskazuje Stój” lub sygnał „Wolna droga ze zmniejszoną prędkością. Następny semafor wskazuje sygnał zezwalający na jazdę”:"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 14",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "686cef48-177a-4f51-918a-d518d0f0965a",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Rm 4 „Stój” Dzienny",
+        "B": "Sygnał Pc 2 „Oznaczenie czoła pociągu lub innego pojazdu kolejowego jadącego w kierunku przeciwnym do zasadniczego po torze szlaku dwu- i wielotorowego”: Dzienny i nocny",
+        "C": "Wskaźnik W ETCS 3 „Wyjazd z obszaru ERTMS/ETCS poziomu 1 LS”",
+        "D": "Sygnał Z 1wk „Stój, wykolejnica na torze” Dzienny i nocny"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 14",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "8d4377ed-d8d3-42a8-ae7d-ec90fce29873",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Pc 3 „Oznaczenia czoła pociągu z pługiem odśnieżnym”: Dzienny i nocny",
+        "B": "Sygnał Tb 1 „Oznaczenia przodu i tyłu pojazdu trakcyjnego wykonującego manewry” Dzienny i nocny",
+        "C": "Wskaźnik Wz 1 „Jazda na wprost”",
+        "D": "Semafor Kształtowy Sygnał Sr 2 „Wolna droga”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 14",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "fdb0f411-ec6c-4b3d-83b5-a1ca124e0b78",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Wskaźnik W 31 „Wskaźnik kasowania",
+        "B": "Sygnał Pc 4 „Oznaczenie czoła pociągu jadącego naprzód wagonami niewyposażonymi w kabinę maszynisty”: Dzienny",
+        "C": "Sygnał D 8 „Dróżnik obecny na przejeździe kolejowo – drogowym lub przejściu”: Nocny",
+        "D": "Sygnał Rp 9 „Przerwać popychanie, pozostać przy pociągu”:"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 14",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "e5e8c18b-84d7-4c9b-b477-3a84b010f778",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Wskaźnik W 29 „Wskaźnik nawiązania łączności”",
+        "B": "Sygnał D 8 „Dróżnik obecny na przejeździe kolejowo – drogowym lub przejściu”: Nocny",
+        "C": "tarcza ostrzegawcza semafora wjazdowego posterunku ruchu, na którym rozpoczyna się odcinek zelektryfikowany (wskaźnik W 11b)",
+        "D": "Sygnał Pc 5 „Oznaczenia końca pociągu lub innego pojazdu kolejowego”: Dzienny"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 14",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "b0a8d4d7-e3ae-40e2-a8df-474b3f8ef7b1",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał D 6 „Zwolnić bieg” Dzienny",
+        "B": "Sygnał Rp 8 „Rozpocząć popychanie”:",
+        "C": "Sygnał Pc 5 „Oznaczenia końca pociągu lub innego pojazdu kolejowego”: Dzienny i nocny",
+        "D": "Sygnał Rt 2 „Pchać powoli”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 14",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "9fcd856f-2359-4c34-b4ee-8f18927ff0bb",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Rhs 3 „Hamulce w porządku”:",
+        "B": "Sygnał Pc 6 „Oznaczenia czoła pociągu z jednoosobową obsadą pojazdu trakcyjnego, zatrzymanego z niewiadomej przyczyny na torze szlaku dwu- lub wielotorowego”:",
+        "C": "Sygnał A2 „Pożar”",
+        "D": "Sygnał Tb 3 „Oznaczenie wagonów pocztowych w pociągach w czasie postoju, podczas załadowywania i wyładowywania poczty” Dzienny"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 14",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "8f2d3eae-d90d-4d80-8851-c778778db83a",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Rm 4 „Stój” Dzienny",
+        "B": "Sygnał Tb 1 „Oznaczenia przodu i tyłu pojazdu trakcyjnego wykonującego manewry” Dzienny i nocny",
+        "C": "Wskaźnik W 25 „Wskaźnik ogrzewania”",
+        "D": "Sygnał Rh 2 „Odhamować”: Dzienny (Rh 2)"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 14",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "388b4953-c5cc-4e2a-bba5-51c003bbf25a",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Wskaźnik W 31 „Wskaźnik kasowania",
+        "B": "Sygnał Rt 3 „Pchać z umiarkowaną prędkością” Dzienny",
+        "C": "Sygnał Tb 2 „Oznaczenie wagonów pocztowych z funkcjonariuszami, wagonów restauracyjnych, sypialnych, jak również innych wagonów specjalnego przeznaczenia oraz wagonów z podróżnymi na stacji, jeżeli te wagony nie są złączone z pociągiem” Dzienny",
+        "D": "Sygnał Od 2 „Semafor wskazuje sygnał Sr 2 lub Sr 3 zezwalający na jazdę” Dzienny"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 14",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "e7f0eec0-3101-4ef1-bb7c-b95493888480",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Tb 2 „Oznaczenie wagonów pocztowych z funkcjonariuszami, wagonów restauracyjnych, sypialnych, jak również innych wagonów specjalnego przeznaczenia oraz wagonów z podróżnymi na stacji, jeżeli te wagony nie są złączone z pociągiem” Dzienny i Nocny",
+        "B": "Wskaźniki We 3b „Wskaźniki podniesienia pantografu”",
+        "C": "Wskaźnik We 1 „Wskaźnik uprzedzający o opuszczeniu pantografu”",
+        "D": "Sygnał PcSp „Skażenie promieniotwórcze pociągu”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 14",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "a9bd8fc9-415e-441c-b3e3-d07cf545a624",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał D 7 „Stój” dawany przez dróżnika przejazdowego w celu zatrzymania pojazdów drogowych zbliżających się do przejazdu: Nocny",
+        "B": "Sygnał Tb 3 „Oznaczenie wagonów pocztowych w pociągach w czasie postoju, podczas załadowywania i wyładowywania poczty” Dzienny",
+        "C": "Wskaźniki W 36 „Wskaźniki ograniczenia prędkości na kierunku zwrotnym",
+        "D": "Sygnał Z 1p „Stój, wjazd pojazdów z nieprzesuwnymi kołami zabroniony” Dzienny i nocny"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 14",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "6d989e5c-d33a-4e51-a6af-e8c9f9a8fe64",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Rm 5 „Odrzucić”",
+        "B": "Sygnał D 6 „Zwolnić bieg” Dzienny",
+        "C": "Sygnał Tb 3 „Oznaczenie wagonów pocztowych w pociągach w czasie postoju, podczas załadowywania i wyładowywania poczty” Nocny",
+        "D": "Sygnał Rt 2 „Pchać powoli” Dzienny i nocny"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 14",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "1e54bd5b-212b-4bd6-9cf0-c73c6d6db6b2",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Tb 3 „Oznaczenie wagonów pocztowych w pociągach w czasie postoju, podczas załadowywania i wyładowywania poczty” Dzienny",
+        "B": "Sygnał PcSp „Skażenie promieniotwórcze pociągu”",
+        "C": "Wskaźnik W 28 „Wskaźnik kanału radiowego”",
+        "D": "Sygnał Ot 1 „Semafor wskazuje sygnał Sr 1 - Stój” Dzienny"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 14",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "6739b757-f315-4b2c-ada4-bfac0f406fba",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał A2 „Pożar”",
+        "B": "Sygnał PcSb „Skażenie biologiczne pociągu”",
+        "C": "Wskaźnik W 24 „Wskaźnik kierunku przeciwnego”",
+        "D": "Sygnał D 1 „Stój” dawany tarczą zatrzymania Nocny"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 14",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "18e308d3-baea-4bef-ac2a-232f91b893b4",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Sp 3 „Semafor wskazuje sygnał zezwalający na jazdę z prędkością nieprzekraczającą 100 km/h”",
+        "B": "Sygnał PcSch „Skażenie chemiczne pociągu”",
+        "C": "Semafor Kształtowy Sygnał Sr 2 „Wolna droga” nocny",
+        "D": "Wskaźnik Wz 5 „Jazda po prostej w prawo”"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 14",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "3511e0a9-cfaa-4c82-b477-a0673fdbc82a",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał A1 „Alarm”",
+        "B": "Sygnał M 1 „Jazda manewrowa zabroniona” Nocny",
+        "C": "Sygnał Rm 3 „Zwolnić” Dzienny",
+        "D": "Sygnał Rd 1 „Nakaz jazdy”: Nocny"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 15",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "e405be5e-985d-4b9b-862d-967c396d5cc0",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał S 10a „Jazda z prędkością nieprzekraczającą 60 km/h, a potem z największą dozwoloną prędkością”",
+        "B": "Sygnał Od 1 „Semafor wskazuje sygnał Sr 1 Stój”  Nocny",
+        "C": "Wskaźnik W ETCS 9 „Wyjazd z obszaru ERTMS/ETCS poziomu 2”",
+        "D": "Sygnał A1 „Alarm”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 15",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "9f85df7a-c614-4e34-8cd2-c6f0caeae37b",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Wskaźnik W 8 „Wskaźnik ograniczenia prędkości”",
+        "B": "Wskaźnik W 21 „Wskaźnik podwyższenia prędkości",
+        "C": "Sygnał A2 „Pożar”",
+        "D": "Wskaźnik Wz 6 „Jazda po prostej w lewo”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 15",
+      "section_ref": "§ 15",
+      "section": 15
+    },
+    {
+      "uuid": "a16c0a85-c75d-4c70-b78b-51b3bba2f6d8",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Wskaźnik Wz 3 „Jazda z ostrza”",
+        "B": "Sygnał D 2 „Stój” dawany ręcznie dzienny",
+        "C": "Wskaźnik Wz 1 „Jazda na wprost”",
+        "D": "Wskaźnik W ETCS 6 „Wyjazd z obszaru ERTMS/ETCS poziomu 1”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "96eea9fb-33a5-4a0b-8033-9f296d11b7da",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał A2 „Pożar”",
+        "B": "Wskaźnik Wz 2 „Jazda na ostrze”",
+        "C": "Sygnał Rp 11 „Wsiadać”",
+        "D": "Wskaźniki We 3b „Wskaźniki podniesienia pantografu”"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "0f1da5ce-d30c-4474-a7f9-45ef49a3fc0c",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał D 6 „Zwolnić bieg” Nocny",
+        "B": "Sygnał Rhs 1 „Zahamować”: Dzienny i nocny (Rhs 1)",
+        "C": "Sygnał Rh 1„Zahamować”: Dzienny (Rh 1)",
+        "D": "Wskaźnik Wz 2 „Jazda na ostrze”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "7dc8997f-ef97-4ad3-bc5e-474318dc9a9c",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Wskaźnik Wz 3 „Jazda z ostrza”",
+        "B": "Wskaźnik W 5 „Wskaźnik przetaczania”",
+        "C": "Sygnał Sp 2 „Semafor wskazuje sygnał zezwalający na jazdę z największą dozwoloną prędkością",
+        "D": "Wskaźniki W 36 „Wskaźniki ograniczenia prędkości na kierunku zwrotnym"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "9b136925-a204-4b9a-bdb4-219dc8cb0eae",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Wskaźnik Wz 4 „Jazda z ostrza”",
+        "B": "Sygnał S 12a „Jazda z prędkością nieprzekraczającą 60 km/h, a przy następnym semaforze – z prędkością zmniejszoną do 40 lub 60 km/h”",
+        "C": "Sygnał Z 2wk „Wykolejnica zdjęta z toru” Dzienny i nocny",
+        "D": "Wskaźnik W 15 „Wskaźnik zmiany lokalizacji”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "2859dd1f-c6d1-43b8-a248-dc7cd878f862",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Wskaźnik Wz 5 „Jazda po prostej w prawo”",
+        "B": "Sygnał Os 1 „Semafor, do którego się tarcza odnosi, wskazuje sygnał Stój”",
+        "C": "Sygnał S 12 „Jazda z prędkością nieprzekraczającą 40 km/h, a przy następnym semaforze – z prędkością nie przekraczającą 40 lub 60 km/h",
+        "D": "Sygnał A1 „Alarm”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "6e28c83c-eaef-4545-83f4-7b401cefcfe1",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Wskaźnik W 3 „Wskaźnik unieważnienia” dzienny",
+        "B": "Wskaźnik Wz 6 „Jazda po prostej w lewo”",
+        "C": "Wskaźnik W 22 „Wskaźnik jazdy pociągu towarowego",
+        "D": "Sygnał Rh 3„Hamulce w porządku”: Nocny (Rh 3)"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "b6b5d146-3630-4170-872a-b744a30a550d",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Wskaźnik W 27a „Wskaźnik zmiany prędkości”",
+        "B": "Sygnał DO „Za tarczą ostrzegawczą znajduje się tarcza zatrzymania” Nocny",
+        "C": "Sygnał D 1 „Stój” dawany tarczą zatrzymania Dzienny",
+        "D": "Wskaźnik Wz 7 „Jazda po łuku w lewo”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "a27a394a-eac6-4efe-bc60-0870c9d6baf5",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Wskaźnik W ETCS 1 „Zapowiedź wjazdu w obszar ERTMS/ETCS poziomu 1 LS”",
+        "B": "Sygnał Z 2wk „Wykolejnica zdjęta z toru” Dzienny i nocny",
+        "C": "Wskaźnik Wz 8 „Jazda po łuku w prawo”",
+        "D": "Wskaźnik We 8c „Wskaźniki jazdy bezprądowej”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "79a08e94-29fb-47fd-b445-26184ecdcd7e",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "tarcza ostrzegawcza semafora wjazdowego posterunku ruchu, na którym rozpoczyna się odcinek zelektryfikowany (wskaźnik W 11b)",
+        "B": "Sygnał PcSb „Skażenie biologiczne pociągu”",
+        "C": "Wskaźnik W 1 „Wskaźnik usytuowania”",
+        "D": "Sygnał Rt 2 „Pchać powoli” Nocny"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "37977c6c-3554-4283-8cfd-98a9bb36ae46",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał S 11a „Jazda z prędkością nieprzekraczającą 60 km/h, a przy następnym semaforze – z prędkością nie przekraczającą 100 km/h”",
+        "B": "Sygnał S 10 „Jazda z prędkością nieprzekraczającą 40 km/h, a potem z największą dozwoloną prędkością”",
+        "C": "Wskaźniki W 2, W 26a, W 26b „Wskaźniki kierunku jazdy”",
+        "D": "Sygnał Os 3 „Semafor, do którego się tarcza odnosi, wskazuje sygnał zezwalający na jazdę z prędkością nieprzekraczającą 100 km/h”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "b6776afb-7341-47be-a545-19cdc7ed17f4",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Rd 1 „Nakaz jazdy”: Nocny",
+        "B": "Sygnał Od 2 „Semafor wskazuje sygnał Sr 2 lub Sr 3 zezwalający na jazdę” Nocny",
+        "C": "Wskaźnik W 3 „Wskaźnik unieważnienia” dzienny",
+        "D": "Sygnał Rh 3 „Hamulce w porządku”: Dzienny (Rh 3)"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "578ad5fe-f593-4534-b8b1-dfb104e147b7",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał PcSp „Skażenie promieniotwórcze pociągu”",
+        "B": "Sygnał Z 2o, Z 2wg „Wjazd dozwolony” Dzienny i nocny",
+        "C": "Sygnał Pc 3 „Oznaczenia czoła pociągu z pługiem odśnieżnym”: Dzienny i nocny",
+        "D": "Wskaźnik W 3 „Wskaźnik unieważnienia”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "16ea665e-5028-4aeb-a609-aa03ee2bf41e",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Wskaźnik W 3 „Wskaźnik unieważnienia” dzienny",
+        "B": "Sygnał S 5 „Następny semafor (wskazuje) nadaje sygnał Stój”",
+        "C": "Wskaźnik W 3 „Wskaźnik unieważnienia”:Dzienny i nocny Białe światło wskaźnika świetlnego",
+        "D": "Sygnał Rp 14 „Odjazd pociągów pasażerskich”  Nocny"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "aa402e61-9c0b-4b6b-bcf7-4c06738f8d00",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Wskaźnik W 4 „Wskaźnik zatrzymania”",
+        "B": "Sygnał zastępczy Sz „Można przejechać obok semafora wskazującego sygnał Sr 1 lub S 1 „Stój” albo sygnał wątpliwy, albo też semafora nieoświetlonego lub przejechać obok sygnalizatora sygnału zastępczego, mającego wyłącznie latarnię ze światłem białym - bez rozkazu pisemnego”",
+        "C": "Sygnał Rt 2 „Pchać powoli” Dzienny i nocny",
+        "D": "Semafor Świetlny: Sygnał S 1 „Stój”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "5c02ef38-3bb4-4cc6-bb32-770b450bb5c4",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Wskaźnik Wz 5 „Jazda po prostej w prawo”",
+        "B": "Wskaźniki We 3b „Wskaźniki podniesienia pantografu”",
+        "C": "Wskaźnik W 5 „Wskaźnik przetaczania”",
+        "D": "Sygnał S 5 „Następny semafor (wskazuje) nadaje sygnał Stój”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "b222d86e-305d-4b65-be3b-027529418c78",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał DO „Za tarczą ostrzegawczą znajduje się tarcza zatrzymania” Dzienny",
+        "B": "Sygnał M 1 „Jazda manewrowa zabroniona” Dzienny",
+        "C": "Wskaźnik Wz 7 „Jazda po łuku w lewo”",
+        "D": "Wskaźnik W 6 „Wskaźnik ostrzegania”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "95ff0b41-c43a-49f2-84c2-f0cdd9259701",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał zastępczy Sz „Można przejechać obok semafora wskazującego sygnał Sr 1 lub S 1 „Stój” albo sygnał wątpliwy, albo też semafora nieoświetlonego lub przejechać obok sygnalizatora sygnału zastępczego, mającego wyłącznie latarnię ze światłem białym - bez rozkazu pisemnego”",
+        "B": "Sygnał Rm 4 „Stój”",
+        "C": "Sygnał Rh 3„Hamulce w porządku”: Nocny (Rh 3)",
+        "D": "Wskaźnik W 6a „Wskaźnik przejazdowy” oznacza, że za wskaźnikiem znajduje się przejazd kolejowo – drogowy lub przejście wyposażone w półsamoczynny lub samoczynny system przejazdowy, powiązany lub uzależniony w urządzeniach stacyjnych, zabezpieczający całą szerokość przejazdu kolejowo – drogowego lub przejścia."
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "512a2f09-5d66-41d1-aa0b-7f4d2acb9265",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Wskaźnik W 17 „Wskaźnik ukresu”",
+        "B": "Wskaźnik W 6b „Wskaźnik ostrzegania przed przejazdem kolejowo – drogowym lub przejściem” oznacza, że za wskaźnikiem znajduje się przejazd kolejowo – drogowy lub przejście wyposażone w półsamoczynny lub samoczynny system przejazdowy, bez powiązania lub uzależnienia w urządzeniach stacyjnych, albo niewyposażone w urządzenia zabezpieczenia ruchu, i należy podać sygnał Rp 1 „Baczność”.",
+        "C": "Sygnał Sp 3 „Semafor wskazuje sygnał zezwalający na jazdę z prędkością nieprzekraczającą 100 km/h”",
+        "D": "Sygnał Os 2 „Semafor, do którego się tarcza odnosi, wskazuje sygnał zezwalający na jazdę z największą dozwoloną prędkością"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "c28d4ca6-be0b-4daf-af7c-4b6aa255de85",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Rp 7 „Odhamować”:",
+        "B": "wskaźnik W 7 „Wskaźnik robót torowych” oznacza, że należy podać sygnał Rp 1 „Baczność” ze względu na prowadzone roboty torowe.",
+        "C": "Wskaźnik W 15 „Wskaźnik zmiany lokalizacji”",
+        "D": "Sygnał D 1 „Stój” dawany tarczą zatrzymania Dzienny"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 12",
+      "section_ref": "§ 12",
+      "section": 12
+    },
+    {
+      "uuid": "1084b83b-196a-4260-bc85-bae36932cc2c",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Rm 1 „Do mnie” Nocny",
+        "B": "Wskaźnik W 8 „Wskaźnik ograniczenia prędkości”",
+        "C": "Sygnał Z 1 „Stój” Dzienny i nocny",
+        "D": "Sygnał Rm 1 „Do mnie” Dzienny"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "9c35f19e-22a2-445e-aed3-0f1e543a0ae4",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał PcSp „Skażenie promieniotwórcze pociągu”",
+        "B": "Sygnał Rhs 2 „Odhamować”: Dzienny i nocny (Rhs 2)",
+        "C": "Wskaźnik W 13 „Wskaźnik torowy”",
+        "D": "Wskaźniki W 9 W 14 „Wskaźniki odcinka ograniczonej prędkości”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "ce132139-b997-4bbc-ab00-11fb534047eb",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Pc 6 „Oznaczenia czoła pociągu z jednoosobową obsadą pojazdu trakcyjnego, zatrzymanego z niewiadomej przyczyny na torze szlaku dwu- lub wielotorowego”:",
+        "B": "Sygnał Rm 5 „Odrzucić”",
+        "C": "Wskaźnik W 6a „Wskaźnik przejazdowy” oznacza, że za wskaźnikiem znajduje się przejazd kolejowo – drogowy lub przejście wyposażone w półsamoczynny lub samoczynny system przejazdowy, powiązany lub uzależniony w urządzeniach stacyjnych, zabezpieczający całą szerokość przejazdu kolejowo – drogowego lub przejścia.",
+        "D": "Wskaźniki W 10a i W 10 b „Wskaźniki odcinka z popychaniem”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "2d21d75b-b7bf-4499-b461-493f53945c6e",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał S 8 „Jazda z prędkością nieprzekraczającą 100 km/h, a przy następnym semaforze z prędkością zmniejszoną do 40 lub 60 km/h”",
+        "B": "Wskaźnik We 3a„Wskaźniki podniesienia pantografu”",
+        "C": "tarcza ostrzegawcza semafora wjazdowego lub odstępowego albo semafor, którego obrazy sygnałowe mogą nie być widoczne w sposób ciągły z wymaganej odległości (wskaźnik W 11a)",
+        "D": "Sygnał S 1 „Stój”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "768bc3e4-d52e-4fe2-b31d-3c825ae39b10",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Rd 1 „Nakaz jazdy”: Nocny",
+        "B": "Wskaźnik W 24 „Wskaźnik kierunku przeciwnego”",
+        "C": "Sygnał D 1 „Stój” dawany tarczą zatrzymania Dzienny",
+        "D": "tarcza ostrzegawcza semafora wjazdowego lub odstępowego albo semafor, którego obrazy sygnałowe mogą nie być widoczne w sposób ciągły z wymaganej odległości (wskaźnik W 11a)"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "006117ad-8747-4d12-a453-96fd3c13d89d",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "tarcza ostrzegawcza semafora wjazdowego posterunku ruchu, na którym rozpoczyna się odcinek zelektryfikowany (wskaźnik W 11b)",
+        "B": "wskaźnik W 7 „Wskaźnik robót torowych” oznacza, że należy podać sygnał Rp 1 „Baczność” ze względu na prowadzone roboty torowe.",
+        "C": "Wskaźnik W ETCS 3 „Wyjazd z obszaru ERTMS/ETCS poziomu 1 LS”",
+        "D": "Wskaźnik W 3 „Wskaźnik unieważnienia”:Dzienny i nocny Białe światło wskaźnika świetlnego"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "f08a7812-e92c-4958-9bad-624d58456d4d",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał A1 „Alarm”",
+        "B": "Semafor Kształtowy Sygnał Sr 2 „Wolna droga” nocny",
+        "C": "Sygnał D 3 „Stój” – dźwiękowy",
+        "D": "tarcza ostrzegawcza semafora wjazdowego posterunku ruchu, na którym rozpoczyna się odcinek zelektryfikowany (wskaźnik W 11b)"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "0f001ca5-1931-40bf-8066-4895c2e1a363",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Od 1 „Semafor wskazuje sygnał Sr 1 Stój”  Nocny",
+        "B": "Wskaźnik W 11p „Wskaźnik przejazdowy”",
+        "C": "Sygnał Rhs 2 „Odhamować”: Dzienny i nocny (Rhs 2)",
+        "D": "Sygnał „Wolna droga ze zmniejszoną prędkością” lub „Wolna droga ze zmniejszoną prędkością. Następny semafor nadaje sygnał zezwalający na jazdę”:"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "419d0cb5-7ef6-4eef-8934-b058c8137736",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Pc 2 „Oznaczenie czoła pociągu lub innego pojazdu kolejowego jadącego w kierunku przeciwnym do zasadniczego po torze szlaku dwu- i wielotorowego”: Dzienny i nocny",
+        "B": "Wskaźnik W 12 „Wskaźnik parowozowy”",
+        "C": "Wskaźnik W 30 „Wskaźnik ważenia składu”",
+        "D": "Sygnał D 1 „Stój” dawany tarczą zatrzymania Nocny"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "55ef4c1a-5041-4460-ae13-f2a0d25ef423",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Rh 2 „Odhamować”: Dzienny (Rh 2)",
+        "B": "Sygnał Rh 3„Hamulce w porządku”: Nocny (Rh 3)",
+        "C": "Wskaźnik W 13 „Wskaźnik torowy”",
+        "D": "Rt 4 „Cofnąć” Dzienny i nocny"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "af5921b8-313f-474f-ae17-9129457f62ef",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Wskaźnik We 2c „Wskaźniki opuszczenia pantografu”",
+        "B": "Wskaźnik W 15 „Wskaźnik zmiany lokalizacji”",
+        "C": "Wskaźnik W 3 „Wskaźnik unieważnienia” dzienny",
+        "D": "Sygnał Pc 5 „Oznaczenia końca pociągu lub innego pojazdu kolejowego”: Dzienny"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "b41f3a4d-b905-44ee-a713-b4aed41e13cd",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Wskaźnik We 4b „Wskaźniki zakazu wjazdu elektrycznych pojazdów trakcyjnych”",
+        "B": "Na sygnalizatorze powtarzającym można do odwołania stosować następujący sygnał: Sygnał „Semafor wskazuje sygnał zezwalający na jazdę ze zmniejszoną prędkością”:",
+        "C": "Wskaźnik W ETCS 1 „Zapowiedź wjazdu w obszar ERTMS/ETCS poziomu 1 LS”",
+        "D": "Wskaźnik W 16 „Wskaźnik przystanku osobowego”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "087199ab-cdfa-42aa-ade7-1a5dbb07a3a4",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Wskaźnik W ETCS 9 „Wyjazd z obszaru ERTMS/ETCS poziomu 2”",
+        "B": "Semafor kształtowy sygnał Sr 1 „Stój”",
+        "C": "Wskaźnik W 17 „Wskaźnik ukresu”",
+        "D": "Sygnał DO „Za tarczą ostrzegawczą znajduje się tarcza zatrzymania” Nocny"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "a1d6247b-77fb-4ecc-b3f1-a1490d1f4519",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał On „W odległości drogi hamowania znajduje się semafor” Dzienny",
+        "B": "Sygnał Tb 3 „Oznaczenie wagonów pocztowych w pociągach w czasie postoju, podczas załadowywania i wyładowywania poczty” Nocny",
+        "C": "Sygnał Rh 1„Zahamować”: Nocny (Rh 1)",
+        "D": "Wskaźnik W 18 „Wskaźnik samoczynnej blokady liniowej”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "23f24ab4-6111-46f7-8796-f2ef0eca2ffa",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał A1 „Alarm”",
+        "B": "Sygnał PcSb „Skażenie biologiczne pociągu”",
+        "C": "Wskaźniki We 3b „Wskaźniki podniesienia pantografu”",
+        "D": ") Wskaźnik W 19 „Wskaźnik uprzedzający o braku drogi hamowania”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "e7d4f9cd-3386-4cd8-8f51-8aac444ba1da",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Rt 3 „Pchać z umiarkowaną prędkością” Dzienny i Nocny",
+        "B": "Wskaźnik W 24 „Wskaźnik kierunku przeciwnego”",
+        "C": "Sygnał M 2 „Jazda manewrowa dozwolona” Dzienny",
+        "D": "Wskaźnik W 20 „Wskaźnik braku drogi hamowania”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "47ede673-028c-455d-9f97-e7edb2d7c9f7",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał S 6 „Jazda z prędkością nieprzekraczającą 100 km/h, a potem z największą dozwoloną prędkością”",
+        "B": "Sygnał Rm 1 „Do mnie”",
+        "C": "Wskaźnik We 1 „Wskaźnik uprzedzający o opuszczeniu pantografu”",
+        "D": "Wskaźnik W 21 „Wskaźnik podwyższenia prędkości"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "7ad9ae42-e295-4102-8ae2-846cdb2a1f0a",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Wskaźnik W ETCS 1 „Zapowiedź wjazdu w obszar ERTMS/ETCS poziomu 1 LS”",
+        "B": "Sygnał Rp 1 „Baczność”",
+        "C": "Wskaźnik W 22 „Wskaźnik jazdy pociągu towarowego",
+        "D": "Wskaźnik W 13 „Wskaźnik torowy”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "923c95f8-f999-4d6c-b80d-cfefe0bd422d",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Wskaźnik W 23 „Wskaźnik odcinka izolowanego”",
+        "B": "Sygnał Pc 3 „Oznaczenia czoła pociągu z pługiem odśnieżnym”: Dzienny i nocny",
+        "C": "Sygnał Ot 1 „Semafor wskazuje sygnał Sr 1 - Stój” Dzienny",
+        "D": "Wskaźnik W 1 „Wskaźnik usytuowania”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "12d4409e-354c-484d-82e2-c50b19eabc27",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Tb 2 „Oznaczenie wagonów pocztowych z funkcjonariuszami, wagonów restauracyjnych, sypialnych, jak również innych wagonów specjalnego przeznaczenia oraz wagonów z podróżnymi na stacji, jeżeli te wagony nie są złączone z pociągiem” Dzienny",
+        "B": "Wskaźnik W 24 „Wskaźnik kierunku przeciwnego”",
+        "C": "Sygnał Rh 2 „Odhamować”: Dzienny (Rh 2)",
+        "D": "Sygnał Sp 2 „Semafor wskazuje sygnał zezwalający na jazdę z największą dozwoloną prędkością"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "f51db983-f087-46fb-8c7d-9e55364a053e",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Wskaźnik W 25 „Wskaźnik ogrzewania”",
+        "B": "Sygnał On „W odległości drogi hamowania znajduje się semafor” Nocny",
+        "C": "Wskaźnik W 11p „Wskaźnik przejazdowy”",
+        "D": "Sygnał Rp 9 „Przerwać popychanie, pozostać przy pociągu”:"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "65b0a118-d5aa-4544-a92f-a5b2fdcdd2da",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Wskaźnik W 6a „Wskaźnik przejazdowy” oznacza, że za wskaźnikiem znajduje się przejazd kolejowo – drogowy lub przejście wyposażone w półsamoczynny lub samoczynny system przejazdowy, powiązany lub uzależniony w urządzeniach stacyjnych, zabezpieczający całą szerokość przejazdu kolejowo – drogowego lub przejścia.",
+        "B": "Sygnał Rm 3 „Zwolnić”",
+        "C": "Wskaźnik W 22 „Wskaźnik jazdy pociągu towarowego",
+        "D": "Wskaźnik W 27a „Wskaźnik zmiany prędkości”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "fed6ab4a-e1cf-4b4d-a8bd-f9a7cf4b7752",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Na sygnalizatorze powtarzającym można do odwołania stosować następujący sygnał: Sygnał „Semafor wskazuje sygnał zezwalający na jazdę ze zmniejszoną prędkością”:",
+        "B": "Wskaźnik W 17 „Wskaźnik ukresu”",
+        "C": "Sygnał Rm 2 „Ode mnie” Dzienny",
+        "D": "Wskaźnik W 28 „Wskaźnik kanału radiowego”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "9c4d42d8-9ed2-4933-8d69-0735ac6ba04f",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Wskaźnik W 6 „Wskaźnik ostrzegania”",
+        "B": "Sygnał S 4 „Następny semafor wskazuje sygnał zezwalający na jazdę z prędkością zmniejszoną do 40 lub 60 km/h”",
+        "C": "Wskaźnik W 29 „Wskaźnik nawiązania łączności”",
+        "D": "Sygnał PcSp „Skażenie promieniotwórcze pociągu”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "82bb7640-04ba-417e-947e-56a9145a8a45",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Wskaźnik We 2c „Wskaźniki opuszczenia pantografu”",
+        "B": "Sygnał zastępczy Sz „Można przejechać obok semafora wskazującego sygnał Sr 1 lub S 1 „Stój” albo sygnał wątpliwy, albo też semafora nieoświetlonego lub przejechać obok sygnalizatora sygnału zastępczego, mającego wyłącznie latarnię ze światłem białym - bez rozkazu pisemnego”",
+        "C": "Sygnał Rt 2 „Pchać powoli” Dzienny i nocny",
+        "D": "Wskaźnik W 30 „Wskaźnik ważenia składu”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "ec10a8a1-ab12-4504-836d-2c958f84cd64",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Os 3 „Semafor, do którego się tarcza odnosi, wskazuje sygnał zezwalający na jazdę z prędkością nieprzekraczającą 100 km/h”",
+        "B": "Wskaźnik W 31 „Wskaźnik kasowania",
+        "C": "Sygnał Rh 1„Zahamować”: Dzienny (Rh 1)",
+        "D": "Wskaźnik W 22 „Wskaźnik jazdy pociągu towarowego"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "d0356431-2923-4187-9d26-c658b4bf9f4a",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Rm 2 „Ode mnie”",
+        "B": "Wskaźnik W 32 „Wskaźnik czoła pociągu”",
+        "C": "Wskaźnik W ETCS 2 „Wjazd w obszar ERTMS/ETCS poziomu 1 LS”",
+        "D": "Sygnał S 9 „Jazda z prędkością nieprzekraczającą 100 km/h, a przy następnym semaforze – Stój”"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "18bbad02-4364-4f32-86d2-212ffd9cc984",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Ot 3 „Semafor wskazuje sygnał Sr 3 – Wolna droga ze zmniejszoną prędkością” Nocny",
+        "B": "Sygnał Rp 14 „Odjazd pociągów pasażerskich”  Nocny",
+        "C": "Rt 4 „Cofnąć” Dzienny i nocny",
+        "D": "Wskaźnik W 33 „Wskaźnik początku obowiązywania systemu ERTMS/GSM-R"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "2c8a856b-6af2-4f96-b3b2-deb9700b3c9f",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Osp 1 „Urządzenia sygnalizacji na przejeździe, do którego się tarcza odnosi, są niesprawne, jazda przez przejazd z prędkością 20 km/h”",
+        "B": "Sygnał Os 4 „Semafor, do którego się tarcza odnosi, wskazuje sygnał zezwalający na jazdę z prędkością zmniejszoną do 40 lub 60 km/h”",
+        "C": "Sygnał S 12a „Jazda z prędkością nieprzekraczającą 60 km/h, a przy następnym semaforze – z prędkością zmniejszoną do 40 lub 60 km/h”",
+        "D": "Wskaźnik W 34 „Wskaźnik końca obowiązywania systemu ERTMS/GSM-R”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "a2c0b93a-b113-43b0-a60e-ec42f751131c",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Pc 2 „Oznaczenie czoła pociągu lub innego pojazdu kolejowego jadącego w kierunku przeciwnym do zasadniczego po torze szlaku dwu- i wielotorowego”: Dzienny i nocny",
+        "B": "Sygnał Ot 3 „Semafor wskazuje sygnał Sr 3 – Wolna droga ze zmniejszoną prędkością” Dzienny",
+        "C": "Wskaźnik W 35„Wskaźniki ograniczenia prędkości na kierunku zwrotnym",
+        "D": "Wskaźnik Wz 7 „Jazda po łuku w lewo”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "5d8fb7e7-be4d-4e12-985f-79cb5909f216",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Wskaźniki W 36 „Wskaźniki ograniczenia prędkości na kierunku zwrotnym",
+        "B": "Wskaźnik W 15 „Wskaźnik zmiany lokalizacji”",
+        "C": "Sygnał Z 2 „Jazda dozwolona” Dzienny i nocny",
+        "D": "Sygnał Rh 2„Odhamować”: Nocny (Rh 2)"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "2580ff2d-501b-4dd7-a854-4ec9c18251fb",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Wskaźnik We 1 „Wskaźnik uprzedzający o opuszczeniu pantografu”",
+        "B": "Sygnał Os 1 „Semafor, do którego się tarcza odnosi, wskazuje sygnał Stój”",
+        "C": "Sygnał PcSb „Skażenie biologiczne pociągu”",
+        "D": "Wskaźnik W 18 „Wskaźnik samoczynnej blokady liniowej”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "f4fad01d-9aed-4b50-8f15-ba13a60a8a33",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Wskaźnik Wz 8 „Jazda po łuku w prawo”",
+        "B": "Sygnał D 6 „Zwolnić bieg” Nocny",
+        "C": "Wskaźniki W 9 W 14 „Wskaźniki odcinka ograniczonej prędkości”",
+        "D": "Wskaźnik We 2c „Wskaźniki opuszczenia pantografu”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "c23d068c-4123-4b70-8daa-36818480aa6b",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Rh 2 „Odhamować”: Dzienny (Rh 2)",
+        "B": "Sygnał D 2 „Stój” dawany ręcznie dzienny",
+        "C": "Wskaźnik We 2b „Wskaźniki opuszczenia pantografu”",
+        "D": "Sygnał „Wolna droga. Następny semafor wskazuje sygnał zezwalający na jazdę ze zmniejszoną prędkością”:"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "6a4e1f76-99cd-4c71-a943-e1344d225c3a",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Sp 4 „Semafor wskazuje sygnał zezwalający na jazdę z prędkością zmniejszoną do 40 lub 60 km/h”",
+        "B": "Sygnał Rt 3 „Pchać z umiarkowaną prędkością” Nocny",
+        "C": "Wskaźnik We 2a„Wskaźniki opuszczenia pantografu”",
+        "D": "Sygnał Rm 6 „Docisnąć”  Nocny"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "dbf6bc2a-cffd-4591-9262-e83024b0b7e1",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Semafor Kształtowy Sygnał Sr 3 „Wolna droga ze zmniejszoną prędkością” Nocny",
+        "B": "Wskaźnik W 24 „Wskaźnik kierunku przeciwnego”",
+        "C": "Sygnał D 6 „Zwolnić bieg” Dzienny",
+        "D": "Wskaźnik We 3a„Wskaźniki podniesienia pantografu”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "b8c61b1c-30e0-45f2-a9b2-fc249525efc1",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Wskaźniki We 3b „Wskaźniki podniesienia pantografu”",
+        "B": "Wskaźnik W 20 „Wskaźnik braku drogi hamowania”",
+        "C": "Wskaźnik We 8a„Wskaźniki jazdy bezprądowej”",
+        "D": "Wskaźnik Wz 2 „Jazda na ostrze”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "d5cf2266-959c-420e-a0b1-9fef6554d185",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Wskaźnik W 21wg",
+        "B": "Wskaźnik We 4a„Wskaźniki zakazu wjazdu elektrycznych pojazdów trakcyjnych”",
+        "C": "Wskaźnik We 4c „Wskaźniki zakazu wjazdu elektrycznych pojazdów trakcyjnych”",
+        "D": "Sygnał D 1 „Stój” dawany tarczą zatrzymania Dzienny"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "0067b7b1-32f8-427b-99c0-3660b03bf37b",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Wskaźnik W 8 „Wskaźnik ograniczenia prędkości”",
+        "B": "Sygnał Rt 2 „Pchać powoli”",
+        "C": "Wskaźnik We 4b „Wskaźniki zakazu wjazdu elektrycznych pojazdów trakcyjnych”",
+        "D": "Sygnał M 2 „Jazda manewrowa dozwolona” Dzienny"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "9b0b7d07-22de-4b3c-9185-0db3193c3e51",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Wskaźnik We 4c „Wskaźniki zakazu wjazdu elektrycznych pojazdów trakcyjnych”",
+        "B": "tarcza ostrzegawcza semafora wjazdowego lub odstępowego albo semafor, którego obrazy sygnałowe mogą nie być widoczne w sposób ciągły z wymaganej odległości (wskaźnik W 11a)",
+        "C": "Sygnał Sp 1 „Semafor wskazuje sygnał Sr 1 lub S 1 Stój”",
+        "D": "Wskaźnik W 6b „Wskaźnik ostrzegania przed przejazdem kolejowo – drogowym lub przejściem” oznacza, że za wskaźnikiem znajduje się przejazd kolejowo – drogowy lub przejście wyposażone w półsamoczynny lub samoczynny system przejazdowy, bez powiązania lub uzależnienia w urządzeniach stacyjnych, albo niewyposażone w urządzenia zabezpieczenia ruchu, i należy podać sygnał Rp 1 „Baczność”."
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "e879a6cf-ab2f-4db7-9844-2123659bc88d",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Rm 5 „Odrzucić” Dzienny",
+        "B": "Wskaźnik We 8a„Wskaźniki jazdy bezprądowej”",
+        "C": "Sygnał Świetlny: Sygnał S 3 „Jazda z największą dozwoloną prędkością – w przodzie są dwa odstępy blokowe wolne – albo przy następnym semaforze z prędkością nie większą niż 100 km/h”",
+        "D": "Wskaźnik Wz 6 „Jazda po prostej w lewo”"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "0a44bb9a-64c0-4fd2-a015-a0bfaf7958d5",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Wskaźnik We 8b „Wskaźniki jazdy bezprądowej”",
+        "B": "Sygnał Rp 11 „Wsiadać”",
+        "C": "Sygnał Rm 2 „Ode mnie”",
+        "D": "Wskaźnik We 1 „Wskaźnik uprzedzający o opuszczeniu pantografu”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "51a7f498-7110-436b-b756-8c614eea1b23",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Wskaźnik We 8c „Wskaźniki jazdy bezprądowej”",
+        "B": "Sygnał PcSp „Skażenie promieniotwórcze pociągu”",
+        "C": "Wskaźnik We 8b „Wskaźniki jazdy bezprądowej”",
+        "D": "Sygnał Rm 5 „Odrzucić” Dzienny"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "7c8bd92c-787c-464d-8ae4-e7536df1129f",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Wskaźnik W ETCS 10 „Wskaźnik zatrzymania ETCS”",
+        "B": "Sygnał D 7 „Stój” dawany przez dróżnika przejazdowego w celu zatrzymania pojazdów drogowych zbliżających się do przejazdu: Nocny",
+        "C": "Wskaźnik W ETCS 1 „Zapowiedź wjazdu w obszar ERTMS/ETCS poziomu 1 LS”",
+        "D": "Wskaźnik W ETCS 5 „Wjazd w obszar ERTMS/ETCS poziomu 1”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "de2c67d2-776e-4066-abf3-d3ad98a56b75",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Od 1 „Semafor wskazuje sygnał Sr 1 Stój”  Nocny",
+        "B": "Sygnał Rh 3 „Hamulce w porządku”: Dzienny (Rh 3)",
+        "C": "Wskaźnik W ETCS 2 „Wjazd w obszar ERTMS/ETCS poziomu 1 LS”",
+        "D": "Wskaźnik W ETCS 4 „Zapowiedź wjazdu w obszar ERTMS/ETCS poziomu 1"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "34416a3e-a468-4359-9f1a-f7469cd15c6b",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Wskaźnik W 18 „Wskaźnik samoczynnej blokady liniowej”",
+        "B": "Wskaźnik W 31 „Wskaźnik kasowania",
+        "C": "Wskaźnik W 17 „Wskaźnik ukresu”",
+        "D": "Wskaźnik W ETCS 3 „Wyjazd z obszaru ERTMS/ETCS poziomu 1 LS”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "a4dbf7d8-e57b-4cea-ba4b-d6fc6d0c0a54",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Rp 6 „Odhamować średnio”",
+        "B": "Wskaźnik W ETCS 4 „Zapowiedź wjazdu w obszar ERTMS/ETCS poziomu 1",
+        "C": "Wskaźnik We 8c „Wskaźniki jazdy bezprądowej”",
+        "D": "Sygnał zastępczy Sz „Można przejechać obok semafora wskazującego sygnał Sr 1 lub S 1 „Stój” albo sygnał wątpliwy, albo też semafora nieoświetlonego lub przejechać obok sygnalizatora sygnału zastępczego, mającego wyłącznie latarnię ze światłem białym - bez rozkazu pisemnego”"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "43d4a4d0-7c32-47f7-8702-bfde3f42698f",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Rh 2 „Odhamować”: Dzienny (Rh 2)",
+        "B": "Sygnał Rm 5 „Odrzucić” Nocny",
+        "C": "Wskaźnik W ETCS 5 „Wjazd w obszar ERTMS/ETCS poziomu 1”",
+        "D": "Wskaźnik W 17 „Wskaźnik ukresu”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "0dfc5867-0c6a-4ffc-9db3-9656d77b73e4",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Wskaźniki W 9 W 14 „Wskaźniki odcinka ograniczonej prędkości”",
+        "B": "Wskaźnik W ETCS 6 „Wyjazd z obszaru ERTMS/ETCS poziomu 1”",
+        "C": "Sygnał Rm 6 „Docisnąć”",
+        "D": "Wskaźnik W ETCS 9 „Wyjazd z obszaru ERTMS/ETCS poziomu 2”"
+      },
+      "correct": "B",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "4aabe1d8-c781-4d75-85bf-69ee3b7e1c7d",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Semafor Świetlny: Sygnał S 1 „Stój”",
+        "B": "Sygnał Rh 3„Hamulce w porządku”: Nocny (Rh 3)",
+        "C": "Wskaźnik W ETCS 7 „Zapowiedź wjazdu w obszar ERTMS/ETCS poziomu 2”",
+        "D": "Wskaźnik W 6 „Wskaźnik ostrzegania”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "6c3f39f3-c02b-4de9-9d4b-7f8a632143ba",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "tarcza ostrzegawcza semafora wjazdowego lub odstępowego albo semafor, którego obrazy sygnałowe mogą nie być widoczne w sposób ciągły z wymaganej odległości (wskaźnik W 11a)",
+        "B": "Sygnał S 10a „Jazda z prędkością nieprzekraczającą 60 km/h, a potem z największą dozwoloną prędkością”",
+        "C": "Wskaźnik W 8 „Wskaźnik ograniczenia prędkości”",
+        "D": "Wskaźnik W ETCS 8 „Wjazd w obszar ERTMS/ETCS poziomu 2”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "1b449d78-3166-451f-ba41-46999c5ca2c1",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Wskaźnik W ETCS 9 „Wyjazd z obszaru ERTMS/ETCS poziomu 2”",
+        "B": "Sygnał Od 1 „Semafor wskazuje sygnał Sr 1 Stój”  Nocny",
+        "C": "tarcza ostrzegawcza semafora wjazdowego posterunku ruchu, na którym rozpoczyna się odcinek zelektryfikowany (wskaźnik W 11b)",
+        "D": "Sygnał Rp 9 „Przerwać popychanie, pozostać przy pociągu”:"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "a750cc08-0e1b-45e9-99af-f46ffb2adbd3",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał Pc 1 „Oznaczenie czoła pociągu lub innego pojazdu kolejowego jadącego na szlaku jednotorowym, w kierunku zasadniczym po torze szlaku dwu- i wielotorowego”: Dzienny i nocny",
+        "B": "Sygnał Od 1 „Semafor wskazuje sygnał Sr 1 Stój”  Nocny",
+        "C": "Wskaźnik W ETCS 10 „Wskaźnik zatrzymania ETCS”",
+        "D": "Sygnał D 2 „Stój” dawany ręcznie dzienny"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 16",
+      "section_ref": "§ 16",
+      "section": 16
+    },
+    {
+      "uuid": "19beba17-f698-4271-bb1f-8ebddd53b635",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał Rh 2 „Odhamować”: Dzienny (Rh 2)",
+        "B": "Sygnał Rp 4 „Hamować średnio”:",
+        "C": "Sygnał Rm 5 „Odrzucić” Nocny",
+        "D": "Sygnał S 1a „Stój - absolutny zakaz wjazdu do tunelu”"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "7c7f36ae-2936-4310-80ff-2189eaabf302",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Rp 11 „Wsiadać”",
+        "B": "Wskaźnik W 11p „Wskaźnik przejazdowy”",
+        "C": "Sygnał Sp 2 „Semafor wskazuje sygnał zezwalający na jazdę z największą dozwoloną prędkością",
+        "D": "Wskaźnik W 21wg"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 17",
+      "section_ref": "§ 17",
+      "section": 17
+    },
+    {
+      "uuid": "4a4b41c7-5bbb-4df1-a8fa-8a40d6be140b",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Sygnał Pc 5-LHS „Oznaczenie końca pociągu” Dzienny i nocny",
+        "B": "Sygnał Świetlny: Sygnał S 3 „Jazda z największą dozwoloną prędkością – w przodzie są dwa odstępy blokowe wolne – albo przy następnym semaforze z prędkością nie większą niż 100 km/h”",
+        "C": "Sygnał DO „Za tarczą ostrzegawczą znajduje się tarcza zatrzymania” Dzienny",
+        "D": "Wskaźnik W 21 „Wskaźnik podwyższenia prędkości"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 14",
+      "section_ref": "§ 14",
+      "section": 14
+    },
+    {
+      "uuid": "9b1e214b-8db9-4513-a645-930a833e494a",
+      "question": "Co przedstawia ta ilustracja?",
+      "answers": {
+        "A": "Sygnał „Wolna droga ze zmniejszoną prędkością” lub „Wolna droga ze zmniejszoną prędkością. Następny semafor nadaje sygnał zezwalający na jazdę”:",
+        "B": "Sygnał Rt 3 „Pchać z umiarkowaną prędkością” Nocny",
+        "C": "Sygnał Rh 1„Zahamować”: Dzienny (Rh 1)",
+        "D": "Na sygnalizatorze powtarzającym można do odwołania stosować następujący sygnał: Sygnał „Semafor wskazuje sygnał zezwalający na jazdę ze zmniejszoną prędkością”:"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "3b3cf58d-91e8-4905-882b-4499f3345bbe",
+      "question": "Jaki sygnał lub wskaźnik widać na obrazku?",
+      "answers": {
+        "A": "Sygnał „Wolna droga. Następny semafor wskazuje sygnał zezwalający na jazdę ze zmniejszoną prędkością”:",
+        "B": "Sygnał Rm 4 „Stój” Nocny",
+        "C": "tarcza ostrzegawcza semafora wjazdowego lub odstępowego albo semafor, którego obrazy sygnałowe mogą nie być widoczne w sposób ciągły z wymaganej odległości (wskaźnik W 11a)",
+        "D": "Sygnał PcSb „Skażenie biologiczne pociągu”"
+      },
+      "correct": "A",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "bf934fe2-ecc1-4a6c-ba2d-675d5d70f132",
+      "question": "Co pokazano na rysunku?",
+      "answers": {
+        "A": "Sygnał Od 2 „Semafor wskazuje sygnał Sr 2 lub Sr 3 zezwalający na jazdę” Nocny",
+        "B": "Sygnał „Wolna droga. Następny semafor wskazuje sygnał zezwalający na jazdę ze zmniejszoną prędkością”:",
+        "C": "Sygnał M 2 „Jazda manewrowa dozwolona” Dzienny",
+        "D": "Sygnał „Semafor wskazuje sygnał „Wjazd ze zmniejszoną prędkością. Następny semafor wskazuje Stój” lub sygnał „Wolna droga ze zmniejszoną prędkością. Następny semafor wskazuje sygnał zezwalający na jazdę”:"
+      },
+      "correct": "D",
+      "explanation": "IE-1 § 3",
+      "section_ref": "§ 3",
+      "section": 3
+    },
+    {
+      "uuid": "96c2ab90-a238-48f1-ba52-6131ec87db20",
+      "question": "Co znajduje się na tym obrazku?",
+      "answers": {
+        "A": "Wskaźniki W 2, W 26a, W 26b „Wskaźniki kierunku jazdy”",
+        "B": "Wskaźniki W 9 W 14 „Wskaźniki odcinka ograniczonej prędkości”",
+        "C": "Na sygnalizatorze powtarzającym można do odwołania stosować następujący sygnał: Sygnał „Semafor wskazuje sygnał zezwalający na jazdę ze zmniejszoną prędkością”:",
+        "D": "Wskaźniki W 10a i W 10 b „Wskaźniki odcinka z popychaniem”"
+      },
+      "correct": "C",
+      "explanation": "IE-1 § 10",
+      "section_ref": "§ 10",
+      "section": 10
+    }
+  ]
 }
